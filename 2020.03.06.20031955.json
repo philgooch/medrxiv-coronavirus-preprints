@@ -1,0 +1,563 @@
+{
+    "filename": "2020.03.06.20031955.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 1105391,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.06.20031955",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/08/2020.03.06.20031955.full.pdf"
+        },
+        "title": "Transmission of corona virus disease 2019 during the incubation period may lead to a quarantine loophole",
+        "author": "Wei Xia, Jiaqiang Liao, Chunhui Li, Yuanyuan Li, Xi Qian, Xiaojie Sun, Hongbo Xu, Gaga Mahai, Xin Zhao, Lisha Shi, Juan Liu, Ling Yu, Meng Wang, Qianqian Wang, Asmagvl Namat, Ying Li, Jingyu Qu, Qi Liu, Xiaofang Lin, Shuting Cao, Shu Huan, Jiying Xiao, Fengyu Ruan, Hanjin Wang, Qing Xu, Xingjuan Ding, Xingjie Fang, Feng Qiu, Jiaolong Ma, Yu Zhang, Aizhen Wang, Yuling Xing, Shunqing Xu",
+        "date": 2020,
+        "affiliations": [
+            "School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, People\u2019s Republic of China.",
+            "Tongji School of Pharmacy, Huazhong University of Science and Technology.",
+            "School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, People\u2019s Republic of China; Tel:+86 13618656078."
+        ],
+        "abstract": "Background: The ongoing outbreak of novel corona virus disease 2019 (COVID-19) in Wuhan, China, is arousing international concern. This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others. \nMethods: We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset. \nResults: The estimated mean incubation period for COVID-19 was 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile). The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days. The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period. \nConclusions: The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole. Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk.",
+        "references": "@article{wu2020a,\n  author = {Wu, J.T. and Leung, K. and Leung, G.M.},\n  title = {Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study},\n  journal = {Lancet. Published online},\n  date = {2020-01-31},\n  doi = {doi: 10.1016/S0140-6736(20)30260-9},\n  language = {}\n}\n@article{zhu-a,\n  author = {Zhu, N. and Zhang, D. and Wang, W.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  volume = {2020},\n  pages = {727\u2013733},\n  doi = {doi: 10.1056/NEJMoa2001017},\n  more-authors = {true},\n  number = {382},\n  language = {}\n}\n@techreport{unknown-a,\n  title = {the People's Republic of China},\n  url = {http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml},\n  language = {},\n  urldate = {(February 26, 2020).},\n  institution = {National Health Commission of}\n}\n@techreport{unknown-b,\n  url = {http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200218_2091007.shtml},\n  urldate = {(February 26, 2020).},\n  institution = {Official Website of Health Commission of Hubei Province}\n}\n@article{lipsitch2003a,\n  author = {Lipsitch, M. and Cohen, T. and Cooper, B.},\n  title = {Transmission dynamics and control of severe acute respiratory syndrome},\n  journal = {Science},\n  date = {2003},\n  volume = {300},\n  pages = {1966\u20131970},\n  doi = {doi: 10.1126/science.1086616},\n  more-authors = {true},\n  number = {5627},\n  language = {}\n}\n@article{zeng2009a,\n  author = {Zeng, G. and Xie, S.Y. and Li, Q. and Ou, J.M.},\n  title = {Infectivity of severe acute respiratory syndrome during its incubation period},\n  journal = {Biomed Environ Sci},\n  date = {2009},\n  volume = {22},\n  pages = {502\u2013510},\n  doi = {doi: 10.1016/S0895-3988(10)60008-6},\n  number = {6},\n  language = {}\n}\n@article{cowling2015a,\n  author = {Cowling, B.J. and Park, M. and Fang, V.J. and Wu, P. and Leung, G.M. and Wu, J.T.},\n  title = {Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015},\n  journal = {Euro Surveill},\n  date = {2015},\n  volume = {20},\n  pages = {7\u201313},\n  doi = {doi: 10.2807/1560-7917.es2015.20.25.21163},\n  number = {25},\n  language = {}\n}\n@article{callaway-a,\n  author = {Callaway, E. and Cyranoski, D.},\n  title = {China coronavirus: Six questions scientists are asking},\n  journal = {Nature},\n  volume = {2020},\n  pages = {605\u2013607},\n  doi = {doi: 10.1038/d41586-020-00166-6},\n  number = {577},\n  language = {}\n}\n@article{rothe2020a,\n  author = {Rothe, C. and Schunk, M. and Sothmann, P.},\n  title = {Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany},\n  journal = {N Engl J Med. Published online},\n  date = {2020-01-30},\n  doi = {doi: 10.1056/NEJMc2001468},\n  more-authors = {true},\n  language = {}\n}\n@article{hoehl2020a,\n  author = {Hoehl, S. and Berger, A. and Kortenbusch, M.},\n  title = {Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China},\n  journal = {N Engl J Med. Published online},\n  date = {2020-02-18},\n  doi = {doi: 10.1056/NEJMc2001899},\n  more-authors = {true},\n  language = {}\n}\n@article{bai2020a,\n  author = {Bai, Y. and Yao, L. and Wei, T.},\n  title = {Presumed Asymptomatic Carrier Transmission of COVID-19},\n  journal = {JAMA. Published online},\n  date = {2020-02-21},\n  doi = {doi: 10.1001/jama.2020.2565},\n  more-authors = {true},\n  language = {}\n}\n@article{unknown-c,\n  title = {New coronavirus pneumonia prevention and control program},\n  edition = {4th ed.) (in},\n  journal = {Chinese)},\n  url = {http://www.nhc.gov.cn/jkj/s3577/202002/573340613ab243b3a7f61df260551dd4.shtm},\n  language = {},\n  urldate = {l (February 26, 2020).}\n}\n@incollection{turnbull1976a,\n  author = {Turnbull, B.W.},\n  title = {The Empirical Distribution Function with Arbitrarily Grouped, Censored and Truncated},\n  editor = {R, Data J.},\n  date = {1976-01-20},\n  volume = {38},\n  pages = {290\u2013295},\n  doi = {doi: 10.1111/j.2517-6161.1976.tb01597.x.14},\n  note = {Euro Surveill.2020, Published online February 06, 2020.doi: 10.2807/1560-7917. ES.2020.25.5.2000062},\n  unmatched-author = {Backer JA, Klinkenberg D, Wallinga J.},\n  source = {Stat Soc A Stat},\n  number = {3},\n  language = {},\n  address = {Wuhan, China}\n}\n@article{jackson2016a,\n  author = {Jackson, C.},\n  title = {flexsurv: A Platform for Parametric Survival Modeling in R},\n  journal = {J Stat Softw},\n  date = {2016},\n  volume = {70},\n  pages = {1\u201333},\n  doi = {doi: 10.18637/jss.v070.i08},\n  number = {1},\n  language = {}\n}\n@misc{becker1991a,\n  author = {Becker, N.G. and Watson, L.F. and Carlin, J.B.},\n  title = {A method of non-parametric back-projection and its application to aids data. Stat Med},\n  date = {1991},\n  volume = {10},\n  pages = {1527\u20131542},\n  doi = {doi: 10.1002/sim.4780101005},\n  number = {10},\n  language = {}\n}\n@article{li2020a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med. Published online},\n  date = {2020-01-29},\n  doi = {doi: 10.1056/NEJMoa2001316},\n  more-authors = {true},\n  language = {}\n}\n@misc{lauer2020a,\n  author = {Lauer, S.A. and Grantz, K.H. and Bi, Q.},\n  title = {The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application},\n  unknown = {medRxiv. Published February 04},\n  date = {2020},\n  doi = {doi: 10.1101/2020.02.02.20020016},\n  more-authors = {true},\n  language = {},\n  urldate = {February 26, 2020.}\n}\n@misc{guan2020a,\n  author = {Guan, W. and Ni, Z. and Hu, Y.},\n  title = {Clinical characteristics of 2019 novel coronavirus infection in China},\n  unknown = {medRxiv. Published February 09},\n  date = {2020},\n  doi = {doi: 10.1101/2020.02.06.20020974},\n  more-authors = {true},\n  language = {},\n  urldate = {February 26, 2020.}\n}\n@article{assiri2013a,\n  author = {Assiri, A. and McGeer, A. and Perl, T.M.},\n  title = {Hospital outbreak of Middle East respiratory syndrome coronavirus},\n  journal = {N Engl J Med},\n  date = {2013},\n  volume = {369},\n  pages = {407\u2013416},\n  doi = {doi: 10.1056/NEJMoa1306742},\n  more-authors = {true},\n  number = {5},\n  language = {}\n}\n@incollection{nishiura2019a,\n  author = {Nishiura, H. and Linton, N.M. and Akhmetzhanov, A.R.},\n  title = {Serial interval of novel coronavirus},\n  date = {2019},\n  doi = {doi: 10.1101/2020.02.03.20019497},\n  source = {infections. medRxiv},\n  language = {},\n  urldate = {Published February 17, 2020. February 26, 2020.}\n}\n@misc{unknown2020a,\n  title = {Novel Coronavirus Pneumonia Emergency Response Epidemiology T. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi},\n  date = {2020},\n  volume = {41},\n  pages = {145\u2013151},\n  doi = {doi: 10.3760/cma.j.issn.0254-6450.2020.02.003},\n  number = {2},\n  language = {}\n}\n",
+        "emails": [
+            "xust@hust.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Wu, J.T.\nAU  - Leung, K.\nAU  - Leung, G.M.\nTI  - Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study\nT2  - Lancet. Published online\nPY  - 2020\nDA  - 2020/01/31\nDO  - 10.1016/S0140-6736(20)30260-9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nVL  - 2020\nSP  - 727\nEP  - 733\nDO  - 10.1056/NEJMoa2001017\nC1  - true\nIS  - 382\nLA  - \nER  - \n\nTY  - RPRT\nTI  - the People's Republic of China\nUR  - http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml\nLA  - \nC1  - (February 26, 2020).\nC1  - National Health Commission of\nER  - \n\nTY  - RPRT\nUR  - http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200218_2091007.shtml\nC1  - (February 26, 2020).\nC1  - Official Website of Health Commission of Hubei Province\nER  - \n\nTY  - JOUR\nAU  - Lipsitch, M.\nAU  - Cohen, T.\nAU  - Cooper, B.\nTI  - Transmission dynamics and control of severe acute respiratory syndrome\nT2  - Science\nPY  - 2003\nDA  - 2003\nVL  - 300\nSP  - 1966\nEP  - 1970\nDO  - 10.1126/science.1086616\nC1  - true\nIS  - 5627\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zeng, G.\nAU  - Xie, S.Y.\nAU  - Li, Q.\nAU  - Ou, J.M.\nTI  - Infectivity of severe acute respiratory syndrome during its incubation period\nT2  - Biomed Environ Sci\nPY  - 2009\nDA  - 2009\nVL  - 22\nSP  - 502\nEP  - 510\nDO  - 10.1016/S0895-3988(10)60008-6\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cowling, B.J.\nAU  - Park, M.\nAU  - Fang, V.J.\nAU  - Wu, P.\nAU  - Leung, G.M.\nAU  - Wu, J.T.\nTI  - Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015\nT2  - Euro Surveill\nPY  - 2015\nDA  - 2015\nVL  - 20\nSP  - 7\nEP  - 13\nDO  - 10.2807/1560-7917.es2015.20.25.21163\nIS  - 25\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Callaway, E.\nAU  - Cyranoski, D.\nTI  - China coronavirus: Six questions scientists are asking\nT2  - Nature\nVL  - 2020\nSP  - 605\nEP  - 607\nDO  - 10.1038/d41586-020-00166-6\nIS  - 577\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rothe, C.\nAU  - Schunk, M.\nAU  - Sothmann, P.\nTI  - Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany\nT2  - N Engl J Med. Published online\nPY  - 2020\nDA  - 2020/01/30\nDO  - 10.1056/NEJMc2001468\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hoehl, S.\nAU  - Berger, A.\nAU  - Kortenbusch, M.\nTI  - Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China\nT2  - N Engl J Med. Published online\nPY  - 2020\nDA  - 2020/02/18\nDO  - 10.1056/NEJMc2001899\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bai, Y.\nAU  - Yao, L.\nAU  - Wei, T.\nTI  - Presumed Asymptomatic Carrier Transmission of COVID-19\nT2  - JAMA. Published online\nPY  - 2020\nDA  - 2020/02/21\nDO  - 10.1001/jama.2020.2565\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nTI  - New coronavirus pneumonia prevention and control program\nET  - 4th ed.) (in\nT2  - Chinese)\nUR  - http://www.nhc.gov.cn/jkj/s3577/202002/573340613ab243b3a7f61df260551dd4.shtm\nLA  - \nC1  - l (February 26, 2020).\nER  - \n\nTY  - CHAP\nAU  - Turnbull, B.W.\nTI  - The Empirical Distribution Function with Arbitrarily Grouped, Censored and Truncated\nA2  - R, Data J.\nPY  - 1976\nDA  - 1976/01/20\nVL  - 38\nSP  - 290\nEP  - 295\nDO  - 10.1111/j.2517-6161.1976.tb01597.x.14\nN1  - Euro Surveill.2020, Published online February 06, 2020.doi: 10.2807/1560-7917. ES.2020.25.5.2000062\nC1  - Backer JA, Klinkenberg D, Wallinga J.\nT2  - Stat Soc A Stat\nIS  - 3\nLA  - \nCY  - Wuhan, China\nER  - \n\nTY  - JOUR\nAU  - Jackson, C.\nTI  - flexsurv: A Platform for Parametric Survival Modeling in R\nT2  - J Stat Softw\nPY  - 2016\nDA  - 2016\nVL  - 70\nSP  - 1\nEP  - 33\nDO  - 10.18637/jss.v070.i08\nIS  - 1\nLA  - \nER  - \n\nTY  - GEN\nAU  - Becker, N.G.\nAU  - Watson, L.F.\nAU  - Carlin, J.B.\nTI  - A method of non-parametric back-projection and its application to aids data. Stat Med\nPY  - 1991\nDA  - 1991\nVL  - 10\nSP  - 1527\nEP  - 1542\nDO  - 10.1002/sim.4780101005\nIS  - 10\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med. Published online\nPY  - 2020\nDA  - 2020/01/29\nDO  - 10.1056/NEJMoa2001316\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Lauer, S.A.\nAU  - Grantz, K.H.\nAU  - Bi, Q.\nTI  - The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application\nC1  - medRxiv. Published February 04\nPY  - 2020\nDA  - 2020\nDO  - 10.1101/2020.02.02.20020016\nC1  - true\nLA  - \nC1  - February 26, 2020.\nER  - \n\nTY  - GEN\nAU  - Guan, W.\nAU  - Ni, Z.\nAU  - Hu, Y.\nTI  - Clinical characteristics of 2019 novel coronavirus infection in China\nC1  - medRxiv. Published February 09\nPY  - 2020\nDA  - 2020\nDO  - 10.1101/2020.02.06.20020974\nC1  - true\nLA  - \nC1  - February 26, 2020.\nER  - \n\nTY  - JOUR\nAU  - Assiri, A.\nAU  - McGeer, A.\nAU  - Perl, T.M.\nTI  - Hospital outbreak of Middle East respiratory syndrome coronavirus\nT2  - N Engl J Med\nPY  - 2013\nDA  - 2013\nVL  - 369\nSP  - 407\nEP  - 416\nDO  - 10.1056/NEJMoa1306742\nC1  - true\nIS  - 5\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Nishiura, H.\nAU  - Linton, N.M.\nAU  - Akhmetzhanov, A.R.\nTI  - Serial interval of novel coronavirus\nPY  - 2019\nDA  - 2019\nDO  - 10.1101/2020.02.03.20019497\nT2  - infections. medRxiv\nLA  - \nC1  - Published February 17, 2020. February 26, 2020.\nER  - \n\nTY  - GEN\nTI  - Novel Coronavirus Pneumonia Emergency Response Epidemiology T. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi\nPY  - 2020\nDA  - 2020\nVL  - 41\nSP  - 145\nEP  - 151\nDO  - 10.3760/cma.j.issn.0254-6450.2020.02.003\nIS  - 2\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Characteristics of the 106 confirmed COVID-19 cases for the estimation of incubation period"
+            },
+            {
+                "id": "2",
+                "caption": "Characteristics of the cases in the 50 clusters"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Chorology of exposures and dates of symptom onset of 106 confirmed COVID-19 cases and distribution of the estimated incubation period"
+            },
+            {
+                "id": "2",
+                "caption": "Time lines for 50 clusters and distribution of the observed serial interval"
+            },
+            {
+                "id": "3",
+                "caption": "The infectious curve of the secondary cases. (A) The infectious and symptom onset curves for the secondary cases after the symptom onset dates of the first-generation cases were centralized. The curves are shown as the number of the secondary cases on the infected date (blue) and actual symptom onset date (black). The red dotted line indicates the centralized date of symptom onset of the first-generation cases. (B) The number and percentage of the secondary cases with infectious date before or after the symptom onset of their first-generation cases"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.06.20031955.full.pdf_ycmy6qqv_tjvqdj1k.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.06.20031955.full.pdf_ycmy6qqv_images_q87gt_3n/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.06.20031955.full.pdf_ycmy6qqv_images_q87gt_3n/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.06.20031955.full.pdf_ycmy6qqv_images_q87gt_3n/img-002.png"
+        ]
+    },
+    "sections": {
+        "background": [
+            "The ongoing outbreak of novel corona virus disease 2019 (COVID-19) in Wuhan, China, is arousing international concern. This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others. Methods: We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset. Results: The estimated mean incubation period for COVID-19 was 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile). The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days. The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period. Conclusions: The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole. Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk."
+        ],
+        "introduction": [
+            "The corona virus disease (COVID-19) has spread rapidly throughout China and poses an increasing threat to globe health.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] The disease is caused by a novel coronavirus (SARS-CoV-2), which was first discovered in the epidemic center of Wuhan, Hubei province, China in December 2019.2 Although China has taken unprecedented actions to halt the outbreak (e.g. lockdown of Wuhan), the reported case numbers are still rising exponentially, particularly in Wuhan. As of February 17, 2020, a total of 72436 COVID-19 cases were officially confirmed in mainland China,[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and 42752 of which come from Wuhan.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] The rapidly increasing number of cases in Wuhan promotes people to concern whether there are infected cases not identified or quarantined in time.<br/><br/>The prior outbreak of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which were caused by corona virus, were reported to be rarely transmitted during the asymptomatic incubation period.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] An urgent question that scientists are racing to learn is whether an asymptomatic COVID-19 case during the incubation period can infect others.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Another major unanswered question is when these asymptomatic cases in the incubation period can infect others, and whether individuals in contact with the COVID-19 cases before the symptom onset should be isolated and provided with medical observation. Until now, only one article reported transmission of SARS-CoV-2 infection from an asymptomatic case in the incubation period in Germany.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] One article from Germany found SARS-CoV-2 in a throat swab in two asymptomatic cases,[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] and the other article from China suggested the transmission by an asymptomatic carrier of SARS-CoV-2 in a familial cluster of five COVID-19 patients.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Compared with the relative small number of asymptomatic cases, the majority of COVID-19 cases when they have no symptoms in their incubation period may contribute to a significant number of infection cases. All the close contacts with COVID-19 cases are required to be isolated in China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]"
+        ],
+        "methods": [
+            "Study design and data collection Accurate estimation of the incubation period is essential to clarify whether the cases who are in the incubation period are a potential source of infection. The exposure time of the majority cases in Wuhan is ambiguous and therefore cannot be used to estimate the incubation period. By examining the cases who were confirmed to be infected with SARS-CoV-2 after a short visit to Wuhan or having a short contact history with a confirmed case, the incubation period could be accurately estimated based on their precise exposure time. Moreover, identification of people in households or communities who had contacted with a confirmed COVID-19 case before symptom onset could help to evaluate the potential transmission during the incubation period. We collected the data of confirmed COVID-19 cases outside Wuhan city and Hubei province in China from local officials in China. The information included demographic characteristics, exposure or contact history, time of exposure and symptom onset, and the relationship of confirmed cases in clusters. Data were entered into a database, and verified by two independent authors. Discrepancies were resolved by discussion and consensus."
+        ],
+        "results": [
+            "Of the 106 confirmed COVID-19 cases with a clear travel or contact history, the median age was 41 years (range, 19 to 73), and 70 (66.0%) were known to be male (Table 1). The majority (82.1%) had an exposure period of 1-2 days, and 67.9% had a short travel history to Wuhan city. We estimated the mean incubation period to be 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile) (Fig. 1).<br/><br/>Among the 50 clusters infected with SARS-CoV-2, the median age of the first-generation cases was 47 years (range, 21 to 73), and 58.0% were male, and 82.0% had a travel history to Wuhan (Table 2). The median age of the 74 secondary cases was 45 years (range 7-83), and 45.9% were male. As the timelines shown in Figure 2, most of the secondary cases (89.2%) had symptom onset after their first-generation cases, while four secondary cases (5.4%; in cluster 5, 21, 29, and 46) had symptom onset before their first-generation ones, and four pairs of first-generation and secondary cases (5.4%; in cluster 22, 35, 41, and 43) had symptom onset on the same day. The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days (Fig .2)."
+        ],
+        "discussion": [
+            "Our study initially demonstrated asymptomatic transmission of COVID-19 in the incubation period, especially in the last three days of incubation period, by estimating the incubation period with the use of accurate exposure history of confirmed cases. Among the clusters, we found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period. Our findings could help the officials to take strong and effective measures to contain the spread of COVID-19 and to the prediction of the epidemic trend.<br/><br/>We estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data. Most importantly, the exposure time interval of the 106 cases selected in our study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled us to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence. Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market. The authors deemed that this estimation was somewhat imprecise because it was based on the information of only 10 cases.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Backer et al.[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] and Lauer et al.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] estimated the incubation period based on 34 and 101 publicly reported confirmed COVID-19 cases outside Wuhan. The duration of exposure time of their included cases ranged from one day to more than two weeks, and more than 75% of the cases in the two studies had the exposure time more than three days, which might induce bias in the estimates and cause the estimated incubation period longer than the actual length. In addition, our estimates of incubation period were consistent with the results reported by Guan et al.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] that they estimated the mean incubation period less than five days from the data of 1099 confirmed patients in mainland China."
+        ],
+        "disclosures": [
+            "All authors declare no competing interests."
+        ],
+        "acknowledgement": [
+            "We are very grateful to Liu Liu and Chaohong Yu in the Editorial Department of Current Medical Science, Liuyu Ivy Chen in founder of TransWords.net, Henry M. Clever, Ph.D. student in the healthcare robotics lab at Georgia Institute of Technology, and Yanjian Wan in Wuhan Centers for Disease Prevention & Control for editing our manuscript."
+        ],
+        "ethical_compliance": [
+            "Ethics approval The data of the confirmed cases were from publicly reported, and this study as thus considered exempt from institutional review board approval"
+        ],
+        "limitations": [
+            "There are some limitations in this study. The data about virus detection were not available for those asymptomatic persons in their incubation period. Since the follow-up quantitative reverse-transcriptase-polymerase-chain-reaction (qRT-PCR) of virus nucleic acid assay was not available for most close contacts currently in China, it is difficult to obtain evidence of molecular biological monitoring in a short time. If qRT-PCR assays are performed for a group of close contacts, more convincing evidence will be provided for transmission of COVID-19 during the incubation period. In conclusion, the COVID-19 cases in the incubation period are potential infection sources, especially within three days prior to the symptom onset. It is imperative to trace back the close contacts of confirmed cases before the symptom onset and avoid the quarantine loopholes."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [],
+        "Background": [
+            "The ongoing outbreak of novel corona virus disease 2019 (COVID-19) in Wuhan, China, is arousing international concern. This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others. Methods: We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset. Results: The estimated mean incubation period for COVID-19 was 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile). The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days. The infectious curve showed that in 73.0% of the secondary cases, their date of getting infected was before symptom onset of the first-generation cases, particularly in the last three days of the incubation period. Conclusions: The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole. Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk."
+        ],
+        "Introduction": [
+            "The corona virus disease (COVID-19) has spread rapidly throughout China and poses an increasing threat to globe health.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] The disease is caused by a novel coronavirus (SARS-CoV-2), which was first discovered in the epidemic center of Wuhan, Hubei province, China in December 2019.2 Although China has taken unprecedented actions to halt the outbreak (e.g. lockdown of Wuhan), the reported case numbers are still rising exponentially, particularly in Wuhan. As of February 17, 2020, a total of 72436 COVID-19 cases were officially confirmed in mainland China,[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and 42752 of which come from Wuhan.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] The rapidly increasing number of cases in Wuhan promotes people to concern whether there are infected cases not identified or quarantined in time.",
+            "The prior outbreak of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which were caused by corona virus, were reported to be rarely transmitted during the asymptomatic incubation period.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] An urgent question that scientists are racing to learn is whether an asymptomatic COVID-19 case during the incubation period can infect others.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Another major unanswered question is when these asymptomatic cases in the incubation period can infect others, and whether individuals in contact with the COVID-19 cases before the symptom onset should be isolated and provided with medical observation. Until now, only one article reported transmission of SARS-CoV-2 infection from an asymptomatic case in the incubation period in Germany.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] One article from Germany found SARS-CoV-2 in a throat swab in two asymptomatic cases,[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] and the other article from China suggested the transmission by an asymptomatic carrier of SARS-CoV-2 in a familial cluster of five COVID-19 patients.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Compared with the relative small number of asymptomatic cases, the majority of COVID-19 cases when they have no symptoms in their incubation period may contribute to a significant number of infection cases. All the close contacts with COVID-19 cases are required to be isolated in China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]",
+            "However, only the close contacts with confirmed patients after symptom onset are put in quarantined in Wuhan city, but other close contactors with the infected cases before the symptom onset are not isolated due to the restrained resources. If the asymptomatic transmission during the incubation period contributes to a significant number of infection cases, a loophole of quarantine will ensue.",
+            "In the present study, we aimed to examine whether and when the COVID-19 cases during their incubation period infect others, in order to offer clues to containment measures to mitigate the spread of infection."
+        ],
+        "Methods": [
+            "Study design and data collection Accurate estimation of the incubation period is essential to clarify whether the cases who are in the incubation period are a potential source of infection. The exposure time of the majority cases in Wuhan is ambiguous and therefore cannot be used to estimate the incubation period. By examining the cases who were confirmed to be infected with SARS-CoV-2 after a short visit to Wuhan or having a short contact history with a confirmed case, the incubation period could be accurately estimated based on their precise exposure time. Moreover, identification of people in households or communities who had contacted with a confirmed COVID-19 case before symptom onset could help to evaluate the potential transmission during the incubation period. We collected the data of confirmed COVID-19 cases outside Wuhan city and Hubei province in China from local officials in China. The information included demographic characteristics, exposure or contact history, time of exposure and symptom onset, and the relationship of confirmed cases in clusters. Data were entered into a database, and verified by two independent authors. Discrepancies were resolved by discussion and consensus.",
+            "In order to increase the accuracy of the incubation period estimation, the selected cases were limited to those with an accurate exposure period of no more than three days. In addition, we only selected the cases who had symptom onset before Chinese Spring Festival (January 25, 2020) to reduce the bias of exposure time, since the custom of visiting relatives and friends in Spring Festival may result to the increase of people\u2019s contact and exposure to unknown infectious source. The cases for estimation of the incubation period were harvested according to the criteria as follows: having a short travel history to Wuhan or having a contact history with a confirmed case, and having no other potential source of infection; and their stay duration or contact exposure was no more than three days, and the information on the dates of their exposure and symptom onset was available. Finally, 106 cases were included in for the analysis of incubation period.",
+            "The data of family or community clustered COVID-19 cases throughout February 16, 2020 were used to assess the potential of transmission during the asymptomatic incubation period. We defined the first-generation cases in a cluster as those who had a travel history to Wuhan, or had a contact history (contact with the people from Wuhan, or confirmed cases, or persons with respiratory symptoms), and had been confirmed to have infection of SARS-CoV-2. The secondary cases were defined as those who had a clear contact history to the first-generation cases, and had been confirmed to have infection of SARS-CoV-2, but had no other potential infection source. Cases in the clusters met the criteria as follows: the secondary cases had a close-contact history with their first-generation cases prior to symptom onset, and the information on the contact time and symptom onset time of the first-generation and the secondary cases was complete. A total of 50 first-generation cases and 74 secondary cases in 50 clusters were included for the analysis. Statistical Analysis We described the demographic characteristics and exposures of the cases, and defined the incubation period as the exposure to the transmission source to the onset of symptoms. As each individual\u2019s incubation period was a typically time-to-event, we used a Weibull distribution-based survival analysis model with the extension of Kaplan-Meier estimator to fit the curve of the incubation period for COVID-19 cases.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>,<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] The 95% confidence intervals for the mean and the percentiles of the incubation period were estimated by a bootstrapping method with resampling of 10,000 times.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+            "The serial interval was defined as the time from symptom onset in the first-generation case to symptom onset in the secondary case. The back-projection method was used to estimate the infectious curve for the secondary cases of the clusters to further investigate the possibility of transmission during the incubation period.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Since the symptom onset date of the first-generation cases in different clusters were different, we centralized the symptom onset dates of all first-generation cases into a specific date, and the symptom onset dates of secondary cases were transformed accordingly. After the transformation, the infectious curve would indicate the number of secondary cases emerging before or after the symptom onset dates of the first-generation cases. We defined the back-projection equation as follows: t",
+            "E( yt ) = \u222b0 Is ft\u2212s,sds yt denotes for the number of symptom onset at a transformed time t , and Is denotes the numbers of infected cases at a transformed time s , and ft\u2212s,s denotes the probability density function of incubation period for COVID-19, which indicated that the probability of cases infected at a transformed time t \u2212 s , and symptom onset at a transformed time s . Using this non-parametric back-projection method, we estimated the infected secondary cases ( It ) at a specific transformed time t.",
+            "All analyses were performed in R 3.1 (\u201csurveillance\u201d and \u201csurvival\u201d packages) and SAS 9.4. Ethics approval The data of the confirmed cases were from publicly reported, and this study as thus considered exempt from institutional review board approval."
+        ],
+        "Results": [
+            "Of the 106 confirmed COVID-19 cases with a clear travel or contact history, the median age was 41 years (range, 19 to 73), and 70 (66.0%) were known to be male (Table 1). The majority (82.1%) had an exposure period of 1-2 days, and 67.9% had a short travel history to Wuhan city. We estimated the mean incubation period to be 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile) (Fig. 1).",
+            "Among the 50 clusters infected with SARS-CoV-2, the median age of the first-generation cases was 47 years (range, 21 to 73), and 58.0% were male, and 82.0% had a travel history to Wuhan (Table 2). The median age of the 74 secondary cases was 45 years (range 7-83), and 45.9% were male. As the timelines shown in Figure 2, most of the secondary cases (89.2%) had symptom onset after their first-generation cases, while four secondary cases (5.4%; in cluster 5, 21, 29, and 46) had symptom onset before their first-generation ones, and four pairs of first-generation and secondary cases (5.4%; in cluster 22, 35, 41, and 43) had symptom onset on the same day. The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days (Fig .2).",
+            "After the symptom onset dates of the first-generation cases were centralized, the peak of the infectious curve of the secondary cases was shown locating before the symptom onset dates of the first-generation cases (Fig. 3A). The majority of the secondary cases (73.0%) were infected before the symptom onset of the first-generation cases, while 18.9% and 8.1% were infected on and after the date of the symptom onset of the first-generation cases, respectively (Fig. 3B). Particularly, 66.2% of the secondary cases were infected within three days before the symptom onset dates of the first-generation cases."
+        ],
+        "Discussion": [
+            "Our study initially demonstrated asymptomatic transmission of COVID-19 in the incubation period, especially in the last three days of incubation period, by estimating the incubation period with the use of accurate exposure history of confirmed cases. Among the clusters, we found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period. Our findings could help the officials to take strong and effective measures to contain the spread of COVID-19 and to the prediction of the epidemic trend.",
+            "We estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data. Most importantly, the exposure time interval of the 106 cases selected in our study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled us to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence. Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market. The authors deemed that this estimation was somewhat imprecise because it was based on the information of only 10 cases.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Backer et al.[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] and Lauer et al.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] estimated the incubation period based on 34 and 101 publicly reported confirmed COVID-19 cases outside Wuhan. The duration of exposure time of their included cases ranged from one day to more than two weeks, and more than 75% of the cases in the two studies had the exposure time more than three days, which might induce bias in the estimates and cause the estimated incubation period longer than the actual length. In addition, our estimates of incubation period were consistent with the results reported by Guan et al.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] that they estimated the mean incubation period less than five days from the data of 1099 confirmed patients in mainland China.",
+            "We observed the mean serial interval was 4.1 days for COVID-19, which is shorter than the 8.4-day and the 7.6-day mean serial interval reported for SARS and MERS, respectively.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>] More importantly, the serial interval is shorter than the estimates of the mean incubation period (4.9 days), suggesting that a proportion of secondary transmission may occur before symptom onset of the first-generation cases. Li et al.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] estimated the mean serial interval at 7.5 days based on the cases reported in Wuhan city early in the epidemic (mostly in December 2019). However, there were only six pairs first-generation and secondary cases in this study, and the small sampling bias may have been introduced to the variance and mean. Our observed serial interval has been consistently demonstrated by a recent study that the estimated mean serial interval was 4.2 days based on 20 pairs of first-generation and secondary cases.[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]",
+            "Our results of infectious curves of the secondary cases in the clusters found that the COVID-19 cases before they feel sick could infect others, and the findings offer some of the best clues to whether individuals in contact with the COVID-19 cases within at least three days prior to the symptom onset should be isolated. Our results indicated that the current quarantine measures have loopholes, which may lead to some asymptomatic cases during the incubation period slipping through the net. At present, the Chinese government has enforced to quarantine all the close contacts of the confirmed cases.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] In the Chinese New coronavirus pneumonia prevention and control program (4th ed.), the close contacts who are requried to put in quanrantine are defined as \"the individulas who have a history of living together, staying in the same room, or riding in the same vehicles with the suspected cases, clinical diagnosis cases (only in Hubei Province), confirmed cases, and asymptomatic infected persons after they are tested virus positive\".12 In this program, only the close contacts after the case has symptom onset or virus positive testing are required to be quarantine, but the close contacts before the case has symptom onset or virus positive testing are not included. If asymptomatic people who are in the incubation period have the potential to spread the virus, the current quarantine measures are inadequate to contain the spread of COVID-19, especially for those individuals and their family members who were isolated together at home.",
+            "Due to the shortage of personals for epidemic contain in Wuhan, the close contacts with the confirmed cases prior to symptom onset were not isolated. The quarantine loophole may also explain the occurrence of a lot of familial cluster cases and the rapidly increased number of confirmed cases during the past week in Wuhan city and Hubei province. According to the recent epidemiological study based on a total of 72314 COVID-19 patient records in mainland China, asymptomatic cases accounted for 1.2%.22 Compared with the relative small number of asymptomatic cases, the majority of COVID-19 cases when they have no symptoms in their incubation period may contribute to a significant number of infection cases. Therefore, we believe more effective measures should be taken to stem the transmission of asymptomatic contact during the incubation period. Once a case is confirmed, it is imperative to trace back all the close contacts within at least three days prior to the symptom onset, and then quarantine these close contacts. If a patient has extensive social activities before the symptom onset, the risk of transmission will be greatly increased. Therefore, restricting social activities and restricting travel in and out of the cities in severe epidemic areas may effectively reduce the transmission.",
+            "All the information about the cases in this study comes from the data released by local authorities, and the cases were screened for analysis by using the same criteria. The information of the cases released by local authorities outside of Hubei province, including the exposure history, was relatively complete and reliable, because less cases were reported outside of Hubei province and staffs working at local center of disease control (CDC) staffs had enough time to interview the cases as soon as possible. Therefore, this study provides a reliable incubation period and a strong evidence of the COVID-19 transmission during the incubation period.",
+            "Nevertheless, there are some limitations in this study. The data about virus detection were not available for those asymptomatic persons in their incubation period. Since the follow-up quantitative reverse-transcriptase-polymerase-chain-reaction (qRT-PCR) of virus nucleic acid assay was not available for most close contacts currently in China, it is difficult to obtain evidence of molecular biological monitoring in a short time. If qRT-PCR assays are performed for a group of close contacts, more convincing evidence will be provided for transmission of COVID-19 during the incubation period. In conclusion, the COVID-19 cases in the incubation period are potential infection sources, especially within three days prior to the symptom onset. It is imperative to trace back the close contacts of confirmed cases before the symptom onset and avoid the quarantine loopholes.",
+            "SX had the idea for and designed the study and had full access to all data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. WX, JL, CL, and YL contributed to writing of the report and the statistical analysis. SX contributed to critical revision of the report. CL, XQ, XS, HX, YL, GM, YX, XZ, LS, JL, MW, QW, AN, YL, JQ, QL, XL, SC, SH, JX, FR, HW, QX, XD, XF, FQ, JM, YZ, AW, and YX contributed to collecting data, creating of the tables and figures and the statistical analysis All authors contributed to data acquisition, data analysis, or data interpretation, and reviewed and approved the final version."
+        ],
+        "Declaration of interests": [
+            "All authors declare no competing interests."
+        ],
+        "Acknowledgement": [
+            "We are very grateful to Liu Liu and Chaohong Yu in the Editorial Department of Current Medical Science, Liuyu Ivy Chen in founder of TransWords.net, Henry M. Clever, Ph.D. student in the healthcare robotics lab at Georgia Institute of Technology, and Yanjian Wan in Wuhan Centers for Disease Prevention & Control for editing our manuscript."
+        ],
+        "References": [
+            "1. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. Published online January 31, 2020. doi:10.1016/S0140-6736(20)30260-9. 2. Zhu N, Zhang D, Wang W, et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020;382(8):727-733. doi:10.1056/NEJMoa2001017. 3. National Health Commission of the People's Republic of China. http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml (Accessed February 26, 2020). 4. Official Website of Health Commission of Hubei Province. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200218_2091007.shtml (Accessed February 26, 2020). 5. Lipsitch M, Cohen T, Cooper B, et al Transmission dynamics and control of severe acute respiratory syndrome. Science. 2003;300(5627):1966-1970. doi:10.1126/science.1086616. 6. Zeng G, Xie SY, Li Q, Ou JM. Infectivity of severe acute respiratory syndrome during its incubation period. Biomed Environ Sci. 2009;22(6):502-510. doi:10.1016/S0895-3988(10)60008-6. 7. Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT. Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015. Euro Surveill. 2015;20(25):7-13. doi:10.2807/1560-7917.es2015.20.25.21163. 8. Callaway E, Cyranoski D. China coronavirus: Six questions scientists are asking. Nature. 2020;577(7792):605-607. doi:10.1038/d41586-020-00166-6. 9. Rothe C, Schunk M, Sothmann P, et al Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med. Published online January 30, 2020. doi:10.1056/NEJMc2001468. 10. Hoehl S, Berger A, Kortenbusch M, et al Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China. N Engl J Med. Published online February 18, 2020. doi:10.1056/NEJMc2001899 11. Bai Y, Yao L, Wei T, et al Presumed Asymptomatic Carrier Transmission of",
+            "COVID-19. JAMA. Published online February 21, 2020. doi:10.1001/jama.2020.2565. 12. New coronavirus pneumonia prevention and control program (4th ed.) (in Chinese) http://www.nhc.gov.cn/jkj/s3577/202002/573340613ab243b3a7f61df260551dd4.shtm l (Accessed February 26, 2020). 13. Turnbull BW. The Empirical Distribution Function with Arbitrarily Grouped, Censored and Truncated Data. J R Stat Soc A Stat. 1976;38(3):290-295. doi:10.1111/j.2517-6161.1976.tb01597.x. 14. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020. Euro Surveill. 2020, Published online February 06, 2020. doi:10.2807/1560-7917.ES.2020.25.5.2000062. 15. Jackson C. flexsurv : A Platform for Parametric Survival Modeling in R. J Stat Softw. 2016;70(1):1-33. doi:10.18637/jss.v070.i08. 16. Becker NG, Watson LF, Carlin JB. A method of non-parametric back-projection and its application to aids data. Stat Med. 1991;10(10):1527-1542. doi:10.1002/sim.4780101005. 17. Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. Published online January 29, 2020. doi:10.1056/NEJMoa2001316. 18. Lauer SA, Grantz KH, Bi Q, et al The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv. Published February 04, 2020. Accessed February 26, 2020. doi:10.1101/2020.02.02.20020016. 19. Guan W, Ni Z, Hu Y, et al Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv. Published February 09, 2020. Accessed February 26, 2020. doi:10.1101/2020.02.06.20020974. 20. Assiri A, McGeer A, Perl TM, et al Hospital outbreak of Middle East respiratory syndrome coronavirus. N Engl J Med. 2013;369(5):407-416. doi:10.1056/NEJMoa1306742. 21. Nishiura H, Linton NM, Akhmetzhanov AR. Serial interval of novel coronavirus (2019-nCoV) infections. medRxiv. Published February 17, 2020. Accessed February 26, 2020. doi:10.1101/2020.02.03.20019497. 22. Novel Coronavirus Pneumonia Emergency Response Epidemiology T. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi. 2020;41(2):145-151. doi:10.3760/cma.j.issn.0254-6450.2020.02.003."
+        ],
+        "Tables": [
+            "a There was one case who had both a history of travel to Wuhan and contact with a confirmed case.",
+            "a There was one case who had both a history of travel to Wuhan and contact.",
+            "(A) Timelines for 106 cases with distinct periods are shown as exposed (orange), infected but asymptomatic (blue), and symptom onset (red). (B) The estimated incubation period distribution. (C) The mean and percentiles of estimated incubation period.",
+            "Number in the boxes are calendar dates in January and February 2020."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 124,
+            "context": "Methods: We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities. <mark class=\"stats\">We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases</mark>. All the secondary cases had a history of contact with their first-generation cases prior to symptom onset"
+        },
+        {
+            "participant": "cases",
+            "number": 106,
+            "context": "The cases for estimation of the incubation period were harvested according to the criteria as follows: having a short travel history to Wuhan or having a contact history with a confirmed case, and having no other potential source of infection; and their stay duration or contact exposure was no more than three days, and the information on the dates of their exposure and symptom onset was available. <mark class=\"stats\">Finally, 106 cases were included in for the analysis of incubation period</mark>. The data of family or community clustered COVID-19 cases throughout February 16, 2020 were used to assess the potential of transmission during the asymptomatic incubation period"
+        },
+        {
+            "participant": "first-generation cases",
+            "number": 50,
+            "context": "Cases in the clusters met the criteria as follows: the secondary cases had a close-contact history with their first-generation cases prior to symptom onset, and the information on the contact time and symptom onset time of the first-generation and the secondary cases was complete. <mark class=\"stats\">A total of 50 first-generation cases and 74 secondary cases in 50 clusters were included for the analysis</mark>. Statistical Analysis We described the demographic characteristics and exposures of the cases, and defined the incubation period as the exposure to the transmission source to the onset of symptoms"
+        },
+        {
+            "participant": "secondary cases",
+            "number": 74,
+            "context": "Among the 50 clusters infected with SARS-CoV-2, the median age of the first-generation cases was 47 years (range, 21 to 73), and 58.0% were male, and 82.0% had a travel history to Wuhan (Table 2). <mark class=\"stats\">The median age of the 74 secondary cases was 45 years (range 7-83), and 45.9% were male</mark>. As the timelines shown in Figure 2, most of the secondary cases (89.2%) had symptom onset after their first-generation cases, while four secondary cases (5.4%; in cluster 5, 21, 29, and 46) had symptom onset before their first-generation ones, and four pairs of first-generation and secondary cases (5.4%; in cluster 22, 35, 41, and 43) had symptom onset on the same day"
+        },
+        {
+            "participant": "secondary cases",
+            "number": 4,
+            "context": "The median age of the 74 secondary cases was 45 years (range 7-83), and 45.9% were male. <mark class=\"stats\">As the timelines shown in Figure 2, most of the secondary cases (89.2%) had symptom onset after their first-generation cases, while four secondary cases (5.4%; in cluster 5, 21, 29, and 46) had symptom onset before their first-generation ones, and four pairs of first-generation and secondary cases (5.4%; in cluster 22, 35, 41, and 43) had symptom onset on the same day</mark>. The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days (Fig .2)"
+        },
+        {
+            "participant": "secondary cases",
+            "number": 4,
+            "context": "Our study initially demonstrated asymptomatic transmission of COVID-19 in the incubation period, especially in the last three days of incubation period, by estimating the incubation period with the use of accurate exposure history of confirmed cases. <mark class=\"stats\">Among the clusters, we found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period</mark>. Our findings could help the officials to take strong and effective measures to contain the spread of COVID-19 and to the prediction of the epidemic trend"
+        },
+        {
+            "participant": "cases",
+            "number": 106,
+            "context": "We estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data. <mark class=\"stats\">Most importantly, the exposure time interval of the 106 cases selected in our study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled us to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence</mark>. Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market"
+        },
+        {
+            "participant": "cases",
+            "number": 10,
+            "context": "Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market. <mark class=\"stats\">The authors deemed that this estimation was somewhat imprecise because it was based on the information of only 10 cases.17</mark>. Backer et al.[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] and Lauer et al.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] estimated the incubation period based on 34 and 101 publicly reported confirmed COVID-19 cases outside Wuhan"
+        },
+        {
+            "participant": "confirmed patients",
+            "number": 1099,
+            "context": "The duration of exposure time of their included cases ranged from one day to more than two weeks, and more than 75% of the cases in the two studies had the exposure time more than three days, which might induce bias in the estimates and cause the estimated incubation period longer than the actual length. <mark class=\"stats\">In addition, our estimates of incubation period were consistent with the results reported by Guan et al.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] that they estimated the mean incubation period less than five days from the data of 1099 confirmed patients in mainland China</mark>. We observed the mean serial interval was 4.1 days for COVID-19, which is shorter than the 8.4-day and the 7.6-day mean serial interval reported for SARS and MERS, respectively.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]"
+        },
+        {
+            "participant": "pairs",
+            "number": 6,
+            "context": "Li et al.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] estimated the mean serial interval at 7.5 days based on the cases reported in Wuhan city early in the epidemic (mostly in December 2019). <mark class=\"stats\">However, there were only six pairs first-generation and secondary cases in this study, and the small sampling bias may have been introduced to the variance and mean</mark>. Our observed serial interval has been consistently demonstrated by a recent study that the estimated mean serial interval was 4.2 days based on 20 pairs of first-generation and secondary cases.[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]"
+        },
+        {
+            "participant": "pairs",
+            "number": 20,
+            "context": "However, there were only six pairs first-generation and secondary cases in this study, and the small sampling bias may have been introduced to the variance and mean. <mark class=\"stats\">Our observed serial interval has been consistently demonstrated by a recent study that the estimated mean serial interval was 4.2 days based on 20 pairs of first-generation and secondary cases.21</mark>. Our results of infectious curves of the secondary cases in the clusters found that the COVID-19 cases before they feel sick could infect others, and the findings offer some of the best clues to whether individuals in contact with the COVID-19 cases within at least three days prior to the symptom onset should be isolated"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">As each individual\u2019s incubation period was a typically time-to-event, we used a Weibull distribution-based survival analysis model with the extension of Kaplan-Meier estimator to fit the curve of the incubation period for COVID-19 cases.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>,<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] The 95% confidence intervals for the mean and the percentiles of the incubation period were estimated by a bootstrapping method with resampling of 10,000 times.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]</mark>",
+                "tests": [
+                    {
+                        "test": "Kaplan-Meier"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">As each individual\u2019s incubation period was a typically time-to-event, we used a Weibull distribution-based survival analysis model with the extension of Kaplan-Meier estimator to fit the curve of the incubation period for COVID-19 cases.13,14</mark>",
+                "tests": [
+                    {
+                        "test": "Kaplan-Meier"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "Middle East respiratory syndrome",
+        "close contact",
+        "sars cov",
+        "asymptomatic case",
+        "dynamics",
+        "serial interval",
+        "standard deviation",
+        "COVID-19",
+        "coronavirus pneumonia",
+        "mean incubation period",
+        "asymptomatic transmission",
+        "ongoing outbreak",
+        "exposure history",
+        "generation case",
+        "incubation period",
+        "severe acute respiratory syndrome",
+        "center of disease control",
+        "corona virus disease",
+        "pneumonia",
+        "symptom onset",
+        "The disease",
+        "secondary case",
+        "quantitative reverse-transcriptase-polymerase-chain-reaction",
+        "onset day",
+        "quarantine loophole",
+        "demographic characteristics",
+        "international concern",
+        "novel corona"
+    ],
+    "keyword_relevance": {
+        "incubation period": 0.2021276596,
+        "symptom onset": 0.1595744681,
+        "COVID-19": 0.1205673759,
+        "secondary case": 0.0957446809,
+        "generation case": 0.0815602837,
+        "close contact": 0.0496453901,
+        "severe acute respiratory syndrome": 0.0496453901,
+        "serial interval": 0.0354609929,
+        "asymptomatic case": 0.0283687943,
+        "novel corona": 0.0212765957,
+        "Middle East respiratory syndrome": 0.0177304965,
+        "mean incubation period": 0.0177304965,
+        "standard deviation": 0.0141843972,
+        "quarantine loophole": 0.0141843972,
+        "asymptomatic transmission": 0.0106382979,
+        "exposure history": 0.0106382979,
+        "corona virus disease": 0.0106382979,
+        "quantitative reverse-transcriptase-polymerase-chain-reaction": 0.0106382979,
+        "demographic characteristics": 0.0106382979,
+        "coronavirus pneumonia": 0.0070921986,
+        "center of disease control": 0.0070921986,
+        "pneumonia": 0.0070921986,
+        "dynamics": 0.0035460993,
+        "ongoing outbreak": 0.0035460993,
+        "The disease": 0.0035460993,
+        "onset day": 0.0035460993,
+        "international concern": 0.0035460993,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The corona virus disease (COVID-19) has spread rapidly throughout China and poses an increasing threat to globe health.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "The prior outbreak of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which were caused by corona virus, were reported to be rarely transmitted during the asymptomatic incubation period.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] An urgent question that scientists are racing to learn is whether an asymptomatic COVID-19 case during the incubation period can infect others.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Another major unanswered question is when these asymptomatic cases in the incubation period can infect others, and whether individuals in contact with the COVID-19 cases before the symptom onset should be isolated and provided with medical observation.",
+        "Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk",
+        "<h2 style=\"display: inline\">Methods:</h2> Study design and data collection Accurate estimation of the incubation period is essential to clarify whether the cases who are in the incubation period are a potential source of infection.",
+        "By examining the cases who were confirmed to be infected with SARS-CoV-2 after a short visit to Wuhan or having a short contact history with a confirmed case, the incubation period could be accurately estimated based on their precise exposure time.",
+        "Identification of people in households or communities who had contacted with a confirmed COVID-19 case before symptom onset could help to evaluate the potential transmission during the incubation period.",
+        "<h2 style=\"display: inline\">Results:</h2> Of the 106 confirmed COVID-19 cases with a clear travel or contact history, the median age was 41 years, and 70 (66.0%) were known to be male (Table 1).",
+        "The authors estimated the mean incubation period to be 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile) (Fig. 1).",
+        "Among the 50 clusters infected with SARS-CoV-2, the median age of the first-generation cases was 47 years, and 58.0% were male, and 82.0% had a travel history to Wuhan (Table 2).",
+        "The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days (Fig .2)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors' study initially demonstrated asymptomatic transmission of COVID-19 in the incubation period, especially in the last three days of incubation period, by estimating the incubation period with the use of accurate exposure history of confirmed cases.",
+        "The authors estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data.",
+        "The exposure time interval of the 106 cases selected in the study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled them to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence.",
+        "The authors' estimates of incubation period were consistent with the results reported by Guan et al.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] that they estimated the mean incubation period less than five days from the data of 1099 confirmed patients in mainland China"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The corona virus disease (COVID-19) has spread rapidly throughout China and poses an increasing threat to globe health.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "The prior outbreak of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which were caused by corona virus, were reported to be rarely transmitted during the asymptomatic incubation period.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] An urgent question that scientists are racing to learn is whether an asymptomatic COVID-19 case during the incubation period can infect others.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Another major unanswered question is when these asymptomatic cases in the incubation period can infect others, and whether individuals in contact with the COVID-19 cases before the symptom onset should be isolated and provided with medical observation.",
+            "Strong and effective countermeasures should be implemented to prevent or mitigate asymptomatic transmission during the incubation period in populations at high risk"
+        ],
+        "Methods": [
+            "Study design and data collection Accurate estimation of the incubation period is essential to clarify whether the cases who are in the incubation period are a potential source of infection.",
+            "By examining the cases who were confirmed to be infected with SARS-CoV-2 after a short visit to Wuhan or having a short contact history with a confirmed case, the incubation period could be accurately estimated based on their precise exposure time.",
+            "Identification of people in households or communities who had contacted with a confirmed COVID-19 case before symptom onset could help to evaluate the potential transmission during the incubation period."
+        ],
+        "Results": [
+            "Of the 106 confirmed COVID-19 cases with a clear travel or contact history, the median age was 41 years, and 70 (66.0%) were known to be male (Table 1).",
+            "The authors estimated the mean incubation period to be 4.9 days (95% confidence interval [CI], 4.4 to 5.4) days, ranging from 0.8 to 11.1 days (2.5th to 97.5th percentile) (Fig. 1).",
+            "Among the 50 clusters infected with SARS-CoV-2, the median age of the first-generation cases was 47 years, and 58.0% were male, and 82.0% had a travel history to Wuhan (Table 2).",
+            "The observed mean and standard deviation (SD) of serial interval was 4.1\u00b13.3 days, with the 2.5th and 97.5th percentiles at -1 and 13 days (Fig .2)"
+        ],
+        "Conclusion": [
+            "The authors' study initially demonstrated asymptomatic transmission of COVID-19 in the incubation period, especially in the last three days of incubation period, by estimating the incubation period with the use of accurate exposure history of confirmed cases.",
+            "The authors estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data.",
+            "The exposure time interval of the 106 cases selected in the study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled them to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence.",
+            "The authors' estimates of incubation period were consistent with the results reported by Guan et al.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] that they estimated the mean incubation period less than five days from the data of 1099 confirmed patients in mainland China"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Wu_et+al_2020_a",
+            "entry": "1. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. Published online January 31, 2020. doi:10.1016/S0140-6736(20)30260-9.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30260-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30260-9",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930260-9"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhu_et+al_2019_a",
+            "entry": "2. Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020;382(8):727-733. doi:10.1056/NEJMoa2001017.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "3",
+            "alt_id": "3._0000_a",
+            "entry": "3. National Health Commission of the People's Republic of China. http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml (Accessed February 26, 2020).",
+            "url": "http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml"
+        },
+        {
+            "id": "4",
+            "alt_id": "4._0000_b",
+            "entry": "4. Official Website of Health Commission of Hubei Province. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200218_2091007.shtml (Accessed February 26, 2020).",
+            "url": "http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200218_2091007.shtml"
+        },
+        {
+            "id": "5",
+            "alt_id": "Lipsitch_et+al_2003_a",
+            "entry": "5. Lipsitch M, Cohen T, Cooper B, et al. Transmission dynamics and control of severe acute respiratory syndrome. Science. 2003;300(5627):1966-1970. doi:10.1126/science.1086616.",
+            "crossref": "https://dx.doi.org/10.1126/science.1086616",
+            "scite": "https://scite.ai/reports/10.1126/science.1086616",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1126/science.1086616"
+        },
+        {
+            "id": "6",
+            "alt_id": "Zeng_et+al_2009_a",
+            "entry": "6. Zeng G, Xie SY, Li Q, Ou JM. Infectivity of severe acute respiratory syndrome during its incubation period. Biomed Environ Sci. 2009;22(6):502-510. doi:10.1016/S0895-3988(10)60008-6.",
+            "crossref": "https://dx.doi.org/10.1016/S0895-3988(10)60008-6",
+            "scite": "https://scite.ai/reports/10.1016/S0895-3988(10)60008-6",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0895-3988%2810%2960008-6"
+        },
+        {
+            "id": "7",
+            "alt_id": "Cowling_et+al_2015_a",
+            "entry": "7. Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT. Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015. Euro Surveill. 2015;20(25):7-13. doi:10.2807/1560-7917.es2015.20.25.21163.",
+            "crossref": "https://dx.doi.org/10.2807/1560-7917.es2015.20.25.21163",
+            "scite": "https://scite.ai/reports/10.2807/1560-7917.es2015.20.25.21163",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.2807/1560-7917.es2015.20.25.21163"
+        },
+        {
+            "id": "8",
+            "alt_id": "Callaway_0000_a",
+            "entry": "8. Callaway E, Cyranoski D. China coronavirus: Six questions scientists are asking. Nature. 2020;577(7792):605-607. doi:10.1038/d41586-020-00166-6.",
+            "crossref": "https://dx.doi.org/10.1038/d41586-020-00166-6",
+            "scite": "https://scite.ai/reports/10.1038/d41586-020-00166-6",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/d41586-020-00166-6"
+        },
+        {
+            "id": "9",
+            "alt_id": "Rothe_et+al_2020_a",
+            "entry": "9. Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med. Published online January 30, 2020. doi:10.1056/NEJMc2001468.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMc2001468",
+            "scite": "https://scite.ai/reports/10.1056/NEJMc2001468",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMc2001468"
+        },
+        {
+            "id": "10",
+            "alt_id": "Hoehl_et+al_2020_a",
+            "entry": "10. Hoehl S, Berger A, Kortenbusch M, et al. Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China. N Engl J Med. Published online February 18, 2020. doi:10.1056/NEJMc2001899",
+            "crossref": "https://dx.doi.org/10.1056/NEJMc2001899",
+            "scite": "https://scite.ai/reports/10.1056/NEJMc2001899",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMc2001899"
+        },
+        {
+            "id": "11",
+            "alt_id": "Bai_et+al_2020_a",
+            "entry": "11. Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA. Published online February 21, 2020. doi:10.1001/jama.2020.2565.",
+            "crossref": "https://dx.doi.org/10.1001/jama.2020.2565",
+            "scite": "https://scite.ai/reports/10.1001/jama.2020.2565",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1001/jama.2020.2565"
+        },
+        {
+            "id": "12",
+            "alt_id": "12._0000_c",
+            "entry": "12. New coronavirus pneumonia prevention and control program (4th ed.) (in Chinese) http://www.nhc.gov.cn/jkj/s3577/202002/573340613ab243b3a7f61df260551dd4.shtm l (Accessed February 26, 2020).",
+            "url": "http://www.nhc.gov.cn/jkj/s3577/202002/573340613ab243b3a7f61df260551dd4.shtm",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=New%20coronavirus%20pneumonia%20prevention%20and%20control%20program%204th%20ed%20in%20Chinese%20httpwwwnhcgovcnjkjs3577202002573340613ab243b3a7f61df260551dd4shtm%20l%20Accessed%20February%2026%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=New%20coronavirus%20pneumonia%20prevention%20and%20control%20program%204th%20ed%20in%20Chinese%20httpwwwnhcgovcnjkjs3577202002573340613ab243b3a7f61df260551dd4shtm%20l%20Accessed%20February%2026%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Turnbull_1976_a",
+            "entry": "13. Turnbull BW. The Empirical Distribution Function with Arbitrarily Grouped, Censored and Truncated Data. J R Stat Soc A Stat. 1976;38(3):290-295. doi:10.1111/j.2517-6161.1976.tb01597.x. 14. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020. Euro Surveill. 2020, Published online February 06, 2020. doi:10.2807/1560-7917.ES.2020.25.5.2000062.",
+            "crossref": "https://dx.doi.org/10.1111/j.2517-6161.1976.tb01597.x.14",
+            "scite": "https://scite.ai/reports/10.1111/j.2517-6161.1976.tb01597.x.14",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1111/j.2517-6161.1976.tb01597.x.14"
+        },
+        {
+            "id": "15",
+            "alt_id": "Jackson_2016_a",
+            "entry": "15. Jackson C. flexsurv: A Platform for Parametric Survival Modeling in R. J Stat Softw. 2016;70(1):1-33. doi:10.18637/jss.v070.i08.",
+            "crossref": "https://dx.doi.org/10.18637/jss.v070.i08",
+            "scite": "https://scite.ai/reports/10.18637/jss.v070.i08",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.18637/jss.v070.i08"
+        },
+        {
+            "id": "16",
+            "alt_id": "Becker_et+al_1991_a",
+            "entry": "16. Becker NG, Watson LF, Carlin JB. A method of non-parametric back-projection and its application to aids data. Stat Med. 1991;10(10):1527-1542. doi:10.1002/sim.4780101005.",
+            "crossref": "https://dx.doi.org/10.1002/sim.4780101005",
+            "scite": "https://scite.ai/reports/10.1002/sim.4780101005"
+        },
+        {
+            "id": "17",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "17. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. Published online January 29, 2020. doi:10.1056/NEJMoa2001316.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001316",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001316",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001316"
+        },
+        {
+            "id": "18",
+            "alt_id": "Lauer_et+al_2020_a",
+            "entry": "18. Lauer SA, Grantz KH, Bi Q, et al. The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv. Published February 04, 2020. Accessed February 26, 2020. doi:10.1101/2020.02.02.20020016.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.02.20020016",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.02.20020016"
+        },
+        {
+            "id": "19",
+            "alt_id": "Guan_et+al_2020_a",
+            "entry": "19. Guan W, Ni Z, Hu Y, et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv. Published February 09, 2020. Accessed February 26, 2020. doi:10.1101/2020.02.06.20020974.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.06.20020974",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.06.20020974"
+        },
+        {
+            "id": "20",
+            "alt_id": "Assiri_et+al_2013_a",
+            "entry": "20. Assiri A, McGeer A, Perl TM, et al. Hospital outbreak of Middle East respiratory syndrome coronavirus. N Engl J Med. 2013;369(5):407-416. doi:10.1056/NEJMoa1306742.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa1306742",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa1306742",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa1306742"
+        },
+        {
+            "id": "21",
+            "alt_id": "Nishiura_et+al_2019_a",
+            "entry": "21. Nishiura H, Linton NM, Akhmetzhanov AR. Serial interval of novel coronavirus (2019-nCoV) infections. medRxiv. Published February 17, 2020. Accessed February 26, 2020. doi:10.1101/2020.02.03.20019497.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.03.20019497",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.03.20019497",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1101/2020.02.03.20019497"
+        },
+        {
+            "id": "22",
+            "alt_id": "22._2020_a",
+            "entry": "22. Novel Coronavirus Pneumonia Emergency Response Epidemiology T. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi. 2020;41(2):145-151. doi:10.3760/cma.j.issn.0254-6450.2020.02.003.",
+            "crossref": "https://dx.doi.org/10.3760/cma.j.issn.0254-6450.2020.02.003",
+            "scite": "https://scite.ai/reports/10.3760/cma.j.issn.0254-6450.2020.02.003"
+        }
+    ],
+    "facts": [
+        "which had been announced by the Chinese local authorities",
+        "the secondary cases had a history of contact with their first-generation cases",
+        "The results indicated the transmission of COVID-9 occurs among close contacts",
+        "which may lead to a quarantine loophole",
+        "The disease is caused by a novel coronavirus",
+        "which was first discovered in the epidemic center of Wuhan",
+        "a total of 72436 COVID-19 cases were officially confirmed in mainland China,[3",
+        "of which come from Wuhan.[4",
+        "which were caused by corona virus",
+        "An urgent question that scientists are racing to learn is whether an asymptomatic COVID-19 case during the incubation period can infect others.[8",
+        "the other article from China suggested the transmission by an asymptomatic carrier of SARS-CoV-2",
+        "no symptoms in their incubation period may contribute to a significant number of infection cases",
+        "the close contacts with COVID-19 cases are required to be isolated in China.[12",
+        "essential to clarify whether the cases who are in the incubation period are a potential source of infection",
+        "the cases who were confirmed to be infected with SARS-CoV-2 after a short visit",
+        "the incubation period could be accurately estimated based on their precise exposure time",
+        "identification of people in households or communities who had contacted with a confirmed COVID-19 case before symptom onset could help to evaluate the potential transmission during the incubation period",
+        "Data were entered into a database",
+        "Discrepancies were resolved by discussion and consensus",
+        "Among the 50 clusters infected with SARS-CoV-2",
+        "As the timelines shown in Figure 2",
+        "which further provides the evidence of the transmission during the incubation period",
+        "effective measures to contain the spread of COVID-19",
+        "which was calculated based on a big sample size with valid data",
+        "the exposure time interval of the 106 cases selected in our study was no more",
+        "Li et al 17 reported that the incubation period of the new coronavirus was",
+        "5.2 days with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the",
+        "The authors deemed that this estimation was somewhat imprecise because",
+        "included cases ranged from one day",
+        "our estimates of incubation period were consistent with the results reported by",
+        "Identification of people in households or communities who had contacted with a confirmed COVID-19 case before symptom onset could help to evaluate the potential transmission during the incubation period",
+        "The exposure time interval of the 106 cases selected in our study was no more",
+        "Our estimates of incubation period were consistent with the results reported by",
+        "in order to offer clues to containment measures to mitigate the spread of infection"
+    ],
+    "claims": [
+        "This study evaluated whether and when the infected but asymptomatic cases during the incubation period could infect others",
+        "We evaluated the potential of transmission during the incubation period in 50 infection clusters, including 124 cases",
+        "In the present study, we aimed to examine whether and when the COVID-19 cases during their incubation period infect others, in order to offer clues to containment measures to mitigate the spread of infection",
+        "Statistical Analysis We described the demographic characteristics and exposures of the cases, and defined the incubation period as the exposure to the transmission source to the onset of symptoms",
+        "Among the clusters, we found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period",
+        "This study provides a reliable incubation period and a strong evidence of the COVID-19 transmission during the incubation period"
+    ],
+    "findings": [
+        "Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market",
+        "The duration of exposure time of their included cases ranged from one day to more than two weeks, and more than 75% of the cases in the two studies had the exposure time more than three days, which might induce bias in the estimates and cause the estimated incubation period longer than the actual length"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We collected data on demographic characteristics, exposure history, and symptom onset day of the confirmed cases, which had been announced by the Chinese local authorities",
+        "The results indicated the transmission of COVID-9 occurs among close contacts during the incubation period, which may lead to a quarantine loophole",
+        "The disease is caused by a novel coronavirus (SARS-CoV-2), which was first discovered in the epidemic center of Wuhan, Hubei province, China in December 2019.2 China has taken unprecedented actions to halt the outbreak, the reported case numbers are still rising exponentially, in Wuhan",
+        "The prior outbreak of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), which were caused by corona virus, were reported to be rarely transmitted during the asymptomatic incubation period.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]",
+        "Compared with the relative small number of asymptomatic cases, the majority of COVID-19 cases when they have no symptoms in their incubation period may contribute to a significant number of infection cases",
+        "We aimed to examine whether and when the COVID-19 cases during their incubation period infect others, in order to offer clues to containment measures to mitigate the spread of infection",
+        "By examining the cases who were confirmed to be infected with severe acute respiratory syndrome-CoV-2 after a short visit to Wuhan or having a short contact history with a confirmed case, the incubation period could be accurately estimated based on their precise exposure time",
+        "Among the 50 clusters infected with severe acute respiratory syndrome-CoV-2, the median age of the first-generation cases was 47 years, and 58.0% were male, and 82.0% had a travel history to Wuhan (Table 2)",
+        "As the timelines shown in Figure 2, most of the secondary cases (89.2%) had symptom onset after their first-generation cases, while four secondary cases (5.4%; in cluster 5, 21, 29, and 46) had symptom onset before their first-generation ones, and four pairs of first-generation and secondary cases (5.4%; in cluster 22, 35, 41, and 43) had symptom onset on the same day",
+        "We found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period",
+        "Our findings could help the officials to take strong and effective measures to contain the spread of COVID-19 and to the prediction of the epidemic trend",
+        "We estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data",
+        "The exposure time interval of the 106 cases selected in our study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled us to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence",
+        "Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market",
+        "The duration of exposure time of their included cases ranged from one day to more than two weeks, and more than 75% of the cases in the two studies had the exposure time more than three days, which might induce bias in the estimates and cause the estimated incubation period longer than the actual length",
+        "Our estimates of incubation period were consistent with the results reported by Guan et al.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] that they estimated the mean incubation period less than five days from the data of 1099 confirmed patients in mainland China"
+    ],
+    "top_statements": [
+        "The corona virus disease (COVID-19) has spread rapidly throughout China and poses an increasing threat to globe health.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "As the timelines shown in Figure 2, most of the secondary cases (89.2%) had symptom onset after their first-generation cases, while four secondary cases (5.4%; in cluster 5, 21, 29, and 46) had symptom onset before their first-generation ones, and four pairs of first-generation and secondary cases (5.4%; in cluster 22, 35, 41, and 43) had symptom onset on the same day",
+        "We found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period",
+        "We estimated the mean incubation period of COVID-19 infections to be 4.9 days, which was calculated based on a big sample size with valid data",
+        "The exposure time interval of the 106 cases selected in our study was no more than three days, and 82.1% of the cases had an exposure time of 1-2 days, which enabled us to obtain a more accurate estimates of incubation period for COVID-19 than the existing evidence",
+        "Li et al 17 reported that the incubation period of the new coronavirus was 5.2 days (95% CI, 4.1 to 7.0) with the 95th percentile at 12.5 days according to the early cases with illness onset exposed to the Huanan seafood wholesale market"
+    ],
+    "headline": "We found that four secondary cases had symptom onset earlier than their first-generation cases, which further provides the evidence of the transmission during the incubation period",
+    "contexts": [],
+    "abbreviations": {
+        "SD": "standard deviation",
+        "SARS": "severe acute respiratory syndrome",
+        "MERS": "Middle East respiratory syndrome",
+        "CDC": "center of disease control",
+        "qRT-PCR": "quantitative reverse-transcriptase-polymerase-chain-reaction"
+    }
+}

@@ -1,0 +1,1177 @@
+{
+    "filename": "2020.02.13.20020891.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 632046,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.02.13.20020891",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/02/15/2020.02.13.20020891.full.pdf"
+        },
+        "title": "Probabilistic reconstruction of measles transmission clusters from routinely collected surveillance data",
+        "author": "Alexis Robert, Adam J Kucharski, Paul A Gasta\u00f1aduy, Prabasaj Paul, Sebastian Funk",
+        "date": 2020,
+        "affiliations": [
+            "Centre for the Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical",
+            "Medicine, Keppel Street, London, UK 10",
+            "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine,",
+            "Keppel Street, London, UK 12",
+            "Division of Viral Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia 13",
+            "Division of Nutrition, Physical Activity, and Obesity, Centers for Disease Control and",
+            "Prevention, Atlanta, Georgia"
+        ],
+        "abstract": "Pockets of susceptibility resulting from spatial or social heterogeneity in vaccine coverage can drive measles outbreaks, as cases imported into such pockets are likely to cause further transmission and lead to large transmission clusters. Characterising the dynamics of transmission is essential for identifying which individuals and regions might be most at risk.\n\nAs data from detailed contact tracing investigations are not available in many settings, we combined age, location, genotype, and onset date of cases in order to probabilistically reconstruct the importation status and transmission clusters within a newly developed R package called o2geosocial. \n\nWe compared our inferred cluster size distributions to 737 transmission clusters identified through detailed contact-tracing in the United States between 2001 and 2016. We were able to reconstruct the importation status of the cases and found good agreement between the inferred and reference clusters. The results were improved when the contact-tracing investigations were used to set the importation status before running the model.\n\nSpatial heterogeneity in vaccine coverage is difficult to measure directly. Our approach was able to highlight areas with potential for local transmission using a minimal number of variables and could be applied to assess the intensity of ongoing transmission in a region.",
+        "references": "@article{ferguson2001a,\n  author = {Ferguson, N.M. and Donnelly, C.A. and Anderson, R.M.},\n  title = {Transmission intensity and impact of control policies on the foot and mouth epidemic in Great Britain},\n  journal = {Nature},\n  date = {2001},\n  url = {https://doi.org/10.1038/35097116.},\n  language = {}\n}\n@article{wallinga2004a,\n  author = {Wallinga, J. and Teunis, P.},\n  title = {Different Epidemic Curves for Severe Acute Respiratory Syndrome Reveal},\n  journal = {Am J Epidemiol},\n  date = {2004},\n  volume = {160},\n  pages = {509\u201316},\n  language = {}\n}\n@article{lloyd-smith2005a,\n  author = {Lloyd-Smith, J.O. and Schreiber, S.J. and Kopp, P.E. and Getz, W.M.},\n  title = {Superspreading and the effect of individual variation on disease emergence},\n  journal = {Nature},\n  date = {2005},\n  volume = {438},\n  pages = {355\u20139},\n  url = {https://doi.org/10.1038/nature04153.},\n  language = {}\n}\n@article{faye2015a,\n  author = {Faye, O. and Bo\u00eblle, P.-Y. and Heleze, E. and Faye, O. and Loucoubar, C. and Magassouba, N.},\n  title = {Chains of transmission and control of Ebola virus disease in Conakry, Guinea, in 2014: an observational study},\n  journal = {Lancet Infect Dis},\n  date = {2015},\n  volume = {15},\n  pages = {320\u20136},\n  url = {https://doi.org/10.1016/S1473-3099},\n  more-authors = {true},\n  language = {}\n}\n@misc{ypma2013a,\n  author = {Ypma, R.J.F. and van Ballegooijen, W.M. and Wallinga, J.},\n  title = {Relating phylogenetic trees to transmission trees of infectious disease outbreaks},\n  date = {2013},\n  pages = {1055\u201362},\n  language = {}\n}\n@misc{unknown-a,\n  url = {https://doi.org/10.1534/genetics.113.154856.}\n}\n@article{wallinga2007a,\n  author = {Wallinga, J. and Lipsitch, M.},\n  title = {How generation intervals shape the relationship between growth rates},\n  booktitle = {and reproductive numbers. Proc R Soc},\n  journal = {B Biol Sci},\n  date = {2007},\n  volume = {274},\n  pages = {599\u2013604},\n  url = {https://doi.org/10.1098/rspb.2006.3754.},\n  language = {}\n}\n@article{cauchemez2012a,\n  author = {Cauchemez, S. and Ferguson, N.M.},\n  title = {Methods to infer transmission risk factors in complex outbreak data},\n  journal = {J R Soc Interface},\n  date = {2012},\n  volume = {9},\n  pages = {456\u201369},\n  url = {https://doi.org/10.1098/rsif.2011.0379.},\n  language = {}\n}\n@article{jombart2014a,\n  author = {Jombart, T. and Cori, A. and Didelot, X. and Cauchemez, S. and Fraser, C. and Ferguson, N.},\n  journal = {Bayesian Reconstruction of},\n  date = {2014},\n  volume = {10},\n  url = {https://doi.org/10.1371/journal.pcbi.1003457.}\n}\n@article{campbell2019a,\n  author = {Campbell, F. and Cori, A. and Ferguson, N. and Jombart, T.},\n  title = {Bayesian inference of transmission chains using timing of symptoms, pathogen genomes and contact data},\n  journal = {PLoS Comput Biol},\n  date = {2019},\n  url = {https://doi.org/10.1371/journal.pcbi.1006930.},\n  language = {}\n}\n@incollection{haydon2003a,\n  author = {Haydon, D.T. and Chase-Topping, M. and Shaw, D.J. and Matthews, L. and Friar, J.K. and Wilesmith, J.},\n  title = {The construction and analysis of epidemic trees with reference to the 2001},\n  booktitle = {UK foot-and-mouth outbreak. Proc R Soc B},\n  publisher = {Biol Sci},\n  date = {2003},\n  url = {https://doi.org/10.1098/rspb.2002.2191.},\n  more-authors = {true},\n  language = {}\n}\n@article{cauchemez2006a,\n  author = {Cauchemez, S. and Bo\u00eblle, P.Y. and Donnelly, C.A. and Ferguson, N.M. and Thomas, G. and Leung, G.M.},\n  title = {Real-time estimates in early detection of SARS},\n  journal = {Emerg Infect Dis},\n  date = {2006},\n  more-authors = {true},\n  language = {}\n}\n@article{heijne2012a,\n  author = {Heijne, J.C.M. and Rondy, M. and Verhoef, L. and Wallinga, J. and Kretzschmar, M. and Low, N.},\n  title = {Quantifying transmission of norovirus during an outbreak},\n  journal = {Epidemiology},\n  date = {2012},\n  url = {https://doi.org/10.1097/EDE.0b013e3182456ee6.},\n  more-authors = {true},\n  language = {}\n}\n@misc{kendall2016a,\n  author = {Kendall, M. and Ayabina, D. and Colijn, C.},\n  title = {Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees},\n  date = {2016},\n  pages = {1\u201322},\n  url = {https://doi.org/10.1214/17-STS637.},\n  language = {}\n}\n@article{worby2016a,\n  author = {Worby, C.J. and O\u2019Neill, P.D. and Kypraios, T. and V., Robotham J. and De Angelis, D. and Cartwright, E.J.P.},\n  title = {Reconstructing transmission trees for communicable diseases using densely sampled genetic data},\n  journal = {Ann Appl Stat},\n  date = {2016},\n  url = {https://doi.org/10.1214/15-AOAS898.},\n  more-authors = {true},\n  language = {}\n}\n@article{lau2015a,\n  author = {Lau, M.S.Y. and Marion, G. and Streftaris, G. and Gibson, G.},\n  title = {A Systematic Bayesian Integration of Epidemiological and Genetic Data},\n  journal = {PLoS Comput Biol},\n  date = {2015},\n  language = {}\n}\n@misc{unknown-b,\n  url = {https://doi.org/10.1371/journal.pcbi.1004633.}\n}\n@article{spada2004a,\n  author = {Spada, E. and Sagliocca, L. and Sourdis, J. and Garbuglia, A.R. and Poggi, V. and De Fusco, C.},\n  title = {Use of the minimum spanning tree model for molecular epidemiological investigation of a nosocomial outbreak of hepatitis C virus infection},\n  journal = {J Clin Microbiol},\n  date = {2004},\n  url = {https://doi.org/10.1128/JCM.42.9.4230-},\n  more-authors = {true},\n  language = {}\n}\n@incollection{mollentze2014a,\n  author = {Mollentze, N. and Nel, L.H. and Townsend, S. and le Roux, K. and Hampson, K. and Haydon, D.T.},\n  title = {A bayesian approach for inferring the dynamics of partially observed endemic infectious diseases},\n  booktitle = {from space-time-genetic data. Proc R Soc B Biol Sci},\n  date = {2014},\n  url = {https://doi.org/10.1098/rspb.2013.3251.},\n  more-authors = {true},\n  language = {}\n}\n@article{gire-a,\n  author = {Gire, S.K. and Goba, A. and Andersen, K.G. and Sealfon, R.S.G. and Park, D.J. and Kanneh, L.},\n  title = {Genomic surveillance 25 elucidates Ebola virus origin and transmission during the 2014 outbreak},\n  journal = {Science},\n  date = {(80- )},\n  more-authors = {true},\n  language = {}\n}\n@misc{unknown-c,\n  url = {https://doi.org/10.1126/science.1259657.}\n}\n@article{carroll2015a,\n  author = {Carroll, M.W. and Matthews, D.A. and Hiscox, J.A. and Elmore, M.J. and Pollakis, G. and Rambaut, A.},\n  title = {Temporal and spatial analysis of the 2014-2015 Ebola virus outbreak in West Africa},\n  journal = {Nature},\n  date = {2015},\n  volume = {524},\n  pages = {97},\n  more-authors = {true},\n  language = {}\n}\n@misc{unknown-d,\n  url = {https://doi.org/10.1038/nature14594.}\n}\n@article{ruan2003a,\n  author = {Ruan, Y.J. and Wei, C.L. and Ee, L.A. and Vega, V.B. and Thoreau, H. and Yun, S.T.S.},\n  title = {Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection},\n  journal = {Lancet},\n  date = {2003},\n  volume = {361},\n  pages = {1779\u201385},\n  url = {https://doi.org/10.1016/S0140-},\n  more-authors = {true},\n  language = {}\n}\n@article{pybus2009a,\n  author = {Pybus, O.G. and Rambaut, A.},\n  title = {Evolutionary analysis of the dynamics of viral infectious disease},\n  journal = {Nat Rev Genet},\n  date = {2009},\n  volume = {10},\n  pages = {540\u201350},\n  url = {https://doi.org/10.1038/nrg2583.},\n  language = {}\n}\n@article{grenfell2004a,\n  author = {Grenfell, B.T. and Pybus, O.G. and Gog, JR, Wood and JLN, Daly and JM, Mumford and J.A.},\n  title = {Unifying the Epidemiological and Evolutionary Dynamics of Pathogens},\n  journal = {Science},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@misc{campbell-a,\n  author = {Campbell, F. and Strang, C. and Ferguson, N. and Cori, A. and Jombart, T.},\n  title = {When are pathogen genome sequences informative of transmission events?},\n  url = {https://doi.org/10.1371/journal.ppat.1006885.},\n  language = {}\n}\n@article{rota2011a,\n  author = {Rota, P.A. and Brown, K. and Mankertz, A. and Santibanez, S. and Shulga, S. and Muller, C.P.},\n  title = {Global distribution of measles genotypes and measles molecular epidemiology},\n  journal = {J Infect Dis},\n  date = {2011},\n  volume = {204},\n  url = {https://doi.org/10.1093/infdis/jir118.},\n  more-authors = {true},\n  language = {}\n}\n@article{hiebert2014a,\n  author = {Hiebert, J. and Severini, A.},\n  title = {Measles molecular epidemiology: What does it tell us and why is it important?},\n  journal = {Canada Commun Dis Rep CCDR},\n  date = {2014},\n  language = {}\n}\n@article{brown2019a,\n  author = {Brown, K.E. and Rota, P.A. and Goodson, J.L. and Williams, D. and Abernathy, E. and Takeda, M.},\n  title = {Genetic characterization of measles and rubella viruses detected through global measles and rubella elimination surveillance, 2016-2018},\n  journal = {Morb Mortal Wkly Rep},\n  date = {2019},\n  volume = {68},\n  pages = {587\u201391},\n  url = {https://doi.org/10.15585/mmwr.mm6826a3.},\n  more-authors = {true},\n  language = {}\n}\n@article{gardy2015a,\n  author = {Gardy, J.L. and Naus, M. and Amlani, A. and Chung, W. and Kim, H. and Tan, M.},\n  title = {Whole-genome sequencing of measles virus genotypes H1 and D8 during outbreaks of infection following the 2010 Olympic Winter Games reveals viral transmission routes},\n  journal = {J Infect Dis},\n  date = {2015},\n  volume = {212},\n  pages = {1574\u20138},\n  more-authors = {true},\n  language = {}\n}\n@misc{unknown-e,\n  url = {https://doi.org/10.1093/infdis/jiv271.}\n}\n@misc{penedos2015a,\n  author = {Penedos, A.R. and Myers, R. and Hadef, B. and Aladin, F. and Brown, K.E.},\n  title = {Assessment of the Utility of Whole Genome Sequencing of Measles Virus in the Characterisation of Outbreaks},\n  date = {2015},\n  pages = {1\u201316},\n  language = {}\n}\n@misc{unknown-f,\n  url = {https://doi.org/10.1371/journal.pone.0143081.}\n}\n@article{unknown2012a,\n  title = {Measles virus nomenclature Update: 2012},\n  journal = {Wkly Epidemiol Rec},\n  date = {2012},\n  volume = {87},\n  pages = {73\u201380},\n  url = {https://doi.org/10.1016/j.actatropica.2012.04.013.},\n  language = {},\n  organization = {World Health Organisation}\n}\n@article{hagemann2017a,\n  author = {Hagemann, C. and Streng, A. and Kraemer, A. and Liese, J.G.},\n  title = {Heterogeneity in coverage for measles and varicella vaccination in toddlers - Analysis of factors influencing parental acceptance},\n  journal = {BMC Public Health},\n  date = {2017},\n  url = {https://doi.org/10.1186/s12889-017-4725-6.},\n  language = {}\n}\n@article{glasser2016a,\n  author = {Glasser, J.W. and Feng, Z. and Omer, S.B. and Smith, P.J. and Rodewald, L.E.},\n  title = {The effect of heterogeneity in uptake of the measles, mumps, and rubella vaccine on the potential for outbreaks of measles: A modelling study},\n  journal = {Lancet Infect Dis},\n  date = {2016},\n  volume = {16},\n  pages = {599\u2013605},\n  url = {https://doi.org/10.1016/S1473-},\n  language = {}\n}\n@article{gasta2016a,\n  author = {Gasta\u00f1aduy, P.A. and Budd, J. and Fisher, N. and Redd, S.B. and Fletcher, J. and Miller, J.},\n  title = {A Measles Outbreak in an Underimmunized Amish Community in Ohio},\n  journal = {N Engl J Med},\n  date = {2016},\n  volume = {375},\n  pages = {1343\u201354},\n  url = {https://doi.org/10.1056/NEJMoa1602295.},\n  more-authors = {true},\n  language = {}\n}\n@misc{woudenberg-a,\n  author = {Woudenberg, T. and Van Binnendijk, R.S. and Sanders, E.A.M. and Wallinga, J. and De Melker, H.E. and Ruijs, W.L.M.},\n  title = {Large measles epidemic in the Netherlands, May 2013 to March 2014: Changing epidemiology},\n  url = {https://doi.org/10.2807/1560-},\n  more-authors = {true},\n  language = {}\n}\n@article{keenan2017a,\n  author = {Keenan, A. and Ghebrehewet, S. and Vivancos, R. and Seddon, D. and MacPherson, P. and Hungerford, D.},\n  title = {Measles outbreaks in the UK, is it when and where, rather than if? A database cohort study of childhood population susceptibility in Liverpool, UK},\n  journal = {BMJ Open},\n  date = {2017},\n  url = {https://doi.org/10.1136/bmjopen-2016-014106.},\n  language = {}\n}\n@misc{kucharski-a,\n  author = {Kucharski, A.J. and Edmunds, W.J.},\n  title = {Characterizing the Transmission Potential of Zoonotic Infections},\n  url = {https://doi.org/10.1371/journal.pcbi.1004154.},\n  language = {},\n  urldate = {from}\n}\n@article{mossong2008a,\n  author = {Mossong, J. and Hens, N. and Jit, M. and Beutels, P. and Auranen, K. and Mikolajczyk, R.},\n  title = {Social contacts and mixing patterns relevant to the spread of infectious diseases},\n  journal = {PLoS Med},\n  date = {2008},\n  volume = {5},\n  pages = {0381\u201391},\n  url = {https://doi.org/10.1371/journal.pmed.0050074.},\n  more-authors = {true},\n  language = {}\n}\n@article{blumberg2013a,\n  author = {Blumberg, S. and Lloyd-Smith, J.O.},\n  title = {Inference of R0 and Transmission Heterogeneity from the Size Distribution of Stuttering Chains},\n  journal = {PLoS Comput Biol},\n  date = {2013},\n  volume = {9},\n  pages = {1\u201317},\n  language = {}\n}\n@misc{unknown-g,\n  url = {https://doi.org/10.1371/journal.pcbi.1002993.}\n}\n@article{blumberg2014a,\n  author = {Blumberg, S. and Enanoria, W.T.A. and Lloyd-Smith, J.O. and Lietman, T.M. and Porco, T.C.},\n  title = {Identifying postelimination trends for the introduction and transmissibility of measles in the United States},\n  journal = {Am J Epidemiol},\n  date = {2014},\n  volume = {179},\n  pages = {1375\u201382},\n  url = {https://doi.org/10.1093/aje/kwu068.},\n  language = {}\n}\n@article{campbell2018a,\n  author = {Campbell, F. and Didelot, X. and Fitzjohn, R. and Ferguson, N. and Cori, A. and Jombart, T.},\n  title = {outbreaker2: A modular platform for outbreak reconstruction},\n  journal = {BMC Bioinformatics},\n  date = {2018},\n  volume = {19},\n  url = {https://doi.org/10.1186/s12859-018-2330-z.},\n  language = {}\n}\n@article{lenormand2016a,\n  author = {Lenormand, M. and Bassolas, A. and Ramasco, J.J.},\n  title = {Systematic comparison of trip distribution laws and models},\n  journal = {J Transp Geogr},\n  date = {2016},\n  volume = {51},\n  pages = {158\u201369},\n  url = {https://doi.org/10.1016/j.jtrangeo.2015.12.008.},\n  language = {}\n}\n@article{zipf1946a,\n  author = {Zipf, G.K.},\n  title = {The P 1 P 2/D hypothesis: On the intercity movement of persons},\n  journal = {Am Sociol Rev},\n  date = {1946},\n  volume = {11},\n  pages = {677\u201386},\n  url = {https://doi.org/10.2307/2657358.},\n  language = {}\n}\n@misc{unknown-h,\n  url = {https://doi.org/10.1016/j.physrep.2010.11.002.}\n}\n@article{xia2004a,\n  author = {Xia, Y. and Bj\u00f8rnstad, O.N. and Grenfell, B.T.},\n  title = {Measles Metapopulation Dynamics: A Gravity Model for Epidemiological Coupling and Dynamics},\n  journal = {Am Nat},\n  date = {2004},\n  volume = {164},\n  pages = {267\u201381},\n  language = {}\n}\n@misc{unknown-i,\n  url = {https://doi.org/10.1086/422341.}\n}\n@article{lenormand2012a,\n  author = {Lenormand, M. and Huet, S. and Gargiulo, F. and Deffuant, G.},\n  title = {A Universal Model of Commuting Networks},\n  journal = {PLoS One},\n  date = {2012},\n  url = {https://doi.org/10.1371/journal.pone.0045985.},\n  language = {}\n}\n@article{andrieu2003a,\n  author = {Andrieu, C. and De Freitas, N. and Doucet, A. and Jordan, M.I.},\n  title = {An introduction to MCMC for machine learning},\n  journal = {Mach Learn},\n  date = {2003},\n  volume = {50},\n  pages = \"5\u201343.\" # \"1020281327116.\",\n  url = {https://doi.org/},\n  unmatched-volume = {10.1023/A:},\n  unmatched-pages = {1020281327116.},\n  language = {}\n}\n@techreport{unknown2019a,\n  title = {National Notifiable Disease Surveillance System: measles/rubeola 2013},\n  url = {https://wwwn.cdc.gov/nndss/conditions/measles/casedefinition/2013/},\n  date = {2019-10-23},\n  language = {},\n  institution = {Centers for Disease Control and Prevention (CDC}\n}\n@misc{lessler2015a,\n  author = {Lessler, J. and Reich, N.G. and Brookmeyer, R. and Perl, T.M. and Nelson, K.E.},\n  title = {Incubation periods of acute respiratory viral infections: a systematic review},\n  date = {2015},\n  volume = {9},\n  pages = {291\u2013300},\n  url = {https://doi.org/10.1016/S1473-3099},\n  unmatched-volume = {Incubation.},\n  language = {}\n}\n@article{klinkenberg2011a,\n  author = {Klinkenberg, D. and Nishiura, H.},\n  title = {The correlation between infectivity and incubation period of measles, estimated from households with two cases},\n  journal = {J Theor Biol},\n  date = {2011},\n  volume = {284},\n  pages = {52\u201360},\n  url = {https://doi.org/10.1016/j.jtbi.2011.06.015.},\n  language = {}\n}\n@article{fine2003a,\n  author = {Fine, P.E.M.},\n  title = {The Interval between Successive Cases of an Infectious Disease},\n  journal = {Am J Epidemiol},\n  date = {2003},\n  volume = {158},\n  pages = {1039\u201347},\n  url = {https://doi.org/10.1093/aje/kwg251.},\n  language = {}\n}\n@misc{unknown-j,\n  title = {US Census Bureau. Centers of Population for the 2010 Census 2010},\n  url = {https://www.census.gov/geographies/reference-files/2010/geo/2010-centers-population.html},\n  language = {},\n  urldate = {(August 22, 2019).}\n}\n@misc{woudenberg-b,\n  author = {Woudenberg, T. and Woonink, F. and Kerkhof, J. and Cox, K. and Ruijs, W.L.M.},\n  title = {The tip of the iceberg: incompleteness of measles reporting during a large outbreak in The Netherlands in 2013\u20132014. 2018; 146},\n  pages = {716\u201322},\n  language = {}\n}\n@misc{unknown-k,\n  url = {https://doi.org/https}\n}\n@article{gasta2018a,\n  author = {Gasta\u00f1aduy, P.A. and Funk, S. and Paul, P. and Tatham, L. and Fisher, N. and Budd, J.},\n  title = {Impact of public health responses during ameasles outbreak in an amish community in Ohio: Modeling the dynamics of transmission},\n  journal = {Am J Epidemiol},\n  date = {2018},\n  url = {https://doi.org/10.1093/aje/kwy082.},\n  more-authors = {true},\n  language = {}\n}\n@incollection{patel2019a,\n  author = {Patel, M. and Lee, A.D. and Clemmons, N.S. and Redd, S.B. and Poser, S. and Blog, D.},\n  title = {National Update on Measles Cases and Outbreaks -},\n  date = {2019-01-01},\n  more-authors = {true},\n  source = {MMWR Morb Mortal Wkly},\n  language = {},\n  address = {United States}\n}\n@misc{unknown-l,\n  title = {Rep 2019; 68},\n  pages = {893\u20136},\n  url = {https://doi.org/10.15585/mmwr.mm6840e2.},\n  language = {}\n}\n@misc{zipprich-a,\n  author = {Zipprich, J. and Winter, K. and Hacker, J. and Xia, D. and Watt, J. and Harriman, K.},\n  title = {Measles outbreak--California},\n  date = {December},\n  url = {https://doi.org/10.1016/j.annemergmed.2015.04.002.},\n  language = {}\n}\n@article{durrheim2018a,\n  author = {Durrheim, D.},\n  title = {Measles elimination, immunity, serosurveys, and other immunity gap diagnostic tools},\n  journal = {J Infect Dis},\n  date = {2018},\n  volume = {218},\n  pages = {341\u20133},\n  url = {https://doi.org/10.1093/infdis/jiy138.},\n  language = {}\n}\n@article{prem2017a,\n  author = {Prem, K. and Cook, A.R. and Jit, M.},\n  title = {Projecting social contact matrices in 152 countries using contact surveys and demographic data},\n  journal = {PLoS Comput Biol},\n  date = {2017},\n  url = {https://doi.org/10.1371/journal.pcbi.1005697.},\n  language = {}\n}\n",
+        "links": [
+            "https://github.com/alxsrobert/o2geosocial"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Ferguson, N.M.\nAU  - Donnelly, C.A.\nAU  - Anderson, R.M.\nTI  - Transmission intensity and impact of control policies on the foot and mouth epidemic in Great Britain\nT2  - Nature\nPY  - 2001\nDA  - 2001\nUR  - https://doi.org/10.1038/35097116.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Teunis, P.\nTI  - Different Epidemic Curves for Severe Acute Respiratory Syndrome Reveal\nT2  - Am J Epidemiol\nPY  - 2004\nDA  - 2004\nVL  - 160\nSP  - 509\nEP  - 16\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lloyd-Smith, J.O.\nAU  - Schreiber, S.J.\nAU  - Kopp, P.E.\nAU  - Getz, W.M.\nTI  - Superspreading and the effect of individual variation on disease emergence\nT2  - Nature\nPY  - 2005\nDA  - 2005\nVL  - 438\nSP  - 355\nEP  - 9\nUR  - https://doi.org/10.1038/nature04153.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Faye, O.\nAU  - Bo\u00eblle, P.-Y.\nAU  - Heleze, E.\nAU  - Faye, O.\nAU  - Loucoubar, C.\nAU  - Magassouba, N.\nTI  - Chains of transmission and control of Ebola virus disease in Conakry, Guinea, in 2014: an observational study\nT2  - Lancet Infect Dis\nPY  - 2015\nDA  - 2015\nVL  - 15\nSP  - 320\nEP  - 6\nUR  - https://doi.org/10.1016/S1473-3099\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Ypma, R.J.F.\nAU  - van Ballegooijen, W.M.\nAU  - Wallinga, J.\nTI  - Relating phylogenetic trees to transmission trees of infectious disease outbreaks\nPY  - 2013\nDA  - 2013\nSP  - 1055\nEP  - 62\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1534/genetics.113.154856.\nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Lipsitch, M.\nTI  - How generation intervals shape the relationship between growth rates\nT2  - and reproductive numbers. Proc R Soc\nT2  - B Biol Sci\nPY  - 2007\nDA  - 2007\nVL  - 274\nSP  - 599\nEP  - 604\nUR  - https://doi.org/10.1098/rspb.2006.3754.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cauchemez, S.\nAU  - Ferguson, N.M.\nTI  - Methods to infer transmission risk factors in complex outbreak data\nT2  - J R Soc Interface\nPY  - 2012\nDA  - 2012\nVL  - 9\nSP  - 456\nEP  - 69\nUR  - https://doi.org/10.1098/rsif.2011.0379.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jombart, T.\nAU  - Cori, A.\nAU  - Didelot, X.\nAU  - Cauchemez, S.\nAU  - Fraser, C.\nAU  - Ferguson, N.\nT2  - Bayesian Reconstruction of\nPY  - 2014\nDA  - 2014\nVL  - 10\nUR  - https://doi.org/10.1371/journal.pcbi.1003457.\nER  - \n\nTY  - JOUR\nAU  - Campbell, F.\nAU  - Cori, A.\nAU  - Ferguson, N.\nAU  - Jombart, T.\nTI  - Bayesian inference of transmission chains using timing of symptoms, pathogen genomes and contact data\nT2  - PLoS Comput Biol\nPY  - 2019\nDA  - 2019\nUR  - https://doi.org/10.1371/journal.pcbi.1006930.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Haydon, D.T.\nAU  - Chase-Topping, M.\nAU  - Shaw, D.J.\nAU  - Matthews, L.\nAU  - Friar, J.K.\nAU  - Wilesmith, J.\nTI  - The construction and analysis of epidemic trees with reference to the 2001\nT2  - UK foot-and-mouth outbreak. Proc R Soc B\nPB  - Biol Sci\nPY  - 2003\nDA  - 2003\nUR  - https://doi.org/10.1098/rspb.2002.2191.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cauchemez, S.\nAU  - Bo\u00eblle, P.Y.\nAU  - Donnelly, C.A.\nAU  - Ferguson, N.M.\nAU  - Thomas, G.\nAU  - Leung, G.M.\nTI  - Real-time estimates in early detection of SARS\nT2  - Emerg Infect Dis\nPY  - 2006\nDA  - 2006\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Heijne, J.C.M.\nAU  - Rondy, M.\nAU  - Verhoef, L.\nAU  - Wallinga, J.\nAU  - Kretzschmar, M.\nAU  - Low, N.\nTI  - Quantifying transmission of norovirus during an outbreak\nT2  - Epidemiology\nPY  - 2012\nDA  - 2012\nUR  - https://doi.org/10.1097/EDE.0b013e3182456ee6.\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Kendall, M.\nAU  - Ayabina, D.\nAU  - Colijn, C.\nTI  - Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees\nPY  - 2016\nDA  - 2016\nSP  - 1\nEP  - 22\nUR  - https://doi.org/10.1214/17-STS637.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Worby, C.J.\nAU  - O\u2019Neill, P.D.\nAU  - Kypraios, T.\nAU  - V., Robotham J.\nAU  - De Angelis, D.\nAU  - Cartwright, E.J.P.\nTI  - Reconstructing transmission trees for communicable diseases using densely sampled genetic data\nT2  - Ann Appl Stat\nPY  - 2016\nDA  - 2016\nUR  - https://doi.org/10.1214/15-AOAS898.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lau, M.S.Y.\nAU  - Marion, G.\nAU  - Streftaris, G.\nAU  - Gibson, G.\nTI  - A Systematic Bayesian Integration of Epidemiological and Genetic Data\nT2  - PLoS Comput Biol\nPY  - 2015\nDA  - 2015\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1371/journal.pcbi.1004633.\nER  - \n\nTY  - JOUR\nAU  - Spada, E.\nAU  - Sagliocca, L.\nAU  - Sourdis, J.\nAU  - Garbuglia, A.R.\nAU  - Poggi, V.\nAU  - De Fusco, C.\nTI  - Use of the minimum spanning tree model for molecular epidemiological investigation of a nosocomial outbreak of hepatitis C virus infection\nT2  - J Clin Microbiol\nPY  - 2004\nDA  - 2004\nUR  - https://doi.org/10.1128/JCM.42.9.4230-\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Mollentze, N.\nAU  - Nel, L.H.\nAU  - Townsend, S.\nAU  - le Roux, K.\nAU  - Hampson, K.\nAU  - Haydon, D.T.\nTI  - A bayesian approach for inferring the dynamics of partially observed endemic infectious diseases\nT2  - from space-time-genetic data. Proc R Soc B Biol Sci\nPY  - 2014\nDA  - 2014\nUR  - https://doi.org/10.1098/rspb.2013.3251.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gire, S.K.\nAU  - Goba, A.\nAU  - Andersen, K.G.\nAU  - Sealfon, R.S.G.\nAU  - Park, D.J.\nAU  - Kanneh, L.\nTI  - Genomic surveillance 25 elucidates Ebola virus origin and transmission during the 2014 outbreak\nT2  - Science\nPY  - (80- )\nDA  - (80/ )\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1126/science.1259657.\nER  - \n\nTY  - JOUR\nAU  - Carroll, M.W.\nAU  - Matthews, D.A.\nAU  - Hiscox, J.A.\nAU  - Elmore, M.J.\nAU  - Pollakis, G.\nAU  - Rambaut, A.\nTI  - Temporal and spatial analysis of the 2014-2015 Ebola virus outbreak in West Africa\nT2  - Nature\nPY  - 2015\nDA  - 2015\nVL  - 524\nSP  - 97\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1038/nature14594.\nER  - \n\nTY  - JOUR\nAU  - Ruan, Y.J.\nAU  - Wei, C.L.\nAU  - Ee, L.A.\nAU  - Vega, V.B.\nAU  - Thoreau, H.\nAU  - Yun, S.T.S.\nTI  - Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection\nT2  - Lancet\nPY  - 2003\nDA  - 2003\nVL  - 361\nSP  - 1779\nEP  - 85\nUR  - https://doi.org/10.1016/S0140-\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Pybus, O.G.\nAU  - Rambaut, A.\nTI  - Evolutionary analysis of the dynamics of viral infectious disease\nT2  - Nat Rev Genet\nPY  - 2009\nDA  - 2009\nVL  - 10\nSP  - 540\nEP  - 50\nUR  - https://doi.org/10.1038/nrg2583.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Grenfell, B.T.\nAU  - Pybus, O.G.\nAU  - Gog, JR, Wood\nAU  - JLN, Daly\nAU  - JM, Mumford\nAU  - J.A.\nTI  - Unifying the Epidemiological and Evolutionary Dynamics of Pathogens\nT2  - Science\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Campbell, F.\nAU  - Strang, C.\nAU  - Ferguson, N.\nAU  - Cori, A.\nAU  - Jombart, T.\nTI  - When are pathogen genome sequences informative of transmission events?\nUR  - https://doi.org/10.1371/journal.ppat.1006885.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rota, P.A.\nAU  - Brown, K.\nAU  - Mankertz, A.\nAU  - Santibanez, S.\nAU  - Shulga, S.\nAU  - Muller, C.P.\nTI  - Global distribution of measles genotypes and measles molecular epidemiology\nT2  - J Infect Dis\nPY  - 2011\nDA  - 2011\nVL  - 204\nUR  - https://doi.org/10.1093/infdis/jir118.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hiebert, J.\nAU  - Severini, A.\nTI  - Measles molecular epidemiology: What does it tell us and why is it important?\nT2  - Canada Commun Dis Rep CCDR\nPY  - 2014\nDA  - 2014\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Brown, K.E.\nAU  - Rota, P.A.\nAU  - Goodson, J.L.\nAU  - Williams, D.\nAU  - Abernathy, E.\nAU  - Takeda, M.\nTI  - Genetic characterization of measles and rubella viruses detected through global measles and rubella elimination surveillance, 2016-2018\nT2  - Morb Mortal Wkly Rep\nPY  - 2019\nDA  - 2019\nVL  - 68\nSP  - 587\nEP  - 91\nUR  - https://doi.org/10.15585/mmwr.mm6826a3.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gardy, J.L.\nAU  - Naus, M.\nAU  - Amlani, A.\nAU  - Chung, W.\nAU  - Kim, H.\nAU  - Tan, M.\nTI  - Whole-genome sequencing of measles virus genotypes H1 and D8 during outbreaks of infection following the 2010 Olympic Winter Games reveals viral transmission routes\nT2  - J Infect Dis\nPY  - 2015\nDA  - 2015\nVL  - 212\nSP  - 1574\nEP  - 8\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1093/infdis/jiv271.\nER  - \n\nTY  - GEN\nAU  - Penedos, A.R.\nAU  - Myers, R.\nAU  - Hadef, B.\nAU  - Aladin, F.\nAU  - Brown, K.E.\nTI  - Assessment of the Utility of Whole Genome Sequencing of Measles Virus in the Characterisation of Outbreaks\nPY  - 2015\nDA  - 2015\nSP  - 1\nEP  - 16\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1371/journal.pone.0143081.\nER  - \n\nTY  - JOUR\nTI  - Measles virus nomenclature Update: 2012\nT2  - Wkly Epidemiol Rec\nPY  - 2012\nDA  - 2012\nVL  - 87\nSP  - 73\nEP  - 80\nUR  - https://doi.org/10.1016/j.actatropica.2012.04.013.\nLA  - \nC1  - World Health Organisation\nER  - \n\nTY  - JOUR\nAU  - Hagemann, C.\nAU  - Streng, A.\nAU  - Kraemer, A.\nAU  - Liese, J.G.\nTI  - Heterogeneity in coverage for measles and varicella vaccination in toddlers - Analysis of factors influencing parental acceptance\nT2  - BMC Public Health\nPY  - 2017\nDA  - 2017\nUR  - https://doi.org/10.1186/s12889-017-4725-6.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Glasser, J.W.\nAU  - Feng, Z.\nAU  - Omer, S.B.\nAU  - Smith, P.J.\nAU  - Rodewald, L.E.\nTI  - The effect of heterogeneity in uptake of the measles, mumps, and rubella vaccine on the potential for outbreaks of measles: A modelling study\nT2  - Lancet Infect Dis\nPY  - 2016\nDA  - 2016\nVL  - 16\nSP  - 599\nEP  - 605\nUR  - https://doi.org/10.1016/S1473-\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gasta\u00f1aduy, P.A.\nAU  - Budd, J.\nAU  - Fisher, N.\nAU  - Redd, S.B.\nAU  - Fletcher, J.\nAU  - Miller, J.\nTI  - A Measles Outbreak in an Underimmunized Amish Community in Ohio\nT2  - N Engl J Med\nPY  - 2016\nDA  - 2016\nVL  - 375\nSP  - 1343\nEP  - 54\nUR  - https://doi.org/10.1056/NEJMoa1602295.\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Woudenberg, T.\nAU  - Van Binnendijk, R.S.\nAU  - Sanders, E.A.M.\nAU  - Wallinga, J.\nAU  - De Melker, H.E.\nAU  - Ruijs, W.L.M.\nTI  - Large measles epidemic in the Netherlands, May 2013 to March 2014: Changing epidemiology\nUR  - https://doi.org/10.2807/1560-\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Keenan, A.\nAU  - Ghebrehewet, S.\nAU  - Vivancos, R.\nAU  - Seddon, D.\nAU  - MacPherson, P.\nAU  - Hungerford, D.\nTI  - Measles outbreaks in the UK, is it when and where, rather than if? A database cohort study of childhood population susceptibility in Liverpool, UK\nT2  - BMJ Open\nPY  - 2017\nDA  - 2017\nUR  - https://doi.org/10.1136/bmjopen-2016-014106.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Kucharski, A.J.\nAU  - Edmunds, W.J.\nTI  - Characterizing the Transmission Potential of Zoonotic Infections\nUR  - https://doi.org/10.1371/journal.pcbi.1004154.\nLA  - \nC1  - from\nER  - \n\nTY  - JOUR\nAU  - Mossong, J.\nAU  - Hens, N.\nAU  - Jit, M.\nAU  - Beutels, P.\nAU  - Auranen, K.\nAU  - Mikolajczyk, R.\nTI  - Social contacts and mixing patterns relevant to the spread of infectious diseases\nT2  - PLoS Med\nPY  - 2008\nDA  - 2008\nVL  - 5\nSP  - 0381\nEP  - 91\nUR  - https://doi.org/10.1371/journal.pmed.0050074.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Blumberg, S.\nAU  - Lloyd-Smith, J.O.\nTI  - Inference of R0 and Transmission Heterogeneity from the Size Distribution of Stuttering Chains\nT2  - PLoS Comput Biol\nPY  - 2013\nDA  - 2013\nVL  - 9\nSP  - 1\nEP  - 17\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1371/journal.pcbi.1002993.\nER  - \n\nTY  - JOUR\nAU  - Blumberg, S.\nAU  - Enanoria, W.T.A.\nAU  - Lloyd-Smith, J.O.\nAU  - Lietman, T.M.\nAU  - Porco, T.C.\nTI  - Identifying postelimination trends for the introduction and transmissibility of measles in the United States\nT2  - Am J Epidemiol\nPY  - 2014\nDA  - 2014\nVL  - 179\nSP  - 1375\nEP  - 82\nUR  - https://doi.org/10.1093/aje/kwu068.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Campbell, F.\nAU  - Didelot, X.\nAU  - Fitzjohn, R.\nAU  - Ferguson, N.\nAU  - Cori, A.\nAU  - Jombart, T.\nTI  - outbreaker2: A modular platform for outbreak reconstruction\nT2  - BMC Bioinformatics\nPY  - 2018\nDA  - 2018\nVL  - 19\nUR  - https://doi.org/10.1186/s12859-018-2330-z.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lenormand, M.\nAU  - Bassolas, A.\nAU  - Ramasco, J.J.\nTI  - Systematic comparison of trip distribution laws and models\nT2  - J Transp Geogr\nPY  - 2016\nDA  - 2016\nVL  - 51\nSP  - 158\nEP  - 69\nUR  - https://doi.org/10.1016/j.jtrangeo.2015.12.008.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zipf, G.K.\nTI  - The P 1 P 2/D hypothesis: On the intercity movement of persons\nT2  - Am Sociol Rev\nPY  - 1946\nDA  - 1946\nVL  - 11\nSP  - 677\nEP  - 86\nUR  - https://doi.org/10.2307/2657358.\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1016/j.physrep.2010.11.002.\nER  - \n\nTY  - JOUR\nAU  - Xia, Y.\nAU  - Bj\u00f8rnstad, O.N.\nAU  - Grenfell, B.T.\nTI  - Measles Metapopulation Dynamics: A Gravity Model for Epidemiological Coupling and Dynamics\nT2  - Am Nat\nPY  - 2004\nDA  - 2004\nVL  - 164\nSP  - 267\nEP  - 81\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/10.1086/422341.\nER  - \n\nTY  - JOUR\nAU  - Lenormand, M.\nAU  - Huet, S.\nAU  - Gargiulo, F.\nAU  - Deffuant, G.\nTI  - A Universal Model of Commuting Networks\nT2  - PLoS One\nPY  - 2012\nDA  - 2012\nUR  - https://doi.org/10.1371/journal.pone.0045985.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Andrieu, C.\nAU  - De Freitas, N.\nAU  - Doucet, A.\nAU  - Jordan, M.I.\nTI  - An introduction to MCMC for machine learning\nT2  - Mach Learn\nPY  - 2003\nDA  - 2003\nVL  - 50\nSP  - \"5\nEP  - 43.\" # \"1020281327116.\"\nUR  - https://doi.org/\nC1  - 10.1023/A:\nC1  - 1020281327116.\nLA  - \nER  - \n\nTY  - RPRT\nTI  - National Notifiable Disease Surveillance System: measles/rubeola 2013\nUR  - https://wwwn.cdc.gov/nndss/conditions/measles/casedefinition/2013/\nPY  - 2019\nDA  - 2019/10/23\nLA  - \nC1  - Centers for Disease Control and Prevention (CDC\nER  - \n\nTY  - GEN\nAU  - Lessler, J.\nAU  - Reich, N.G.\nAU  - Brookmeyer, R.\nAU  - Perl, T.M.\nAU  - Nelson, K.E.\nTI  - Incubation periods of acute respiratory viral infections: a systematic review\nPY  - 2015\nDA  - 2015\nVL  - 9\nSP  - 291\nEP  - 300\nUR  - https://doi.org/10.1016/S1473-3099\nC1  - Incubation.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Klinkenberg, D.\nAU  - Nishiura, H.\nTI  - The correlation between infectivity and incubation period of measles, estimated from households with two cases\nT2  - J Theor Biol\nPY  - 2011\nDA  - 2011\nVL  - 284\nSP  - 52\nEP  - 60\nUR  - https://doi.org/10.1016/j.jtbi.2011.06.015.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fine, P.E.M.\nTI  - The Interval between Successive Cases of an Infectious Disease\nT2  - Am J Epidemiol\nPY  - 2003\nDA  - 2003\nVL  - 158\nSP  - 1039\nEP  - 47\nUR  - https://doi.org/10.1093/aje/kwg251.\nLA  - \nER  - \n\nTY  - GEN\nTI  - US Census Bureau. Centers of Population for the 2010 Census 2010\nUR  - https://www.census.gov/geographies/reference-files/2010/geo/2010-centers-population.html\nLA  - \nC1  - (August 22, 2019).\nER  - \n\nTY  - GEN\nAU  - Woudenberg, T.\nAU  - Woonink, F.\nAU  - Kerkhof, J.\nAU  - Cox, K.\nAU  - Ruijs, W.L.M.\nTI  - The tip of the iceberg: incompleteness of measles reporting during a large outbreak in The Netherlands in 2013\u20132014. 2018; 146\nSP  - 716\nEP  - 22\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://doi.org/https\nER  - \n\nTY  - JOUR\nAU  - Gasta\u00f1aduy, P.A.\nAU  - Funk, S.\nAU  - Paul, P.\nAU  - Tatham, L.\nAU  - Fisher, N.\nAU  - Budd, J.\nTI  - Impact of public health responses during ameasles outbreak in an amish community in Ohio: Modeling the dynamics of transmission\nT2  - Am J Epidemiol\nPY  - 2018\nDA  - 2018\nUR  - https://doi.org/10.1093/aje/kwy082.\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Patel, M.\nAU  - Lee, A.D.\nAU  - Clemmons, N.S.\nAU  - Redd, S.B.\nAU  - Poser, S.\nAU  - Blog, D.\nTI  - National Update on Measles Cases and Outbreaks -\nPY  - 2019\nDA  - 2019/01/01\nC1  - true\nT2  - MMWR Morb Mortal Wkly\nLA  - \nCY  - United States\nER  - \n\nTY  - GEN\nTI  - Rep 2019; 68\nSP  - 893\nEP  - 6\nUR  - https://doi.org/10.15585/mmwr.mm6840e2.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zipprich, J.\nAU  - Winter, K.\nAU  - Hacker, J.\nAU  - Xia, D.\nAU  - Watt, J.\nAU  - Harriman, K.\nTI  - Measles outbreak--California\nPY  - December\nDA  - December\nUR  - https://doi.org/10.1016/j.annemergmed.2015.04.002.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Durrheim, D.\nTI  - Measles elimination, immunity, serosurveys, and other immunity gap diagnostic tools\nT2  - J Infect Dis\nPY  - 2018\nDA  - 2018\nVL  - 218\nSP  - 341\nEP  - 3\nUR  - https://doi.org/10.1093/infdis/jiy138.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Prem, K.\nAU  - Cook, A.R.\nAU  - Jit, M.\nTI  - Projecting social contact matrices in 152 countries using contact surveys and demographic data\nT2  - PLoS Comput Biol\nPY  - 2017\nDA  - 2017\nUR  - https://doi.org/10.1371/journal.pcbi.1005697.\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Values of parameters used to cluster cases declared in the United States"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Example of the change of ancestors. Panel A represent the initial tree, B is the new tree proposed after the movement. Initially, there are two ancestors (cases 1 and 2) in a group of 9 cases. 3 and 7 have different genotypes and cannot be part of the same tree, the genotypes of the other cases are not reported. The date of infection is in increasing order (1 is the first case, 9 is the last). Therefore, 1 is the only potential infector for 2"
+            },
+            {
+                "id": "2",
+                "caption": "Estimating importation status and cluster size distributions in two MCMC runs. Step 1: Initial tree obtained after pre-clustering, with the minimum number of importations (here 2, as there are two reported genotypes). Step 2: Samples from the first short run, with red line showing connection worse than the arbitrary threshold  . Step 3: Initial tree for the final run, with 1 more importation than in step 1, which corresponds to the minimum number of unlikely transmissions at step 2. Step 4: Samples from the long run. Step 5: Final trees used to compute cluster size distribution and importation status of each case. Case 7 is an importation in one third of the final samples, whereas case 3 is an importation in all of them"
+            },
+            {
+                "id": "3",
+                "caption": "Panel A: number of cases per state and Panel B: Annual number of cases reported in the United States 436 between 2001 and 2016. Alaska and Hawaii are not shown on Panel A. 437 438"
+            },
+            {
+                "id": "4",
+                "caption": "Description of transmission clusters inferred using prior knowledge on importation status of cases. Panel 441 A: Cluster size distribution for the scenario 1 and 2 (grey and dark grey), compared to the reference clusters 442 (lighgrey). Arrows represent the 95% credibility intervals of each estimate. Only clusters containing at least 2 cases are represented. Insert: Number of importations and number of isolated cases (singletons) in scenario 1 and 2, and in the reference clusters. For each scenario, the horizontal dark line represents the number of importations that are also importations in the reference clusters, same for singletons. Panel B: Heatmap representing the precision and sensitivity of the clusters for each case in scenario 1, cases are classified in a category depending on the proportion of their reference cluster that were inferred in the same cluster (x-axis) and the proportion of mismatches in the inferred cluster. Panel C: Same for scenario 2. 449"
+            },
+            {
+                "id": "5",
+                "caption": "Description of transmission clusters generated with inferred importation status of cases. Panel A: Cluster size distribution for different value of threshold in the scenario 3 (sorted by shades of grey), compared to the reference clusters (lighgrey). Arrows represent the 95% credibility intervals of each estimate. Only clusters containing at least 2 cases are represented. Insert: Number of importations and number of isolated cases (singletons). For each scenario, the horizontal dark line represents the number of importation that are also importations in the reference clusters, same for singletons. Panel B: Heatmap representing the precision and sensitivity of the clusters for each case in scenario 3, with a 5% relative threshold, cases are classified in a category depending on the proportion of their reference cluster that were inferred in the same cluster. Panel C: Same when importation status is taken from the contact tracing investigations and inferred using a 5% relative threshold"
+            },
+            {
+                "id": "6",
+                "caption": "Ratio of the number of importations over the number of subsequent cases in each state in A/ Scenario 1 462 (Ideal importations) and B/ Scenario 3 with epidemiological importations and   = 0.05. Grey states represent states 463 that did not report any case"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.02.13.20020891.full.pdf_z6spc1zm_yxy4ho5a.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.02.13.20020891.full.pdf_z6spc1zm_images_mi03e1ei/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.13.20020891.full.pdf_z6spc1zm_images_mi03e1ei/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.13.20020891.full.pdf_z6spc1zm_images_mi03e1ei/img-004.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.13.20020891.full.pdf_z6spc1zm_images_mi03e1ei/img-005.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.13.20020891.full.pdf_z6spc1zm_images_mi03e1ei/img-006.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.13.20020891.full.pdf_z6spc1zm_images_mi03e1ei/img-007.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "Establishing who infected whom during an outbreak can help inform the design and evaluation of control measures[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Transmission links can be reconstructed through contact tracing investigation, whereby cases are asked their movements and contacts during their infectious period. Given that contact-tracing investigations are not always carried out due to the logistical effort and cost involved, inference methods have been developed to use epidemiological data to estimate the probability that a transmission event occurred between any given pair of cases[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. This makes it possible to establish probabilistic transmission trees that link all observed cases.<br/><br/>Wallinga and Teunis first developed a likelihood-based estimation procedure to reconstruct probabilistic transmission trees from a given distribution of generation times and observed symptom onset dates of each case[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Since then, genomic, spatial or contact data have been used to supplement the timing of symptoms, which helped identify determinants of transmission, mixing behaviour, individual dispersion, evaluate control measures, anticipate future developments of outbreaks and study viral evolutionary patterns[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>\u2013<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]."
+        ],
+        "methods": [
+            "Presentation of the algorithm<br/><br/>Likelihood function and parameter definition<br/><br/>We used a probabilistic model to infer the individual contribution to the log-likelihood Li of every case included in the list of cases.<br/><br/>Li (ti , j, tj ,  ) = log(f(ti \u2212 Ti )) + Lji (ti , tj ,  )    (1)<br/><br/>Li was computed from Lji ( ), the log-likelihood of case i being infected by case j as a function of infection times ti and tj and model parameters  , and the timing of ti , the date of infection of i, relative to the date of symptom onset Ti . We defined f(ti \u2212 Ti ) as the probability density of observing Ti if case i was infected at time ti (i.e. f represents the distribution of incubation periods). The log-likelihood of transmission Lji was computed from five components reflecting the age group, genotype, location, and inferred date of infection of cases i and j, and the generation time of the disease: Lji (ti , tj ,  ) = log (p(\u03baji |\u03c1) \u2217 w (\u03baji) (ti \u2212 tj ) \u2217 a(\u03baji) (\u03b1i , \u03b1j ) \u2217 G(gi , g\u03c4j ) \u2217 s (\u03baji) (ri , rj | a, b))<br/><br/>We allowed for missing generations between cases due to an unreported individual, and \u03baji corresponds to the number of generations between i and j. We calculated the temporal probability of transmission between i and j from the number of days between the dates of infection of the two cases ti and tj and the generation time of the disease w(t). This probability of infection was quantified by w k (ti \u2212 tj , \u03baji ), w (\u03ba) = \u220f\u03ba w , where \u03a0 is the convolution operator. We used an exponential distribution p(\u03baji |\u03c1) to quantify the probability of observing \u03baji missing generation between i and j from the conditional report ratio \u03c1 which quantifies the probability of missing generation between two connected cases in a cluster."
+        ],
+        "results": [
+            "We clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype. Using the contact tracing investigations, we considered three different initial importation status distribution: i) only the ancestors of each epidemiological cluster (first case of each cluster) were importations (ideal importation), ii) all cases classified as importation in the contact tracing investigations were importations (epidemiological importation), iii) no prior information on importation status of cases. The importation status of the cases was therefore not probabilistically inferred in scenario 1 and 2. The short preliminary run was 30,000 iterations and 70,000 iterations. For each run, the trace of the posterior distribution shows the convergence of the algorithm (Supplement Figure S3).<br/><br/>In scenario 1, we did not infer the importation status of cases. The inferred cluster size distribution matched the contact tracing investigations (Figure 4A); 98% of the reference singletons were also isolated in the inferred cluster. For 94% (95% Credibility Interval: 91-98%) of cases, the inferred cluster had a sensitivity and precision above 75%, meaning more than 75% of the cases in the inferred cluster were in the reference cluster, and more than 75% of the cases in the reference cluster were in the inferred cluster (Figure 4B). For 80% (78 \u2013 93%) of cases, the inferred clusters were a perfect match with the reference clusters. The cluster size distribution stratified by state was similar to the contact tracing investigations (Supplement Figure S4). Therefore, when each ancestor was considered as an importation, the inferred clusters were very close to the reference ones."
+        ],
+        "discussion": [
+            "We developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data (genotype, age, onset date and location of the cases). As recently observed during the 2018-2019 measles outbreak in New York, delays in childhood vaccination, local susceptibility, and increased contacts can lead to large outbreaks following importations[<a class=\"ref-link\" id=\"c52\" href=\"#r52\">52</a>,<a class=\"ref-link\" id=\"c53\" href=\"#r53\">53</a>]. Therefore, we were interested in highlighting the effect of imported cases on communities and we focused on short distance transmission to identify areas where they repeatedly caused subsequent transmission chains. Although this is not predictive of future transmission, it highlights communities with potential for large transmission clusters.<br/><br/>We compared the inferred transmission clusters to the contact tracing investigations of 2,077 confirmed measles cases reported in the United States between 2001 and 2016. We were able to produce reliable estimates of known transmission clusters using epidemiological features with only few misclassifications. Estimating the importation status of cases without prior knowledge was challenging and caused uncertainty on the results. We tested different threshold \u03bb to eliminate unlikely transmissions, and we were able to identify most of the imported cases. Nevertheless, if several cases were imported in the same region at a similar time, we could not find all of them without discarding valid transmission events, and increasing the number of false positives. When we used the importation status as defined in the contact tracing investigations without probabilistic inference (scenario 1 and 2), the reconstructed clusters were similar to the reference ones. Results were also conclusive when we combined prior information and importation inference. The reconstruction of transmission greatly depends on the epidemiological investigations to identify measles importations in a community."
+        ],
+        "conclusions": [
+            "Heterogeneity in immunity can cause large outbreaks in countries with high national vaccine coverage, and identifying potential foyers of transmission in post-elimination settings is key for outbreak prevention and control. We have presented a method for estimating the cluster size distribution of past measles outbreaks from routinely collected surveillance data. We found that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters. Although the method was able to identify a proportion of importations, epidemiological investigations on the history of travel and exposure reduced uncertainty on the clustering of cases. We believe these investigations are needed to produce reliable estimates of past transmission clusters. In lieu of the importation status, if multiple genotypes are co-circulating, increasing the proportion of genotyped cases could help discard potential connections and find imported cases. Even with limited information, this method was able to infer probabilistic transmission clusters in a fast and efficient way."
+        ],
+        "acknowledgements": [
+            "We acknowledge Thibaut Jombart for technical support and feedback on the analysis plan."
+        ],
+        "funding": [
+            "AR was supported by the Medical Research Council (MR/N013638/1). SF was supported by a Wellcome Trust Senior Research Fellowship in Basic Biomedical Science (210758/Z/18/Z). AJK was supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (206250/Z/17/Z).  Disclaimer"
+        ],
+        "data_availability": [
+            "https://github.com/alxsrobert/o2geosocial"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Figure S1",
+                "Figure S2",
+                "Figure S3",
+                "Figure S4",
+                "Figure S5",
+                "Figure S6",
+                "Figures S7",
+                "Figures S8",
+                "Figure S9",
+                "Figure S10",
+                "Figure S11",
+                "Figure S12",
+                "Figure S13"
+            ]
+        }
+    },
+    "structured_content": {
+        "Abstract": [
+            "Pockets of susceptibility resulting from spatial or social heterogeneity in vaccine coverage can drive measles outbreaks, as cases imported into such pockets are likely to cause further transmission and lead to large transmission clusters. Characterising the dynamics of transmission is essential for identifying which individuals and regions might be most at risk.",
+            "As data from detailed contact tracing investigations are not available in many settings, we combined age, location, genotype, and onset date of cases in order to probabilistically reconstruct the importation status and transmission clusters within a newly developed R package called o2geosocial.",
+            "We compared our inferred cluster size distributions to 737 transmission clusters identified through detailed contact-tracing in the United States between 2001 and 2016. We were able to reconstruct the importation status of the cases and found good agreement between the inferred and reference clusters.",
+            "The results were improved when the contact-tracing investigations were used to set the importation status before running the model.",
+            "Spatial heterogeneity in vaccine coverage is difficult to measure directly. Our approach was able to highlight areas with potential for local transmission using a minimal number of variables and could be applied to assess the intensity of ongoing transmission in a region."
+        ],
+        "Introduction": [
+            "Establishing who infected whom during an outbreak can help inform the design and evaluation of control measures[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Transmission links can be reconstructed through contact tracing investigation, whereby cases are asked their movements and contacts during their infectious period. Given that contact-tracing investigations are not always carried out due to the logistical effort and cost involved, inference methods have been developed to use epidemiological data to estimate the probability that a transmission event occurred between any given pair of cases[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. This makes it possible to establish probabilistic transmission trees that link all observed cases.",
+            "Wallinga and Teunis first developed a likelihood-based estimation procedure to reconstruct probabilistic transmission trees from a given distribution of generation times and observed symptom onset dates of each case[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Since then, genomic, spatial or contact data have been used to supplement the timing of symptoms, which helped identify determinants of transmission, mixing behaviour, individual dispersion, evaluate control measures, anticipate future developments of outbreaks and study viral evolutionary patterns[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>\u2013<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>].",
+            "As sequencing of pathogens has become more common, the use of such data to infer transmission trees has increased. Methods developed to add genetic distance to a Wallinga-Teunis algorithm, where cases with lower genetic distance are more likely to be grouped in the same transmission group, showed it substantially increased the accuracy of the reconstructed transmission trees[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>\u2013<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>].",
+            "The utility of sequence data depends on the characteristics of the pathogen[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>,<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. Based on N-450 sequence data, eight measles genotypes have been detected since 2009[<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>,<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]; these genotype designations are helpful in linking cases, as linked cases must be infected by virus of the same genotype[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]; however, the diversity of measles genotypes is decreasing[<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. It has been suggested that further sequencing the M-F non-coding region, or full genome sequencing, could help identify measles virus transmission trees, but so far, extended sequencing during measles outbreaks has been scarce[<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>,<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. In addition, the evolutionary rate of measles virus is very low[<a class=\"ref-link\" id=\"c29\" href=\"#r29\">29</a>], therefore, samples from unrelated cases can be very close genetically and genetic sequences from measles cases are not usually indicative of direct transmission links[<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>,<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>].",
+            "As measles is highly infectious, under-immunized communities (also called pockets of susceptibles) resulting from local heterogeneity in vaccine coverage can lead to large, long-lasting outbreaks[<a class=\"ref-link\" id=\"c30\" href=\"#r30\">30</a>\u2013<a class=\"ref-link\" id=\"c34\" href=\"#r34\">34</a>].",
+            "Detecting these pockets of susceptibles can be challenging, as historical local values of coverage throughout a given country are rarely available. The size distribution of transmission trees resulting from each importation during outbreaks (otherwise known as the cluster size distribution) will depend both on individual factors (e.g. age of the imported case which might affect contact patterns) and community factors (e.g. the history of coverage in the area)[<a class=\"ref-link\" id=\"c35\" href=\"#r35\">35</a>,<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>]. The size of a cluster can therefore reflect the level of susceptibility of individuals directly and indirectly connected to the index case [<a class=\"ref-link\" id=\"c37\" href=\"#r37\">37</a>,<a class=\"ref-link\" id=\"c38\" href=\"#r38\">38</a>].",
+            "Here we introduced a model combining age, location, genotype, and rash onset date of cases to reconstruct probabilistic transmission trees. We chose these features to make the model applicable to a wide range of settings as they are commonly reported and informative on transmission. We wrote the",
+            "R package o2geosocial to conduct inference on individual-level data using this model. It is based on the package outbreaker2 and is designed for outbreaks with partial sampling of cases, or uninformative genetic sequences, such as measles outbreaks[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c39\" href=\"#r39\">39</a>]. We used the likelihood of transmission links between different cases to estimate their importation status. We compared the inferred importation status and cluster size distribution to the transmission clusters identified via contact tracing during measles outbreaks in the United States between 2001 and 2016."
+        ],
+        "Methods": [
+            "We used a probabilistic model to infer the individual contribution to the log-likelihood Li of every case included in the list of cases.",
+            "Li was computed from Lji ( ), the log-likelihood of case i being infected by case j as a function of infection times ti and tj and model parameters  , and the timing of ti , the date of infection of i, relative to the date of symptom onset Ti . We defined f(ti \u2212 Ti ) as the probability density of observing Ti if case i was infected at time ti (i.e. f represents the distribution of incubation periods). The log-likelihood of transmission Lji was computed from five components reflecting the age group, genotype, location, and inferred date of infection of cases i and j, and the generation time of the disease: Lji (ti , tj ,  ) = log (p(\u03baji |\u03c1) \u2217 w (\u03baji) (ti \u2212 tj ) \u2217 a(\u03baji) (\u03b1i , \u03b1j ) \u2217 G(gi , g\u03c4j ) \u2217 s (\u03baji) (ri , rj | a, b))",
+            "We allowed for missing generations between cases due to an unreported individual, and \u03baji corresponds to the number of generations between i and j. We calculated the temporal probability of transmission between i and j from the number of days between the dates of infection of the two cases ti and tj and the generation time of the disease w(t). This probability of infection was quantified by w k (ti \u2212 tj , \u03baji ), w (\u03ba) = \u220f\u03ba w , where \u03a0 is the convolution operator. We used an exponential distribution p(\u03baji |\u03c1) to quantify the probability of observing \u03baji missing generation between i and j from the conditional report ratio \u03c1 which quantifies the probability of missing generation between two connected cases in a cluster.",
+            "It does not correspond to the overall report ratio of an outbreak as entire missing clusters, or unreported cases infected after the last case or before the ancestor of a cluster are not included in \u03c1. The \u201cancestor\u201d",
+            "is the earliest identified case of a cluster.",
+            "a(\u03b1i , \u03b1j , \u03baji ) was defined as the probability of transmission between age groups \u03b1i and \u03b1j . This probability corresponds to the proportion of contacts to the age group \u03b1i that originated from \u03b1j and can be deduced from studies such as Polymod[<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>]. We defined G (gi , g\u03c4j ) as the probability of observing the pathogen genotype gi in case i in the tree \u03c4j containing case j. There can only be one measles virus genotype per transmission tree, or cases with unreported genotype.",
+            "otherwise s(ri , rj , \u03baij ) was defined as the probability of connection from rj to ri , counties of residency of i and j.",
+            "We used a gravity model to quantify the connectivity of the different geographical units. In the simplest form of the gravity approach, the number of connections between two counties k and l is proportional to the product of the origin population mk , the destination population ml and a function of the distance between k and l dkl : pkl \u221d f(dkl, a) \u2217 mbk \u2217 mcl , with a, b, and c parameters adjusting for the impact of distance and population. From this definition, we deduced s(k, l), the probability of transmission from an individual from region k to another from region l: s(k, l) =",
+            "Only the parameters a and b were required to compute the spatial probability of transmission. We used the exponential gravity model (f(dkl , a) = e \u2212a\u2217dkl )[<a class=\"ref-link\" id=\"c40\" href=\"#r40\">40</a>]. This approach showed good performance at modelling short distance commuting, and was easy to parametrise[<a class=\"ref-link\" id=\"c40\" href=\"#r40\">40</a>\u2013<a class=\"ref-link\" id=\"c44\" href=\"#r44\">44</a>].",
+            "In order to compute the log-posterior densities of the proposed trees, we summed the individual loglikelihoods and added log-priors on the report ratio \u03c1, which quantified the percentage of cases in the chains reported to the surveillance system; and the spatial parameters a and b (Table 1).",
+            "We used a Metropolis Hastings algorithm with Markov chain Monte Carlo (MCMC) to sample from the posterior distribution of parameters and the transmission trees. To do this, we developed a set of proposal tree updates. These updates were accepted with acceptance probability as defined by the",
+            "Metropolis-Hastings algorithm[<a class=\"ref-link\" id=\"c45\" href=\"#r45\">45</a>]. We used eight types of tree proposal to ensure good mixing. Each proposal conserved the overall number of trees, with a maximum of one unique genotype reported per tree.",
+            "Five of the proposals had already been implemented in the outbreaker2 package and were adapted to this setting: i) change the number of generations between two cases; ii) change the conditional report ratio \u03c1; iii) change the time of infection; iv) change the infector of a case (if the case is not the ancestor of a tree); v) swap infector-infectee (if none is the ancestor of a tree).",
+            "We added two proposals to change a and b, the spatial kernel parameters. For each proposal, the probability of transmission between every geographical unit was re calculated with the new values.",
+            "Depending on the number of geographical units, this calculation considerably slowed down the algorithm. Therefore, when a or b were estimated, we limited the maximal number of missing generations to 1 (max(\u03baji ) = 2). Finally, the last proposal was designed to change the ancestor of the tree whilst conserving the overall number of trees (Figure 1).",
+            "Unrelated measles cases stemming from different importations and different regions can be part of the same dataset. Grouping cases and excluding unrealistic transmission links reduces the number of possible trees and speeds up the MCMC runs. To do so, we listed each case\u2019s potential infectors using three criteria: i) The potential infectors must be of the same genotype as the case, or have unreported genotype, ii) The location of potential infectors must be less than \u03b3 km away from the case and iii) the potential infectors must have been reported later than \u03b4 days before the case. This threshold should be determined from the maximum plausible generation time of the disease. The spatial threshold \u03b3 should be defined according to the relevance of long-distance transmissions. Cases with no potential infector were considered as importations. Otherwise, they were grouped together with i) their potential infectors and ii) cases with common potential infectors.",
+            "After grouping the cases, we estimated their importation status and the cluster size distribution using two runs of MCMC (Figure 2). The first run was shorter and aimed at removing the most unlikely connections among each group, as they can reflect unrealistic estimates for incubation periods or generation times and corrupt the estimation of the date of infection. We defined a reference threshold \u03bb, whereby if the individual value of log-likelihood Li was worse than \u03bb, then the connection between i and their index was considered unlikely. In Outbreaker2, \u03bb was a relative value, defined from a quantile of the individual log-likelihoods. In o2geosocial, \u03bb can be a relative value or an absolute value, chosen from the number of components of the likelihood. For each sample saved from the short run, we computed the number of unlikely connections n. If there was no iteration where all connections where better than \u03bb, min(n) new importations were added to the initial tree for the long run (Figure 2).",
+            "Finally, we ran a long MCMC chain and obtained samples from the posterior distribution. After removing the burn-in period and thinning the chain, we deleted the unlikely transmission links in each iteration and identified transmission clusters. Therefore, unlike the previous versions of outbreaker2, the number of importations in each sample can vary and the individual probability of being an importation can be computed (Figure 2).",
+            "Validation case study: measles outbreaks in the United States between 2001 and 2016",
+            "To evaluate the performance of the model, we inferred the transmission clusters from a dataset that also included information on whether measles cases were part of a cluster based on contact tracing investigations. Measles cases in the United States are reported by healthcare providers and clinical laboratories to their corresponding health department. Each case is investigated by local and state health departments classified according to standard case definitions[<a class=\"ref-link\" id=\"c46\" href=\"#r46\">46</a>], and linked into clusters epidemiologically (e.g., by establishing a direct contact or a shared location between cases, or when cases are part of a specific community where an outbreak is occurring). Cases are considered internationally imported if at least part of the exposure period (7\u201321 days before rash onset) occurred outside the United States and rash occurred within 21 days of entry into the United States, with no known exposure to measles in the United States during the exposure period.",
+            "Confirmed measles cases are routinely reported by state health departments to the CDC. 2,098 measles cases were reported in the United States between January 2001 and December 2016. The number of annual cases did not exceed 700 cases during this time period (Figure 3, Supplement Figure S1). The importation status, 5-year age group, onset date, county, and state of residence were fully reported for",
+            "2,077 cases. The 21 cases with missing data were discarded. 25% of the cases were classified as importations. 39% of the cases had their genotype reported. The dataset of 2,077 cases is referred to as \u201creference dataset\u201d in the results section, and was used to evaluate the performance of the inference method.",
+            "Among cases with complete data, 737 independent clusters, containing 1 to 380 cases, were reconstructed through contact tracing investigations. Not every identified case could be linked to an importation, and some transmission clusters contained multiple imported cases (e.g. when related individuals travel together to a foreign country and were infected there). Out of the 737 reference clusters, 38 had several cases classified as importations, 256 had none identified.",
+            "The distributions and priors used in the studies are listed in Table 1. As no studies quantifying the probability of age-specific contacts have been carried out in the United States, we used the estimates from the POLYMOD study in the UK[<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>]. The incubation period and the generation time of measles were taken from previous studies [<a class=\"ref-link\" id=\"c47\" href=\"#r47\">47</a>\u2013<a class=\"ref-link\" id=\"c49\" href=\"#r49\">49</a>]. We used the population centroid of each county to compute the distance matrix[<a class=\"ref-link\" id=\"c50\" href=\"#r50\">50</a>]. We used a beta distribution as the prior of the conditional report ratio[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. The mean of the prior distribution was calculated using the number of clusters whose first case was not classified as an imported case, meaning the investigations were not able to trace back to the first case imported. As there was no prior information on the possible values of the spatial parameters, we used uniform distributions as priors for a and b.",
+            "For pre-clustering of cases, we set the temporal threshold \u03b4 to 30 days, which is above the 97.5% upper quantile of the generation time with a missing generation. We were interested in local transmission to describe the impact of an imported case on a community. But we only had information on the county of residency for each case. Counties are large geographical units: the average county land area is",
+            "2,911km2 and the maximum values reach 50,000km2. Therefore, we set the spatial threshold \u03b3 to 100km to exclude long distance transmission, while still allowing for cross-county transmission.",
+            "Finally, we tested several relative and absolute importation thresholds \u03bb. Absolute values were calculated from a factor k, multiplied by the number of components in Li , excluding the binary genetic component. Tested values were k = 0.05 (\u03bb = \u221215) and k = 0.1 (\u03bb = \u221211). Connections were considered unlikely if the log-likelihood was worse than \u03bb. Relative values were quantiles of all recorded log-likelihoods in the sampled trees (Table 1).",
+            "Using the contact tracing investigations, we considered three different initial distributions of the importation status. In scenario 1, there was no inference of the importation status of cases, and the first case of each epidemiological cluster was classified as importation (Ideal importation). In scenario 2: there was no inference of the importation status of cases, and all cases identified as importation in the contact tracing investigations were classified as importations (Epidemiological importation). Finally, in",
+            "Scenario 3, the importation status of cases was inferred, using different thresholds \u03bb, and using no prior information on the importation status of cases or the importation status from the contact tracing investigations.",
+            "In order to compare the inferred and reference clusters, we calculated for each case i) the proportion of the reference cluster correctly inferred (sensitivity) and ii) the proportion of the inferred cluster that was part of the reference cluster (precision). These values were calculated at every iteration, and the median values were used to evaluate the fit obtained with different values of \u03bb. We also used the inferred cluster size distribution to the reference data. The credibility intervals for each case are reported in the",
+            "Supplement (Supplement Figure S2)."
+        ],
+        "Results": [
+            "We clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype. Using the contact tracing investigations, we considered three different initial importation status distribution: i) only the ancestors of each epidemiological cluster (first case of each cluster) were importations (ideal importation), ii) all cases classified as importation in the contact tracing investigations were importations (epidemiological importation), iii) no prior information on importation status of cases. The importation status of the cases was therefore not probabilistically inferred in scenario 1 and 2. The short preliminary run was 30,000 iterations and 70,000 iterations. For each run, the trace of the posterior distribution shows the convergence of the algorithm (Supplement Figure S3).",
+            "In scenario 1, we did not infer the importation status of cases. The inferred cluster size distribution matched the contact tracing investigations (Figure 4A); 98% of the reference singletons were also isolated in the inferred cluster. For 94% (95% Credibility Interval: 91-98%) of cases, the inferred cluster had a sensitivity and precision above 75%, meaning more than 75% of the cases in the inferred cluster were in the reference cluster, and more than 75% of the cases in the reference cluster were in the inferred cluster (Figure 4B). For 80% (78 \u2013 93%) of cases, the inferred clusters were a perfect match with the reference clusters. The cluster size distribution stratified by state was similar to the contact tracing investigations (Supplement Figure S4). Therefore, when each ancestor was considered as an importation, the inferred clusters were very close to the reference ones.",
+            "In scenario 2, we used the importation status distribution of cases reported in the contact tracing investigations (539 importations). Pre-clustering highlighted 165 cases with no potential infector, which were also classified as importations. We observed discrepancies between the inferred cluster size distribution and the reference one: Among the 704 cases inferred as importation, 61 (9%) were not importations in the reference cluster. Furthermore, 94 cases were the ancestor of a reference cluster and were not classified as importations in the inferred clusters (13%). The overall cluster size distribution matched the reference distribution, but 111 reference singletons were inferred as part of transmission clusters (Figure 4A, Supplement Figure S5). Although the precision of the inferred cluster was above",
+            "75% for 93% (88-93%) of the cases, 31% (6-39%) had a sensitivity score below 0.5, meaning they were classified with less than half of their reference clusters (Figure 4C). The discrepancies observed in this scenario are due to inconsistencies between the importation status distribution and the clustering of cases in the contact tracing investigations, as reference clusters that gathered several importations were split into different inferred clusters in Scenario 2.",
+            "In scenario 3, the importation status of cases was inferred from a threshold \u03bb. For each case i, if the loglikelihood Li was worse than \u03bb, the connection between the case and its index was removed and the case was considered imported. Firstly, using an absolute factor k = 0.05 (\u03bb = \u221215), 586 (581-593)",
+            "cases were classified as importations, 361 (355-369) of them were singletons. These numbers are much lower than the reference datasets that contains 737 clusters, and 539 singletons (Figure 5A, Supplement",
+            "Figure S6). We observed very few misclassifications of importation status and singletons (15 (10-22)",
+            "misclassified importations, 4 (0-14) misclassified singletons), and the cluster size distribution for clusters including two cases and more was very similar to the reference one. The precision of the reconstructed cluster was very high (above 75% for 88% (85-93%) of cases) (Figure 5B). Overall, the algorithm was not able to accurately identify importations and singletons as the threshold was too low to eliminate some unrealistic connections, but the inferred larger clusters matched their reference counterparts.",
+            "We then observed the impact of increasing \u03bb on the inferred cluster size distribution. Runs obtained using an absolute threshold with k = 0.10 (\u03bb = \u221211) and 95% relative threshold yielded very similar results. The number of cases inferred as importations was higher than in previous runs, while all remaining links showed good connection between cases. The number of importations was closer to the reference dataset, and the number of singletons was greater than the reference. Nevertheless, the 11%",
+            "(10-12%) of the inferred importations was not classified as importation in the reference clusters.",
+            "Furthermore, the number of two-case chains was overestimated, and bigger clusters were likely to be split because of the removal of weaker connections. Therefore, increasing \u03bb did not improve the cluster size distribution, as many importations in the reference clusters were not identified and the number of mismatches increased (Supplement Figures S7).",
+            "Finally, we combined prior information and inference of importation status. Cases considered as importations in the contact tracing investigations were set as importations, and we inferred the importation status of the remaining cases. We used a low threshold, to remove the least likely transmission links (k = 0.05). Including prior information led to some misclassification of importation status due to the inconsistencies between the epidemiological importation status and the reference clusters. As in scenario 2, some cases were classified with only part of their reference clusters because clusters with several importations were split into different clusters. Indeed, the sensitivity score of 34%",
+            "(7-51%) of cases was below 0.5. Nevertheless, the cluster size distribution observed in the simulation was the closest to the reference clusters. There were 725 (719-731) clusters, 89% of importations were also ancestors of reference clusters and the number of singletons matched the reference clusters (Figure",
+            "5A-C). The inferred clusters of 88% (86-94%) of the cases had a precision score of 1, showing they were clustered without any false positives. Despite discrepancies in several states (Massachusetts, Ohio), the cluster size distribution stratified by state showed good agreement with the reference clusters (Supplement Figures S8).",
+            "The conditional report ratio in the transmission chains \u03c1 and the spatial parameters a and b was estimated in each scenario. The parameter estimates did not depend on the prior importation status distribution or the value of \u03bb. \u03c1 was consistently estimated above 90%, showing a low number of missing generations between cases (Supplement Figure S9). This number is not representative of the overall report ratio, which is usually much lower[<a class=\"ref-link\" id=\"c51\" href=\"#r51\">51</a>], and does not take into account missing importations in singletons and chains. High values of \u03c1 show that the reported cases can be connected without missing generations.",
+            "There was little variation in the estimates of the spatial parameters between the different scenarios. The population parameter a was estimated between 0.6 and 1 for every scenario, and the distance parameter b was between 0.08 and 0.12. In every scenario, more than 80% of the inferred transmission were between cases distant of less than 10km, and few long-distance transmissions were recorded (50-",
+            "100km), hence although most of the reconstructed connections were between cases from the same county, the algorithm was able to identify clusters spreading over several counties or states (Supplement",
+            "Figure S10).",
+            "We highlighted the added value of including the spatial distance between cases in the likelihood by comparing the cluster size distribution inferred by selecting certain components of Li (Supplement",
+            "Figure S11). The credibility intervals were much wider when the distance between cases is not part of the likelihood, and the number of chains containing 2 to 10 cases was over estimated. The important impact of the spatial component of likelihood was also due to the widespread American territory, and could be lower in a different setting.",
+            "We used the ratio of the number of importations over the number of subsequent cases per state to evaluate the intensity of transmission in each state between 2001 and 2016 (Figure 6). The maps obtained in the scenario 1 (ideal scenario) or in scenario 3 (estimation of importation, with epidemiological importations and k = 0.05) were very similar. We only observed minor differences, for example in South Dakota and in Massachusetts, where the ratios were higher in scenario 3. The highest ratio (31.8 in scenario 1) was observed in Ohio, and is mostly due to a 383 case outbreak in",
+            "2014[<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>]. We observed major differences between the incidence map (Figure 3A) and the ratio per state. Indeed, although 403 cases were reported in California (highest number in the US), importations caused on average 1.32 subsequent cases in scenario 1 (1.60 in scenario 3), showing a high proportion of reported cases were inferred as importations.",
+            "Similarly, we used the inferred transmission chain to compute the inferred reproduction number in each state. According to the model, about 60% cases did not cause future transmission, and about 5% caused more than 5 subsequent cases (Supplement Figure S12). These numbers were consistent in each run.",
+            "The geographical distribution of reproduction number was very similar to the importation - subsequent cases ratio (Supplement Figure S13)."
+        ],
+        "Discussion": [
+            "We developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data (genotype, age, onset date and location of the cases). As recently observed during the 2018-2019 measles outbreak in New York, delays in childhood vaccination, local susceptibility, and increased contacts can lead to large outbreaks following importations[<a class=\"ref-link\" id=\"c52\" href=\"#r52\">52</a>,<a class=\"ref-link\" id=\"c53\" href=\"#r53\">53</a>]. Therefore, we were interested in highlighting the effect of imported cases on communities and we focused on short distance transmission to identify areas where they repeatedly caused subsequent transmission chains. Although this is not predictive of future transmission, it highlights communities with potential for large transmission clusters.",
+            "We compared the inferred transmission clusters to the contact tracing investigations of 2,077 confirmed measles cases reported in the United States between 2001 and 2016. We were able to produce reliable estimates of known transmission clusters using epidemiological features with only few misclassifications. Estimating the importation status of cases without prior knowledge was challenging and caused uncertainty on the results. We tested different threshold \u03bb to eliminate unlikely transmissions, and we were able to identify most of the imported cases. Nevertheless, if several cases were imported in the same region at a similar time, we could not find all of them without discarding valid transmission events, and increasing the number of false positives. When we used the importation status as defined in the contact tracing investigations without probabilistic inference (scenario 1 and 2), the reconstructed clusters were similar to the reference ones. Results were also conclusive when we combined prior information and importation inference. The reconstruction of transmission greatly depends on the epidemiological investigations to identify measles importations in a community.",
+            "We used the genotype to censor connections between cases when it was reported, as there can be only one reported genotype per transmission cluster. Using a simulated dataset (toy_outbreak_long in o2geosocial), we explored the impact of increasing the proportion of genotyped cases on clustering and observed it could help identify the number of concurrent transmission trees when multiple genotypes are co-circulating. Moreover, we introduced a spatial component to the likelihood of connection between cases using an exponential gravity model. Previous studies showed this model was able to capture short distance dynamics better than other gravity models, and was easy to parametrise.",
+            "Introducing the spatial component greatly improved the precision and the sensitivity of the reconstructed clusters (Supplement Figure S11), and the parameter estimates were robust in the different scenarios.",
+            "The final results on the clustering of the 2,077 cases using o2geosocial were obtained in 7 hours for each run of 100,000 iterations on a standard desktop computer (Intel Core i7, 3.20 GHz 6 cores), which is much faster than previous implementations of outbreaker and outbreaker2. With the addition of the pre-clustering step, whereby we reduced the number of potential infectors for each case, the algorithm ran faster. For smaller chains (50,000 iterations), 4 hours were needed to estimate the importation status and cluster the cases. The code for the package and the analysis developed in this project is shared on",
+            "Github (https://github.com/alxsrobert/o2geosocial and alxsrobert/datapaperMO), with an illustrative toy dataset, and can be used to analyse recent outbreaks where contact-tracing investigations were not carried out.",
+            "Although the results obtained are promising, it should be noted that the dynamics of measles transmission in the United States are likely to be very specific to this location. Indeed, there were less than 700 annual cases between 2001 and 2016. These cases were scattered across a large area, which made the pre-clustering of cases very efficient as we focused on short-distance transmission. In smaller or more endemic settings, the number of potential infectors per cases after the pre-clustering step might be higher, which would increase the running time.",
+            "Furthermore, as the location of each case was deduced from the population centroid of counties, we assumed that the distance between cases from the same county was effectively zero. American counties are large and widespread geographical units that can include more than 1 million individuals. For future use of o2geosocial, more accurate information on the location of cases could improve cluster inference by identifying multiple importations in a given county. Because cases are reported by the state of residency, we had to ignore that cases may have been out of the reported county or state during their incubation and infectious period, which has been seen during some outbreaks, such as the 2015 \u201cDisney outbreak\u201d in California[<a class=\"ref-link\" id=\"c54\" href=\"#r54\">54</a>].",
+            "We did not include prior information on the local susceptibility of the different areas affected in o2geosocial, and these could be estimated using historical values of local coverage. However, protocols to estimate local vaccination coverage can differ in time and space and be difficult to compare, or unavailable at the local level. Furthermore, these estimates are cross-sectional in nature, and might not take into account catch-up vaccination campaigns, or immunity induced by previous outbreaks. Local seroprevalence surveys could identify pockets of susceptibles, but they have not been carried out on a subnational scale in most countries[<a class=\"ref-link\" id=\"c55\" href=\"#r55\">55</a>].",
+            "States, so we relied on a contact matrix between age-groups available for Great Britain from the",
+            "POLYMOD study[<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>]. Nevertheless, little variation in the contact rates between age groups has been observed between European countries, and a previous projection of the social contact matrix in the",
+            "United States yielded similar results[<a class=\"ref-link\" id=\"c56\" href=\"#r56\">56</a>]. POLYMOD data was probably the most reliable source of information we could use to deduce an estimate of the contact matrix in the United States."
+        ],
+        "Conclusions": [
+            "Heterogeneity in immunity can cause large outbreaks in countries with high national vaccine coverage, and identifying potential foyers of transmission in post-elimination settings is key for outbreak prevention and control. We have presented a method for estimating the cluster size distribution of past measles outbreaks from routinely collected surveillance data. We found that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters. Although the method was able to identify a proportion of importations, epidemiological investigations on the history of travel and exposure reduced uncertainty on the clustering of cases. We believe these investigations are needed to produce reliable estimates of past transmission clusters. In lieu of the importation status, if multiple genotypes are co-circulating, increasing the proportion of genotyped cases could help discard potential connections and find imported cases. Even with limited information, this method was able to infer probabilistic transmission clusters in a fast and efficient way."
+        ],
+        "Acknowledgements": [
+            "We acknowledge Thibaut Jombart for technical support and feedback on the analysis plan."
+        ],
+        "Funding": [
+            "AR was supported by the Medical Research Council (MR/N013638/1). SF was supported by a",
+            "Wellcome Trust Senior Research Fellowship in Basic Biomedical Science (210758/Z/18/Z). AJK was supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal",
+            "Society (206250/Z/17/Z).",
+            "The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention, US Department of Health and",
+            "Human Services.",
+            "One new ancestor was randomly drawn to conserve the number of trees. In this example, 7 is the new ancestor (6 was the only other possibility). The ratio of the posterior densities of A and B were then used to determine whether to accept or reject the proposal, according to the Metropolis-Hastings algorithm. This movement ensures good mixing of the potential ancestors of the transmission clusters.",
+            "2: Samples from the first short run, with red line showing connection worse than the arbitrary threshold \u03bb. Step 3: Initial tree for the final run, with 1 more importation than in step 1, which corresponds to the minimum number of unlikely transmissions at step 2. Step 4: Samples from the long run. Step 5: Final trees used to compute cluster size distribution and importation status of each case. Case 7 is an importation in one third of the final samples, whereas case 3 is an importation in all of them.",
+            "A: Cluster size distribution for the scenario 1 and 2 (grey and dark grey), compared to the reference clusters (lighgrey). Arrows represent the 95% credibility intervals of each estimate. Only clusters containing at least 2 cases are represented. Insert: Number of importations and number of isolated cases (singletons) in scenario 1 and 2, and in the reference clusters. For each scenario, the horizontal dark line represents the number of importations that are also importations in the reference clusters, same for singletons. Panel B: Heatmap representing the precision and sensitivity of the clusters for each case in scenario 1, cases are classified in a category depending on the proportion of their reference cluster that were inferred in the same cluster (x-axis) and the proportion of mismatches in the inferred cluster. Panel C: Same for scenario 2.",
+            "(Ideal importations) and B/ Scenario 3 with epidemiological importations and k = 0.05. Grey states represent states that did not report any case."
+        ],
+        "Tables": [
+            "Absolute:",
+            "Relative:",
+            "Ferguson NM, Donnelly CA, Anderson RM. Transmission intensity and impact of control policies https://doi.org/10.1038/35097116.",
+            "Britain.",
+            "Wallinga J, Teunis P. Different Epidemic Curves for Severe Acute Respiratory Syndrome",
+            "Reveal. Am J Epidemiol 2004;160:509\u201316.",
+            "Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on disease emergence. Nature 2005;438:355\u20139. https://doi.org/10.1038/nature04153.",
+            "Faye O, Bo\u00eblle P-Y, Heleze E, Faye O, Loucoubar C, Magassouba N, et al Chains of transmission and control of Ebola virus disease in Conakry, Guinea, in 2014: an observational study. Lancet Infect Dis 2015;15:320\u20136. https://doi.org/10.1016/S1473-3099(14)71075-8.",
+            "Ypma RJF, van Ballegooijen WM, Wallinga J. Relating phylogenetic trees to transmission trees of https://doi.org/10.1534/genetics.113.154856.",
+            "infectious disease outbreaks.",
+            "and https://doi.org/10.1098/rspb.2006.3754.",
+            "2013;195:1055\u201362.",
+            "Wallinga J, Lipsitch M. How generation intervals shape the relationship between growth rates",
+            "Genetics reproductive numbers.",
+            "2007;274:599\u2013604.",
+            "Cauchemez S, Ferguson NM. Methods to infer transmission risk factors in complex outbreak data. J R Soc Interface 2012;9:456\u201369. https://doi.org/10.1098/rsif.2011.0379.",
+            "Jombart T, Cori A, Didelot X, Cauchemez S, Fraser C, Ferguson N. Bayesian Reconstruction of",
+            "2014;10. https://doi.org/10.1371/journal.pcbi.1003457.",
+            "Campbell F, Cori A, Ferguson N, Jombart T. Bayesian inference of transmission chains using timing of symptoms, pathogen genomes and contact data. PLoS Comput Biol 2019.",
+            "https://doi.org/10.1371/journal.pcbi.1006930.",
+            "Haydon DT, Chase-Topping M, Shaw DJ, Matthews L, Friar JK, Wilesmith J, et al The construction and analysis of epidemic trees with reference to the 2001 UK foot-and-mouth outbreak. Proc R Soc B Biol Sci 2003. https://doi.org/10.1098/rspb.2002.2191.",
+            "Cauchemez S, Bo\u00eblle PY, Donnelly CA, Ferguson NM, Thomas G, Leung GM, et al Real-time estimates in early detection of SARS. Emerg Infect Dis 2006.",
+            "Heijne JCM, Rondy M, Verhoef L, Wallinga J, Kretzschmar M, Low N, et al Quantifying transmission https://doi.org/10.1097/EDE.0b013e3182456ee6.",
+            "of norovirus during an outbreak.",
+            "Kendall M, Ayabina D, Colijn C. Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees 2016:1\u201322. https://doi.org/10.1214/17-STS637.",
+            "Worby CJ, O\u2019Neill PD, Kypraios T, Robotham J V., De Angelis D, Cartwright EJP, et al.",
+            "Reconstructing transmission trees for communicable diseases using densely sampled genetic data. Ann Appl Stat 2016. https://doi.org/10.1214/15-AOAS898.",
+            "Epidemiological https://doi.org/10.1371/journal.pcbi.1004633.",
+            "Data.",
+            "Spada E, Sagliocca L, Sourdis J, Garbuglia AR, Poggi V, De Fusco C, et al Use of the minimum spanning tree model for molecular epidemiological investigation of a nosocomial outbreak of hepatitis C virus infection. J Clin Microbiol 2004. https://doi.org/10.1128/JCM.42.9.4230-",
+            "Mollentze N, Nel LH, Townsend S, le Roux K, Hampson K, Haydon DT, et al A bayesian approach for inferring the dynamics of partially observed endemic infectious diseases from space-time-genetic data. Proc R Soc B Biol Sci 2014. https://doi.org/10.1098/rspb.2013.3251.",
+            "Gire SK, Goba A, Andersen KG, Sealfon RSG, Park DJ, Kanneh L, et al Genomic surveillance elucidates Ebola virus origin and transmission during the 2014 outbreak. Science (80- )",
+            "2014;345:1369--1372. https://doi.org/10.1126/science.1259657.",
+            "Carroll MW, Matthews DA, Hiscox JA, Elmore MJ, Pollakis G, Rambaut A, et al Temporal and spatial analysis of the 2014-2015 Ebola virus outbreak in West Africa. Nature 2015;524:97\u2013",
+            "101. https://doi.org/10.1038/nature14594.",
+            "Ruan YJ, Wei CL, Ee LA, Vega VB, Thoreau H, Yun STS, et al Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection. Lancet 2003;361:1779\u201385. https://doi.org/10.1016/S0140-",
+            "6736(03)13414-9.",
+            "Rev Genet 2009;10:540\u201350. https://doi.org/10.1038/nrg2583.",
+            "Pybus OG, Rambaut A. Evolutionary analysis of the dynamics of viral infectious disease. Nat",
+            "Epidemiological and Evolutionary Dynamics of Pathogens. Science (80- ) 2004;303.",
+            "Campbell F, Strang C, Ferguson N, Cori A, Jombart T. When are pathogen genome sequences informative https://doi.org/10.1371/journal.ppat.1006885.",
+            "Rota PA, Brown K, Mankertz A, Santibanez S, Shulga S, Muller CP, et al Global distribution of measles genotypes and measles molecular epidemiology. J Infect Dis 2011;204.",
+            "https://doi.org/10.1093/infdis/jir118.",
+            "Hiebert J, Severini A. Measles molecular epidemiology : What does it tell us and why is it important? Canada Commun Dis Rep CCDR 2014;40.",
+            "Brown KE, Rota PA, Goodson JL, Williams D, Abernathy E, Takeda M, et al Genetic characterization of measles and rubella viruses detected through global measles and rubella elimination https://doi.org/10.15585/mmwr.mm6826a3.",
+            "surveillance, 2016-2018.",
+            "2019;68:587\u201391.",
+            "Gardy JL, Naus M, Amlani A, Chung W, Kim H, Tan M, et al Whole-genome sequencing of measles virus genotypes H1 and D8 during outbreaks of infection following the 2010 Olympic",
+            "Winter Games reveals viral transmission routes. J Infect Dis 2015;212:1574\u20138.",
+            "https://doi.org/10.1093/infdis/jiv271.",
+            "Penedos AR, Myers R, Hadef B, Aladin F, Brown KE. Assessment of the Utility of Whole",
+            "Genome Sequencing of Measles Virus in the Characterisation of Outbreaks 2015:1\u201316.",
+            "https://doi.org/10.1371/journal.pone.0143081.",
+            "World Health Organisation. Measles virus nomenclature Update: 2012. Wkly Epidemiol Rec",
+            "2012;87:73\u201380. https://doi.org/10.1016/j.actatropica.2012.04.013.",
+            "Hagemann C, Streng A, Kraemer A, Liese JG. Heterogeneity in coverage for measles and varicella vaccination in toddlers - Analysis of factors influencing parental acceptance. BMC",
+            "Public Health 2017;17. https://doi.org/10.1186/s12889-017-4725-6.",
+            "Glasser JW, Feng Z, Omer SB, Smith PJ, Rodewald LE. The effect of heterogeneity in uptake of the measles, mumps, and rubella vaccine on the potential for outbreaks of measles: A modelling study. Lancet Infect Dis 2016;16:599\u2013605. https://doi.org/10.1016/S1473-",
+            "3099(16)00004-9.",
+            "Gasta\u00f1aduy PA, Budd J, Fisher N, Redd SB, Fletcher J, Miller J, et al A Measles Outbreak in an Underimmunized Amish Community in Ohio. N Engl J Med 2016;375:1343\u201354.",
+            "https://doi.org/10.1056/NEJMoa1602295.",
+            "Woudenberg T, Van Binnendijk RS, Sanders EAM, Wallinga J, De Melker HE, Ruijs WLM, et al Large measles epidemic in the Netherlands, May 2013 to March 2014: Changing epidemiology.",
+            "7917.ES.2017.22.3.30443.",
+            "2017;22:1\u20139.",
+            "Keenan A, Ghebrehewet S, Vivancos R, Seddon D, MacPherson P, Hungerford D. Measles outbreaks in the UK, is it when and where, rather than if? A database cohort study of childhood population https://doi.org/10.1136/bmjopen-2016-014106.",
+            "Liverpool, from https://doi.org/10.1371/journal.pcbi.1004154.",
+            "2017;7.",
+            "Kucharski AJ, Edmunds WJ. Characterizing the Transmission Potential of Zoonotic Infections",
+            "UK.",
+            "Outbreaks.",
+            "2015;11:1\u201317.",
+            "Mossong J, Hens N, Jit M, Beutels P, Auranen K, Mikolajczyk R, et al Social contacts and mixing patterns relevant to the spread of infectious diseases. PLoS Med 2008;5:0381\u201391.",
+            "https://doi.org/10.1371/journal.pmed.0050074.",
+            "Blumberg S, Lloyd-Smith JO. Inference of R0 and Transmission Heterogeneity from the Size",
+            "Distribution https://doi.org/10.1371/journal.pcbi.1002993.",
+            "Chains.",
+            "2013;9:1\u201317.",
+            "Blumberg S, Enanoria WTA, Lloyd-Smith JO, Lietman TM, Porco TC. Identifying postelimination trends for the introduction and transmissibility of measles in the United States.",
+            "Am J Epidemiol 2014;179:1375\u201382. https://doi.org/10.1093/aje/kwu068.",
+            "Campbell F, Didelot X, Fitzjohn R, Ferguson N, Cori A, Jombart T. outbreaker2: A modular platform https://doi.org/10.1186/s12859-018-2330-z.",
+            "reconstruction.",
+            "2018;19.",
+            "Lenormand M, Bassolas A, Ramasco JJ. Systematic comparison of trip distribution laws and",
+            "Zipf GK. The P 1 P 2/D hypothesis: On the intercity movement of persons. Am Sociol Rev",
+            "1946;11:677\u201386. https://doi.org/10.2307/2657358.",
+            "outbreak models. J Transp Geogr 2016;51:158\u201369. https://doi.org/10.1016/j.jtrangeo.2015.12.008.",
+            "M.",
+            "Spatial networks.",
+            "2011;499:1\u201379.",
+            "https://doi.org/10.1016/j.physrep.2010.11.002.",
+            "Xia Y, Bj\u00f8rnstad ON, Grenfell BT. Measles Metapopulation Dynamics: A Gravity Model for",
+            "Dynamics.",
+            "2004;164:267\u201381.",
+            "https://doi.org/10.1086/422341.",
+            "PLoS One 2012;7. https://doi.org/10.1371/journal.pone.0045985.",
+            "Lenormand M, Huet S, Gargiulo F, Deffuant G. A Universal Model of Commuting Networks.",
+            "Andrieu C, De Freitas N, Doucet A, Jordan MI. An introduction to MCMC for machine learning.",
+            "Mach Learn 2003;50:5\u201343. https://doi.org/10.1023/A:1020281327116.",
+            "Centers for Disease Control and Prevention (CDC). National Notifiable Disease Surveillance",
+            "System: definition/2013/ (accessed October 23, 2019).",
+            "Lessler J, Reich NG, Brookmeyer R, Perl TM, Nelson KE. Incubation periods of acute respiratory https://doi.org/10.1016/S1473-3099(09)70069-6.Incubation.",
+            "viral infections:",
+            "2015;9:291\u2013300.",
+            "Klinkenberg D, Nishiura H. The correlation between infectivity and incubation period of measles, estimated from households with two cases. J Theor Biol 2011;284:52\u201360.",
+            "https://doi.org/10.1016/j.jtbi.2011.06.015.",
+            "Fine PEM. The Interval between Successive Cases of an Infectious Disease. Am J Epidemiol",
+            "2003;158:1039\u201347. https://doi.org/10.1093/aje/kwg251.",
+            "Bureau.",
+            "Population for the https://www.census.gov/geographies/reference-files/2010/geo/2010-centers-population.html (accessed August 22, 2019).",
+            "Woudenberg T, Woonink F, Kerkhof J, Cox K, Ruijs WLM. The tip of the iceberg : incompleteness of measles reporting during a large outbreak in The Netherlands in 2013 \u2013 2014.",
+            "S0950268818002698.",
+            "2018;146:716\u201322.",
+            "Gasta\u00f1aduy PA, Funk S, Paul P, Tatham L, Fisher N, Budd J, et al Impact of public health responses during ameasles outbreak in an amish community in Ohio: Modeling the dynamics of transmission. Am J Epidemiol 2018. https://doi.org/10.1093/aje/kwy082.",
+            "Patel M, Lee AD, Clemmons NS, Redd SB, Poser S, Blog D, et al National Update on Measles",
+            "Cases and Outbreaks - United States, January 1-October 1, 2019. MMWR Morb Mortal Wkly",
+            "Rep 2019;68:893\u20136. https://doi.org/10.15585/mmwr.mm6840e2.",
+            "Zipprich J, Winter K, Hacker J, Xia D, Watt J, Harriman K. Measles outbreak--California, December https://doi.org/10.1016/j.annemergmed.2015.04.002.",
+            "2014-February vol.",
+            "Durrheim D. Measles elimination, immunity, serosurveys, and other immunity gap diagnostic tools. J Infect Dis 2018;218:341\u20133. https://doi.org/10.1093/infdis/jiy138.",
+            "Prem K, Cook AR, Jit M. Projecting social contact matrices in 152 countries using contact surveys and demographic data.",
+            "https://doi.org/10.1371/journal.pcbi.1005697."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "The log-likelihood of transmission Lji was computed from five components reflecting the age group, genotype, location, and inferred date of infection of cases i and j, and the generation time of the disease: Lji (ti , tj ,  ) = log (p(\u03baji |\u03c1) \u2217 w (\u03baji) (ti \u2212 tj ) \u2217 a(\u03baji) (\u03b1i , \u03b1j ) \u2217 G(gi , g\u03c4j ) \u2217 s (\u03baji) (ri , rj | a, b))<br/><br/>We allowed for missing generations between cases due to an unreported individual, and \u03baji corresponds to the number of generations between i and j. <mark class=\"stats\">We calculated the temporal probability of transmission between i and j from the number of days between the dates of infection of the two cases ti and tj and the generation time of the disease w(t)</mark>. This probability of infection was quantified by w k (ti \u2212 tj , \u03baji ), w (\u03ba) = \u220f\u03ba w , where \u03a0 is the convolution operator"
+        },
+        {
+            "participant": "connected cases",
+            "number": 2,
+            "context": "This probability of infection was quantified by w k (ti \u2212 tj , \u03baji ), w (\u03ba) = \u220f\u03ba w , where \u03a0 is the convolution operator. <mark class=\"stats\">We used an exponential distribution p(\u03baji |\u03c1) to quantify the probability of observing \u03baji missing generation between i and j from the conditional report ratio \u03c1 which quantifies the probability of missing generation between two connected cases in a cluster.We used a probabilistic model to infer the individual contribution to the log-likelihood Li of every case included in the list of cases</mark>. Li was computed from Lji ( ), the log-likelihood of case i being infected by case j as a function of infection times ti and tj and model parameters  , and the timing of ti , the date of infection of i, relative to the date of symptom onset Ti"
+        },
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "We allowed for missing generations between cases due to an unreported individual, and \u03baji corresponds to the number of generations between i and j. <mark class=\"stats\">We calculated the temporal probability of transmission between i and j from the number of days between the dates of infection of the two cases ti and tj and the generation time of the disease w(t)</mark>. This probability of infection was quantified by w k (ti \u2212 tj , \u03baji ), w (\u03ba) = \u220f\u03ba w , where \u03a0 is the convolution operator"
+        },
+        {
+            "participant": "connected cases",
+            "number": 2,
+            "context": "This probability of infection was quantified by w k (ti \u2212 tj , \u03baji ), w (\u03ba) = \u220f\u03ba w , where \u03a0 is the convolution operator. <mark class=\"stats\">We used an exponential distribution p(\u03baji |\u03c1) to quantify the probability of observing \u03baji missing generation between i and j from the conditional report ratio \u03c1 which quantifies the probability of missing generation between two connected cases in a cluster</mark>. It does not correspond to the overall report ratio of an outbreak as entire missing clusters, or unreported cases infected after the last case or before the ancestor of a cluster are not included in \u03c1"
+        },
+        {
+            "participant": "measles cases",
+            "number": 2098,
+            "context": "Cases are considered internationally imported if at least part of the exposure period (7\u201321 days before rash onset) occurred outside the United States and rash occurred within 21 days of entry into the United States, with no known exposure to measles in the United States during the exposure period. <mark class=\"stats\">Confirmed measles cases are routinely reported by state health departments to the CDC. 2,098 measles cases were reported in the United States between January 2001 and December 2016</mark>. The number of annual cases did not exceed 700 cases during this time period (Figure 3, Supplement Figure S1)"
+        },
+        {
+            "participant": "cases",
+            "number": 700,
+            "context": "Confirmed measles cases are routinely reported by state health departments to the CDC. 2,098 measles cases were reported in the United States between January 2001 and December 2016. <mark class=\"stats\">The number of annual cases did not exceed 700 cases during this time period (Figure 3, Supplement Figure S1)</mark>. The importation status, 5-year age group, onset date, county, and state of residence were fully reported for"
+        },
+        {
+            "participant": "cases with missing data",
+            "number": 21,
+            "context": "2,077 cases. <mark class=\"stats\">The 21 cases with missing data were discarded. 25% of the cases were classified as importations. 39% of the cases had their genotype reported</mark>. The dataset of 2,077 cases is referred to as \u201creference dataset\u201d in the results section, and was used to evaluate the performance of the inference method"
+        },
+        {
+            "participant": "cases",
+            "number": 2077,
+            "context": "The 21 cases with missing data were discarded. 25% of the cases were classified as importations. 39% of the cases had their genotype reported. <mark class=\"stats\">The dataset of 2,077 cases is referred to as \u201creference dataset\u201d in the results section, and was used to evaluate the performance of the inference method</mark>. Among cases with complete data, 737 independent clusters, containing 1 to 380 cases, were reconstructed through contact tracing investigations"
+        },
+        {
+            "participant": "cases",
+            "number": 380,
+            "context": "The dataset of 2,077 cases is referred to as \u201creference dataset\u201d in the results section, and was used to evaluate the performance of the inference method. <mark class=\"stats\">Among cases with complete data, 737 independent clusters, containing 1 to 380 cases, were reconstructed through contact tracing investigations</mark>. Not every identified case could be linked to an importation, and some transmission clusters contained multiple imported cases (e.g. when related individuals travel together to a foreign country and were infected there)"
+        },
+        {
+            "participant": "had several cases",
+            "number": 38,
+            "context": "Not every identified case could be linked to an importation, and some transmission clusters contained multiple imported cases (e.g. when related individuals travel together to a foreign country and were infected there). <mark class=\"stats\">Out of the 737 reference clusters, 38 had several cases classified as importations, 256 had none identified</mark>. The distributions and priors used in the studies are listed in Table 1"
+        },
+        {
+            "participant": "cases",
+            "number": 700,
+            "context": "Confirmed measles cases are routinely reported by state health departments to the CDC. 2,098 measles cases were reported in the United States between January 2001 and December 2016. <mark class=\"stats\">The number of annual cases did not exceed 700 cases during this time period (Figure 3, Supplement Figure S1)</mark>. The importation status, 5-year age group, onset date, county, and state of residence were fully reported for is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity"
+        },
+        {
+            "participant": "cases with missing data",
+            "number": 21,
+            "context": "2,077 cases. <mark class=\"stats\">The 21 cases with missing data were discarded. 25% of the cases were classified as importations. 39% of the cases had their genotype reported</mark>. The dataset of 2,077 cases is referred to as"
+        },
+        {
+            "participant": "cases",
+            "number": 2077,
+            "context": "The 21 cases with missing data were discarded. 25% of the cases were classified as importations. 39% of the cases had their genotype reported. <mark class=\"stats\">The dataset of 2,077 cases is referred to as</mark>. \u201creference dataset\u201d in the results section, and was used to evaluate the performance of the inference method"
+        },
+        {
+            "participant": "cases",
+            "number": 380,
+            "context": "\u201creference dataset\u201d in the results section, and was used to evaluate the performance of the inference method. <mark class=\"stats\">Among cases with complete data, 737 independent clusters, containing 1 to 380 cases, were reconstructed through contact tracing investigations</mark>. Not every identified case could be linked to an importation, and some transmission clusters contained multiple imported cases (e.g. when related individuals travel together to a foreign country and were infected there)"
+        },
+        {
+            "participant": "had several cases",
+            "number": 38,
+            "context": "Not every identified case could be linked to an importation, and some transmission clusters contained multiple imported cases (e.g. when related individuals travel together to a foreign country and were infected there). <mark class=\"stats\">Out of the 737 reference clusters, 38 had several cases classified as importations, 256 had none identified</mark>. Model and parameters"
+        },
+        {
+            "participant": "measles cases",
+            "number": 2077,
+            "context": "Supplement (Supplement Figure S2). <mark class=\"stats\">We clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype</mark>. Using the contact tracing investigations, we considered three different initial importation status distribution: i) only the ancestors of each epidemiological cluster (first case of each cluster) were importations (ideal importation), ii) all cases classified as importation in the contact tracing investigations were importations (epidemiological importation), iii) no prior information on importation status of cases"
+        },
+        {
+            "participant": "cases with no potential infector",
+            "number": 165,
+            "context": "In scenario 2, we used the importation status distribution of cases reported in the contact tracing investigations (539 importations). <mark class=\"stats\">Pre-clustering highlighted 165 cases with no potential infector, which were also classified as importations</mark>. We observed discrepancies between the inferred cluster size distribution and the reference one: Among the 704 cases inferred as importation, 61 (9%) were not importations in the reference cluster"
+        },
+        {
+            "participant": "cases",
+            "number": 704,
+            "context": "Pre-clustering highlighted 165 cases with no potential infector, which were also classified as importations. <mark class=\"stats\">We observed discrepancies between the inferred cluster size distribution and the reference one: Among the 704 cases inferred as importation, 61 (9%) were not importations in the reference cluster</mark>. Furthermore, 94 cases were the ancestor of a reference cluster and were not classified as importations in the inferred clusters (13%)"
+        },
+        {
+            "participant": "cases",
+            "number": 94,
+            "context": "We observed discrepancies between the inferred cluster size distribution and the reference one: Among the 704 cases inferred as importation, 61 (9%) were not importations in the reference cluster. <mark class=\"stats\">Furthermore, 94 cases were the ancestor of a reference cluster and were not classified as importations in the inferred clusters (13%)</mark>. The overall cluster size distribution matched the reference distribution, but 111 reference singletons were inferred as part of transmission clusters (Figure 4A, Supplement Figure S5)"
+        },
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "We observed very few misclassifications of importation status and singletons (15 (10-22). <mark class=\"stats\">misclassified importations, 4 (0-14) misclassified singletons), and the cluster size distribution for clusters including two cases and more was very similar to the reference one</mark>. The precision of the reconstructed cluster was very high (above 75% for 88% (85-93%) of cases) (Figure 5B)"
+        },
+        {
+            "participant": "cases",
+            "number": 10,
+            "context": "Figure S11). <mark class=\"stats\">The credibility intervals were much wider when the distance between cases is not part of the likelihood, and the number of chains containing 2 to 10 cases was over estimated</mark>. The important impact of the spatial component of likelihood was also due to the widespread American territory, and could be lower in a different setting"
+        },
+        {
+            "participant": "cases",
+            "number": 403,
+            "context": "We observed major differences between the incidence map (Figure 3A) and the ratio per state. <mark class=\"stats\">Indeed, although 403 cases were reported in California (highest number in the US), importations caused on average 1.32 subsequent cases in scenario 1 (1.60 in scenario 3), showing a high proportion of reported cases were inferred as importations</mark>. Similarly, we used the inferred transmission chain to compute the inferred reproduction number in each state"
+        },
+        {
+            "participant": "subsequent cases",
+            "number": 5,
+            "context": "Similarly, we used the inferred transmission chain to compute the inferred reproduction number in each state. <mark class=\"stats\">According to the model, about 60% cases did not cause future transmission, and about 5% caused more than 5 subsequent cases (Supplement Figure S12)</mark>. These numbers were consistent in each run"
+        },
+        {
+            "participant": "confirmed measles cases",
+            "number": 2077,
+            "context": "Although this is not predictive of future transmission, it highlights communities with potential for large transmission clusters. <mark class=\"stats\">We compared the inferred transmission clusters to the contact tracing investigations of 2,077 confirmed measles cases reported in the United States between 2001 and 2016</mark>. We were able to produce reliable is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity"
+        },
+        {
+            "participant": "cases",
+            "number": 2077,
+            "context": "Introducing the spatial component greatly improved the precision and the sensitivity of the reconstructed clusters (Supplement Figure S11), and the parameter estimates were robust in the different scenarios. <mark class=\"stats\">The final results on the clustering of the 2,077 cases using o2geosocial were obtained in 7 hours for each run of 100,000 iterations on a standard desktop computer (Intel Core i7, 3.20 GHz 6 cores), which is much faster than previous implementations of outbreaker and outbreaker2</mark>. With the addition of the pre-clustering step, whereby we reduced the number of potential infectors for each case, the algorithm ran faster"
+        },
+        {
+            "participant": "annual cases",
+            "number": 700,
+            "context": "Although the results obtained are promising, it should be noted that the dynamics of measles transmission in the United States are likely to be very specific to this location. <mark class=\"stats\">Indeed, there were less than 700 annual cases between 2001 and 2016</mark>. These cases were scattered across a large area, which made the pre-clustering of cases very efficient as we focused on short-distance transmission"
+        },
+        {
+            "participant": "individuals",
+            "number": 1000000,
+            "context": "Furthermore, as the location of each case was deduced from the population centroid of counties, we assumed that the distance between cases from the same county was effectively zero. <mark class=\"stats\">American counties are large and widespread geographical units that can include more than 1 million individuals</mark>. For future use of o2geosocial, more accurate information on the location of cases could improve cluster inference by identifying multiple importations in a given county"
+        },
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "Arrows represent the 95% credibility intervals of each estimate. <mark class=\"stats\">Only clusters containing at least 2 cases are represented</mark>. Insert: Number of importations and number of isolated cases (singletons) in scenario 1 and 2, and in the reference clusters"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We used a Metropolis Hastings algorithm with Markov chain Monte Carlo (MCMC) to sample from the posterior distribution of parameters and the transmission trees</mark>",
+                "tests": [
+                    {
+                        "test": "Metropolis Hastings algorithm"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The ratio of the posterior densities of A and B were then used to determine whether to accept or reject the proposal, according to the Metropolis-Hastings algorithm</mark>",
+                "tests": [
+                    {
+                        "test": "Metropolis-Hastings algorithm"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "large transmission",
+        "onset date",
+        "epidemiological investigation",
+        "transmission tree",
+        "Infectious disease",
+        "Markov chain Monte Carlo",
+        "probabilistic transmission",
+        "detailed contact",
+        "transmission cluster",
+        "SARS",
+        "ebola virus",
+        "importation status",
+        "dynamics",
+        "epidemiology",
+        "surveillance datum",
+        "r package",
+        "vaccine coverage"
+    ],
+    "keyword_relevance": {
+        "importation status": 0.3454545455,
+        "transmission cluster": 0.1818181818,
+        "transmission tree": 0.1181818182,
+        "Markov chain Monte Carlo": 0.0636363636,
+        "onset date": 0.0545454545,
+        "dynamics": 0.0545454545,
+        "probabilistic transmission": 0.0363636364,
+        "vaccine coverage": 0.0363636364,
+        "epidemiological investigation": 0.0272727273,
+        "epidemiology": 0.0272727273,
+        "large transmission": 0.0181818182,
+        "detailed contact": 0.0181818182,
+        "SARS": 0.0181818182,
+        "Infectious disease": 0.0,
+        "ebola virus": 0.0,
+        "surveillance datum": 0.0,
+        "r package": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Establishing who infected whom during an outbreak can help inform the design and evaluation of control measures[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>].",
+        "Given that contact-tracing investigations are not always carried out due to the logistical effort and cost involved, inference methods have been developed to use epidemiological data to estimate the probability that a transmission event occurred between any given pair of cases[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]",
+        "This makes it possible to establish probabilistic transmission trees that link all observed cases.",
+        "Genomic, spatial or contact data have been used to supplement the timing of symptoms, which helped identify determinants of transmission, mixing behaviour, individual dispersion, evaluate control measures, anticipate future developments of outbreaks and study viral evolutionary patterns[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>\u2013<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]",
+        "<h2 style=\"display: inline\">Methods:</h2> Li was computed from Lji ( ), the log-likelihood of case i being infected by case j as a function of infection times ti and tj and model parameters , and the timing of ti , the date of infection of i, relative to the date of symptom onset Ti. The authors defined f as the probability density of observing Ti if case i was infected at time ti (i.e. f represents the distribution of incubation periods).",
+        "The authors used an exponential distribution p to quantify the probability of observing \u03baji missing generation between i and j from the conditional report ratio \u03c1 which quantifies the probability of missing generation between two connected cases in a cluster",
+        "<h2 style=\"display: inline\">Results:</h2> The authors clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype.",
+        "The trace of the posterior distribution shows the convergence of the algorithm (Supplement Figure S3).",
+        "The inferred cluster size distribution matched the contact tracing investigations (Figure 4A); 98% of the reference singletons were isolated in the inferred cluster.",
+        "The cluster size distribution stratified by state was similar to the contact tracing investigations (Supplement Figure S4).",
+        "When each ancestor was considered as an importation, the inferred clusters were very close to the reference ones",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data.",
+        "The method was able to identify a proportion of importations, epidemiological investigations on the history of travel and exposure reduced uncertainty on the clustering of cases.",
+        "The authors believe these investigations are needed to produce reliable estimates of past transmission clusters.",
+        "This method was able to infer probabilistic transmission clusters in a fast and efficient way"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Establishing who infected whom during an outbreak can help inform the design and evaluation of control measures[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>].",
+            "Given that contact-tracing investigations are not always carried out due to the logistical effort and cost involved, inference methods have been developed to use epidemiological data to estimate the probability that a transmission event occurred between any given pair of cases[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]",
+            "This makes it possible to establish probabilistic transmission trees that link all observed cases.",
+            "Genomic, spatial or contact data have been used to supplement the timing of symptoms, which helped identify determinants of transmission, mixing behaviour, individual dispersion, evaluate control measures, anticipate future developments of outbreaks and study viral evolutionary patterns[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>\u2013<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]"
+        ],
+        "Methods": [
+            "Li was computed from Lji ( ), the log-likelihood of case i being infected by case j as a function of infection times ti and tj and model parameters , and the timing of ti , the date of infection of i, relative to the date of symptom onset Ti. The authors defined f as the probability density of observing Ti if case i was infected at time ti (i.e. f represents the distribution of incubation periods).",
+            "The authors used an exponential distribution p to quantify the probability of observing \u03baji missing generation between i and j from the conditional report ratio \u03c1 which quantifies the probability of missing generation between two connected cases in a cluster"
+        ],
+        "Results": [
+            "The authors clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype.",
+            "The trace of the posterior distribution shows the convergence of the algorithm (Supplement Figure S3).",
+            "The inferred cluster size distribution matched the contact tracing investigations (Figure 4A); 98% of the reference singletons were isolated in the inferred cluster.",
+            "The cluster size distribution stratified by state was similar to the contact tracing investigations (Supplement Figure S4).",
+            "When each ancestor was considered as an importation, the inferred clusters were very close to the reference ones"
+        ],
+        "Conclusion": [
+            "The authors developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data.",
+            "The method was able to identify a proportion of importations, epidemiological investigations on the history of travel and exposure reduced uncertainty on the clustering of cases.",
+            "The authors believe these investigations are needed to produce reliable estimates of past transmission clusters.",
+            "This method was able to infer probabilistic transmission clusters in a fast and efficient way"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Ferguson_et+al_2001_a",
+            "entry": "[1] Ferguson NM, Donnelly CA, Anderson RM. Transmission intensity and impact of control policies on the foot and mouth epidemic in Great Britain. Nature 2001. https://doi.org/10.1038/35097116.",
+            "crossref": "https://dx.doi.org/10.1038/35097116",
+            "scite": "https://scite.ai/reports/10.1038/35097116",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/35097116"
+        },
+        {
+            "id": "2",
+            "alt_id": "Wallinga_2004_a",
+            "entry": "[2] Wallinga J, Teunis P. Different Epidemic Curves for Severe Acute Respiratory Syndrome Reveal. Am J Epidemiol 2004;160:509\u201316.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20Epidemic%20Curves%20for%20Severe%20Acute%20Respiratory%20Syndrome%20Reveal%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20Epidemic%20Curves%20for%20Severe%20Acute%20Respiratory%20Syndrome%20Reveal%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20Epidemic%20Curves%20for%20Severe%20Acute%20Respiratory%20Syndrome%20Reveal%202004"
+        },
+        {
+            "id": "3",
+            "alt_id": "Lloyd-Smith_et+al_2005_a",
+            "entry": "[3] Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on disease emergence. Nature 2005;438:355\u20139. https://doi.org/10.1038/nature04153.",
+            "crossref": "https://dx.doi.org/10.1038/nature04153",
+            "scite": "https://scite.ai/reports/10.1038/nature04153",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nature04153"
+        },
+        {
+            "id": "4",
+            "alt_id": "Faye_et+al_2015_a",
+            "entry": "[4] Faye O, Bo\u00eblle P-Y, Heleze E, Faye O, Loucoubar C, Magassouba N, et al. Chains of transmission and control of Ebola virus disease in Conakry, Guinea, in 2014: an observational study. Lancet Infect Dis 2015;15:320\u20136. https://doi.org/10.1016/S1473-3099(14)71075-8.",
+            "crossref": "https://dx.doi.org/10.1016/S1473-3099(14)71075-8",
+            "scite": "https://scite.ai/reports/10.1016/S1473-3099(14)71075-8",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S1473-3099%2814%2971075-8"
+        },
+        {
+            "id": "5",
+            "alt_id": "Ypma_et+al_2013_a",
+            "entry": "[5] Ypma RJF, van Ballegooijen WM, Wallinga J. Relating phylogenetic trees to transmission trees of infectious disease outbreaks. 2013;195:1055\u201362.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ypma%2C%20R.J.F.%20van%20Ballegooijen%2C%20W.M.%20Wallinga%2C%20J.%20Relating%20phylogenetic%20trees%20to%20transmission%20trees%20of%20infectious%20disease%20outbreaks%202013"
+        },
+        {
+            "id": "_0000_a",
+            "alt_id": "6",
+            "entry": "https://doi.org/10.1534/genetics.113.154856.",
+            "crossref": "https://dx.doi.org/10.1534/genetics.113.154856",
+            "scite": "https://scite.ai/reports/10.1534/genetics.113.154856"
+        },
+        {
+            "id": "6",
+            "alt_id": "Wallinga_2007_a",
+            "entry": "[6] Wallinga J, Lipsitch M. How generation intervals shape the relationship between growth rates and reproductive numbers. Proc R Soc B Biol Sci 2007;274:599\u2013604. https://doi.org/10.1098/rspb.2006.3754.",
+            "crossref": "https://dx.doi.org/10.1098/rspb.2006.3754",
+            "scite": "https://scite.ai/reports/10.1098/rspb.2006.3754",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rspb.2006.3754"
+        },
+        {
+            "id": "7",
+            "alt_id": "Cauchemez_2012_a",
+            "entry": "[7] Cauchemez S, Ferguson NM. Methods to infer transmission risk factors in complex outbreak data. J R Soc Interface 2012;9:456\u201369. https://doi.org/10.1098/rsif.2011.0379.",
+            "crossref": "https://dx.doi.org/10.1098/rsif.2011.0379",
+            "scite": "https://scite.ai/reports/10.1098/rsif.2011.0379",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rsif.2011.0379"
+        },
+        {
+            "id": "8",
+            "alt_id": "Jombart_et+al_2014_a",
+            "entry": "[8] Jombart T, Cori A, Didelot X, Cauchemez S, Fraser C, Ferguson N. Bayesian Reconstruction of 2014;10. https://doi.org/10.1371/journal.pcbi.1003457.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pcbi.1003457",
+            "scite": "https://scite.ai/reports/10.1371/journal.pcbi.1003457",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pcbi.1003457"
+        },
+        {
+            "id": "9",
+            "alt_id": "Campbell_et+al_2019_a",
+            "entry": "[9] Campbell F, Cori A, Ferguson N, Jombart T. Bayesian inference of transmission chains using timing of symptoms, pathogen genomes and contact data. PLoS Comput Biol 2019. https://doi.org/10.1371/journal.pcbi.1006930.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pcbi.1006930",
+            "scite": "https://scite.ai/reports/10.1371/journal.pcbi.1006930",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pcbi.1006930"
+        },
+        {
+            "id": "10",
+            "alt_id": "Haydon_et+al_2003_a",
+            "entry": "[10] Haydon DT, Chase-Topping M, Shaw DJ, Matthews L, Friar JK, Wilesmith J, et al. The construction and analysis of epidemic trees with reference to the 2001 UK foot-and-mouth outbreak. Proc R Soc B Biol Sci 2003. https://doi.org/10.1098/rspb.2002.2191.",
+            "crossref": "https://dx.doi.org/10.1098/rspb.2002.2191",
+            "scite": "https://scite.ai/reports/10.1098/rspb.2002.2191",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rspb.2002.2191"
+        },
+        {
+            "id": "11",
+            "alt_id": "Cauchemez_et+al_2006_a",
+            "entry": "[11] Cauchemez S, Bo\u00eblle PY, Donnelly CA, Ferguson NM, Thomas G, Leung GM, et al. Real-time estimates in early detection of SARS. Emerg Infect Dis 2006.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cauchemez%2C%20S.%20Bo%C3%ABlle%2C%20P.Y.%20Donnelly%2C%20C.A.%20Ferguson%2C%20N.M.%20Real-time%20estimates%20in%20early%20detection%20of%20SARS%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cauchemez%2C%20S.%20Bo%C3%ABlle%2C%20P.Y.%20Donnelly%2C%20C.A.%20Ferguson%2C%20N.M.%20Real-time%20estimates%20in%20early%20detection%20of%20SARS%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cauchemez%2C%20S.%20Bo%C3%ABlle%2C%20P.Y.%20Donnelly%2C%20C.A.%20Ferguson%2C%20N.M.%20Real-time%20estimates%20in%20early%20detection%20of%20SARS%202006"
+        },
+        {
+            "id": "12",
+            "alt_id": "Heijne_et+al_2012_a",
+            "entry": "[12] Heijne JCM, Rondy M, Verhoef L, Wallinga J, Kretzschmar M, Low N, et al. Quantifying transmission of norovirus during an outbreak. Epidemiology 2012. https://doi.org/10.1097/EDE.0b013e3182456ee6.",
+            "crossref": "https://dx.doi.org/10.1097/EDE.0b013e3182456ee6",
+            "scite": "https://scite.ai/reports/10.1097/EDE.0b013e3182456ee6",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1097/EDE.0b013e3182456ee6"
+        },
+        {
+            "id": "13",
+            "alt_id": "Kendall_et+al_2016_a",
+            "entry": "[13] Kendall M, Ayabina D, Colijn C. Estimating transmission from genetic and epidemiological data: a metric to compare transmission trees 2016:1\u201322. https://doi.org/10.1214/17-STS637.",
+            "crossref": "https://dx.doi.org/10.1214/17-STS637",
+            "scite": "https://scite.ai/reports/10.1214/17-STS637"
+        },
+        {
+            "id": "14",
+            "alt_id": "Worby_et+al_2016_a",
+            "entry": "[14] Worby CJ, O\u2019Neill PD, Kypraios T, Robotham J V., De Angelis D, Cartwright EJP, et al. Reconstructing transmission trees for communicable diseases using densely sampled genetic data. Ann Appl Stat 2016. https://doi.org/10.1214/15-AOAS898.",
+            "crossref": "https://dx.doi.org/10.1214/15-AOAS898",
+            "scite": "https://scite.ai/reports/10.1214/15-AOAS898",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1214/15-AOAS898"
+        },
+        {
+            "id": "15",
+            "alt_id": "Lau_et+al_2015_a",
+            "entry": "[15] Lau MSY, Marion G, Streftaris G, Gibson G. A Systematic Bayesian Integration of Epidemiological and Genetic Data. PLoS Comput Biol 2015.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20M.S.Y.%20Marion%2C%20G.%20Streftaris%2C%20G.%20Gibson%2C%20G.%20A%20Systematic%20Bayesian%20Integration%20of%20Epidemiological%20and%20Genetic%20Data%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20M.S.Y.%20Marion%2C%20G.%20Streftaris%2C%20G.%20Gibson%2C%20G.%20A%20Systematic%20Bayesian%20Integration%20of%20Epidemiological%20and%20Genetic%20Data%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20M.S.Y.%20Marion%2C%20G.%20Streftaris%2C%20G.%20Gibson%2C%20G.%20A%20Systematic%20Bayesian%20Integration%20of%20Epidemiological%20and%20Genetic%20Data%202015"
+        },
+        {
+            "id": "_0000_b",
+            "alt_id": "17",
+            "entry": "https://doi.org/10.1371/journal.pcbi.1004633.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pcbi.1004633",
+            "scite": "https://scite.ai/reports/10.1371/journal.pcbi.1004633"
+        },
+        {
+            "id": "16",
+            "alt_id": "Spada_et+al_2004_a",
+            "entry": "[16] Spada E, Sagliocca L, Sourdis J, Garbuglia AR, Poggi V, De Fusco C, et al. Use of the minimum spanning tree model for molecular epidemiological investigation of a nosocomial outbreak of hepatitis C virus infection. J Clin Microbiol 2004. https://doi.org/10.1128/JCM.42.9.4230-",
+            "crossref": "https://dx.doi.org/10.1128/JCM.42.9.4230-",
+            "scite": "https://scite.ai/reports/10.1128/JCM.42.9.4230-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/JCM.42.9.4230-"
+        },
+        {
+            "id": "17",
+            "alt_id": "Mollentze_et+al_2014_a",
+            "entry": "[17] Mollentze N, Nel LH, Townsend S, le Roux K, Hampson K, Haydon DT, et al. A bayesian approach for inferring the dynamics of partially observed endemic infectious diseases from space-time-genetic data. Proc R Soc B Biol Sci 2014. https://doi.org/10.1098/rspb.2013.3251.",
+            "crossref": "https://dx.doi.org/10.1098/rspb.2013.3251",
+            "scite": "https://scite.ai/reports/10.1098/rspb.2013.3251",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rspb.2013.3251"
+        },
+        {
+            "id": "18",
+            "alt_id": "Gire_et+al_(80- )_a",
+            "entry": "[18] Gire SK, Goba A, Andersen KG, Sealfon RSG, Park DJ, Kanneh L, et al. Genomic surveillance 25 elucidates Ebola virus origin and transmission during the 2014 outbreak. Science (80- )",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gire%20SK%20Goba%20A%20Andersen%20KG%20Sealfon%20RSG%20Park%20DJ%20Kanneh%20L%20et%20al%20Genomic%20surveillance%2025%20elucidates%20Ebola%20virus%20origin%20and%20transmission%20during%20the%202014%20outbreak%20Science%2080",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gire%20SK%20Goba%20A%20Andersen%20KG%20Sealfon%20RSG%20Park%20DJ%20Kanneh%20L%20et%20al%20Genomic%20surveillance%2025%20elucidates%20Ebola%20virus%20origin%20and%20transmission%20during%20the%202014%20outbreak%20Science%2080",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gire%20SK%20Goba%20A%20Andersen%20KG%20Sealfon%20RSG%20Park%20DJ%20Kanneh%20L%20et%20al%20Genomic%20surveillance%2025%20elucidates%20Ebola%20virus%20origin%20and%20transmission%20during%20the%202014%20outbreak%20Science%2080"
+        },
+        {
+            "id": "2014;345:1369--1372._0000_c",
+            "alt_id": "21",
+            "entry": "2014;345:1369--1372. https://doi.org/10.1126/science.1259657.",
+            "crossref": "https://dx.doi.org/10.1126/science.1259657",
+            "scite": "https://scite.ai/reports/10.1126/science.1259657"
+        },
+        {
+            "id": "19",
+            "alt_id": "Carroll_et+al_2015_a",
+            "entry": "[19] Carroll MW, Matthews DA, Hiscox JA, Elmore MJ, Pollakis G, Rambaut A, et al. Temporal and spatial analysis of the 2014-2015 Ebola virus outbreak in West Africa. Nature 2015;524:97\u2013",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Carroll%20MW%20Matthews%20DA%20Hiscox%20JA%20Elmore%20MJ%20Pollakis%20G%20Rambaut%20A%20et%20al%20Temporal%20and%20spatial%20analysis%20of%20the%2020142015%20Ebola%20virus%20outbreak%20in%20West%20Africa%20Nature%20201552497",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Carroll%20MW%20Matthews%20DA%20Hiscox%20JA%20Elmore%20MJ%20Pollakis%20G%20Rambaut%20A%20et%20al%20Temporal%20and%20spatial%20analysis%20of%20the%2020142015%20Ebola%20virus%20outbreak%20in%20West%20Africa%20Nature%20201552497",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Carroll%20MW%20Matthews%20DA%20Hiscox%20JA%20Elmore%20MJ%20Pollakis%20G%20Rambaut%20A%20et%20al%20Temporal%20and%20spatial%20analysis%20of%20the%2020142015%20Ebola%20virus%20outbreak%20in%20West%20Africa%20Nature%20201552497"
+        },
+        {
+            "id": "101",
+            "alt_id": "101._0000_d",
+            "entry": "101. https://doi.org/10.1038/nature14594.",
+            "crossref": "https://dx.doi.org/10.1038/nature14594",
+            "scite": "https://scite.ai/reports/10.1038/nature14594"
+        },
+        {
+            "id": "20",
+            "alt_id": "Ruan_et+al_2003_a",
+            "entry": "[20] Ruan YJ, Wei CL, Ee LA, Vega VB, Thoreau H, Yun STS, et al. Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection. Lancet 2003;361:1779\u201385. https://doi.org/10.1016/S0140-",
+            "crossref": "https://dx.doi.org/10.1016/S0140-",
+            "scite": "https://scite.ai/reports/10.1016/S0140-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-"
+        },
+        {
+            "id": "21",
+            "alt_id": "Pybus_2009_a",
+            "entry": "[21] Pybus OG, Rambaut A. Evolutionary analysis of the dynamics of viral infectious disease. Nat Rev Genet 2009;10:540\u201350. https://doi.org/10.1038/nrg2583.",
+            "crossref": "https://dx.doi.org/10.1038/nrg2583",
+            "scite": "https://scite.ai/reports/10.1038/nrg2583",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nrg2583"
+        },
+        {
+            "id": "22",
+            "alt_id": "Grenfell_et+al_2004_a",
+            "entry": "[22] Grenfell BT, Pybus OG, Gog JR, Wood JLN, Daly JM, Mumford JA, et al. Unifying the Epidemiological and Evolutionary Dynamics of Pathogens. Science (80- ) 2004;303.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Grenfell%2C%20B.T.%20Pybus%2C%20O.G.%20Gog%2C%20JR%2C%20Wood%20JLN%2C%20Daly%20Unifying%20the%20Epidemiological%20and%20Evolutionary%20Dynamics%20of%20Pathogens%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Grenfell%2C%20B.T.%20Pybus%2C%20O.G.%20Gog%2C%20JR%2C%20Wood%20JLN%2C%20Daly%20Unifying%20the%20Epidemiological%20and%20Evolutionary%20Dynamics%20of%20Pathogens%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Grenfell%2C%20B.T.%20Pybus%2C%20O.G.%20Gog%2C%20JR%2C%20Wood%20JLN%2C%20Daly%20Unifying%20the%20Epidemiological%20and%20Evolutionary%20Dynamics%20of%20Pathogens%202004"
+        },
+        {
+            "id": "23",
+            "alt_id": "Campbell_et+al_0000_a",
+            "entry": "[23] Campbell F, Strang C, Ferguson N, Cori A, Jombart T. When are pathogen genome sequences informative of transmission events? https://doi.org/10.1371/journal.ppat.1006885.",
+            "crossref": "https://dx.doi.org/10.1371/journal.ppat.1006885",
+            "scite": "https://scite.ai/reports/10.1371/journal.ppat.1006885"
+        },
+        {
+            "id": "24",
+            "alt_id": "Rota_et+al_2011_a",
+            "entry": "[24] Rota PA, Brown K, Mankertz A, Santibanez S, Shulga S, Muller CP, et al. Global distribution of measles genotypes and measles molecular epidemiology. J Infect Dis 2011;204. https://doi.org/10.1093/infdis/jir118.",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jir118",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jir118",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/infdis/jir118"
+        },
+        {
+            "id": "25",
+            "alt_id": "Hiebert_2014_a",
+            "entry": "[25] Hiebert J, Severini A. Measles molecular epidemiology: What does it tell us and why is it important? Canada Commun Dis Rep CCDR 2014;40.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hiebert%2C%20J.%20Severini%2C%20A.%20Measles%20molecular%20epidemiology%3A%20What%20does%20it%20tell%20us%20and%20why%20is%20it%20important%3F%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hiebert%2C%20J.%20Severini%2C%20A.%20Measles%20molecular%20epidemiology%3A%20What%20does%20it%20tell%20us%20and%20why%20is%20it%20important%3F%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hiebert%2C%20J.%20Severini%2C%20A.%20Measles%20molecular%20epidemiology%3A%20What%20does%20it%20tell%20us%20and%20why%20is%20it%20important%3F%202014"
+        },
+        {
+            "id": "26",
+            "alt_id": "Brown_et+al_2019_a",
+            "entry": "[26] Brown KE, Rota PA, Goodson JL, Williams D, Abernathy E, Takeda M, et al. Genetic characterization of measles and rubella viruses detected through global measles and rubella elimination surveillance, 2016-2018. Morb Mortal Wkly Rep 2019;68:587\u201391. https://doi.org/10.15585/mmwr.mm6826a3.",
+            "crossref": "https://dx.doi.org/10.15585/mmwr.mm6826a3",
+            "scite": "https://scite.ai/reports/10.15585/mmwr.mm6826a3",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.15585/mmwr.mm6826a3"
+        },
+        {
+            "id": "27",
+            "alt_id": "Gardy_et+al_2015_a",
+            "entry": "[27] Gardy JL, Naus M, Amlani A, Chung W, Kim H, Tan M, et al. Whole-genome sequencing of measles virus genotypes H1 and D8 during outbreaks of infection following the 2010 Olympic Winter Games reveals viral transmission routes. J Infect Dis 2015;212:1574\u20138.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gardy%20JL%20Naus%20M%20Amlani%20A%20Chung%20W%20Kim%20H%20Tan%20M%20et%20al%20Wholegenome%20sequencing%20of%20measles%20virus%20genotypes%20H1%20and%20D8%20during%20outbreaks%20of%20infection%20following%20the%202010%20Olympic%20Winter%20Games%20reveals%20viral%20transmission%20routes%20J%20Infect%20Dis%20201521215748",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gardy%20JL%20Naus%20M%20Amlani%20A%20Chung%20W%20Kim%20H%20Tan%20M%20et%20al%20Wholegenome%20sequencing%20of%20measles%20virus%20genotypes%20H1%20and%20D8%20during%20outbreaks%20of%20infection%20following%20the%202010%20Olympic%20Winter%20Games%20reveals%20viral%20transmission%20routes%20J%20Infect%20Dis%20201521215748",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gardy%20JL%20Naus%20M%20Amlani%20A%20Chung%20W%20Kim%20H%20Tan%20M%20et%20al%20Wholegenome%20sequencing%20of%20measles%20virus%20genotypes%20H1%20and%20D8%20during%20outbreaks%20of%20infection%20following%20the%202010%20Olympic%20Winter%20Games%20reveals%20viral%20transmission%20routes%20J%20Infect%20Dis%20201521215748"
+        },
+        {
+            "id": "_0000_e",
+            "alt_id": "32",
+            "entry": "https://doi.org/10.1093/infdis/jiv271.",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jiv271",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jiv271"
+        },
+        {
+            "id": "28",
+            "alt_id": "Penedos_et+al_2015_a",
+            "entry": "[28] Penedos AR, Myers R, Hadef B, Aladin F, Brown KE. Assessment of the Utility of Whole Genome Sequencing of Measles Virus in the Characterisation of Outbreaks 2015:1\u201316.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Penedos%2C%20A.R.%20Myers%2C%20R.%20Hadef%2C%20B.%20Aladin%2C%20F.%20Assessment%20of%20the%20Utility%20of%20Whole%20Genome%20Sequencing%20of%20Measles%20Virus%20in%20the%20Characterisation%20of%20Outbreaks%202015"
+        },
+        {
+            "id": "_0000_f",
+            "alt_id": "34",
+            "entry": "https://doi.org/10.1371/journal.pone.0143081.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pone.0143081",
+            "scite": "https://scite.ai/reports/10.1371/journal.pone.0143081"
+        },
+        {
+            "id": "29",
+            "alt_id": "[29]_2012_a",
+            "entry": "[29] World Health Organisation. Measles virus nomenclature Update: 2012. Wkly Epidemiol Rec 2012;87:73\u201380. https://doi.org/10.1016/j.actatropica.2012.04.013.",
+            "crossref": "https://dx.doi.org/10.1016/j.actatropica.2012.04.013",
+            "scite": "https://scite.ai/reports/10.1016/j.actatropica.2012.04.013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.actatropica.2012.04.013"
+        },
+        {
+            "id": "30",
+            "alt_id": "Hagemann_et+al_2017_a",
+            "entry": "[30] Hagemann C, Streng A, Kraemer A, Liese JG. Heterogeneity in coverage for measles and varicella vaccination in toddlers - Analysis of factors influencing parental acceptance. BMC Public Health 2017;17. https://doi.org/10.1186/s12889-017-4725-6.",
+            "crossref": "https://dx.doi.org/10.1186/s12889-017-4725-6",
+            "scite": "https://scite.ai/reports/10.1186/s12889-017-4725-6",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1186/s12889-017-4725-6"
+        },
+        {
+            "id": "31",
+            "alt_id": "Glasser_et+al_2016_a",
+            "entry": "[31] Glasser JW, Feng Z, Omer SB, Smith PJ, Rodewald LE. The effect of heterogeneity in uptake of the measles, mumps, and rubella vaccine on the potential for outbreaks of measles: A modelling study. Lancet Infect Dis 2016;16:599\u2013605. https://doi.org/10.1016/S1473-",
+            "crossref": "https://dx.doi.org/10.1016/S1473-",
+            "scite": "https://scite.ai/reports/10.1016/S1473-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S1473-"
+        },
+        {
+            "id": "32",
+            "alt_id": "Gasta\u00f1aduy_et+al_2016_a",
+            "entry": "[32] Gasta\u00f1aduy PA, Budd J, Fisher N, Redd SB, Fletcher J, Miller J, et al. A Measles Outbreak in an Underimmunized Amish Community in Ohio. N Engl J Med 2016;375:1343\u201354. https://doi.org/10.1056/NEJMoa1602295.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa1602295",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa1602295",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa1602295"
+        },
+        {
+            "id": "33",
+            "alt_id": "Woudenberg_et+al_2013_a",
+            "entry": "[33] Woudenberg T, Van Binnendijk RS, Sanders EAM, Wallinga J, De Melker HE, Ruijs WLM, et al. Large measles epidemic in the Netherlands, May 2013 to March 2014: Changing epidemiology. https://doi.org/10.2807/1560-",
+            "crossref": "https://dx.doi.org/10.2807/1560-",
+            "scite": "https://scite.ai/reports/10.2807/1560-"
+        },
+        {
+            "id": "34",
+            "alt_id": "Keenan_et+al_2017_a",
+            "entry": "[34] Keenan A, Ghebrehewet S, Vivancos R, Seddon D, MacPherson P, Hungerford D. Measles outbreaks in the UK, is it when and where, rather than if? A database cohort study of childhood population susceptibility in Liverpool, UK. BMJ Open 2017;7. https://doi.org/10.1136/bmjopen-2016-014106.",
+            "crossref": "https://dx.doi.org/10.1136/bmjopen-2016-014106",
+            "scite": "https://scite.ai/reports/10.1136/bmjopen-2016-014106",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1136/bmjopen-2016-014106"
+        },
+        {
+            "id": "35",
+            "alt_id": "Kucharski_0000_a",
+            "entry": "[35] Kucharski AJ, Edmunds WJ. Characterizing the Transmission Potential of Zoonotic Infections from https://doi.org/10.1371/journal.pcbi.1004154.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pcbi.1004154",
+            "scite": "https://scite.ai/reports/10.1371/journal.pcbi.1004154"
+        },
+        {
+            "id": "36",
+            "alt_id": "Mossong_et+al_2008_a",
+            "entry": "[36] Mossong J, Hens N, Jit M, Beutels P, Auranen K, Mikolajczyk R, et al. Social contacts and mixing patterns relevant to the spread of infectious diseases. PLoS Med 2008;5:0381\u201391. https://doi.org/10.1371/journal.pmed.0050074.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pmed.0050074",
+            "scite": "https://scite.ai/reports/10.1371/journal.pmed.0050074",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pmed.0050074"
+        },
+        {
+            "id": "37",
+            "alt_id": "Blumberg_2013_a",
+            "entry": "[37] Blumberg S, Lloyd-Smith JO. Inference of R0 and Transmission Heterogeneity from the Size Distribution of Stuttering Chains. PLoS Comput Biol 2013;9:1\u201317.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Blumberg%2C%20S.%20Lloyd-Smith%2C%20J.O.%20Inference%20of%20R0%20and%20Transmission%20Heterogeneity%20from%20the%20Size%20Distribution%20of%20Stuttering%20Chains%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Blumberg%2C%20S.%20Lloyd-Smith%2C%20J.O.%20Inference%20of%20R0%20and%20Transmission%20Heterogeneity%20from%20the%20Size%20Distribution%20of%20Stuttering%20Chains%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Blumberg%2C%20S.%20Lloyd-Smith%2C%20J.O.%20Inference%20of%20R0%20and%20Transmission%20Heterogeneity%20from%20the%20Size%20Distribution%20of%20Stuttering%20Chains%202013"
+        },
+        {
+            "id": "_0000_g",
+            "alt_id": "44",
+            "entry": "https://doi.org/10.1371/journal.pcbi.1002993.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pcbi.1002993",
+            "scite": "https://scite.ai/reports/10.1371/journal.pcbi.1002993"
+        },
+        {
+            "id": "38",
+            "alt_id": "Blumberg_et+al_2014_a",
+            "entry": "[38] Blumberg S, Enanoria WTA, Lloyd-Smith JO, Lietman TM, Porco TC. Identifying postelimination trends for the introduction and transmissibility of measles in the United States. Am J Epidemiol 2014;179:1375\u201382. https://doi.org/10.1093/aje/kwu068.",
+            "crossref": "https://dx.doi.org/10.1093/aje/kwu068",
+            "scite": "https://scite.ai/reports/10.1093/aje/kwu068",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/aje/kwu068"
+        },
+        {
+            "id": "39",
+            "alt_id": "Campbell_et+al_2018_a",
+            "entry": "[39] Campbell F, Didelot X, Fitzjohn R, Ferguson N, Cori A, Jombart T. outbreaker2: A modular platform for outbreak reconstruction. BMC Bioinformatics 2018;19. https://doi.org/10.1186/s12859-018-2330-z.",
+            "crossref": "https://dx.doi.org/10.1186/s12859-018-2330-z",
+            "scite": "https://scite.ai/reports/10.1186/s12859-018-2330-z",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1186/s12859-018-2330-z"
+        },
+        {
+            "id": "40",
+            "alt_id": "Lenormand_et+al_2016_a",
+            "entry": "[40] Lenormand M, Bassolas A, Ramasco JJ. Systematic comparison of trip distribution laws and models. J Transp Geogr 2016;51:158\u201369. https://doi.org/10.1016/j.jtrangeo.2015.12.008.",
+            "crossref": "https://dx.doi.org/10.1016/j.jtrangeo.2015.12.008",
+            "scite": "https://scite.ai/reports/10.1016/j.jtrangeo.2015.12.008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.jtrangeo.2015.12.008"
+        },
+        {
+            "id": "41",
+            "alt_id": "Zipf_1946_a",
+            "entry": "[41] Zipf GK. The P 1 P 2/D hypothesis: On the intercity movement of persons. Am Sociol Rev 1946;11:677\u201386. https://doi.org/10.2307/2657358.",
+            "crossref": "https://dx.doi.org/10.2307/2657358",
+            "scite": "https://scite.ai/reports/10.2307/2657358",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.2307/2657358"
+        },
+        {
+            "id": "_0000_h",
+            "alt_id": "49",
+            "entry": "https://doi.org/10.1016/j.physrep.2010.11.002.",
+            "crossref": "https://dx.doi.org/10.1016/j.physrep.2010.11.002",
+            "scite": "https://scite.ai/reports/10.1016/j.physrep.2010.11.002"
+        },
+        {
+            "id": "43",
+            "alt_id": "Xia_et+al_2004_a",
+            "entry": "[43] Xia Y, Bj\u00f8rnstad ON, Grenfell BT. Measles Metapopulation Dynamics: A Gravity Model for Epidemiological Coupling and Dynamics. Am Nat 2004;164:267\u201381.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xia%2C%20Y.%20Bj%C3%B8rnstad%2C%20O.N.%20Grenfell%2C%20B.T.%20Measles%20Metapopulation%20Dynamics%3A%20A%20Gravity%20Model%20for%20Epidemiological%20Coupling%20and%20Dynamics%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xia%2C%20Y.%20Bj%C3%B8rnstad%2C%20O.N.%20Grenfell%2C%20B.T.%20Measles%20Metapopulation%20Dynamics%3A%20A%20Gravity%20Model%20for%20Epidemiological%20Coupling%20and%20Dynamics%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xia%2C%20Y.%20Bj%C3%B8rnstad%2C%20O.N.%20Grenfell%2C%20B.T.%20Measles%20Metapopulation%20Dynamics%3A%20A%20Gravity%20Model%20for%20Epidemiological%20Coupling%20and%20Dynamics%202004"
+        },
+        {
+            "id": "_0000_i",
+            "alt_id": "51",
+            "entry": "https://doi.org/10.1086/422341.",
+            "crossref": "https://dx.doi.org/10.1086/422341",
+            "scite": "https://scite.ai/reports/10.1086/422341"
+        },
+        {
+            "id": "44",
+            "alt_id": "Lenormand_et+al_2012_a",
+            "entry": "[44] Lenormand M, Huet S, Gargiulo F, Deffuant G. A Universal Model of Commuting Networks. PLoS One 2012;7. https://doi.org/10.1371/journal.pone.0045985.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pone.0045985",
+            "scite": "https://scite.ai/reports/10.1371/journal.pone.0045985",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pone.0045985"
+        },
+        {
+            "id": "45",
+            "alt_id": "Andrieu_et+al_2003_a",
+            "entry": "[45] Andrieu C, De Freitas N, Doucet A, Jordan MI. An introduction to MCMC for machine learning. Mach Learn 2003;50:5\u201343. https://doi.org/10.1023/A:1020281327116.",
+            "crossref": "https://dx.doi.org/10.1023/A:1020281327116",
+            "scite": "https://scite.ai/reports/10.1023/A:1020281327116",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1023/A%3A1020281327116"
+        },
+        {
+            "id": "46",
+            "alt_id": "[46]_2019_a",
+            "entry": "[46] Centers for Disease Control and Prevention (CDC). National Notifiable Disease Surveillance System: measles/rubeola 2013. https://wwwn.cdc.gov/nndss/conditions/measles/casedefinition/2013/ (accessed October 23, 2019).",
+            "url": "https://wwwn.cdc.gov/nndss/conditions/measles/casedefinition/2013/"
+        },
+        {
+            "id": "47",
+            "alt_id": "Lessler_et+al_2015_a",
+            "entry": "[47] Lessler J, Reich NG, Brookmeyer R, Perl TM, Nelson KE. Incubation periods of acute respiratory viral infections: a systematic review 2015;9:291\u2013300. https://doi.org/10.1016/S1473-3099(09)70069-6.Incubation.",
+            "crossref": "https://dx.doi.org/10.1016/S1473-3099(09)70069-6.Incubation",
+            "scite": "https://scite.ai/reports/10.1016/S1473-3099(09)70069-6.Incubation"
+        },
+        {
+            "id": "48",
+            "alt_id": "Klinkenberg_2011_a",
+            "entry": "[48] Klinkenberg D, Nishiura H. The correlation between infectivity and incubation period of measles, estimated from households with two cases. J Theor Biol 2011;284:52\u201360. https://doi.org/10.1016/j.jtbi.2011.06.015.",
+            "crossref": "https://dx.doi.org/10.1016/j.jtbi.2011.06.015",
+            "scite": "https://scite.ai/reports/10.1016/j.jtbi.2011.06.015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.jtbi.2011.06.015"
+        },
+        {
+            "id": "49",
+            "alt_id": "Fine_2003_a",
+            "entry": "[49] Fine PEM. The Interval between Successive Cases of an Infectious Disease. Am J Epidemiol 2003;158:1039\u201347. https://doi.org/10.1093/aje/kwg251.",
+            "crossref": "https://dx.doi.org/10.1093/aje/kwg251",
+            "scite": "https://scite.ai/reports/10.1093/aje/kwg251",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/aje/kwg251"
+        },
+        {
+            "id": "50",
+            "alt_id": "[50]_2010_j",
+            "entry": "[50] US Census Bureau. Centers of Population for the 2010 Census 2010. https://www.census.gov/geographies/reference-files/2010/geo/2010-centers-population.html (accessed August 22, 2019).",
+            "url": "https://www.census.gov/geographies/reference-files/2010/geo/2010-centers-population.html"
+        },
+        {
+            "id": "51",
+            "alt_id": "Woudenberg_et+al_2013_b",
+            "entry": "[51] Woudenberg T, Woonink F, Kerkhof J, Cox K, Ruijs WLM. The tip of the iceberg: incompleteness of measles reporting during a large outbreak in The Netherlands in 2013 \u2013 2014. 2018;146:716\u201322.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Woudenberg%20T%20Woonink%20F%20Kerkhof%20J%20Cox%20K%20Ruijs%20WLM%20The%20tip%20of%20the%20iceberg%20incompleteness%20of%20measles%20reporting%20during%20a%20large%20outbreak%20in%20The%20Netherlands%20in%202013%20%202014%20201814671622"
+        },
+        {
+            "id": "_0000_k",
+            "alt_id": "60",
+            "entry": "https://doi.org/https://doi.org/10.1017/",
+            "url": "https://doi.org/https://doi.org/10.1017/"
+        },
+        {
+            "id": "52",
+            "alt_id": "Gasta\u00f1aduy_et+al_2018_a",
+            "entry": "[52] Gasta\u00f1aduy PA, Funk S, Paul P, Tatham L, Fisher N, Budd J, et al. Impact of public health responses during ameasles outbreak in an amish community in Ohio: Modeling the dynamics of transmission. Am J Epidemiol 2018. https://doi.org/10.1093/aje/kwy082.",
+            "crossref": "https://dx.doi.org/10.1093/aje/kwy082",
+            "scite": "https://scite.ai/reports/10.1093/aje/kwy082",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/aje/kwy082"
+        },
+        {
+            "id": "53",
+            "alt_id": "Patel_et+al_2019_a",
+            "entry": "[53] Patel M, Lee AD, Clemmons NS, Redd SB, Poser S, Blog D, et al. National Update on Measles Cases and Outbreaks - United States, January 1-October 1, 2019. MMWR Morb Mortal Wkly",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Patel%2C%20M.%20Lee%2C%20A.D.%20Clemmons%2C%20N.S.%20Redd%2C%20S.B.%20National%20Update%20on%20Measles%20Cases%20and%20Outbreaks%20-%202019-01-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Patel%2C%20M.%20Lee%2C%20A.D.%20Clemmons%2C%20N.S.%20Redd%2C%20S.B.%20National%20Update%20on%20Measles%20Cases%20and%20Outbreaks%20-%202019-01-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Patel%2C%20M.%20Lee%2C%20A.D.%20Clemmons%2C%20N.S.%20Redd%2C%20S.B.%20National%20Update%20on%20Measles%20Cases%20and%20Outbreaks%20-%202019-01-01"
+        },
+        {
+            "id": "Rep_2019_l",
+            "alt_id": "63",
+            "entry": "Rep 2019;68:893\u20136. https://doi.org/10.15585/mmwr.mm6840e2.",
+            "crossref": "https://dx.doi.org/10.15585/mmwr.mm6840e2",
+            "scite": "https://scite.ai/reports/10.15585/mmwr.mm6840e2"
+        },
+        {
+            "id": "54",
+            "alt_id": "Zipprich_et+al_December_a",
+            "entry": "[54] Zipprich J, Winter K, Hacker J, Xia D, Watt J, Harriman K. Measles outbreak--California, December https://doi.org/10.1016/j.annemergmed.2015.04.002.",
+            "crossref": "https://dx.doi.org/10.1016/j.annemergmed.2015.04.002",
+            "scite": "https://scite.ai/reports/10.1016/j.annemergmed.2015.04.002"
+        },
+        {
+            "id": "55",
+            "alt_id": "Durrheim_2018_a",
+            "entry": "[55] Durrheim D. Measles elimination, immunity, serosurveys, and other immunity gap diagnostic tools. J Infect Dis 2018;218:341\u20133. https://doi.org/10.1093/infdis/jiy138.",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jiy138",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jiy138",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/infdis/jiy138"
+        },
+        {
+            "id": "56",
+            "alt_id": "Prem_et+al_2017_a",
+            "entry": "[56] Prem K, Cook AR, Jit M. Projecting social contact matrices in 152 countries using contact surveys and demographic data. PLoS Comput Biol 2017. https://doi.org/10.1371/journal.pcbi.1005697.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pcbi.1005697",
+            "scite": "https://scite.ai/reports/10.1371/journal.pcbi.1005697",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pcbi.1005697"
+        }
+    ],
+    "facts": [
+        "as cases imported into such pockets are likely to cause further transmission",
+        "the dynamics of transmission is essential for identifying which individuals and regions might be most at risk",
+        "As data from detailed contact tracing investigations are not available in many settings",
+        "inferred cluster size distributions to 737 transmission clusters identified through detailed contact-tracing in the United States",
+        "highlight areas with potential for local transmission using a minimal number of variables",
+        "Transmission links can be reconstructed through contact tracing investigation",
+        "use epidemiological data to estimate the probability that a transmission event occurred between any given pair",
+        "contact data have been used to supplement the timing of symptoms",
+        "a probabilistic model to infer the individual contribution to the log-likelihood Li of every case included in the list",
+        "Li was computed from Lji",
+        "The log-likelihood of transmission Lji was computed from five components reflecting the age group",
+        "the generation time of the disease w. This probability of infection was quantified by w",
+        "2,077 measles cases reported in the United States between January 2001",
+        "all cases classified as importation in the contact tracing investigations were importations",
+        "The importation status of the cases was not probabilistically inferred in scenario 1",
+        "the trace of the posterior distribution shows the convergence of the algorithm",
+        "98% of the reference singletons were isolated in the inferred cluster",
+        "more than 75% of the cases in the inferred cluster were in the reference cluster",
+        "more than 75% of the cases in the reference cluster were in the inferred cluster",
+        "the inferred clusters were a perfect match with the reference clusters",
+        "The cluster size distribution stratified by state was similar to the contact tracing investigations",
+        "each ancestor was considered as an importation",
+        "the inferred clusters were very close to the reference ones",
+        "increased contacts can lead to large outbreaks following importations[52,53",
+        "the inferred transmission clusters to the contact tracing investigations of 2,077 confirmed measles cases reported in the United States",
+        "able to identify most of the imported cases",
+        "if several cases were imported in the same region at a similar time",
+        "the reconstructed clusters were similar to the reference ones",
+        "The reconstruction of transmission greatly depends on the epidemiological investigations to identify measles importations in a community",
+        "identifying potential foyers of transmission in post-elimination settings is key for outbreak prevention and control",
+        "that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters",
+        "able to identify a proportion of importations",
+        "The trace of the posterior distribution shows the convergence of the algorithm",
+        "These cases were scattered across a large area",
+        "which made the pre-clustering of cases"
+    ],
+    "claims": [
+        "We introduced a model combining age, location, genotype, and rash onset date of cases to reconstruct probabilistic transmission trees",
+        "To do this, we developed a set of proposal tree updates",
+        "Using the contact tracing investigations, we considered three different initial distributions of the importation status",
+        "Using the contact tracing investigations, we considered three different initial importation status distribution: i) only the ancestors of each epidemiological cluster (first case of each cluster) were importations (ideal importation), ii) all cases classified as importation in the contact tracing investigations were importations (epidemiological importation), iii) no prior information on importation status of cases",
+        "We developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data (genotype, age, onset date and location of the cases)",
+        "We were interested in highlighting the effect of imported cases on communities and we focused on short distance transmission to identify areas where they repeatedly caused subsequent transmission chains",
+        "Using a simulated dataset (toy_outbreak_long in o2geosocial), we explored the impact of increasing the proportion of genotyped cases on clustering and observed it could help identify the number of concurrent transmission trees when multiple genotypes are co-circulating",
+        "We introduced a spatial component to the likelihood of connection between cases using an exponential gravity model",
+        "With the addition of the pre-clustering step, whereby we reduced the number of potential infectors for each case, the algorithm ran faster",
+        "These cases were scattered across a large area, which made the pre-clustering of cases very efficient as we focused on short-distance transmission",
+        "We have presented a method for estimating the cluster size distribution of past measles outbreaks from routinely collected surveillance data",
+        "We found that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters"
+    ],
+    "findings": [
+        "For 94% (95% Credibility Interval: 91-98%) of cases, the inferred cluster had a sensitivity and precision above 75%, meaning more than 75% of the cases in the inferred cluster were in the reference cluster, and more than 75% of the cases in the reference cluster were in the inferred cluster (Figure 4B)",
+        "In every scenario, more than 80% of the inferred transmission were between cases distant of less than 10km, and few long-distance transmissions were recorded (50-"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype",
+        "Using the contact tracing investigations, we considered three different initial importation status distribution: i) only the ancestors of each epidemiological cluster were importations, ii) all cases classified as importation in the contact tracing investigations were importations, iii) no prior information on importation status of cases",
+        "The cluster size distribution stratified by state was similar to the contact tracing investigations (Supplement Figure S4)",
+        "We developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data",
+        "We compared the inferred transmission clusters to the contact tracing investigations of 2,077 confirmed measles cases reported in the United States between 2001 and 2016",
+        "When we used the importation status as defined in the contact tracing investigations without probabilistic inference, the reconstructed clusters were similar to the reference ones",
+        "Using a simulated dataset, we explored the impact of increasing the proportion of genotyped cases on clustering and observed it could help identify the number of concurrent transmission trees when multiple genotypes are co-circulating",
+        "There were less than 700 annual cases between 2001 and 2016. These cases were scattered across a large area, which made the pre-clustering of cases very efficient as we focused on short-distance transmission",
+        "Heterogeneity in immunity can cause large outbreaks in countries with high national vaccine coverage, and identifying potential foyers of transmission in post-elimination settings is key for outbreak prevention and control",
+        "We found that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters",
+        "The method was able to identify a proportion of importations, epidemiological investigations on the history of travel and exposure reduced uncertainty on the clustering of cases"
+    ],
+    "top_statements": [
+        "Establishing who infected whom during an outbreak can help inform the design and evaluation of control measures[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]",
+        "We clustered 2,077 measles cases reported in the United States between January 2001 and December using their onset date, age groups, location and genotype",
+        "Using the contact tracing investigations, we considered three different initial importation status distribution: i) only the ancestors of each epidemiological cluster were importations, ii) all cases classified as importation in the contact tracing investigations were importations, iii) no prior information on importation status of cases",
+        "We developed the R package o2geosocial to classify measles cases into transmission clusters and estimate their importation status using routinely collected surveillance data",
+        "Heterogeneity in immunity can cause large outbreaks in countries with high national vaccine coverage, and identifying potential foyers of transmission in post-elimination settings is key for outbreak prevention and control",
+        "For 94% (95% Credibility Interval: 91-98%) of cases, the inferred cluster had a sensitivity and precision above 75%, meaning more than 75% of the cases in the inferred cluster were in the reference cluster, and more than 75% of the cases in the reference cluster were in the inferred cluster (Figure 4B)",
+        "We found that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters"
+    ],
+    "headline": "We found that adding prior knowledge on the importation status of cases improved the inference of the transmission clusters",
+    "contexts": [],
+    "abbreviations": {
+        "MCMC": "Markov chain Monte Carlo"
+    }
+}

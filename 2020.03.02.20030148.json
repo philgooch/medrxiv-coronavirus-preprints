@@ -1,0 +1,621 @@
+{
+    "filename": "2020.03.02.20030148.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 880778,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.02.20030148",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/06/2020.03.02.20030148.full.pdf"
+        },
+        "title": "Validity of Wrist and Forehead Temperature in Temperature Screening in the General Population During the Outbreak of 2019 Novel Coronavirus: a prospective real-world study",
+        "author": "Ge Chen, Jiarong Xie, Guangli Dai, Peijun Zheng, Xiaqing Hu, Hongpeng Lu, Lei Xu, Xueqin Chen, Xiaomin Chen",
+        "date": 2020,
+        "affiliations": [
+            "Department of Clinical Engineering, Ningbo First Hospital, Ningbo, Zhejiang Province,",
+            "Department of General Internal Medicine, Ningbo First Hospital, Ningbo, Zhejiang Province,",
+            "Department of Gastroenterology, Ningbo First Hospital, Ningbo, Zhejiang Province, China; 16",
+            "Department of Nursing, Ningbo First Hospital, Ningbo, Zhejiang Province, China; 17",
+            "Department of Emergency, Ningbo First Hospital, Ningbo, Zhejiang Province, China; 18",
+            "Department of Chinese Traditional Medicine, Ningbo First Hospital, Ningbo, Zhejiang",
+            "Province, China; 20",
+            "Department of Cardiology, Ningbo First Hospital, Ningbo, Zhejiang Province, China; 21",
+            "These authors contributed equally to this work. 22",
+            "Corresponding authors 23 24 Abbreviations: 2019-nCoV, 2019 Novel Coronavirus; NCIT, Non-contact infrared 25 thermometer; IRTT, infrared tympanic thermometers; ROC, receiver\u2013operator characteristic."
+        ],
+        "abstract": "Aims: Temperature screening is important in the population during the outbreak of 2019 Novel Coronavirus (COVID-19). This study aimed to compare the accuracy and precision of wrist and forehead temperature with tympanic temperature under different circumstances.\nMethods: We performed a prospective observational study in a real-life population. We consecutively collected wrist and forehead temperatures in Celsius (C) using a non-contact infrared thermometer (NCIT). We also measured the tympanic temperature using a tympanic thermometers (IRTT) and defined fever as a tympanic temperature \u226537.3C.\nResults: We enrolled a total of 528 participants including 261 indoor and 267 outdoor participants. We divided outdoor participants into four types according to their means of transportation to the hospital as walk, bicycle, electric vehicle, car, and inside the car. Under different circumstance, the mean difference ranged from -1.72 to -0.56C in different groups for the forehead measurements, and -0.96 to -0.61C for the wrist measurements. Both measurements had high fever screening abilities in inpatients (wrist: AUC 0.790; 95% CI: 0.725-0.854, P &lt;0.001; forehead: AUC 0.816; 95% CI: 0.757-0.876, P &lt;0.001). The cut-off value of wrist measurement for detecting tympanic temperature \u226537.3C was 36.2C with a 86.4% sensitivity and a 67.0% specificity, and the best threshold of forehead measurement was also 36.2C with a 93.2% sensitivity and a 60.0% specificity.\nConclusions: Wrist measurement is more stable than forehead measurement under different circumstance. Both measurements have great fever screening abilities for indoor patients. The cut-off value of both measurements was 36.2C.",
+        "keywords": [
+            "2019 Novel Coronavirus",
+            "wrist temperature",
+            "non-contact infrared thermometer"
+        ],
+        "references": "@article{zumla-a,\n  author = {Zumla, A. and Hui, D.S. and Azhar, E.I. and Memish, Z.A. and Maeurer, M.},\n  title = {Reducing mortality from 260 2019-nCoV: host-directed therapies should be an option},\n  journal = {The Lancet},\n  volume = {2020},\n  unmatched-author = {Wu JT, Leung K, Leung GM.},\n  source = {Nowcasting and forecasting the potential domestic and 262 international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling 263 study},\n  unmatched-journal = {The Lancet},\n  unmatched-volume = {2020. 264 3.},\n  number = {261 2},\n  language = {}\n}\n@article{wang2019a,\n  author = {Wang, W. and Tang, J. and Wei, F.},\n  title = {Updated understanding of the outbreak of 2019 novel 265 coronavirus},\n  date = {2019},\n  journal = {Journal of Medical Virology},\n  volume = {2020},\n  source = {in Wuhan, China},\n  number = {266 4},\n  language = {}\n}\n@article{wang-a,\n  author = {Wang, D. and Hu, B. and Hu, C. and Zhu, F. and Liu, X. and Zhang, J.},\n  journal = {Clinical characteristics of},\n  volume = {138},\n  title = {hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China},\n  more-authors = {true},\n  number = {267},\n  language = {}\n}\n@article{jama-a,\n  author = {2020, Jama},\n  volume = {269},\n  title = {Clinical characteristics of 270 2019 novel coronavirus infection in China},\n  journal = {medRxiv},\n  unmatched-author = {Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He J-x, et al.},\n  unmatched-volume = {2020. 271 6.},\n  number = {5},\n  language = {}\n}\n@article{devrim2007a,\n  author = {Devrim, I. and Kara, A. and Ceyhan, M. and Tezer, H. and Uludag, A.K. and Cengiz, A.B.},\n  title = {Measurement 272 accuracy of fever by tympanic and axillary thermometry},\n  journal = {Pediatric emergency care},\n  volume = {273},\n  date = {2007},\n  pages = {16\u201319},\n  more-authors = {true},\n  unmatched-volume = {23: 274 7.},\n  language = {}\n}\n@article{mogensen2018a,\n  author = {Mogensen, C.B. and Wittenhoff, L. and Fruerh\u00f8j, G. and Hansen, S.},\n  title = {Forehead or ear temperature 275 measurement cannot replace rectal measurements, except for screening purposes},\n  journal = {BMC 276 pediatrics},\n  date = {2018},\n  volume = {15},\n  number = {277 8},\n  language = {}\n}\n@techreport{unknown2013a,\n  date = {2013},\n  volume = {55},\n  pages = {767\u2013770},\n  unmatched-volume = {280 9.},\n  institution = {Pediatrics International}\n}\n@article{internal2008a,\n  author = {2020, Internal Medicine Journal},\n  volume = {283},\n  title = {Body temperature and its regulation},\n  journal = {Anaesthesia & Intensive Care Medicine},\n  date = {2008},\n  pages = {259\u2013263},\n  unmatched-author = {Campbell I.},\n  unmatched-volume = {284 9: 285 11.},\n  number = {10},\n  language = {}\n}\n@article{gasim2013a,\n  author = {Gasim, G.I. and Musa, I.R. and Abdien, M.T. and Adam, I.},\n  title = {Accuracy of tympanic temperature 286 measurement using an infrared tympanic membrane thermometer},\n  journal = {BMC research notes},\n  volume = {287},\n  date = {2013},\n  pages = {194},\n  unmatched-volume = {6: 288 12.},\n  language = {}\n}\n@article{bland1999a,\n  author = {Bland, J.M. and Altman, D.G.},\n  title = {Measuring agreement in method comparison studies},\n  journal = {Statistical 289 methods in medical research},\n  date = {1999},\n  volume = {8},\n  pages = {135\u2013160},\n  language = {}\n}\n@article{suleman2002a,\n  author = {Suleman, M.-I. and Doufas, A.G. and Ak\u00e7a, O. and Ducharme, M. and Sessler, D.I.},\n  title = {Insufficiency in a new 291 temporal-artery thermometer for adult and pediatric patients},\n  journal = {Anesthesia & Analgesia},\n  volume = {292},\n  date = {2002},\n  pages = {67\u201371},\n  unmatched-volume = {95:},\n  language = {}\n}\n@article{berksoy2018a,\n  author = {},\n  title = {Comparison of infrared tympanic, non-contact infrared skin, and axillary thermometer to rectal temperature measurements in a 295 pediatric emergency observation unit},\n  journal = {Int J Clin Exp Med},\n  date = {2018},\n  volume = {11},\n  pages = {567\u2013573},\n  editor = {Rabbani, M.Z. and Amir, M. and Malik, M. and Mufti, M. and Bin Pervez, M. and Tympanic, Iftekhar S.},\n  source = {297 temperature comparison with oral mercury thermometer readings in an OPD setting},\n  unmatched-journal = {J Coll Physicians Surg Pak},\n  unmatched-volume = {296 15. 298 20: 33-36. 299 16.},\n  language = {}\n}\n@incollection{vesnovsky2017a,\n  author = {Vesnovsky, O. and Li, Y. and Topoleski, L. and Zhu, L.},\n  title = {Modeling of Differences Between Body Core 300 and Forehead Temperatures Measured by Infrared Thermometers},\n  date = {2017},\n  publisher = {2017: American Society of Mechanical Engineers Digital 302 Collection},\n  volume = {303},\n  source = {Design of 301 Medical Devices Conference},\n  number = {304},\n  language = {},\n  address = {In}\n}\n",
+        "references_ris": "TY  - JOUR\nAU  - Zumla, A.\nAU  - Hui, D.S.\nAU  - Azhar, E.I.\nAU  - Memish, Z.A.\nAU  - Maeurer, M.\nTI  - Reducing mortality from 260 2019-nCoV: host-directed therapies should be an option\nT2  - The Lancet\nVL  - 2020\nC1  - Wu JT, Leung K, Leung GM.\nT2  - Nowcasting and forecasting the potential domestic and 262 international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling 263 study\nC1  - The Lancet\nC1  - 2020. 264 3.\nIS  - 261 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, W.\nAU  - Tang, J.\nAU  - Wei, F.\nTI  - Updated understanding of the outbreak of 2019 novel 265 coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Journal of Medical Virology\nVL  - 2020\nT2  - in Wuhan, China\nIS  - 266 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, D.\nAU  - Hu, B.\nAU  - Hu, C.\nAU  - Zhu, F.\nAU  - Liu, X.\nAU  - Zhang, J.\nT2  - Clinical characteristics of\nVL  - 138\nTI  - hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China\nC1  - true\nIS  - 267\nLA  - \nER  - \n\nTY  - JOUR\nAU  - 2020, Jama\nVL  - 269\nTI  - Clinical characteristics of 270 2019 novel coronavirus infection in China\nT2  - medRxiv\nC1  - Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He J-x, et al.\nC1  - 2020. 271 6.\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Devrim, I.\nAU  - Kara, A.\nAU  - Ceyhan, M.\nAU  - Tezer, H.\nAU  - Uludag, A.K.\nAU  - Cengiz, A.B.\nTI  - Measurement 272 accuracy of fever by tympanic and axillary thermometry\nT2  - Pediatric emergency care\nVL  - 273\nPY  - 2007\nDA  - 2007\nSP  - 16\nEP  - 19\nC1  - true\nC1  - 23: 274 7.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Mogensen, C.B.\nAU  - Wittenhoff, L.\nAU  - Fruerh\u00f8j, G.\nAU  - Hansen, S.\nTI  - Forehead or ear temperature 275 measurement cannot replace rectal measurements, except for screening purposes\nT2  - BMC 276 pediatrics\nPY  - 2018\nDA  - 2018\nVL  - 15\nIS  - 277 8\nLA  - \nER  - \n\nTY  - RPRT\nPY  - 2013\nDA  - 2013\nVL  - 55\nSP  - 767\nEP  - 770\nC1  - 280 9.\nC1  - Pediatrics International\nER  - \n\nTY  - JOUR\nAU  - 2020, Internal Medicine Journal\nVL  - 283\nTI  - Body temperature and its regulation\nT2  - Anaesthesia & Intensive Care Medicine\nPY  - 2008\nDA  - 2008\nSP  - 259\nEP  - 263\nC1  - Campbell I.\nC1  - 284 9: 285 11.\nIS  - 10\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gasim, G.I.\nAU  - Musa, I.R.\nAU  - Abdien, M.T.\nAU  - Adam, I.\nTI  - Accuracy of tympanic temperature 286 measurement using an infrared tympanic membrane thermometer\nT2  - BMC research notes\nVL  - 287\nPY  - 2013\nDA  - 2013\nSP  - 194\nC1  - 6: 288 12.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bland, J.M.\nAU  - Altman, D.G.\nTI  - Measuring agreement in method comparison studies\nT2  - Statistical 289 methods in medical research\nPY  - 1999\nDA  - 1999\nVL  - 8\nSP  - 135\nEP  - 160\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Suleman, M.-I.\nAU  - Doufas, A.G.\nAU  - Ak\u00e7a, O.\nAU  - Ducharme, M.\nAU  - Sessler, D.I.\nTI  - Insufficiency in a new 291 temporal-artery thermometer for adult and pediatric patients\nT2  - Anesthesia & Analgesia\nVL  - 292\nPY  - 2002\nDA  - 2002\nSP  - 67\nEP  - 71\nC1  - 95:\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Comparison of infrared tympanic, non-contact infrared skin, and axillary thermometer to rectal temperature measurements in a 295 pediatric emergency observation unit\nT2  - Int J Clin Exp Med\nPY  - 2018\nDA  - 2018\nVL  - 11\nSP  - 567\nEP  - 573\nA2  - Rabbani, M.Z.\nA2  - Amir, M.\nA2  - Malik, M.\nA2  - Mufti, M.\nA2  - Bin Pervez, M.\nA2  - Tympanic, Iftekhar S.\nT2  - 297 temperature comparison with oral mercury thermometer readings in an OPD setting\nC1  - J Coll Physicians Surg Pak\nC1  - 296 15. 298 20: 33-36. 299 16.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Vesnovsky, O.\nAU  - Li, Y.\nAU  - Topoleski, L.\nAU  - Zhu, L.\nTI  - Modeling of Differences Between Body Core 300 and Forehead Temperatures Measured by Infrared Thermometers\nPY  - 2017\nDA  - 2017\nPB  - 2017: American Society of Mechanical Engineers Digital 302 Collection\nVL  - 303\nT2  - Design of 301 Medical Devices Conference\nIS  - 304\nLA  - \nCY  - In\nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In conclusion, this study confirmed wrist measurement was more stable for participants under different circumstance than forehead measurement. Both measurement had significantly great fever screening abilities for indoor patients, and the cut-off value of both measurements for fever was 36.2\u00b0C. Further studies are needed to explore the validity and accuracy of wrist temperature."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Demographic characteristics of the participants"
+            },
+            {
+                "id": "2",
+                "caption": "Bland-Altman comparison among the participants under different environment"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Flowchart of the study. 308"
+            },
+            {
+                "id": "2",
+                "caption": "Bland-Altman comparison between each method and tympanic temperature. X axis is the mean temperature of each method and tympanic. Y axis is the difference of each method and tympanic. Red dashed line showed mean bias. Black dashed lines showed 95% limits of agreement. (A), (B) for those who walked; (C), (D) for those who used bicycle/electric vehicle; (E), (F) for those who were transported by car; (G), (H) for those who were inside the car 315"
+            },
+            {
+                "id": "3",
+                "caption": "Bland-Altman comparison between each method and tympanic temperature for indoor patients. X axis is the mean temperature of each method and tympanic. Y axis is the difference of each method and tympanic. Red dashed line showed mean bias. Black dashed lines showed 95% limits of agreement. 320"
+            },
+            {
+                "id": "4",
+                "caption": "The receiver\u2013operator characteristic (ROC) curves for detection of fever. 321"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.02.20030148.full.pdf_cky1kv3f_nlohtodj.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20030148.full.pdf_cky1kv3f_images_mc89nyjl/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20030148.full.pdf_cky1kv3f_images_mc89nyjl/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20030148.full.pdf_cky1kv3f_images_mc89nyjl/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20030148.full.pdf_cky1kv3f_images_mc89nyjl/img-003.png"
+        ]
+    },
+    "sections": {
+        "aims": [
+            "Temperature screening is important in the population during the outbreak of 2019<br/><br/>Novel Coronavirus (COVID-19). This study aimed to compare the accuracy and precision of wrist and forehead temperature with tympanic temperature under different circumstances."
+        ],
+        "methods": [
+            "We performed a prospective observational study in a real-life population. We consecutively collected wrist and forehead temperatures in Celsius (\u00b0C) using a non-contact infrared thermometer (NCIT). We also measured the tympanic temperature using a tympanic thermometers (IRTT) and defined fever as a tympanic temperature \u226537.3\u00b0C.",
+            "Study population<br/><br/>This was a prospective observational study in a real-life population. We consecutively enrolled a total of 572 participants at Ningbo First Hospital in China in this study (Figure 1).<br/><br/>The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv)<br/><br/>Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23). We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants. The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members. The data of indoor participants were collected consecutively between February 14th and February 20th, 2020."
+        ],
+        "results": [
+            "We enrolled a total of 528 participants including 261 indoor and 267 outdoor participants. We divided outdoor participants into four types according to their means of transportation to the hospital as walk, bicycle, electric vehicle, car, and inside the car. Under different circumstance, the mean difference ranged from -1.72 to -0.56\u00b0C in different groups for the forehead measurements, and -0.96 to -0.61\u00b0C for the wrist measurements. Both measurements had high fever screening abilities in inpatients (wrist: AUC 0.790; 95% CI: 0.725-0.854, P <0.001; forehead: AUC 0.816; 95% CI: 0.757-0.876, P <0.001). The cut-off value of wrist measurement for detecting tympanic temperature \u226537.3\u00b0C was 36.2\u00b0C with a<br/><br/>86.4% sensitivity and a 67.0% specificity, and the best threshold of forehead measurement was also 36.2\u00b0C with a 93.2% sensitivity and a 60.0% specificity.",
+            "Participants<br/><br/>In this prospective observational study, a total of 528 participants were enrolled. Figure 1 summarizes characteristics of the participants. The mean age was 46.7 \u00b1 16.4 years. 69.4% (n<br/><br/>= 297) of participants were males, and 78.2% (n = 413) were patients (Table 1). Mean forehead, wrist, tympanic measurements were 35.6 \u00b1 1.2\u00b0C, 35.7 \u00b1 0.8\u00b0C, and 36.6 \u00b1 0.6\u00b0C, respectively. There were 44 patients with fever in indoor patients. The data of outdoor participants were collected on February 14th, 15th, 17th, 2020. Mean weather temperatures were 13\u00b0C, 14\u00b0C, and 7\u00b0C, respectively."
+        ],
+        "conclusions": [
+            "Wrist measurement is more stable than forehead measurement under different circumstance. Both measurements have great fever screening abilities for indoor patients. The cut-off value of both measurements was 36.2\u00b0C. (ClinicalTrials.gov number: NCT04274621)"
+        ],
+        "introduction": [
+            "The outbreaks of 2019 novel coronavirus COVID-19 (previously known as 2019-nCoV)<br/><br/>has attracted global attention, due to its strong transmission ability and certain fatality (1, 2).<br/><br/>Some studies reported that fever, fatigue and dry cough are common symptoms of<br/><br/>COVID-19 patients (3, 4), and 43.8% of the patients showed fever before admission with it largely being the first symptom (5). Therefore, temperature screening in the high-risk population is important for early identification of COVID-19 infection and thereby reducing the risk of cross infection.<br/><br/>During the epidemic, infrared tympanic thermometers (IRTT) and non-contact infrared thermometer (NCIT) are being applied to temperature screening in the general population (6).<br/><br/>As a screening tool, it is quick for mass screening and allows a faster triage (7). However, we need to consume a lot of disposable plastic covers when we use IRTT. It may increase the financial burden in the widespread use of population screening. Furthermore, indirect contacts with infected individuals may increase the risk of cross infection. NCIT meets the clinical requirements for mass screening in terms of detection efficiency, safety and cost-performance. Besides, it takes less time than IRTT. Forehead is one of the key targets of thermography. However, forehead temperature is affected by physiological and environmental conditions (8). It should be measured in a relatively temperature-controlled environment. A previous study suggested to acclimate to the indoor temperature for at least min for those who were exposed to the cold before taking body temperature readings (8)."
+        ],
+        "discussion": [
+            "In this prospective real-world study, we found that wrist temperature measurement is more stable than forehead using NCIT under different circumstances in outdoor participants.<br/><br/>Both measurement had significantly great abilities of screening patients for fever in indoor patients. The cut-off value for wrist and forehead temperature were both 36.2\u00b0C. They showed good sensitivity. It may assist for fever screening in the population, especially in the outbreak of 2019 Novel Coronavirus (COVID-19). To our knowledge, this study was the first to explore the reliability and validity of wrist and forehead temperature measurement in mass screening."
+        ],
+        "acknowledgment": [
+            "The authors thank Jihong Zhang for sorting of data; Ximing Jiang, Ying Xin for acquisition and sorting of data."
+        ],
+        "disclosures": [
+            "None."
+        ],
+        "statement": [
+            "Data Availability Statement<br/><br/>The data used to support the findings of this study are available from the corresponding author (Xiaoming Chen)."
+        ],
+        "method": [
+            "Mean temperature (    Indoor patients<br/><br/>Bland-Altman comparison (    \u00b0C)    Mean difference    Tympanic    36.8 reference    Wrist    Forehead    36.3 reference    Bicycle/Electric"
+        ],
+        "ethical_compliance": [
+            "The study was approved by Ningbo First Hospital Ethics Committee"
+        ],
+        "data_availability": [
+            "The data used to support the findings of this study are available from the corresponding author (Xiaoming Chen)"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Figure S1"
+            ]
+        }
+    },
+    "structured_content": {
+        "Methods": [
+            "We performed a prospective observational study in a real-life population. We consecutively collected wrist and forehead temperatures in Celsius (\u00b0C) using a non-contact infrared thermometer (NCIT). We also measured the tympanic temperature using a tympanic thermometers (IRTT) and defined fever as a tympanic temperature \u226537.3\u00b0C."
+        ],
+        "Results": [],
+        "Conclusions": [
+            "Wrist measurement is more stable than forehead measurement under different circumstance. Both measurements have great fever screening abilities for indoor patients. The cut-off value of both measurements was 36.2\u00b0C. (ClinicalTrials.gov number: NCT04274621)"
+        ],
+        "Introduction": [
+            "has attracted global attention, due to its strong transmission ability and certain fatality (1, 2).",
+            "COVID-19 patients (3, 4), and 43.8% of the patients showed fever before admission with it largely being the first symptom (5). Therefore, temperature screening in the high-risk population is important for early identification of COVID-19 infection and thereby reducing the risk of cross infection.",
+            "During the epidemic, infrared tympanic thermometers (IRTT) and non-contact infrared thermometer (NCIT) are being applied to temperature screening in the general population (6).",
+            "As a screening tool, it is quick for mass screening and allows a faster triage (7). However, we need to consume a lot of disposable plastic covers when we use IRTT. It may increase the financial burden in the widespread use of population screening. Furthermore, indirect contacts with infected individuals may increase the risk of cross infection. NCIT meets the clinical requirements for mass screening in terms of detection efficiency, safety and cost-performance. Besides, it takes less time than IRTT. Forehead is one of the key targets of thermography. However, forehead temperature is affected by physiological and environmental conditions (8). It should be measured in a relatively temperature-controlled environment. A previous study suggested to acclimate to the indoor temperature for at least min for those who were exposed to the cold before taking body temperature readings (8).",
+            "However, it is not practical for mass screening in winter during the outbreak of COVID-19.",
+            "Wrist temperature in this outbreak is under consideration. Before testing, they just need to roll up their sleeves at 10 cm above the palmar side of the wrist. Considering this area is covered with clothing, the wrist temperatures may keep stable. Previous study showed wearable devices (WD) on the wrist were applied in temperature monitoring in clinical practice (9). It brings a challenge whether it can be used as an accurate, safe and cost-effective screening tool in this outbreak.",
+            "In this study, we explored the accuracy and advantages of wrist temperature measurement in a real-life population in different environments and conditions. We aimed to find the thresholds of this key technique for diagnosis of fever. It may assist to improve the standardization of both practical use and performance, especially indispensable in the pandemic 2019-nCoV situation."
+        ],
+        "Materials and Methods": [
+            "This was a prospective observational study in a real-life population. We consecutively enrolled a total of 572 participants at Ningbo First Hospital in China in this study (Figure 1).",
+            "The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv)",
+            "Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23). We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants. The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members. The data of indoor participants were collected consecutively between February 14th and February 20th, 2020.",
+            "The data of outdoor participants were collected on February 14th, 15th, 17th, 2020.",
+            "Temperature readings were taken by trained and experienced nurses. Each participant was measured for wrist, forehead, and tympanic temperature twice. The temperatures were recorded by mean wrist temperature, forehead, and tympanic temperature, respectively. Data regarding age, gender, transportation, occupation, and temperature were recorded immediately by the nurse to pre-printed files.",
+            "The study was approved by Ningbo First Hospital Ethics Committee. All participants were asked verbally. They gave their oral informed consent in this study. The study was registered in ClinicalTrials.gov with identifier number: NCT04274621.",
+            "Indoor patients at the fever clinic and emergency department were those who has been indoors for at least a few minutes. The outdoor participants were divided into four type according to their means of transportation to the hospital as walk, bicycle/electric vehicle, car, and inside the car.",
+            "Tympanic temperature was measured using IRTT (Braun ThermoScan PRO 6000). Wrist and forehead temperature were measured using NCIT. The NCIT was ranged 32.0\u201342.9\u00b0C.",
+            "The accuracy was \u00b1 0.2\u00b0C. NCIT measurements were taken following the manufacturer's instructions in the mid-forehead and a region at 10 cm above the palmar side of the wrist.",
+            "After pulling the pinna backward, the nurse inserted IRTT into the external auditory meatus.",
+            "The probe was held in the same position until the \u201cbeep\u201d was heard. Temperature readings were taken by the same trained nurse in the following order: forehead, forehead (the second time), left wrist, right wrist, left tympanic, and right tympanic. The data were recorded by another researcher in pre-printed files. Tympanic membrane is in close proximity to the hypothalamus and the internal carotid artery (10). Thus, tympanic temperature is considered to directly reflect core temperature (11), and was defined as the gold standard in this study.",
+            "These thermometers were stabilized before measurements. Calibration of thermometers were checked by the Quality and Technology Supervision Bureau, Ningbo, China. It was according to Calibration Specification of Infrared Thermometers for Measurement of Human",
+            "Temperature (JJF1107-2003).",
+            "Power calculation was performed for sample size. The following parameters were used: a power of 90%, an \u03b1-error level of 0.05, estimating a standard deviation of 1\u00b0C and a potential allowable error of 0.2\u00b0C. Considering a 10% possibility of dropouts and otherwise missing data, at least 293 subjects were needed in our study.",
+            "Continuous variables were expressed as mean \u00b1 standard deviation (SD), and categorical data in frequency and proportion.",
+            "The tympanic temperature were analyzed by Bland\u2013Altman analysis (12). It also showed three superimposed horizontal lines. Red dashed line highlighted mean bias among all the paired measurements. Black dashed line marked upper and lower 95% Limits of Agreement (LoA).",
+            "A temperature deviation of 0.5\u00b0C was considered as clinically acceptable (13). A tympanic temperature of \u2265 37.3\u00b0C was defined as the cut-off point for fever. Statistical analyses were conducted using R version 3.5.1 (The R Foundation for Statistical Computing, Vienna, Austria)."
+        ],
+        "Participants": [
+            "In this prospective observational study, a total of 528 participants were enrolled. Figure 1 summarizes characteristics of the participants. The mean age was 46.7 \u00b1 16.4 years. 69.4% (n",
+            "= 297) of participants were males, and 78.2% (n = 413) were patients (Table 1). Mean forehead, wrist, tympanic measurements were 35.6 \u00b1 1.2\u00b0C, 35.7 \u00b1 0.8\u00b0C, and 36.6 \u00b1 0.6\u00b0C, respectively. There were 44 patients with fever in indoor patients. The data of outdoor participants were collected on February 14th, 15th, 17th, 2020. Mean weather temperatures were 13\u00b0C, 14\u00b0C, and 7\u00b0C, respectively.",
+            "Table 2 showed mean temperatures and Bland-Altman analysis among the participants under different environment. Compared with tympanic temperature as golden standard, the mean difference ranged from -1.72 to -0.56\u00b0C for the forehead measurement, and -0.96 to",
+            "-0.61\u00b0C for the wrist measurement. We observed a lower variation in wrist than forehead temperature measurements.",
+            "Outdoor participants were divided into four types as walk, bicycle or electric vehicle, car, and inside the car. For those who walked, the agreement limits for wrist and tympanic was between -2.05 and 0.34\u00b0C; -4.07 and 0.64\u00b0C for forehead and tympanic (Figure 2A, B). For those who used bicycle or electric vehicle, the agreement limits for wrist and tympanic was between -2.14 and 0.93\u00b0C; -3.82 and 0.84\u00b0C for forehead and tympanic (Figure 2C, D). For those who were transported by car, the agreement limits for wrist and tympanic was between",
+            "-1.43 and -0.44\u00b0C; -1.47 and -0.36\u00b0C for forehead and tympanic (Figure 2E, F). For those who were inside the car, the agreement limits for wrist and tympanic was between -1.54 and",
+            "-0.15\u00b0C; -2.41 and 0.16\u00b0C for forehead and tympanic (Figure 2G, H). It highlighted that wrist temperature had narrower 95% limits of agreement than forehead. Wrist measurements had the higher percentage of differences falling within \u00b1 0.5\u00b0C than forehead measurements in these four types.",
+            "For indoor patients, the agreement limits for wrist and tympanic was between -2.70 and",
+            "-0.77\u00b0C; -1.91 and 0.80\u00b0C for forehead and tympanic (Figure 3). 57.1% of forehead values were included within \u00b1 0.5\u00b0C, followed by wrist values (41.4%). We also explore the agreement of left and right wrists (Figure S1). The mean bias is 0.00. The agreement limits for wrist and tympanic was between -0.74 and 0.74\u00b0C. It showed good agreement between right and left wrists.",
+            "\u226537.3\u00b0C. Figure 4 shows the comparison between wrist and forehead measurements for detection of fever. Both measurement had significantly great abilities of screening patients for fever (wrist: AUC 0.790; 95% CI: 0.725\u20130.854, P <0.001; forehead: AUC 0.816; 95% CI: 0.757\u20130.876, P <0.0001). The cut-off value of wrist measurement for detecting tympanic temperature \u226537.3\u00b0C was 36.2\u00b03 with a 86.4% sensitivity and a 67.0% specificity. And the best threshold of forehead measurement was also 36.2\u00b06 with a 93.2% sensitivity and a 60.0%",
+            "specificity."
+        ],
+        "Discussion": [
+            "In this prospective real-world study, we found that wrist temperature measurement is more stable than forehead using NCIT under different circumstances in outdoor participants.",
+            "Both measurement had significantly great abilities of screening patients for fever in indoor patients. The cut-off value for wrist and forehead temperature were both 36.2\u00b0C. They showed good sensitivity. It may assist for fever screening in the population, especially in the outbreak of 2019 Novel Coronavirus (COVID-19). To our knowledge, this study was the first to explore the reliability and validity of wrist and forehead temperature measurement in mass screening.",
+            "Previous studies showed that axilla, rectal temperature were the gold standards in clinical practice (14, 15). However, it was impractical for the large-scale screening. Timesaving and less invasive tools were needed. IRTT and NCIT are being applied in the general population during the epidemic. A lot of disposable plastic covers were consumed, which may increase the financial burden. In China, it cost 1\u20132 RMB (about 0.2 dollars) for per disposable plastic cover. Besides, indirect contacts increased the risk of cross infection. Forehead temperature was used for the widespread use of population screening using NCIT. However, it can be affected by a person\u2019s physiological and environmental conditions (8, 16). The forehead temperature value of 23 participants showed \u201clow\u201d in our study. This all happened on the same day (February 17th, 2020) with an outside temperature of 7\u00b0C. Thus, we chose wrist temperature as an alternative, especially in the winter when mass screening is needed. Wrist measurement indicated peripheral temperature at 10 cm above the palmar side of the wrist. It was within our expectation that wrist measurement readings attained was lower than tympanic route. However, this area was covered by clothing all the time. It was less influenced by environmental conditions. Our study showed it was more stable for participants under different circumstance than forehead measurement. It is important for mass screen in the open air during the Outbreak of COVID-19. The ROC curves showed wrist and forehead measurement had significantly great abilities of screening patients for fever. The cut-off value of both measurement was 36.2\u00b0C. It can be applied in clinical practice and assist to improve the standardization of both practical use and performance.",
+            "The strengths of this study included its large sample size, and prospective design in the real-world setting. There were several limitations. First, it is difficult to quantify the physiological and environmental conditions. Second, only one brand of thermometer was enrolled in this study. It was uncertain that it could be generalized to all brands of thermometers in the market.",
+            "In conclusion, this study confirmed wrist measurement was more stable for participants under different circumstance than forehead measurement. Both measurement had significantly great fever screening abilities for indoor patients, and the cut-off value of both measurements for fever was 36.2\u00b0C. Further studies are needed to explore the validity and accuracy of wrist temperature.",
+            "Study concept and design: Ge Chen, Lei Xu, Xueqin Chen, and Xiaoming Chen; Acquisition of data: Peijun Zheng, Xiaqing Hu, Guangli Dai, Lei Xu and Hongpeng Lu; Analysis and interpretation of data: Jiarong Xie and Ge Chen. Drafting of the manuscript: Jiarong Xie and",
+            "Ge Chen. Study supervision: Lei Xu, Xueqin Chen, and Xiaoming Chen.",
+            "Author Approval all authors have seen and approved the manuscript."
+        ],
+        "Acknowledgment": [
+            "The authors thank Jihong Zhang for sorting of data; Ximing Jiang, Ying Xin for acquisition and sorting of data."
+        ],
+        "Declaration of competing interest": [
+            "None."
+        ],
+        "Funding Statement": [],
+        "Data Availability Statement": [
+            "The data used to support the findings of this study are available from the corresponding author (Xiaoming Chen)."
+        ],
+        "References": [
+            "1. Zumla A, Hui DS, Azhar EI, Memish ZA, Maeurer M. Reducing mortality from",
+            "2019-nCoV: host-directed therapies should be an option. The Lancet 2020.",
+            "2. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet 2020.",
+            "3. Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel coronavirus (2019\u2010nCoV) in Wuhan, China. Journal of Medical Virology 2020.",
+            "4. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China.",
+            "Jama 2020.",
+            "5. Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He J-x, et al Clinical characteristics of novel coronavirus infection in China. medRxiv 2020.",
+            "6. Devrim I, Kara A, Ceyhan M, Tezer H, Uludag AK, Cengiz AB, et al Measurement accuracy of fever by tympanic and axillary thermometry. Pediatric emergency care",
+            "2007;23:16-19.",
+            "7. Mogensen CB, Wittenhoff L, Fruerh\u00f8j G, Hansen S. Forehead or ear temperature measurement cannot replace rectal measurements, except for screening purposes. BMC pediatrics 2018;18:15.",
+            "8. Erenberk U, Torun E, Ozkaya E, Uzuner S, Demir AD, Dundaroz R. Skin temperature measurement using an infrared thermometer on patients who have been exposed to cold.",
+            "Pediatrics International 2013;55:767-770.",
+            "9. Holt S, Yo J, Karschimkus C, Volpato F, Christov S, Smith E, et al Monitoring skin temperature at the wrist in hospitalised patients may assist in the detection of infection.",
+            "Internal Medicine Journal 2020.",
+            "10. Campbell I. Body temperature and its regulation. Anaesthesia & Intensive Care Medicine",
+            "2008;9:259-263.",
+            "11. Gasim GI, Musa IR, Abdien MT, Adam I. Accuracy of tympanic temperature measurement using an infrared tympanic membrane thermometer. BMC research notes",
+            "2013;6:194.",
+            "12. Bland JM, Altman DG. Measuring agreement in method comparison studies. Statistical methods in medical research 1999;8:135-160.",
+            "13. Suleman M-I, Doufas AG, Ak\u00e7a O, Ducharme M, Sessler DI. Insufficiency in a new temporal-artery thermometer for adult and pediatric patients. Anesthesia & Analgesia",
+            "2002;95:67-71.",
+            "14. Berksoy E, An\u0131l M, B\u0131c\u0131l\u0131o\u011flu Y, G\u00f6kalp G, Bal A. Comparison of infrared tympanic, non-contact infrared skin, and axillary thermometer to rectal temperature measurements in a pediatric emergency observation unit. Int J Clin Exp Med 2018;11:567-573.",
+            "15. Rabbani MZ, Amir M, Malik M, Mufti M, Bin Pervez M, Iftekhar S. Tympanic temperature comparison with oral mercury thermometer readings in an OPD setting. J Coll",
+            "Physicians Surg Pak 2010;20:33-36.",
+            "16. Vesnovsky O, Li Y, Topoleski L, Zhu L. Modeling of Differences Between Body Core and Forehead Temperatures Measured by Infrared Thermometers. In: 2017 Design of",
+            "Medical Devices Conference; 2017: American Society of Mechanical Engineers Digital",
+            "Collection; 2017.",
+            "Figure Legends",
+            "Figure 1. Flowchart of the study.",
+            "Figure 2. Bland-Altman comparison between each method and tympanic temperature. X axis is the mean temperature of each method and tympanic. Y axis is the difference of each method and tympanic. Red dashed line showed mean bias. Black dashed lines showed 95%",
+            "limits of agreement. (A), (B) for those who walked; (C), (D) for those who used bicycle/electric vehicle; (E), (F) for those who were transported by car; (G), (H) for those who were inside the car",
+            "Figure 3. Bland-Altman comparison between each method and tympanic temperature for indoor patients. X axis is the mean temperature of each method and tympanic. Y axis is the difference of each method and tympanic. Red dashed line showed mean bias. Black dashed lines showed 95% limits of agreement.",
+            "Figure 4. The receiver\u2013operator characteristic (ROC) curves for detection of fever.",
+            "Table 1. Demographic characteristics of the participants",
+            "Variables",
+            "Total (n = 528)",
+            "Age, years",
+            "46.7 \u00b1 16.4",
+            "Gender, male, n (%)",
+            "(69.4%)",
+            "Environment",
+            "Indoor patients, n (%)",
+            "(49.4%)",
+            "Walk, n (%)",
+            "(22.7%)",
+            "Bicycle/Electric vehicle, n (%)",
+            "(7.4%)",
+            "Transported by car, n (%)",
+            "(10.6%)",
+            "Inside the car, n (%)",
+            "(9.8%)",
+            "Patients or not",
+            "Yes, n (%)",
+            "Forehead temperature, Wrist temperature,",
+            "\u00b0C (78.2%)",
+            "Tympanic temperature, 35.6 \u00b1 1.2",
+            "35.7 \u00b1 0.8",
+            "36.6 \u00b1 0.6",
+            "Table 2. Bland-Altman comparison among the participants under different environment"
+        ],
+        "Method": []
+    },
+    "participants": [
+        {
+            "participant": "participants",
+            "number": 528,
+            "context": "We also measured the tympanic temperature using a tympanic thermometers (IRTT) and defined fever as a tympanic temperature \u226537.3C. <mark class=\"stats\">Results: We enrolled a total of 528 participants including 261 indoor and 267 outdoor participants</mark>. We divided outdoor participants into four types according to their means of transportation to the hospital as walk, bicycle, electric vehicle, car, and inside the car"
+        },
+        {
+            "participant": "participants",
+            "number": 572,
+            "context": "Study population<br/><br/>This was a prospective observational study in a real-life population. <mark class=\"stats\">We consecutively enrolled a total of 572 participants at Ningbo First Hospital in China in this study (Figure 1).<br/><br/>The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv)<br/><br/>Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23)</mark>. We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants"
+        },
+        {
+            "participant": "eligible participants",
+            "number": 528,
+            "context": "We consecutively enrolled a total of 572 participants at Ningbo First Hospital in China in this study (Figure 1).<br/><br/>The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv)<br/><br/>Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23). <mark class=\"stats\">We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants</mark>. The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members"
+        },
+        {
+            "participant": "indoor participants",
+            "number": 261,
+            "context": "We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants. <mark class=\"stats\">The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members</mark>. The data of indoor participants were collected consecutively between February 14th and February 20th, 2020.We performed a prospective observational study in a real-life population"
+        },
+        {
+            "participant": "participants",
+            "number": 572,
+            "context": "This was a prospective observational study in a real-life population. <mark class=\"stats\">We consecutively enrolled a total of 572 participants at Ningbo First Hospital in China in this study (Figure 1)</mark>. The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv)"
+        },
+        {
+            "participant": "data",
+            "number": 6,
+            "context": "We consecutively enrolled a total of 572 participants at Ningbo First Hospital in China in this study (Figure 1). <mark class=\"stats\">The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv)</mark>. Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23)"
+        },
+        {
+            "participant": "data",
+            "number": 4,
+            "context": "The exclusion criteria included: (i) Age \u2264 18 years (n = 6); (ii) Wearing hearing aid, or having a cerumen (n = 7); (iii) Participants with soft tissue infection or trauma (n =3); (iv). <mark class=\"stats\">Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23)</mark>. We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants"
+        },
+        {
+            "participant": "eligible participants",
+            "number": 528,
+            "context": "Missing data of wrist, forehead, and tympanic temperature (n = 4); and (v) Participants whose forehead temperature measurements showed \u201clow\u201d (n = 23). <mark class=\"stats\">We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants</mark>. The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members"
+        },
+        {
+            "participant": "indoor participants",
+            "number": 261,
+            "context": "We finally enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants. <mark class=\"stats\">The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members</mark>. The data of indoor participants were collected consecutively between February 14th and February 20th, 2020"
+        },
+        {
+            "participant": "subjects",
+            "number": 293,
+            "context": "The following parameters were used: a power of 90%, an \u03b1-error level of 0.05, estimating a standard deviation of 1\u00b0C and a potential allowable error of 0.2\u00b0C. <mark class=\"stats\">Considering a 10% possibility of dropouts and otherwise missing data, at least 293 subjects were needed in our study</mark>. Continuous variables were expressed as mean \u00b1 standard deviation (SD), and categorical data in frequency and proportion"
+        },
+        {
+            "participant": "subjects",
+            "number": 293,
+            "context": "The following parameters were used: a power of 90%, an \u03b1-error level of 0.05, estimating a standard deviation of 1\u00b0C and a potential allowable error of 0.2\u00b0C. <mark class=\"stats\">Considering a 10% possibility of dropouts and otherwise missing data, at least 293 subjects were needed in our study</mark>. author/funder, who has granted medRxiv a license to display the preprint in perpetuity"
+        },
+        {
+            "participant": "participants",
+            "number": 528,
+            "context": "agreements for each method versus author/funder, who has granted medRxiv a license to display the preprint in perpetuity. <mark class=\"stats\">In this prospective observational study, a total of 528 participants were enrolled</mark>. Figure 1 summarizes characteristics of the participants"
+        },
+        {
+            "participant": "data",
+            "number": 413,
+            "context": "The mean age was 46.7 \u00b1 16.4 years. 69.4% (n. <mark class=\"stats\">= 297) of participants were males, and 78.2% (n = 413) were patients (Table 1)</mark>. Mean forehead, wrist, tympanic measurements were 35.6 \u00b1 1.2\u00b0C, 35.7 \u00b1 0.8\u00b0C, and 36.6 \u00b1 0.6\u00b0C, respectively"
+        },
+        {
+            "participant": "patients with fever in indoor patients",
+            "number": 44,
+            "context": "Mean forehead, wrist, tympanic measurements were 35.6 \u00b1 1.2\u00b0C, 35.7 \u00b1 0.8\u00b0C, and 36.6 \u00b1 0.6\u00b0C, respectively. <mark class=\"stats\">There were 44 patients with fever in indoor patients</mark>. The data of outdoor participants were collected on February 14th, 15th, 17th, 2020"
+        },
+        {
+            "participant": "participants",
+            "number": 23,
+            "context": "However, it can be affected by a person\u2019s physiological and environmental conditions (8, 16). <mark class=\"stats\">The forehead temperature value of 23 participants showed \u201clow\u201d in our study</mark>. This all happened on the same day (February 17th, 2020) with an outside temperature of 7\u00b0C"
+        },
+        {
+            "participant": "hospitalized patients with 2019 novel coronavirus",
+            "number": 138,
+            "context": "4. <mark class=\"stats\">Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China</mark>. Jama 2020"
+        },
+        {
+            "participant": "data",
+            "number": 528,
+            "context": "limits of agreement. (A), (B) for those who walked; (C), (D) for those who used bicycle/electric vehicle; (E), (F) for those who were transported by car; (G), (H) for those who were inside the car author/funder, who has granted medRxiv a license to display the preprint in perpetuity. <mark class=\"stats\">Total (n = 528)</mark>. Gender, male, n (%)"
+        }
+    ],
+    "statistics": [
+        {
+            "p_value": "P <0.001",
+            "context": "Figure 4 shows the comparison between wrist and forehead measurements for detection of fever. <mark class=\"stats\">Both measurement had significantly great abilities of screening patients for fever (wrist: AUC 0.790; 95% CI: 0.725\u20130.854, P <0.001; forehead: AUC 0.816; 95% CI: 0.757\u20130.876, P <0.0001)</mark>. The cut-off value of wrist measurement for detecting tympanic temperature \u226537.3\u00b0C was 36.2\u00b03 with a 86.4% sensitivity and a 67.0% specificity"
+        }
+    ],
+    "keywords": [
+        "different circumstance",
+        "fever screening ability",
+        "temperature screening",
+        "infrared tympanic",
+        "infrared tympanic thermometers",
+        "2019 Novel Coronavirus",
+        "forehead temperature",
+        "indoor patient",
+        "forehead measurement",
+        "non contact infrared thermometer",
+        "novel coronavirus",
+        "wrist temperature",
+        "prospective real world study",
+        "tympanic temperature",
+        "tympanic thermometer",
+        "great fever screening ability",
+        "non-contact infrared thermometer",
+        "general population",
+        "Limits of Agreement",
+        "standard deviation",
+        "mass screening",
+        "coronavirus",
+        "wrist measurement",
+        "receiver\u2013operator characteristic",
+        "outdoor participant",
+        "wearable devices",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "tympanic temperature": 0.1118881119,
+        "non-contact infrared thermometer": 0.0909090909,
+        "infrared tympanic thermometers": 0.0699300699,
+        "forehead measurement": 0.0699300699,
+        "forehead temperature": 0.0629370629,
+        "receiver\u2013operator characteristic": 0.0559440559,
+        "outdoor participant": 0.0559440559,
+        "COVID-19": 0.0559440559,
+        "indoor patient": 0.048951049,
+        "wrist temperature": 0.048951049,
+        "different circumstance": 0.041958042,
+        "wrist measurement": 0.041958042,
+        "mass screening": 0.034965035,
+        "infrared tympanic": 0.027972028,
+        "2019 Novel Coronavirus": 0.027972028,
+        "novel coronavirus": 0.027972028,
+        "coronavirus": 0.027972028,
+        "tympanic thermometer": 0.020979021,
+        "standard deviation": 0.020979021,
+        "temperature screening": 0.013986014,
+        "general population": 0.013986014,
+        "Limits of Agreement": 0.013986014,
+        "wearable devices": 0.013986014,
+        "fever screening ability": 0.0,
+        "non contact infrared thermometer": 0.0,
+        "prospective real world study": 0.0,
+        "great fever screening ability": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The outbreaks of 2019 novel coronavirus COVID-19<br/><br/>has attracted global attention, due to its strong transmission ability and certain fatality (1, 2).<br/><br/>Some studies reported that fever, fatigue and dry cough are common symptoms of<br/><br/>COVID-19 patients (3, 4), and 43.8% of the patients showed fever before admission with it largely being the first symptom (5).",
+        "The authors need to consume a lot of disposable plastic covers when the authors use IRTT",
+        "It may increase the financial burden in the widespread use of population screening.",
+        "NCIT meets the clinical requirements for mass screening in terms of detection efficiency, safety and cost-performance.",
+        "It takes less time than IRTT.",
+        "Forehead temperature is affected by physiological and environmental conditions (8).",
+        "A previous study suggested to acclimate to the indoor temperature for at least min for those who were exposed to the cold before taking body temperature readings (8)",
+        "<h2 style=\"display: inline\">Methods:</h2> The authors performed a prospective observational study in a real-life population. The authors consecutively collected wrist and forehead temperatures in Celsius (\u00b0C) using a non-contact infrared thermometer (NCIT).",
+        "The authors measured the tympanic temperature using a tympanic thermometers (IRTT) and defined fever as a tympanic temperature \u226537.3\u00b0C.",
+        "This was a prospective observational study in a real-life population.",
+        "The authors enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants.",
+        "The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members.",
+        "The data of indoor participants were collected consecutively between February 14th and February 20th, 2020",
+        "<h2 style=\"display: inline\">Results:</h2> The authors enrolled a total of 528 participants including 261 indoor and 267 outdoor participants.",
+        "The mean difference ranged from -1.72 to -0.56\u00b0C in different groups for the forehead measurements, and -0.96 to -0.61\u00b0C for the wrist measurements",
+        "Both measurements had high fever screening abilities in inpatients.",
+        "86.4% sensitivity and a 67.0% specificity, and the best threshold of forehead measurement was 36.2\u00b0C with a 93.2% sensitivity and a 60.0% specificity",
+        "In this prospective observational study, a total of 528 participants were enrolled.",
+        "<h2 style=\"display: inline\">Conclusion:</h2> In this prospective real-world study, the authors found that wrist temperature measurement is more stable than forehead using NCIT under different circumstances in outdoor participants",
+        "Both measurement had significantly great abilities of screening patients for fever in indoor patients.",
+        "This study was the first to explore the reliability and validity of wrist and forehead temperature measurement in mass screening.Wrist measurement is more stable than forehead measurement under different circumstance",
+        "Both measurements have great fever screening abilities for indoor patients.",
+        "The cut-off value of both measurements was 36.2\u00b0C. (ClinicalTrials.gov number: NCT04274621)"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The outbreaks of 2019 novel coronavirus COVID-19<br/><br/>has attracted global attention, due to its strong transmission ability and certain fatality (1, 2).<br/><br/>Some studies reported that fever, fatigue and dry cough are common symptoms of<br/><br/>COVID-19 patients (3, 4), and 43.8% of the patients showed fever before admission with it largely being the first symptom (5).",
+            "The authors need to consume a lot of disposable plastic covers when the authors use IRTT",
+            "It may increase the financial burden in the widespread use of population screening.",
+            "NCIT meets the clinical requirements for mass screening in terms of detection efficiency, safety and cost-performance.",
+            "It takes less time than IRTT.",
+            "Forehead temperature is affected by physiological and environmental conditions (8).",
+            "A previous study suggested to acclimate to the indoor temperature for at least min for those who were exposed to the cold before taking body temperature readings (8)"
+        ],
+        "Methods": [
+            "The authors performed a prospective observational study in a real-life population. The authors consecutively collected wrist and forehead temperatures in Celsius (\u00b0C) using a non-contact infrared thermometer (NCIT).",
+            "The authors measured the tympanic temperature using a tympanic thermometers (IRTT) and defined fever as a tympanic temperature \u226537.3\u00b0C.",
+            "This was a prospective observational study in a real-life population.",
+            "The authors enrolled 528 eligible participants for the final analysis, including 261 indoor and 267 outdoor participants.",
+            "The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members.",
+            "The data of indoor participants were collected consecutively between February 14th and February 20th, 2020"
+        ],
+        "Results": [
+            "The authors enrolled a total of 528 participants including 261 indoor and 267 outdoor participants.",
+            "The mean difference ranged from -1.72 to -0.56\u00b0C in different groups for the forehead measurements, and -0.96 to -0.61\u00b0C for the wrist measurements",
+            "Both measurements had high fever screening abilities in inpatients.",
+            "86.4% sensitivity and a 67.0% specificity, and the best threshold of forehead measurement was 36.2\u00b0C with a 93.2% sensitivity and a 60.0% specificity",
+            "In this prospective observational study, a total of 528 participants were enrolled."
+        ],
+        "Conclusion": [
+            "In this prospective real-world study, the authors found that wrist temperature measurement is more stable than forehead using NCIT under different circumstances in outdoor participants",
+            "Both measurement had significantly great abilities of screening patients for fever in indoor patients.",
+            "This study was the first to explore the reliability and validity of wrist and forehead temperature measurement in mass screening.Wrist measurement is more stable than forehead measurement under different circumstance",
+            "Both measurements have great fever screening abilities for indoor patients.",
+            "The cut-off value of both measurements was 36.2\u00b0C. (ClinicalTrials.gov number: NCT04274621)"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Zumla_et+al_2019_a",
+            "entry": "1. Zumla A, Hui DS, Azhar EI, Memish ZA, Maeurer M. Reducing mortality from 260 2019-nCoV: host-directed therapies should be an option. The Lancet 2020. 261 2. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and 262 international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling 263 study. The Lancet 2020. 264 3.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zumla%20A%20Hui%20DS%20Azhar%20EI%20Memish%20ZA%20Maeurer%20M%20Reducing%20mortality%20from%20260%202019nCoV%20hostdirected%20therapies%20should%20be%20an%20option%20The%20Lancet%202020%20261%202%20Wu%20JT%20Leung%20K%20Leung%20GM%20Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20262%20international%20spread%20of%20the%202019nCoV%20outbreak%20originating%20in%20Wuhan%20China%20a%20modelling%20263%20study%20The%20Lancet%202020%20264%203",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zumla%20A%20Hui%20DS%20Azhar%20EI%20Memish%20ZA%20Maeurer%20M%20Reducing%20mortality%20from%20260%202019nCoV%20hostdirected%20therapies%20should%20be%20an%20option%20The%20Lancet%202020%20261%202%20Wu%20JT%20Leung%20K%20Leung%20GM%20Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20262%20international%20spread%20of%20the%202019nCoV%20outbreak%20originating%20in%20Wuhan%20China%20a%20modelling%20263%20study%20The%20Lancet%202020%20264%203",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zumla%20A%20Hui%20DS%20Azhar%20EI%20Memish%20ZA%20Maeurer%20M%20Reducing%20mortality%20from%20260%202019nCoV%20hostdirected%20therapies%20should%20be%20an%20option%20The%20Lancet%202020%20261%202%20Wu%20JT%20Leung%20K%20Leung%20GM%20Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20262%20international%20spread%20of%20the%202019nCoV%20outbreak%20originating%20in%20Wuhan%20China%20a%20modelling%20263%20study%20The%20Lancet%202020%20264%203"
+        },
+        {
+            "id": "Wang_et+al_2019_a",
+            "alt_id": "2",
+            "entry": "Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel 265 coronavirus (2019\u2010nCoV) in Wuhan, China. Journal of Medical Virology 2020. 266 4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20W%20Tang%20J%20Wei%20F%20Updated%20understanding%20of%20the%20outbreak%20of%202019%20novel%20265%20coronavirus%202019nCoV%20in%20Wuhan%20China%20Journal%20of%20Medical%20Virology%202020%20266%204",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%20W%20Tang%20J%20Wei%20F%20Updated%20understanding%20of%20the%20outbreak%20of%202019%20novel%20265%20coronavirus%202019nCoV%20in%20Wuhan%20China%20Journal%20of%20Medical%20Virology%202020%20266%204",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%20W%20Tang%20J%20Wei%20F%20Updated%20understanding%20of%20the%20outbreak%20of%202019%20novel%20265%20coronavirus%202019nCoV%20in%20Wuhan%20China%20Journal%20of%20Medical%20Virology%202020%20266%204"
+        },
+        {
+            "id": "Wang_et+al_2019_a",
+            "alt_id": "3",
+            "entry": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical characteristics of 138 267 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20Hu%20B%20Hu%20C%20Zhu%20F%20Liu%20X%20Zhang%20J%20et%20al%20Clinical%20characteristics%20of%20138%20267%20hospitalized%20patients%20with%202019%20novel%20coronavirusinfected%20pneumonia%20in%20Wuhan%20China",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%20D%20Hu%20B%20Hu%20C%20Zhu%20F%20Liu%20X%20Zhang%20J%20et%20al%20Clinical%20characteristics%20of%20138%20267%20hospitalized%20patients%20with%202019%20novel%20coronavirusinfected%20pneumonia%20in%20Wuhan%20China",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%20D%20Hu%20B%20Hu%20C%20Zhu%20F%20Liu%20X%20Zhang%20J%20et%20al%20Clinical%20characteristics%20of%20138%20267%20hospitalized%20patients%20with%202019%20novel%20coronavirusinfected%20pneumonia%20in%20Wuhan%20China"
+        },
+        {
+            "id": "268",
+            "alt_id": "Jama_2019_a",
+            "entry": "268 Jama 2020. 269 5. Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He J-x, et al. Clinical characteristics of 270 2019 novel coronavirus infection in China. medRxiv 2020. 271 6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Jama%202020%20269%205%20Guan%20Wj%20Ni%20Zy%20Hu%20Y%20Liang%20Wh%20Ou%20Cq%20He%20Jx%20et%20al%20Clinical%20characteristics%20of%20270%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020%20271%206",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Jama%202020%20269%205%20Guan%20Wj%20Ni%20Zy%20Hu%20Y%20Liang%20Wh%20Ou%20Cq%20He%20Jx%20et%20al%20Clinical%20characteristics%20of%20270%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020%20271%206",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Jama%202020%20269%205%20Guan%20Wj%20Ni%20Zy%20Hu%20Y%20Liang%20Wh%20Ou%20Cq%20He%20Jx%20et%20al%20Clinical%20characteristics%20of%20270%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020%20271%206"
+        },
+        {
+            "id": "Devrim_et+al_2007_a",
+            "alt_id": "5",
+            "entry": "Devrim I, Kara A, Ceyhan M, Tezer H, Uludag AK, Cengiz AB, et al. Measurement 272 accuracy of fever by tympanic and axillary thermometry. Pediatric emergency care 273 2007;23:16-19. 274 7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Devrim%2C%20I.%20Kara%2C%20A.%20Ceyhan%2C%20M.%20Tezer%2C%20H.%20Measurement%20272%20accuracy%20of%20fever%20by%20tympanic%20and%20axillary%20thermometry%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Devrim%2C%20I.%20Kara%2C%20A.%20Ceyhan%2C%20M.%20Tezer%2C%20H.%20Measurement%20272%20accuracy%20of%20fever%20by%20tympanic%20and%20axillary%20thermometry%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Devrim%2C%20I.%20Kara%2C%20A.%20Ceyhan%2C%20M.%20Tezer%2C%20H.%20Measurement%20272%20accuracy%20of%20fever%20by%20tympanic%20and%20axillary%20thermometry%202007"
+        },
+        {
+            "id": "Mogensen_et+al_2018_a",
+            "alt_id": "6",
+            "entry": "Mogensen CB, Wittenhoff L, Fruerh\u00f8j G, Hansen S. Forehead or ear temperature 275 measurement cannot replace rectal measurements, except for screening purposes. BMC 276 pediatrics 2018;18:15. 277 8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mogensen%2C%20C.B.%20Wittenhoff%2C%20L.%20Fruerh%C3%B8j%2C%20G.%20Hansen%2C%20S.%20Forehead%20or%20ear%20temperature%20275%20measurement%20cannot%20replace%20rectal%20measurements%2C%20except%20for%20screening%20purposes%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Mogensen%2C%20C.B.%20Wittenhoff%2C%20L.%20Fruerh%C3%B8j%2C%20G.%20Hansen%2C%20S.%20Forehead%20or%20ear%20temperature%20275%20measurement%20cannot%20replace%20rectal%20measurements%2C%20except%20for%20screening%20purposes%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Mogensen%2C%20C.B.%20Wittenhoff%2C%20L.%20Fruerh%C3%B8j%2C%20G.%20Hansen%2C%20S.%20Forehead%20or%20ear%20temperature%20275%20measurement%20cannot%20replace%20rectal%20measurements%2C%20except%20for%20screening%20purposes%202018"
+        },
+        {
+            "id": "279",
+            "alt_id": "279_2013_a",
+            "entry": "279 Pediatrics International 2013;55:767-770. 280 9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Pediatrics%20International%20201355767770%20280%209"
+        },
+        {
+            "id": "282",
+            "alt_id": "Internal_2008_a",
+            "entry": "282 Internal Medicine Journal 2020. 283 10. Campbell I. Body temperature and its regulation. Anaesthesia & Intensive Care Medicine 284 2008;9:259-263. 285 11.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=2020%2C%20Internal%20Medicine%20Journal%20Body%20temperature%20and%20its%20regulation%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=2020%2C%20Internal%20Medicine%20Journal%20Body%20temperature%20and%20its%20regulation%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=2020%2C%20Internal%20Medicine%20Journal%20Body%20temperature%20and%20its%20regulation%202008"
+        },
+        {
+            "id": "Gasim_et+al_2013_a",
+            "alt_id": "9",
+            "entry": "Gasim GI, Musa IR, Abdien MT, Adam I. Accuracy of tympanic temperature 286 measurement using an infrared tympanic membrane thermometer. BMC research notes 287 2013;6:194. 288 12.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gasim%2C%20G.I.%20Musa%2C%20I.R.%20Abdien%2C%20M.T.%20Adam%2C%20I.%20Accuracy%20of%20tympanic%20temperature%20286%20measurement%20using%20an%20infrared%20tympanic%20membrane%20thermometer%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gasim%2C%20G.I.%20Musa%2C%20I.R.%20Abdien%2C%20M.T.%20Adam%2C%20I.%20Accuracy%20of%20tympanic%20temperature%20286%20measurement%20using%20an%20infrared%20tympanic%20membrane%20thermometer%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gasim%2C%20G.I.%20Musa%2C%20I.R.%20Abdien%2C%20M.T.%20Adam%2C%20I.%20Accuracy%20of%20tympanic%20temperature%20286%20measurement%20using%20an%20infrared%20tympanic%20membrane%20thermometer%202013"
+        },
+        {
+            "id": "Bland_1999_a",
+            "alt_id": "10",
+            "entry": "Bland JM, Altman DG. Measuring agreement in method comparison studies. Statistical 289 methods in medical research 1999;8:135-160.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bland%2C%20J.M.%20Altman%2C%20D.G.%20Measuring%20agreement%20in%20method%20comparison%20studies%201999",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bland%2C%20J.M.%20Altman%2C%20D.G.%20Measuring%20agreement%20in%20method%20comparison%20studies%201999",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bland%2C%20J.M.%20Altman%2C%20D.G.%20Measuring%20agreement%20in%20method%20comparison%20studies%201999"
+        },
+        {
+            "id": "13",
+            "alt_id": "Suleman_et+al_2002_a",
+            "entry": "13. Suleman M-I, Doufas AG, Ak\u00e7a O, Ducharme M, Sessler DI. Insufficiency in a new 291 temporal-artery thermometer for adult and pediatric patients. Anesthesia & Analgesia 292 2002;95:67-71.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Suleman%2C%20M.-I.%20Doufas%2C%20A.G.%20Ak%C3%A7a%2C%20O.%20Ducharme%2C%20M.%20Insufficiency%20in%20a%20new%20291%20temporal-artery%20thermometer%20for%20adult%20and%20pediatric%20patients%202002",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Suleman%2C%20M.-I.%20Doufas%2C%20A.G.%20Ak%C3%A7a%2C%20O.%20Ducharme%2C%20M.%20Insufficiency%20in%20a%20new%20291%20temporal-artery%20thermometer%20for%20adult%20and%20pediatric%20patients%202002",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Suleman%2C%20M.-I.%20Doufas%2C%20A.G.%20Ak%C3%A7a%2C%20O.%20Ducharme%2C%20M.%20Insufficiency%20in%20a%20new%20291%20temporal-artery%20thermometer%20for%20adult%20and%20pediatric%20patients%202002"
+        },
+        {
+            "id": "14",
+            "alt_id": "Berksoy_2018_a",
+            "entry": "14. Berksoy E, An\u0131l M, B\u0131c\u0131l\u0131o\u011flu Y, G\u00f6kalp G, Bal A. Comparison of infrared tympanic, non-contact infrared skin, and axillary thermometer to rectal temperature measurements in a 295 pediatric emergency observation unit. Int J Clin Exp Med 2018;11:567-573. 296 15. Rabbani MZ, Amir M, Malik M, Mufti M, Bin Pervez M, Iftekhar S. Tympanic 297 temperature comparison with oral mercury thermometer readings in an OPD setting. J Coll 298 Physicians Surg Pak 2010;20:33-36. 299 16.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Berksoy%20E%20An%C4%B1l%20M%20B%C4%B1c%C4%B1l%C4%B1o%C4%9Flu%20Y%20G%C3%B6kalp%20G%20Bal%20A%20Comparison%20of%20infrared%20tympanic%20noncontact%20infrared%20skin%20and%20axillary%20thermometer%20to%20rectal%20temperature%20measurements%20in%20a%20295%20pediatric%20emergency%20observation%20unit%20Int%20J%20Clin%20Exp%20Med%20201811567573%20296%2015%20Rabbani%20MZ%20Amir%20M%20Malik%20M%20Mufti%20M%20Bin%20Pervez%20M%20Iftekhar%20S%20Tympanic%20297%20temperature%20comparison%20with%20oral%20mercury%20thermometer%20readings%20in%20an%20OPD%20setting%20J%20Coll%20298%20Physicians%20Surg%20Pak%202010203336%20299%2016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Berksoy%20E%20An%C4%B1l%20M%20B%C4%B1c%C4%B1l%C4%B1o%C4%9Flu%20Y%20G%C3%B6kalp%20G%20Bal%20A%20Comparison%20of%20infrared%20tympanic%20noncontact%20infrared%20skin%20and%20axillary%20thermometer%20to%20rectal%20temperature%20measurements%20in%20a%20295%20pediatric%20emergency%20observation%20unit%20Int%20J%20Clin%20Exp%20Med%20201811567573%20296%2015%20Rabbani%20MZ%20Amir%20M%20Malik%20M%20Mufti%20M%20Bin%20Pervez%20M%20Iftekhar%20S%20Tympanic%20297%20temperature%20comparison%20with%20oral%20mercury%20thermometer%20readings%20in%20an%20OPD%20setting%20J%20Coll%20298%20Physicians%20Surg%20Pak%202010203336%20299%2016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Berksoy%20E%20An%C4%B1l%20M%20B%C4%B1c%C4%B1l%C4%B1o%C4%9Flu%20Y%20G%C3%B6kalp%20G%20Bal%20A%20Comparison%20of%20infrared%20tympanic%20noncontact%20infrared%20skin%20and%20axillary%20thermometer%20to%20rectal%20temperature%20measurements%20in%20a%20295%20pediatric%20emergency%20observation%20unit%20Int%20J%20Clin%20Exp%20Med%20201811567573%20296%2015%20Rabbani%20MZ%20Amir%20M%20Malik%20M%20Mufti%20M%20Bin%20Pervez%20M%20Iftekhar%20S%20Tympanic%20297%20temperature%20comparison%20with%20oral%20mercury%20thermometer%20readings%20in%20an%20OPD%20setting%20J%20Coll%20298%20Physicians%20Surg%20Pak%202010203336%20299%2016"
+        },
+        {
+            "id": "Vesnovsky_et+al_2017_a",
+            "alt_id": "13",
+            "entry": "Vesnovsky O, Li Y, Topoleski L, Zhu L. Modeling of Differences Between Body Core 300 and Forehead Temperatures Measured by Infrared Thermometers. In: 2017 Design of 301 Medical Devices Conference; 2017: American Society of Mechanical Engineers Digital 302 Collection; 2017. 303 304",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Vesnovsky%2C%20O.%20Li%2C%20Y.%20Topoleski%2C%20L.%20Zhu%2C%20L.%20Modeling%20of%20Differences%20Between%20Body%20Core%20300%20and%20Forehead%20Temperatures%20Measured%20by%20Infrared%20Thermometers%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Vesnovsky%2C%20O.%20Li%2C%20Y.%20Topoleski%2C%20L.%20Zhu%2C%20L.%20Modeling%20of%20Differences%20Between%20Body%20Core%20300%20and%20Forehead%20Temperatures%20Measured%20by%20Infrared%20Thermometers%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Vesnovsky%2C%20O.%20Li%2C%20Y.%20Topoleski%2C%20L.%20Zhu%2C%20L.%20Modeling%20of%20Differences%20Between%20Body%20Core%20300%20and%20Forehead%20Temperatures%20Measured%20by%20Infrared%20Thermometers%202017"
+        }
+    ],
+    "facts": [
+        "Temperature screening is important in the population during the outbreak",
+        "divided outdoor participants into four types according to their means of transportation",
+        "the mean difference ranged from -1.72 to -",
+        "Wrist measurement is more stable than forehead measurement under different circumstance",
+        "Some studies reported that fever",
+        "temperature screening in the high-risk population is important for early identification of COVID-19 infection",
+        "infrared tympanic thermometers and non-contact infrared thermometer are being applied to temperature screening in the general population",
+        "indirect contacts with infected individuals may increase the risk of cross infection",
+        "NCIT meets the clinical requirements for mass screening in terms",
+        "A previous study suggested to acclimate to the indoor temperature",
+        "at least min for those who were exposed to the cold before taking body temperature readings",
+        "The 261 indoor participants were from the fever clinic and emergency department",
+        "The data of outdoor participants were collected on February 14th",
+        "that wrist temperature measurement is more stable than forehead using NCIT under different circumstances",
+        "The mean difference ranged from -1.72 to -"
+    ],
+    "claims": [
+        "In this study, we explored the accuracy and advantages of wrist temperature measurement in a real-life population in different environments and conditions",
+        "We aimed to find the thresholds of this key technique for diagnosis of fever",
+        "We also explore the agreement of left and right wrists (Figure S1)",
+        "In this prospective real-world study, we found that wrist temperature measurement is more stable than forehead using NCIT under different circumstances in outdoor participants"
+    ],
+    "findings": [
+        "Under different circumstance, the mean difference ranged from -1.72 to -0.56C in different groups for the forehead measurements, and -0.96 to -0.61C for the wrist measurements. Both measurements had high fever screening abilities in inpatients (wrist: AUC 0.790; 95% CI: 0.725-0.854, P &lt;0.001; forehead: AUC 0.816; 95% CI: 0.757-0.876, P &lt;0.001)",
+        "Figure 4 shows the comparison between wrist and forehead measurements for detection of fever. Both measurement had significantly great abilities of screening patients for fever (wrist: AUC 0.790; 95% CI: 0.725\u20130.854, P <0.001; forehead: AUC 0.816; 95% CI: 0.757\u20130.876, P <0.0001)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "non-contact infrared thermometer meets the clinical requirements for mass screening in terms of detection efficiency, safety and cost-performance",
+        "A previous study suggested to acclimate to the indoor temperature for at least min for those who were exposed to the cold before taking body temperature readings (8)",
+        "We explored the accuracy and advantages of wrist temperature measurement in a real-life population in different environments and conditions",
+        "The 261 indoor participants were from the fever clinic and emergency department, and the 267 outdoor participants included patients and accompanying family members",
+        "The data of outdoor participants were collected on February 14th, 15th, 17th, 2020",
+        "Compared with tympanic temperature as golden standard, the mean difference ranged from -1.72 to -0.56\u00b0C for the forehead measurement, and -0.96 to",
+        "In this prospective real-world study, we found that wrist temperature measurement is more stable than forehead using non-contact infrared thermometer under different circumstances in outdoor participants"
+    ],
+    "top_statements": [
+        "The outbreaks of 2019 novel coronavirus COVID-19<br/><br/>has attracted global attention, due to its strong transmission ability and certain fatality (1, 2).<br/><br/>Some studies reported that fever, fatigue and dry cough are common symptoms of<br/><br/>COVID-19 patients (3, 4), and 43.8% of the patients showed fever before admission with it largely being the first symptom (5)",
+        "non-contact infrared thermometer meets the clinical requirements for mass screening in terms of detection efficiency, safety and cost-performance",
+        "A previous study suggested to acclimate to the indoor temperature for at least min for those who were exposed to the cold before taking body temperature readings (8)",
+        "The data of outdoor participants were collected on February 14th, 15th, 17th, 2020",
+        "Compared with tympanic temperature as golden standard, the mean difference ranged from -1.72 to -0.56\u00b0C for the forehead measurement, and -0.96 to",
+        "The mean difference ranged from -1.72 to -0.56C in different groups for the forehead measurements, and -0.96 to -0.61C for the wrist measurements. Both measurements had high fever screening abilities in inpatients",
+        "In this prospective real-world study, we found that wrist temperature measurement is more stable than forehead using non-contact infrared thermometer under different circumstances in outdoor participants"
+    ],
+    "headline": "The data of outdoor participants were collected on February 14th, 15th, 17th, 2020",
+    "contexts": [],
+    "abbreviations": {
+        "NCIT": "non-contact infrared thermometer",
+        "IRTT": "infrared tympanic thermometers",
+        "ROC": "receiver\u2013operator characteristic",
+        "WD": "wearable devices",
+        "SD": "standard deviation",
+        "LoA": "Limits of Agreement"
+    }
+}

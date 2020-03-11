@@ -1,0 +1,683 @@
+{
+    "filename": "2020.03.04.20031112.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 7759225,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.04.20031112",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/06/2020.03.04.20031112.full.pdf"
+        },
+        "title": "Projecting the transmission dynamics of SARS-CoV-2 through the post-pandemic period",
+        "date": 2020,
+        "author": "Stephen M Kissler, Christine Tedijanto, Edward Goldstein, Yonatan H. Grad, Marc Lipsitch",
+        "affiliations": [
+            "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, MA, USA",
+            "Department of Epidemiology, Harvard. T.H. Chan School of Public Health, Boston, MA, USA",
+            "Correspondence to: mlipsitc@hsph.harvard.edu \u2020 denotes equal contribution"
+        ],
+        "abstract": "There is an urgent need to project how transmission of the novel betacoronavirus SARS-CoV-2 will unfold in coming years. These dynamics will depend on seasonality, the duration of immunity, and the strength of cross-immunity to/from the other human coronaviruses. Using data from the United States, we measured how these factors affect transmission of human betacoronaviruses HCoV-OC43 and HCoV-HKU1. We then built a mathematical model to simulate transmission of SARS-CoV-2 through the year 2025. We project that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave. We summarize the full range of plausible transmission scenarios and identify key data still needed to distinguish between them, most importantly longitudinal serological studies to determine the duration of immunity to SARS-CoV-2.",
+        "references": "@article{organization-a,\n  author = {Organization, World Health},\n  title = {Coronavirus disease 2019 (COVID-19)},\n  journal = {(Situation Report},\n  volume = {35},\n  url = {https://www.who.int/docs/default-source/coronaviruse/situationreports/20200224-sitrep-35-covid-19.pdf},\n  number = {2020},\n  language = {}\n}\n@article{heymann2013a,\n  author = {Heymann, D.L. and Mackenzie, J.S. and Peiris, M.},\n  title = {SARS legacy: outbreak reporting is expected and respected},\n  journal = {The Lancet},\n  volume = {381},\n  pages = {779\u2013781},\n  date = {2013},\n  language = {}\n}\n@book{unknown-a,\n  title = {Transcript for the CDC Telebriefing Update on},\n  publisher = {COVID-19 (2020},\n  url = {https://www.cdc.gov/media/releases/2020/t0225-cdc-telebriefing-covid-19.html},\n  language = {}\n}\n@article{wikramaratna2013a,\n  author = {Wikramaratna, P.S. and Sandeman, M. and Recker, M. and Gupta, S.},\n  title = {The antigenic evolution of influenza: drift or thrift?},\n  journal = {Philos. Trans. R. Soc. B Biol. Sci. 368},\n  date = {2013},\n  doi = {doi: 10.1098/rstb.2012.0200},\n  language = {}\n}\n@article{vijgen2005a,\n  author = {Vijgen, L. and Keyaerts, E. and Moes, E. and Thoelen, I. and Wollants, E. and Lemey, P. and Vandamme, A.-M. and Ranst, M.Van},\n  title = {Complete genomic sequence of human coronavirus OC43: molecular clock analysis suggests a relatively recent zoonotic coronavirus transmission event},\n  journal = {J. Virol},\n  volume = {79},\n  pages = {1595\u20131604},\n  date = {2005},\n  language = {}\n}\n@article{su2016a,\n  author = {Su, S. and Wong, G. and Shi, W. and Liu, J. and Lai, A.C.K. and Zhou, J. and Liu, W. and Bi, Y. and Gao, G.F.},\n  title = {Epidemiology, genetic recombination, and pathogenesis of coronaviruses},\n  journal = {Trends Microbiol},\n  volume = {24},\n  pages = {490\u2013502},\n  date = {2016},\n  language = {}\n}\n@article{wu2020a,\n  author = {Wu, Z. and McGoogan, J.M.},\n  title = {Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention},\n  journal = {JAMA},\n  date = {2020},\n  doi = {doi: 10.1001/jama.2020.2648},\n  language = {}\n}\n@techreport{unknown2020a,\n  title = {The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) -- China 2020. CCDC Wkly},\n  date = {2020},\n  language = {},\n  institution = {Chinese Center for Disease Control and Prevention}\n}\n@article{killerby2018a,\n  author = {Killerby, M.E. and Biggs, H.M. and Haynes, A. and Dahl, R.M. and Mustaquim, D. and Gerber, S.I. and Watson, J.T.},\n  title = {Human coronavirus circulation in the United States 2014\u20132017},\n  journal = {J. Clin. Virol},\n  volume = {101},\n  pages = {52\u201356},\n  date = {2018},\n  language = {}\n}\n@book{neher-a,\n  author = {Neher, R.A. and Dyrdak, R. and Druelle, V. and Hodcroft, E.B. and Albert, J.},\n  title = {Impact of seasonal forcing on a potential SARS-CoV-2 pandemic},\n  publisher = {medRxiv (2020},\n  doi = {doi: 10.1101/2020.02.13.20022806},\n  language = {}\n}\n@article{shaman2010a,\n  author = {Shaman, J. and Pitzer, V.E. and Viboud, C. and Grenfell, B.T. and Lipsitch, M.},\n  title = {Absolute humidity and the seasonal onset of influenza in the continental United States},\n  journal = {PLoS Biol},\n  volume = {8},\n  pages = {1000316},\n  date = {2010},\n  language = {}\n}\n@article{shaman2011a,\n  author = {Shaman, J. and Goldstein, E. and Lipsitch, M.},\n  title = {Absolute humidity and pandemic versus epidemic influenza},\n  journal = {Am. J. Epidemiol},\n  volume = {173},\n  pages = {127\u2013135},\n  date = {2011},\n  language = {}\n}\n@article{chattopadhyay2018a,\n  author = {Chattopadhyay, I. and Kiciman, E. and Elliott, J.W. and Shaman, J.L. and Rzhetsky, A.},\n  title = {Conjunction of factors triggering waves of seasonal influenza},\n  journal = {eLife},\n  volume = {7},\n  date = {2018},\n  doi = {doi:e30756},\n  language = {}\n}\n@article{callow1990a,\n  author = {Callow, K.A. and Parry, H.F. and Sergeant, M. and Tyrrell, D.A.},\n  title = {The time course of the immune response to experimental coronavirus infection of man},\n  journal = {Epidemiol. Infect},\n  volume = {105},\n  pages = {435\u2013446},\n  date = {1990},\n  language = {}\n}\n@article{chan2012a,\n  author = {Chan, K.-H. and Chan, J.F.-W. and Tse, H. and Chen, H. and Lau, C.C.-Y. and Cai, J.-P. and Tsang, A.K.-L. and Xiao, X. and To, K.K.-W. and Lau, S.K.-P. and Woo, P.C.-Y. and Zheng, B.-J. and Wang, M. and Yuen, K.-Y.},\n  title = {Crossreactive antibodies in convalescent SARS patients\u2019 sera against the emerging novel human coronavirus},\n  journal = {EMC},\n  date = {2012},\n  volume = {67},\n  pages = {130\u2013140},\n  source = {by both immunofluorescent and neutralizing antibody tests},\n  unmatched-journal = {J. Infect.},\n  language = {}\n}\n@article{patrick2006a,\n  author = {Patrick, D.M. and Petric, M. and Skowronski, D.M. and Guasparini, R. and Booth, T.F. and Krajden, M. and McGeer, P. and Bastien, N. and Gustafson, L. and Dubord, J. and MacDonald, D. and David, S.T. and Srour, L.F. and Parker, R. and Andonov, A. and Isaac-Renton, J. and Loewen, N. and McNabb, G. and McNabb, A. and Goh, S.-H. and Henwick, S. and Astell, C. and Guo, J.P. and Drebot, M. and Tellier, R. and Plummer, F. and Brunham, R.C.},\n  title = {An outbreak of human coronavirus OC43 infection and serological cross-reactivity with SARS coronavirus},\n  journal = {Can. J. Infect. Dis. Med. Microbiol},\n  volume = {17},\n  pages = {330\u2013336},\n  date = {2006},\n  language = {}\n}\n@techreport{unknown-b,\n  title = {The National Respiratory and Enteric Virus Surveillance System (NREVSS)},\n  unknown = {2020},\n  url = {https://www.cdc.gov/surveillance/nrevss/index.html},\n  language = {},\n  institution = {Centers for Disease Control and Prevention}\n}\n@article{goldstein2011a,\n  author = {Goldstein, E. and Cobey, S. and Takahashi, S. and Miller, J.C. and Lipsitch, M.},\n  title = {Predicting the epidemic sizes of influenza A/H1N1, A/H3N2, and B: a statistical method},\n  journal = {PLOS Med},\n  volume = {8},\n  date = {2011},\n  doi = {doi: 10.1371/journal.pmed.1001051},\n  language = {}\n}\n@techreport{unknown-c,\n  title = {FluView Interactive},\n  unknown = {2018},\n  url = {https://www.cdc.gov/flu/weekly/fluviewinteractive.htm},\n  language = {},\n  institution = {Centers for Disease Control and Prevention}\n}\n@article{wallinga2004a,\n  author = {Wallinga, J. and Teunis, P.},\n  title = {Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures},\n  journal = {Am. J. Epidemiol},\n  volume = {160},\n  pages = {509\u2013516},\n  date = {2004},\n  language = {}\n}\n@article{wallinga2007a,\n  author = {Wallinga, J. and Lipsitch, M.},\n  title = {How generation intervals shape the relationship between growth rates and reproductive numbers},\n  journal = {Proc. R. Soc. B Biol. Sci},\n  volume = {274},\n  pages = {599\u2013604},\n  date = {2007},\n  language = {}\n}\n@article{te2013a,\n  author = {te Beest, D.E. and van Boven, M. and Hooiveld, M. and van den Dool, C. and Wallinga, J.},\n  title = {Driving factors of influenza transmission in the Netherlands},\n  journal = {Am. J. Epidemiol},\n  volume = {178},\n  pages = {1469\u20131477},\n  date = {2013},\n  language = {}\n}\n@book{read-a,\n  author = {Read, J.M. and Bridgen, J.R. and Cummings, D.A. and Ho, A. and Jewell, C.P.},\n  title = {Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions},\n  publisher = {medRxiv (2020},\n  doi = {doi: 10.1101/2020.01.23.20018549},\n  language = {}\n}\n@book{lauer-a,\n  author = {Lauer, S.A. and Grantz, K.H. and Bi, Q. and Jones, F.K. and Zheng, Q. and Meredith, H. and Azman, A.S. and Reich, N.G. and Lessler, J.},\n  title = {The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application},\n  publisher = {medRxiv (2020},\n  doi = {doi: 10.1101/2020.02.02.20020016},\n  language = {}\n}\n@article{linton-a,\n  author = {Linton, N.M. and Kobayashi, T. and Yang, Y. and Hayashi, K. and Akhmetzhanov, A.R. and Jung, S. and Yuan, B. and Kinoshita, R. and H.},\n  journal = {Nishiura},\n  publisher = {medRxiv, in press},\n  doi = {doi: 10.1101/2020.01.26.20018754},\n  language = {}\n}\n@book{luo-a,\n  author = {Luo, W. and Majumder, M.S. and Liu, D. and Poirier, C. and Mandl, K.D. and Lipsitch, M. and Santillana, M.},\n  title = {The role of absolute humidity on transmission rates of the COVID-19 outbreak},\n  publisher = {medRxiv (2020},\n  doi = {doi: 10.1101/2020.02.12.20022467},\n  language = {}\n}\n@article{huang2014a,\n  author = {Huang, K.E. and Lipsitch, M. and Shaman, J. and Goldstein, E.},\n  title = {The US 2009 A(H1N1) influenza epidemic: quantifying the impact of school openings on the reproductive number},\n  journal = {Epidemiol. Camb. Mass},\n  volume = {25},\n  pages = {203\u2013206},\n  date = {2014},\n  language = {}\n}\n@book{shaman-a,\n  author = {Shaman, J. and Galanti, M.},\n  title = {Direct measurement of rates of asymptomatic infection and clinical care-seeking for seasonal coronavirus},\n  publisher = {medRxiv (2020},\n  doi = {doi: 10.1101/2020.01.30.20019612},\n  language = {}\n}\n@misc{unknown2017a,\n  title = {Sustainable Infrastructure in the Tropics,\u201d State of the Tropics (James Cook University},\n  date = {2017},\n  pages = {4},\n  language = {}\n}\n@article{he2015a,\n  author = {He, D. and Lui, R. and Wang, L. and Tse, C.K. and Yang, L. and Stone, L.},\n  title = {Global spatio-temporal patterns of influenza in the post-pandemic era},\n  journal = {Sci. Rep},\n  volume = {5},\n  pages = {11013},\n  date = {2015},\n  language = {}\n}\n@article{vannice2019a,\n  author = {Vannice, K.S. and Cassetti, M.C. and Eisinger, R.W. and Hombach, J. and Knezevic, I. and Marston, H.D. and Wilder-Smith, A. and Cavaleri, M. and Krause, P.R.},\n  title = {Demonstrating vaccine effectiveness during a waning epidemic: A WHO/NIH meeting report on approaches to development and licensure of Zika vaccine candidates},\n  journal = {Vaccine},\n  volume = {37},\n  pages = {863\u2013868},\n  date = {2019},\n  language = {}\n}\n@article{lipsitch2003a,\n  author = {Lipsitch, M. and Cohen, T. and Cooper, B. and Robins, J.M. and Ma, S. and James, L. and Gopalakrishna, G. and Chew, S.K. and Tan, C.C. and Samore, M.H. and Fisman, D. and Murray, M.},\n  title = {Transmission dynamics and control of severe acute respiratory syndrome},\n  journal = {Science},\n  volume = {300},\n  date = {2003},\n  number = {1966},\n  language = {}\n}\n@article{li-a,\n  author = {Li, Q. and Guan, X. and Wu, P. and Wang, X. and Zhou, L. and Tong, Y. and Ren, R. and Leung, K.S.M. and Lau, E.H.Y. and Wong, J.Y. and Xing, X. and Xiang, N. and Wu, Y. and Li, C. and Chen, Q. and Li, D. and Liu, T. and Zhao, J. and Liu, M. and Tu, W. and Chen, C. and Jin, L. and Yang, R. and Wang, Q. and Zhou, S. and Wang, R. and Liu, H. and Luo, Y. and Liu, Y. and Shao, G. and Li, H. and Tao, Z. and Yang, Y. and Deng, Z. and Liu, B. and Ma, Z. and Zhang, Y. and Shi, G. and Lam, T.T.Y. and Wu, J.T. and Gao, G.F. and Cowling, B.J. and Yang, B. and Leung, G.M. and Feng, Z. and J, N.Engl},\n  journal = {Med},\n  publisher = {in press},\n  doi = {doi: 10.1056/NEJMoa2001316},\n  language = {}\n}\n@article{mckay1979a,\n  author = {McKay, M.D. and Beckman, R.J. and Conover, W.J.},\n  title = {Comparison of three methods for selecting values of input variables in the analysis of output from a computer code},\n  journal = {Technometrics},\n  volume = {21},\n  pages = {239\u2013245},\n  date = {1979},\n  language = {}\n}\n@book{team2019a,\n  author = {Team, R.Core},\n  title = {R: A language and environment for statistical computing},\n  publisher = {R Foundation for Statistical Computing},\n  date = {2019},\n  url = {project.org/},\n  language = {},\n  address = {Vienna, Austria}\n}\n@misc{unknown-d,\n  url = {https://www.jstatsoft.org/article/view/v033i09}\n}\n@article{chowell2016a,\n  author = {Chowell, G. and Viboud, C. and Simonsen, L. and Moghadas, S.M.},\n  title = {Characterizing the reproduction number of epidemics with early subexponential growth dynamics},\n  journal = {J. R. Soc. Interface},\n  volume = {13},\n  date = {2016},\n  doi = {doi: 10.1098/rsif.2016.0659},\n  language = {}\n}\n",
+        "links": [
+            "https://www.R-project.org/",
+            "https://www.cdc.gov/surveillance/nrevss/index.html",
+            "https://www.cdc.gov/media/releases/2020/t0225-cdc-telebriefing-covid-19.html",
+            "https://github.com/skissler/nCoV_introduction",
+            "https://github.com/ctedijanto/coronavirus-seasonality",
+            "https://www.who.int/docs/default-source/coronaviruse/situationreports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2",
+            "https://www.jstatsoft.org/article/view/v033i09",
+            "https://www.cdc.gov/flu/weekly/fluviewinteractive.htm"
+        ],
+        "emails": [
+            "mlipsitc@hsph.harvard.edu"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Organization, World Health\nTI  - Coronavirus disease 2019 (COVID-19)\nT2  - (Situation Report\nVL  - 35\nUR  - https://www.who.int/docs/default-source/coronaviruse/situationreports/20200224-sitrep-35-covid-19.pdf\nIS  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Heymann, D.L.\nAU  - Mackenzie, J.S.\nAU  - Peiris, M.\nTI  - SARS legacy: outbreak reporting is expected and respected\nT2  - The Lancet\nVL  - 381\nSP  - 779\nEP  - 781\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - BOOK\nTI  - Transcript for the CDC Telebriefing Update on\nPB  - COVID-19 (2020\nUR  - https://www.cdc.gov/media/releases/2020/t0225-cdc-telebriefing-covid-19.html\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wikramaratna, P.S.\nAU  - Sandeman, M.\nAU  - Recker, M.\nAU  - Gupta, S.\nTI  - The antigenic evolution of influenza: drift or thrift?\nT2  - Philos. Trans. R. Soc. B Biol. Sci. 368\nPY  - 2013\nDA  - 2013\nDO  - 10.1098/rstb.2012.0200\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Vijgen, L.\nAU  - Keyaerts, E.\nAU  - Moes, E.\nAU  - Thoelen, I.\nAU  - Wollants, E.\nAU  - Lemey, P.\nAU  - Vandamme, A.-M.\nAU  - Ranst, M.Van\nTI  - Complete genomic sequence of human coronavirus OC43: molecular clock analysis suggests a relatively recent zoonotic coronavirus transmission event\nT2  - J. Virol\nVL  - 79\nSP  - 1595\nEP  - 1604\nPY  - 2005\nDA  - 2005\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Su, S.\nAU  - Wong, G.\nAU  - Shi, W.\nAU  - Liu, J.\nAU  - Lai, A.C.K.\nAU  - Zhou, J.\nAU  - Liu, W.\nAU  - Bi, Y.\nAU  - Gao, G.F.\nTI  - Epidemiology, genetic recombination, and pathogenesis of coronaviruses\nT2  - Trends Microbiol\nVL  - 24\nSP  - 490\nEP  - 502\nPY  - 2016\nDA  - 2016\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Z.\nAU  - McGoogan, J.M.\nTI  - Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nDO  - 10.1001/jama.2020.2648\nLA  - \nER  - \n\nTY  - RPRT\nTI  - The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) -- China 2020. CCDC Wkly\nPY  - 2020\nDA  - 2020\nLA  - \nC1  - Chinese Center for Disease Control and Prevention\nER  - \n\nTY  - JOUR\nAU  - Killerby, M.E.\nAU  - Biggs, H.M.\nAU  - Haynes, A.\nAU  - Dahl, R.M.\nAU  - Mustaquim, D.\nAU  - Gerber, S.I.\nAU  - Watson, J.T.\nTI  - Human coronavirus circulation in the United States 2014\u20132017\nT2  - J. Clin. Virol\nVL  - 101\nSP  - 52\nEP  - 56\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Neher, R.A.\nAU  - Dyrdak, R.\nAU  - Druelle, V.\nAU  - Hodcroft, E.B.\nAU  - Albert, J.\nTI  - Impact of seasonal forcing on a potential SARS-CoV-2 pandemic\nPB  - medRxiv (2020\nDO  - 10.1101/2020.02.13.20022806\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shaman, J.\nAU  - Pitzer, V.E.\nAU  - Viboud, C.\nAU  - Grenfell, B.T.\nAU  - Lipsitch, M.\nTI  - Absolute humidity and the seasonal onset of influenza in the continental United States\nT2  - PLoS Biol\nVL  - 8\nSP  - 1000316\nPY  - 2010\nDA  - 2010\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shaman, J.\nAU  - Goldstein, E.\nAU  - Lipsitch, M.\nTI  - Absolute humidity and pandemic versus epidemic influenza\nT2  - Am. J. Epidemiol\nVL  - 173\nSP  - 127\nEP  - 135\nPY  - 2011\nDA  - 2011\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chattopadhyay, I.\nAU  - Kiciman, E.\nAU  - Elliott, J.W.\nAU  - Shaman, J.L.\nAU  - Rzhetsky, A.\nTI  - Conjunction of factors triggering waves of seasonal influenza\nT2  - eLife\nVL  - 7\nPY  - 2018\nDA  - 2018\nDO  - e30756\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Callow, K.A.\nAU  - Parry, H.F.\nAU  - Sergeant, M.\nAU  - Tyrrell, D.A.\nTI  - The time course of the immune response to experimental coronavirus infection of man\nT2  - Epidemiol. Infect\nVL  - 105\nSP  - 435\nEP  - 446\nPY  - 1990\nDA  - 1990\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, K.-H.\nAU  - Chan, J.F.-W.\nAU  - Tse, H.\nAU  - Chen, H.\nAU  - Lau, C.C.-Y.\nAU  - Cai, J.-P.\nAU  - Tsang, A.K.-L.\nAU  - Xiao, X.\nAU  - To, K.K.-W.\nAU  - Lau, S.K.-P.\nAU  - Woo, P.C.-Y.\nAU  - Zheng, B.-J.\nAU  - Wang, M.\nAU  - Yuen, K.-Y.\nTI  - Crossreactive antibodies in convalescent SARS patients\u2019 sera against the emerging novel human coronavirus\nT2  - EMC\nPY  - 2012\nDA  - 2012\nVL  - 67\nSP  - 130\nEP  - 140\nT2  - by both immunofluorescent and neutralizing antibody tests\nC1  - J. Infect.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Patrick, D.M.\nAU  - Petric, M.\nAU  - Skowronski, D.M.\nAU  - Guasparini, R.\nAU  - Booth, T.F.\nAU  - Krajden, M.\nAU  - McGeer, P.\nAU  - Bastien, N.\nAU  - Gustafson, L.\nAU  - Dubord, J.\nAU  - MacDonald, D.\nAU  - David, S.T.\nAU  - Srour, L.F.\nAU  - Parker, R.\nAU  - Andonov, A.\nAU  - Isaac-Renton, J.\nAU  - Loewen, N.\nAU  - McNabb, G.\nAU  - McNabb, A.\nAU  - Goh, S.-H.\nAU  - Henwick, S.\nAU  - Astell, C.\nAU  - Guo, J.P.\nAU  - Drebot, M.\nAU  - Tellier, R.\nAU  - Plummer, F.\nAU  - Brunham, R.C.\nTI  - An outbreak of human coronavirus OC43 infection and serological cross-reactivity with SARS coronavirus\nT2  - Can. J. Infect. Dis. Med. Microbiol\nVL  - 17\nSP  - 330\nEP  - 336\nPY  - 2006\nDA  - 2006\nLA  - \nER  - \n\nTY  - RPRT\nTI  - The National Respiratory and Enteric Virus Surveillance System (NREVSS)\nC1  - 2020\nUR  - https://www.cdc.gov/surveillance/nrevss/index.html\nLA  - \nC1  - Centers for Disease Control and Prevention\nER  - \n\nTY  - JOUR\nAU  - Goldstein, E.\nAU  - Cobey, S.\nAU  - Takahashi, S.\nAU  - Miller, J.C.\nAU  - Lipsitch, M.\nTI  - Predicting the epidemic sizes of influenza A/H1N1, A/H3N2, and B: a statistical method\nT2  - PLOS Med\nVL  - 8\nPY  - 2011\nDA  - 2011\nDO  - 10.1371/journal.pmed.1001051\nLA  - \nER  - \n\nTY  - RPRT\nTI  - FluView Interactive\nC1  - 2018\nUR  - https://www.cdc.gov/flu/weekly/fluviewinteractive.htm\nLA  - \nC1  - Centers for Disease Control and Prevention\nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Teunis, P.\nTI  - Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures\nT2  - Am. J. Epidemiol\nVL  - 160\nSP  - 509\nEP  - 516\nPY  - 2004\nDA  - 2004\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Lipsitch, M.\nTI  - How generation intervals shape the relationship between growth rates and reproductive numbers\nT2  - Proc. R. Soc. B Biol. Sci\nVL  - 274\nSP  - 599\nEP  - 604\nPY  - 2007\nDA  - 2007\nLA  - \nER  - \n\nTY  - JOUR\nAU  - te Beest, D.E.\nAU  - van Boven, M.\nAU  - Hooiveld, M.\nAU  - van den Dool, C.\nAU  - Wallinga, J.\nTI  - Driving factors of influenza transmission in the Netherlands\nT2  - Am. J. Epidemiol\nVL  - 178\nSP  - 1469\nEP  - 1477\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Read, J.M.\nAU  - Bridgen, J.R.\nAU  - Cummings, D.A.\nAU  - Ho, A.\nAU  - Jewell, C.P.\nTI  - Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions\nPB  - medRxiv (2020\nDO  - 10.1101/2020.01.23.20018549\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Lauer, S.A.\nAU  - Grantz, K.H.\nAU  - Bi, Q.\nAU  - Jones, F.K.\nAU  - Zheng, Q.\nAU  - Meredith, H.\nAU  - Azman, A.S.\nAU  - Reich, N.G.\nAU  - Lessler, J.\nTI  - The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application\nPB  - medRxiv (2020\nDO  - 10.1101/2020.02.02.20020016\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Linton, N.M.\nAU  - Kobayashi, T.\nAU  - Yang, Y.\nAU  - Hayashi, K.\nAU  - Akhmetzhanov, A.R.\nAU  - Jung, S.\nAU  - Yuan, B.\nAU  - Kinoshita, R.\nAU  - H.\nT2  - Nishiura\nPB  - medRxiv, in press\nDO  - 10.1101/2020.01.26.20018754\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Luo, W.\nAU  - Majumder, M.S.\nAU  - Liu, D.\nAU  - Poirier, C.\nAU  - Mandl, K.D.\nAU  - Lipsitch, M.\nAU  - Santillana, M.\nTI  - The role of absolute humidity on transmission rates of the COVID-19 outbreak\nPB  - medRxiv (2020\nDO  - 10.1101/2020.02.12.20022467\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, K.E.\nAU  - Lipsitch, M.\nAU  - Shaman, J.\nAU  - Goldstein, E.\nTI  - The US 2009 A(H1N1) influenza epidemic: quantifying the impact of school openings on the reproductive number\nT2  - Epidemiol. Camb. Mass\nVL  - 25\nSP  - 203\nEP  - 206\nPY  - 2014\nDA  - 2014\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Shaman, J.\nAU  - Galanti, M.\nTI  - Direct measurement of rates of asymptomatic infection and clinical care-seeking for seasonal coronavirus\nPB  - medRxiv (2020\nDO  - 10.1101/2020.01.30.20019612\nLA  - \nER  - \n\nTY  - GEN\nTI  - Sustainable Infrastructure in the Tropics,\u201d State of the Tropics (James Cook University\nPY  - 2017\nDA  - 2017\nSP  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - He, D.\nAU  - Lui, R.\nAU  - Wang, L.\nAU  - Tse, C.K.\nAU  - Yang, L.\nAU  - Stone, L.\nTI  - Global spatio-temporal patterns of influenza in the post-pandemic era\nT2  - Sci. Rep\nVL  - 5\nSP  - 11013\nPY  - 2015\nDA  - 2015\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Vannice, K.S.\nAU  - Cassetti, M.C.\nAU  - Eisinger, R.W.\nAU  - Hombach, J.\nAU  - Knezevic, I.\nAU  - Marston, H.D.\nAU  - Wilder-Smith, A.\nAU  - Cavaleri, M.\nAU  - Krause, P.R.\nTI  - Demonstrating vaccine effectiveness during a waning epidemic: A WHO/NIH meeting report on approaches to development and licensure of Zika vaccine candidates\nT2  - Vaccine\nVL  - 37\nSP  - 863\nEP  - 868\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lipsitch, M.\nAU  - Cohen, T.\nAU  - Cooper, B.\nAU  - Robins, J.M.\nAU  - Ma, S.\nAU  - James, L.\nAU  - Gopalakrishna, G.\nAU  - Chew, S.K.\nAU  - Tan, C.C.\nAU  - Samore, M.H.\nAU  - Fisman, D.\nAU  - Murray, M.\nTI  - Transmission dynamics and control of severe acute respiratory syndrome\nT2  - Science\nVL  - 300\nPY  - 2003\nDA  - 2003\nIS  - 1966\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nAU  - Wang, X.\nAU  - Zhou, L.\nAU  - Tong, Y.\nAU  - Ren, R.\nAU  - Leung, K.S.M.\nAU  - Lau, E.H.Y.\nAU  - Wong, J.Y.\nAU  - Xing, X.\nAU  - Xiang, N.\nAU  - Wu, Y.\nAU  - Li, C.\nAU  - Chen, Q.\nAU  - Li, D.\nAU  - Liu, T.\nAU  - Zhao, J.\nAU  - Liu, M.\nAU  - Tu, W.\nAU  - Chen, C.\nAU  - Jin, L.\nAU  - Yang, R.\nAU  - Wang, Q.\nAU  - Zhou, S.\nAU  - Wang, R.\nAU  - Liu, H.\nAU  - Luo, Y.\nAU  - Liu, Y.\nAU  - Shao, G.\nAU  - Li, H.\nAU  - Tao, Z.\nAU  - Yang, Y.\nAU  - Deng, Z.\nAU  - Liu, B.\nAU  - Ma, Z.\nAU  - Zhang, Y.\nAU  - Shi, G.\nAU  - Lam, T.T.Y.\nAU  - Wu, J.T.\nAU  - Gao, G.F.\nAU  - Cowling, B.J.\nAU  - Yang, B.\nAU  - Leung, G.M.\nAU  - Feng, Z.\nAU  - J, N.Engl\nT2  - Med\nPB  - in press\nDO  - 10.1056/NEJMoa2001316\nLA  - \nER  - \n\nTY  - JOUR\nAU  - McKay, M.D.\nAU  - Beckman, R.J.\nAU  - Conover, W.J.\nTI  - Comparison of three methods for selecting values of input variables in the analysis of output from a computer code\nT2  - Technometrics\nVL  - 21\nSP  - 239\nEP  - 245\nPY  - 1979\nDA  - 1979\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Team, R.Core\nTI  - R: A language and environment for statistical computing\nPB  - R Foundation for Statistical Computing\nPY  - 2019\nDA  - 2019\nUR  - project.org/\nLA  - \nCY  - Vienna, Austria\nER  - \n\nTY  - GEN\nUR  - https://www.jstatsoft.org/article/view/v033i09\nER  - \n\nTY  - JOUR\nAU  - Chowell, G.\nAU  - Viboud, C.\nAU  - Simonsen, L.\nAU  - Moghadas, S.M.\nTI  - Characterizing the reproduction number of epidemics with early subexponential growth dynamics\nT2  - J. R. Soc. Interface\nVL  - 13\nPY  - 2016\nDA  - 2016\nDO  - 10.1098/rsif.2016.0659\nLA  - \nER  - \n\n",
+        "author_conclusions": [
+            "In summary, the total incidence of COVID-19 illness over the next five years will depend critically upon whether or not it enters into regular circulation after the initial pandemic wave, which in turn depends primarily upon the duration of immunity that SARS-CoV-2 infection imparts. The intensity and timing of pandemic and post-pandemic outbreaks will depend on the time of year when widespread SARS-CoV-2 infection becomes established and, to a lesser degree, upon the magnitude of seasonal variation in transmissibility and the level of crossimmunity that exists between the betacoronaviruses. Longitudinal serological studies are urgently required to determine the duration of immunity to SARS-CoV-2, and epidemiological surveillance should be maintained in the coming years to anticipate the possibility of resurgence."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Cumulative projected percent influenza-like illness (ILI) x percent positive laboratory tests for SARS-CoV-2 by year for a representative set of cross immunities, immunity durations, and establishment times. Percent ILI is measured as the population-weighted proportion of visits to sentinel providers that were associated with influenza symptoms. The seasonality factor represents the amount of seasonal variation in the SARS-CoV-2 R0 relative to the other human betacoronaviruses. A seasonality factor of 1 indicates equivalent seasonal variation in R0, while 0 indicates no seasonal variation (see Table S2-3). Chi3X represents the degree of cross-immunity induced by infection with SARS-CoV-2 against OC43 and HKU1 and ChiX3 represents the degree of cross-immunity induced by OC43 or HKU1 infection against SARS-CoV-2. The establishment times correspond to: Winter - week 4 (early February); Spring - week 16 (late April); Summer - week 28 (mid July); Autumn - week 40 (early October). Darker shading corresponds to higher cumulative infection sizes"
+            },
+            {
+                "id": "S1",
+                "caption": "Estimated regression model coefficients"
+            },
+            {
+                "id": "S2",
+                "caption": "Cumulative projected percent influenza-like illness (ILI) x percent positive laboratory tests for SARS-CoV-2 by year for a representative set of cross immunities, immunity durations, and establishment times. Percent ILI is measured as the population-weighted proportion of visits to sentinel providers that were associated with influenza symptoms. The seasonality factor represents the amount of seasonal variation in the SARS-CoV-2 R0 relative to the other human betacoronaviruses. A seasonality factor of 0.5 indicates that the amplitude of seasonal variation in R0 for SARS-CoV-2 is half the amplitude of the seasonal variation in R0 for the other betacoronaviruses. Chi3X represents the degree of cross-immunity induced by infection with SARS-CoV-2 against OC43 and HKU1 and ChiX3 represents the degree of cross-immunity induced by OC43 or HKU1 infection against SARS-CoV-2. The establishment times correspond to: Winter - week 4 (early February); Spring - week 16 (late April); Summer - week 28 (mid July); Autumn - week 40 (early October). Darker shading corresponds to higher cumulative infection sizes"
+            },
+            {
+                "id": "S3",
+                "caption": "Cumulative projected percent influenza-like illness (ILI) x percent positive laboratory tests for SARS-CoV-2 by year for a representative set of cross immunities, immunity durations, and establishment times. Percent ILI is measured as the population-weighted proportion of visits to sentinel providers that were associated with influenza symptoms. The seasonality factor represents the amount of seasonal variation in the SARS-CoV-2 R0 relative to the other human betacoronaviruses. A seasonality factor of 0 indicates no seasonal variation in R0 for SARS-CoV-2. Chi3X represents the degree of cross-immunity induced by infection with SARS-CoV-2 against OC43 and HKU1 and ChiX3 represents the degree of cross-immunity induced by OC43 or HKU1 infection against SARS-CoV-2. The establishment times correspond to: Winter - week 4 (early February); Spring - week 16 (late April); Summer - week 28 (mid July); Autumn - week 40 (early October). Darker shading corresponds to higher cumulative infection sizes"
+            },
+            {
+                "id": "S4",
+                "caption": "Peak simulated SARS-CoV-2 epidemic sizes, in units of percent influenza-like illness (ILI) x percent positive laboratory tests, by year for a representative set of cross immunities, immunity durations, and establishment times. Percent ILI is measured as the population-weighted proportion of visits to sentinel providers that were associated with influenza symptoms. The seasonality factor represents the amount of seasonal variation in the SARS-CoV-2 R0 relative to the other human betacoronaviruses. A seasonality factor of 1 indicates equal seasonal variation in R0 for SARS-CoV-2 as for the other human betacoronaviruses. Chi3X represents the degree of crossimmunity induced by infection with SARS-CoV-2 against OC43 and HKU1 and ChiX3 represents the degree of crossimmunity induced by OC43 or HKU1 infection against SARS-CoV-2. The establishment times correspond to: Winter week 4 (early February); Spring - week 16 (late April); Summer - week 28 (mid July); Autumn - week 40 (early October). Darker shading corresponds to higher peak sizes"
+            },
+            {
+                "id": "S5",
+                "caption": "Peak simulated SARS-CoV-2 epidemic sizes, in units of percent influenza-like illness (ILI) x percent positive laboratory tests, by year for a representative set of cross immunities, immunity durations, and establishment times. Percent ILI is measured as the population-weighted proportion of visits to sentinel providers that were associated with influenza symptoms. The seasonality factor represents the amount of seasonal variation in the SARS-CoV-2 R0 relative to the other human betacoronaviruses. A seasonality factor of 0.5 indicates that the amplitude of seasonal variation in R0 for SARS-CoV-2 is half the amplitude of the seasonal variation in R0 for the other betacoronaviruses. Chi3X represents the degree of cross-immunity induced by infection with SARS-CoV-2 against OC43 and HKU1 and ChiX3 represents the degree of cross-immunity induced by OC43 or HKU1 infection against SARS-CoV-2. The establishment times correspond to: Winter - week 4 (early February); Spring - week 16 (late April); Summer - week 28 (mid July); Autumn - week 40 (early October). Darker shading corresponds to higher peak sizes"
+            },
+            {
+                "id": "S6",
+                "caption": "Peak simulated SARS-CoV-2 epidemic sizes, in units of percent influenza-like illness (ILI) x percent positive laboratory tests, by year for a representative set of cross immunities, immunity durations, and establishment times. Percent ILI is measured as the population-weighted proportion of visits to sentinel providers that were associated with influenza symptoms. The seasonality factor represents the amount of seasonal variation in the SARS-CoV-2 R0 relative to the other human betacoronaviruses. A seasonality factor of 0 indicates no seasonal variation in R0 for SARS-CoV-2. Chi3X represents the degree of cross-immunity induced by infection with SARSCoV-2 against OC43 and HKU1 and ChiX3 represents the degree of cross-immunity induced by OC43 or HKU1 infection against SARS-CoV-2. The establishment times correspond to: Winter - week 4 (early February); Spring week 16 (late April); Summer - week 28 (mid July); Autumn - week 40 (early October). Darker shading corresponds to higher peak sizes"
+            },
+            {
+                "id": "S7",
+                "caption": "Parameter values for the two-strain SEIR transmission model representing HCoV-OC43 (strain 1) and HCoV-HKU1 (strain 2)"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Estimated multiplicative effects of HCoV-HKU1 incidence (gold), HCoV-OC43 incidence (blue), and seasonal forcing (red) on weekly effective reproduction numbers of HCoV-HKU1 (top panels) and HCoV-OC43 (bottom), with 95% confidence intervals. The point at the start of each season is the estimated baseline for that strain and season compared to the 2014-15 HCoV-HKU1 season. The seasonal forcing spline is set to 1 at the first week of the season (no intercept)"
+            },
+            {
+                "id": "2",
+                "caption": "A) Weekly percent positive laboratory tests x percent influenza-like illness (ILI) for the two common human betacoronaviruses in the United States between 5 July 2014 and 29 June 2019 (solid lines) with simulated output from the best-fit SEIR transmission model (dashed lines). (B-C) Weekly effective reproduction numbers (Re) estimated using the Wallinga-Teunis method (points) and simulated Re from the best-fit SEIR transmission model (line) for the two common human betacoronaviruses. The opacity of each point is determined by the relative percent ILI x percent positive laboratory tests in that week relative to the maximum percent ILI x percent positive laboratory tests for that strain across the study period, which reflects uncertainty in the Re estimate; estimates are more certain (darker points) in weeks with higher incidence"
+            },
+            {
+                "id": "3",
+                "caption": "A representative set of invasion scenarios for SARS-CoV-2 in the US. The thick vertical bar marks the establishment time of SARS-CoV-2. (A) \u03c73X = 0.3, \u03c7X3 = 0, \u03c33 = 1/40, test = week 12 (late March) (B) \u03c73X = 0.3, \u03c7X3 = 0, \u03c33 = 1/40, test = week 36 (early September) (C) \u03c73X = 0.7, \u03c7X3 = 0, \u03c33 = 0, test = week 12 (late March) (D) \u03c73X = 0.3, \u03c7X3 = 0.3, \u03c33 = 1/104, test = week 32 (mid August) (E) \u03c73X = 0.7, \u03c7X3 = 0, \u03c33 = 1/104, test = week 4 (early February) (F) \u03c73X = 0.7, \u03c7X3 = 0, \u03c33 = 1/104, test = week 26 (late June)"
+            },
+            {
+                "id": "S1",
+                "caption": "Incidence proxies and effective reproduction numbers for HCoV-HKU1 (gold) and HCoV-OC43 (blue). (A) Weekly number of positive tests from NREVSS. (B) Weekly percent positive laboratory tests. (C) Weekly percent positive laboratory tests multiplied by percent of clinic visits for ILI. (D) Comparison of effective reproduction numbers by incidence measure using SARS serial interval. R effective estimates for HCoV-HKU1 that were greater than 3 (all occurring at the end of 2014) are not shown"
+            },
+            {
+                "id": "S2",
+                "caption": "Estimates of weekly effective reproduction numbers for HCoV-HKU1 (top) and HCoV-OC43 (bottom) based on different serial interval distributions. Serial interval distributions were defined as follows - SARS (solid): Weibull distribution with mean of 8.4 days and s.d. of 3.8 days (shape=2.35, scale=9.48); Li2020 (dashed): Gamma distribution with mean of 7.5 days and s.d. of 3.4 days (shape=4.87, scale=1.54); Nishiura2020 (dotted): Weibull distribution with mean of 4.8 days and s.d. of 2.3 days (shape=2.20, scale=5.42). Sections shaded in gray are out-ofseason (epidemiological weeks 21-39). R effective estimates for HCoV-HKU1 that were greater than 3 (all occurring at the end of 2014) are not shown"
+            },
+            {
+                "id": "S3",
+                "caption": "Diagram of the two-strain compartmental SEIR model used to describe the transmission of HCoV-OC43 and HCoV-HKU1 in the United States. Epidemiological compartments are represented by the bold letter-number pairs, such that an individual in compartment S1S2 is susceptible to both strains, while a person in compartment I1E2 is infectious with strain 1 and has been exposed to strain 2. Filled circles represent death and the open circle represents births. Transition rates are given next to the arrows between compartments. Best-fit parameter values are listed in Table S7"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.04.20031112.full.pdf_ndzylzfw_u_pg5x1v.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-003.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-005.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-006.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-007.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-008.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-009.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-010.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-015.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-025.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-029.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-031.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-035.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-039.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20031112.full.pdf_ndzylzfw_images_lre0don5/img-041.png"
+        ]
+    },
+    "sections": {
+        "acknowledgements": [
+            "We thank Marie Killerby and Amber Haynes for their helpful comments on early versions of this manuscript. Funding. The authors received no funding for this work. Author contributions. SMK conceived of the study, conducted the analysis, and wrote the manuscript. CT conceived of the study, conducted the analysis, and wrote the manuscript. E.M.G. assisted with the analysis and edited the manuscript. YHG edited the manuscript and oversaw the work. ML edited the manuscript and oversaw the work."
+        ],
+        "disclosures": [
+            "The authors declare no competing interests. Data and materials availability. A data use agreement with the CDC is required to access the NREVSS human coronavirus dataset. ILINet data is publicly available through the FluView Interactive website [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. Regression model code is available at https://github.com/ctedijanto/coronavirus-seasonality. Transmission model code is available at https://github.com/skissler/nCoV_introduction."
+        ],
+        "funding": [
+            "The authors received no funding for this work"
+        ],
+        "data_availability": [
+            "Regression model code is available at https://github.com/ctedijanto/coronavirus-seasonality"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Table S7",
+                "Tables S2",
+                "Tables S4",
+                "Figure S1",
+                "Table S2",
+                "Table S3",
+                "Table S4",
+                "Table S5",
+                "Table S6",
+                "Figure S2",
+                "Figure S3"
+            ]
+        },
+        "introduction": [
+            "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses. SARS-CoV-2 belongs to the betacoronavirus genus, which includes the SARS coronavirus, MERS coronavirus, and two other human coronaviruses, HCoV-OC43 and HCoV-HKU1. The SARS and MERS coronaviruses cause severe illness with case fatality rates of 9 and 36% respectively, but the transmission of both has remained limited [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. HCoV-OC43 and HCoVHKU1 infections may be asymptomatic or associated with mild to moderate upper respiratory tract illness; these HCoVs are considered the second most common cause of the common cold [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. While investigations into the spectrum of illness caused by SARS-CoV-2 are ongoing, recent evidence indicates the majority of cases experience mild illness with more limited occurrence of severe lower respiratory infection [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Current COVID-19 case fatality rates in China are estimated at 2.9% within Hubei province, and 0.4% outside [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], suggesting lower severity than SARS and MERS but higher severity than HCoV-OC43 and HCoV-HKU1. In terms of transmission, the ability of SARS-CoV-2 to cause widespread infection is more reflective of HCoV-OC43 and HCoV-HKU1 than of its more clinically severe relatives. HCoV-OC43 and HCoV-HKU1 cause annual wintertime outbreaks of respiratory illness in temperate regions [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], suggesting that wintertime climate and host behaviors may facilitate transmission, as is true for influenza [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>\u2013<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Immunity to HCoV-OC43 and HCoV-HKU1 appears to wane appreciably within one year [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>], while SARS infection can induce longer-lasting immunity [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. The betacoronaviruses can induce immune responses against one another: SARS infection can generate neutralizing antibodies against HCoV-OC43 [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] and HCoV-OC43 infection can generate cross-reactive antibodies against SARS [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. However, due to the novelty of the SARS-CoV-2 epidemic and a relative lack of surveillance data on the existing human coronaviruses, it has not been possible to project how the transmission of SARS-CoV-2 will unfold in the coming years, including the interaction of SARS-CoV-2 with the seasonal coronaviruses.",
+            "We used data from the United States to model betacoronavirus transmission in temperate regions and to project the possible dynamics of SARS-CoV-2 infection through the year 2025. We first assessed the role of seasonal variation, duration of immunity, and cross immunity on the transmissibility of HCoV-OC43 and HCoV-HKU1 in the US. We used the weekly percentage of positive laboratory tests for HCoV-OC43 and HCoV-HKU1 [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] multiplied by the weekly population-weighted proportion of physician visits due to influenza-like illness (ILI) [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>, <a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] to approximate historical betacoronavirus incidence in the US to within a scaling constant. This proxy is proportional to incidence under a set of assumptions described in the Materials and Methods. To quantify variation in transmission strength over time, we estimated the weekly effective reproduction number, defined as the average number of secondary infections caused by a single infected individual [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>, <a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. The effective reproduction numbers for each of the betacoronaviruses displayed a seasonal pattern, with annual peaks in the effective reproduction number slightly preceding those of the incidence curves (Fig S1). For both HCoVOC43 and HCoV-HKU1, the effective reproduction number typically reached its peak between October and November and its trough between February and April. Over the five seasons included in our data (2014-2019), the median effective reproduction number was 1.11 (IQR: 0.84-1.41) for HCoV-HKU1 and 1.00 (IQR: 0.84-1.41) for HCoV-OC43. Results were similar using various choices of incidence proxy and serial interval distributions (Fig S1, Fig S2)."
+        ]
+    },
+    "structured_content": {
+        "References": [
+            "1. World Health Organization, \u201cCoronavirus disease 2019 (COVID-19)\u201d (Situation Report 35, 2020), (available at https://www.who.int/docs/default-source/coronaviruse/situationreports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2).",
+            "2. D. L. Heymann, J. S. Mackenzie, M. Peiris, SARS legacy: outbreak reporting is expected and respected. The Lancet. 381, 779\u2013781 (2013).",
+            "3. Transcript for the CDC Telebriefing Update on COVID-19 (2020; https://www.cdc.gov/media/releases/2020/t0225-cdc-telebriefing-covid-19.html).",
+            "4. P. S. Wikramaratna, M. Sandeman, M. Recker, S. Gupta, The antigenic evolution of influenza: drift or thrift? Philos. Trans. R. Soc. B Biol. Sci. 368 (2013), doi:10.1098/rstb.2012.0200.",
+            "5. L. Vijgen, E. Keyaerts, E. Moes, I. Thoelen, E. Wollants, P. Lemey, A.-M. Vandamme, M. Van Ranst, Complete genomic sequence of human coronavirus OC43: molecular clock analysis suggests a relatively recent zoonotic coronavirus transmission event. J. Virol. 79, 1595\u20131604 (2005).",
+            "6. S. Su, G. Wong, W. Shi, J. Liu, A. C. K. Lai, J. Zhou, W. Liu, Y. Bi, G. F. Gao, Epidemiology, genetic recombination, and pathogenesis of coronaviruses. Trends Microbiol. 24, 490\u2013502 (2016).",
+            "7. Z. Wu, J. M. McGoogan, Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention. JAMA (2020), doi:10.1001/jama.2020.2648.",
+            "8. Chinese Center for Disease Control and Prevention, The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) -- China 2020. CCDC Wkly. 2 (2020).",
+            "9. M. E. Killerby, H. M. Biggs, A. Haynes, R. M. Dahl, D. Mustaquim, S. I. Gerber, J. T. Watson, Human coronavirus circulation in the United States 2014\u20132017. J. Clin. Virol. 101, 52\u201356 (2018).",
+            "10. R. A. Neher, R. Dyrdak, V. Druelle, E. B. Hodcroft, J. Albert, Impact of seasonal forcing on a potential SARS-CoV-2 pandemic. medRxiv (2020), doi:10.1101/2020.02.13.20022806.",
+            "11. J. Shaman, V. E. Pitzer, C. Viboud, B. T. Grenfell, M. Lipsitch, Absolute humidity and the seasonal onset of influenza in the continental United States. PLoS Biol. 8, e1000316 (2010).",
+            "12. J. Shaman, E. Goldstein, M. Lipsitch, Absolute humidity and pandemic versus epidemic influenza. Am. J. Epidemiol. 173, 127\u2013135 (2011).",
+            "13. I. Chattopadhyay, E. Kiciman, J. W. Elliott, J. L. Shaman, A. Rzhetsky, Conjunction of factors triggering waves of seasonal influenza. eLife. 7 (2018), doi:e30756.",
+            "14. K. A. Callow, H. F. Parry, M. Sergeant, D. A. Tyrrell, The time course of the immune response to experimental coronavirus infection of man. Epidemiol. Infect. 105, 435\u2013446 (1990).",
+            "15. K.-H. Chan, J. F.-W. Chan, H. Tse, H. Chen, C. C.-Y. Lau, J.-P. Cai, A. K.-L. Tsang, X. Xiao, K. K.-W. To, S. K.-P. Lau, P. C.-Y. Woo, B.-J. Zheng, M. Wang, K.-Y. Yuen, Crossreactive antibodies in convalescent SARS patients\u2019 sera against the emerging novel human coronavirus EMC (2012) by both immunofluorescent and neutralizing antibody tests. J. Infect. 67, 130\u2013140 (2013).",
+            "16. D. M. Patrick, M. Petric, D. M. Skowronski, R. Guasparini, T. F. Booth, M. Krajden, P. McGeer, N. Bastien, L. Gustafson, J. Dubord, D. MacDonald, S. T. David, L. F. Srour, R. Parker, A. Andonov, J. Isaac-Renton, N. Loewen, G. McNabb, A. McNabb, S.-H. Goh, S. Henwick, C. Astell, J. P. Guo, M. Drebot, R. Tellier, F. Plummer, R. C. Brunham, An outbreak of human coronavirus OC43 infection and serological cross-reactivity with SARS coronavirus. Can. J. Infect. Dis. Med. Microbiol. 17, 330\u2013336 (2006).",
+            "17. Centers for Disease Control and Prevention, \u201cThe National Respiratory and Enteric Virus Surveillance System (NREVSS)\u201d (2020), (available at https://www.cdc.gov/surveillance/nrevss/index.html).",
+            "18. E. Goldstein, S. Cobey, S. Takahashi, J. C. Miller, M. Lipsitch, Predicting the epidemic sizes of influenza A/H1N1, A/H3N2, and B: a statistical method. PLOS Med. 8 (2011), doi:10.1371/journal.pmed.1001051.",
+            "19. Centers for Disease Control and Prevention, \u201cFluView Interactive\u201d (2018), (available at https://www.cdc.gov/flu/weekly/fluviewinteractive.htm).",
+            "20. J. Wallinga, P. Teunis, Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. Am. J. Epidemiol. 160, 509\u2013516 (2004).",
+            "21. J. Wallinga, M. Lipsitch, How generation intervals shape the relationship between growth rates and reproductive numbers. Proc. R. Soc. B Biol. Sci. 274, 599\u2013604 (2007).",
+            "22. D. E. te Beest, M. van Boven, M. Hooiveld, C. van den Dool, J. Wallinga, Driving factors of influenza transmission in the Netherlands. Am. J. Epidemiol. 178, 1469\u20131477 (2013).",
+            "23. J. M. Read, J. R. Bridgen, D. A. Cummings, A. Ho, C. P. Jewell, Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv (2020), doi:10.1101/2020.01.23.20018549.",
+            "24. S. A. Lauer, K. H. Grantz, Q. Bi, F. K. Jones, Q. Zheng, H. Meredith, A. S. Azman, N. G. Reich, J. Lessler, The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv (2020), doi:10.1101/2020.02.02.20020016.",
+            "25. N. M. Linton, T. Kobayashi, Y. Yang, K. Hayashi, A. R. Akhmetzhanov, S. Jung, B. Yuan, R. Kinoshita, H. Nishiura, medRxiv, in press, doi:10.1101/2020.01.26.20018754.",
+            "26. W. Luo, M. S. Majumder, D. Liu, C. Poirier, K. D. Mandl, M. Lipsitch, M. Santillana, The role of absolute humidity on transmission rates of the COVID-19 outbreak. medRxiv (2020), doi:10.1101/2020.02.12.20022467.",
+            "27. K. E. Huang, M. Lipsitch, J. Shaman, E. Goldstein, The US 2009 A(H1N1) influenza epidemic: quantifying the impact of school openings on the reproductive number. Epidemiol. Camb. Mass. 25, 203\u2013206 (2014).",
+            "28. J. Shaman, M. Galanti, Direct measurement of rates of asymptomatic infection and clinical care-seeking for seasonal coronavirus. medRxiv (2020), doi:10.1101/2020.01.30.20019612.",
+            "29. \u201cSustainable Infrastructure in the Tropics,\u201d State of the Tropics (James Cook University, 2017), p. 4.",
+            "30. D. He, R. Lui, L. Wang, C. K. Tse, L. Yang, L. Stone, Global spatio-temporal patterns of influenza in the post-pandemic era. Sci. Rep. 5, 11013 (2015).",
+            "31. K. S. Vannice, M. C. Cassetti, R. W. Eisinger, J. Hombach, I. Knezevic, H. D. Marston, A. Wilder-Smith, M. Cavaleri, P. R. Krause, Demonstrating vaccine effectiveness during a waning epidemic: A WHO/NIH meeting report on approaches to development and licensure of Zika vaccine candidates. Vaccine. 37, 863\u2013868 (2019).",
+            "32. M. Lipsitch, T. Cohen, B. Cooper, J. M. Robins, S. Ma, L. James, G. Gopalakrishna, S. K. Chew, C. C. Tan, M. H. Samore, D. Fisman, M. Murray, Transmission dynamics and control of severe acute respiratory syndrome. Science. 300, 1966 (2003).",
+            "33. Q. Li, X. Guan, P. Wu, X. Wang, L. Zhou, Y. Tong, R. Ren, K. S. M. Leung, E. H. Y. Lau, J. Y. Wong, X. Xing, N. Xiang, Y. Wu, C. Li, Q. Chen, D. Li, T. Liu, J. Zhao, M. Liu, W. Tu, C. Chen, L. Jin, R. Yang, Q. Wang, S. Zhou, R. Wang, H. Liu, Y. Luo, Y. Liu, G. Shao, H. Li, Z. Tao, Y. Yang, Z. Deng, B. Liu, Z. Ma, Y. Zhang, G. Shi, T. T. Y. Lam, J. T. Wu, G. F. Gao, B. J. Cowling, B. Yang, G. M. Leung, Z. Feng, N. Engl. J. Med., in press, doi:10.1056/NEJMoa2001316.",
+            "34. M. D. McKay, R. J. Beckman, W. J. Conover, Comparison of three methods for selecting values of input variables in the analysis of output from a computer code. Technometrics. 21, 239\u2013245 (1979).",
+            "35. R Core Team, R: A language and environment for statistical computing. (R Foundation for",
+            "Statistical Computing, Vienna, Austria, 2019; https://www.R-project.org/). 36. K. Soetaert, T. Petzoldt, R. W. Setzer, Solving Differential Equations in R: Package deSolve (2010; https://www.jstatsoft.org/article/view/v033i09). 37. G. Chowell, C. Viboud, L. Simonsen, S. M. Moghadas, Characterizing the reproduction number of epidemics with early subexponential growth dynamics. J. R. Soc. Interface. 13 (2016), doi:10.1098/rsif.2016.0659."
+        ],
+        "Multiplicative effect on R": [],
+        "Week in season": [
+            "Data. Viral testing data came from the US National Respiratory and Enteric Virus Surveillance System (NREVSS) [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. We extracted the weekly number of total tests for any coronavirus and positive tests for betacoronaviruses HCoV-OC43 and HCoV-HKU1 from all reporting laboratories between 5th July 2014 and 29th June 2019. Dividing the weekly number of positive tests by the total weekly number of tests yielded the weekly percentage of positive tests for each coronavirus.",
+            "To estimate the incidence of each betacoronavirus, we used an incidence proxy calculated by multiplying the weekly percentage of positive tests for each coronavirus by the weekly population-weighted proportion of physician visits due to influenza-like illness (ILI) [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. The assumptions needed for this proxy to capture true influenza incidence up to a multiplicative constant are described in Goldstein et al (2011) [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. Since betacoronaviruses HCoV-OC43 and HCoV-HKU1 are more likely to cause milder cold-like symptoms or acute respiratory infection than ILI, our proxy additionally requires that the proportion of coronavirus cases with ILI is constant over the study period. The weekly proportions of ILI visits were obtained from the US Outpatient Influenza-like Illness Surveillance Network (ILINet) and accessed through the FluView Interactive website [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].",
+            "Estimating the impact of cross immunity and seasonal drivers of transmission. We used the effective reproduction number, defined as the average number of secondary infections caused by a single infected individual, to quantify the time-varying transmissibility of each coronavirus strain. We estimated the daily effective reproduction number (Ru) based on case counts and the generation interval distribution [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>], with the following parameterization [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]:",
+            ", where b(t) is the strain-level incidence proxy on day t, and g(a) is the value of the generation interval distribution at time a. To translate the weekly incidence proxies to measures of daily incidence, we followed a previously described spline-based procedure [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. For smoothing, the final weekly R is the geometric mean of the daily values in the preceding, current, and following weeks (moving 3-week average). We discarded the first three and last three weekly R estimates. To avoid unstable R estimates resulting from periods of low coronavirus activity, we limited our analysis to \u201cin-season\u201d estimates. Seasons were defined as epidemiological week 40 of each year through week 20 of the following year (roughly October through May). Because 2014 consisted of 53 weeks, we truncated the 2014-15 season at week 19 of 2015.",
+            "The generation interval for the four commonly circulating coronaviruses has not been well-studied. In this analysis, we used the estimated serial interval distribution for SARS (Weibull with mean 8.4 days and standard deviation 3.8 days [<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>]) and varied this assumption in sensitivity analyses based on observations that the serial interval for currently circulating human coronaviruses and SARS-CoV-2 may be considerably lower [<a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>]. We assumed that the maximum generation interval was the first day at which over 99% of the density had been captured.",
+            "To understand the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data, we adapted a linear regression model as follows [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]: where Rsij is the weekly effective reproduction number for strain s in week i of season j, R0 is the basic reproduction number, S0 is the fraction of susceptibles at the start of the first season for the reference strain, and \u03b5sij is a normally distributed error term. A dummy variable for each strain-season combination (\u0251sj) captures differences in the reproduction number and the starting fraction of susceptibles between strains and over time, but is unable to distinguish between the two. The next two terms estimate the impact of depletion of susceptibles due to infection by the same strain (dsij) and the other betacoronavirus strain (drij). Depletion of susceptibles for each strain was estimated up to a proportionality constant by the cumulative sum of the incidence proxy over season j through week i. The coefficient on the first term (\u03b3s) represents the scaling factor between the cumulative incidence proxy and true depletion of susceptibles, while \u03b4s captures the level of cross-immunity in addition to scaling; both coefficients were allowed to vary by strain. Because specific seasonal drivers (e.g. absolute humidity) of seasonal variation in coronavirus transmission have not been identified, we did not include them in our model but used a cubic basis spline with knots every four weeks to capture fluctuations in seasonal forcing over the year. Bn represents the ten basis functions for a cubic spline with seven internal knots and no intercept, and \u03b2n the coefficients corresponding to each of these functions.",
+            "Dynamic transmission model. We implemented a two-strain ordinary differential equation (ODE) susceptible-exposed-infectious-recovered (SEIR) compartmental model to describe the transmission dynamics of HCoV-OC43 (\u2018strain 1\u2019) and HCoV-HKU1 (\u2018strain 2\u2019) in the United States. Exposed individuals became infectious at rate \u03bd and infectious individuals recovered at rate \u03b3. Immunity waned at rates \u03c31 and \u03c32 for HCoV-OC43 and HCoV-HKU1, respectively. The basic reproduction number, R0, was assumed to be seasonal with a period of 52 weeks, specified by the equation where a is the amplitude of the seasonal forcing term, b is the minimum value, and \u03a6 is the phase shift in weeks. The transmission rate \u03b2(t) is related to the basic reproduction number by the formula [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]",
+            "Cross immunity of HCoV-OC43 against HCoV-HKU1 was captured by \u03c71,2 such that the transmission rate of HCoV-HKU1 to an individual who is exposed to, infected with, or recovered from HCoV-OC43 was reduced by a factor of 1-\u03c71,2, and vice-versa. Individuals died at rate \u03bc such that the average lifespan was 1/\u03bc = 80 years. Fully-susceptible individuals were born at the same rate \u03bc to keep the population size constant. A schematic of the model structure is depicted in Fig S3.",
+            "The entire population was assumed to be susceptible at the start of the simulation period (time = 0). Infection was introduced through a brief, small pulse in the force of infection (an increase of 0.01/week for one half week) for each strain within the first year of the simulation, simulating the establishment of sustained person-to-person transmission. The model was run for 24.5 years to allow the dynamics to reach a steady state, and then the simulated incidence of Strain 1 and Strain 2 were compared with the percent test-positives multiplied by percent of clinic visits for ILI for HCoV-OC43 and HCoV-HKU1, respectively. Model fit was assessed by log likelihood. To determine the parameter values consistent with HCoV-OC43 and HCoV-HKU1 transmission, we used latin hypercube sampling (LHS) [<a class=\"ref-link\" id=\"c34\" href=\"#r34\">34</a>] to simulate transmission for 100,000 combinations of the model parameters sampled uniformly from the ranges reported in Table 1.",
+            "We then used a hill-climbing algorithm to identify the maximum likelihood parameter values, using the best-fit parameter combination from the LHS scheme as initial conditions. The model was implemented in R version 3.6.1 [<a class=\"ref-link\" id=\"c35\" href=\"#r35\">35</a>] and solved using the lsoda() function [<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>]. We further validated the model by visually comparing its estimates of the effective reproduction number for each strain against the regression-based estimates described above. The model-based effective reproduction number was calculated as the product of the basic reproduction number and the proportion of susceptible individuals in the population at time t, accounting for crossimmunity [<a class=\"ref-link\" id=\"c37\" href=\"#r37\">37</a>].",
+            "Next, we incorporated a third strain into the dynamic transmission model to represent SARS-CoV-2. Using the maximum likelihood parameter values, we simulated transmission of HCoV-OC43 and HCoV-HKU1 for 20 years and then simulated the establishment of sustained SARS-CoV-2 transmission using another half-week pulse in the force of infection. We assumed that the incubation period and infectious period for SARS-CoV-2 were the same as the best-fit values for the other betacoronaviruses (5.0 and 4.9 days, respectively; see Table S7), in broad agreement with other estimates [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>\u2013<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]. We allowed the cross immunities, duration of immunity, degree of seasonal variation in R0, and establishment time of SARS-CoV-2 to vary. In particular, we allowed the cross immunity from SARS-CoV-2 to the other betacoronaviruses to range from 0 to 1, the cross immunity from the other betacoronaviruses to SARS-CoV-2 to range from 0 to 0.5 (following the observation that SARS infection can induce long-lasting neutralizing antibodies against HCoV-OC43 but not vice-versa [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]),the duration of immunity to SARS-CoV-2 to range from 40 weeks to permanent, the seasonal variation in R0 to vary between none and equivalent to the other human betacoronaviruses, and the establishment time to vary throughout 2020. To adjust the amount of seasonal variation in R0, we held the maximum wintertime value of the sinusoid fixed and adjusted the minimum summertime (baseline) value. This way, smaller degrees of seasonal forcing translated into smaller summertime declines in R0; for the no-seasonality scenario, R0 was therefore held fixed at its maximal wintertime value. This choice was informed by observations on the seasonal variation in R0 for influenza, for which the wintertime R0 was similar between geographic locations with distinct climates, while the summertime R0 varied substantially between locations [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. For a representative set of parameter values within these ranges, we measured the annual incidence of infection due to SARS-CoV-2 and the annual SARS-CoV-2 outbreak peak size for the five years following the simulated time of establishment. We summarized the post-pandemic SARSCoV-2 dynamics into the categories of annual outbreaks, biennial outbreaks, sporadic outbreaks, or virtual elimination.",
+            "Parameter Intercept \u0251sj \u0251sj \u0251sj \u0251sj \u0251sj \u0251sj \u0251sj \u0251sj \u0251sj \u03b3s (reference) \u03b3s \u03b4s (reference) \u03b4s \u03b21 \u03b22 \u03b23 \u03b24 \u03b25 \u03b26 \u03b27 \u03b28 \u03b29 \u03b210",
+            "Season 2014-15 2015-16 2016-17 2017-18 2018-19 2014-15 2015-16 2016-17 2017-18 2018-19"
+        ],
+        "Parameter Range for LHS": [
+            "Seasonal R0 amplitude Seasonal R0 baseline Seasonal R0 shift Waning immunity period, strain 1 Waning immunity period, strain 2 Cross immunity, strain 1 against strain 2 Cross immunity, strain 2 against strain 1 Incubation period Infectious period Average lifespan"
+        ],
+        "Units none none weeks weeks weeks none none days days years": [
+            "0.66 (0.53, 0.98) 1.4 (1.3, 1.5) -3.8 (-5.8, -1.7) 40 [<a class=\"ref-link\" id=\"c31\" href=\"#r31\">31</a>, 52] 38 [<a class=\"ref-link\" id=\"c31\" href=\"#r31\">31</a>, 47] 0.74 (0.67, 0.78)"
+        ],
+        "Percent positive": [],
+        "Positive tests": []
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 72314,
+            "context": "M. <mark class=\"stats\">McGoogan, Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention</mark>. JAMA (2020), doi:10.1001/jama.2020.2648"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">To understand the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data, we adapted a linear regression model as follows (22): where Rsij is the weekly effective reproduction number for strain s in week i of season j, R0 is the basic reproduction number, S0 is the fraction of susceptibles at the start of the first season for the reference strain, and \u03b5sij is a normally distributed error term</mark>",
+                "tests": [
+                    {
+                        "test": "linear regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We then used a hill-climbing algorithm to identify the maximum likelihood parameter values, using the best-fit parameter combination from the LHS scheme as initial conditions</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Using the maximum likelihood parameter values, we simulated transmission of HCoV-OC43 and HCoV-HKU1 for 20 years and then simulated the establishment of sustained SARS-CoV-2 transmission using another half-week pulse in the force of infection</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "Illness Surveillance Network",
+        "betacoronavirus",
+        "National Respiratory and Enteric Virus Surveillance System",
+        "dynamics",
+        "reproduction number",
+        "HKU1",
+        "hcov hku1",
+        "sars cov",
+        "hcov oc43",
+        "SARS",
+        "transmission dynamics",
+        "influenza-like illness",
+        "ordinary differential equation",
+        "effective reproduction number",
+        "united states",
+        "human coronavirus",
+        "OC43",
+        "seasonal variation",
+        "tropics",
+        "coronavirus",
+        "latin hypercube sampling",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.2171428571,
+        "coronavirus": 0.1485714286,
+        "OC43": 0.1219047619,
+        "HKU1": 0.1142857143,
+        "influenza-like illness": 0.0704761905,
+        "betacoronavirus": 0.0685714286,
+        "reproduction number": 0.060952381,
+        "seasonal variation": 0.0495238095,
+        "effective reproduction number": 0.0380952381,
+        "dynamics": 0.0285714286,
+        "human coronavirus": 0.020952381,
+        "COVID-19": 0.0152380952,
+        "transmission dynamics": 0.0133333333,
+        "National Respiratory and Enteric Virus Surveillance System": 0.0114285714,
+        "ordinary differential equation": 0.0076190476,
+        "latin hypercube sampling": 0.0076190476,
+        "Illness Surveillance Network": 0.0057142857,
+        "hcov hku1": 0.0,
+        "sars cov": 0.0,
+        "hcov oc43": 0.0,
+        "united states": 0.0,
+        "tropics": 0.0
+    },
+    "species": [],
+    "summary": [
+        "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses.",
+        "The authors used data from the United States to model betacoronavirus transmission in temperate regions and to project the possible dynamics of SARS-CoV-2 infection through the year 2025.",
+        "The model provided a good fit to both the weekly incidence proxies for HCoV-OC43 and HCoV-HKU1 and to the estimated weekly effective reproduction numbers (Fig 2).",
+        "Shorter durations of immunity and smaller degrees of cross immunity from the other betacoronaviruses were associated with greater total incidence of infection due to SARS-CoV-2, and autumn establishments and smaller seasonal fluctuations in transmissibility were associated with larger pandemic peak sizes.",
+        "A modelling study using data from Sweden found that seasonal establishment of SARS-CoV-2 transmission is likely in the post-pandemic period [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+        "The method that the authors adopted to estimate the effective reproduction number depends on the serial interval distribution, which has not been well-studied for commonly circulating human coronaviruses; the authors used the best-available evidence from SARS, the most closely related coronavirus to SARS-CoV-2.",
+        "The intensity and timing of pandemic and post-pandemic outbreaks will depend on the time of year when widespread SARS-CoV-2 infection becomes established and, to a lesser degree, upon the magnitude of seasonal variation in transmissibility and the level of crossimmunity that exists between the betacoronaviruses.",
+        "Since betacoronaviruses HCoV-OC43 and HCoV-HKU1 are more likely to cause milder cold-like symptoms or acute respiratory infection than ILI, the proxy requires that the proportion of coronavirus cases with ILI is constant over the study period.",
+        "To understand the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data, the authors adapted a linear regression model as follows [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]: where Rsij is the weekly effective reproduction number for strain s in week i of season j, R0 is the basic reproduction number, S0 is the fraction of susceptibles at the start of the first season for the reference strain, and \u03b5sij is a normally distributed error term.",
+        "The model was run for 24.5 years to allow the dynamics to reach a steady state, and the simulated incidence of Strain 1 and Strain 2 were compared with the percent test-positives multiplied by percent of clinic visits for ILI for HCoV-OC43 and HCoV-HKU1, respectively.",
+        "Using the maximum likelihood parameter values, the authors simulated transmission of HCoV-OC43 and HCoV-HKU1 for 20 years and simulated the establishment of sustained SARS-CoV-2 transmission using another half-week pulse in the force of infection.",
+        "For a representative set of parameter values within these ranges, the authors measured the annual incidence of infection due to SARS-CoV-2 and the annual SARS-CoV-2 outbreak peak size for the five years following the simulated time of establishment."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses.",
+            "The authors used data from the United States to model betacoronavirus transmission in temperate regions and to project the possible dynamics of SARS-CoV-2 infection through the year 2025."
+        ],
+        "Results": [
+            "The model provided a good fit to both the weekly incidence proxies for HCoV-OC43 and HCoV-HKU1 and to the estimated weekly effective reproduction numbers (Fig 2).",
+            "Shorter durations of immunity and smaller degrees of cross immunity from the other betacoronaviruses were associated with greater total incidence of infection due to SARS-CoV-2, and autumn establishments and smaller seasonal fluctuations in transmissibility were associated with larger pandemic peak sizes.",
+            "A modelling study using data from Sweden found that seasonal establishment of SARS-CoV-2 transmission is likely in the post-pandemic period [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+            "The method that the authors adopted to estimate the effective reproduction number depends on the serial interval distribution, which has not been well-studied for commonly circulating human coronaviruses; the authors used the best-available evidence from SARS, the most closely related coronavirus to SARS-CoV-2.",
+            "The intensity and timing of pandemic and post-pandemic outbreaks will depend on the time of year when widespread SARS-CoV-2 infection becomes established and, to a lesser degree, upon the magnitude of seasonal variation in transmissibility and the level of crossimmunity that exists between the betacoronaviruses.",
+            "Since betacoronaviruses HCoV-OC43 and HCoV-HKU1 are more likely to cause milder cold-like symptoms or acute respiratory infection than ILI, the proxy requires that the proportion of coronavirus cases with ILI is constant over the study period.",
+            "To understand the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data, the authors adapted a linear regression model as follows [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]: where Rsij is the weekly effective reproduction number for strain s in week i of season j, R0 is the basic reproduction number, S0 is the fraction of susceptibles at the start of the first season for the reference strain, and \u03b5sij is a normally distributed error term.",
+            "The model was run for 24.5 years to allow the dynamics to reach a steady state, and the simulated incidence of Strain 1 and Strain 2 were compared with the percent test-positives multiplied by percent of clinic visits for ILI for HCoV-OC43 and HCoV-HKU1, respectively."
+        ],
+        "Conclusion": [
+            "Using the maximum likelihood parameter values, the authors simulated transmission of HCoV-OC43 and HCoV-HKU1 for 20 years and simulated the establishment of sustained SARS-CoV-2 transmission using another half-week pulse in the force of infection.",
+            "For a representative set of parameter values within these ranges, the authors measured the annual incidence of infection due to SARS-CoV-2 and the annual SARS-CoV-2 outbreak peak size for the five years following the simulated time of establishment."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Organization_2019_a",
+            "entry": "1. World Health Organization, \u201cCoronavirus disease 2019 (COVID-19)\u201d (Situation Report 35, 2020), (available at https://www.who.int/docs/default-source/coronaviruse/situationreports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2).",
+            "url": "https://www.who.int/docs/default-source/coronaviruse/situationreports/20200224-sitrep-35-covid-19.pdf?sfvrsn=1ac4218d_2",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20Coronavirus%20disease%202019%20COVID19%20Situation%20Report%2035%202020%20available%20at%20httpswwwwhointdocsdefaultsourcecoronavirusesituationreports20200224sitrep35covid19pdfsfvrsn1ac4218d2",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20Coronavirus%20disease%202019%20COVID19%20Situation%20Report%2035%202020%20available%20at%20httpswwwwhointdocsdefaultsourcecoronavirusesituationreports20200224sitrep35covid19pdfsfvrsn1ac4218d2"
+        },
+        {
+            "id": "2",
+            "alt_id": "Heymann_et+al_2013_a",
+            "entry": "2. D. L. Heymann, J. S. Mackenzie, M. Peiris, SARS legacy: outbreak reporting is expected and respected. The Lancet. 381, 779\u2013781 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Heymann%2C%20D.L.%20Mackenzie%2C%20J.S.%20Peiris%2C%20M.%20SARS%20legacy%3A%20outbreak%20reporting%20is%20expected%20and%20respected%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Heymann%2C%20D.L.%20Mackenzie%2C%20J.S.%20Peiris%2C%20M.%20SARS%20legacy%3A%20outbreak%20reporting%20is%20expected%20and%20respected%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Heymann%2C%20D.L.%20Mackenzie%2C%20J.S.%20Peiris%2C%20M.%20SARS%20legacy%3A%20outbreak%20reporting%20is%20expected%20and%20respected%202013"
+        },
+        {
+            "id": "3",
+            "alt_id": "3._0000_a",
+            "entry": "3. Transcript for the CDC Telebriefing Update on COVID-19 (2020; https://www.cdc.gov/media/releases/2020/t0225-cdc-telebriefing-covid-19.html).",
+            "url": "https://www.cdc.gov/media/releases/2020/t0225-cdc-telebriefing-covid-19.html"
+        },
+        {
+            "id": "4",
+            "alt_id": "Wikramaratna_et+al_2013_a",
+            "entry": "4. P. S. Wikramaratna, M. Sandeman, M. Recker, S. Gupta, The antigenic evolution of influenza: drift or thrift? Philos. Trans. R. Soc. B Biol. Sci. 368 (2013), doi:10.1098/rstb.2012.0200.",
+            "crossref": "https://dx.doi.org/10.1098/rstb.2012.0200",
+            "scite": "https://scite.ai/reports/10.1098/rstb.2012.0200",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rstb.2012.0200"
+        },
+        {
+            "id": "5",
+            "alt_id": "Vijgen_et+al_2005_a",
+            "entry": "5. L. Vijgen, E. Keyaerts, E. Moes, I. Thoelen, E. Wollants, P. Lemey, A.-M. Vandamme, M. Van Ranst, Complete genomic sequence of human coronavirus OC43: molecular clock analysis suggests a relatively recent zoonotic coronavirus transmission event. J. Virol. 79, 1595\u20131604 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Vijgen%2C%20L.%20Keyaerts%2C%20E.%20Moes%2C%20E.%20Thoelen%2C%20I.%20Complete%20genomic%20sequence%20of%20human%20coronavirus%20OC43%3A%20molecular%20clock%20analysis%20suggests%20a%20relatively%20recent%20zoonotic%20coronavirus%20transmission%20event%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Vijgen%2C%20L.%20Keyaerts%2C%20E.%20Moes%2C%20E.%20Thoelen%2C%20I.%20Complete%20genomic%20sequence%20of%20human%20coronavirus%20OC43%3A%20molecular%20clock%20analysis%20suggests%20a%20relatively%20recent%20zoonotic%20coronavirus%20transmission%20event%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Vijgen%2C%20L.%20Keyaerts%2C%20E.%20Moes%2C%20E.%20Thoelen%2C%20I.%20Complete%20genomic%20sequence%20of%20human%20coronavirus%20OC43%3A%20molecular%20clock%20analysis%20suggests%20a%20relatively%20recent%20zoonotic%20coronavirus%20transmission%20event%202005"
+        },
+        {
+            "id": "6",
+            "alt_id": "Su_et+al_2016_a",
+            "entry": "6. S. Su, G. Wong, W. Shi, J. Liu, A. C. K. Lai, J. Zhou, W. Liu, Y. Bi, G. F. Gao, Epidemiology, genetic recombination, and pathogenesis of coronaviruses. Trends Microbiol. 24, 490\u2013502 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Su%2C%20S.%20Wong%2C%20G.%20Shi%2C%20W.%20Liu%2C%20J.%20Epidemiology%2C%20genetic%20recombination%2C%20and%20pathogenesis%20of%20coronaviruses%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Su%2C%20S.%20Wong%2C%20G.%20Shi%2C%20W.%20Liu%2C%20J.%20Epidemiology%2C%20genetic%20recombination%2C%20and%20pathogenesis%20of%20coronaviruses%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Su%2C%20S.%20Wong%2C%20G.%20Shi%2C%20W.%20Liu%2C%20J.%20Epidemiology%2C%20genetic%20recombination%2C%20and%20pathogenesis%20of%20coronaviruses%202016"
+        },
+        {
+            "id": "7",
+            "alt_id": "Wu_2020_a",
+            "entry": "7. Z. Wu, J. M. McGoogan, Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention. JAMA (2020), doi:10.1001/jama.2020.2648.",
+            "crossref": "https://dx.doi.org/10.1001/jama.2020.2648",
+            "scite": "https://scite.ai/reports/10.1001/jama.2020.2648",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1001/jama.2020.2648"
+        },
+        {
+            "id": "8",
+            "alt_id": "8._2020_a",
+            "entry": "8. Chinese Center for Disease Control and Prevention, The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) -- China 2020. CCDC Wkly. 2 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19%20%20China%202020%20CCDC%20Wkly%202%202020"
+        },
+        {
+            "id": "9",
+            "alt_id": "Killerby_et+al_2018_a",
+            "entry": "9. M. E. Killerby, H. M. Biggs, A. Haynes, R. M. Dahl, D. Mustaquim, S. I. Gerber, J. T. Watson, Human coronavirus circulation in the United States 2014\u20132017. J. Clin. Virol. 101, 52\u201356 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=M%20E%20Killerby%20H%20M%20Biggs%20A%20Haynes%20R%20M%20Dahl%20D%20Mustaquim%20S%20I%20Gerber%20J%20T%20Watson%20Human%20coronavirus%20circulation%20in%20the%20United%20States%2020142017%20J%20Clin%20Virol%20101%205256%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=M%20E%20Killerby%20H%20M%20Biggs%20A%20Haynes%20R%20M%20Dahl%20D%20Mustaquim%20S%20I%20Gerber%20J%20T%20Watson%20Human%20coronavirus%20circulation%20in%20the%20United%20States%2020142017%20J%20Clin%20Virol%20101%205256%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=M%20E%20Killerby%20H%20M%20Biggs%20A%20Haynes%20R%20M%20Dahl%20D%20Mustaquim%20S%20I%20Gerber%20J%20T%20Watson%20Human%20coronavirus%20circulation%20in%20the%20United%20States%2020142017%20J%20Clin%20Virol%20101%205256%202018"
+        },
+        {
+            "id": "10",
+            "alt_id": "Neher_et+al_0000_a",
+            "entry": "10. R. A. Neher, R. Dyrdak, V. Druelle, E. B. Hodcroft, J. Albert, Impact of seasonal forcing on a potential SARS-CoV-2 pandemic. medRxiv (2020), doi:10.1101/2020.02.13.20022806.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.13.20022806",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.13.20022806"
+        },
+        {
+            "id": "11",
+            "alt_id": "Shaman_et+al_2010_a",
+            "entry": "11. J. Shaman, V. E. Pitzer, C. Viboud, B. T. Grenfell, M. Lipsitch, Absolute humidity and the seasonal onset of influenza in the continental United States. PLoS Biol. 8, e1000316 (2010).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shaman%2C%20J.%20Pitzer%2C%20V.E.%20Viboud%2C%20C.%20Grenfell%2C%20B.T.%20Absolute%20humidity%20and%20the%20seasonal%20onset%20of%20influenza%20in%20the%20continental%20United%20States%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shaman%2C%20J.%20Pitzer%2C%20V.E.%20Viboud%2C%20C.%20Grenfell%2C%20B.T.%20Absolute%20humidity%20and%20the%20seasonal%20onset%20of%20influenza%20in%20the%20continental%20United%20States%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shaman%2C%20J.%20Pitzer%2C%20V.E.%20Viboud%2C%20C.%20Grenfell%2C%20B.T.%20Absolute%20humidity%20and%20the%20seasonal%20onset%20of%20influenza%20in%20the%20continental%20United%20States%202010"
+        },
+        {
+            "id": "12",
+            "alt_id": "Shaman_et+al_2011_a",
+            "entry": "12. J. Shaman, E. Goldstein, M. Lipsitch, Absolute humidity and pandemic versus epidemic influenza. Am. J. Epidemiol. 173, 127\u2013135 (2011).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shaman%2C%20J.%20Goldstein%2C%20E.%20Lipsitch%2C%20M.%20Absolute%20humidity%20and%20pandemic%20versus%20epidemic%20influenza%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shaman%2C%20J.%20Goldstein%2C%20E.%20Lipsitch%2C%20M.%20Absolute%20humidity%20and%20pandemic%20versus%20epidemic%20influenza%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shaman%2C%20J.%20Goldstein%2C%20E.%20Lipsitch%2C%20M.%20Absolute%20humidity%20and%20pandemic%20versus%20epidemic%20influenza%202011"
+        },
+        {
+            "id": "13",
+            "alt_id": "Chattopadhyay_et+al_2018_a",
+            "entry": "13. I. Chattopadhyay, E. Kiciman, J. W. Elliott, J. L. Shaman, A. Rzhetsky, Conjunction of factors triggering waves of seasonal influenza. eLife. 7 (2018), doi:e30756.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chattopadhyay%2C%20I.%20Kiciman%2C%20E.%20Elliott%2C%20J.W.%20Shaman%2C%20J.L.%20Conjunction%20of%20factors%20triggering%20waves%20of%20seasonal%20influenza%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chattopadhyay%2C%20I.%20Kiciman%2C%20E.%20Elliott%2C%20J.W.%20Shaman%2C%20J.L.%20Conjunction%20of%20factors%20triggering%20waves%20of%20seasonal%20influenza%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chattopadhyay%2C%20I.%20Kiciman%2C%20E.%20Elliott%2C%20J.W.%20Shaman%2C%20J.L.%20Conjunction%20of%20factors%20triggering%20waves%20of%20seasonal%20influenza%202018"
+        },
+        {
+            "id": "14",
+            "alt_id": "Callow_et+al_1990_a",
+            "entry": "14. K. A. Callow, H. F. Parry, M. Sergeant, D. A. Tyrrell, The time course of the immune response to experimental coronavirus infection of man. Epidemiol. Infect. 105, 435\u2013446 (1990).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Callow%2C%20K.A.%20Parry%2C%20H.F.%20Sergeant%2C%20M.%20Tyrrell%2C%20D.A.%20The%20time%20course%20of%20the%20immune%20response%20to%20experimental%20coronavirus%20infection%20of%20man%201990",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Callow%2C%20K.A.%20Parry%2C%20H.F.%20Sergeant%2C%20M.%20Tyrrell%2C%20D.A.%20The%20time%20course%20of%20the%20immune%20response%20to%20experimental%20coronavirus%20infection%20of%20man%201990",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Callow%2C%20K.A.%20Parry%2C%20H.F.%20Sergeant%2C%20M.%20Tyrrell%2C%20D.A.%20The%20time%20course%20of%20the%20immune%20response%20to%20experimental%20coronavirus%20infection%20of%20man%201990"
+        },
+        {
+            "id": "15",
+            "alt_id": "Chan_et+al_2012_a",
+            "entry": "15. K.-H. Chan, J. F.-W. Chan, H. Tse, H. Chen, C. C.-Y. Lau, J.-P. Cai, A. K.-L. Tsang, X. Xiao, K. K.-W. To, S. K.-P. Lau, P. C.-Y. Woo, B.-J. Zheng, M. Wang, K.-Y. Yuen, Crossreactive antibodies in convalescent SARS patients\u2019 sera against the emerging novel human coronavirus EMC (2012) by both immunofluorescent and neutralizing antibody tests. J. Infect. 67, 130\u2013140 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%2C%20K.-H.%20Chan%2C%20J.F.-W.%20Tse%2C%20H.%20Chen%2C%20H.%20Crossreactive%20antibodies%20in%20convalescent%20SARS%20patients%E2%80%99%20sera%20against%20the%20emerging%20novel%20human%20coronavirus%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%2C%20K.-H.%20Chan%2C%20J.F.-W.%20Tse%2C%20H.%20Chen%2C%20H.%20Crossreactive%20antibodies%20in%20convalescent%20SARS%20patients%E2%80%99%20sera%20against%20the%20emerging%20novel%20human%20coronavirus%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%2C%20K.-H.%20Chan%2C%20J.F.-W.%20Tse%2C%20H.%20Chen%2C%20H.%20Crossreactive%20antibodies%20in%20convalescent%20SARS%20patients%E2%80%99%20sera%20against%20the%20emerging%20novel%20human%20coronavirus%202012"
+        },
+        {
+            "id": "16",
+            "alt_id": "Patrick_et+al_2006_a",
+            "entry": "16. D. M. Patrick, M. Petric, D. M. Skowronski, R. Guasparini, T. F. Booth, M. Krajden, P. McGeer, N. Bastien, L. Gustafson, J. Dubord, D. MacDonald, S. T. David, L. F. Srour, R. Parker, A. Andonov, J. Isaac-Renton, N. Loewen, G. McNabb, A. McNabb, S.-H. Goh, S. Henwick, C. Astell, J. P. Guo, M. Drebot, R. Tellier, F. Plummer, R. C. Brunham, An outbreak of human coronavirus OC43 infection and serological cross-reactivity with SARS coronavirus. Can. J. Infect. Dis. Med. Microbiol. 17, 330\u2013336 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Patrick%2C%20D.M.%20Petric%2C%20M.%20Skowronski%2C%20D.M.%20Guasparini%2C%20R.%20An%20outbreak%20of%20human%20coronavirus%20OC43%20infection%20and%20serological%20cross-reactivity%20with%20SARS%20coronavirus%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Patrick%2C%20D.M.%20Petric%2C%20M.%20Skowronski%2C%20D.M.%20Guasparini%2C%20R.%20An%20outbreak%20of%20human%20coronavirus%20OC43%20infection%20and%20serological%20cross-reactivity%20with%20SARS%20coronavirus%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Patrick%2C%20D.M.%20Petric%2C%20M.%20Skowronski%2C%20D.M.%20Guasparini%2C%20R.%20An%20outbreak%20of%20human%20coronavirus%20OC43%20infection%20and%20serological%20cross-reactivity%20with%20SARS%20coronavirus%202006"
+        },
+        {
+            "id": "17",
+            "alt_id": "17._0000_b",
+            "entry": "17. Centers for Disease Control and Prevention, \u201cThe National Respiratory and Enteric Virus Surveillance System (NREVSS)\u201d (2020), (available at https://www.cdc.gov/surveillance/nrevss/index.html).",
+            "url": "https://www.cdc.gov/surveillance/nrevss/index.html"
+        },
+        {
+            "id": "18",
+            "alt_id": "Goldstein_et+al_2011_a",
+            "entry": "18. E. Goldstein, S. Cobey, S. Takahashi, J. C. Miller, M. Lipsitch, Predicting the epidemic sizes of influenza A/H1N1, A/H3N2, and B: a statistical method. PLOS Med. 8 (2011), doi:10.1371/journal.pmed.1001051.",
+            "crossref": "https://dx.doi.org/10.1371/journal.pmed.1001051",
+            "scite": "https://scite.ai/reports/10.1371/journal.pmed.1001051",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pmed.1001051"
+        },
+        {
+            "id": "19",
+            "alt_id": "19._0000_c",
+            "entry": "19. Centers for Disease Control and Prevention, \u201cFluView Interactive\u201d (2018), (available at https://www.cdc.gov/flu/weekly/fluviewinteractive.htm).",
+            "url": "https://www.cdc.gov/flu/weekly/fluviewinteractive.htm"
+        },
+        {
+            "id": "20",
+            "alt_id": "Wallinga_2004_a",
+            "entry": "20. J. Wallinga, P. Teunis, Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. Am. J. Epidemiol. 160, 509\u2013516 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%202004"
+        },
+        {
+            "id": "21",
+            "alt_id": "Wallinga_2007_a",
+            "entry": "21. J. Wallinga, M. Lipsitch, How generation intervals shape the relationship between growth rates and reproductive numbers. Proc. R. Soc. B Biol. Sci. 274, 599\u2013604 (2007).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wallinga%2C%20J.%20Lipsitch%2C%20M.%20How%20generation%20intervals%20shape%20the%20relationship%20between%20growth%20rates%20and%20reproductive%20numbers%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wallinga%2C%20J.%20Lipsitch%2C%20M.%20How%20generation%20intervals%20shape%20the%20relationship%20between%20growth%20rates%20and%20reproductive%20numbers%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wallinga%2C%20J.%20Lipsitch%2C%20M.%20How%20generation%20intervals%20shape%20the%20relationship%20between%20growth%20rates%20and%20reproductive%20numbers%202007"
+        },
+        {
+            "id": "22",
+            "alt_id": "Te_et+al_2013_a",
+            "entry": "22. D. E. te Beest, M. van Boven, M. Hooiveld, C. van den Dool, J. Wallinga, Driving factors of influenza transmission in the Netherlands. Am. J. Epidemiol. 178, 1469\u20131477 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=te%20Beest%2C%20D.E.%20van%20Boven%2C%20M.%20Hooiveld%2C%20M.%20van%20den%20Dool%2C%20C.%20Driving%20factors%20of%20influenza%20transmission%20in%20the%20Netherlands%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=te%20Beest%2C%20D.E.%20van%20Boven%2C%20M.%20Hooiveld%2C%20M.%20van%20den%20Dool%2C%20C.%20Driving%20factors%20of%20influenza%20transmission%20in%20the%20Netherlands%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=te%20Beest%2C%20D.E.%20van%20Boven%2C%20M.%20Hooiveld%2C%20M.%20van%20den%20Dool%2C%20C.%20Driving%20factors%20of%20influenza%20transmission%20in%20the%20Netherlands%202013"
+        },
+        {
+            "id": "23",
+            "alt_id": "Read_et+al_0000_a",
+            "entry": "23. J. M. Read, J. R. Bridgen, D. A. Cummings, A. Ho, C. P. Jewell, Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv (2020), doi:10.1101/2020.01.23.20018549.",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.23.20018549",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.23.20018549"
+        },
+        {
+            "id": "24",
+            "alt_id": "Lauer_et+al_2019_a",
+            "entry": "24. S. A. Lauer, K. H. Grantz, Q. Bi, F. K. Jones, Q. Zheng, H. Meredith, A. S. Azman, N. G. Reich, J. Lessler, The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv (2020), doi:10.1101/2020.02.02.20020016.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.02.20020016",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.02.20020016"
+        },
+        {
+            "id": "25",
+            "alt_id": "Linton_et+al_0000_a",
+            "entry": "25. N. M. Linton, T. Kobayashi, Y. Yang, K. Hayashi, A. R. Akhmetzhanov, S. Jung, B. Yuan, R. Kinoshita, H. Nishiura, medRxiv, in press, doi:10.1101/2020.01.26.20018754.",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.26.20018754",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.26.20018754",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1101/2020.01.26.20018754"
+        },
+        {
+            "id": "26",
+            "alt_id": "Luo_et+al_0000_a",
+            "entry": "26. W. Luo, M. S. Majumder, D. Liu, C. Poirier, K. D. Mandl, M. Lipsitch, M. Santillana, The role of absolute humidity on transmission rates of the COVID-19 outbreak. medRxiv (2020), doi:10.1101/2020.02.12.20022467.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.12.20022467",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.12.20022467"
+        },
+        {
+            "id": "27",
+            "alt_id": "Huang_et+al_2014_a",
+            "entry": "27. K. E. Huang, M. Lipsitch, J. Shaman, E. Goldstein, The US 2009 A(H1N1) influenza epidemic: quantifying the impact of school openings on the reproductive number. Epidemiol. Camb. Mass. 25, 203\u2013206 (2014).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=K%20E%20Huang%20M%20Lipsitch%20J%20Shaman%20E%20Goldstein%20The%20US%202009%20AH1N1%20influenza%20epidemic%20quantifying%20the%20impact%20of%20school%20openings%20on%20the%20reproductive%20number%20Epidemiol%20Camb%20Mass%2025%20203206%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=K%20E%20Huang%20M%20Lipsitch%20J%20Shaman%20E%20Goldstein%20The%20US%202009%20AH1N1%20influenza%20epidemic%20quantifying%20the%20impact%20of%20school%20openings%20on%20the%20reproductive%20number%20Epidemiol%20Camb%20Mass%2025%20203206%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=K%20E%20Huang%20M%20Lipsitch%20J%20Shaman%20E%20Goldstein%20The%20US%202009%20AH1N1%20influenza%20epidemic%20quantifying%20the%20impact%20of%20school%20openings%20on%20the%20reproductive%20number%20Epidemiol%20Camb%20Mass%2025%20203206%202014"
+        },
+        {
+            "id": "28",
+            "alt_id": "Shaman_0000_a",
+            "entry": "28. J. Shaman, M. Galanti, Direct measurement of rates of asymptomatic infection and clinical care-seeking for seasonal coronavirus. medRxiv (2020), doi:10.1101/2020.01.30.20019612.",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.30.20019612",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.30.20019612"
+        },
+        {
+            "id": "29",
+            "alt_id": "29._2017_a",
+            "entry": "29. \u201cSustainable Infrastructure in the Tropics,\u201d State of the Tropics (James Cook University, 2017), p. 4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sustainable%20Infrastructure%20in%20the%20Tropics%20State%20of%20the%20Tropics%20James%20Cook%20University%202017%20p%204"
+        },
+        {
+            "id": "30",
+            "alt_id": "He_et+al_2015_a",
+            "entry": "30. D. He, R. Lui, L. Wang, C. K. Tse, L. Yang, L. Stone, Global spatio-temporal patterns of influenza in the post-pandemic era. Sci. Rep. 5, 11013 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=He%2C%20D.%20Lui%2C%20R.%20Wang%2C%20L.%20Tse%2C%20C.K.%20Global%20spatio-temporal%20patterns%20of%20influenza%20in%20the%20post-pandemic%20era%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=He%2C%20D.%20Lui%2C%20R.%20Wang%2C%20L.%20Tse%2C%20C.K.%20Global%20spatio-temporal%20patterns%20of%20influenza%20in%20the%20post-pandemic%20era%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=He%2C%20D.%20Lui%2C%20R.%20Wang%2C%20L.%20Tse%2C%20C.K.%20Global%20spatio-temporal%20patterns%20of%20influenza%20in%20the%20post-pandemic%20era%202015"
+        },
+        {
+            "id": "31",
+            "alt_id": "Vannice_et+al_2019_a",
+            "entry": "31. K. S. Vannice, M. C. Cassetti, R. W. Eisinger, J. Hombach, I. Knezevic, H. D. Marston, A. Wilder-Smith, M. Cavaleri, P. R. Krause, Demonstrating vaccine effectiveness during a waning epidemic: A WHO/NIH meeting report on approaches to development and licensure of Zika vaccine candidates. Vaccine. 37, 863\u2013868 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Vannice%2C%20K.S.%20Cassetti%2C%20M.C.%20Eisinger%2C%20R.W.%20Hombach%2C%20J.%20Demonstrating%20vaccine%20effectiveness%20during%20a%20waning%20epidemic%3A%20A%20WHO/NIH%20meeting%20report%20on%20approaches%20to%20development%20and%20licensure%20of%20Zika%20vaccine%20candidates%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Vannice%2C%20K.S.%20Cassetti%2C%20M.C.%20Eisinger%2C%20R.W.%20Hombach%2C%20J.%20Demonstrating%20vaccine%20effectiveness%20during%20a%20waning%20epidemic%3A%20A%20WHO/NIH%20meeting%20report%20on%20approaches%20to%20development%20and%20licensure%20of%20Zika%20vaccine%20candidates%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Vannice%2C%20K.S.%20Cassetti%2C%20M.C.%20Eisinger%2C%20R.W.%20Hombach%2C%20J.%20Demonstrating%20vaccine%20effectiveness%20during%20a%20waning%20epidemic%3A%20A%20WHO/NIH%20meeting%20report%20on%20approaches%20to%20development%20and%20licensure%20of%20Zika%20vaccine%20candidates%202019"
+        },
+        {
+            "id": "32",
+            "alt_id": "Lipsitch_et+al_2003_a",
+            "entry": "32. M. Lipsitch, T. Cohen, B. Cooper, J. M. Robins, S. Ma, L. James, G. Gopalakrishna, S. K. Chew, C. C. Tan, M. H. Samore, D. Fisman, M. Murray, Transmission dynamics and control of severe acute respiratory syndrome. Science. 300, 1966 (2003).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Robins%2C%20J.M.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Robins%2C%20J.M.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Robins%2C%20J.M.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003"
+        },
+        {
+            "id": "33",
+            "alt_id": "Li_et+al_0000_a",
+            "entry": "33. Q. Li, X. Guan, P. Wu, X. Wang, L. Zhou, Y. Tong, R. Ren, K. S. M. Leung, E. H. Y. Lau, J. Y. Wong, X. Xing, N. Xiang, Y. Wu, C. Li, Q. Chen, D. Li, T. Liu, J. Zhao, M. Liu, W. Tu, C. Chen, L. Jin, R. Yang, Q. Wang, S. Zhou, R. Wang, H. Liu, Y. Luo, Y. Liu, G. Shao, H. Li, Z. Tao, Y. Yang, Z. Deng, B. Liu, Z. Ma, Y. Zhang, G. Shi, T. T. Y. Lam, J. T. Wu, G. F. Gao, B. J. Cowling, B. Yang, G. M. Leung, Z. Feng, N. Engl. J. Med., in press, doi:10.1056/NEJMoa2001316.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001316",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001316",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001316"
+        },
+        {
+            "id": "34",
+            "alt_id": "Mckay_et+al_1979_a",
+            "entry": "34. M. D. McKay, R. J. Beckman, W. J. Conover, Comparison of three methods for selecting values of input variables in the analysis of output from a computer code. Technometrics. 21, 239\u2013245 (1979).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=McKay%2C%20M.D.%20Beckman%2C%20R.J.%20Conover%2C%20W.J.%20Comparison%20of%20three%20methods%20for%20selecting%20values%20of%20input%20variables%20in%20the%20analysis%20of%20output%20from%20a%20computer%20code%201979",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=McKay%2C%20M.D.%20Beckman%2C%20R.J.%20Conover%2C%20W.J.%20Comparison%20of%20three%20methods%20for%20selecting%20values%20of%20input%20variables%20in%20the%20analysis%20of%20output%20from%20a%20computer%20code%201979",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=McKay%2C%20M.D.%20Beckman%2C%20R.J.%20Conover%2C%20W.J.%20Comparison%20of%20three%20methods%20for%20selecting%20values%20of%20input%20variables%20in%20the%20analysis%20of%20output%20from%20a%20computer%20code%201979"
+        },
+        {
+            "id": "35",
+            "alt_id": "Team_2019_a",
+            "entry": "35. R Core Team, R: A language and environment for statistical computing. (R Foundation for Statistical Computing, Vienna, Austria, 2019; https://www.R-project.org/).36.",
+            "url": "https://www.R-project.org/).36"
+        },
+        {
+            "id": "(2010;_0000_d",
+            "alt_id": "36",
+            "entry": "(2010; https://www.jstatsoft.org/article/view/v033i09).",
+            "url": "https://www.jstatsoft.org/article/view/v033i09"
+        },
+        {
+            "id": "37",
+            "alt_id": "Chowell_et+al_2016_a",
+            "entry": "37. G. Chowell, C. Viboud, L. Simonsen, S. M. Moghadas, Characterizing the reproduction number of epidemics with early subexponential growth dynamics. J. R. Soc. Interface. 13 (2016), doi:10.1098/rsif.2016.0659. ",
+            "crossref": "https://dx.doi.org/10.1098/rsif.2016.0659",
+            "scite": "https://scite.ai/reports/10.1098/rsif.2016.0659",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rsif.2016.0659"
+        }
+    ],
+    "facts": [
+        "how transmission of the novel betacoronavirus SARS-CoV-2 will unfold in coming years",
+        "These dynamics will depend on seasonality",
+        "that recurrent wintertime outbreaks of SARS-CoV-2 will probably occur after an initial pandemic wave",
+        "importantly longitudinal serological studies to determine the duration of immunity to SARS-CoV-2",
+        "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation",
+        "SARS-CoV-2 belongs to the betacoronavirus genus",
+        "While investigations into the spectrum of illness caused by SARS-CoV-2 are ongoing, recent evidence indicates the majority of cases experience mild illness",
+        "Current COVID-19 case fatality rates in China are estimated at 2.9% within Hubei province",
+        "the transmission of SARS-CoV-2 will unfold in the coming years",
+        "This proxy is proportional to incidence under a set",
+        "of assumptions described in the Materials",
+        "as the average number of secondary infections caused by a single infected individual",
+        "Over the five seasons included in our data",
+        "smaller degrees of cross immunity from the other betacoronaviruses were associated with greater total incidence of infection",
+        "smaller seasonal fluctuations in transmissibility were associated with larger pandemic peak sizes",
+        "A modelling study using data from Sweden found that seasonal establishment of SARS-CoV-2 transmission is likely in the post-pandemic period",
+        "the effective reproduction number depends on the serial interval distribution",
+        "which has not been well-studied for commonly circulating human coronaviruses",
+        "post-pandemic outbreaks will depend on the time of year when widespread SARS-CoV-2 infection becomes established",
+        "the level of crossimmunity that exists between the betacoronaviruses",
+        "our proxy requires that the proportion of coronavirus cases",
+        "with ILI is constant over the study period",
+        "the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data",
+        "S0 is the fraction of susceptibles at the start",
+        "The model was run for 24.5 years to allow the dynamics to reach a steady state",
+        "Strain 2 were compared with the percent test-positives multiplied by percent",
+        "the establishment of sustained SARS-CoV-2 transmission using another half-week pulse in the force of infection",
+        "the annual SARS-CoV-2 outbreak peak size for the five years following the simulated time of establishment"
+    ],
+    "claims": [
+        "We summarize the full range of plausible transmission scenarios and identify key data still needed to distinguish between them, most importantly longitudinal serological studies to determine the duration of immunity to SARS-CoV-2",
+        "We summarized the post-pandemic SARS-CoV-2 dynamics into the categories of annual outbreaks, biennial outbreaks, sporadic outbreaks, or virtual elimination",
+        "We summarized the post-pandemic SARSCoV-2 dynamics into the categories of annual outbreaks, biennial outbreaks, sporadic outbreaks, or virtual elimination"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses",
+        "SARS-CoV-2 belongs to the betacoronavirus genus, which includes the SARS coronavirus, MERS coronavirus, and two other human coronaviruses, HCoV-OC43 and HCoV-HKU1",
+        "Shorter durations of immunity and smaller degrees of cross immunity from the other betacoronaviruses were associated with greater total incidence of infection due to SARS-CoV-2, and autumn establishments and smaller seasonal fluctuations in transmissibility were associated with larger pandemic peak sizes",
+        "The method that we adopted to estimate the effective reproduction number depends on the serial interval distribution, which has not been well-studied for commonly circulating human coronaviruses; we used the best-available evidence from SARS, the most closely related coronavirus to SARS-CoV-2",
+        "The intensity and timing of pandemic and post-pandemic outbreaks will depend on the time of year when widespread SARS-CoV-2 infection becomes established and, to a lesser degree, upon the magnitude of seasonal variation in transmissibility and the level of crossimmunity that exists between the betacoronaviruses",
+        "Since betacoronaviruses HCoV-OC43 and HCoV-HKU1 are more likely to cause milder cold-like symptoms or acute respiratory infection than influenza-like illness, our proxy requires that the proportion of coronavirus cases with influenza-like illness is constant over the study period",
+        "We used the effective reproduction number, defined as the average number of secondary infections caused by a single infected individual, to quantify the time-varying transmissibility of each coronavirus strain",
+        "To understand the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data, we adapted a linear regression model as follows [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]: where Rsij is the weekly effective reproduction number for strain s in week i of season j, R0 is the basic reproduction number, S0 is the fraction of susceptibles at the start of the first season for the reference strain, and \u03b5sij is a normally distributed error term",
+        "The model was run for 24.5 years to allow the dynamics to reach a steady state, and the simulated incidence of Strain 1 and Strain 2 were compared with the percent test-positives multiplied by percent of clinic visits for influenza-like illness for HCoV-OC43 and HCoV-HKU1, respectively"
+    ],
+    "top_statements": [
+        "The transmission dynamics of the SARS-CoV-2 epidemic will depend on factors including the degree of seasonal variation in transmission strength, the duration of immunity, and the degree of cross-immunity between SARS-CoV-2 and other coronaviruses",
+        "Shorter durations of immunity and smaller degrees of cross immunity from the other betacoronaviruses were associated with greater total incidence of infection due to SARS-CoV-2, and autumn establishments and smaller seasonal fluctuations in transmissibility were associated with larger pandemic peak sizes",
+        "The method that we adopted to estimate the effective reproduction number depends on the serial interval distribution, which has not been well-studied for commonly circulating human coronaviruses; we used the best-available evidence from SARS, the most closely related coronavirus to SARS-CoV-2",
+        "The intensity and timing of pandemic and post-pandemic outbreaks will depend on the time of year when widespread SARS-CoV-2 infection becomes established and, to a lesser degree, upon the magnitude of seasonal variation in transmissibility and the level of crossimmunity that exists between the betacoronaviruses",
+        "To understand the relative contribution of depletion of susceptibles compared to seasonal forcing in the observed data, we adapted a linear regression model as follows [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]: where Rsij is the weekly effective reproduction number for strain s in week i of season j, R0 is the basic reproduction number, S0 is the fraction of susceptibles at the start of the first season for the reference strain, and \u03b5sij is a normally distributed error term",
+        "The model was run for 24.5 years to allow the dynamics to reach a steady state, and the simulated incidence of Strain 1 and Strain 2 were compared with the percent test-positives multiplied by percent of clinic visits for influenza-like illness for HCoV-OC43 and HCoV-HKU1, respectively"
+    ],
+    "headline": "The model was run for 24.5 years to allow the dynamics to reach a steady state, and the simulated incidence of Strain 1 and Strain 2 were compared with the percent test-positives multiplied by percent of clinic visits for influenza-like illness for HCoV-OC43 and HCoV-HKU1, respectively",
+    "contexts": [],
+    "abbreviations": {
+        "ILI": "influenza-like illness",
+        "ODE": "ordinary differential equation",
+        "NREVSS": "National Respiratory and Enteric Virus Surveillance System",
+        "ILINet": "Illness Surveillance Network",
+        "Ru": "reproduction number",
+        "LHS": "latin hypercube sampling"
+    }
+}

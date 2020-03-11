@@ -1,0 +1,324 @@
+{
+    "filename": "2020.02.10.20021774.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 105947,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.02.10.20021774",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/02/12/2020.02.10.20021774.full.pdf"
+        },
+        "title": "Statistical Inference for Coronavirus Infected Patients in Wuhan",
+        "author": "Yongdao Zhou, Jianghu Dong",
+        "date": 2020,
+        "affiliations": [
+            "Institute of Statistics, Nankai University, Tianjin 300071, China",
+            "Department of Biostatistics, College of Public Health, University of Nebraska Medical Center, USA.",
+            "Department of Biostatistics, College of Public Health, University of Nebraska Medical Center, USA."
+        ],
+        "abstract": "Importance: The new coronavirus outbreak has seriously affected the quality of life in China. Wuhan is the disaster area, where the number of cases has increased rapidly. However, the current measures of infected patients in Wuhan are still underestimated.\nObjective: To estimate the overall infected patients in Wuhan from several sampled data. The correct estimated infected patients can be helpful for the government to arrange the needed beds in hospital wards to meet the actual needs.\nDesign: We proposed to use the sampling survey to estimate the overall infected patients in Wuhan. The sampling survey is a kind of non-comprehensive survey. It selected some units from all the survey objects to carry out the survey and made the estimation and inference to all the survey objects. Sampling surveys can obtain information that reflects the overall situation, although it is not a comprehensive survey.  \nSetting: We estimated the overall infection rate in Wenzhou city, which has a better data collection system. Simultaneously, another different samples of Wuhan tourists to Singapore will be used to validate the infection rate in Wenzhou city. Combined these two samples, we give the estimation of the number of infected patients in Wuhan and other prefecture-level cities in Hubei Province. \nParticipants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city.  \nExposures for observational studies: The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City. The numerator is the number of people diagnosed and whether each person diagnosed had a history of living in Wuhan. The denominator is the total number of people returning to Wenzhou from Wuhan. Based on this rate, it is reasonable to predict the number of the infected patients.",
+        "emails": [
+            "jianghu.dong@unmc.edu"
+        ],
+        "references": "",
+        "references_ris": "",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Distribution of the new coronavirus in Wenzhou city"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.02.10.20021774.full.pdf_8j57dvn6_ik5hbqdt.xlsx"
+    },
+    "sections": {
+        "objective": [
+            "To estimate the overall infected patients in Wuhan from several sampled data. The correct estimated infected patients can be helpful for the government to arrange the needed beds in hospital wards to meet the actual needs."
+        ],
+        "design": [
+            "We proposed to use the sampling survey to estimate the overall infected patients in Wuhan. The sampling survey is a kind of non-comprehensive survey. It selected some units from all the survey objects to carry out the survey and made the estimation and inference to all the survey objects. Sampling surveys can obtain information that reflects the overall situation, although it is not a comprehensive survey.<br/><br/>Setting: We estimated the overall infection rate in Wenzhou city, which has a better data collection system. Simultaneously, another different samples of Wuhan tourists to Singapore will be used to validate the infection rate in Wenzhou city. Combined these two samples, we give the estimation of the number of infected patients in Wuhan and other prefecture-level cities in Hubei Province."
+        ],
+        "participants": [
+            "The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city.<br/><br/>Exposures for observational studies: The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City. The numerator is the number of people diagnosed and whether each person diagnosed had a history of living in Wuhan. The denominator is the total number of people returning to Wenzhou from Wuhan. Based on this rate, it is reasonable to predict the number of the infected patients.<br/><br/>Main Outcome(s) and Measure(s): According to the most conservative estimate from our proposed sampling method, at least total 54,000 infected patients are in Wuhan."
+        ],
+        "methods": [
+            "Study Design and Participants<br/><br/>Total of 180,000 Wenzhou people was in business/school or worked in Wuhan. Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020. Among these 33,000 people, the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows: Time<br/><br/>Infected patients<br/><br/>Patients who traveled from Wuhan    Jan. 27    Jan.31    Feb.1    Feb.2    Feb.3"
+        ],
+        "results": [
+            "Wuhan city had about 42,000 people infected by Jan 29, 2020, which was calculated based on the 0.3% rate. 27,000 people were remaining in Wuhan, while 15,000 people were living in non-Wuhan areas. If based on the 0.6% rate, Wuhan city had about 84,000 infected people. 54,000 people were remaining in Wuhan, while 30,000 people were living in non-Wuhan areas<br/><br/>The number of confirmed cases in Wenzhou has more than doubled under strict preventive measures such as the collection of suspected cases and concentrated isolation of those in close contact during passed ten more days since January 29, 2020. However, Wuhan City isolated suspected cases and diagnosed patients with mild illness in their homes, which increased the possibility of family infection during this period. Therefore, the number of people infected in Wuhan was estimated to be between 54,000 and 90,000. The number of people infected in other areas was estimated at 3050,000. The total number of people infected nationwide is 84,000-140,000. Since 70% of the 5 million people who left Wuhan were returning to other parts of Hubei, the"
+        ],
+        "introduction": [
+            "Importance: The new coronavirus outbreak has seriously affected the quality of life in China. Wuhan is the disaster area, where the number of cases has increased rapidly. However, the current measures of infected patients in Wuhan are still underestimated."
+        ]
+    },
+    "structured_content": {
+        "Methods": [],
+        "Study Design and Participants": [
+            "Total of 180,000 Wenzhou people was in business/school or worked in Wuhan. Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020. Among these 33,000 people, the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows: Table 1: Distribution of the new coronavirus in Wenzhou city",
+            "According to Table 1, the total number of confirmed cases in Wenzhou was 448. The number of people who suffered from Wuhan and its surrounding areas was 202, and the number of people who returned to Wenzhou from Wuhan and its surrounding areas was 33,000; Therefore, the infection rate of the people returning to Wenzhou from Wuhan is about 0.61%. It is important to note that all these people returned before January 29, 2020. This indicates that the infection rate was about 0.61% by January 29, 2020.",
+            "From the statistical sampling, Wenzhou people who were in business/school or worked in Wuhan can be used as a sample of Wuhan residents. The infection rate of the sample can be used to estimate the overall infection rate. Due to the impact of the Spring Festival and the epidemic situation, more than 5 million people have left Wuhan",
+            "from the news conference of the coronavirus outbreak by Wuhan Government on Jan 26, 2019. Nine million more residences remained in Wuhan. This shows that the population of Wuhan is 14 million. From sampling, the infection rate of the sample is a good estimate of the overall infection rate.",
+            "However, given the number of samples of the person returning Wenzhou, the rate of total 14 million was less than 0.24%. Estimates of infection rates may be inaccurate, possibly because many people from Wenzhou were doing business in Wuhan and were more likely to contact people than the others from other places in Wuhan. Statistically, the sample of samples may not represent the overall situation well. Therefore, additional data are required to verify each other and correct infection rates. To this end, total 10,680 Wuhan tourists to Singapore from December 30, 2019 to January 22, 2020 from government reports are included as a subsample. As of February 7, 2020, out-of-town travelers were diagnosed in Singapore, while some tourists did not suffer from the disease during their stay in Singapore but returned to China or went to a third country to suffer from the disease. For example, on January 25, 2020, three Malaysian diagnosed patients arrived in Malaysia two days after they arrived in Singapore. On February 7, the Ministry of Health of Malaysia announced the new diagnosis of a 59-year-old Chinese woman who entered Malaysia from Singapore on January 21, 2020; In addition, 335 passengers arrived at Hangzhou airport from Singapore on January 24, 2020. Among the 335 passengers on board, there were 116 passengers from Wuhan. As of February 5, 2020, a total of nine passengers on board were confirmed. In all, at least 33 of the 10,680 people were diagnosed. The infection rate shall not be lower than 0.3%. It should be noted that this infection rate referred to the infection rate before January 23. By January 29, 2020, the infection rate would be higher. The infection rate in Wuhan was estimated at 0.3-0.6% as of January 29 after combined with the sampling data Wuhan residents from Wenzhou and the sampling data from Wuhan tourists to Singapore."
+        ],
+        "Results": [
+            "Wuhan city had about 42,000 people infected by Jan 29, 2020, which was calculated based on the 0.3% rate. 27,000 people were remaining in Wuhan, while 15,000 people were living in non-Wuhan areas. If based on the 0.6% rate, Wuhan city had about 84,000 infected people. 54,000 people were remaining in Wuhan, while 30,000 people were living in non-Wuhan areas",
+            "The number of confirmed cases in Wenzhou has more than doubled under strict preventive measures such as the collection of suspected cases and concentrated isolation of those in close contact during passed ten more days since January 29, 2020. However, Wuhan City isolated suspected cases and diagnosed patients with mild illness in their homes, which increased the possibility of family infection during this period. Therefore, the number of people infected in Wuhan was estimated to be between 54,000 and 90,000. The number of people infected in other areas was estimated at 3050,000. The total number of people infected nationwide is 84,000-140,000. Since 70% of the 5 million people who left Wuhan were returning to other parts of Hubei, the",
+            "estimated number of people infected in the non-Wuhan region was 21,000-35,000. The number of infected persons in other provinces was estimated at 9-15,000.",
+            "Total of 10,540 people had been diagnosed in other provinces on February 9, 2020. This data is accurate because it was not intentionally not subjected to nucleic acid testing. Combined with the number of infected and undiagnosed patients, the number of infected persons in other provinces fell within the range of 9-15,000, which is more consistent with the estimated value of this paper. The number of people returned from Wuhan to other provinces is 1.5 million, accounting for more than 10% of the total population of 14 million. Thus, the infection rate of 0.3% is a very conservative rate before January 29, 2020."
+        ],
+        "Conclusions:": [
+            "(1)The current measures of infected patients are yet to be upgraded. According to the most conservative estimate of 54,000 infections in Wuhan. The current 8,000-plus beds in hospital wards and the 20000 beds in square-class hospitals are far away from meeting the actual needs. (2)According to the most conservative estimate of 21,000 infections in the cities in Hubei province except Wuhan, the number of suffered people, 12729, by February 9 2020, are also to be upgraded."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "samples",
+            "number": 2,
+            "context": "Simultaneously, another different samples of Wuhan tourists to Singapore will be used to validate the infection rate in Wenzhou city. <mark class=\"stats\">Combined these two samples, we give the estimation of the number of infected patients in Wuhan and other prefecture-level cities in Hubei Province</mark>. Participants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city"
+        },
+        {
+            "participant": "Wenzhou people",
+            "number": 180000,
+            "context": "Based on this rate, it is reasonable to predict the number of the infected patients. <mark class=\"stats\">Study Design and Participants<br/><br/>Total of 180,000 Wenzhou people was in business/school or worked in Wuhan</mark>. Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020"
+        },
+        {
+            "participant": "people",
+            "number": 33000,
+            "context": "Study Design and Participants<br/><br/>Total of 180,000 Wenzhou people was in business/school or worked in Wuhan. <mark class=\"stats\">Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020</mark>. Among these 33,000 people, the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows: Time<br/><br/>Infected patients<br/><br/>Patients who traveled from Wuhan    Jan. 27    Jan.31"
+        },
+        {
+            "participant": "people",
+            "number": 33000,
+            "context": "Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020. <mark class=\"stats\">Among these 33,000 people, the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows: Time<br/><br/>Infected patients<br/><br/>Patients who traveled from Wuhan    Jan. 27    Jan.31</mark>. Feb.1"
+        },
+        {
+            "participant": "infected patients",
+            "number": 54000,
+            "context": "Based on this rate, it is reasonable to predict the number of the infected patients. <mark class=\"stats\">Main Outcome(s) and Measure(s): According to the most conservative estimate from our proposed sampling method, at least total 54,000 infected patients are in Wuhan</mark>. *1 Corresponding author, Email: jianghu.dong@unmc.edu, Department of Biostatistics, College of Public Health, University of Nebraska Medical Center, USA"
+        },
+        {
+            "participant": "Wenzhou people",
+            "number": 180000,
+            "context": "Study Design and Participants. <mark class=\"stats\">Total of 180,000 Wenzhou people was in business/school or worked in Wuhan</mark>. Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020"
+        },
+        {
+            "participant": "people",
+            "number": 33000,
+            "context": "Total of 180,000 Wenzhou people was in business/school or worked in Wuhan. <mark class=\"stats\">Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020</mark>. Among these 33,000 people, the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows: Table 1: Distribution of the new coronavirus in Wenzhou city"
+        },
+        {
+            "participant": "people",
+            "number": 33000,
+            "context": "Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020. <mark class=\"stats\">Among these 33,000 people, the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows: Table 1: Distribution of the new coronavirus in Wenzhou city</mark>. Patients who traveled from Wuhan"
+        },
+        {
+            "participant": "people",
+            "number": 5000000,
+            "context": "The infection rate of the sample can be used to estimate the overall infection rate. <mark class=\"stats\">Due to the impact of the Spring Festival and the epidemic situation, more than 5 million people have left Wuhan from the news conference of the coronavirus outbreak by Wuhan Government on Jan 26, 2019</mark>. Nine million more residences remained in Wuhan"
+        },
+        {
+            "participant": "Malaysian diagnosed patients",
+            "number": 3,
+            "context": "As of February 7, 2020, out-of-town travelers were diagnosed in Singapore, while some tourists did not suffer from the disease during their stay in Singapore but returned to China or went to a third country to suffer from the disease. <mark class=\"stats\">For example, on January 25, 2020, three Malaysian diagnosed patients arrived in Malaysia two days after they arrived in Singapore</mark>. On February 7, the Ministry of Health of Malaysia announced the new diagnosis of a 59-year-old Chinese woman who entered Malaysia from Singapore on January 21, 2020; In addition, 335 passengers arrived at Hangzhou airport from Singapore on January 24, 2020"
+        },
+        {
+            "participant": "passengers",
+            "number": 335,
+            "context": "For example, on January 25, 2020, three Malaysian diagnosed patients arrived in Malaysia two days after they arrived in Singapore. <mark class=\"stats\">On February 7, the Ministry of Health of Malaysia announced the new diagnosis of a 59-year-old Chinese woman who entered Malaysia from Singapore on January 21, 2020; In addition, 335 passengers arrived at Hangzhou airport from Singapore on January 24, 2020</mark>. Among the 335 passengers on board, there were 116 passengers from Wuhan"
+        },
+        {
+            "participant": "passengers",
+            "number": 335,
+            "context": "On February 7, the Ministry of Health of Malaysia announced the new diagnosis of a 59-year-old Chinese woman who entered Malaysia from Singapore on January 21, 2020; In addition, 335 passengers arrived at Hangzhou airport from Singapore on January 24, 2020. <mark class=\"stats\">Among the 335 passengers on board, there were 116 passengers from Wuhan</mark>. As of February 5, 2020, a total of nine passengers on board were confirmed"
+        },
+        {
+            "participant": "passengers",
+            "number": 9,
+            "context": "Among the 335 passengers on board, there were 116 passengers from Wuhan. <mark class=\"stats\">As of February 5, 2020, a total of nine passengers on board were confirmed</mark>. In all, at least 33 of the 10,680 people were diagnosed"
+        },
+        {
+            "participant": "people",
+            "number": 10680,
+            "context": "As of February 5, 2020, a total of nine passengers on board were confirmed. <mark class=\"stats\">In all, at least 33 of the 10,680 people were diagnosed</mark>. The infection rate shall not be lower than 0.3%"
+        },
+        {
+            "participant": "people",
+            "number": 42000,
+            "context": "The infection rate in Wuhan was estimated at 0.3-0.6% as of January 29 after combined with the sampling data Wuhan residents from Wenzhou and the sampling data from Wuhan tourists to Singapore. <mark class=\"stats\">Results: Wuhan city had about 42,000 people infected by Jan 29, 2020, which was calculated based on the 0.3% rate. 27,000 people were remaining in Wuhan, while 15,000 people were living in non-Wuhan areas</mark>. If based on the 0.6% rate, Wuhan city had about 84,000 infected people. 54,000 people were remaining in Wuhan, while 30,000 people were living in non-Wuhan areas"
+        },
+        {
+            "participant": "infected people",
+            "number": 84000,
+            "context": "Results: Wuhan city had about 42,000 people infected by Jan 29, 2020, which was calculated based on the 0.3% rate. 27,000 people were remaining in Wuhan, while 15,000 people were living in non-Wuhan areas. <mark class=\"stats\">If based on the 0.6% rate, Wuhan city had about 84,000 infected people. 54,000 people were remaining in Wuhan, while 30,000 people were living in non-Wuhan areas</mark>. The number of confirmed cases in Wenzhou has more than doubled under strict preventive measures such as the collection of suspected cases and concentrated isolation of those in close contact during passed ten more days since January 29, 2020"
+        },
+        {
+            "participant": "people",
+            "number": 5000000,
+            "context": "The total number of people infected nationwide is 84,000-140,000. <mark class=\"stats\">Since 70% of the 5 million people who left Wuhan were returning to other parts of Hubei, the estimated number of people infected in the non-Wuhan region was 21,000-35,000</mark>. The number of infected persons in other provinces was estimated at 9-15,000"
+        },
+        {
+            "participant": "people",
+            "number": 10540,
+            "context": "The number of infected persons in other provinces was estimated at 9-15,000. <mark class=\"stats\">Total of 10,540 people had been diagnosed in other provinces on February 9, 2020</mark>. This data is accurate because it was not intentionally not subjected to nucleic acid testing"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "sampling survey",
+        "hospital ward",
+        "non comprehensive",
+        "comprehensive survey",
+        "infected patient",
+        "wuhan tourist",
+        "wenzhou city",
+        "new coronavirus infection",
+        "collection system",
+        "disaster area",
+        "actual need",
+        "coronavirus infection",
+        "overall infection",
+        "different sample",
+        "good datum",
+        "pneumonia epidemic",
+        "datum collection",
+        "new coronavirus outbreak",
+        "overall situation",
+        "infection rate",
+        "statistical inference",
+        "current measure",
+        "level city"
+    ],
+    "keyword_relevance": {
+        "infection rate": 0.3137254902,
+        "infected patient": 0.1568627451,
+        "hospital ward": 0.0588235294,
+        "actual need": 0.0588235294,
+        "overall infection": 0.0588235294,
+        "sampling survey": 0.0392156863,
+        "comprehensive survey": 0.0392156863,
+        "new coronavirus infection": 0.0392156863,
+        "coronavirus infection": 0.0392156863,
+        "pneumonia epidemic": 0.0392156863,
+        "overall situation": 0.0392156863,
+        "current measure": 0.0392156863,
+        "collection system": 0.0196078431,
+        "disaster area": 0.0196078431,
+        "different sample": 0.0196078431,
+        "new coronavirus outbreak": 0.0196078431,
+        "non comprehensive": 0.0,
+        "wuhan tourist": 0.0,
+        "wenzhou city": 0.0,
+        "good datum": 0.0,
+        "datum collection": 0.0,
+        "statistical inference": 0.0,
+        "level city": 0.0
+    },
+    "species": [],
+    "summary": [
+        "Importance: The new coronavirus outbreak has seriously affected the quality of life in China.",
+        "Objective: To estimate the overall infected patients in Wuhan from several sampled data.",
+        "Design: The authors proposed to use the sampling survey to estimate the overall infected patients in Wuhan.",
+        "Setting: The authors estimated the overall infection rate in Wenzhou city, which has a better data collection system.",
+        "Another different samples of Wuhan tourists to Singapore will be used to validate the infection rate in Wenzhou city.",
+        "The authors give the estimation of the number of infected patients in Wuhan and other prefecture-level cities in Hubei Province.",
+        "Participants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city.",
+        "Exposures for observational studies: The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City.",
+        "The denominator is the total number of people returning to Wenzhou from Wuhan.",
+        "Main Outcome(s) and Measure(s): According to the most conservative estimate from the proposed sampling method, at least total 54,000 infected patients are in Wuhan.",
+        "*1 Corresponding author, Email: jianghu.dong@unmc.edu, Department of Biostatistics, College of Public Health, University of Nebraska Medical Center, USA.",
+        "Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020.",
+        "Given the number of samples of the person returning Wenzhou, the rate of total 14 million was less than 0.24%.",
+        "The infection rate in Wuhan was estimated at 0.3-0.6% as of January 29 after combined with the sampling data Wuhan residents from Wenzhou and the sampling data from Wuhan tourists to Singapore.",
+        "Results: Wuhan city had about 42,000 people infected by Jan 29, 2020, which was calculated based on the 0.3% rate.",
+        "The number of people infected in Wuhan was estimated to be between 54,000 and 90,000.",
+        "Since 70% of the 5 million people who left Wuhan were returning to other parts of Hubei, the estimated number of people infected in the non-Wuhan region was 21,000-35,000.",
+        "The number of people returned from Wuhan to other provinces is 1.5 million, accounting for more than 10% of the total population of 14 million.",
+        "(2)According to the most conservative estimate of 21,000 infections in the cities in Hubei province except Wuhan, the number of suffered people, 12729, by February 9 2020, are to be upgraded."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Importance: The new coronavirus outbreak has seriously affected the quality of life in China.",
+            "Objective: To estimate the overall infected patients in Wuhan from several sampled data.",
+            "Design: The authors proposed to use the sampling survey to estimate the overall infected patients in Wuhan.",
+            "Setting: The authors estimated the overall infection rate in Wenzhou city, which has a better data collection system."
+        ],
+        "Results": [
+            "Another different samples of Wuhan tourists to Singapore will be used to validate the infection rate in Wenzhou city.",
+            "The authors give the estimation of the number of infected patients in Wuhan and other prefecture-level cities in Hubei Province.",
+            "Participants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city.",
+            "Exposures for observational studies: The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City.",
+            "The denominator is the total number of people returning to Wenzhou from Wuhan.",
+            "Main Outcome(s) and Measure(s): According to the most conservative estimate from the proposed sampling method, at least total 54,000 infected patients are in Wuhan.",
+            "*1 Corresponding author, Email: jianghu.dong@unmc.edu, Department of Biostatistics, College of Public Health, University of Nebraska Medical Center, USA.",
+            "Wenzhou city had detected 33,000 people returning from Wuhan and its surrounding areas from the news conference of the coronavirus outbreak by Wenzhou city government on Jan 29, 2020.",
+            "Given the number of samples of the person returning Wenzhou, the rate of total 14 million was less than 0.24%.",
+            "The infection rate in Wuhan was estimated at 0.3-0.6% as of January 29 after combined with the sampling data Wuhan residents from Wenzhou and the sampling data from Wuhan tourists to Singapore.",
+            "Results: Wuhan city had about 42,000 people infected by Jan 29, 2020, which was calculated based on the 0.3% rate."
+        ],
+        "Conclusion": [
+            "The number of people infected in Wuhan was estimated to be between 54,000 and 90,000.",
+            "Since 70% of the 5 million people who left Wuhan were returning to other parts of Hubei, the estimated number of people infected in the non-Wuhan region was 21,000-35,000.",
+            "The number of people returned from Wuhan to other provinces is 1.5 million, accounting for more than 10% of the total population of 14 million.",
+            "(2)According to the most conservative estimate of 21,000 infections in the cities in Hubei province except Wuhan, the number of suffered people, 12729, by February 9 2020, are to be upgraded."
+        ]
+    },
+    "reference_links": [],
+    "facts": [
+        "The new coronavirus outbreak has seriously affected the quality of life in China",
+        "estimated infected patients can be helpful for the government to arrange the needed beds",
+        "The sampling survey is a kind of non-comprehensive survey",
+        "The number of people who returned from Wuhan to Wenzhou was selected from the daily notification",
+        "of the pneumonia epidemic caused by a new coronavirus infection in the city",
+        "The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City",
+        "The numerator is the number of people diagnosed",
+        "whether each person diagnosed had a history of living in Wuhan",
+        "The denominator is the total number of people returning to",
+        "reasonable to predict the number of the infected patients",
+        "Total of 180,000 Wenzhou people was in business",
+        "33,000 people returning from Wuhan",
+        "the number of cases of pneumonia infected by the new coronavirus in Wenzhou city was as follows",
+        "Patients who traveled from Wuhan Jan.31 Feb.2 Feb.3",
+        "about 42,000 people infected by Jan 29",
+        "which was calculated based on the 0.3% rate",
+        "27,000 people were remaining in Wuhan",
+        "while 15,000 people were living in non-Wuhan areas",
+        "54,000 people were remaining in Wuhan",
+        "while 30,000 people were living in non-Wuhan areas",
+        "which increased the possibility of family infection during this period",
+        "the number of people infected in Wuhan was estimated to be between",
+        "The number of people infected in other areas was estimated at",
+        "Since 70% of the 5 million people who left Wuhan were returning to other parts of Hubei",
+        "54,000 infected patients are in Wuhan",
+        "The infection rate in Wuhan was estimated at 0.3-0.6%",
+        "The number of people infected in Wuhan was estimated to be between",
+        "the estimated number of people infected in the non-Wuhan region was",
+        "The number of people returned from Wuhan to other provinces is"
+    ],
+    "claims": [
+        "Design: We proposed to use the sampling survey to estimate the overall infected patients in Wuhan"
+    ],
+    "findings": [
+        "The number of people returned from Wuhan to other provinces is 1.5 million, accounting for more than 10% of the total population of 14 million"
+    ],
+    "processes": [],
+    "key_statements": [
+        "The correct estimated infected patients can be helpful for the government to arrange the needed beds in hospital wards to meet the actual needs",
+        "Design: We proposed to use the sampling survey to estimate the overall infected patients in Wuhan",
+        "The sampling survey is a kind of non-comprehensive survey",
+        "Participants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city",
+        "Exposures for observational studies: The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City",
+        "The infection rate in Wuhan was estimated at 0.3-0.6% as of January 29 after combined with the sampling data Wuhan residents from Wenzhou and the sampling data from Wuhan tourists to Singapore"
+    ],
+    "top_statements": [
+        "Importance: The new coronavirus outbreak has seriously affected the quality of life in China",
+        "The correct estimated infected patients can be helpful for the government to arrange the needed beds in hospital wards to meet the actual needs",
+        "Design: We proposed to use the sampling survey to estimate the overall infected patients in Wuhan",
+        "The sampling survey is a kind of non-comprehensive survey",
+        "Participants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city",
+        "Exposures for observational studies: The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City"
+    ],
+    "headline": "Participants: The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city",
+    "contexts": [],
+    "abbreviations": {}
+}

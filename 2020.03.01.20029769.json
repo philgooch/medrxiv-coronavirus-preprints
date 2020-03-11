@@ -1,0 +1,681 @@
+{
+    "filename": "2020.03.01.20029769.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 1230347,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.01.20029769",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/06/2020.03.01.20029769.full.pdf"
+        },
+        "title": "The potential role of IL-6 in monitoring coronavirus disease 2019.",
+        "author": "Tao Liu, Jieying Zhang, Yuhui Yang, Liling Zhang, Hong Ma, Zhengyu Li, Jiaoyue Zhang, Ji Cheng, Xiaoyu Zhang, Gang Wu, Jianhua Yi",
+        "date": 2020,
+        "affiliations": [
+            "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022, China.",
+            "Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022, China.",
+            "Department of Endocrinology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022,China.",
+            "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022,China.",
+            "Liver intensive care unint, Zhongshan Hospital, Fudan University, Shanghai 200032, China"
+        ],
+        "abstract": "Abstract. \nBackground: \nThe outbreak of coronavirus disease 2019 (COVID-19) in Wuhan City, China spreads rapidly since December, 2019. Most patients show mild symptoms, but some of them develop into severe disease. There is currently no specific medication. The purpose of this study is to explore changes of markers in peripheral blood of severe COVID-19 patients, which may be of value in disease monitoring.\nMethods: Clinical data of patients with nonsevere and severe type COVID-19 diagnosed by laboratory test in our institution were collected. The relationship between peripheral blood cells and cytokines, clinical manifestation and outcome was analyzed.\nResults: A total of 69 severe type COVID-19 patients were included. On admission, the median age of severe cases was 56-year old, with 52.17% of female patient. The most common symptoms were fever (79.72%), coughing (63.77%), shortness of breath (57.97%) and fatigue (50.72%). Diarrhea is less common. The most common comorbidity is hypertension. Upon admission, the proportion of bilateral pulmonary involvement or interstitial pneumonia evidenced by CT imaging in severe cases was 60.87% and 27.54%, respectively. Compared with patients with nonsevere disease, those with severe disease showed lymphocytopenia. Elevated level of lactate dehydrogenase (LDH), C-reactive protein (CRP), ferritin and D-dimer was found in most cases. Two patients (2.9%) needed transfer to the intensive care unit. Baseline immunological parameters and most of the inflammatory parameters were basically within the normal range. However, baseline IL-6 was significantly increased in severe type which is closely related to the maximal body temperature during hospitalization and CT findings. Baseline IL-6 was also significantly related to the increase of baseline level of CRP, LDH, ferritin and D-dimer. The increase of baseline IL-6 level suggests that it may positively correlate with the severity of COVID-19. Among the 30 severe type patient whose level of IL-6 was assessed before and after treatment, significant decrease in IL-6 and improved CT assessment was found in 25 patients after treatment. Whereas the IL-6 level was further increased in 3 cases, which was closely related to the progression of pneumonia. It is suggested that IL-6 may be used as a biomarker for disease monitoring in severe COVID-19 patients.\nConclusion: On admission, the baseline level of IL-6, CRP, LDH and ferritin was closely related to the severity of COVID-19, and the high level of IL-6 was significantly related to the clinical manifestation of severe type patients. The decrease of IL-6 was closely related to treatment effectiveness, while the increase of IL-6 indicated disease progression. Collectively, the dynamic change of IL-6 level can be used as a marker for disease monitoring in patients with severe COVID-19.",
+        "keywords": [
+            "Coronavirus disease 2019",
+            "interleukin-6"
+        ],
+        "references": "@article{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {The Lancet},\n  volume = {2020},\n  pages = {497\u2013506},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@misc{yang-a,\n  author = {Yang, X. and Yu, Y. and Xu, J.},\n  title = {Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{luk2019a,\n  author = {Luk, H.K. and Li, X. and Fung, J. and Lau, S.K. and Woo, P.C.},\n  title = {Molecular epidemiology, evolution and phylogeny of SARS coronavirus},\n  journal = {Infection, Genetics and Evolution},\n  date = {2019},\n  language = {}\n}\n@article{zhou-a,\n  author = {Zhou, P. and Yang, X.-L. and Wang, X.-G.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  journal = {Nature},\n  volume = {2020},\n  pages = {1\u20134},\n  more-authors = {true},\n  language = {}\n}\n@misc{wang-a,\n  author = {Wang, D. and Hu, B. and Hu, C.},\n  title = {Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China. Jama 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{gupta-a,\n  author = {Gupta, K.K. and Khan, M.A. and Singh, S.K.},\n  title = {Constitutive Inflammatory Cytokine Storm: A Major Threat to Human Health},\n  journal = {Journal of Interferon & Cytokine Research},\n  volume = {2020},\n  pages = {19\u201323},\n  number = {40},\n  language = {}\n}\n@article{rose-john2017a,\n  author = {Rose-John, S. and Winthrop, K. and Calabrese, L.},\n  title = {The role of IL-6 in host defence against infections: immunobiology and clinical implications},\n  journal = {Nature Reviews Rheumatology},\n  date = {2017},\n  volume = {13},\n  pages = {399},\n  number = {7},\n  language = {}\n}\n@article{tanaka2014a,\n  author = {Tanaka, T. and Narazaki, M. and Kishimoto, T.},\n  title = {IL-6 in inflammation, immunity, and disease},\n  journal = {Cold Spring Harbor perspectives in biology},\n  date = {2014},\n  volume = {6},\n  pages = {016295},\n  number = {10},\n  language = {}\n}\n@misc{liu2020a,\n  author = {Liu, J. and Li, S. and Liu, J.},\n  title = {Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{magnan1996a,\n  author = {Magnan, A. and Mege, J.-L. and Escallier, J.-C.},\n  title = {Balance between alveolar macrophage IL-6 and TGF-beta in lung-transplant recipients. Marseille and Montr\u00e9al Lung Transplantation Group},\n  journal = {American journal of respiratory and critical care medicine},\n  date = {1996},\n  volume = {153},\n  pages = {1431\u20136},\n  more-authors = {true},\n  number = {4},\n  language = {}\n}\n@article{yiu2012a,\n  author = {Yiu, H.H. and Graham, A.L. and Stengel, R.F.},\n  title = {Dynamics of a cytokine storm},\n  journal = {PloS one},\n  date = {2012},\n  volume = {7},\n  number = {10},\n  language = {}\n}\n@misc{liu-a,\n  author = {Liu, Y. and Sun, W. and Li, J.},\n  title = {Clinical features and progression of acute respiratory distress syndrome in coronavirus disease 2019. medRxiv 2020},\n  more-authors = {true},\n  language = {}\n}\n@book{channappanavar2017a,\n  author = {Channappanavar, R. and Perlman, S.},\n  title = {Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Seminars in immunopathology},\n  publisher = {2017: Springer},\n  date = {2017},\n  pages = {529\u201339},\n  language = {}\n}\n@article{saito2018a,\n  author = {Saito, L.B. and Diaz-Satizabal, L. and Evseev, D.},\n  title = {IFN and cytokine responses in ducks to genetically similar H5N1 influenza A viruses of varying pathogenicity},\n  journal = {The Journal of general virology},\n  date = {2018},\n  volume = {99},\n  pages = {464},\n  more-authors = {true},\n  number = {4},\n  language = {}\n}\n@article{chen2001a,\n  author = {Chen, Y. and Rubin, P. and Williams, J. and Hernady, E. and Smudzin, T. and Okunieff, P.},\n  title = {Circulating IL-6 as a predictor of radiation pneumonitis},\n  journal = {International Journal of Radiation Oncology* Biology* Physics},\n  date = {2001},\n  volume = {49},\n  pages = {641\u20138},\n  number = {3},\n  language = {}\n}\n@article{maus1998a,\n  author = {Maus, U. and Rosseau, S. and Knies, U. and Seeger, W. and Lohmeyer, J.},\n  title = {Expression of pro-inflammatory cytokines by flow-sorted alveolar macrophages in severe pneumonia},\n  journal = {European Respiratory Journal},\n  date = {1998},\n  volume = {11},\n  pages = {534\u201341},\n  number = {3},\n  language = {}\n}\n@article{wang2004a,\n  author = {Wang, W.-K. and Chen, S.-Y. and Liu, I.-J.},\n  title = {Temporal Relationship of Viral Load, Ribavirin, Interleukin (IL)\u20146, IL-8, and Clinical Progression in Patients with Severe Acute Respiratory Syndrome},\n  journal = {Clinical infectious diseases},\n  date = {2004},\n  volume = {39},\n  pages = {1071\u20135},\n  more-authors = {true},\n  number = {7},\n  language = {}\n}\n@article{f2014a,\n  author = {F, Van Rhee and RS, Wong and N, Munshi},\n  title = {Siltuximab for multicentric Castleman's disease: a randomised, double-blind, placebo-controlled trial},\n  journal = {The lancet oncology},\n  date = {2014},\n  volume = {15},\n  pages = {966\u201374},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{emery2008a,\n  author = {Emery, P. and Keystone, E. and Tony, H.},\n  title = {IL-6 receptor inhibition with tocilizumab improves treatment outcomes in patients with rheumatoid arthritis refractory to anti-tumour necrosis factor biologicals: results from a 24-week multicentre randomised placebo-controlled trial},\n  journal = {Annals of the rheumatic diseases},\n  date = {2008},\n  volume = {67},\n  pages = {1516\u201323},\n  more-authors = {true},\n  number = {11},\n  language = {}\n}\n@article{norelli2018a,\n  author = {Norelli, M. and Camisa, B. and Barbiera, G.},\n  title = {Monocyte-derived IL-1 and IL-6 are differentially required for cytokine-release syndrome and neurotoxicity due to CAR},\n  journal = {Nature medicine},\n  date = {2018},\n  volume = {24},\n  pages = {739\u201348},\n  more-authors = {true},\n  number = {6},\n  language = {},\n  type = {T cells}\n}\n",
+        "references_ris": "TY  - JOUR\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - The Lancet\nVL  - 2020\nSP  - 497\nEP  - 506\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - GEN\nAU  - Yang, X.\nAU  - Yu, Y.\nAU  - Xu, J.\nTI  - Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Luk, H.K.\nAU  - Li, X.\nAU  - Fung, J.\nAU  - Lau, S.K.\nAU  - Woo, P.C.\nTI  - Molecular epidemiology, evolution and phylogeny of SARS coronavirus\nT2  - Infection, Genetics and Evolution\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nAU  - Yang, X.-L.\nAU  - Wang, X.-G.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nT2  - Nature\nVL  - 2020\nSP  - 1\nEP  - 4\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Wang, D.\nAU  - Hu, B.\nAU  - Hu, C.\nTI  - Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China. Jama 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gupta, K.K.\nAU  - Khan, M.A.\nAU  - Singh, S.K.\nTI  - Constitutive Inflammatory Cytokine Storm: A Major Threat to Human Health\nT2  - Journal of Interferon & Cytokine Research\nVL  - 2020\nSP  - 19\nEP  - 23\nIS  - 40\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rose-John, S.\nAU  - Winthrop, K.\nAU  - Calabrese, L.\nTI  - The role of IL-6 in host defence against infections: immunobiology and clinical implications\nT2  - Nature Reviews Rheumatology\nPY  - 2017\nDA  - 2017\nVL  - 13\nSP  - 399\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tanaka, T.\nAU  - Narazaki, M.\nAU  - Kishimoto, T.\nTI  - IL-6 in inflammation, immunity, and disease\nT2  - Cold Spring Harbor perspectives in biology\nPY  - 2014\nDA  - 2014\nVL  - 6\nSP  - 016295\nIS  - 10\nLA  - \nER  - \n\nTY  - GEN\nAU  - Liu, J.\nAU  - Li, S.\nAU  - Liu, J.\nTI  - Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Magnan, A.\nAU  - Mege, J.-L.\nAU  - Escallier, J.-C.\nTI  - Balance between alveolar macrophage IL-6 and TGF-beta in lung-transplant recipients. Marseille and Montr\u00e9al Lung Transplantation Group\nT2  - American journal of respiratory and critical care medicine\nPY  - 1996\nDA  - 1996\nVL  - 153\nSP  - 1431\nEP  - 6\nC1  - true\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yiu, H.H.\nAU  - Graham, A.L.\nAU  - Stengel, R.F.\nTI  - Dynamics of a cytokine storm\nT2  - PloS one\nPY  - 2012\nDA  - 2012\nVL  - 7\nIS  - 10\nLA  - \nER  - \n\nTY  - GEN\nAU  - Liu, Y.\nAU  - Sun, W.\nAU  - Li, J.\nTI  - Clinical features and progression of acute respiratory distress syndrome in coronavirus disease 2019. medRxiv 2020\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Channappanavar, R.\nAU  - Perlman, S.\nTI  - Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Seminars in immunopathology\nPB  - 2017: Springer\nPY  - 2017\nDA  - 2017\nSP  - 529\nEP  - 39\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Saito, L.B.\nAU  - Diaz-Satizabal, L.\nAU  - Evseev, D.\nTI  - IFN and cytokine responses in ducks to genetically similar H5N1 influenza A viruses of varying pathogenicity\nT2  - The Journal of general virology\nPY  - 2018\nDA  - 2018\nVL  - 99\nSP  - 464\nC1  - true\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, Y.\nAU  - Rubin, P.\nAU  - Williams, J.\nAU  - Hernady, E.\nAU  - Smudzin, T.\nAU  - Okunieff, P.\nTI  - Circulating IL-6 as a predictor of radiation pneumonitis\nT2  - International Journal of Radiation Oncology* Biology* Physics\nPY  - 2001\nDA  - 2001\nVL  - 49\nSP  - 641\nEP  - 8\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Maus, U.\nAU  - Rosseau, S.\nAU  - Knies, U.\nAU  - Seeger, W.\nAU  - Lohmeyer, J.\nTI  - Expression of pro-inflammatory cytokines by flow-sorted alveolar macrophages in severe pneumonia\nT2  - European Respiratory Journal\nPY  - 1998\nDA  - 1998\nVL  - 11\nSP  - 534\nEP  - 41\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, W.-K.\nAU  - Chen, S.-Y.\nAU  - Liu, I.-J.\nTI  - Temporal Relationship of Viral Load, Ribavirin, Interleukin (IL)\u20146, IL-8, and Clinical Progression in Patients with Severe Acute Respiratory Syndrome\nT2  - Clinical infectious diseases\nPY  - 2004\nDA  - 2004\nVL  - 39\nSP  - 1071\nEP  - 5\nC1  - true\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - F, Van Rhee\nAU  - RS, Wong\nAU  - N, Munshi\nTI  - Siltuximab for multicentric Castleman's disease: a randomised, double-blind, placebo-controlled trial\nT2  - The lancet oncology\nPY  - 2014\nDA  - 2014\nVL  - 15\nSP  - 966\nEP  - 74\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Emery, P.\nAU  - Keystone, E.\nAU  - Tony, H.\nTI  - IL-6 receptor inhibition with tocilizumab improves treatment outcomes in patients with rheumatoid arthritis refractory to anti-tumour necrosis factor biologicals: results from a 24-week multicentre randomised placebo-controlled trial\nT2  - Annals of the rheumatic diseases\nPY  - 2008\nDA  - 2008\nVL  - 67\nSP  - 1516\nEP  - 23\nC1  - true\nIS  - 11\nLA  - \nER  - \n\nTY  - GEN\nAU  - Norelli, M.\nAU  - Camisa, B.\nAU  - Barbiera, G.\nTI  - Monocyte-derived IL-1 and IL-6 are differentially required for cytokine-release syndrome and neurotoxicity due to CAR\nT2  - Nature medicine\nPY  - 2018\nDA  - 2018\nVL  - 24\nSP  - 739\nEP  - 48\nC1  - true\nIS  - 6\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Clinical characteristics of severe type COVID-19 patients"
+            },
+            {
+                "id": "2",
+                "caption": "Radiographic and laboratory findings of severe type COVID-19 patients"
+            },
+            {
+                "id": "3",
+                "caption": "Complications, treatment and outcomes of of severe type COVID-19 pneumonia patients"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "A) Neutrophils and creatinine level from severe type COVID-19patients were in the normal range in this study. Compared with nonsevere cases, lymphocytes decreased while creatine kinase (CK) increased significantly in patients with severe COVID-19. (B) The procalcitonin (PCT) of patients with severe COVID-19 was basically normal, and the level of ESR, Ferritin, CRP,D-Dimer and LDH were significantly increased. (C) Lymphocyte subgroup analysis showed that the proportion"
+            },
+            {
+                "id": "2",
+                "caption": "Compared with patients with nonsevere COVID-19, (A) the time from symptom onset to initial diagnosis (TFSD) and (B) the time from symptom onset to pneumonia (TFSP) of patients with severe COVID-19 was shorter, but there was no"
+            },
+            {
+                "id": "3",
+                "caption": "Baseline IL-6 level was correlated with clinical features. (A) The baseline IL-6 level was positively correlated with the maximal body temperature on admission. (B-E)The baseline IL-6 level was positively correlated with CRP, LDH, ferritin and D-dimer"
+            },
+            {
+                "id": "4",
+                "caption": "IL-6 and COVID-19. (A) Compared with the patients with severe COVID-19 before and after treatment, the decrease of IL-6 was positively correlated with the improvement in CT absorption, and the severity of CT images before treatment was correlated with the high level of I-L6. (B) In this study, there were 3 patients showed elevated IL-6 after treatment, and the disease of these patients exacerbated which associated with progression of CT imaging. (C) A 69-year-old female with high fever and dyspnea, and IL-6 increased to 197\u00b739 pg/ml After treatment, IL-6 decreased to 9\u00b747 pg/mL, but the symptoms were not relieved. Chest X-ray showed that pneumonia worsened, CRP increased again, and PCT increased significantly. Follow up sputum culture confirmed the exacerbation was caused by"
+            },
+            {
+                "id": "5",
+                "caption": "A case of a male 59-year-old COVID-19 patient. (A) This patient was diagnosed with COVID-19 after 5 days of fever, and their body temperature decreased after 2 days of treatment and had stayed normal for 2 weeks. (B) The PCT value was normal throughout the course of disease. (C) The number of lymphocytes in peripheral blood. (D) The curve of the CRP value changes. (E) The IL-6 value was 9\u00b772 pg/mL on the fifth day from symptom onset, while chest CT scan was normal. On the tenth day, IL-6 increased to 40\u00b79 pg/mL, chest CT suggested multiple patchy ground glass opacities in bilateral lungs. On the twenty-fifth day, IL-6 decreased to 3\u00b705mL, CT scan indicated that the bilateral patchy ground glass opacities were smaller than before, and the symptoms of the patients were significantly improved"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.01.20029769.full.pdf_nddeg66y_51prxehr.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20029769.full.pdf_nddeg66y_images_mqgi109i/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20029769.full.pdf_nddeg66y_images_mqgi109i/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20029769.full.pdf_nddeg66y_images_mqgi109i/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20029769.full.pdf_nddeg66y_images_mqgi109i/img-003.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20029769.full.pdf_nddeg66y_images_mqgi109i/img-004.png"
+        ]
+    },
+    "sections": {
+        "methods": [
+            "Data collection. COVID-19 was diagnosed in accordance with the WHO interim guidance. A confirmed case of COVID-19 was defined as positive for SARS-CoV-2 nucleic acid on high-throughput sequencing or real-time reverse transcriptase polymerase chain reaction (RT-PCR) assays of nasal and pharyngeal swab specimens. Only laboratory-confirmed cases were included in this study, while disease diagnosed based on clinical presentation and imaging findings, but not on SARS-CoV-2 detection, were excluded. The severity of COVID-19 is classified according to the Diagnosis and Treatment Plan of Pneumonia Infected by Novel Coronavirus (trial Fifth Edition) of the Health and Health Commission of the People's Republic of China. Severe case is defined when any of the following criteria is met: 1. shortness of breath, RR \u2265 30 times / min; 2. the oxygen saturation is less than 93% in resting state; 3. arterial partial pressure of oxygen (PaO2) / oxygen concentration (FiO2) \u2264 300mmHg (l mmHg=0.133kPa). If the pulmonary lesion progressed more than 50% within 24 to 48 hours as evidenced by radiologic assessment, clinical management should be complied with the severe type. We collected data of 69 patients with severe type COVID-19 between January 21 and February 16, 2020 hospitalized in the Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology. A retrospective study on the clinical characteristics and laboratory examination was conducted. 11 nonsevere COVID-19 patients were included for comparison. This study was approved by the Research Ethics Committee of Tongji Medical College, Huazhong University of Science and Technology. Written consent was obtained from patients before the enrollment."
+        ],
+        "results": [
+            "In this study, a total of 69 severe cases were included. The median age was 56. Female accounted for 52.17% of the enrolled cases. The smoking rate was 11.59%. Fever (79.72%), coughing (63.77%), shortness of breath (57.97%) and fatigue (50.72%) are the most common symptoms, while diarrhea (15.94%), vomiting (7.25%) and sore throat (5.80%) are relatively rare. 36.23% of patients had at least one comorbidity (hypertension, chronic obstructive pulmonary disease, coronary heart disease, hepatitis B virus infection), and there were 4 cases of tumor. Another 11 nonsevere cases were also enrolled (Table 1)."
+        ],
+        "discussion": [
+            "This study shows that most of the severe cases of COVID-19 have the initial symptoms of fever, coughing, shortness of breath and fatigue, while diarrhea is not common. Compared with the nonsevere cases, the imaging findings mainly involve bilateral and interstitial pulmonary changes. In patients with severe disease, more intensive and supportive treatment, including glucocorticoid, human immunoglobulin, interferon-\u03b1, antibiotics, antiviral therapy (Oseltamivir and Abidol) and oxygen therapy, was given and relieved symptoms were observed in most cases. The time from initial symptoms to pneumonia in severe COVID-19 patients is shorter, the median recovery time is longer, and the onset of severe type is more rapid than the nonsevere type.<br/><br/>Previous studies have suggested that lymphocytopenia and inflammatory cytokine storm are associated with the severity of highly pathogenic coronavirus infection[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>, <a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Cytokines are signaling peptides, proteins, or glycoproteins that are secreted by many cell types, including immune, epithelial, endothelial, and smooth muscle cells. Cytokines allow context-dependent communication within the body[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. If the interactions that lead to cytokine production are destabilized, a \"cytokine storm\" can result, producing unbridled inflammation within tissues and key organs.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] Cytokine storms are associated with sepsis and septic shock, influenza, acute respiratory distress, and toxic response to medication and so on[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. IL-1, IL-6, IL-10, and TNF-a have the highest degree of variability in response to uncertain initial conditions, exogenous effects, and parameter estimates. They have been implicated in the 1918 Spanish flu pandemic, the 2003 severe acute respiratory syndrome (SARS) outbreak, and the H5N1 avian influenza infections firstly recognized in 19877, 15, 16. Similarly, recent studies on COVID-19 patients have also reported a decrease in peripheral blood lymphocyte count and an increase in serum inflammatory cytokine levels 2, 11. Cytokine storms, that is, inflammatory storms which can quickly cause single or multiple organ failure and ultimately can be life-threatening, are considered to be an important cause of death in patients with severe COVID-19. SARS-CoV-2 infection can rapidly activate pathogenic T cells and produce granulocyte-macrophage colony stimulating factor (GM-CSF) and IL-6. GM-CSF will further activate CD14+CD16+ inflammatory monocytes and produce more IL-6 and other inflammatory factors, resulting in a cytokine storm that causes severe immune damage to the lungs and other organs[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. Results of this study suggest that compared with the common type, the changes in immunological parameters and cytokine level in severe disease are inconspicuous. There was only mild variation \u03b3 in IL-2, IL-4, IL-10, TNF-a, IFN- level before and after treatment, all of which fluctuated within the normal range. Elevated CRP, ferritin, IL-6 and LDH are associated with longer treatment period and more intensive treatment, which included glucocorticoids, human immunoglobulin, stronger antibiotics, high flow oxygen inhalation or ventilator. Collectively, it showed that the abovementioned parameters were closely related to disease severity. Further analysis showed that the changes in IL-6 were closely related to the disease. In this study, CRP, ferritin and IL-6, LDH decreased significantly after cure, while as the disease progressed, IL-6 was further increased and pulmonary lesions deteriorate as evidenced by CT scan, suggesting that IL-6 may be a valuable candidate for disease monitoring. Among the cases included, only 1 severe case showed low IL-6 level as disease progressed. In this case, to our interest, the lung progression was caused by bacterial infection, but not viral infection, which might suggest the specificity of IL-6 in COVID-19. IL-6 is synthesized by a variety of cells in the lung parenchyma, including the alveolar macrophages, type II pneumocytes, T lymphocytes, and lung fibroblasts. IL-6 is a pleiotropic cytokine important in regulating immunologic and inflammatory responses. IL-6 has been further implicated in regulating immune response, autoimmune mechanisms, and acute phase responses[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. IL-6 being an acute phase inflammatory cytokine suggests that measurement of circulating IL-6 can reflect the inflammatory state of the lung[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. This is supported by the often observed increase of IL-6 in acute respiratory distress syndrome, and in patients with acute complications of lung transplantation[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>, <a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Our patients with COVID-19 demonstrated higher circulating level of IL-6 during and immediately after diagnosis, a finding that supports a shared mechanism of cytokine-mediated lung injury caused by infectious agents. However the mechanism for IL-6 involvement in viral pneumonitis deserves further investigation. Siltuximab and tocilizumab are monoclonal antibodies (mAb) targeted against IL-6 and its receptor (IL6R)[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>, <a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. Both siltuximab and tocilizumab have been used to treat cytokine release syndrome following CAR-gaT therapy. Since we have found that IL-6 may be related to COVID-19 severity, we suggest that targeting IL-6 may ameliorate cytokine storm-related symptoms in severe COVID-19 cases 22, 23. In conclusion, severe COVID-19 patients require more intensive treatment, and the prognosis is relatively poor. IL-6 is positively correlated with disease severity, since it decreases with the remission and increases with the aggravation of the disease. Therefore, IL-6 may be an ideal marker of the disease. However, the relationship between IL-6 and the pathogenesis of COVID-19 remains elusive. IL-6 and IL6R antibodies may be effective in treating inflammatory cytokine storm during disease progression."
+        ],
+        "disclosures": [
+            "All authors declare no competing interests."
+        ],
+        "funding": [
+            "This work was supported by the National Natural Science Foundation of China (No 81602696 to TL) and Science and Technology Major Project of China (No.2018ZX10302204-002-003). Reference: 1. Guan W-j, Ni Z-y, Hu Y, et al Clinical characteristics of 2019 novel coronavirus infection in China.  medRxiv 2020. 2. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 2020; 395(10223): 497-506. 3. Yang X, Yu Y, Xu J, et al Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine 2020."
+        ],
+        "ethical_compliance": [
+            "This study was approved by the Research Ethics Committee of Tongji Medical College, Huazhong University of Science and Technology",
+            "Written consent was obtained from patients before the enrollment"
+        ],
+        "introduction": [
+            "In early December, 2019, the first case of pneumonia of unknown origin was reported in Wuhan City, Hubei Province, China, which was highly contagious and rapidly spread nationwide and worldwide[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. A new \u03b2-coronavirus was identified by high-throughput sequencing and it is named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) which shared phylogenetic similarity to the severe acute respiratory syndrome coronavirus (SARS-CoV) that caused the outbreak of SARS in 20031, 4, 5. Disease caused by SARS-CoV-2 was then officially named coronavirus disease 2019 (COVID-19) by World Health Organization (WHO). Analysis of the epidemiological pattern curve of COVID-19 showed that the overall epidemic pattern was aggregation outbreak. Most cases were mild and curable, and the overall crude mortality was low[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. However, patients with severe disease showed respiratory dysfunction and high mortality rate[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. By February 16, 2020, a total number of 57934 cases were reported in mainland China, including 10644 severe cases. As the outbreak area of COVID-19, the total number of confirmed cases in Hubei is 49847, with 9797 (19.6%) severe cases and an overall mortality rate of 3.4%. The disease incidence and mortality rate of severe COVID-19 in Hubei is relatively high as compared with other areas in China.",
+            "At present, the monitoring of severe cases mainly rely on the observation of clinical manifestation, since there is no effective marker nor medication[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Previous studies have suggested that lymphocytopenia and inflammatory cytokine storm are typical abnormalies in infections caused by highly pathogenic coronavirus, such as SARS and MERS, and are considered disease severity related[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. Similarly, recent studies on COVID-19 patients have reported a decrease in peripheral blood lymphocyte count and an increase in serum inflammatory cytokines[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. A better understanding of the clinical features of COVID-19 is urgently needed in order to screen out reliable markers for inflammation monitoring and effective medication. According to previous relevant literature on viral pneumonia and the current clinical treatment experience on severe type of COVID-19, it is suggested that the storm of inflammatory factors may be the main reason for rapid disease progression and poor treatment response[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. In this study by collecting data of laboratory confirmed severe cases, we tried to analyze the clinical features and inflammatory markers in patients with severe type COVID-19 in Wuhan City to explore biomarkers for disease monitoring and treatment screening."
+        ]
+    },
+    "structured_content": {
+        "Results": [
+            "In this study, a total of 69 severe cases were included. The median age was 56. Female accounted for 52.17% of the enrolled cases. The smoking rate was 11.59%. Fever (79.72%), coughing (63.77%), shortness of breath (57.97%) and fatigue (50.72%) are the most common symptoms, while diarrhea (15.94%), vomiting (7.25%) and sore throat (5.80%) are relatively rare. 36.23% of patients had at least one comorbidity (hypertension, chronic obstructive pulmonary disease, coronary heart disease, hepatitis B virus infection), and there were 4 cases of tumor. Another 11 nonsevere cases were also enrolled (Table 1).",
+            "The most common CT findings in severe cases upon admission are bilateral patchy shadow (60.87%) and interstitial pneumonia (27.54%), while the common type mainly manifested as focal ground glass opacity and patchy shadow (54.5%) (Table 2). Baseline neutrocytopenia, lymphocytopenia and thrombocytopenia were observed in 13.04%, 79.71% and 24.64% of the severe type patients upon admission, respectively (Table 2) and lymphocyte count was significantly less than the nonsevere cases (Figure 1. A). Creatine kinase increased in 14.49% of the cases, while increased level of alanine aminotransferase, aspartate aminotransferase was more common and both was detected in 37.68% of the cases (Table 2). Baseline inflammatory level, PCT change is not obvious. Most patients showed increased level of D-dimer and ESR, and significantly increased level of LDH, CRP and ferittin (Figure 1. B). 7 patients developed acute respiratory distress syndrome and 1 got septic shock (Table3). 89.86% of the severe type patients was given antibiotics, 63.77% was given antiviral therapy (20.29% with Oseltamivir, 52.17% with Arbidol), 42.03% was given glucocorticoids, 50.72% was given human immunoglobulin and 7.25% was given Klitsch (Table 3). Most of the severe type patients needed oxygen therapy, 27.54% needed high-flow oxygen therapy, non-invasive ventilator therapy and invasive ventilator therapy (Table 3). For clinical outcome of the enrolled patients with severe disease, 53.62% were cured, 3 patients (4.35%) needed transfer to the intensive care unit, 46.38% were still hospitalized, and there was no death case (Table 3). Compared with patients with nonsevere COVID-19, the time from symptom onset to initial diagnosis and the time from symptom onset to pneumonia of",
+            "> patients with severe disease was shorter, but it was not significant (P 0.05) (Figure 2. A,B).",
+            "There was no significant difference in the time from symptom onset to treatment, and the time",
+            "> from developing pneumonia to recovery in patients with severe disease was longer (P 0.05)",
+            "( Figure 2.C, D).",
+            "Among the immunological findings, the baseline proportion of CD4+ T cells, CD8+ T cells, B cells, natural killer (NK) cells, and the CD4+ T cells/CD8+ T cells ratio are basically within the normal range ( Figure 1. C). The baseline level of IL-2, IL-4, IL-10, TNF- \u03b1 and IFN- \u03b3 was within normal range, while IL-10 was slightly increased and IL-6 was increased significantly in severe cases than the nonsevere cases (Figure 1. D). The baseline high IL-6 level was positively correlated with bilateral and interstitial pulmonary involvement (r=0.453, P=0.001). Meanwhile, the baseline IL-6 levels was closely related to the maximal body temperature during hospitalization (r=0.521,P=0.00) ( Figure 3. A), and it is also significantly related to the increase of CRP (r=0.781, P=0.001), LDH (r=0.749, P=0.001), ferritin (r=0.606, P=0.001) and D-dimer (r=0.679, P=0.001) (Figure 3. B-E). The increase of baseline IL-6 suggested that it was positively correlated with the severity of COVID-19. We found the tendency showing that the lower the IL-6 level, the shorter the time lapse from diagnosis to cure (r=0.049, P=0.763), whereas the higher the IL-6 level, the shorter the time lapse from symptom onset to pneumonia diagnosis (r= - 0.116, P=0.345), although there is no significant difference. The higher level of IL-6 related to glucocorticords (r=0.301, P=0.001), human immunoglobulin (r=0.147, P=0.118), high flow oxygen inhalation (r=0.251, P=0.007), ventilator therapy (r=0.223, P=0.017).",
+            "Among the 30 patients whose IL-6 was assessed before and after treatment, 26 patients showed significantly decreased IL-6 level and improved CT assessments after treatment (Figure 4. A). Disease of the other 4 patients progressed continuously. Among them, 3 patients showed persistent increase of IL-6 (Figure 4. B), while the change in IL-6 in 1 patient was not obvious. For this patient, there was an increase in PCT level, and the progression of lung disease was confirmed as bacterial, but not viral pneumonia (Figure 4. C). Finally, as shown in Figure 5, with the remission of disease, IL-6 decreased significantly, D-dimer and CRP, LDH also decreased significantly, and all of them were associated with the resolution of clinical manifestation and CT images."
+        ],
+        "Discussion": [
+            "This study shows that most of the severe cases of COVID-19 have the initial symptoms of fever, coughing, shortness of breath and fatigue, while diarrhea is not common. Compared with the nonsevere cases, the imaging findings mainly involve bilateral and interstitial pulmonary changes. In patients with severe disease, more intensive and supportive treatment, including glucocorticoid, human immunoglobulin, interferon-\u03b1, antibiotics, antiviral therapy (Oseltamivir and Abidol) and oxygen therapy, was given and relieved symptoms were observed in most cases. The time from initial symptoms to pneumonia in severe COVID-19 patients is shorter, the median recovery time is longer, and the onset of severe type is more rapid than the nonsevere type.",
+            "Previous studies have suggested that lymphocytopenia and inflammatory cytokine storm are associated with the severity of highly pathogenic coronavirus infection[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>, <a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Cytokines are signaling peptides, proteins, or glycoproteins that are secreted by many cell types, including immune, epithelial, endothelial, and smooth muscle cells. Cytokines allow context-dependent communication within the body[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. If the interactions that lead to cytokine production are destabilized, a \"cytokine storm\" can result, producing unbridled inflammation within tissues and key organs.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] Cytokine storms are associated with sepsis and septic shock, influenza, acute respiratory distress, and toxic response to medication and so on[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. IL-1, IL-6, IL-10, and TNF-a have the highest degree of variability in response to uncertain initial conditions, exogenous effects, and parameter estimates. They have been implicated in the 1918 Spanish flu pandemic, the 2003 severe acute respiratory syndrome (SARS) outbreak, and the H5N1 avian influenza infections firstly recognized in 19877, 15, 16. Similarly, recent studies on COVID-19 patients have also reported a decrease in peripheral blood lymphocyte count and an increase in serum inflammatory cytokine levels 2, 11. Cytokine storms, that is, inflammatory storms which can quickly cause single or multiple organ failure and ultimately can be life-threatening, are considered to be an important cause of death in patients with severe COVID-19. SARS-CoV-2 infection can rapidly activate pathogenic T cells and produce granulocyte-macrophage colony stimulating factor (GM-CSF) and IL-6. GM-CSF will further activate CD14+CD16+ inflammatory monocytes and produce more IL-6 and other inflammatory factors, resulting in a cytokine storm that causes severe immune damage to the lungs and other organs[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. Results of this study suggest that compared with the common type, the changes in immunological parameters and cytokine level in severe disease are inconspicuous. There was only mild variation \u03b3 in IL-2, IL-4, IL-10, TNF-a, IFN- level before and after treatment, all of which fluctuated within the normal range. Elevated CRP, ferritin, IL-6 and LDH are associated with longer treatment period and more intensive treatment, which included glucocorticoids, human immunoglobulin, stronger antibiotics, high flow oxygen inhalation or ventilator. Collectively, it showed that the abovementioned parameters were closely related to disease severity. Further analysis showed that the changes in IL-6 were closely related to the disease. In this study, CRP, ferritin and IL-6, LDH decreased significantly after cure, while as the disease progressed, IL-6 was further increased and pulmonary lesions deteriorate as evidenced by CT scan, suggesting that IL-6 may be a valuable candidate for disease monitoring. Among the cases included, only 1 severe case showed low IL-6 level as disease progressed. In this case, to our interest, the lung progression was caused by bacterial infection, but not viral infection, which might suggest the specificity of IL-6 in COVID-19. IL-6 is synthesized by a variety of cells in the lung parenchyma, including the alveolar macrophages, type II pneumocytes, T lymphocytes, and lung fibroblasts. IL-6 is a pleiotropic cytokine important in regulating immunologic and inflammatory responses. IL-6 has been further implicated in regulating immune response, autoimmune mechanisms, and acute phase responses[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. IL-6 being an acute phase inflammatory cytokine suggests that measurement of circulating IL-6 can reflect the inflammatory state of the lung[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. This is supported by the often observed increase of IL-6 in acute respiratory distress syndrome, and in patients with acute complications of lung transplantation[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>, <a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Our patients with COVID-19 demonstrated higher circulating level of IL-6 during and immediately after diagnosis, a finding that supports a shared mechanism of cytokine-mediated lung injury caused by infectious agents. However the mechanism for IL-6 involvement in viral pneumonitis deserves further investigation. Siltuximab and tocilizumab are monoclonal antibodies (mAb) targeted against IL-6 and its receptor (IL6R)[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>, <a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. Both siltuximab and tocilizumab have been used to treat cytokine release syndrome following CAR-gaT therapy. Since we have found that IL-6 may be related to COVID-19 severity, we suggest that targeting IL-6 may ameliorate cytokine storm-related symptoms in severe COVID-19 cases 22, 23. In conclusion, severe COVID-19 patients require more intensive treatment, and the prognosis is relatively poor. IL-6 is positively correlated with disease severity, since it decreases with the remission and increases with the aggravation of the disease. Therefore, IL-6 may be an ideal marker of the disease. However, the relationship between IL-6 and the pathogenesis of COVID-19 remains elusive. IL-6 and IL6R antibodies may be effective in treating inflammatory cytokine storm during disease progression.",
+            "Contributors TL and JHY had the idea for and designed the study and had full access to all data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. JYZ, YHY, LLZ, HM, ZYL contributed to writing of the report. GW and JHY contributed to critical revision of the report. TL, JYZ, XYZ and JC contributed to the statistical analysis. All authors contributed to data acquisition, data analysis, or data interpretation, and reviewed and approved the final version."
+        ],
+        "Declaration of interests": [
+            "All authors declare no competing interests."
+        ],
+        "Funding": [
+            "This work was supported by the National Natural Science Foundation of China (No 81602696 to",
+            "TL) and Science and Technology Major Project of China (No.2018ZX10302204-002-003).",
+            "Reference: 1. Guan W-j, Ni Z-y, Hu Y, et al Clinical characteristics of 2019 novel coronavirus infection in China.",
+            "medRxiv 2020.",
+            "2. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in",
+            "Wuhan, China. The Lancet 2020; 395(10223): 497-506.",
+            "3. Yang X, Yu Y, Xu J, et al Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine 2020.",
+            "4. Luk HK, Li X, Fung J, Lau SK, Woo PC. Molecular epidemiology, evolution and phylogeny of SARS coronavirus. Infection, Genetics and Evolution 2019.",
+            "5. Zhou P, Yang X-L, Wang X-G, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020: 1-4.",
+            "6. Wang D, Hu B, Hu C, et al Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China. Jama 2020.",
+            "7. Gupta KK, Khan MA, Singh SK. Constitutive Inflammatory Cytokine Storm: A Major Threat to",
+            "Human Health. Journal of Interferon & Cytokine Research 2020; 40(1): 19-23.",
+            "8. Lucena-Silva N, Torres LC, Luna CF, de Barros Correia J, da Silva GAP. The balance between the",
+            "BMC serum levels of IL-6 and IL-10 cytokines discriminates mild and severe acute pneumonia. pulmonary medicine 2016; 16(1): 170.",
+            "9. Rose-John S, Winthrop K, Calabrese L. The role of IL-6 in host defence against infections: immunobiology and clinical implications. Nature Reviews Rheumatology 2017; 13(7): 399. 10. Tanaka T, Narazaki M, Kishimoto T. IL-6 in inflammation, immunity, and disease. Cold Spring Harbor perspectives in biology 2014; 6(10): a016295.",
+            "11. Liu J, Li S, Liu J, et al Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients. 2020. 12. Magnan A, Mege J-L, Escallier J-C, et al Balance between alveolar macrophage IL-6 and TGF-beta in lung-transplant recipients. Marseille and Montr\u00e9al Lung Transplantation Group. American journal of respiratory and critical care medicine 1996; 153(4): 1431-6. 13. Yiu HH, Graham AL, Stengel RF. Dynamics of a cytokine storm. PloS one 2012; 7(10).",
+            "14. Liu Y, Sun W, Li J, et al Clinical features and progression of acute respiratory distress syndrome in coronavirus disease 2019. medRxiv 2020.",
+            "15. Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Seminars in immunopathology; 2017: Springer; 2017. p. 529-39. 16. Saito LB, Diaz-Satizabal L, Evseev D, et al IFN and cytokine responses in ducks to genetically similar H5N1 influenza A viruses of varying pathogenicity. The Journal of general virology 2018; 99(4): 464. 17. Zhou Y, Fu B, Zheng X, et al Aberrant pathogenic GM-CSF+ T cells and inflammatory CD14+",
+            "CD16+ monocytes in severe pulmonary syndrome patients of a new coronavirus. bioRxiv 2020.",
+            "18. Chen Y, Rubin P, Williams J, Hernady E, Smudzin T, Okunieff P. Circulating IL-6 as a predictor of radiation pneumonitis. International Journal of Radiation Oncology* Biology* Physics 2001; 49(3): 641-8. 19. Maus U, Rosseau S, Knies U, Seeger W, Lohmeyer J. Expression of pro-inflammatory cytokines by flow-sorted alveolar macrophages in severe pneumonia. European Respiratory Journal 1998; 11(3): 534-41. 20. Wang W-K, Chen S-Y, Liu I-J, et al Temporal Relationship of Viral Load, Ribavirin, Interleukin (IL)\u20146, IL-8, and Clinical Progression in Patients with Severe Acute Respiratory Syndrome. Clinical infectious diseases 2004; 39(7): 1071-5.",
+            "21. Van Rhee F, Wong RS, Munshi N, et al Siltuximab for multicentric Castleman's disease: a randomised, double-blind, placebo-controlled trial. The lancet oncology 2014; 15(9): 966-74.",
+            "22. Emery P, Keystone E, Tony H, et al IL-6 receptor inhibition with tocilizumab improves treatment outcomes in patients with rheumatoid arthritis refractory to anti-tumour necrosis factor biologicals: results from a 24-week multicentre randomised placebo-controlled trial. Annals of the rheumatic diseases 2008; 67(11): 1516-23.",
+            "23. Norelli M, Camisa B, Barbiera G, et al Monocyte-derived IL-1 and IL-6 are differentially required for cytokine-release syndrome and neurotoxicity due to CAR T cells. Nature medicine 2018; 24(6): 739-48.",
+            "Male Female Smoking historyNo\u00b7/total No\u00b7 (%) Non-smoker Smoker Respiratory symptoms-No\u00b7/total No\u00b7 (%)",
+            "Data are presented as medians (interquartile ranges, IQR) and n/N (%).",
+            "P values denoted the comparison between nonsevere and severe cases.",
+            "No\u00b7/total No\u00b7 (%) Ground glass opacity Local patchy shadowing Bilateral patchy shadowing Interstitial abnormalities",
+            "Plus\u2013minus values are means \u00b1 SD\u00b7 P values denoted the comparison between nonsevere and severe cases.",
+            "Median, interquartile range Mean \u00b1 standard deviation Time from the symptom onset to initial diagnosis-days deviation Time from the symptom onset to pneumonia-days deviation Time from developing pneumonia to Recovered-days deviation Supportive treatment-No\u00b7/total",
+            "No\u00b7 (%) Administration of antibiotics Administration of oseltamivir Administration of ribavirin, ganciclovir or",
+            "peramivir Administration of arbidol Administration of antifungal medications Use of intravenous immunoglobin Administration of systemic corticosteroids Nebulized inhalation of interferon Administration of Lopina Vilito Nawei tablets Oxygen therapy High-flow nasal cannula Mechanical ventilation",
+            "T cells ratio fluctuated within the normal range, and there was no significant difference between the two groups. (D) Cytokine profile analysis showed that compared with nonsevere type. IL-2, IL-4, TNF-\u03b1 and IFN-\u03b3 were in the normal range while IL-10 increased slightly and IL-6 increased significantly in patients with severe COVID-19.",
+            "> significant difference (P 0\u00b705). (C) There was no significant difference in time from symptom onset to treatment (TFST), and the (D) time from developing pneumonia to",
+            "> recovery (TFPR) of patients with severe COVID-19 was longer (P 0\u00b705)."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 2,
+            "context": "Elevated level of lactate dehydrogenase (LDH), C-reactive protein (CRP), ferritin and D-dimer was found in most cases. <mark class=\"stats\">Two patients (2.9%) needed transfer to the intensive care unit</mark>. Baseline immunological parameters and most of the inflammatory parameters were basically within the normal range"
+        },
+        {
+            "participant": "patients",
+            "number": 25,
+            "context": "The increase of baseline IL-6 level suggests that it may positively correlate with the severity of COVID-19. <mark class=\"stats\">Among the 30 severe type patient whose level of IL-6 was assessed before and after treatment, significant decrease in IL-6 and improved CT assessment was found in 25 patients after treatment</mark>. Whereas the IL-6 level was further increased in 3 cases, which was closely related to the progression of pneumonia"
+        },
+        {
+            "participant": "cases",
+            "number": 3,
+            "context": "Among the 30 severe type patient whose level of IL-6 was assessed before and after treatment, significant decrease in IL-6 and improved CT assessment was found in 25 patients after treatment. <mark class=\"stats\">Whereas the IL-6 level was further increased in 3 cases, which was closely related to the progression of pneumonia</mark>. It is suggested that IL-6 may be used as a biomarker for disease monitoring in severe COVID-19 patients"
+        },
+        {
+            "participant": "patients with severe type COVID-19 between January 21 and",
+            "number": 69,
+            "context": "If the pulmonary lesion progressed more than 50% within 24 to 48 hours as evidenced by radiologic assessment, clinical management should be complied with the severe type. <mark class=\"stats\">We collected data of 69 patients with severe type COVID-19 between January 21 and February 16, 2020 hospitalized in the Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology</mark>. A retrospective study on the clinical characteristics and laboratory examination was conducted. 11 nonsevere COVID-19 patients were included for comparison"
+        },
+        {
+            "participant": "cases",
+            "number": 57934,
+            "context": "However, patients with severe disease showed respiratory dysfunction and high mortality rate1, 3. <mark class=\"stats\">By February 16, 2020, a total number of 57934 cases were reported in mainland China, including 10644 severe cases</mark>. As the outbreak area of COVID-19, the total number of confirmed cases in Hubei is 49847, with 9797 (19.6%) severe cases and an overall mortality rate of 3.4%"
+        },
+        {
+            "participant": "severe type patients",
+            "number": 30,
+            "context": "Laboratory tests included baseline whole blood cell count, blood chemistry, coagulation test, C-reactive protein (CRP), procalcitonin (PCT), lactate dehydrogenase (LDH), ferritin, erythrocyte sedimentation rate (ESR), creatine kinase (CK), and lymphocyte subset and cytokine profile analysis. <mark class=\"stats\">Follow up on cytokine profile was conducted in 30 severe type patients after treatment</mark>. Treatment plan are recorded"
+        },
+        {
+            "participant": "severe cases",
+            "number": 69,
+            "context": "The significance threshold was set at a P<0.05. <mark class=\"stats\">Results In this study, a total of 69 severe cases were included</mark>. The median age was 56"
+        },
+        {
+            "participant": "cases",
+            "number": 4,
+            "context": "The smoking rate was 11.59%. <mark class=\"stats\">Fever (79.72%), coughing (63.77%), shortness of breath (57.97%) and fatigue (50.72%) are the most common symptoms, while diarrhea (15.94%), vomiting (7.25%) and sore throat (5.80%) are relatively rare. 36.23% of patients had at least one comorbidity (hypertension, chronic obstructive pulmonary disease, coronary heart disease, hepatitis B virus infection), and there were 4 cases of tumor</mark>. Another 11 nonsevere cases were also enrolled (Table 1)"
+        },
+        {
+            "participant": "nonsevere cases",
+            "number": 11,
+            "context": "Fever (79.72%), coughing (63.77%), shortness of breath (57.97%) and fatigue (50.72%) are the most common symptoms, while diarrhea (15.94%), vomiting (7.25%) and sore throat (5.80%) are relatively rare. 36.23% of patients had at least one comorbidity (hypertension, chronic obstructive pulmonary disease, coronary heart disease, hepatitis B virus infection), and there were 4 cases of tumor. <mark class=\"stats\">Another 11 nonsevere cases were also enrolled (Table 1)</mark>. The most common CT findings in severe cases upon admission are bilateral patchy shadow (60.87%) and interstitial pneumonia (27.54%), while the common type mainly manifested as focal ground glass opacity and patchy shadow (54.5%) (Table 2)"
+        },
+        {
+            "participant": "patients",
+            "number": 7,
+            "context": "Most patients showed increased level of D-dimer and ESR, and significantly increased level of LDH, CRP and ferittin (Figure 1. <mark class=\"stats\">B). 7 patients developed acute respiratory distress syndrome and 1 got septic shock (Table3). 89.86% of the severe type patients was given antibiotics, 63.77% was given antiviral therapy (20.29% with Oseltamivir, 52.17% with Arbidol), 42.03% was given glucocorticoids, 50.72% was given human immunoglobulin and 7.25% was given Klitsch (Table 3)</mark>. Most of the severe type patients needed oxygen therapy, 27.54% needed high-flow oxygen therapy, non-invasive ventilator therapy and invasive ventilator therapy (Table 3)"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Most of the severe type patients needed oxygen therapy, 27.54% needed high-flow oxygen therapy, non-invasive ventilator therapy and invasive ventilator therapy (Table 3). <mark class=\"stats\">For clinical outcome of the enrolled patients with severe disease, 53.62% were cured, 3 patients (4.35%) needed transfer to the intensive care unit, 46.38% were still hospitalized, and there was no death case (Table 3)</mark>. Compared with patients with nonsevere COVID-19, the time from symptom onset to initial diagnosis and the time from symptom onset to pneumonia of"
+        },
+        {
+            "participant": "patients",
+            "number": 30,
+            "context": "The higher level of IL-6 related to glucocorticords (r=0.301, P=0.001), human immunoglobulin (r=0.147, P=0.118), high flow oxygen inhalation (r=0.251, P=0.007), ventilator therapy (r=0.223, P=0.017). <mark class=\"stats\">Among the 30 patients whose IL-6 was assessed before and after treatment, 26 patients showed significantly decreased IL-6 level and improved CT assessments after treatment (Figure 4</mark>. A)"
+        },
+        {
+            "participant": "patients",
+            "number": 4,
+            "context": "A). <mark class=\"stats\">Disease of the other 4 patients progressed continuously</mark>. Among them, 3 patients showed persistent increase of IL-6 (Figure 4"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Disease of the other 4 patients progressed continuously. <mark class=\"stats\">Among them, 3 patients showed persistent increase of IL-6 (Figure 4</mark>. B), while the change in IL-6 in 1 patient was not obvious"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Continuous variables were compared by using the Mann Whitney U tests</mark>",
+                "tests": [
+                    {
+                        "test": "Mann Whitney U"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Proportions for categorical variables were compared using the chi-square tests and Fisher\u2019s exact tests as appropriate</mark>",
+                "tests": [
+                    {
+                        "test": "chi-square"
+                    },
+                    {
+                        "test": "Fisher\u2019s exact"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Correlations were determined by Spearman rank correlation analysis and Kendall correlation analysis</mark>",
+                "tests": [
+                    {
+                        "test": "Spearman rank correlation"
+                    },
+                    {
+                        "test": "Kendall correlation"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P<0.05",
+            "context": "All statistical analyses were performed using Graphpad Prism (version 5.0) software and SPSS 26.0 (IBM SPSS Statistics 26.0). <mark class=\"stats\">The significance threshold was set at a P<0.05</mark>. Results In this study, a total of 69 severe cases were included"
+        },
+        {
+            "p_value": "P=0.001",
+            "context": "D). <mark class=\"stats\">The baseline high IL-6 level was positively correlated with bilateral and interstitial pulmonary involvement (r=0.453, P=0.001)</mark>. Meanwhile, the baseline IL-6 levels was closely related to the maximal body temperature during hospitalization (r=0.521,P=0.00) ( Figure 3"
+        },
+        {
+            "p_value": "P=0.00",
+            "context": "The baseline high IL-6 level was positively correlated with bilateral and interstitial pulmonary involvement (r=0.453, P=0.001). <mark class=\"stats\">Meanwhile, the baseline IL-6 levels was closely related to the maximal body temperature during hospitalization (r=0.521,P=0.00) ( Figure 3</mark>. A), and it is also significantly related to the increase of CRP (r=0.781, P=0.001), LDH (r=0.749, P=0.001), ferritin (r=0.606, P=0.001) and D-dimer (r=0.679, P=0.001) (Figure 3"
+        },
+        {
+            "p_value": "P=0.001",
+            "context": "Meanwhile, the baseline IL-6 levels was closely related to the maximal body temperature during hospitalization (r=0.521,P=0.00) ( Figure 3. <mark class=\"stats\">A), and it is also significantly related to the increase of CRP (r=0.781, P=0.001), LDH (r=0.749, P=0.001), ferritin (r=0.606, P=0.001) and D-dimer (r=0.679, P=0.001) (Figure 3</mark>. B-E)"
+        },
+        {
+            "p_value": "P=0.763",
+            "context": "The increase of baseline IL-6 suggested that it was positively correlated with the severity of COVID-19. <mark class=\"stats\">We found the tendency showing that the lower the IL-6 level, the shorter the time lapse from diagnosis to cure (r=0.049, P=0.763), whereas the higher the IL-6 level, the shorter the time lapse from symptom onset to pneumonia diagnosis (r= - 0.116, P=0.345), although there is no significant difference</mark>. The higher level of IL-6 related to glucocorticords (r=0.301, P=0.001), human immunoglobulin (r=0.147, P=0.118), high flow oxygen inhalation (r=0.251, P=0.007), ventilator therapy (r=0.223, P=0.017)"
+        },
+        {
+            "p_value": "P=0.001",
+            "context": "We found the tendency showing that the lower the IL-6 level, the shorter the time lapse from diagnosis to cure (r=0.049, P=0.763), whereas the higher the IL-6 level, the shorter the time lapse from symptom onset to pneumonia diagnosis (r= - 0.116, P=0.345), although there is no significant difference. <mark class=\"stats\">The higher level of IL-6 related to glucocorticords (r=0.301, P=0.001), human immunoglobulin (r=0.147, P=0.118), high flow oxygen inhalation (r=0.251, P=0.007), ventilator therapy (r=0.223, P=0.017)</mark>. Among the 30 patients whose IL-6 was assessed before and after treatment, 26 patients showed significantly decreased IL-6 level and improved CT assessments after treatment (Figure 4"
+        }
+    ],
+    "keywords": [
+        "C-reactive protein",
+        "erythrocyte sedimentation rate",
+        "disease monitoring",
+        "wuhan city",
+        "reverse transcriptase polymerase chain reaction",
+        "creatine kinase",
+        "sars cov",
+        "granulocyte-macrophage colony stimulating factor",
+        "acute respiratory",
+        "severe acute respiratory syndrome",
+        "siltuximab",
+        "clinical manifestation",
+        "peripheral blood",
+        "lymphocytopenia",
+        "severe type covid",
+        "IL-6",
+        "Coronavirus disease 2019",
+        "pneumonia",
+        "severe covid",
+        "interleukin-6",
+        "pathogenic",
+        "coronavirus disease",
+        "World Health Organization",
+        "monoclonal antibodies",
+        "severe case",
+        "baseline il",
+        "lactate dehydrogenase",
+        "natural killer",
+        "severe disease",
+        "interquartile range",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "IL-6": 0.2491103203,
+        "COVID-19": 0.1743772242,
+        "pneumonia": 0.0818505338,
+        "severe case": 0.0640569395,
+        "severe acute respiratory syndrome": 0.0604982206,
+        "C-reactive protein": 0.0569395018,
+        "lactate dehydrogenase": 0.0462633452,
+        "severe disease": 0.0320284698,
+        "acute respiratory": 0.024911032,
+        "peripheral blood": 0.0213523132,
+        "disease monitoring": 0.0177935943,
+        "pathogenic": 0.0177935943,
+        "interquartile range": 0.0177935943,
+        "erythrocyte sedimentation rate": 0.0142348754,
+        "creatine kinase": 0.0142348754,
+        "granulocyte-macrophage colony stimulating factor": 0.0142348754,
+        "clinical manifestation": 0.0142348754,
+        "lymphocytopenia": 0.0142348754,
+        "coronavirus disease": 0.0142348754,
+        "reverse transcriptase polymerase chain reaction": 0.0106761566,
+        "World Health Organization": 0.0106761566,
+        "natural killer": 0.0106761566,
+        "monoclonal antibodies": 0.0071174377,
+        "siltuximab": 0.0035587189,
+        "Coronavirus disease 2019": 0.0035587189,
+        "interleukin-6": 0.0035587189,
+        "wuhan city": 0.0,
+        "sars cov": 0.0,
+        "severe type covid": 0.0,
+        "severe covid": 0.0,
+        "baseline il": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> In early December, 2019, the first case of pneumonia of unknown origin was reported in Wuhan City, Hubei Province, China, which was highly contagious and rapidly spread nationwide and worldwide[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+        "As the outbreak area of COVID-19, the total number of confirmed cases in Hubei is 49847, with 9797 (19.6%) severe cases and an overall mortality rate of 3.4%.",
+        "The disease incidence and mortality rate of severe COVID-19 in Hubei is relatively high as compared with other areas in China.",
+        "In this study by collecting data of laboratory confirmed severe cases, the authors tried to analyze the clinical features and inflammatory markers in patients with severe type COVID-19 in Wuhan City to explore biomarkers for disease monitoring and treatment screening",
+        "<h2 style=\"display: inline\">Methods:</h2> Laboratory-confirmed cases were included in this study, while disease diagnosed based on clinical presentation and imaging findings, but not on SARS-CoV-2 detection, were excluded.",
+        "The authors collected data of 69 patients with severe type COVID-19 between January 21 and February 16, 2020 hospitalized in the Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology.",
+        "This study was approved by the Research Ethics Committee of Tongji Medical College, Huazhong University of Science and Technology.",
+        "<h2 style=\"display: inline\">Results:</h2> A total of 69 severe cases were included.",
+        "The median age was 56.",
+        "Female accounted for 52.17% of the enrolled cases.",
+        "The smoking rate was 11.59%.",
+        "36.23% of patients had at least one comorbidity, and there were 4 cases of tumor.",
+        "Another 11 nonsevere cases were enrolled (Table 1)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> This study shows that most of the severe cases of COVID-19 have the initial symptoms of fever, coughing, shortness of breath and fatigue, while diarrhea is not common.",
+        "Results of this study suggest that compared with the common type, the changes in immunological parameters and cytokine level in severe disease are inconspicuous.",
+        "Elevated CRP, ferritin, IL-6 and LDH are associated with longer treatment period and more intensive treatment, which included glucocorticoids, human immunoglobulin, stronger antibiotics, high flow oxygen inhalation or ventilator",
+        "It showed that the abovementioned parameters were closely related to disease severity.",
+        "IL-6 and IL6R antibodies may be effective in treating inflammatory cytokine storm during disease progression"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "In early December, 2019, the first case of pneumonia of unknown origin was reported in Wuhan City, Hubei Province, China, which was highly contagious and rapidly spread nationwide and worldwide[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "As the outbreak area of COVID-19, the total number of confirmed cases in Hubei is 49847, with 9797 (19.6%) severe cases and an overall mortality rate of 3.4%.",
+            "The disease incidence and mortality rate of severe COVID-19 in Hubei is relatively high as compared with other areas in China.",
+            "In this study by collecting data of laboratory confirmed severe cases, the authors tried to analyze the clinical features and inflammatory markers in patients with severe type COVID-19 in Wuhan City to explore biomarkers for disease monitoring and treatment screening"
+        ],
+        "Methods": [
+            "Laboratory-confirmed cases were included in this study, while disease diagnosed based on clinical presentation and imaging findings, but not on SARS-CoV-2 detection, were excluded.",
+            "The authors collected data of 69 patients with severe type COVID-19 between January 21 and February 16, 2020 hospitalized in the Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology.",
+            "This study was approved by the Research Ethics Committee of Tongji Medical College, Huazhong University of Science and Technology."
+        ],
+        "Results": [
+            "A total of 69 severe cases were included.",
+            "The median age was 56.",
+            "Female accounted for 52.17% of the enrolled cases.",
+            "The smoking rate was 11.59%.",
+            "36.23% of patients had at least one comorbidity, and there were 4 cases of tumor.",
+            "Another 11 nonsevere cases were enrolled (Table 1)"
+        ],
+        "Conclusion": [
+            "This study shows that most of the severe cases of COVID-19 have the initial symptoms of fever, coughing, shortness of breath and fatigue, while diarrhea is not common.",
+            "Results of this study suggest that compared with the common type, the changes in immunological parameters and cytokine level in severe disease are inconspicuous.",
+            "Elevated CRP, ferritin, IL-6 and LDH are associated with longer treatment period and more intensive treatment, which included glucocorticoids, human immunoglobulin, stronger antibiotics, high flow oxygen inhalation or ventilator",
+            "It showed that the abovementioned parameters were closely related to disease severity.",
+            "IL-6 and IL6R antibodies may be effective in treating inflammatory cytokine storm during disease progression"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "2",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "2. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 2020; 395(10223): 497-506.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020%2039510223%20497506",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020%2039510223%20497506",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020%2039510223%20497506"
+        },
+        {
+            "id": "3",
+            "alt_id": "Yang_et+al_2020_a",
+            "entry": "3. Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%20X%20Yu%20Y%20Xu%20J%20et%20al%20Clinical%20course%20and%20outcomes%20of%20critically%20ill%20patients%20with%20SARSCoV2%20pneumonia%20in%20Wuhan%20China%20a%20singlecentered%20retrospective%20observational%20study%20The%20Lancet%20Respiratory%20Medicine%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Luk_et+al_2019_a",
+            "entry": "4. Luk HK, Li X, Fung J, Lau SK, Woo PC. Molecular epidemiology, evolution and phylogeny of SARS coronavirus. Infection, Genetics and Evolution 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Luk%2C%20H.K.%20Li%2C%20X.%20Fung%2C%20J.%20Lau%2C%20S.K.%20Molecular%20epidemiology%2C%20evolution%20and%20phylogeny%20of%20SARS%20coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Luk%2C%20H.K.%20Li%2C%20X.%20Fung%2C%20J.%20Lau%2C%20S.K.%20Molecular%20epidemiology%2C%20evolution%20and%20phylogeny%20of%20SARS%20coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Luk%2C%20H.K.%20Li%2C%20X.%20Fung%2C%20J.%20Lau%2C%20S.K.%20Molecular%20epidemiology%2C%20evolution%20and%20phylogeny%20of%20SARS%20coronavirus%202019"
+        },
+        {
+            "id": "5",
+            "alt_id": "Zhou_et+al_0000_a",
+            "entry": "5. Zhou P, Yang X-L, Wang X-G, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020: 1-4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20Yang%2C%20X.-L.%20Wang%2C%20X.-G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20Yang%2C%20X.-L.%20Wang%2C%20X.-G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20Yang%2C%20X.-L.%20Wang%2C%20X.-G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin"
+        },
+        {
+            "id": "6",
+            "alt_id": "Wang_et+al_2019_a",
+            "entry": "6. Wang D, Hu B, Hu C, et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in Wuhan, China. Jama 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20Hu%20B%20Hu%20C%20et%20al%20Clinical%20characteristics%20of%20138%20hospitalized%20patients%20with%202019%20novel%20coronavirusinfected%20pneumonia%20in%20Wuhan%20China%20Jama%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Gupta_et+al_0000_a",
+            "entry": "7. Gupta KK, Khan MA, Singh SK. Constitutive Inflammatory Cytokine Storm: A Major Threat to Human Health. Journal of Interferon & Cytokine Research 2020; 40(1): 19-23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gupta%2C%20K.K.%20Khan%2C%20M.A.%20Singh%2C%20S.K.%20Constitutive%20Inflammatory%20Cytokine%20Storm%3A%20A%20Major%20Threat%20to%20Human%20Health",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gupta%2C%20K.K.%20Khan%2C%20M.A.%20Singh%2C%20S.K.%20Constitutive%20Inflammatory%20Cytokine%20Storm%3A%20A%20Major%20Threat%20to%20Human%20Health",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gupta%2C%20K.K.%20Khan%2C%20M.A.%20Singh%2C%20S.K.%20Constitutive%20Inflammatory%20Cytokine%20Storm%3A%20A%20Major%20Threat%20to%20Human%20Health"
+        },
+        {
+            "id": "9",
+            "alt_id": "Rose-John_et+al_2017_a",
+            "entry": "9. Rose-John S, Winthrop K, Calabrese L. The role of IL-6 in host defence against infections: immunobiology and clinical implications. Nature Reviews Rheumatology 2017; 13(7): 399.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rose-John%2C%20S.%20Winthrop%2C%20K.%20Calabrese%2C%20L.%20The%20role%20of%20IL-6%20in%20host%20defence%20against%20infections%3A%20immunobiology%20and%20clinical%20implications%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rose-John%2C%20S.%20Winthrop%2C%20K.%20Calabrese%2C%20L.%20The%20role%20of%20IL-6%20in%20host%20defence%20against%20infections%3A%20immunobiology%20and%20clinical%20implications%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rose-John%2C%20S.%20Winthrop%2C%20K.%20Calabrese%2C%20L.%20The%20role%20of%20IL-6%20in%20host%20defence%20against%20infections%3A%20immunobiology%20and%20clinical%20implications%202017"
+        },
+        {
+            "id": "10",
+            "alt_id": "Tanaka_et+al_2014_a",
+            "entry": "10. Tanaka T, Narazaki M, Kishimoto T. IL-6 in inflammation, immunity, and disease. Cold Spring Harbor perspectives in biology 2014; 6(10): a016295.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tanaka%2C%20T.%20Narazaki%2C%20M.%20Kishimoto%2C%20T.%20IL-6%20in%20inflammation%2C%20immunity%2C%20and%20disease%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tanaka%2C%20T.%20Narazaki%2C%20M.%20Kishimoto%2C%20T.%20IL-6%20in%20inflammation%2C%20immunity%2C%20and%20disease%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tanaka%2C%20T.%20Narazaki%2C%20M.%20Kishimoto%2C%20T.%20IL-6%20in%20inflammation%2C%20immunity%2C%20and%20disease%202014"
+        },
+        {
+            "id": "11",
+            "alt_id": "Liu_et+al_2020_a",
+            "entry": "11. Liu J, Li S, Liu J, et al. Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Liu%2C%20J.%20Li%2C%20S.%20Liu%2C%20J.%20Longitudinal%20characteristics%20of%20lymphocyte%20responses%20and%20cytokine%20profiles%20in%20the%20peripheral%20blood%20of%20SARS-CoV-2%20infected%20patients%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Magnan_et+al_1996_a",
+            "entry": "12. Magnan A, Mege J-L, Escallier J-C, et al. Balance between alveolar macrophage IL-6 and TGF-beta in lung-transplant recipients. Marseille and Montr\u00e9al Lung Transplantation Group. American journal of respiratory and critical care medicine 1996; 153(4): 1431-6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Magnan%2C%20A.%20Mege%2C%20J.-L.%20Escallier%2C%20J.-C.%20Balance%20between%20alveolar%20macrophage%20IL-6%20and%20TGF-beta%20in%20lung-transplant%20recipients.%20Marseille%20and%20Montr%C3%A9al%20Lung%20Transplantation%20Group%201996",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Magnan%2C%20A.%20Mege%2C%20J.-L.%20Escallier%2C%20J.-C.%20Balance%20between%20alveolar%20macrophage%20IL-6%20and%20TGF-beta%20in%20lung-transplant%20recipients.%20Marseille%20and%20Montr%C3%A9al%20Lung%20Transplantation%20Group%201996",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Magnan%2C%20A.%20Mege%2C%20J.-L.%20Escallier%2C%20J.-C.%20Balance%20between%20alveolar%20macrophage%20IL-6%20and%20TGF-beta%20in%20lung-transplant%20recipients.%20Marseille%20and%20Montr%C3%A9al%20Lung%20Transplantation%20Group%201996"
+        },
+        {
+            "id": "13",
+            "alt_id": "Yiu_et+al_2012_a",
+            "entry": "13. Yiu HH, Graham AL, Stengel RF. Dynamics of a cytokine storm. PloS one 2012; 7(10).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yiu%2C%20H.H.%20Graham%2C%20A.L.%20Stengel%2C%20R.F.%20Dynamics%20of%20a%20cytokine%20storm%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yiu%2C%20H.H.%20Graham%2C%20A.L.%20Stengel%2C%20R.F.%20Dynamics%20of%20a%20cytokine%20storm%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yiu%2C%20H.H.%20Graham%2C%20A.L.%20Stengel%2C%20R.F.%20Dynamics%20of%20a%20cytokine%20storm%202012"
+        },
+        {
+            "id": "14",
+            "alt_id": "Liu_et+al_2019_a",
+            "entry": "14. Liu Y, Sun W, Li J, et al. Clinical features and progression of acute respiratory distress syndrome in coronavirus disease 2019. medRxiv 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Liu%20Y%20Sun%20W%20Li%20J%20et%20al%20Clinical%20features%20and%20progression%20of%20acute%20respiratory%20distress%20syndrome%20in%20coronavirus%20disease%202019%20medRxiv%202020"
+        },
+        {
+            "id": "15",
+            "alt_id": "Channappanavar_2017_a",
+            "entry": "15. Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Seminars in immunopathology; 2017: Springer; 2017. p. 529-39.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Channappanavar%2C%20R.%20Perlman%2C%20S.%20Pathogenic%20human%20coronavirus%20infections%3A%20causes%20and%20consequences%20of%20cytokine%20storm%20and%20immunopathology.%20Seminars%20in%20immunopathology%202017"
+        },
+        {
+            "id": "16",
+            "alt_id": "Saito_et+al_2018_a",
+            "entry": "16. Saito LB, Diaz-Satizabal L, Evseev D, et al. IFN and cytokine responses in ducks to genetically similar H5N1 influenza A viruses of varying pathogenicity. The Journal of general virology 2018; 99(4): 464.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Saito%2C%20L.B.%20Diaz-Satizabal%2C%20L.%20Evseev%2C%20D.%20IFN%20and%20cytokine%20responses%20in%20ducks%20to%20genetically%20similar%20H5N1%20influenza%20A%20viruses%20of%20varying%20pathogenicity%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Saito%2C%20L.B.%20Diaz-Satizabal%2C%20L.%20Evseev%2C%20D.%20IFN%20and%20cytokine%20responses%20in%20ducks%20to%20genetically%20similar%20H5N1%20influenza%20A%20viruses%20of%20varying%20pathogenicity%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Saito%2C%20L.B.%20Diaz-Satizabal%2C%20L.%20Evseev%2C%20D.%20IFN%20and%20cytokine%20responses%20in%20ducks%20to%20genetically%20similar%20H5N1%20influenza%20A%20viruses%20of%20varying%20pathogenicity%202018"
+        },
+        {
+            "id": "18",
+            "alt_id": "Chen_et+al_2001_a",
+            "entry": "18. Chen Y, Rubin P, Williams J, Hernady E, Smudzin T, Okunieff P. Circulating IL-6 as a predictor of radiation pneumonitis. International Journal of Radiation Oncology* Biology* Physics 2001; 49(3): 641-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20Y.%20Rubin%2C%20P.%20Williams%2C%20J.%20Hernady%2C%20E.%20Circulating%20IL-6%20as%20a%20predictor%20of%20radiation%20pneumonitis%202001",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20Y.%20Rubin%2C%20P.%20Williams%2C%20J.%20Hernady%2C%20E.%20Circulating%20IL-6%20as%20a%20predictor%20of%20radiation%20pneumonitis%202001",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20Y.%20Rubin%2C%20P.%20Williams%2C%20J.%20Hernady%2C%20E.%20Circulating%20IL-6%20as%20a%20predictor%20of%20radiation%20pneumonitis%202001"
+        },
+        {
+            "id": "19",
+            "alt_id": "Maus_et+al_1998_a",
+            "entry": "19. Maus U, Rosseau S, Knies U, Seeger W, Lohmeyer J. Expression of pro-inflammatory cytokines by flow-sorted alveolar macrophages in severe pneumonia. European Respiratory Journal 1998; 11(3): 534-41.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Maus%2C%20U.%20Rosseau%2C%20S.%20Knies%2C%20U.%20Seeger%2C%20W.%20Expression%20of%20pro-inflammatory%20cytokines%20by%20flow-sorted%20alveolar%20macrophages%20in%20severe%20pneumonia%201998",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Maus%2C%20U.%20Rosseau%2C%20S.%20Knies%2C%20U.%20Seeger%2C%20W.%20Expression%20of%20pro-inflammatory%20cytokines%20by%20flow-sorted%20alveolar%20macrophages%20in%20severe%20pneumonia%201998",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Maus%2C%20U.%20Rosseau%2C%20S.%20Knies%2C%20U.%20Seeger%2C%20W.%20Expression%20of%20pro-inflammatory%20cytokines%20by%20flow-sorted%20alveolar%20macrophages%20in%20severe%20pneumonia%201998"
+        },
+        {
+            "id": "20",
+            "alt_id": "Wang_et+al_2004_a",
+            "entry": "20. Wang W-K, Chen S-Y, Liu I-J, et al. Temporal Relationship of Viral Load, Ribavirin, Interleukin (IL)\u20146, IL-8, and Clinical Progression in Patients with Severe Acute Respiratory Syndrome. Clinical infectious diseases 2004; 39(7): 1071-5.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%2C%20W.-K.%20Chen%2C%20S.-Y.%20Liu%2C%20I.-J.%20Temporal%20Relationship%20of%20Viral%20Load%2C%20Ribavirin%2C%20Interleukin%20%28IL%29%E2%80%946%2C%20IL-8%2C%20and%20Clinical%20Progression%20in%20Patients%20with%20Severe%20Acute%20Respiratory%20Syndrome%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%2C%20W.-K.%20Chen%2C%20S.-Y.%20Liu%2C%20I.-J.%20Temporal%20Relationship%20of%20Viral%20Load%2C%20Ribavirin%2C%20Interleukin%20%28IL%29%E2%80%946%2C%20IL-8%2C%20and%20Clinical%20Progression%20in%20Patients%20with%20Severe%20Acute%20Respiratory%20Syndrome%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%2C%20W.-K.%20Chen%2C%20S.-Y.%20Liu%2C%20I.-J.%20Temporal%20Relationship%20of%20Viral%20Load%2C%20Ribavirin%2C%20Interleukin%20%28IL%29%E2%80%946%2C%20IL-8%2C%20and%20Clinical%20Progression%20in%20Patients%20with%20Severe%20Acute%20Respiratory%20Syndrome%202004"
+        },
+        {
+            "id": "21",
+            "alt_id": "Van_et+al_2014_a",
+            "entry": "21. Van Rhee F, Wong RS, Munshi N, et al. Siltuximab for multicentric Castleman's disease: a randomised, double-blind, placebo-controlled trial. The lancet oncology 2014; 15(9): 966-74.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=F%2C%20Van%20Rhee%20RS%2C%20Wong%20N%2C%20Munshi%20Siltuximab%20for%20multicentric%20Castleman%27s%20disease%3A%20a%20randomised%2C%20double-blind%2C%20placebo-controlled%20trial%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=F%2C%20Van%20Rhee%20RS%2C%20Wong%20N%2C%20Munshi%20Siltuximab%20for%20multicentric%20Castleman%27s%20disease%3A%20a%20randomised%2C%20double-blind%2C%20placebo-controlled%20trial%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=F%2C%20Van%20Rhee%20RS%2C%20Wong%20N%2C%20Munshi%20Siltuximab%20for%20multicentric%20Castleman%27s%20disease%3A%20a%20randomised%2C%20double-blind%2C%20placebo-controlled%20trial%202014"
+        },
+        {
+            "id": "22",
+            "alt_id": "Emery_et+al_2008_a",
+            "entry": "22. Emery P, Keystone E, Tony H, et al. IL-6 receptor inhibition with tocilizumab improves treatment outcomes in patients with rheumatoid arthritis refractory to anti-tumour necrosis factor biologicals: results from a 24-week multicentre randomised placebo-controlled trial. Annals of the rheumatic diseases 2008; 67(11): 1516-23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Emery%2C%20P.%20Keystone%2C%20E.%20Tony%2C%20H.%20IL-6%20receptor%20inhibition%20with%20tocilizumab%20improves%20treatment%20outcomes%20in%20patients%20with%20rheumatoid%20arthritis%20refractory%20to%20anti-tumour%20necrosis%20factor%20biologicals%3A%20results%20from%20a%2024-week%20multicentre%20randomised%20placebo-controlled%20trial%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Emery%2C%20P.%20Keystone%2C%20E.%20Tony%2C%20H.%20IL-6%20receptor%20inhibition%20with%20tocilizumab%20improves%20treatment%20outcomes%20in%20patients%20with%20rheumatoid%20arthritis%20refractory%20to%20anti-tumour%20necrosis%20factor%20biologicals%3A%20results%20from%20a%2024-week%20multicentre%20randomised%20placebo-controlled%20trial%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Emery%2C%20P.%20Keystone%2C%20E.%20Tony%2C%20H.%20IL-6%20receptor%20inhibition%20with%20tocilizumab%20improves%20treatment%20outcomes%20in%20patients%20with%20rheumatoid%20arthritis%20refractory%20to%20anti-tumour%20necrosis%20factor%20biologicals%3A%20results%20from%20a%2024-week%20multicentre%20randomised%20placebo-controlled%20trial%202008"
+        },
+        {
+            "id": "23",
+            "alt_id": "Norelli_et+al_2018_a",
+            "entry": "23. Norelli M, Camisa B, Barbiera G, et al. Monocyte-derived IL-1 and IL-6 are differentially required for cytokine-release syndrome and neurotoxicity due to CAR T cells. Nature medicine 2018; 24(6): 739-48.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Norelli%2C%20M.%20Camisa%2C%20B.%20Barbiera%2C%20G.%20Monocyte-derived%20IL-1%20and%20IL-6%20are%20differentially%20required%20for%20cytokine-release%20syndrome%20and%20neurotoxicity%20due%20to%20CAR%202018"
+        }
+    ],
+    "facts": [
+        "which may be of value in disease monitoring",
+        "severe type COVID-19 diagnosed by laboratory test in our institution were collected",
+        "interstitial pneumonia evidenced by CT imaging in severe cases was",
+        "D-dimer was found in most cases",
+        "baseline IL-6 was significantly increased in severe type",
+        "which is closely related to the maximal body temperature during hospitalization",
+        "Baseline IL-6 was significantly related to the increase of baseline level",
+        "improved CT assessment was found in 25 patients after treatment",
+        "Whereas the IL-6 level was further increased in 3 cases",
+        "which was closely related to the progression of pneumonia",
+        "that IL-6 may be used as a biomarker for disease monitoring",
+        "LDH and ferritin was closely related to the severity",
+        "the high level of IL-6 was significantly related to the clinical manifestation of severe type patients",
+        "The decrease of IL-6 was closely related to treatment effectiveness",
+        "the dynamic change of IL-6 level can be used as a marker for disease monitoring",
+        "the first case of pneumonia of unknown origin was reported in Wuhan City",
+        "A new \u03b2-coronavirus was identified by high-throughput sequencing",
+        "shared phylogenetic similarity to the severe acute respiratory syndrome coronavirus that caused the outbreak of SARS",
+        "Disease caused by SARS-CoV-2 was officially named coronavirus disease",
+        "Analysis of the epidemiological pattern curve of COVID-19 showed that the overall epidemic pattern was aggregation outbreak",
+        "a total number of 57934 cases were reported in mainland China",
+        "The disease incidence and mortality rate of severe COVID-19 in Hubei is relatively high as compared with other areas in China",
+        "the monitoring of severe cases mainly rely on the observation of clinical manifestation",
+        "Previous studies have suggested that lymphocytopenia",
+        "inflammatory cytokine storm are typical abnormalies in infections caused by highly pathogenic coronavirus",
+        "recent studies on COVID-19 patients have reported a decrease in peripheral blood lymphocyte count",
+        "A better understanding of the clinical features of COVID-19 is urgently needed in order to screen",
+        "that the storm of inflammatory factors may be the main reason for rapid disease progression",
+        "COVID-19 was diagnosed in accordance with the WHO interim guidance",
+        "Only laboratory-confirmed cases were included in this study",
+        "while disease diagnosed based on clinical presentation and imaging findings",
+        "Treatment Plan of Pneumonia Infected by Novel Coronavirus of the Health",
+        "the oxygen saturation is less than 93% in resting state",
+        "If the pulmonary lesion progressed more than 50%",
+        "clinical management should be complied with the severe type",
+        "11 nonsevere COVID-19 patients were included for comparison",
+        "This study was approved by the Research Ethics Committee of Tongji Medical College",
+        "Written consent was obtained from patients before the enrollment",
+        "Female accounted for 52.17% of the enrolled cases",
+        "most of the severe cases of COVID-19 have the initial symptoms of fever",
+        "relieved symptoms were observed in most cases",
+        "The time from initial symptoms to pneumonia in severe COVID-19 patients is shorter",
+        "the onset of severe type is more rapid than the nonsevere type",
+        "inflammatory cytokine storm are associated with the severity of highly pathogenic coronavirus infection[3",
+        "glycoproteins that are secreted by many cell types",
+        "Cytokine storms are associated with sepsis and septic shock",
+        "Results of this study suggest that compared with the common type",
+        "all of which fluctuated within the normal range",
+        "LDH are associated with longer treatment period",
+        "that the abovementioned parameters were closely related to disease severity",
+        "Further analysis showed that the changes in IL-6 were closely related to the disease",
+        "pulmonary lesions deteriorate as evidenced by CT scan",
+        "that IL-6 may be a valuable candidate for disease monitoring",
+        "the lung progression was caused by bacterial infection",
+        "which might suggest the specificity of IL-6 in COVID-19",
+        "an acute phase inflammatory cytokine suggests that measurement",
+        "a finding that supports a shared mechanism of cytokine-mediated lung injury caused by infectious agents",
+        "Siltuximab and tocilizumab are monoclonal antibodies targeted against IL-6",
+        "IL6R antibodies may be effective in treating inflammatory cytokine storm during disease progression",
+        "Laboratory-confirmed cases were included in this study"
+    ],
+    "claims": [
+        "The purpose of this study is to explore changes of markers in peripheral blood of severe COVID-19 patients, which may be of value in disease monitoring",
+        "We found the tendency showing that the lower the IL-6 level, the shorter the time lapse from diagnosis to cure (r=0.049, P=0.763), whereas the higher the IL-6 level, the shorter the time lapse from symptom onset to pneumonia diagnosis (r= - 0.116, P=0.345), although there is no significant difference",
+        "Discussion This study shows that most of the severe cases of COVID-19 have the initial symptoms of fever, coughing, shortness of breath and fatigue, while diarrhea is not common",
+        "Since we have found that IL-6 may be related to COVID-19 severity, we suggest that targeting IL-6 may ameliorate cytokine storm-related symptoms in severe COVID-19 cases 22, 23"
+    ],
+    "findings": [
+        "Severe case is defined when any of the following criteria is met: 1. shortness of breath, RR \u2265 30 times / min; 2. the oxygen saturation is less than 93% in resting state; 3. arterial partial pressure of oxygen (PaO2) / oxygen concentration (FiO2) \u2264 300mmHg (l mmHg=0.133kPa)",
+        "If the pulmonary lesion progressed more than 50% within 24 to 48 hours as evidenced by radiologic assessment, clinical management should be complied with the severe type",
+        "The baseline high IL-6 level was positively correlated with bilateral and interstitial pulmonary involvement (r=0.453, P=0.001)",
+        "Meanwhile, the baseline IL-6 levels was closely related to the maximal body temperature during hospitalization (r=0.521,P=0.00) ( Figure 3",
+        "A), and it is also significantly related to the increase of CRP (r=0.781, P=0.001), LDH (r=0.749, P=0.001), ferritin (r=0.606, P=0.001) and D-dimer (r=0.679, P=0.001) (Figure 3",
+        "The higher level of IL-6 related to glucocorticords (r=0.301, P=0.001), human immunoglobulin (r=0.147, P=0.118), high flow oxygen inhalation (r=0.251, P=0.007), ventilator therapy (r=0.223, P=0.017)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Elevated level of lactate dehydrogenase (LDH), C-reactive protein (CRP), ferritin and D-dimer was found in most cases",
+        "Baseline IL-6 was significantly increased in severe type which is closely related to the maximal body temperature during hospitalization and CT findings",
+        "Whereas the IL-6 level was further increased in 3 cases, which was closely related to the progression of pneumonia",
+        "It is suggested that IL-6 may be used as a biomarker for disease monitoring in severe COVID-19 patients",
+        "On admission, the baseline level of IL-6, C-reactive protein, lactate dehydrogenase and ferritin was closely related to the severity of COVID-19, and the high level of IL-6 was significantly related to the clinical manifestation of severe type patients",
+        "The dynamic change of IL-6 level can be used as a marker for disease monitoring in patients with severe COVID-19",
+        "In early December, 2019, the first case of pneumonia of unknown origin was reported in Wuhan City, Hubei Province, China, which was highly contagious and rapidly spread nationwide and worldwide[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "Previous studies have suggested that lymphocytopenia and inflammatory cytokine storm are typical abnormalies in infections caused by highly pathogenic coronavirus, such as severe acute respiratory syndrome and MERS, and are considered disease severity related[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]",
+        "This study shows that most of the severe cases of COVID-19 have the initial symptoms of fever, coughing, shortness of breath and fatigue, while diarrhea is not common",
+        "In patients with severe disease, more intensive and supportive treatment, including glucocorticoid, human immunoglobulin, interferon-\u03b1, antibiotics, antiviral therapy (Oseltamivir and Abidol) and oxygen therapy, was given and relieved symptoms were observed in most cases",
+        "The time from initial symptoms to pneumonia in severe COVID-19 patients is shorter, the median recovery time is longer, and the onset of severe type is more rapid than the nonsevere type",
+        "Previous studies have suggested that lymphocytopenia and inflammatory cytokine storm are associated with the severity of highly pathogenic coronavirus infection[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>, <a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "Proteins, or glycoproteins that are secreted by many cell types, including immune, epithelial, endothelial, and smooth muscle cells",
+        "Cytokine storms are associated with sepsis and septic shock, influenza, acute respiratory distress, and toxic response to medication and so on[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "Results of this study suggest that compared with the common type, the changes in immunological parameters and cytokine level in severe disease are inconspicuous",
+        "There was only mild variation \u03b3 in IL-2, IL-4, IL-10, TNF-a, IFN- level before and after treatment, all of which fluctuated within the normal range",
+        "Elevated C-reactive protein, ferritin, IL-6 and lactate dehydrogenase are associated with longer treatment period and more intensive treatment, which included glucocorticoids, human immunoglobulin, stronger antibiotics, high flow oxygen inhalation or ventilator",
+        "It showed that the abovementioned parameters were closely related to disease severity",
+        "Further analysis showed that the changes in IL-6 were closely related to the disease",
+        "C-reactive protein, ferritin and IL-6, lactate dehydrogenase decreased significantly after cure, while as the disease progressed, IL-6 was further increased and pulmonary lesions deteriorate as evidenced by CT scan, suggesting that IL-6 may be a valuable candidate for disease monitoring",
+        "To our interest, the lung progression was caused by bacterial infection, but not viral infection, which might suggest the specificity of IL-6 in COVID-19",
+        "IL-6 being an acute phase inflammatory cytokine suggests that measurement of circulating IL-6 can reflect the inflammatory state of the lung[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]",
+        "Our patients with COVID-19 demonstrated higher circulating level of IL-6 during and immediately after diagnosis, a finding that supports a shared mechanism of cytokine-mediated lung injury caused by infectious agents",
+        "Since we have found that IL-6 may be related to COVID-19 severity, we suggest that targeting IL-6 may ameliorate cytokine storm-related symptoms in severe COVID-19 cases 22, 23",
+        "IL-6 and IL6R antibodies may be effective in treating inflammatory cytokine storm during disease progression"
+    ],
+    "top_statements": [
+        "In early December, 2019, the first case of pneumonia of unknown origin was reported in Wuhan City, Hubei Province, China, which was highly contagious and rapidly spread nationwide and worldwide[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "The time from initial symptoms to pneumonia in severe COVID-19 patients is shorter, the median recovery time is longer, and the onset of severe type is more rapid than the nonsevere type",
+        "Elevated C-reactive protein, ferritin, IL-6 and lactate dehydrogenase are associated with longer treatment period and more intensive treatment, which included glucocorticoids, human immunoglobulin, stronger antibiotics, high flow oxygen inhalation or ventilator",
+        "C-reactive protein, ferritin and IL-6, lactate dehydrogenase decreased significantly after cure, while as the disease progressed, IL-6 was further increased and pulmonary lesions deteriorate as evidenced by CT scan, suggesting that IL-6 may be a valuable candidate for disease monitoring",
+        "To our interest, the lung progression was caused by bacterial infection, but not viral infection, which might suggest the specificity of IL-6 in COVID-19",
+        "Since we have found that IL-6 may be related to COVID-19 severity, we suggest that targeting IL-6 may ameliorate cytokine storm-related symptoms in severe COVID-19 cases 22, 23"
+    ],
+    "headline": "C-reactive protein, ferritin and IL-6, lactate dehydrogenase decreased significantly after cure, while as the disease progressed, IL-6 was further increased and pulmonary lesions deteriorate as evidenced by CT scan, suggesting that IL-6 may be a valuable candidate for disease monitoring",
+    "contexts": [],
+    "abbreviations": {
+        "LDH": "lactate dehydrogenase",
+        "CRP": "C-reactive protein",
+        "WHO": "World Health Organization",
+        "RT-PCR": "reverse transcriptase polymerase chain reaction",
+        "ESR": "erythrocyte sedimentation rate",
+        "CK": "creatine kinase",
+        "IQR": "interquartile range",
+        "NK": "natural killer",
+        "SARS": "severe acute respiratory syndrome",
+        "GM-CSF": "granulocyte-macrophage colony stimulating factor",
+        "mAb": "monoclonal antibodies"
+    }
+}

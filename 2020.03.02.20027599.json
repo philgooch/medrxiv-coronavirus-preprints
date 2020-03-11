@@ -1,0 +1,541 @@
+{
+    "filename": "2020.03.02.20027599.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 845095,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.02.20027599",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/03/2020.03.02.20027599.full.pdf"
+        },
+        "title": "Effects of weather-related social distancing on city-scale transmission of respiratory viruses",
+        "date": 2020,
+        "author": "Michael L Jackson, Gregory R Hart, Denise J McCulloch, Amanda Adler, Elisabeth Brandstetter, Kairsten Fay, Peter Han, Kirsten Lacombe, Jover Lee, Thomas Sibley, Deborah A Nickerson, Mark Rieder, Lea Starita, Janet A Englund, Trevor Bedford, Helen Chu, Michael Famulare, the Seattle Flu Study Investigators",
+        "affiliations": [
+            "Washington Health Research Institute, Seattle WA",
+            "Institute for Disease Modeling, Bellevue WA",
+            "Department of Medicine, University of Washington School of Medicine, Seattle WA",
+            "Seattle Children\u2019s Research Institute, Seattle WA",
+            "Brotman Baty Institute for Precision Medicine, Seattle WA",
+            "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle WA",
+            "Department of Genome Sciences, University of Washington, Seattle WA",
+            "For complete investigator list, see below. \u2020mfamulare@idmod.org",
+            "School closures may reduce rates of medically-attended influenza in school-aged children, although with highly heterogeneous effects (2% to 29% reductions), and with lesser effects on younger children and adults.\u200b1\u20135"
+        ],
+        "abstract": "BACKGROUND: Unusually high snowfall in western Washington State in February 2019 led to widespread school and workplace closures. We assessed the impact of social distancing caused by this extreme weather event on the transmission of respiratory viruses.\n\nMETHODS: Residual specimens from patients evaluated for acute respiratory illness at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses. Transmission models were fit to each virus, with disruption of contact rates and care-seeking informed by data on local traffic volumes and hospital admissions. \n\nRESULTS: Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%. Incidence reductions were greatest for viruses that were peaking when the disruption occurred and least for viruses in early epidemic phase.\n\nCONCLUSION: High-intensity, short-duration social distancing measures may substantially reduce total incidence in a respiratory virus epidemic if implemented near the epidemic peak.",
+        "references": "@article{cauchemez2008a,\n  author = {Cauchemez, S. and Valleron, A.-J. and Bo\u00eblle, P.-Y. and Flahault, A. and Ferguson, N.M.},\n  title = {Estimating the impact of school closure on influenza transmission from Sentinel data},\n  journal = {Nature},\n  volume = {452},\n  pages = {750\u2013754},\n  date = {2008},\n  language = {}\n}\n@article{luca2018a,\n  author = {Luca, G.D.},\n  title = {The impact of regular school closure on seasonal influenza epidemics: a data-driven spatial transmission model for Belgium},\n  journal = {BMC Infect. Dis},\n  volume = {18},\n  date = {2018},\n  more-authors = {true},\n  number = {29},\n  language = {}\n}\n@article{ewing2017a,\n  author = {Ewing, A. and Lee, E.C. and Viboud, C. and Bansal, S.Contact and Travel},\n  title = {and Transmission: The Impact of Winter Holidays on Influenza Dynamics in the United States},\n  journal = {J. Infect. Dis},\n  volume = {215},\n  pages = {732\u2013739},\n  date = {2017},\n  language = {}\n}\n@article{russell2016a,\n  author = {Russell, E.S.},\n  title = {Reactive School Closure During Increased Influenza-Like Illness (ILI) Activity in},\n  journal = {Open Forum Infectious Diseasesvol},\n  volume = {3},\n  date = {2016},\n  more-authors = {true},\n  source = {A Field Evaluation of Effect on ILI Incidence and Economic and Social Consequences for Families},\n  number = {113},\n  language = {},\n  address = {Western Kentucky, 2013}\n}\n@article{ali2018a,\n  author = {Ali, S.T. and Cowling, B.J. and Lau, E.H.Y. and Fang, V.J. and Leung, G.M.},\n  title = {Mitigation of Influenza B Epidemic with School Closures, Hong Kong, 2018},\n  journal = {Emerg. Infect. Dis},\n  volume = {24},\n  pages = {2071\u20132073},\n  date = {2018},\n  language = {}\n}\n@article{miller2010a,\n  author = {Miller, J.C.},\n  title = {Student behavior during a school closure caused by pandemic influenza A/H1N1},\n  journal = {PLoS One},\n  volume = {5},\n  pages = {10425},\n  date = {2010},\n  more-authors = {true},\n  language = {}\n}\n@article{litvinova2019a,\n  author = {Litvinova, M. and Liu, Q.-H. and Kulikov, E.S. and Ajelli, M.},\n  title = {Reactive school closure weakens the network of social interactions and reduces the spread of influenza},\n  journal = {Proceedings of the National Academy of Sciencesvol},\n  volume = {116},\n  pages = {13174\u201313181},\n  date = {2019},\n  language = {}\n}\n@article{johnson2008a,\n  author = {Johnson, A.J.},\n  title = {Household responses to school closure resulting from outbreak of influenza B, North Carolina},\n  journal = {Emerg. Infect. Dis},\n  volume = {14},\n  pages = {1024\u20131030},\n  date = {2008},\n  more-authors = {true},\n  language = {}\n}\n@article{chu2019a,\n  author = {Chu, H.Y.},\n  title = {The Seattle Flu Study: A Community-Based Study of Influenza},\n  journal = {Open Forum Infect Dis},\n  volume = {6},\n  pages = {1002\u20131002},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown-a,\n  title = {Transportation Traffic GeoPortal},\n  url = {https://www.wsdot.wa.gov/data/tools/geoportal/},\n  language = {},\n  institution = {Washington State Department of}\n}\n@article{halloran2008a,\n  author = {Halloran, M.E.},\n  title = {Modeling targeted layered containment of an influenza pandemic in the United States},\n  journal = {Proc. Natl. Acad. Sci. U. S. A},\n  volume = {105},\n  pages = {4639\u20134644},\n  date = {2008},\n  more-authors = {true},\n  language = {}\n}\n@article{germann2006a,\n  author = {Germann, T.C. and Kadau, K. and Longini, Jr, I.M. and Macken, C.A.},\n  title = {Mitigation strategies for pandemic influenza in the United States},\n  journal = {Proc. Natl. Acad. Sci. U. S. A},\n  volume = {103},\n  pages = {5935\u20135940},\n  date = {2006},\n  language = {}\n}\n@article{glass2006a,\n  author = {Glass, R. and Glass, L. and Beyeler, W. and Min, H.},\n  title = {Targeted Social Distancing Designs for Pandemic Influenza},\n  journal = {Emerging Infectious Diseasesvol},\n  volume = {12},\n  pages = {1671\u20131681},\n  date = {2006},\n  language = {}\n}\n@article{ferguson2006a,\n  author = {Ferguson, N.M.},\n  title = {Strategies for mitigating an influenza pandemic},\n  journal = {Naturevol},\n  volume = {442},\n  pages = {448\u2013452},\n  date = {2006},\n  more-authors = {true},\n  language = {}\n}\n@article{reis2018a,\n  author = {Reis, J. and Shaman, J.},\n  title = {Simulation of four respiratory viruses and inference of epidemiological parameters},\n  journal = {Infect Dis Model},\n  volume = {3},\n  pages = {23\u201334},\n  date = {2018},\n  language = {}\n}\n@article{lessler2009a,\n  author = {Lessler, J.},\n  title = {Incubation periods of acute respiratory viral infections: a systematic review},\n  journal = {Lancet Infect. Dis},\n  volume = {9},\n  pages = {291\u2013300},\n  date = {2009},\n  more-authors = {true},\n  language = {}\n}\n@article{bradburne1967a,\n  author = {Bradburne, A.F. and Bynoe, M.L. and Tyrrell, D.A.},\n  title = {Effects of a \u2018new\u2019 human respiratory virus in volunteers},\n  journal = {BMJvol},\n  volume = {3},\n  pages = {767\u2013769},\n  date = {1967},\n  language = {}\n}\n@article{nasserie2017a,\n  author = {Nasserie, T.},\n  title = {Seasonal Influenza Forecasting in Real Time Using the Incidence Decay With Exponential Adjustment Model},\n  journal = {Open Forum Infect Dis},\n  volume = {4},\n  pages = {166},\n  date = {2017},\n  more-authors = {true},\n  language = {}\n}\n@incollection{brugger2019a,\n  author = {Brugger, J. and Althaus, C.L.},\n  title = {Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015},\n  source = {Epidemics 100373},\n  date = {2019},\n  language = {}\n}\n@article{lau2010a,\n  author = {Lau, L.L.H.},\n  title = {Viral shedding and clinical illness in naturally acquired influenza virus infections},\n  journal = {J. Infect. Dis},\n  date = {2010},\n  pages = {1509\u20131516},\n  more-authors = {true},\n  language = {}\n}\n@article{peltola2013a,\n  author = {Peltola, V. and Waris, M. and Kainulainen, L. and Kero, J. and Ruuskanen, O.},\n  title = {Virus shedding after human rhinovirus infection in children, adults and patients with hypogammaglobulinaemia},\n  journal = {Clin. Microbiol. Infect},\n  volume = {19},\n  pages = {322\u20137},\n  date = {2013},\n  language = {}\n}\n@article{pitzer2015a,\n  author = {Pitzer, V.E.},\n  title = {Environmental drivers of the spatiotemporal dynamics of respiratory syncytial virus in the United States},\n  journal = {PLoS Pathog},\n  volume = {11},\n  pages = {1004591},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@article{munywoki2015a,\n  author = {Munywoki, P.K.},\n  title = {Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding},\n  journal = {Epidemiol. Infect},\n  volume = {143},\n  pages = {804\u2013812},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@book{unknown2018a,\n  title = {Red book: 2018-2021 report of the Committee on Infectious Diseases},\n  publisher = {American Academy of Pediatrics},\n  date = {2018},\n  language = {}\n}\n@book{ison2019a,\n  author = {Ison, M.G.Parainfluenza Viruses in Mandell and Douglas},\n  title = {and Bennett\u2019s Principles and Practice of Infectious Diseases(ed},\n  editor = {Bennett, J. and Dolin, R. and J, Blaser M.},\n  pages = {2081\u20132086},\n  publisher = {Elsevier},\n  date = {2019},\n  language = {}\n}\n@book{perlman2019a,\n  author = {Perlman, K.M.S.Coronaviruses},\n  title = {Including Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed},\n  editor = {Bennett, J. and Dolin, R. and J, Blaser M.},\n  pages = {2072\u20132080},\n  publisher = {Elsevier},\n  date = {2019},\n  language = {}\n}\n@book{dolin2019a,\n  author = {Dolin, R.Rhinoviruses in Mandell and Douglas},\n  title = {and Bennett\u2019s Principles and Practice of Infectious Diseases(ed},\n  editor = {Bennett, J. and Dolin, R. and J, Blaser M.},\n  pages = {2262\u20132268},\n  publisher = {Elsevier},\n  date = {2019},\n  language = {}\n}\n@book{angela2019a,\n  author = {Angela, R. and in Mandell, Branche A.R.F.Human Metapneumovirus and Douglas},\n  title = {and Bennett\u2019s Principles and Practice of Infectious Diseases(ed},\n  editor = {Bennett, J. and Dolin, R. and J, Blaser M.},\n  pages = {2104\u20132109},\n  publisher = {Elsevier},\n  date = {2019},\n  language = {}\n}\n",
+        "emails": [
+            "mfamulare@idmod.org"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Cauchemez, S.\nAU  - Valleron, A.-J.\nAU  - Bo\u00eblle, P.-Y.\nAU  - Flahault, A.\nAU  - Ferguson, N.M.\nTI  - Estimating the impact of school closure on influenza transmission from Sentinel data\nT2  - Nature\nVL  - 452\nSP  - 750\nEP  - 754\nPY  - 2008\nDA  - 2008\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Luca, G.D.\nTI  - The impact of regular school closure on seasonal influenza epidemics: a data-driven spatial transmission model for Belgium\nT2  - BMC Infect. Dis\nVL  - 18\nPY  - 2018\nDA  - 2018\nC1  - true\nIS  - 29\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ewing, A.\nAU  - Lee, E.C.\nAU  - Viboud, C.\nAU  - Bansal, S.Contact\nAU  - Travel\nTI  - and Transmission: The Impact of Winter Holidays on Influenza Dynamics in the United States\nT2  - J. Infect. Dis\nVL  - 215\nSP  - 732\nEP  - 739\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Russell, E.S.\nTI  - Reactive School Closure During Increased Influenza-Like Illness (ILI) Activity in\nT2  - Open Forum Infectious Diseasesvol\nVL  - 3\nPY  - 2016\nDA  - 2016\nC1  - true\nT2  - A Field Evaluation of Effect on ILI Incidence and Economic and Social Consequences for Families\nIS  - 113\nLA  - \nCY  - Western Kentucky, 2013\nER  - \n\nTY  - JOUR\nAU  - Ali, S.T.\nAU  - Cowling, B.J.\nAU  - Lau, E.H.Y.\nAU  - Fang, V.J.\nAU  - Leung, G.M.\nTI  - Mitigation of Influenza B Epidemic with School Closures, Hong Kong, 2018\nT2  - Emerg. Infect. Dis\nVL  - 24\nSP  - 2071\nEP  - 2073\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Miller, J.C.\nTI  - Student behavior during a school closure caused by pandemic influenza A/H1N1\nT2  - PLoS One\nVL  - 5\nSP  - 10425\nPY  - 2010\nDA  - 2010\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Litvinova, M.\nAU  - Liu, Q.-H.\nAU  - Kulikov, E.S.\nAU  - Ajelli, M.\nTI  - Reactive school closure weakens the network of social interactions and reduces the spread of influenza\nT2  - Proceedings of the National Academy of Sciencesvol\nVL  - 116\nSP  - 13174\nEP  - 13181\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Johnson, A.J.\nTI  - Household responses to school closure resulting from outbreak of influenza B, North Carolina\nT2  - Emerg. Infect. Dis\nVL  - 14\nSP  - 1024\nEP  - 1030\nPY  - 2008\nDA  - 2008\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chu, H.Y.\nTI  - The Seattle Flu Study: A Community-Based Study of Influenza\nT2  - Open Forum Infect Dis\nVL  - 6\nSP  - 1002\nEP  - 1002\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nTI  - Transportation Traffic GeoPortal\nUR  - https://www.wsdot.wa.gov/data/tools/geoportal/\nLA  - \nC1  - Washington State Department of\nER  - \n\nTY  - JOUR\nAU  - Halloran, M.E.\nTI  - Modeling targeted layered containment of an influenza pandemic in the United States\nT2  - Proc. Natl. Acad. Sci. U. S. A\nVL  - 105\nSP  - 4639\nEP  - 4644\nPY  - 2008\nDA  - 2008\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Germann, T.C.\nAU  - Kadau, K.\nAU  - Longini, Jr, I.M.\nAU  - Macken, C.A.\nTI  - Mitigation strategies for pandemic influenza in the United States\nT2  - Proc. Natl. Acad. Sci. U. S. A\nVL  - 103\nSP  - 5935\nEP  - 5940\nPY  - 2006\nDA  - 2006\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Glass, R.\nAU  - Glass, L.\nAU  - Beyeler, W.\nAU  - Min, H.\nTI  - Targeted Social Distancing Designs for Pandemic Influenza\nT2  - Emerging Infectious Diseasesvol\nVL  - 12\nSP  - 1671\nEP  - 1681\nPY  - 2006\nDA  - 2006\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ferguson, N.M.\nTI  - Strategies for mitigating an influenza pandemic\nT2  - Naturevol\nVL  - 442\nSP  - 448\nEP  - 452\nPY  - 2006\nDA  - 2006\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Reis, J.\nAU  - Shaman, J.\nTI  - Simulation of four respiratory viruses and inference of epidemiological parameters\nT2  - Infect Dis Model\nVL  - 3\nSP  - 23\nEP  - 34\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lessler, J.\nTI  - Incubation periods of acute respiratory viral infections: a systematic review\nT2  - Lancet Infect. Dis\nVL  - 9\nSP  - 291\nEP  - 300\nPY  - 2009\nDA  - 2009\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bradburne, A.F.\nAU  - Bynoe, M.L.\nAU  - Tyrrell, D.A.\nTI  - Effects of a \u2018new\u2019 human respiratory virus in volunteers\nT2  - BMJvol\nVL  - 3\nSP  - 767\nEP  - 769\nPY  - 1967\nDA  - 1967\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nasserie, T.\nTI  - Seasonal Influenza Forecasting in Real Time Using the Incidence Decay With Exponential Adjustment Model\nT2  - Open Forum Infect Dis\nVL  - 4\nSP  - 166\nPY  - 2017\nDA  - 2017\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Brugger, J.\nAU  - Althaus, C.L.\nTI  - Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015\nT2  - Epidemics 100373\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lau, L.L.H.\nTI  - Viral shedding and clinical illness in naturally acquired influenza virus infections\nT2  - J. Infect. Dis\nPY  - 2010\nDA  - 2010\nSP  - 1509\nEP  - 1516\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peltola, V.\nAU  - Waris, M.\nAU  - Kainulainen, L.\nAU  - Kero, J.\nAU  - Ruuskanen, O.\nTI  - Virus shedding after human rhinovirus infection in children, adults and patients with hypogammaglobulinaemia\nT2  - Clin. Microbiol. Infect\nVL  - 19\nSP  - 322\nEP  - 7\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Pitzer, V.E.\nTI  - Environmental drivers of the spatiotemporal dynamics of respiratory syncytial virus in the United States\nT2  - PLoS Pathog\nVL  - 11\nSP  - 1004591\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Munywoki, P.K.\nTI  - Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding\nT2  - Epidemiol. Infect\nVL  - 143\nSP  - 804\nEP  - 812\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nTI  - Red book: 2018-2021 report of the Committee on Infectious Diseases\nPB  - American Academy of Pediatrics\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Ison, M.G.Parainfluenza Viruses in Mandell\nAU  - Douglas\nTI  - and Bennett\u2019s Principles and Practice of Infectious Diseases(ed\nA2  - Bennett, J.\nA2  - Dolin, R.\nA2  - J, Blaser M.\nSP  - 2081\nEP  - 2086\nPB  - Elsevier\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Perlman, K.M.S.Coronaviruses\nTI  - Including Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed\nA2  - Bennett, J.\nA2  - Dolin, R.\nA2  - J, Blaser M.\nSP  - 2072\nEP  - 2080\nPB  - Elsevier\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Dolin, R.Rhinoviruses in Mandell\nAU  - Douglas\nTI  - and Bennett\u2019s Principles and Practice of Infectious Diseases(ed\nA2  - Bennett, J.\nA2  - Dolin, R.\nA2  - J, Blaser M.\nSP  - 2262\nEP  - 2268\nPB  - Elsevier\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Angela, R.\nAU  - in Mandell, Branche A.R.F.Human Metapneumovirus\nAU  - Douglas\nTI  - and Bennett\u2019s Principles and Practice of Infectious Diseases(ed\nA2  - Bennett, J.\nA2  - Dolin, R.\nA2  - J, Blaser M.\nSP  - 2104\nEP  - 2109\nPB  - Elsevier\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Pathogen-specific parameters and estimated impacts of weather-related contact disruption"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Snowfall, and impact on schools and regional transportation \u2013 greater Seattle metropolitan area, Jan\u2013Apr 2019. Top panel: public school closures in two representative districts and snowfall inches at Seattle-Tacoma International Airport; center panel, traffic on regional interstate highways vs. expected (green), with mean disruption due to weather (black); bottom panel: regional daily hospital admissions vs. expected (blue), with mean disruption due to weather (black)"
+            },
+            {
+                "id": "2",
+                "caption": "Observed and modeled daily counts of positive laboratory tests for nine respiratory viruses \u2013 Nov 2018 to May 2019, greater Seattle metropolitan area. The colored lines show the observed daily incidence for each of the nine pathogens. The black line is the model prediction using the maximum likelihood estimate for model parameters. The gray shading encapsulates the effect of uncertainty in the model parameters (95% CI). The vertical solid and dashed black lines mark the beginning and end of weather-related disruptions"
+            },
+            {
+                "id": "3",
+                "caption": "Effect of weather-related disruption on incidence. Percentage of the population infected over time for the best fit model (gray) and assuming no weather-related disruption in contact patterns (colored). The solid and dashed black lines mark the beginning and end of weather-related social distancing"
+            },
+            {
+                "id": "4",
+                "caption": "Estimated proportion of influenza A/H3N2 infections averted by a 14-day reduction in contact patterns analogous to those caused by the February 2019 extreme weather disruption, based on the day the contact pattern reduction begins"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.02.20027599.full.pdf_dw8l12tx_fz1n4_5a.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20027599.full.pdf_dw8l12tx_images_87248w69/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20027599.full.pdf_dw8l12tx_images_87248w69/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20027599.full.pdf_dw8l12tx_images_87248w69/img-003.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.02.20027599.full.pdf_dw8l12tx_images_87248w69/img-004.png"
+        ]
+    },
+    "sections": {
+        "methods": [
+            "Residual specimens from patients evaluated for acute respiratory illness at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses. Transmission models were fit to each virus, with disruption of contact rates and care-seeking informed by data on local traffic volumes and hospital admissions.",
+            "We modeled each pathogen with a deterministic SEIR transmission model coupled to a simple observation model: dS/dt = \u2212 \u03b2(1 + \u03b2\u2032\u03b8t)SI dE/dt = \u03b2(1 + \u03b2\u2032\u03b8t)SI \u2212 \u03c3E dI/dt = \u03c3E \u2212 \u03b3I dH/dt = p(1 + \u03b1\u03b8t)(dI/dt) + p\u03b1(\u03b4tstart \u2212 \u03b4t end)I where S,E, and Iare the proportion of the population that is susceptible, infected but not yet infectious, and infectious, respectively. \u03b2is the effective contact rate, \u03c3is the rate of movement from pre-infectious to infectious ,and \u03b3is the rate of loss of infectiousness. The \u03b2\u2019is the strength of the interruption to disease transmission during the extreme weather event, which operates on a square pulse \u03b8t between times tstartand tend.In the observation model, His the number of observed infections, pis the convolution of sampling probability and population size. The \u03b1 parameter is the strength of the interruption of observation during the extreme weather event, which is assumed to be -10% based on hospital visit data (Figure 1).<br/><br/>Values for \u03c3-1\u200b and \u03b3-1\u200b were estimated from the existing literature for the nine viruses (Table 1).[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>\u2013<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>] Estimates for \u03b2, \u03b2\u2019,p,and the proportion of the population infected at the start of the season were obtained via maximum likelihood estimation assuming daily observations were a Poisson sample from the underlying prevalence. We calculated confidence intervals by randomly drawing 200 parameter sets from the posterior distribution and generating 100 realizations (with the Poisson noise) of each, removing trajectories below the 2.5 percentile and above the 97.5 percentile."
+        ],
+        "results": [
+            "Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%. Incidence reductions were greatest for viruses that were peaking when the disruption occurred and least for viruses in early epidemic phase."
+        ],
+        "conclusion": [
+            "High-intensity, short-duration social distancing measures may substantially reduce total incidence in a respiratory virus epidemic if implemented near the epidemic peak.<br/><br/>Main text: In the event of a pandemic caused by a novel respiratory virus, social distancing is one of the few effective interventions for reducing transmission and infection before vaccines or other prophylactic interventions become available. The potential impact and optimal timing of city-wide social distancing interventions to reduce the spread of influenza and other respiratory viruses are largely unknown. Most estimates of social distancing impact are limited to studies of school closures, including both routine holiday closures and reactive closures due to influenza epidemics. School closures may reduce rates of medically-attended influenza in school-aged children, although with highly heterogeneous effects (2% to 29% reductions), and with lesser effects on younger children and adults.\u200b1\u20135<br/><br/>Generalizing to broader social distancing efforts from these studies is difficult, however, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel. This disruption of work and travel can be considered a proxy for social distancing that might accompany community-wide social mobility restrictions in the event of a pandemic. The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area."
+        ],
+        "ethical_compliance": [
+            "The study was approved by the institutional review board at the University of Washington (protocol #00006181). Informed consent for residual sample and clinical data collection was waived, as these samples were already collected as part of routine clinical care, and it was not possible to re-contact these individuals."
+        ],
+        "acknowledgments": [
+            "The Seattle Flu Study is funded through the Brotman Baty Institute For Precision Medicine. The funder was not involved in the design of the study, does not have any ownership over the management and conduct of the study, the data, or the rights to publish."
+        ],
+        "disclosures": [
+            "Michael L. Jackson has received grant funding from Sanofi Pasteur, unrelated to the present work. Janet A. Englund is a consultant for Sanofi Pasteur and Meissa Vaccines, Inc., and receives research support from GlaxoSmithKline, AstraZeneca, and Novavax. Helen Chu is a consultant for Merck and GlaxoSmithKline. Gregory R. Hart, Denise J. McCulloch, Amanda Adler, Elisabeth Brandstetter, Kairsten Fay, Peter Han, Kirsten Lacombe, Jover Lee, Thomas Sibley, Deborah A. Nickerson, Mark J. Rieder, Lea M. Starita, Amanda Adler, Trevor Bedford, and Michael Famulare declare no competing interests."
+        ],
+        "funding": [
+            "The Seattle Flu Study is funded through the Brotman Baty Institute For Precision Medicine"
+        ],
+        "introduction": [
+            "Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%. Incidence reductions were greatest for viruses"
+        ],
+        "objectives": [
+            "The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area"
+        ]
+    },
+    "structured_content": {
+        "METHODS": [
+            "Residual specimens from patients evaluated for acute respiratory illness at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses. Transmission models were fit to each virus, with disruption of contact rates and care-seeking informed by data on local traffic volumes and hospital admissions."
+        ],
+        "RESULTS": [
+            "Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%. Incidence reductions were greatest for viruses that were peaking when the disruption occurred and least for viruses in early epidemic phase."
+        ],
+        "CONCLUSION": [
+            "High-intensity, short-duration social distancing measures may substantially reduce total incidence in a respiratory virus epidemic if implemented near the epidemic peak.",
+            "Main text: In the event of a pandemic caused by a novel respiratory virus, social distancing is one of the few effective interventions for reducing transmission and infection before vaccines or other prophylactic interventions become available. The potential impact and optimal timing of city-wide social distancing interventions to reduce the spread of influenza and other respiratory viruses are largely unknown. Most estimates of social distancing impact are limited to studies of school closures, including both routine holiday closures and reactive closures due to influenza epidemics. School closures may reduce rates of medically-attended influenza in school-aged children, although with highly heterogeneous effects (2% to 29% reductions), and with lesser effects on younger children and adults.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]",
+            "Generalizing to broader social distancing efforts from these studies is difficult, however, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel. This disruption of work and travel can be considered a proxy for social distancing that might accompany community-wide social mobility restrictions in the event of a pandemic. The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area.",
+            "The Seattle Flu Study, initiated during the 2018/19 influenza season, is a multi-armed regional surveillance project which aims to evaluate the transmission of influenza and other respiratory pathogens at a city-wide scale[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].During the 2018/19 influenza season, surveillance occurred at a variety of settings in the greater Seattle metropolitan area. The main surveillance arms of the Seattle Flu Study were:",
+            "\u25cf prospective enrollment of community members with acute respiratory illness (ARI) through standalone kiosks at university campuses, airports, workplaces, homeless shelters, and high-traffic tourist areas;",
+            "\u25cf prospective enrollment of ambulatory care patients with acute respiratory illness; \u25cf active surveillance for ARI in a cohort of children enrolled in daycare centers; \u25cf collection and molecular testing of residual specimens from patients evaluated at regional hospitals for ARI. For this analysis, we focus on data from the residual specimen testing as that provided 86% of samples (9,199 of 10,696) and with the broadest regional population representation.",
+            "Nucleic acids extracted from respiratory swab specimens from study participants were screened for the presence of multiple respiratory pathogens by reverse-transcription and Taqman. Screened pathogens included influenza A/H1N1, A/H3N2, and B; respiratory syncytial virus (RSV) A and B; human coronavirus (229E, NL63, OC43, HKU1) (hCoV); human metapneumovirus (hMPV); rhinovirus (HRV), and adenovirus (AdV).",
+            "Unusually heavy snowfall occurred in the greater Seattle metropolitan area between Feb 3 and Feb 11 2019, totalling 20.2 inches at Seattle-Tacoma International Airport over this time (Figure 1). The majority of public schools in the region were closed for at least five days, with a weekend in between. Traffic volumes on major interstate highways in the greater Seattle area ranged between 24% and 90% (mean, 63%) of average daily volume during the 12 day period from Feb 3 to Feb 15, 2019.\u200b10 Admissions to Harborview Medical Center, University of Washington Medical Center, and Northwest Hospital ranged from 72% to 99% (mean, 90%) of average daily volume over this same period. City of Seattle public preschools were closed from Feb 9 through Feb 13, and King County public transportation was on emergency service from Feb 9 through Feb 12.",
+            "We modeled daily counts of Seattle Flu Study specimens testing positive for each of nine respiratory viruses using the Susceptible-Exposed-Infectious-Recovered (SEIR) framework, allowing for decreases both in virus transmission and in probability of detection by surveillance during the period of school and traffic disruption (Figure 2). The transient weather-related decrease in effective contact rates ranged from 16.2% (95% CI, 7.1\u201324.2%) for coronavirus to 94.6% (95% CI, 70.7\u2013100%) for RSV A (Table 1).",
+            "We estimated the percent of infections averted by weather-related city-wide disruption by simulating transmission of each of these nine viruses with and without the presence of decreased effective contact rates and compared incidence of infection under both scenarios. The percent of infections averted ranged from 3.0% (95% CI, 2.0\u20133.7%) for human metapneumovirus to 9.2% (95% CI, 6.2\u201310.3%) for RSV B (Table 1). Comparing the pathogens with the highest incidence, influenza A/H1N1 and influenza A/H3N2, we observed that the weather-related disruption occurred shortly before the predicted peak of the influenza A/H1N1 epidemic but early in the course of the influenza A/H3N2 epidemic (Figure 3). The estimated impact of the disruption was significantly greater for A/H1N1 (7.6% of infections averted, 95% CI, 5.2\u20138.7%) than for A/H3N2 (3.1% averted, 95% CI, 2.5\u20133.2%). For A/H1N1, the weather-related transmission disruption appears to have reduced incidence without significant rebound, while the main effect on A/H3N2 was to delay the peak in incidence by an estimated 18 days (95% CI, 17\u201321 days).",
+            "To characterize the effect of the timing of social distancing on epidemic incidence, we simulated the incidence of influenza A/H3N2 without any weather-related disruption, and with a 14-day disruption starting between day 20 and day 80 of the epidemic (Figure 4). In the absence of any disruption, the epidemic is predicted to peak on day 67. Early in the course of the epidemic, a 14-day disruption, by itself, has little effect on the final epidemic size. In contrast, disruptions at or near the peak can meaningfully reduce peak incidence. For example, a disruption starting on day 65 reduced total incidence by 16% in these simulations.",
+            "Modeling and simulation studies have been used to predict the impact of social distancing on the course of a hypothetical influenza pandemic (e.g. \u200b11\u201314). Although there is heterogeneity in the specific form of social distancing modeled, most of the studies have assumed that social distancing measures are initiated early in the course of a pandemic. These studies consistently suggest that such social distancing can delay the timing and intensity of the pandemic peak, but with little impact on the final attack rate of the pandemic. Our observations support these findings. The extreme snowfall of February 2019 occurred early in the seasonal epidemics of influenza A/H3N2 and hMPV, and we estimate that the final attack rates of these viruses only decreased by 3% and the peaks only shifted by 18 or 15 days, respectively. In contrast, the extreme snowfall occurred close to the predicted peak of the seasonal epidemics of several other viruses, particularly influenza A/H1N1 and RSV. For these viruses, weather-related social distancing had larger impacts, with final attack rates reduced by 7.6% to 9.2% and prevalence remaining below the pre-disruption level for the remainder of the season. This finding suggests that short-term social distancing is most effective at reducing overall attack rates when it occurs close to the peak of the epidemic, or equivalently when force of infection is greatest.",
+            "Because it is unlikely that traffic and school closure data fully capture the changes in population contacts due to extreme snowfall, we did not attempt to parse the relative impacts of specific changes on routes of transmission. However, we did observe that decreases in effective contact rates were negatively correlated with the fraction of subjects 18 years of age or older for each pathogen (R\u200b2\u200b = \u20130.65, p=0.06). As reductions in effective contact rates were greatest for viruses impacting the youngest, this suggests that weather-related school closures may have had a greater effect on contact frequencies among children than commuting and workplace disruptions among adults.",
+            "Simulation studies to estimate the impact of social distancing on an influenza pandemic\u200b11\u201314\u200b have generally assumed that social distancing is implemented early in the pandemic and maintained until the end of the pandemic, a period of many months. The feasibility of such long-term interventions is unclear. In contrast, the widespread school and travel disruptions resulting from snowfall in Feb 2019 serve as a proxy for a more realistic high-intensity, short-duration social distancing intervention, where schools and workplaces are closed and re-congregation is discouraged for approximately two weeks. Our study suggests that such an intervention could be beneficial in reducing the total incidence if implemented near the peak of a pandemic."
+        ],
+        "Methods": [
+            "We modeled each pathogen with a deterministic SEIR transmission model coupled to a simple observation model: dS/dt = \u2212 \u03b2(1 + \u03b2\u2032\u03b8t)SI dE/dt = \u03b2(1 + \u03b2\u2032\u03b8t)SI \u2212 \u03c3E dI/dt = \u03c3E \u2212 \u03b3I dH/dt = p(1 + \u03b1\u03b8t)(dI/dt) + p\u03b1(\u03b4tstart \u2212 \u03b4t end)I where S,E, and Iare the proportion of the population that is susceptible, infected but not yet infectious, and infectious, respectively. \u03b2is the effective contact rate, \u03c3is the rate of movement from pre-infectious to infectious ,and \u03b3is the rate of loss of infectiousness. The \u03b2\u2019is the strength of the interruption to disease transmission during the extreme weather event, which operates on a square pulse \u03b8t between times tstartand tend.In the observation model, His the number of observed infections, pis the convolution of sampling probability and population size. The \u03b1 parameter is the strength of the interruption of observation during the extreme weather event, which is assumed to be -10% based on hospital visit data (Figure 1).",
+            "Values for \u03c3-1\u200b and \u03b3-1\u200b were estimated from the existing literature for the nine viruses (Table 1).[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>\u2013<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>] Estimates for \u03b2, \u03b2\u2019,p,and the proportion of the population infected at the start of the season were obtained via maximum likelihood estimation assuming daily observations were a Poisson sample from the underlying prevalence. We calculated confidence intervals by randomly drawing 200 parameter sets from the posterior distribution and generating 100 realizations (with the Poisson noise) of each, removing trajectories below the 2.5 percentile and above the 97.5 percentile."
+        ],
+        "Ethical Approval": [
+            "The study was approved by the institutional review board at the University of Washington (protocol #00006181). Informed consent for residual sample and clinical data collection was waived, as these samples were already collected as part of routine clinical care, and it was not possible to re-contact these individuals."
+        ],
+        "Acknowledgments": [
+            "The Seattle Flu Study is funded through the Brotman Baty Institute For Precision Medicine. The funder was not involved in the design of the study, does not have any ownership over the management and conduct of the study, the data, or the rights to publish."
+        ],
+        "Competing interests": [
+            "Michael L. Jackson has received grant funding from Sanofi Pasteur, unrelated to the present work. Janet A. Englund is a consultant for Sanofi Pasteur and Meissa Vaccines, Inc., and receives research support from GlaxoSmithKline, AstraZeneca, and Novavax. Helen Chu is a consultant for Merck and GlaxoSmithKline. Gregory R. Hart, Denise J. McCulloch, Amanda Adler, Elisabeth Brandstetter, Kairsten Fay, Peter Han, Kirsten Lacombe, Jover Lee, Thomas Sibley, Deborah A. Nickerson, Mark J. Rieder, Lea M. Starita, Amanda Adler, Trevor Bedford, and Michael Famulare declare no competing interests.",
+            "Principal Investigators: Helen Y. Chu, MD, MPH1\u200b ,7,Michael Boeckh, MD, PhD1\u200b ,2,7,Janet A. Englund, MD1\u200b ,3,7,Michael Famulare, PhD4\u200b , Barry R. Lutz, PhD\u200b5,7,Deborah A. Nickerson, PhD6\u200b ,7\u200b , Mark J. Rieder, PhD\u200b7,Lea M. Starita, PhD6\u200b ,7,Matthew Thompson, MD, MPH, DPhil9\u200b ,Jay Shendure, MD, PhD6\u200b ,7,8,and Trevor Bedford, PhD2\u200b ,6,7",
+            "Co-Investigators: Amanda Adler, MS3\u200b ,Elisabeth Brandstetter, MPH1\u200b ,Jeris Bosua, BA\u200b10,Shari Cho, MS7\u200b ,Chris D. Frazar, MS\u200b1,Peter D. Han, MS\u200b7,James Hadfield, PhD1\u200b ,Shichu Huang, PhD5\u200b ,Michael L. Jackson, PhD, MPH1\u200b 1,Anahita Kiavand, MS1\u200b ,Louise E. Kimball, PhD2\u200b ,Kirsten Lacombe, RN, MSN3\u200b ,Jennifer Logue, BS1\u200b ,Victoria Lyon, MPH1\u200b ,Kira L. Newman, MD, PhD1\u200b , Matthew",
+            "Richardson, BA6\u200b ,Thomas R. Sibley, BA\u200b2,Monica L. Zigman Suchsland, MPH1\u200b ,and Caitlin Wolf, BS\u200b1",
+            "Affiliations: 1 Department of Medicine, University of Washington 2 Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center 3 Seattle Children\u2019s Research Institute 4 Institute for Disease Modeling 5 Department of Bioengineering, University of Washington 6 Department of Genome Sciences, University of Washington 7 Brotman Baty Institute For Precision Medicine 8 Howard Hughes Medical Institute 9 Department of Family Medicine, University of Washington 10 Blaze Clinical 11 Kaiser Permanente Washington Health Research Institute"
+        ],
+        "References": [
+            "1. Cauchemez, S., Valleron, A.-J., Bo\u00eblle, P.-Y., Flahault, A. & Ferguson, N. M. Estimating the impact of school closure on influenza transmission from Sentinel data. Nature[452\u200b, 750\u2013754] (2008).",
+            "2. Luca, G. D. et al.The impact of regular school closure on seasonal influenza epidemics: a data-driven spatial transmission model for Belgium. BMC Infect. Dis.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>\u200b, 29] (2018).",
+            "3. Ewing, A., Lee, E. C., Viboud, C. & Bansal, S. Contact, Travel, and Transmission: The Impact of Winter Holidays on Influenza Dynamics in the United States. J. Infect. Dis.[215\u200b, 732\u2013739] (2017).",
+            "4. Russell, E. S. et al.Reactive School Closure During Increased Influenza-Like Illness (ILI) Activity in Western Kentucky, 2013: A Field Evaluation of Effect on ILI Incidence and Economic and Social Consequences for Families. Open Forum Infectious Diseasesvol. 3 ofw113 (2016).",
+            "5. Ali, S. T., Cowling, B. J., Lau, E. H. Y., Fang, V. J. & Leung, G. M. Mitigation of Influenza B",
+            "Epidemic with School Closures, Hong Kong, 2018. Emerg. Infect. Dis.\u200b24\u200b, 2071\u20132073 (2018). 6. Miller, J. C. et al.Student behavior during a school closure caused by pandemic influenza A/H1N1. PLoS One\u200b5\u200b, e10425 (2010). 7. Litvinova, M., Liu, Q.-H., Kulikov, E. S. & Ajelli, M. Reactive school closure weakens the network of social interactions and reduces the spread of influenza. Proceedings of the National Academy of Sciencesvol. 116 13174\u201313181 (2019). 8. Johnson, A. J. et al.Household responses to school closure resulting from outbreak of influenza B, North Carolina. Emerg. Infect. Dis.\u200b14\u200b, 1024\u20131030 (2008). 9. Chu, H. Y. et al.LB21. The Seattle Flu Study: A Community-Based Study of Influenza. Open Forum Infect Dis\u200b6\u200b, S1002\u2013S1002 (2019). 10. Washington State Department of Transportation Traffic GeoPortal. https://www.wsdot.wa.gov/data/tools/geoportal/?config=traffic. 11. Halloran, M. E. et al.Modeling targeted layered containment of an influenza pandemic in the United States. Proc. Natl. Acad. Sci. U. S. A.\u200b105\u200b, 4639\u20134644 (2008). 12. Germann, T. C., Kadau, K., Longini, I. M., Jr & Macken, C. A. Mitigation strategies for pandemic influenza in the United States. Proc. Natl. Acad. Sci. U. S. A.\u200b103\u200b, 5935\u20135940 (2006). 13. Glass, R., Glass, L., Beyeler, W. & Min, H. Targeted Social Distancing Designs for Pandemic Influenza. Emerging Infectious Diseasesvol. 12 1671\u20131681 (2006). 14. Ferguson, N. M. et al.Strategies for mitigating an influenza pandemic. Naturevol. 442 448\u2013452 (2006). 15. Reis, J. & Shaman, J. Simulation of four respiratory viruses and inference of epidemiological parameters. Infect Dis Model\u200b3\u200b, 23\u201334 (2018).",
+            "16. Lessler, J. et al.Incubation periods of acute respiratory viral infections: a systematic review. Lancet Infect. Dis.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>\u200b, 291\u2013300] (2009).",
+            "17. Bradburne, A. F., Bynoe, M. L. & Tyrrell, D. A. Effects of a \u2018new\u2019 human respiratory virus in volunteers. BMJvol. 3 767\u2013769 (1967).",
+            "18. Nasserie, T. et al.Seasonal Influenza Forecasting in Real Time Using the Incidence Decay With Exponential Adjustment Model. Open Forum Infect Dis[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>\u200b], ofx[166] (2017).",
+            "19. Brugger, J. & Althaus, C. L. Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015. Epidemics 100373 (2019).",
+            "20. Lau, L. L. H. et al.Viral shedding and clinical illness in naturally acquired influenza virus infections. J. Infect. Dis.\u200b201\u200b, 1509\u20131516 (2010).",
+            "21. Peltola, V., Waris, M., Kainulainen, L., Kero, J. & Ruuskanen, O. Virus shedding after human rhinovirus infection in children, adults and patients with hypogammaglobulinaemia. Clin. Microbiol. Infect.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>\u200b], E322\u20137 (2013).",
+            "22. Pitzer, V. E. et al.Environmental drivers of the spatiotemporal dynamics of respiratory syncytial virus in the United States. PLoS Pathog.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>\u200b], e1004591 (2015).",
+            "23. Munywoki, P. K. et al.Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding. Epidemiol. Infect.[143\u200b, 804\u2013812] (2015).",
+            "24. Red book: 2018-2021 report of the Committee on Infectious Diseases. (American Academy of Pediatrics, 2018).",
+            "25. Ison, M. G. Parainfluenza Viruses. in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2081\u20132086 (Elsevier, 2019).",
+            "26. Perlman, K. M. S. Coronaviruses, Including Severe Acute Respiratory Syndrome (SARS)",
+            "and Middle East Respiratory Syndrome (MERS). in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2072\u20132080 (Elsevier, 2019). 27. Dolin, R. Rhinoviruses. in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2262\u20132268 (Elsevier, 2019). 28. Angela R, Branche A R F. Human Metapneumovirus. in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2104\u20132109 (Elsevier, 2019)."
+        ]
+    },
+    "participants": [],
+    "statistics": [
+        {
+            "p_value": "p=0.06",
+            "context": "Because it is unlikely that traffic and school closure data fully capture the changes in population contacts due to extreme snowfall, we did not attempt to parse the relative impacts of specific changes on routes of transmission. <mark class=\"stats\">However, we did observe that decreases in effective contact rates were negatively correlated with the fraction of subjects 18 years of age or older for each pathogen (R\u200b2\u200b = \u20130.65, p=0.06)</mark>. As reductions in effective contact rates were greatest for viruses impacting the youngest, this suggests that weather-related school closures may have had a greater effect on contact frequencies among children than commuting and workplace disruptions among adults"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Observed and modeled daily counts of positive laboratory tests for nine respiratory viruses \u2013 Nov 2018 to May 2019, greater Seattle metropolitan area. The colored lines show the observed daily incidence for each of the nine pathogens. The black line is the model prediction using the maximum likelihood estimate for model parameters. The gray shading encapsulates the effect of uncertainty in the model parameters (95% CI). The vertical solid and dashed black lines mark the beginning and end of weather-related disruptions</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood estimate"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "duration social",
+        "dynamics",
+        "effective contact",
+        "acute respiratory",
+        "human metapneumovirus",
+        "washington state",
+        "social distancing",
+        "Famulare declare",
+        "respiratory virus",
+        "western washington",
+        "high snowfall",
+        "school closure",
+        "acute respiratory illness",
+        "virus epidemic",
+        "united states",
+        "seattle metropolitan",
+        "Infectious disease",
+        "intervention period",
+        "workplace closure",
+        "epidemics",
+        "respiratory syncytial virus",
+        "syncytial virus",
+        "contact pattern",
+        "metropolitan area",
+        "widespread school",
+        "contact rate",
+        "transmission model"
+    ],
+    "keyword_relevance": {
+        "social distancing": 0.1724137931,
+        "respiratory virus": 0.1034482759,
+        "school closure": 0.0862068966,
+        "respiratory syncytial virus": 0.0862068966,
+        "contact rate": 0.0689655172,
+        "effective contact": 0.0603448276,
+        "acute respiratory illness": 0.0517241379,
+        "metropolitan area": 0.0517241379,
+        "human metapneumovirus": 0.0431034483,
+        "epidemics": 0.0431034483,
+        "acute respiratory": 0.0344827586,
+        "contact pattern": 0.0344827586,
+        "syncytial virus": 0.025862069,
+        "widespread school": 0.025862069,
+        "duration social": 0.0172413793,
+        "high snowfall": 0.0172413793,
+        "virus epidemic": 0.0172413793,
+        "workplace closure": 0.0172413793,
+        "transmission model": 0.0172413793,
+        "dynamics": 0.0086206897,
+        "Famulare declare": 0.0086206897,
+        "intervention period": 0.0086206897,
+        "washington state": 0.0,
+        "western washington": 0.0,
+        "united states": 0.0,
+        "seattle metropolitan": 0.0,
+        "Infectious disease": 0.0
+    },
+    "species": [
+        "Famulare declare"
+    ],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%.",
+        "<h2 style=\"display: inline\">Objectives:</h2> The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area.",
+        "<h2 style=\"display: inline\">Methods:</h2> Residual specimens from patients evaluated for acute respiratory illness at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses.",
+        "The \u03b2\u2019is the strength of the interruption to disease transmission during the extreme weather event, which operates on a square pulse \u03b8t between times tstartand tend.In the observation model, His the number of observed infections, pis the convolution of sampling probability and population size.",
+        "The \u03b1 parameter is the strength of the interruption of observation during the extreme weather event, which is assumed to be -10% based on hospital visit data (Figure 1).",
+        "The authors calculated confidence intervals by randomly drawing 200 parameter sets from the posterior distribution and generating 100 realizations of each, removing trajectories below the 2.5 percentile and above the 97.5 percentile",
+        "<h2 style=\"display: inline\">Results:</h2> Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%.",
+        "Incidence reductions were greatest for viruses that were peaking when the disruption occurred and least for viruses in early epidemic phase",
+        "<h2 style=\"display: inline\">Conclusion:</h2> High-intensity, short-duration social distancing measures may substantially reduce total incidence in a respiratory virus epidemic if implemented near the epidemic peak.<br/><br/>Main text: In the event of a pandemic caused by a novel respiratory virus, social distancing is one of the few effective interventions for reducing transmission and infection before vaccines or other prophylactic interventions become available.",
+        "Generalizing to broader social distancing efforts from these studies is difficult, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel.",
+        "The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%."
+        ],
+        "Objectives": [
+            "The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area."
+        ],
+        "Methods": [
+            "Residual specimens from patients evaluated for acute respiratory illness at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses.",
+            "The \u03b2\u2019is the strength of the interruption to disease transmission during the extreme weather event, which operates on a square pulse \u03b8t between times tstartand tend.In the observation model, His the number of observed infections, pis the convolution of sampling probability and population size.",
+            "The \u03b1 parameter is the strength of the interruption of observation during the extreme weather event, which is assumed to be -10% based on hospital visit data (Figure 1).",
+            "The authors calculated confidence intervals by randomly drawing 200 parameter sets from the posterior distribution and generating 100 realizations of each, removing trajectories below the 2.5 percentile and above the 97.5 percentile"
+        ],
+        "Results": [
+            "Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%.",
+            "Incidence reductions were greatest for viruses that were peaking when the disruption occurred and least for viruses in early epidemic phase"
+        ],
+        "Conclusion": [
+            "High-intensity, short-duration social distancing measures may substantially reduce total incidence in a respiratory virus epidemic if implemented near the epidemic peak.<br/><br/>Main text: In the event of a pandemic caused by a novel respiratory virus, social distancing is one of the few effective interventions for reducing transmission and infection before vaccines or other prophylactic interventions become available.",
+            "Generalizing to broader social distancing efforts from these studies is difficult, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel.",
+            "The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Cauchemez_et+al_2008_a",
+            "entry": "1. Cauchemez, S., Valleron, A.-J., Bo\u00eblle, P.-Y., Flahault, A. & Ferguson, N. M. Estimating the impact of school closure on influenza transmission from Sentinel data. Nature 452, 750\u2013754 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cauchemez%2C%20S.%20Valleron%2C%20A.-J.%20Bo%C3%ABlle%2C%20P.-Y.%20Flahault%2C%20A.%20Estimating%20the%20impact%20of%20school%20closure%20on%20influenza%20transmission%20from%20Sentinel%20data%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cauchemez%2C%20S.%20Valleron%2C%20A.-J.%20Bo%C3%ABlle%2C%20P.-Y.%20Flahault%2C%20A.%20Estimating%20the%20impact%20of%20school%20closure%20on%20influenza%20transmission%20from%20Sentinel%20data%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cauchemez%2C%20S.%20Valleron%2C%20A.-J.%20Bo%C3%ABlle%2C%20P.-Y.%20Flahault%2C%20A.%20Estimating%20the%20impact%20of%20school%20closure%20on%20influenza%20transmission%20from%20Sentinel%20data%202008"
+        },
+        {
+            "id": "2",
+            "alt_id": "Luca_2018_a",
+            "entry": "2. Luca, G. D. et al.The impact of regular school closure on seasonal influenza epidemics: a data-driven spatial transmission model for Belgium. BMC Infect. Dis. 18, 29 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Luca%2C%20G.D.%20The%20impact%20of%20regular%20school%20closure%20on%20seasonal%20influenza%20epidemics%3A%20a%20data-driven%20spatial%20transmission%20model%20for%20Belgium%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Luca%2C%20G.D.%20The%20impact%20of%20regular%20school%20closure%20on%20seasonal%20influenza%20epidemics%3A%20a%20data-driven%20spatial%20transmission%20model%20for%20Belgium%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Luca%2C%20G.D.%20The%20impact%20of%20regular%20school%20closure%20on%20seasonal%20influenza%20epidemics%3A%20a%20data-driven%20spatial%20transmission%20model%20for%20Belgium%202018"
+        },
+        {
+            "id": "3",
+            "alt_id": "Ewing_et+al_2017_a",
+            "entry": "3. Ewing, A., Lee, E. C., Viboud, C. & Bansal, S. Contact, Travel, and Transmission: The Impact of Winter Holidays on Influenza Dynamics in the United States. J. Infect. Dis. 215, 732\u2013739 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ewing%2C%20A.%20Lee%2C%20E.C.%20Viboud%2C%20C.%20Bansal%2C%20S.Contact%20and%20Transmission%3A%20The%20Impact%20of%20Winter%20Holidays%20on%20Influenza%20Dynamics%20in%20the%20United%20States%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ewing%2C%20A.%20Lee%2C%20E.C.%20Viboud%2C%20C.%20Bansal%2C%20S.Contact%20and%20Transmission%3A%20The%20Impact%20of%20Winter%20Holidays%20on%20Influenza%20Dynamics%20in%20the%20United%20States%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ewing%2C%20A.%20Lee%2C%20E.C.%20Viboud%2C%20C.%20Bansal%2C%20S.Contact%20and%20Transmission%3A%20The%20Impact%20of%20Winter%20Holidays%20on%20Influenza%20Dynamics%20in%20the%20United%20States%202017"
+        },
+        {
+            "id": "4",
+            "alt_id": "Russell_2016_a",
+            "entry": "4. Russell, E. S. et al.Reactive School Closure During Increased Influenza-Like Illness (ILI) Activity in Western Kentucky, 2013: A Field Evaluation of Effect on ILI Incidence and Economic and Social Consequences for Families. Open Forum Infectious Diseasesvol. 3 ofw113 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Russell%2C%20E.S.%20Reactive%20School%20Closure%20During%20Increased%20Influenza-Like%20Illness%20%28ILI%29%20Activity%20in%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Russell%2C%20E.S.%20Reactive%20School%20Closure%20During%20Increased%20Influenza-Like%20Illness%20%28ILI%29%20Activity%20in%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Russell%2C%20E.S.%20Reactive%20School%20Closure%20During%20Increased%20Influenza-Like%20Illness%20%28ILI%29%20Activity%20in%202016"
+        },
+        {
+            "id": "5",
+            "alt_id": "Ali_et+al_2018_a",
+            "entry": "5. Ali, S. T., Cowling, B. J., Lau, E. H. Y., Fang, V. J. & Leung, G. M. Mitigation of Influenza B Epidemic with School Closures, Hong Kong, 2018. Emerg. Infect. Dis. 24, 2071\u20132073 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ali%20S%20T%20Cowling%20B%20J%20Lau%20E%20H%20Y%20Fang%20V%20J%20%20Leung%20G%20M%20Mitigation%20of%20Influenza%20B%20Epidemic%20with%20School%20Closures%20Hong%20Kong%202018%20Emerg%20Infect%20Dis%2024%2020712073%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ali%20S%20T%20Cowling%20B%20J%20Lau%20E%20H%20Y%20Fang%20V%20J%20%20Leung%20G%20M%20Mitigation%20of%20Influenza%20B%20Epidemic%20with%20School%20Closures%20Hong%20Kong%202018%20Emerg%20Infect%20Dis%2024%2020712073%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ali%20S%20T%20Cowling%20B%20J%20Lau%20E%20H%20Y%20Fang%20V%20J%20%20Leung%20G%20M%20Mitigation%20of%20Influenza%20B%20Epidemic%20with%20School%20Closures%20Hong%20Kong%202018%20Emerg%20Infect%20Dis%2024%2020712073%202018"
+        },
+        {
+            "id": "6",
+            "alt_id": "Miller_2010_a",
+            "entry": "6. Miller, J. C. et al.Student behavior during a school closure caused by pandemic influenza A/H1N1. PLoS One 5, e10425 (2010).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Miller%2C%20J.C.%20Student%20behavior%20during%20a%20school%20closure%20caused%20by%20pandemic%20influenza%20A/H1N1%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Miller%2C%20J.C.%20Student%20behavior%20during%20a%20school%20closure%20caused%20by%20pandemic%20influenza%20A/H1N1%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Miller%2C%20J.C.%20Student%20behavior%20during%20a%20school%20closure%20caused%20by%20pandemic%20influenza%20A/H1N1%202010"
+        },
+        {
+            "id": "7",
+            "alt_id": "Litvinova_et+al_2019_a",
+            "entry": "7. Litvinova, M., Liu, Q.-H., Kulikov, E. S. & Ajelli, M. Reactive school closure weakens the network of social interactions and reduces the spread of influenza. Proceedings of the National Academy of Sciencesvol. 116 13174\u201313181 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Litvinova%2C%20M.%20Liu%2C%20Q.-H.%20Kulikov%2C%20E.S.%20Ajelli%2C%20M.%20Reactive%20school%20closure%20weakens%20the%20network%20of%20social%20interactions%20and%20reduces%20the%20spread%20of%20influenza%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Litvinova%2C%20M.%20Liu%2C%20Q.-H.%20Kulikov%2C%20E.S.%20Ajelli%2C%20M.%20Reactive%20school%20closure%20weakens%20the%20network%20of%20social%20interactions%20and%20reduces%20the%20spread%20of%20influenza%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Litvinova%2C%20M.%20Liu%2C%20Q.-H.%20Kulikov%2C%20E.S.%20Ajelli%2C%20M.%20Reactive%20school%20closure%20weakens%20the%20network%20of%20social%20interactions%20and%20reduces%20the%20spread%20of%20influenza%202019"
+        },
+        {
+            "id": "8",
+            "alt_id": "Johnson_2008_a",
+            "entry": "8. Johnson, A. J. et al.Household responses to school closure resulting from outbreak of influenza B, North Carolina. Emerg. Infect. Dis. 14, 1024\u20131030 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Johnson%2C%20A.J.%20Household%20responses%20to%20school%20closure%20resulting%20from%20outbreak%20of%20influenza%20B%2C%20North%20Carolina%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Johnson%2C%20A.J.%20Household%20responses%20to%20school%20closure%20resulting%20from%20outbreak%20of%20influenza%20B%2C%20North%20Carolina%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Johnson%2C%20A.J.%20Household%20responses%20to%20school%20closure%20resulting%20from%20outbreak%20of%20influenza%20B%2C%20North%20Carolina%202008"
+        },
+        {
+            "id": "9",
+            "alt_id": "Chu_2019_a",
+            "entry": "9. Chu, H. Y. et al.LB21. The Seattle Flu Study: A Community-Based Study of Influenza. Open Forum Infect Dis 6, S1002\u2013S1002 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chu%2C%20H.Y.%20The%20Seattle%20Flu%20Study%3A%20A%20Community-Based%20Study%20of%20Influenza%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chu%2C%20H.Y.%20The%20Seattle%20Flu%20Study%3A%20A%20Community-Based%20Study%20of%20Influenza%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chu%2C%20H.Y.%20The%20Seattle%20Flu%20Study%3A%20A%20Community-Based%20Study%20of%20Influenza%202019"
+        },
+        {
+            "id": "10",
+            "alt_id": "10._0000_a",
+            "entry": "10. Washington State Department of Transportation Traffic GeoPortal. https://www.wsdot.wa.gov/data/tools/geoportal/?config=traffic.",
+            "url": "https://www.wsdot.wa.gov/data/tools/geoportal/?config=traffic"
+        },
+        {
+            "id": "11",
+            "alt_id": "Halloran_2008_a",
+            "entry": "11. Halloran, M. E. et al.Modeling targeted layered containment of an influenza pandemic in the United States. Proc. Natl. Acad. Sci. U. S. A. 105, 4639\u20134644 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Halloran%2C%20M.E.%20Modeling%20targeted%20layered%20containment%20of%20an%20influenza%20pandemic%20in%20the%20United%20States%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Halloran%2C%20M.E.%20Modeling%20targeted%20layered%20containment%20of%20an%20influenza%20pandemic%20in%20the%20United%20States%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Halloran%2C%20M.E.%20Modeling%20targeted%20layered%20containment%20of%20an%20influenza%20pandemic%20in%20the%20United%20States%202008"
+        },
+        {
+            "id": "12",
+            "alt_id": "Germann_et+al_2006_a",
+            "entry": "12. Germann, T. C., Kadau, K., Longini, I. M., Jr & Macken, C. A. Mitigation strategies for pandemic influenza in the United States. Proc. Natl. Acad. Sci. U. S. A. 103, 5935\u20135940 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Germann%2C%20T.C.%20Kadau%2C%20K.%20Longini%2C%20Jr%2C%20I.M.%20Macken%2C%20C.A.%20Mitigation%20strategies%20for%20pandemic%20influenza%20in%20the%20United%20States%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Germann%2C%20T.C.%20Kadau%2C%20K.%20Longini%2C%20Jr%2C%20I.M.%20Macken%2C%20C.A.%20Mitigation%20strategies%20for%20pandemic%20influenza%20in%20the%20United%20States%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Germann%2C%20T.C.%20Kadau%2C%20K.%20Longini%2C%20Jr%2C%20I.M.%20Macken%2C%20C.A.%20Mitigation%20strategies%20for%20pandemic%20influenza%20in%20the%20United%20States%202006"
+        },
+        {
+            "id": "13",
+            "alt_id": "Glass_et+al_2006_a",
+            "entry": "13. Glass, R., Glass, L., Beyeler, W. & Min, H. Targeted Social Distancing Designs for Pandemic Influenza. Emerging Infectious Diseasesvol. 12 1671\u20131681 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Glass%2C%20R.%20Glass%2C%20L.%20Beyeler%2C%20W.%20Min%2C%20H.%20Targeted%20Social%20Distancing%20Designs%20for%20Pandemic%20Influenza%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Glass%2C%20R.%20Glass%2C%20L.%20Beyeler%2C%20W.%20Min%2C%20H.%20Targeted%20Social%20Distancing%20Designs%20for%20Pandemic%20Influenza%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Glass%2C%20R.%20Glass%2C%20L.%20Beyeler%2C%20W.%20Min%2C%20H.%20Targeted%20Social%20Distancing%20Designs%20for%20Pandemic%20Influenza%202006"
+        },
+        {
+            "id": "14",
+            "alt_id": "Ferguson_2006_a",
+            "entry": "14. Ferguson, N. M. et al.Strategies for mitigating an influenza pandemic. Naturevol. 442 448\u2013452 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ferguson%2C%20N.M.%20Strategies%20for%20mitigating%20an%20influenza%20pandemic%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ferguson%2C%20N.M.%20Strategies%20for%20mitigating%20an%20influenza%20pandemic%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ferguson%2C%20N.M.%20Strategies%20for%20mitigating%20an%20influenza%20pandemic%202006"
+        },
+        {
+            "id": "15",
+            "alt_id": "Reis_2018_a",
+            "entry": "15. Reis, J. & Shaman, J. Simulation of four respiratory viruses and inference of epidemiological parameters. Infect Dis Model 3, 23\u201334 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Reis%2C%20J.%20Shaman%2C%20J.%20Simulation%20of%20four%20respiratory%20viruses%20and%20inference%20of%20epidemiological%20parameters%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Reis%2C%20J.%20Shaman%2C%20J.%20Simulation%20of%20four%20respiratory%20viruses%20and%20inference%20of%20epidemiological%20parameters%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Reis%2C%20J.%20Shaman%2C%20J.%20Simulation%20of%20four%20respiratory%20viruses%20and%20inference%20of%20epidemiological%20parameters%202018"
+        },
+        {
+            "id": "16",
+            "alt_id": "Lessler_2009_a",
+            "entry": "16. Lessler, J. et al.Incubation periods of acute respiratory viral infections: a systematic review. Lancet Infect. Dis. 9, 291\u2013300 (2009).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lessler%2C%20J.%20Incubation%20periods%20of%20acute%20respiratory%20viral%20infections%3A%20a%20systematic%20review%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lessler%2C%20J.%20Incubation%20periods%20of%20acute%20respiratory%20viral%20infections%3A%20a%20systematic%20review%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lessler%2C%20J.%20Incubation%20periods%20of%20acute%20respiratory%20viral%20infections%3A%20a%20systematic%20review%202009"
+        },
+        {
+            "id": "17",
+            "alt_id": "Bradburne_et+al_1967_a",
+            "entry": "17. Bradburne, A. F., Bynoe, M. L. & Tyrrell, D. A. Effects of a \u2018new\u2019 human respiratory virus in volunteers. BMJvol. 3 767\u2013769 (1967).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bradburne%2C%20A.F.%20Bynoe%2C%20M.L.%20Tyrrell%2C%20D.A.%20Effects%20of%20a%20%E2%80%98new%E2%80%99%20human%20respiratory%20virus%20in%20volunteers%201967",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bradburne%2C%20A.F.%20Bynoe%2C%20M.L.%20Tyrrell%2C%20D.A.%20Effects%20of%20a%20%E2%80%98new%E2%80%99%20human%20respiratory%20virus%20in%20volunteers%201967",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bradburne%2C%20A.F.%20Bynoe%2C%20M.L.%20Tyrrell%2C%20D.A.%20Effects%20of%20a%20%E2%80%98new%E2%80%99%20human%20respiratory%20virus%20in%20volunteers%201967"
+        },
+        {
+            "id": "18",
+            "alt_id": "Nasserie_2017_a",
+            "entry": "18. Nasserie, T. et al.Seasonal Influenza Forecasting in Real Time Using the Incidence Decay With Exponential Adjustment Model. Open Forum Infect Dis 4, ofx166 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nasserie%2C%20T.%20Seasonal%20Influenza%20Forecasting%20in%20Real%20Time%20Using%20the%20Incidence%20Decay%20With%20Exponential%20Adjustment%20Model%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nasserie%2C%20T.%20Seasonal%20Influenza%20Forecasting%20in%20Real%20Time%20Using%20the%20Incidence%20Decay%20With%20Exponential%20Adjustment%20Model%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nasserie%2C%20T.%20Seasonal%20Influenza%20Forecasting%20in%20Real%20Time%20Using%20the%20Incidence%20Decay%20With%20Exponential%20Adjustment%20Model%202017"
+        },
+        {
+            "id": "19",
+            "alt_id": "Brugger_2019_a",
+            "entry": "19. Brugger, J. & Althaus, C. L. Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015. Epidemics 100373 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Brugger%20J%20%20Althaus%20C%20L%20Transmission%20of%20and%20susceptibility%20to%20seasonal%20influenza%20in%20Switzerland%20from%202003%20to%202015%20Epidemics%20100373%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Brugger%20J%20%20Althaus%20C%20L%20Transmission%20of%20and%20susceptibility%20to%20seasonal%20influenza%20in%20Switzerland%20from%202003%20to%202015%20Epidemics%20100373%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Brugger%20J%20%20Althaus%20C%20L%20Transmission%20of%20and%20susceptibility%20to%20seasonal%20influenza%20in%20Switzerland%20from%202003%20to%202015%20Epidemics%20100373%202019"
+        },
+        {
+            "id": "20",
+            "alt_id": "Lau_2010_a",
+            "entry": "20. Lau, L. L. H. et al.Viral shedding and clinical illness in naturally acquired influenza virus infections. J. Infect. Dis. 201, 1509\u20131516 (2010).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20L.L.H.%20Viral%20shedding%20and%20clinical%20illness%20in%20naturally%20acquired%20influenza%20virus%20infections%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20L.L.H.%20Viral%20shedding%20and%20clinical%20illness%20in%20naturally%20acquired%20influenza%20virus%20infections%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20L.L.H.%20Viral%20shedding%20and%20clinical%20illness%20in%20naturally%20acquired%20influenza%20virus%20infections%202010"
+        },
+        {
+            "id": "21",
+            "alt_id": "Peltola_et+al_2013_a",
+            "entry": "21. Peltola, V., Waris, M., Kainulainen, L., Kero, J. & Ruuskanen, O. Virus shedding after human rhinovirus infection in children, adults and patients with hypogammaglobulinaemia. Clin. Microbiol. Infect. 19, E322\u20137 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Peltola%2C%20V.%20Waris%2C%20M.%20Kainulainen%2C%20L.%20Kero%2C%20J.%20Virus%20shedding%20after%20human%20rhinovirus%20infection%20in%20children%2C%20adults%20and%20patients%20with%20hypogammaglobulinaemia%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Peltola%2C%20V.%20Waris%2C%20M.%20Kainulainen%2C%20L.%20Kero%2C%20J.%20Virus%20shedding%20after%20human%20rhinovirus%20infection%20in%20children%2C%20adults%20and%20patients%20with%20hypogammaglobulinaemia%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Peltola%2C%20V.%20Waris%2C%20M.%20Kainulainen%2C%20L.%20Kero%2C%20J.%20Virus%20shedding%20after%20human%20rhinovirus%20infection%20in%20children%2C%20adults%20and%20patients%20with%20hypogammaglobulinaemia%202013"
+        },
+        {
+            "id": "22",
+            "alt_id": "Pitzer_2015_a",
+            "entry": "22. Pitzer, V. E. et al.Environmental drivers of the spatiotemporal dynamics of respiratory syncytial virus in the United States. PLoS Pathog. 11, e1004591 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Pitzer%2C%20V.E.%20Environmental%20drivers%20of%20the%20spatiotemporal%20dynamics%20of%20respiratory%20syncytial%20virus%20in%20the%20United%20States%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Pitzer%2C%20V.E.%20Environmental%20drivers%20of%20the%20spatiotemporal%20dynamics%20of%20respiratory%20syncytial%20virus%20in%20the%20United%20States%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Pitzer%2C%20V.E.%20Environmental%20drivers%20of%20the%20spatiotemporal%20dynamics%20of%20respiratory%20syncytial%20virus%20in%20the%20United%20States%202015"
+        },
+        {
+            "id": "23",
+            "alt_id": "Munywoki_2015_a",
+            "entry": "23. Munywoki, P. K. et al.Influence of age, severity of infection, and co-infection on the duration of respiratory syncytial virus (RSV) shedding. Epidemiol. Infect. 143, 804\u2013812 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Munywoki%2C%20P.K.%20Influence%20of%20age%2C%20severity%20of%20infection%2C%20and%20co-infection%20on%20the%20duration%20of%20respiratory%20syncytial%20virus%20%28RSV%29%20shedding%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Munywoki%2C%20P.K.%20Influence%20of%20age%2C%20severity%20of%20infection%2C%20and%20co-infection%20on%20the%20duration%20of%20respiratory%20syncytial%20virus%20%28RSV%29%20shedding%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Munywoki%2C%20P.K.%20Influence%20of%20age%2C%20severity%20of%20infection%2C%20and%20co-infection%20on%20the%20duration%20of%20respiratory%20syncytial%20virus%20%28RSV%29%20shedding%202015"
+        },
+        {
+            "id": "24",
+            "alt_id": "24._2018_a",
+            "entry": "24. Red book: 2018-2021 report of the Committee on Infectious Diseases. (American Academy of Pediatrics, 2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Red%20book%2020182021%20report%20of%20the%20Committee%20on%20Infectious%20Diseases%20American%20Academy%20of%20Pediatrics%202018"
+        },
+        {
+            "id": "25",
+            "alt_id": "Ison_2019_a",
+            "entry": "25. Ison, M. G. Parainfluenza Viruses. in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2081\u20132086 (Elsevier, 2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ison%2C%20M.G.Parainfluenza%20Viruses%20in%20Mandell%20Douglas%20and%20Bennett%E2%80%99s%20Principles%20and%20Practice%20of%20Infectious%20Diseases%28ed%202019"
+        },
+        {
+            "id": "26",
+            "alt_id": "Perlman_2019_a",
+            "entry": "26. Perlman, K. M. S. Coronaviruses, Including Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2072\u20132080 (Elsevier, 2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Perlman%2C%20K.M.S.Coronaviruses%20Including%20Severe%20Acute%20Respiratory%20Syndrome%20%28SARS%29%20and%20Middle%20East%20Respiratory%20Syndrome%20%28MERS%29.%20in%20Mandell%2C%20Douglas%2C%20and%20Bennett%E2%80%99s%20Principles%20and%20Practice%20of%20Infectious%20Diseases%28ed%202019"
+        },
+        {
+            "id": "27",
+            "alt_id": "Dolin_2019_a",
+            "entry": "27. Dolin, R. Rhinoviruses. in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2262\u20132268 (Elsevier, 2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Dolin%2C%20R.Rhinoviruses%20in%20Mandell%20Douglas%20and%20Bennett%E2%80%99s%20Principles%20and%20Practice%20of%20Infectious%20Diseases%28ed%202019"
+        },
+        {
+            "id": "28",
+            "alt_id": "Angela_et+al_2019_a",
+            "entry": "28. Angela R, Branche A R F. Human Metapneumovirus. in Mandell, Douglas, and Bennett\u2019s Principles and Practice of Infectious Diseases(ed. Bennett J, Dolin R, Blaser M J) 2104\u20132109 (Elsevier, 2019). ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Angela%2C%20R.%20in%20Mandell%2C%20Branche%20A.R.F.Human%20Metapneumovirus%20Douglas%20and%20Bennett%E2%80%99s%20Principles%20and%20Practice%20of%20Infectious%20Diseases%28ed%202019"
+        }
+    ],
+    "facts": [
+        "Unusually high snowfall in western Washington State in February 2019 led to widespread school",
+        "the impact of social distancing caused by this extreme weather event on the transmission",
+        "Residual specimens from patients evaluated for acute respiratory illness at hospitals",
+        "in the Seattle metropolitan area were screened for a panel of respiratory viruses",
+        "Transmission models were fit to each virus",
+        "Incidence reductions were greatest for viruses",
+        "Residual specimens from patients evaluated for acute respiratory illness",
+        "at hospitals in the Seattle metropolitan area were screened for a panel of respiratory viruses",
+        "each pathogen with a deterministic SEIR transmission model coupled to a simple observation model",
+        "which operates on a square pulse",
+        "The \u03b1 parameter is the strength of the interruption of observation",
+        "be -10% based on hospital visit data",
+        "Values for \u03c3-1\u200b and \u03b3-1\u200b were estimated from the existing literature for the nine viruses.[15\u201328",
+        "the proportion of the population infected at the start of the season were obtained via maximum likelihood estimation assuming daily observations were a",
+        "In the event of a pandemic caused by a novel respiratory virus",
+        "optimal timing of city-wide social distancing interventions to reduce the spread of influenza",
+        "largely unknown. Most estimates of social distancing impact are limited to studies of school closures",
+        "unusually high snowfall in western Washington State led to widespread school",
+        "This disruption of work and travel can be considered a proxy for social distancing",
+        "The objective of this study was to estimate the impact of this weather-created social distancing on transmission"
+    ],
+    "claims": [
+        "For this analysis, we focus on data from the residual specimen testing as that provided 86% of samples (9,199 of 10,696) and with the broadest regional population representation",
+        "We modeled daily counts of Seattle Flu Study specimens testing positive for each of nine respiratory viruses using the Susceptible-Exposed-Infectious-Recovered (SEIR) framework, allowing for decreases both in virus transmission and in probability of detection by surveillance during the period of school and traffic disruption (Figure 2)",
+        "We modeled each pathogen with a deterministic SEIR transmission model coupled to a simple observation model: dS/dt = \u2212 \u03b2(1 + \u03b2\u2032\u03b8t)SI dE/dt = \u03b2(1 + \u03b2\u2032\u03b8t)SI \u2212 \u03c3E dI/dt = \u03c3E \u2212 \u03b3I dH/dt = p(1 + \u03b1\u03b8t)(dI/dt) + p\u03b1(\u03b4tstart \u2212 \u03b4t end)I where S,E, and Iare the proportion of the population that is susceptible, infected but not yet infectious, and infectious, respectively. \u03b2is the effective contact rate, \u03c3is the rate of movement from pre-infectious to infectious ,and \u03b3is the rate of loss of infectiousness"
+    ],
+    "findings": [
+        "The transient weather-related decrease in effective contact rates ranged from 16.2% (95% CI, 7.1\u201324.2%) for coronavirus to 94.6% (95% CI, 70.7\u2013100%) for RSV A (Table 1)",
+        "The percent of infections averted ranged from 3.0% (95% CI, 2.0\u20133.7%) for human metapneumovirus to 9.2% (95% CI, 6.2\u201310.3%) for RSV B (Table 1)",
+        "The estimated impact of the disruption was significantly greater for A/H1N1 (7.6% of infections averted, 95% CI, 5.2\u20138.7%) than for A/H3N2 (3.1% averted, 95% CI, 2.5\u20133.2%)",
+        "For A/H1N1, the weather-related transmission disruption appears to have reduced incidence without significant rebound, while the main effect on A/H3N2 was to delay the peak in incidence by an estimated 18 days (95% CI, 17\u201321 days)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Main text: In the event of a pandemic caused by a novel respiratory virus, social distancing is one of the few effective interventions for reducing transmission and infection before vaccines or other prophylactic interventions become available",
+        "The potential impact and optimal timing of city-wide social distancing interventions to reduce the spread of influenza and other respiratory viruses are largely unknown",
+        "Generalizing to broader social distancing efforts from these studies is difficult, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel",
+        "The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area",
+        "The estimated impact of the disruption was significantly greater for A/H1N1 (7.6% of infections averted, 95% CI, 5.2\u20138.7%) than for A/H3N2 (3.1% averted, 95% CI, 2.5\u20133.2%)",
+        "We modeled each pathogen with a deterministic SEIR transmission model coupled to a simple observation model: dS/dt = \u2212 \u03b2(1 + \u03b2\u2032\u03b8t)SI dE/dt = \u03b2(1 + \u03b2\u2032\u03b8t)SI \u2212 \u03c3E dI/dt = \u03c3E \u2212 \u03b3I dH/dt = p(1 + \u03b1\u03b8t) + p\u03b1I where S,E, and Iare the proportion of the population that is susceptible, infected but not yet infectious, and infectious, respectively. \u03b2is the effective contact rate, \u03c3is the rate of movement from pre-infectious to infectious ,and \u03b3is the rate of loss of infectiousness"
+    ],
+    "top_statements": [
+        "Disruption in contact patterns reduced effective contact rates during the intervention period by 16% to 95%, and cumulative disease incidence through the remainder of the season by 3% to 9%",
+        "Main text: In the event of a pandemic caused by a novel respiratory virus, social distancing is one of the few effective interventions for reducing transmission and infection before vaccines or other prophylactic interventions become available",
+        "The potential impact and optimal timing of city-wide social distancing interventions to reduce the spread of influenza and other respiratory viruses are largely unknown",
+        "Generalizing to broader social distancing efforts from these studies is difficult, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel",
+        "The objective of this study was to estimate the impact of this weather-created social distancing on transmission of respiratory viruses in the greater Seattle metropolitan area",
+        "The estimated impact of the disruption was significantly greater for A/H1N1 (7.6% of infections averted, 95% CI, 5.2\u20138.7%) than for A/H3N2 (3.1% averted, 95% CI, 2.5\u20133.2%)",
+        "We modeled each pathogen with a deterministic SEIR transmission model coupled to a simple observation model: dS/dt = \u2212 \u03b2(1 + \u03b2\u2032\u03b8t)SI dE/dt = \u03b2(1 + \u03b2\u2032\u03b8t)SI \u2212 \u03c3E dI/dt = \u03c3E \u2212 \u03b3I dH/dt = p(1 + \u03b1\u03b8t) + p\u03b1I where S,E, and Iare the proportion of the population that is susceptible, infected but not yet infectious, and infectious, respectively. \u03b2is the effective contact rate, \u03c3is the rate of movement from pre-infectious to infectious ,and \u03b3is the rate of loss of infectiousness"
+    ],
+    "headline": "Generalizing to broader social distancing efforts from these studies is difficult, as school closures tend to have limited impacts on working-age and older adults, and school-aged children may recongregate outside of schools.\u200b4,6\u20138\u200b In February 2019, unusually high snowfall in western Washington State led to widespread school and workplace closures and to reduced regional travel",
+    "contexts": [],
+    "abbreviations": {
+        "ARI": "acute respiratory illness",
+        "RSV": "respiratory syncytial virus",
+        "hMPV": "human metapneumovirus"
+    }
+}

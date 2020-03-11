@@ -1,0 +1,934 @@
+{
+    "filename": "2020.03.06.20031856.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 199030,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.06.20031856",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/08/2020.03.06.20031856.full.pdf"
+        },
+        "title": "A preliminary study on serological assay for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in 238 admitted hospital patients",
+        "author": "Lei Liu, Wanbing Liu, Shengdian Wang, Shangen Zheng",
+        "date": 2020,
+        "affiliations": [
+            "Department of Transfusion, General Hospital of Central Theater Command of PLA,",
+            "Wuhan 430070, Hubei, China 13",
+            "Department of Infectious Diseases, General Hospital of Central Theater Command 14 of PLA, Wuhan 430070, Hubei, China 15",
+            "Department of Clinical Laboratory, General Hospital of Central Theater Command 16 of PLA, Wuhan 430070, Hubei, China 17",
+            "Department of Disease Control and Prevention, General Hospital of Central Theater",
+            "Command of PLA, Wuhan 430070, Hubei, China 19",
+            "CAS Key Laboratory of Infection and Immunity, Institute of Biophysics, Chinese 20 Academy of Sciences, Beijing 100101, China",
+            "Prof Shangen Zheng MD, Department of Transfusion, 25 General Hospital of Central Theater Command of PLA, Wuhan 430070, Hubei, China; 26 sxkzsg@sina.com or Prof Shengdian Wang PhD, CAS Key Laboratory of Infection 27 and Immunity, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, 28 China; sdwang@ibp.ac.cn"
+        ],
+        "abstract": "Background The outbreak of the recently emerged novel corona virus disease 2019 (COVID-19) poses a challenge for public health laboratories. We aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2. \nMethods A newly-developed ELISA assay for IgM and IgG antibodies against N protein of SARS-CoV-2 were used to screen the serums of 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection from February 6 to February 14, 2020. SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens.\nFindings Of the 238 patients, 194 (81.5%) were detected to be antibody (IgM and/or IgG) positive, which was significantly higher than the positive rate of viral RNA (64.3%). There was no difference in the positive rate of antibody between the confirmed patients (83.0%, 127/153) and the suspected patients (78.8%, 67/85) whose nucleic acid tests were negative. After the patients were defined to the different stages of disease based on the day when the test samples were collected, the analysis results showed that the antibody positive rates were very low in the first five days after initial onset of symptoms, and then rapidly increased as the disease progressed. After 10 days, the antibody positive rates jumped to above 80% from less than 50%. On the contrary, the positive rates of viral RNA kept above 60% in the first 11 days after initial onset of symptoms, and then rapidly decreased. In addition, half of the suspected patients with symptoms for 6-10 days were detected to be antibody positive.\nInterpretation The suspected patients were most likely infected by SARS-CoV-2. Before the 11th day after initial onset of symptoms, nucleic acid test is important for confirmation of viral infection. The combination of serological assay can greatly improve the diagnostic efficacy. After that, the diagnosis for viral infection should be majorly dependent on serological assay.\nKeywords. SARS-CoV-2; diagnosis; serological assay; nucleic acid test",
+        "keywords": [
+            "SARS-CoV-2",
+            "diagnosis",
+            "serological assay",
+            "nucleic acid test"
+        ],
+        "references": "@article{lu-a,\n  author = {Lu, R. and Zhao, X. and Li, J.},\n  title = {Genomic characterisation and epidemiology of 2019 novel coronavirus: 302 implications for virus origins and receptor binding. Lancet 2020; published online Jan 30},\n  doi = {Doi},\n  volume = {1016},\n  journal = {Lancet},\n  pages = {497\u2013506},\n  unmatched-author = {Huang C, Wang Y, Li X, et al.},\n  more-authors = {true},\n  source = {Clinical features of patients infected with 2019 novel coronavirus 305 in Wuhan, China},\n  unmatched-volume = {2020; 395(10223): 306 3.},\n  number = {0140-6736},\n  language = {}\n}\n@article{li-a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel 307 Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  note = {2020; published online Jan 29},\n  doi = {Doi},\n  volume = {2001316},\n  more-authors = {true},\n  number = {309 4},\n  language = {}\n}\n@misc{wu-a,\n  author = {Wu, J.T. and Leung, K. and Leung, G.M.},\n  title = {Nowcasting and forecasting the potential domestic and international 310 spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; 311 published online Jan 31},\n  doi = {Doi},\n  volume = {1016},\n  number = {0140-6736},\n  language = {}\n}\n@article{chan-a,\n  author = {Chan, J.F. and Yuan, S. and Kok, K.H.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel 313 coronavirus indicating person-to-person transmission: a study of a family cluster},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {514\u2013523},\n  more-authors = {true},\n  unmatched-volume = {315 6.},\n  number = {314 395},\n  language = {}\n}\n@article{peiris2004a,\n  author = {Peiris, J.S. and Guan, Y. and Yuen, K.Y.},\n  title = {Severe acute respiratory syndrome},\n  journal = {Nat Med},\n  date = {2004},\n  volume = {10},\n  pages = {88\u201397},\n  unmatched-volume = {317 7.},\n  number = {12 316},\n  language = {}\n}\n@article{lee2016a,\n  author = {Lee, J. and Chowell, G. and Jung, E.},\n  title = {A dynamic compartmental model for the Middle East respiratory 318 syndrome outbreak in the Republic of Korea: A retrospective analysis on control interventions and 319 superspreading events},\n  journal = {J Theor Biol},\n  date = {2016},\n  volume = {408},\n  pages = {118\u201326},\n  unmatched-volume = {320 8.},\n  language = {}\n}\n@article{zhu-a,\n  author = {Zhu, N. and Zhang, D. and Wang, W.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 321 2019},\n  journal = {N Engl J Med},\n  volume = {2020},\n  pages = {727\u2013733},\n  more-authors = {true},\n  unmatched-volume = {322 9.},\n  number = {382},\n  language = {}\n}\n@article{delmas1990a,\n  author = {Delmas, B. and Laude, H.},\n  title = {Assembly of coronavirus spike protein into trimers and its role in epitope 323 expression},\n  journal = {J Virol},\n  date = {1990},\n  volume = {64},\n  pages = {5367\u201375},\n  unmatched-volume = {324 10.},\n  number = {11},\n  language = {}\n}\n@article{neuman2011a,\n  author = {Neuman, B.W. and Kiss, G. and Kunding, A.H.},\n  title = {A structural analysis of M protein in coronavirus 325 assembly and morphology},\n  journal = {J Struct Biol},\n  date = {2011},\n  volume = {174},\n  pages = \"11-22.\" # \"e1004077.\",\n  editor = {Nieto-Torres, J.L. and DeDiego, M.L. and Verdia-Baguena, C.},\n  more-authors = {true},\n  source = {acute respiratory syndrome 327 coronavirus envelope protein ion channel activity promotes virus fitness and pathogenesis},\n  unmatched-journal = {PLoS 328 Pathog},\n  unmatched-volume = {326 11. 10(5): 329 12.},\n  number = {1},\n  unmatched-pages = {e1004077.},\n  more-editors = {true},\n  language = {}\n}\n@article{chang2006a,\n  author = {Chang, C.K. and Sue, S.C. and Yu, T.H.},\n  title = {Modular organization of SARS coronavirus nucleocapsid 330 protein},\n  journal = {J Biomed Sci},\n  date = {2006},\n  volume = {13},\n  pages = {59\u201372},\n  more-authors = {true},\n  unmatched-volume = {331 13.},\n  number = {1},\n  language = {}\n}\n@article{hurst2009a,\n  author = {Hurst, K.R. and Koetzner, C.A. and Masters, P.S.},\n  title = {Identification of in vivo-interacting domains of the murine 332 coronavirus nucleocapsid protein},\n  journal = {J Virol},\n  date = {2009},\n  volume = {83},\n  pages = {7221\u201334},\n  unmatched-volume = {333 14.},\n  number = {14},\n  language = {}\n}\n@article{cui2015a,\n  author = {Cui, L. and Wang, H. and Ji, Y.},\n  title = {The Nucleocapsid Protein of Coronaviruses Acts as a Viral Suppressor 334 of RNA Silencing in Mammalian Cells},\n  journal = {J Virol},\n  date = {2015},\n  volume = {89},\n  pages = {9029\u201343},\n  more-authors = {true},\n  unmatched-volume = {335 15.},\n  number = {17},\n  language = {}\n}\n@article{narayanan2003a,\n  author = {Narayanan, K. and Chen, C.J. and Maeda, J.},\n  title = {Nucleocapsid-independent specific viral RNA packaging 336 via viral envelope protein and viral RNA signal},\n  journal = {J Virol},\n  date = {2003},\n  volume = {77},\n  pages = {2922\u20137},\n  more-authors = {true},\n  unmatched-volume = {337 16.},\n  number = {5},\n  language = {}\n}\n@article{che2004a,\n  author = {Che, X.Y. and Qiu, L.W. and Pan, Y.X.},\n  title = {Sensitive and specific monoclonal antibody-based capture 338 enzyme immunoassay for detection of nucleocapsid antigen in sera from patients with severe acute 339 respiratory syndrome},\n  journal = {J Clin Microbiol},\n  date = {2004},\n  volume = {42},\n  pages = {2629\u201335},\n  more-authors = {true},\n  unmatched-volume = {340 17.},\n  number = {6},\n  language = {}\n}\n@article{woo2004a,\n  author = {Woo, P.C. and Lau, S.K. and Wong, B.H.},\n  title = {Longitudinal profile of immunoglobulin G (IgG), IgM, and 345 IgA antibodies against the severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein 346 in patients with pneumonia due to the SARS coronavirus},\n  journal = {Clin Diagn Lab Immunol},\n  date = {2004},\n  volume = {11},\n  pages = {665\u20138},\n  more-authors = {true},\n  unmatched-volume = {347 19.},\n  number = {4},\n  language = {}\n}\n@EB-OL{virol2020a,\n  editor = {Virol, J.Med},\n  date = {2020},\n  volume = {92},\n  pages = \"418-423.\" # \"http://bgs.satcm.gov.cn/zhengcewenjian/2020-02-09/12930.html.353 21.\",\n  title = {General Office of National Health Committee. Office of State Administration of Traditional 350 Chinese Medicine. Notice on the issuance of strategic guidelines for diagnosis and treatment of novel 351 coronavirus},\n  note = {infected pneumonia (Fifth edition draft},\n  medium = {EB-OL},\n  unmatched-volume = {349 20. 352},\n  number = {4},\n  unmatched-pages = {http://bgs.satcm.gov.cn/zhengcewenjian/2020-02-09/12930.html.353 21.},\n  language = {}\n}\n@article{chen2005a,\n  author = {Chen, S. and Lu, D. and Zhang, M.},\n  title = {Double-antigen sandwich ELISA for detection of antibodies to 354 SARS-associated coronavirus in human serum},\n  journal = {Eur J Clin Microbiol Infect Dis},\n  date = {2005},\n  volume = {24},\n  pages = {549\u201353},\n  more-authors = {true},\n  number = {8},\n  language = {}\n}\n",
+        "emails": [
+            "sdwang@ibp.ac.cn",
+            "sxkzsg@sina.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Lu, R.\nAU  - Zhao, X.\nAU  - Li, J.\nTI  - Genomic characterisation and epidemiology of 2019 novel coronavirus: 302 implications for virus origins and receptor binding. Lancet 2020; published online Jan 30\nDO  - Doi\nVL  - 1016\nT2  - Lancet\nSP  - 497\nEP  - 506\nC1  - Huang C, Wang Y, Li X, et al.\nC1  - true\nT2  - Clinical features of patients infected with 2019 novel coronavirus 305 in Wuhan, China\nC1  - 2020; 395(10223): 306 3.\nIS  - 0140-6736\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel 307 Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nN1  - 2020; published online Jan 29\nDO  - Doi\nVL  - 2001316\nC1  - true\nIS  - 309 4\nLA  - \nER  - \n\nTY  - GEN\nAU  - Wu, J.T.\nAU  - Leung, K.\nAU  - Leung, G.M.\nTI  - Nowcasting and forecasting the potential domestic and international 310 spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; 311 published online Jan 31\nDO  - Doi\nVL  - 1016\nIS  - 0140-6736\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nAU  - Yuan, S.\nAU  - Kok, K.H.\nTI  - A familial cluster of pneumonia associated with the 2019 novel 313 coronavirus indicating person-to-person transmission: a study of a family cluster\nT2  - Lancet\nVL  - 2020\nSP  - 514\nEP  - 523\nC1  - true\nC1  - 315 6.\nIS  - 314 395\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peiris, J.S.\nAU  - Guan, Y.\nAU  - Yuen, K.Y.\nTI  - Severe acute respiratory syndrome\nT2  - Nat Med\nPY  - 2004\nDA  - 2004\nVL  - 10\nSP  - 88\nEP  - 97\nC1  - 317 7.\nIS  - 12 316\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lee, J.\nAU  - Chowell, G.\nAU  - Jung, E.\nTI  - A dynamic compartmental model for the Middle East respiratory 318 syndrome outbreak in the Republic of Korea: A retrospective analysis on control interventions and 319 superspreading events\nT2  - J Theor Biol\nPY  - 2016\nDA  - 2016\nVL  - 408\nSP  - 118\nEP  - 26\nC1  - 320 8.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 321 2019\nT2  - N Engl J Med\nVL  - 2020\nSP  - 727\nEP  - 733\nC1  - true\nC1  - 322 9.\nIS  - 382\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Delmas, B.\nAU  - Laude, H.\nTI  - Assembly of coronavirus spike protein into trimers and its role in epitope 323 expression\nT2  - J Virol\nPY  - 1990\nDA  - 1990\nVL  - 64\nSP  - 5367\nEP  - 75\nC1  - 324 10.\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Neuman, B.W.\nAU  - Kiss, G.\nAU  - Kunding, A.H.\nTI  - A structural analysis of M protein in coronavirus 325 assembly and morphology\nT2  - J Struct Biol\nPY  - 2011\nDA  - 2011\nVL  - 174\nSP  - \"11\nEP  - 22.\" # \"e1004077.\"\nA2  - Nieto-Torres, J.L.\nA2  - DeDiego, M.L.\nA2  - Verdia-Baguena, C.\nC1  - true\nT2  - acute respiratory syndrome 327 coronavirus envelope protein ion channel activity promotes virus fitness and pathogenesis\nC1  - PLoS 328 Pathog\nC1  - 326 11. 10(5): 329 12.\nIS  - 1\nC1  - e1004077.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chang, C.K.\nAU  - Sue, S.C.\nAU  - Yu, T.H.\nTI  - Modular organization of SARS coronavirus nucleocapsid 330 protein\nT2  - J Biomed Sci\nPY  - 2006\nDA  - 2006\nVL  - 13\nSP  - 59\nEP  - 72\nC1  - true\nC1  - 331 13.\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hurst, K.R.\nAU  - Koetzner, C.A.\nAU  - Masters, P.S.\nTI  - Identification of in vivo-interacting domains of the murine 332 coronavirus nucleocapsid protein\nT2  - J Virol\nPY  - 2009\nDA  - 2009\nVL  - 83\nSP  - 7221\nEP  - 34\nC1  - 333 14.\nIS  - 14\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cui, L.\nAU  - Wang, H.\nAU  - Ji, Y.\nTI  - The Nucleocapsid Protein of Coronaviruses Acts as a Viral Suppressor 334 of RNA Silencing in Mammalian Cells\nT2  - J Virol\nPY  - 2015\nDA  - 2015\nVL  - 89\nSP  - 9029\nEP  - 43\nC1  - true\nC1  - 335 15.\nIS  - 17\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Narayanan, K.\nAU  - Chen, C.J.\nAU  - Maeda, J.\nTI  - Nucleocapsid-independent specific viral RNA packaging 336 via viral envelope protein and viral RNA signal\nT2  - J Virol\nPY  - 2003\nDA  - 2003\nVL  - 77\nSP  - 2922\nEP  - 7\nC1  - true\nC1  - 337 16.\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Che, X.Y.\nAU  - Qiu, L.W.\nAU  - Pan, Y.X.\nTI  - Sensitive and specific monoclonal antibody-based capture 338 enzyme immunoassay for detection of nucleocapsid antigen in sera from patients with severe acute 339 respiratory syndrome\nT2  - J Clin Microbiol\nPY  - 2004\nDA  - 2004\nVL  - 42\nSP  - 2629\nEP  - 35\nC1  - true\nC1  - 340 17.\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Woo, P.C.\nAU  - Lau, S.K.\nAU  - Wong, B.H.\nTI  - Longitudinal profile of immunoglobulin G (IgG), IgM, and 345 IgA antibodies against the severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein 346 in patients with pneumonia due to the SARS coronavirus\nT2  - Clin Diagn Lab Immunol\nPY  - 2004\nDA  - 2004\nVL  - 11\nSP  - 665\nEP  - 8\nC1  - true\nC1  - 347 19.\nIS  - 4\nLA  - \nER  - \n\nTY  - GEN\nA2  - Virol, J.Med\nPY  - 2020\nDA  - 2020\nVL  - 92\nSP  - \"418\nEP  - 423.\" # \"http://bgs.satcm.gov.cn/zhengcewenjian/2020\nTI  - General Office of National Health Committee. Office of State Administration of Traditional 350 Chinese Medicine. Notice on the issuance of strategic guidelines for diagnosis and treatment of novel 351 coronavirus\nN1  - infected pneumonia (Fifth edition draft\nC1  - EB-OL\nC1  - 349 20. 352\nIS  - 4\nC1  - http://bgs.satcm.gov.cn/zhengcewenjian/2020-02-09/12930.html.353 21.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, S.\nAU  - Lu, D.\nAU  - Zhang, M.\nTI  - Double-antigen sandwich ELISA for detection of antibodies to 354 SARS-associated coronavirus in human serum\nT2  - Eur J Clin Microbiol Infect Dis\nPY  - 2005\nDA  - 2005\nVL  - 24\nSP  - 549\nEP  - 53\nC1  - true\nIS  - 8\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Demographic and baseline characteristics of 238 enrolled patients"
+            },
+            {
+                "id": "2",
+                "caption": "Viral RNA and antibody positive rates of the patients detected each day from initial onset of symptoms"
+            },
+            {
+                "id": "3",
+                "caption": "Viral RNA and antibody positive rates of the patients detected in different stages of disease"
+            },
+            {
+                "id": "4",
+                "caption": "Comparison of the antibody positive rates between the confirmed and suspected patients"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Positive rate of viral RNA and antibody in different samples. A) The 397 positive rate of viral RNA (black column) and antibody (white column) in 238 398 enrolled patients (two columns on the left), as well as the positive rate of antibody in ordinary patients and healthy donors (two columns on the right). B) Comparison of positive rate of antibody between the laboratory-confirmed (left) and highly-suspected patients (right). Results were compared by chi-square tests"
+            },
+            {
+                "id": "2",
+                "caption": "Dynamics of the positive rate of viral RNA and antibody of the patients 412 at the different stages of disease. The disease courses were divided into five phases 413 of 0-5, 6-10,11-12, 13-15 days and more than 16 days after initial onset of symptoms. 414 The positive rate of viral RNA (solid circle) and antibody (hollow circle) of the 415 patients at the different phase of disease was shown"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.06.20031856.full.pdf_6lgokase_khewh966.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.06.20031856.full.pdf_6lgokase_images_pgzci0ez/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.06.20031856.full.pdf_6lgokase_images_pgzci0ez/img-001.png"
+        ]
+    },
+    "sections": {
+        "background": [
+            "The outbreak of the recently emerged novel corona virus disease 2019<br/><br/>(COVID-19) poses a challenge for public health laboratories. We aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2."
+        ],
+        "methods": [
+            "A newly-developed ELISA assay for IgM and IgG antibodies against N protein of SARS-CoV-2 were used to screen the serums of 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection from February 6 to<br/><br/>February 14, 2020. SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens.",
+            "Patients and samples<br/><br/>All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled. The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records. Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19. 20 The serum samples were collected once from each recruited patient. Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls. The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases.<br/><br/>Real time Reverse Transcription Polymerase Chain Reaction (RT-PCR) Assay"
+        ],
+        "findings": [
+            "<strong>Findings Of the</strong><br/><br/>238 patients, 194 (81.5%) were detected to be antibody (IgM and/or<br/><br/>IgG) positive, which was significantly higher than the positive rate of viral RNA (64.3%). There was no difference in the positive rate of antibody between the confirmed patients (83.0%, 127/153) and the suspected patients (78.8%, 67/85) whose nucleic acid tests were negative. After the patients were defined to the different stages of disease based on the day when the test samples were collected, the analysis results showed that the antibody positive rates were very low in the first five days after initial onset of symptoms, and then rapidly increased as the disease progressed. After 10 days, the antibody positive rates jumped to above 80% from less than 50%. On the contrary, the positive rates of viral RNA kept above 60% in the first 11 days after initial onset of symptoms, and then rapidly decreased. In addition, half of the suspected patients with symptoms for 6-10 days were detected to be antibody positive."
+        ],
+        "introduction": [
+            "A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since<br/><br/>December 2019. 2 By March 1, 2020, more than 80,000 confirmed cases have been identified globally both in China and other 58 countries spanning Asia, Europe, Oceania, North and South America, and Northeast Africa. It is evidenced that<br/><br/>SARS-CoV-2 can transmit rapidly from person to person, which is evidently found in hospital and family settings. 3-5<br/><br/>The SARS-CoV-2 is the seventh member of enveloped RNA coronaviruses (CoVs). 6-8 Sequence and phylogenetic tree of CoVs analysis indicates that<br/><br/>SARS-CoV-2 is genetically distinct from SARS-CoV and is more closely related to bat-SL-CoV ZC45 and bat-SL-CoV ZXC21. 1 SARS-CoV-2 owns a similar receptor-binding domain structure to that of SARS-CoV. 1 A typical CoV contains four main structural proteins: spike (S), membrane (M), envelope (E), and nucleocapsid (N)<br/><br/>proteins. The S protein homotrimers are required for attachment to host receptors, 9 and both the M protein and the E protein play important roles in virus assembly. 10,11<br/><br/>The N protein is responsible for packaging the encapsidated genome into virions, 12,13 and acts as a viral RNA silencing suppressor that is beneficial for the viral replication.<br/><br/>overexpressed during infection, 15 indicating that N protein should be a potential<br/><br/>Furthermore, the N protein has high immunogenic activity and is profusely source of a diagnostic antigen for detecting SARS-CoV-2 infection. Many diagnostic methods based on the N protein have been developed for SARS-CoV detection. 16-18<br/><br/>In addition, different CoVs possess special structural and accessory proteins, such as<br/><br/>HE protein, 3a/b protein, and 4a/b protein. 19"
+        ],
+        "results": [
+            "Demographics and patient characteristics<br/><br/>The serum samples were collected from 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General Hospital of Central Theater<br/><br/>Command of PLA from February 6 to February 14, 2020. The clinical characteristics of the patients were shown in Table 1. The median age was 55 years (IQR, 38.3-65), and 138 (58.0%) of the patients were men. Hypertension (63 [26.5%]), diabetes (25<br/><br/>[10.5%]), and cardiovascular disease (24 [10.1%]) were the most common coexisting disorders. Of these patients, the most common symptoms at illness onset were fever (206 [86.6%]), dry cough (128 [53.8%]), and fatigue (78 [32.8%]). A small number of patients possessed the symptoms of abdominal pain (1 [0.4%]), vomiting (3 [1.3%]), and dizziness (4 [1.7%]). On admission, leucocytes were below the normal range in (17.2%) patients and above the normal range in 21 (8.8%) patients. 125 (52.5%)"
+        ],
+        "discussion": [
+            "The outbreak of the recently emerged novel coronavirus (SARS-CoV-2) poses a challenge for public health laboratories, especially for clinical laboratories of the hospitals in Wuhan, China. Although serological assay is a frequently used method for viral infection screening and diagnosis, there are few reports about serological assay in detection of SARS-CoV-2 up to now. In this study, we report the application of the<br/><br/>SARS-CoV-2 N protein-based ELISA for detection of IgM and IgG antibodies in the admitted hospital patients with confirmed or suspected SARS-CoV-2 infection. The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time RT-PCR on the pharyngeal swab specimens of all enrolled patients. This result is further supported by the fact that the suspected patients had the same positive rate of antibody as the confirmed patients. These data strongly demonstrated that the clinically suspected patients were mostly infected by"
+        ],
+        "acknowledgements": [
+            "This work was supported by the National Natural Science Foundation of China (81801984, 81830003); the National Key Research and Development Program of<br/><br/>China (2019YFC130030); and the China Postdoctoral Science Foundation (2019M664008). We thank all heathy-care workers involved in this study. We thank<br/><br/>Wuhan Institute of Virology of Chinese Academy of Sciences and Zhuhai Lizhu<br/><br/>Diagnostics Inc. for providing assistance in ELISA detection."
+        ],
+        "disclosures": [
+            "The authors declare that no conflict of interest exists"
+        ],
+        "funding": [
+            "This work was supported by the National Natural Science Foundation of China (81801984, 81830003); the National Key Research and Development Program of China (2019YFC130030); and the China Postdoctoral Science Foundation (2019M664008)"
+        ],
+        "ethical_compliance": [
+            "The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [],
+        "Background": [
+            "(COVID-19) poses a challenge for public health laboratories. We aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2."
+        ],
+        "Methods": [
+            "All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled. The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records. Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19. 20 The serum samples were collected once from each recruited patient. Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls. The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases.",
+            "Pharyngeal swab specimens were collected from patients and placed into a collection tube with 200 \u03bcL of virus preservation solution. Total RNA was extracted using the respiratory sample RNA isolation kit (Shuoshi, Shanghai, China). After vortex, 50 \u03bcL of cell lysates were transferred into another collection tube. The collection tube was centrifugated at 1000 rpm/min for 5 min after standing at room temperature for 10 minutes. 5 \u03bcL RNA was prepared and used for real time RT-PCR.",
+            "Real time RT-PCR was performed using the nucleic acid testing kit (Daan, Guangzhou, China) for SARS-CoV-2 detection. The open reading frame 1ab (ORF1ab) and nucleocapsid protein (N) were simultaneously selected as the two target genes. The human GAPDH gene was used as an internal control. The specific primers and probes set for ORF1ab and N were as follows: ORF1ab-forward primer",
+            "5'-VIC-TCCTGCTAGAATGGCTGGCAATGGCG-BHQ1-3'. The real time RT-PCR experiment was thoroughly performed according to kit\u2019s instructions. The reaction mixture contains 17 \u03bcL of reaction buffer A, 3 \u03bcL of reaction buffer B, and 5 \u03bcL RNA template. The real time RT-PCR assay was performed under the following conditions: incubation at 50 \u00b0C for 15 min and 95 \u00b0C for 15 min, 45 cycles of denaturation at \u00b0C for 15 s, and extending and collecting fluorescence signal at 55 \u00b0C for 45 s. A cycle threshold value (Ct-value) \u2264 40 was defined as a positive test result, and a",
+            "Ct-value > 40 was defined as a negative test.",
+            "Serological assay was performed using Enzyme-Linked Immunosorbent Assays kit (Lizhu, Zhuhai, China ), which was established for detecting IgM or IgG antibody against N protein of SARS-CoV-2. For IgM detection, ELISA plates were previously coated with mouse anti-human IgM (\u03bc chain) monoclonal antibody. 100 \u03bcL diluted (1:100) serum sample was added into the pre-coated plates with three replicating wells for each sample and incubated at 37 \u00b0C for 1 h. The heat-inactivated positive and negative serum were included on each plate. After washing, 100 \u03bcL horse radish peroxidase (HRP) conjugated recombinant (rN) protein of SARS-CoV-2 was added.",
+            "TMB substrate solution and 50 \u03bcL of the corresponding buffer were added and incubated at 37 \u00b0C for 15 min. The reaction was terminated by adding 50 \u03bcL of 2 M sulfuric acid, and the absorbance value at 450 nm (A450) was determined. The cut off value was calculated by sum of 0.100 and average A450 of negative control replicates.",
+            "A450 less than cut off value was defined as a negative test, and A450 greater than or equal to cut off value was defined as a positive test.",
+            ",ELISA plates were previously coated with rN protein. 5 \u03bcL serum sample diluted with 100 \u03bcL dilution buffer were added into the plates. After incubation and washing, HRP-conjugated mouse anti-human IgG monoclonal antibody was added into the plates for detection. The other operation steps were performed as described in the above IgM detection. The cut off value was calculated by the sum of 0.130 and average A450 of negative control replicates. A450 less than cut off value was defined as a negative test, and A450 greater than or equal to cut off value was defined as a positive test.",
+            "Continuous variables were described as the means and standard deviations or medians and interquartile ranges (IQR) values. Categorical variables were expressed as the counts and percentages. Independent group t tests were applied to continuous variables that were normally distributed; otherwise, the Mann-Whitney test was used.",
+            "Categorical variables were compared using the chi-square tests, while the Fisher exact test was used when the data were limited. Statistical analyses were performed using",
+            "Statistical Package for the Social Sciences (SPSS) version 22.0 software. A two-sided \u03b1 of less than 0.05 was considered statistically significant."
+        ],
+        "Introduction": [
+            "A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since",
+            "December 2019. 2 By March 1, 2020, more than 80,000 confirmed cases have been identified globally both in China and other 58 countries spanning Asia, Europe, Oceania, North and South America, and Northeast Africa. It is evidenced that",
+            "SARS-CoV-2 can transmit rapidly from person to person, which is evidently found in hospital and family settings. 3-5",
+            "The SARS-CoV-2 is the seventh member of enveloped RNA coronaviruses (CoVs). 6-8 Sequence and phylogenetic tree of CoVs analysis indicates that",
+            "SARS-CoV-2 is genetically distinct from SARS-CoV and is more closely related to bat-SL-CoV ZC45 and bat-SL-CoV ZXC21. 1 SARS-CoV-2 owns a similar receptor-binding domain structure to that of SARS-CoV. 1 A typical CoV contains four main structural proteins: spike (S), membrane (M), envelope (E), and nucleocapsid (N)",
+            "proteins. The S protein homotrimers are required for attachment to host receptors, 9 and both the M protein and the E protein play important roles in virus assembly. 10,11",
+            "The N protein is responsible for packaging the encapsidated genome into virions, 12,13 and acts as a viral RNA silencing suppressor that is beneficial for the viral replication.",
+            "overexpressed during infection, 15 indicating that N protein should be a potential",
+            "Furthermore, the N protein has high immunogenic activity and is profusely source of a diagnostic antigen for detecting SARS-CoV-2 infection. Many diagnostic methods based on the N protein have been developed for SARS-CoV detection. 16-18",
+            "In addition, different CoVs possess special structural and accessory proteins, such as",
+            "Both nucleic acid test and serological assay are commonly used for infectious disease screening and diagnosis. In the present case of SARS-CoV-2, nucleic acid test has been being routinely used to detect causative viruses from respiratory secretions by real-time RT-PCR in China. However, the nucleic acid tests appeared to have a high false negative rate because of several unavoidable reasons, including the sensitivity of the detection kits that have not been well assessed, sampling location and technique, etc. A large number of clinically-suspected patients, whose nucleic acid tests were negative, are unable to get timely confirmed-diagnosis and hospital treatment, which potentially promotes the spread of SARS-CoV-2 and leads to a rapid disease progress of the suspected patients.",
+            "In this study, a newly-developed IgM and IgG antibody detecting Enzyme-linked immunosorbent assays (ELISA) based on a recombinant fragment of SARS-CoV-2 N protein were used to detect IgM and IgG against SARS-CoV-2 in serum of 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection. The results strongly indicated that the suspected patients were infected. We also analyze the diagnostic value of the IgM and IgG testing in COVID-19, even in the early stage of disease."
+        ],
+        "Results": [
+            "Command of PLA from February 6 to February 14, 2020. The clinical characteristics of the patients were shown in Table 1. The median age was 55 years (IQR, 38.3-65), and 138 (58.0%) of the patients were men. Hypertension (63 [26.5%]), diabetes (25",
+            "[10.5%]), and cardiovascular disease (24 [10.1%]) were the most common coexisting disorders. Of these patients, the most common symptoms at illness onset were fever (206 [86.6%]), dry cough (128 [53.8%]), and fatigue (78 [32.8%]). A small number of patients possessed the symptoms of abdominal pain (1 [0.4%]), vomiting (3 [1.3%]), and dizziness (4 [1.7%]). On admission, leucocytes were below the normal range in (17.2%) patients and above the normal range in 21 (8.8%) patients. 125 (52.5%)",
+            "patients had lymphocytes below the normal range and no patients were found to have lymphocytes above the normal range. Neutrophils were below the normal range in 28",
+            "(11.8%) patients and above the normal range in 32 (13.4%) patients. According to CT,",
+            "(98.7%) patients showed ground-glass opacity and/or patchy shadowing.",
+            "According to the positive or negative results of real time RT-PCR assay for pharyngeal swab specimens, the enrolled patients were divided into two groups: the confirmed group and the suspected group. There were no statistical differences of baseline characteristics of the two groups patients.",
+            "Performance and validation of ELISA assays for viral specific IgM and IgG antibodies",
+            "Each serum sample of 238 patients were respectively tested for IgM and IgG antibodies against SARS-CoV-2 by using newly-developed ELISA kits based on N protein of SARS-CoV-2. The IgM and/or IgG could be detected in 194 serum samples, and the positive rate ( 81.5% ) was significantly higher than that of SARS-CoV-2",
+            "RNA detected by real time RT-PCR, which was 64.3% (153/238) (Fig.1A).",
+            "Importantly, there were no difference in positive rates of IgM and/or IgG between the confirmed patients (83.0%, 127/153) and the suspected patients (78.8%, 67/85)",
+            "(Fig.1B), suggesting that the clinically suspected patients, who were viral RNA negative detected by RT-PCR, were mostly infected.",
+            "To verify the specificity of the ELISA assays, the serum samples from 70 randomly-selected ordinary patients and 50 healthy blood donors were simultaneously detected. Four samples from the ordinary patients were identified as antibody positive (including one dual positive sample, two IgM-positive samples, and one IgG-positive sample) and no positive was found in the samples of healthy blood donors (Fig.1A).",
+            "These results confirmed the specificity of the IgG and IgM ELISA assays.",
+            "To study the diagnostic value of ELISA assay for virus-specific antibodies, especially in the early stage of the disease, we tried to analyze the positive rates of",
+            "ELISA and RT-PCR assays in the different stages of disease. To this end, each patient was assigned to different days after initial onset of symptoms based on the time when the pharyngeal swab specimen was detected to be positive or the last recoded detection was still negative, or the blood was collected. The positive rates of viral",
+            "RNA, IgM and/or IgG were compared in every day after initial onset of symptoms (Table 2). Due to a small number of samples in each individual day, we pooled the samples in which the positive rates were similar in consecutive days. Thus, the disease process were divided into five phases of 0-5, 6-10,11-12, 13-15 days and more than days after initial onset of symptoms (Table 3 & Fig.2). The data showed that positive rates of IgM and/or IgG were very low in the first five days after initial onset of symptoms because there was no antibody produced in most of patients in this early stage, and then rapidly increased as the disease progressed. Day 11 after initial onset of symptoms is a key time point because the positive rates of IgM and/or IgG jumped to above 80% from less than 50% at this time point. The dynamic pattern is consistent with SARS-CoV infection. 21 On the contrary, the real-time RT-PCR was more effective for detecting SARS-CoV-2 infection than ELISA in the early stage of disease.",
+            "The positive rate of viral RNA detected by RT-PCR was maintained above 60% in the first 11 days after initial onset of symptoms, and then rapidly decreased with the rapid increase of positive rate of antibodies. These results demonstrated that ELISA-based",
+            "IgM and/or IgG detection should be used as a major viral diagnostic test for the patients with symptoms for more than 10 days. Because about 50%",
+            "clinically-suspected patients with symptoms for 6-10 days were detected to be positive by ELISA-based IgM and/or IgG detection (Table 4), the combination of",
+            "ELISA and RT-PCR assays will greatly improve the detection efficacy, even in the early stage of COVID-19 infection."
+        ],
+        "Discussion": [
+            "The outbreak of the recently emerged novel coronavirus (SARS-CoV-2) poses a challenge for public health laboratories, especially for clinical laboratories of the hospitals in Wuhan, China. Although serological assay is a frequently used method for viral infection screening and diagnosis, there are few reports about serological assay in detection of SARS-CoV-2 up to now. In this study, we report the application of the",
+            "SARS-CoV-2 N protein-based ELISA for detection of IgM and IgG antibodies in the admitted hospital patients with confirmed or suspected SARS-CoV-2 infection. The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time RT-PCR on the pharyngeal swab specimens of all enrolled patients. This result is further supported by the fact that the suspected patients had the same positive rate of antibody as the confirmed patients. These data strongly demonstrated that the clinically suspected patients were mostly infected by",
+            "SARS-CoV-2.",
+            "In this study, the serum samples were collected in a time period of 9 days from the patients in different stages of disease. The positive rates of nucleic acid test and serological assay in total populations cannot reflect their diagnostic value in surveillance and control of the disease, because the production of antiviral antibodies will decrease the positive rates of the nucleic acid test as the disease progresses. In order to objectively determine the disease stage of the patients, we used the initial onset of symptoms of the patients as the start time point. Based on the day when the test sample was collected, all patients were defined to the different stages of disease.",
+            "The resulted dynamics patterns of positive rates of viral RNA and antiviral antibodies proved the rationality of the disease stage definition. Our analysis identified the 11th day after initial onset of symptoms as a key time point in the disease process when most infected patients produce antiviral antibodies. After this time point, the diagnosis for viral infection should majorly depend on serological assay. Before this time point, nucleic acid test is important for confirmation of viral infection. The combination of serological assay can greatly improve the diagnostic efficacy.",
+            "SARS-CoV-2 currently implemented in China, 20 a confirmed case of COVID-19 patients exclusively depends on the positive result of nucleic acid test or virus gene sequencing. Although this is a preliminary ELISA assay for SARS-CoV-2, our study strongly demonstrate that serological assay is very important for surveillance and control of the current COVID-19, especially in Wuhan of China, where a lot of patients are waiting to be confirmed at present. Moreover, most of patients had symptoms for more than 11 days."
+        ],
+        "Acknowledgements": [
+            "This work was supported by the National Natural Science Foundation of China (81801984, 81830003); the National Key Research and Development Program of",
+            "China (2019YFC130030); and the China Postdoctoral Science Foundation (2019M664008). We thank all heathy-care workers involved in this study. We thank",
+            "Diagnostics Inc. for providing assistance in ELISA detection."
+        ],
+        "Conflict of interest": [
+            "The authors declare that no conflict of interest exists.",
+            "W.L., Y.Z., W.N.,Y.D., W.W., S.T., X.J., J.D., Q.H., Z.H., W.X., Y.Z., B.Z., Z.T., X.Z., H.L., Z.R., H.J., and X.R. collected patients\u2019 samples. Q.W. and L.T. performed viral RNA tests. G.K.,W.L. W.N., and Y.Z established ELISA and performed serological assays. S.W., L.L., S.Z., and W.L. wrote the paper. All authors contributed to data acquisition, data analysis, or data interpretation, and reviewed and approved the final version."
+        ],
+        "References": [
+            "implications for virus origins and receptor binding. Lancet 2020; published online Jan 30. Doi: in Wuhan, China. Lancet 2020; 395(10223):497-506.",
+            "4.",
+            "published online Jan 31. Doi: 10.1016/S0140-6736(20)30260-9.",
+            "395(10223):514-523.",
+            "7.",
+            "2019. N Engl J Med 2020; 382(8):727-733.",
+            "10. Neuman BW, Kiss G, Kunding AH, et al A structural analysis of M protein in coronavirus",
+            "11. Nieto-Torres JL, DeDiego ML, Verdia-Baguena C, et al Severe acute respiratory syndrome coronavirus envelope protein ion channel activity promotes virus fitness and pathogenesis. PLoS",
+            "12. Chang CK, Sue SC, Yu TH, et al Modular organization of SARS coronavirus nucleocapsid protein. J Biomed Sci 2006;13(1):59-72.",
+            "coronavirus nucleocapsid protein. J Virol 2009;83(14):7221-34.",
+            "15. Narayanan K, Chen CJ, Maeda J, et al Nucleocapsid-independent specific viral RNA packaging via viral envelope protein and viral RNA signal. J Virol 2003;77(5):2922-7.",
+            "respiratory syndrome. J Clin Microbiol 2004;42(6):2629-35.",
+            "assay and immunochromatographic tests for detection of immunoglobulin G antibodies to severe acute respiratory syndrome (SARS) coronavirus in SARS patients. Clin Diagn Lab Immunol",
+            "Lu R, Zhao X, Li J, et al Genomic characterisation and epidemiology of 2019 novel coronavirus: 10.1016/S0140-6736(20)30251-8.",
+            "Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus",
+            "Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of Novel",
+            "Coronavirus-Infected Pneumonia. N Engl J Med 2020; published online Jan 29. Doi: 10.1056/NEJMoa2001316.",
+            "Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; Chan JF, Yuan S, Kok KH, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020; Peiris JS, Guan Y, Yuen KY. Severe acute respiratory syndrome. Nat Med 2004;10(12",
+            "Suppl):S88-97.",
+            "Lee J, Chowell G, Jung E. A dynamic compartmental model for the Middle East respiratory syndrome outbreak in the Republic of Korea: A retrospective analysis on control interventions and superspreading events. J Theor Biol 2016;408:118-26.",
+            "Zhu N, Zhang D, Wang W, et al A Novel Coronavirus from Patients with Pneumonia in China, Delmas B, Laude H. Assembly of coronavirus spike protein into trimers and its role in epitope expression. J Virol 1990;64(11):5367-75.",
+            "assembly and morphology. J Struct Biol 2011;174(1):11-22.",
+            "Pathog 2014;10(5):e1004077.",
+            "13. Hurst KR, Koetzner CA, Masters PS. Identification of in vivo-interacting domains of the murine",
+            "14. Cui L, Wang H, Ji Y, et al The Nucleocapsid Protein of Coronaviruses Acts as a Viral Suppressor of RNA Silencing in Mammalian Cells. J Virol 2015;89(17):9029-43.",
+            "16. Che XY, Qiu LW, Pan YX, et al Sensitive and specific monoclonal antibody-based capture enzyme immunoassay for detection of nucleocapsid antigen in sera from patients with severe acute",
+            "17. Guan M, Chen HY, Foo SY, et al Recombinant protein-based enzyme-linked immunosorbent",
+            "2004;11(2):287-91.",
+            "18. Woo PC, Lau SK, Wong BH, et al Longitudinal profile of immunoglobulin G (IgG), IgM, and in patients with pneumonia due to the SARS coronavirus. Clin Diagn Lab Immunol 2004;11(4):665-8.",
+            "20. General Office of National Health Committee. Office of State Administration of Traditional",
+            "Chinese Medicine. Notice on the issuance of strategic guidelines for diagnosis and treatment of novel",
+            "IgA antibodies against the severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein",
+            "19. Chen Y, Liu Q, Guo D. Emerging coronaviruses: Genome structure, replication, and pathogenesis.",
+            "J Med Virol 2020; 92(4):418-423.",
+            "coronavirus (2019-nCoV) infected pneumonia (Fifth edition draft) (2020-02-09) [EB/OL].",
+            "http://bgs.satcm.gov.cn/zhengcewenjian/2020-02-09/12930.html.",
+            "Chen S, Lu D, Zhang M, et al Double-antigen sandwich ELISA for detection of antibodies to",
+            "SARS-associated coronavirus in human serum. Eur J Clin Microbiol Infect Dis 2005;24(8):549-53.",
+            "Table 1. Demographic and baseline characteristics of 238 enrolled patients",
+            "Characteristics",
+            "All patients (N=238)",
+            "Confirmed (N=153)",
+            "Suspected (N=85)",
+            "P value",
+            "Age, Median (IQR) \u2013 y",
+            "55.0 (38.3-65.0)",
+            "54.0 (39.0-64.0)",
+            "55.0 (38.0-65.0)",
+            "Male (58.0%)",
+            "(60.8%)",
+            "(52.3%)",
+            "Female (42.0%)",
+            "(39.2%)",
+            "(47.6%)",
+            "Heart rate (80-100)",
+            "(80-99)",
+            "(80-104)",
+            "Sex",
+            "Vital signs",
+            "Respiratory rate (18-20)",
+            "Oxygen saturation",
+            "96% (94%-98%)",
+            "97% (95%-98%)",
+            "235/238 (98.7)",
+            "151/153 (98.7)",
+            "84/85 (98.8)",
+            "41/238 (17.2)",
+            "25/153 (16.3)",
+            "16/85 (18.8)",
+            "21/238 (8.8)",
+            "16/153 (10.5)",
+            "5/85 (5.9)",
+            "125/238 (52.5)",
+            "84/153 (54.9)",
+            "41/85 (48.2)",
+            "Decreased",
+            "28/238 (11.8)",
+            "17/153 (11.1)",
+            "11/85 (12.9)",
+            "Increased",
+            "32/238 (13.4)",
+            "22/153 (14.4)",
+            "10/85 (11.8)",
+            "Fever",
+            "206/238 (86.6)",
+            "134/153 (87.6)",
+            "72/85 (84.7)",
+            "Dry cough",
+            "128/238 (53.8)",
+            "86/153 (56.2)",
+            "42/85 (49.4)",
+            "Fatigue",
+            "78/238 (32.8)",
+            "47/153 (30.7)",
+            "31/85 (36.5)",
+            "Myalgia",
+            "46/238 (19.3)",
+            "29/153 (19.0)",
+            "17/85 (20.0)",
+            "CT findings of ground-glass opacity and/or patchy shadowing",
+            "Leukocytes (\u00d7109 per L; normal range 3.5-9.5)",
+            "Lymphocytes (\u00d710 per L; normal range 1.1-3.2)",
+            "Neutrophils (\u00d710 per L; normal range 1.8-6.3)",
+            "Signs and symptoms",
+            "Dyspnea",
+            "44/238 (18.5)",
+            "31/153 (20.3)",
+            "13/85 (15.3)",
+            "Chill",
+            "31/238 (13.0)",
+            "20/153 (13.1)",
+            "Anorexia",
+            "29/238 (12.2)",
+            "14/153 (9.2)",
+            "15/85 (17.6)",
+            "Diarrhea",
+            "24/238 (10.1)",
+            "Expectoration",
+            "7/85 (8.2)",
+            "Headache",
+            "15/238 (6.3)",
+            "12/153 (7.8)",
+            "3/85 (3.5)",
+            "Pharyngalgia",
+            "14/238 (5.9)",
+            "9/153 (5.9)",
+            "6/85 (7.1)",
+            "Palpitation",
+            "9/238 (3.8)",
+            "8/153 (5.2)",
+            "1/85 (1.2)",
+            "Chest pain",
+            "6/238 (2.5)",
+            "4/153 (2.6)",
+            "2/85 (2.4)",
+            "Nausea",
+            "4/238 (1.7)",
+            "2/153 (1.3)",
+            "Dizziness",
+            "0/85 (0.0)",
+            "Vomiting",
+            "3/238 (1.3)",
+            "3/153 (2.0)",
+            "Abdominal pain",
+            "1/238 (0.4)",
+            "1/153 (0.7)",
+            "63/238 (26.5)",
+            "42/153 (27.5)",
+            "21/85 (24.7)",
+            "Coexisting disorders",
+            "Hypertension",
+            "Diabetes",
+            "25/238 (10.5)",
+            "15/153 (9.8)",
+            "Cardiovascular disease",
+            "8/85 (9.4)",
+            "Malignancy",
+            "12/238 (5.0)",
+            "6/153 (3.9)",
+            "Cerebrovascular disease",
+            "8/238 (3.4)",
+            "5/153 (3.3)",
+            "COPD",
+            "Data are median (IQR), n (%), or n/N (%), where N is the total number of patients with available data. P values comparing the confirmed patients and the suspected patients are from \u03c72 test, Fisher\u2019s exact test, or Mann-Whitney U test. Confirmed=confirmed patients. Suspected=suspected patients.",
+            "Table 2. Viral RNA and antibody positive rates of the patients detected each day from initial onset of symptoms",
+            "Day",
+            "Viral RNA+",
+            "IgM +and/or IgG+",
+            "IgM +",
+            "IgG+",
+            "IgM+and IgG+",
+            "100.0 (2/2)",
+            "50.0 (1/2)",
+            "0.0 (0/2)",
+            "83.3 (5/6)",
+            "33.3 (1/3)",
+            "0.0 (0/3)",
+            "71.4 (5/7)",
+            "61.5 (8/13)",
+            "25.0 (1/4)",
+            "0.0 (0/4)",
+            "69.2 (9/13)",
+            "50.0 (2/4)",
+            "92.3 (12/13)",
+            "0.0 (0/1)",
+            "62.5 (5/8)",
+            "60.0 (3/5)",
+            "0.0 (0/5)",
+            "88.9 (8/9)",
+            "81.8 (18/22)",
+            "54.5 (6/11)",
+            "18.2 (2/11)",
+            "0.0 (0/11)",
+            "36.4 (4/11)",
+            "85.0 (17/20)",
+            "42.9 (6/14)",
+            "7.1 (1/14)",
+            "28.6 (4/14)",
+            "75.0 (9/12)",
+            "42.9 (3/7)",
+            "14.3 (1/7)",
+            "0.0 (0/7)",
+            "28.6 (2/7)",
+            "72.2 (13/18)",
+            "81.8 (9/11)",
+            "27.3 (3/11)",
+            "50.0 (5/10)",
+            "80.0 (8/10)",
+            "30.0 (3/10)",
+            "20.0 (2/10)",
+            "44.4 (4/9)",
+            "90.9 (10/11)",
+            "9.1 (1/11)",
+            "100.0 (17/17)",
+            "29.4 (5/17)",
+            "0.0 (0/17)",
+            "70.6 (12/17)",
+            "30.8 (4/13)",
+            "90.0 (18/20)",
+            "10.0 (2/20)",
+            "15.0 (3/20)",
+            "65.0 (13/20)",
+            "50.0 (4/8)",
+            "100.0 (16/16)",
+            "12.5 (2/16)",
+            "25.0 (4/16)",
+            "62.5 (10/16)",
+            "57.1 (4/7)",
+            "88.9 (16/18)",
+            "0.0 (0/18)",
+            "5.6 (1/18)",
+            "83.3 (15/18)",
+            "33.3 (2/6)",
+            "0.0 (0/16)",
+            "6.3 (1/16)",
+            "93.8 (15/16)",
+            "33.3 (3/9)",
+            "100.0 (19/19)",
+            "10.5 (2/19)",
+            "21.1 (4/19)",
+            "68.4 (13/19)",
+            "0.0 (0/6)",
+            "50.0 (3/6)",
+            ">20",
+            "36.8 (7/19)",
+            "97.2 (35/36)",
+            "2.8 (1/36)",
+            "8.3 (3/36)",
+            "86.1 (31/36)",
+            "Data are % (n/N). Day= the day after initial onset of symptoms. Viral RNA+=a positive result detected by real time RT-PCR.",
+            "IgM+=a positive result detected by IgM ELISA and simultaneously a negative result detected by IgG ELISA. IgG+=a positive detected by IgM and IgG ELISA. IgM+and/or IgG+=at least a positive result detected by IgM and IgG ELISA.",
+            "result detected by IgG ELISA and simultaneously a negative result detected by IgM ELISA. IgM+ and IgG+=a dual positive result",
+            "Table 3. Viral RNA and antibody positive rates of the patients detected in different stages of disease",
+            "Days",
+            "IgM+",
+            "0-5",
+            "75.9 (41/54)",
+            "5.9 (1/17)",
+            "11.8 (2/17)",
+            "6-10",
+            "80.3 (57/71)",
+            "48.8 (20/41)",
+            "12.2 (5/41)",
+            "2.4 (1/41)",
+            "34.1 (14/41)",
+            "11-12",
+            "64.3 (18/28)",
+            "81.0 (17/21)",
+            "23.8 (5/21)",
+            "33.3 (7/21)",
+            "13-15",
+            "48.6 (17/35)",
+            "93.8 (45/48)",
+            "20.8 (10/48)",
+            "8.3 (4/48)",
+            "64.6 (31/48)",
+            "\u226516",
+            "40.0 (20/50)",
+            "96.4 (107/111)",
+            "4.5 (5/111)",
+            "13.5 (15/111)",
+            "78.4 (87/111)",
+            "Total",
+            "64.3 (153/238)",
+            "81.5 (194/238)",
+            "10.9 (26/238)",
+            "11.3 (27/238)",
+            "59.2 (141/238)",
+            "Data are % (n/N). Days= the day after initial onset of symptoms. Viral RNA =a positive result detected by real time RT-PCR.",
+            "+",
+            "result detected by IgG ELISA and simultaneously a negative result detected by IgM ELISA. IgM+ and IgG+=a dual positive result detected by IgM and IgG ELISA. IgM+and/or IgG+=at least a positive result detected by IgM and IgG ELISA.",
+            "Table 4. Comparison of the antibody positive rates between the confirmed and suspected patients",
+            "0-5 days",
+            "6-10 days",
+            "\u226511 days",
+            "Confirmed",
+            "55.6 (5/9)",
+            "44.0 (11/25)",
+            "93.3 (111/119)",
+            "Suspected",
+            "0.0 (0/8)",
+            "56.3 (9/16)",
+            "95.1 (58/61)",
+            "Data are % (n/N). Confirmed=confirmed patients. Suspected=suspected patients.",
+            "Figure 1. Positive rate of viral RNA and antibody in different samples. A) The positive rate of viral RNA (black column) and antibody (white column) in 238 enrolled patients (two columns on the left), as well as the positive rate of antibody in ordinary patients and healthy donors (two columns on the right). B) Comparison of positive rate of antibody between the laboratory-confirmed (left) and highly-suspected patients (right). Results were compared by chi-square tests.",
+            "Figure 2. Dynamics of the positive rate of viral RNA and antibody of the patients at the different stages of disease. The disease courses were divided into five phases of 0-5, 6-10,11-12, 13-15 days and more than 16 days after initial onset of symptoms.",
+            "The positive rate of viral RNA (solid circle) and antibody (hollow circle) of the patients at the different phase of disease was shown."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "admitted hospital patients with confirmed or suspected SARS-CoV-2 infection from February",
+            "number": 238,
+            "context": "We aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2. <mark class=\"stats\">Methods A newly-developed ELISA assay for IgM and IgG antibodies against N protein of SARS-CoV-2 were used to screen the serums of 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection from February 6 to February 14, 2020</mark>. SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens"
+        },
+        {
+            "participant": "patients",
+            "number": 238,
+            "context": "SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens. <mark class=\"stats\">Findings Of the 238 patients, 194 (81.5%) were detected to be antibody (IgM and/or IgG) positive, which was significantly higher than the positive rate of viral RNA (64.3%)</mark>. There was no difference in the positive rate of antibody between the confirmed patients (83.0%, 127/153) and the suspected patients (78.8%, 67/85) whose nucleic acid tests were negative"
+        },
+        {
+            "participant": "admitted hospital patients with confirmed or suspected SARS-CoV-2 infection from February",
+            "number": 238,
+            "context": "SARS-CoV-2; diagnosis; serological assay; nucleic acid test. <mark class=\"stats\">A newly-developed ELISA assay for IgM and IgG antibodies against N protein of SARS-CoV-2 were used to screen the serums of 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection from February 6 to<br/><br/>February 14, 2020</mark>. SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens"
+        },
+        {
+            "participant": "patients",
+            "number": 238,
+            "context": "SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens. <mark class=\"stats\">Patients and samples<br/><br/>All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled</mark>. The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records"
+        },
+        {
+            "participant": "recruited patients",
+            "number": 238,
+            "context": "The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records. <mark class=\"stats\">Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19. 20 The serum samples were collected once from each recruited patient</mark>. Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls"
+        },
+        {
+            "participant": "ordinary patients",
+            "number": 70,
+            "context": "Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19. 20 The serum samples were collected once from each recruited patient. <mark class=\"stats\">Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls</mark>. The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases.<br/><br/>Real time Reverse Transcription Polymerase Chain Reaction (RT-PCR) AssayAll consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled"
+        },
+        {
+            "participant": "patients",
+            "number": 238,
+            "context": "Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls. <mark class=\"stats\">The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases.<br/><br/>Real time Reverse Transcription Polymerase Chain Reaction (RT-PCR) AssayAll consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled</mark>. The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records"
+        },
+        {
+            "participant": "ordinary patients",
+            "number": 70,
+            "context": "Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19. 20 The serum samples were collected once from each recruited patient. <mark class=\"stats\">Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls</mark>. The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases"
+        },
+        {
+            "participant": "target genes",
+            "number": 2,
+            "context": "Real time RT-PCR was performed using the nucleic acid testing kit (Daan, Guangzhou, China) for SARS-CoV-2 detection. <mark class=\"stats\">The open reading frame 1ab (ORF1ab) and nucleocapsid protein (N) were simultaneously selected as the two target genes</mark>. The human GAPDH gene was used as an internal control"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 80000,
+            "context": "(SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since. <mark class=\"stats\">2 By March 1, 2020, more than 80,000 confirmed cases have been identified globally both in China and other 58 countries spanning Asia, Europe, Oceania, North and South America, and Northeast Africa</mark>. It is evidenced that"
+        },
+        {
+            "participant": "main structural proteins",
+            "number": 4,
+            "context": "SARS-CoV-2 is genetically distinct from SARS-CoV and is more closely related to bat-SL-CoV ZC45 and bat-SL-CoV ZXC21. <mark class=\"stats\">1 SARS-CoV-2 owns a similar receptor-binding domain structure to that of SARS-CoV. 1 A typical CoV contains four main structural proteins: spike (S), membrane (M), envelope (E), and nucleocapsid (N)</mark>. proteins"
+        },
+        {
+            "participant": "admitted hospital patients with confirmed or suspected SARS-CoV-2 infection",
+            "number": 238,
+            "context": "In this study, a newly-developed IgM and IgG antibody detecting Enzyme-linked immunosorbent assays (ELISA) based on a recombinant fragment of SARS-CoV-2 N. <mark class=\"stats\">protein were used to detect IgM and IgG against SARS-CoV-2 in serum of 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection</mark>. The results strongly indicated that the suspected patients were infected"
+        },
+        {
+            "participant": "patients",
+            "number": 238,
+            "context": "Patients and samples. <mark class=\"stats\">All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled</mark>. The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records"
+        },
+        {
+            "participant": "recruited patients",
+            "number": 238,
+            "context": "The general information (age, sex, vital signs, coexisting disorders), clinical, laboratory, and radiological characteristics data of the patients on admission were extracted from electronic medical records. <mark class=\"stats\">Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19</mark>. 20 The serum samples were collected once from each recruited patient"
+        },
+        {
+            "participant": "ordinary patients",
+            "number": 70,
+            "context": "20 The serum samples were collected once from each recruited patient. <mark class=\"stats\">Meanwhile, the serum samples from 70 ordinary patients and 50 healthy blood donors were randomly selected as the controls</mark>. The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases"
+        },
+        {
+            "participant": "admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General",
+            "number": 238,
+            "context": "Demographics and patient characteristics. <mark class=\"stats\">The serum samples were collected from 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General Hospital of Central Theater</mark>. Command of PLA from February 6 to February 14, 2020"
+        },
+        {
+            "participant": "groups patients",
+            "number": 2,
+            "context": "According to the positive or negative results of real time RT-PCR assay for pharyngeal swab specimens, the enrolled patients were divided into two groups: the confirmed group and the suspected group. <mark class=\"stats\">There were no statistical differences of baseline characteristics of the two groups patients</mark>. Performance and validation of ELISA assays for viral specific IgM and IgG"
+        },
+        {
+            "participant": "patients",
+            "number": 238,
+            "context": "Performance and validation of ELISA assays for viral specific IgM and IgG. <mark class=\"stats\">Each serum sample of 238 patients were respectively tested for IgM and IgG</mark>. antibodies against SARS-CoV-2 by using newly-developed ELISA kits based on N"
+        },
+        {
+            "participant": "serum samples",
+            "number": 194,
+            "context": "protein of SARS-CoV-2. <mark class=\"stats\">The IgM and/or IgG could be detected in 194 serum samples, and the positive rate ( 81.5% ) was significantly higher than that of SARS-CoV-2</mark>. RNA detected by real time RT-PCR, which was 64.3% (153/238) (Fig.1A)"
+        },
+        {
+            "participant": "randomly-selected ordinary patients",
+            "number": 70,
+            "context": "negative detected by RT-PCR, were mostly infected. <mark class=\"stats\">To verify the specificity of the ELISA assays, the serum samples from 70 randomly-selected ordinary patients and 50 healthy blood donors were simultaneously author/funder, who has granted medRxiv a license to display the preprint in perpetuity</mark>. detected"
+        },
+        {
+            "participant": "samples",
+            "number": 4,
+            "context": "detected. <mark class=\"stats\">Four samples from the ordinary patients were identified as antibody positive (including one dual positive sample, two IgM-positive samples, and one IgG-positive sample) and no positive was found in the samples of healthy blood donors (Fig.1A)</mark>. These results confirmed the specificity of the IgG and IgM ELISA assays"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Independent group t tests were applied to continuous variables that were normally distributed; otherwise, the Mann-Whitney test was used</mark>",
+                "tests": [
+                    {
+                        "test": "t tests"
+                    },
+                    {
+                        "test": "Mann-Whitney test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Categorical variables were compared using the chi-square tests, while the Fisher exact test was used when the data were limited</mark>",
+                "tests": [
+                    {
+                        "test": "chi-square"
+                    },
+                    {
+                        "test": "Fisher exact test"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "at 450 nm",
+        "sars cov",
+        "SARS",
+        "hospital patient",
+        "COVID-19",
+        "serological assay",
+        "acid test",
+        "positive rate",
+        "antibody positive",
+        "interquartile ranges",
+        "severe acute respiratory syndrome",
+        "corona virus disease",
+        "SARS-CoV-2",
+        "Reverse Transcription Polymerase Chain Reaction",
+        "pneumonia",
+        "nucleic acid test",
+        "coronavirus",
+        "viral rna",
+        "viral infection",
+        "horse radish peroxidase",
+        "open reading frame 1ab",
+        "public health laboratory",
+        "Statistical Package for the Social Sciences",
+        "Enzyme-linked immunosorbent assays",
+        "initial onset"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.1533101045,
+        "SARS-CoV-2": 0.118466899,
+        "Enzyme-linked immunosorbent assays": 0.1114982578,
+        "positive rate": 0.0940766551,
+        "Reverse Transcription Polymerase Chain Reaction": 0.0766550523,
+        "coronavirus": 0.0662020906,
+        "initial onset": 0.0522648084,
+        "serological assay": 0.0452961672,
+        "acid test": 0.0418118467,
+        "nucleic acid test": 0.0418118467,
+        "at 450 nm": 0.0278745645,
+        "COVID-19": 0.0243902439,
+        "antibody positive": 0.0243902439,
+        "viral infection": 0.0209059233,
+        "hospital patient": 0.0174216028,
+        "interquartile ranges": 0.0174216028,
+        "open reading frame 1ab": 0.0174216028,
+        "severe acute respiratory syndrome": 0.0139372822,
+        "pneumonia": 0.0104529617,
+        "horse radish peroxidase": 0.0104529617,
+        "corona virus disease": 0.0069686411,
+        "Statistical Package for the Social Sciences": 0.0069686411,
+        "sars cov": 0.0,
+        "viral rna": 0.0,
+        "public health laboratory": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since<br/><br/>December 2019. 2 By March 1, 2020, more than 80,000 confirmed cases have been identified globally both in China and other 58 countries spanning Asia, Europe, Oceania, North and South America, and Northeast Africa.",
+        "A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since.",
+        "The N protein has high immunogenic activity and is profusely source of a diagnostic antigen for detecting SARS-CoV-2 infection.",
+        "Many diagnostic methods based on the N protein have been developed for SARS-CoV detection.",
+        "The authors aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2",
+        "<h2 style=\"display: inline\">Methods:</h2> All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled.",
+        "Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19.",
+        "The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases.",
+        "<h2 style=\"display: inline\">Results:</h2> Demographics and patient characteristics<br/><br/>The serum samples were collected from 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General Hospital of Central Theater<br/><br/>Command of PLA from February 6 to February 14, 2020.",
+        "The clinical characteristics of the patients were shown in Table 1.",
+        "[10.5%]), and cardiovascular disease (24 [10.1%]) were the most common coexisting disorders.",
+        "Of these patients, the most common symptoms at illness onset were fever (206 [86.6%]), dry cough (128 [53.8%]), and fatigue (78 [32.8%]).",
+        "A small number of patients possessed the symptoms of abdominal pain (1 [0.4%]), vomiting (3 [1.3%]), and dizziness (4 [1.7%]).",
+        "Leucocytes were below the normal range in (17.2%) patients and above the normal range in 21 (8.8%) patients. 125 (52.5%)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The outbreak of the recently emerged novel coronavirus (SARS-CoV-2) poses a challenge for public health laboratories, especially for clinical laboratories of the hospitals in Wuhan, China.",
+        "The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time RT-PCR on the pharyngeal swab specimens of all enrolled patients.",
+        "This result is further supported by the fact that the suspected patients had the same positive rate of antibody as the confirmed patients.",
+        "These data strongly demonstrated that the clinically suspected patients were mostly infected by"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since<br/><br/>December 2019. 2 By March 1, 2020, more than 80,000 confirmed cases have been identified globally both in China and other 58 countries spanning Asia, Europe, Oceania, North and South America, and Northeast Africa.",
+            "A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since.",
+            "The N protein has high immunogenic activity and is profusely source of a diagnostic antigen for detecting SARS-CoV-2 infection.",
+            "Many diagnostic methods based on the N protein have been developed for SARS-CoV detection.",
+            "The authors aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2"
+        ],
+        "Methods": [
+            "All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled.",
+            "Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19.",
+            "The study was approved by the Hospital Ethics Committee and written informed consent was waived for emerging infectious diseases."
+        ],
+        "Results": [
+            "Demographics and patient characteristics<br/><br/>The serum samples were collected from 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General Hospital of Central Theater<br/><br/>Command of PLA from February 6 to February 14, 2020.",
+            "The clinical characteristics of the patients were shown in Table 1.",
+            "[10.5%]), and cardiovascular disease (24 [10.1%]) were the most common coexisting disorders.",
+            "Of these patients, the most common symptoms at illness onset were fever (206 [86.6%]), dry cough (128 [53.8%]), and fatigue (78 [32.8%]).",
+            "A small number of patients possessed the symptoms of abdominal pain (1 [0.4%]), vomiting (3 [1.3%]), and dizziness (4 [1.7%]).",
+            "Leucocytes were below the normal range in (17.2%) patients and above the normal range in 21 (8.8%) patients. 125 (52.5%)"
+        ],
+        "Conclusion": [
+            "The outbreak of the recently emerged novel coronavirus (SARS-CoV-2) poses a challenge for public health laboratories, especially for clinical laboratories of the hospitals in Wuhan, China.",
+            "The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time RT-PCR on the pharyngeal swab specimens of all enrolled patients.",
+            "This result is further supported by the fact that the suspected patients had the same positive rate of antibody as the confirmed patients.",
+            "These data strongly demonstrated that the clinically suspected patients were mostly infected by"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Lu_et+al_2019_a",
+            "entry": "1. Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: 302 implications for virus origins and receptor binding. Lancet 2020; published online Jan 30. Doi: 303 10.1016/S0140-6736(20)30251-8. 304 2. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus 305 in Wuhan, China. Lancet 2020; 395(10223):497-506. 306 3.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30251-8",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30251-8",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930251-8"
+        },
+        {
+            "id": "Li_et+al_0000_a",
+            "alt_id": "2",
+            "entry": "Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel 307 Coronavirus-Infected Pneumonia. N Engl J Med 2020; published online Jan 29. Doi: 308 10.1056/NEJMoa2001316. 309 4.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001316",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001316",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001316"
+        },
+        {
+            "id": "Wu_et+al_2019_a",
+            "alt_id": "3",
+            "entry": "Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international 310 spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; 311 published online Jan 31. Doi: 10.1016/S0140-6736(20)30260-9. 312 5.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30260-9.312",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30260-9.312"
+        },
+        {
+            "id": "Chan_et+al_2019_a",
+            "alt_id": "4",
+            "entry": "Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel 313 coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020; 314 395(10223):514-523. 315 6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20313%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020%20314%2039510223514523%20315%206",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20313%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020%20314%2039510223514523%20315%206",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20313%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020%20314%2039510223514523%20315%206"
+        },
+        {
+            "id": "Peiris_et+al_2004_a",
+            "alt_id": "5",
+            "entry": "Peiris JS, Guan Y, Yuen KY. Severe acute respiratory syndrome. Nat Med 2004;10(12 316 Suppl):S88-97. 317 7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Peiris%2C%20J.S.%20Guan%2C%20Y.%20Yuen%2C%20K.Y.%20Severe%20acute%20respiratory%20syndrome%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Peiris%2C%20J.S.%20Guan%2C%20Y.%20Yuen%2C%20K.Y.%20Severe%20acute%20respiratory%20syndrome%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Peiris%2C%20J.S.%20Guan%2C%20Y.%20Yuen%2C%20K.Y.%20Severe%20acute%20respiratory%20syndrome%202004"
+        },
+        {
+            "id": "Lee_et+al_2016_a",
+            "alt_id": "6",
+            "entry": "Lee J, Chowell G, Jung E. A dynamic compartmental model for the Middle East respiratory 318 syndrome outbreak in the Republic of Korea: A retrospective analysis on control interventions and 319 superspreading events. J Theor Biol 2016;408:118-26. 320 8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lee%2C%20J.%20Chowell%2C%20G.%20Jung%2C%20E.%20A%20dynamic%20compartmental%20model%20for%20the%20Middle%20East%20respiratory%20318%20syndrome%20outbreak%20in%20the%20Republic%20of%20Korea%3A%20A%20retrospective%20analysis%20on%20control%20interventions%20and%20319%20superspreading%20events%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lee%2C%20J.%20Chowell%2C%20G.%20Jung%2C%20E.%20A%20dynamic%20compartmental%20model%20for%20the%20Middle%20East%20respiratory%20318%20syndrome%20outbreak%20in%20the%20Republic%20of%20Korea%3A%20A%20retrospective%20analysis%20on%20control%20interventions%20and%20319%20superspreading%20events%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lee%2C%20J.%20Chowell%2C%20G.%20Jung%2C%20E.%20A%20dynamic%20compartmental%20model%20for%20the%20Middle%20East%20respiratory%20318%20syndrome%20outbreak%20in%20the%20Republic%20of%20Korea%3A%20A%20retrospective%20analysis%20on%20control%20interventions%20and%20319%20superspreading%20events%202016"
+        },
+        {
+            "id": "Zhu_et+al_2019_a",
+            "alt_id": "7",
+            "entry": "Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 321 2019. N Engl J Med 2020; 382(8):727-733. 322 9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%20321%202019%20N%20Engl%20J%20Med%202020%203828727733%20322%209",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%20321%202019%20N%20Engl%20J%20Med%202020%203828727733%20322%209",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%20321%202019%20N%20Engl%20J%20Med%202020%203828727733%20322%209"
+        },
+        {
+            "id": "Delmas_1990_a",
+            "alt_id": "8",
+            "entry": "Delmas B, Laude H. Assembly of coronavirus spike protein into trimers and its role in epitope 323 expression. J Virol 1990;64(11):5367-75. 324 10.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Delmas%2C%20B.%20Laude%2C%20H.%20Assembly%20of%20coronavirus%20spike%20protein%20into%20trimers%20and%20its%20role%20in%20epitope%20323%20expression%201990",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Delmas%2C%20B.%20Laude%2C%20H.%20Assembly%20of%20coronavirus%20spike%20protein%20into%20trimers%20and%20its%20role%20in%20epitope%20323%20expression%201990",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Delmas%2C%20B.%20Laude%2C%20H.%20Assembly%20of%20coronavirus%20spike%20protein%20into%20trimers%20and%20its%20role%20in%20epitope%20323%20expression%201990"
+        },
+        {
+            "id": "Neuman_et+al_2011_a",
+            "alt_id": "9",
+            "entry": "Neuman BW, Kiss G, Kunding AH, et al. A structural analysis of M protein in coronavirus 325 assembly and morphology. J Struct Biol 2011;174(1):11-22. 326 11. Nieto-Torres JL, DeDiego ML, Verdia-Baguena C, et al. Severe acute respiratory syndrome 327 coronavirus envelope protein ion channel activity promotes virus fitness and pathogenesis. PLoS 328 Pathog 2014;10(5):e1004077. 329 12.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Neuman%2C%20B.W.%20Kiss%2C%20G.%20Kunding%2C%20A.H.%20A%20structural%20analysis%20of%20M%20protein%20in%20coronavirus%20325%20assembly%20and%20morphology%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Neuman%2C%20B.W.%20Kiss%2C%20G.%20Kunding%2C%20A.H.%20A%20structural%20analysis%20of%20M%20protein%20in%20coronavirus%20325%20assembly%20and%20morphology%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Neuman%2C%20B.W.%20Kiss%2C%20G.%20Kunding%2C%20A.H.%20A%20structural%20analysis%20of%20M%20protein%20in%20coronavirus%20325%20assembly%20and%20morphology%202011"
+        },
+        {
+            "id": "Chang_et+al_2006_a",
+            "alt_id": "10",
+            "entry": "Chang CK, Sue SC, Yu TH, et al. Modular organization of SARS coronavirus nucleocapsid 330 protein. J Biomed Sci 2006;13(1):59-72. 331 13.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chang%2C%20C.K.%20Sue%2C%20S.C.%20Yu%2C%20T.H.%20Modular%20organization%20of%20SARS%20coronavirus%20nucleocapsid%20330%20protein%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chang%2C%20C.K.%20Sue%2C%20S.C.%20Yu%2C%20T.H.%20Modular%20organization%20of%20SARS%20coronavirus%20nucleocapsid%20330%20protein%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chang%2C%20C.K.%20Sue%2C%20S.C.%20Yu%2C%20T.H.%20Modular%20organization%20of%20SARS%20coronavirus%20nucleocapsid%20330%20protein%202006"
+        },
+        {
+            "id": "Hurst_et+al_2009_a",
+            "alt_id": "11",
+            "entry": "Hurst KR, Koetzner CA, Masters PS. Identification of in vivo-interacting domains of the murine 332 coronavirus nucleocapsid protein. J Virol 2009;83(14):7221-34. 333 14.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hurst%2C%20K.R.%20Koetzner%2C%20C.A.%20Masters%2C%20P.S.%20Identification%20of%20in%20vivo-interacting%20domains%20of%20the%20murine%20332%20coronavirus%20nucleocapsid%20protein%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hurst%2C%20K.R.%20Koetzner%2C%20C.A.%20Masters%2C%20P.S.%20Identification%20of%20in%20vivo-interacting%20domains%20of%20the%20murine%20332%20coronavirus%20nucleocapsid%20protein%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hurst%2C%20K.R.%20Koetzner%2C%20C.A.%20Masters%2C%20P.S.%20Identification%20of%20in%20vivo-interacting%20domains%20of%20the%20murine%20332%20coronavirus%20nucleocapsid%20protein%202009"
+        },
+        {
+            "id": "Cui_et+al_2015_a",
+            "alt_id": "12",
+            "entry": "Cui L, Wang H, Ji Y, et al. The Nucleocapsid Protein of Coronaviruses Acts as a Viral Suppressor 334 of RNA Silencing in Mammalian Cells. J Virol 2015;89(17):9029-43. 335 15.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cui%2C%20L.%20Wang%2C%20H.%20Ji%2C%20Y.%20The%20Nucleocapsid%20Protein%20of%20Coronaviruses%20Acts%20as%20a%20Viral%20Suppressor%20334%20of%20RNA%20Silencing%20in%20Mammalian%20Cells%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cui%2C%20L.%20Wang%2C%20H.%20Ji%2C%20Y.%20The%20Nucleocapsid%20Protein%20of%20Coronaviruses%20Acts%20as%20a%20Viral%20Suppressor%20334%20of%20RNA%20Silencing%20in%20Mammalian%20Cells%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cui%2C%20L.%20Wang%2C%20H.%20Ji%2C%20Y.%20The%20Nucleocapsid%20Protein%20of%20Coronaviruses%20Acts%20as%20a%20Viral%20Suppressor%20334%20of%20RNA%20Silencing%20in%20Mammalian%20Cells%202015"
+        },
+        {
+            "id": "Narayanan_et+al_2003_a",
+            "alt_id": "13",
+            "entry": "Narayanan K, Chen CJ, Maeda J, et al. Nucleocapsid-independent specific viral RNA packaging 336 via viral envelope protein and viral RNA signal. J Virol 2003;77(5):2922-7. 337 16.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Narayanan%2C%20K.%20Chen%2C%20C.J.%20Maeda%2C%20J.%20Nucleocapsid-independent%20specific%20viral%20RNA%20packaging%20336%20via%20viral%20envelope%20protein%20and%20viral%20RNA%20signal%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Narayanan%2C%20K.%20Chen%2C%20C.J.%20Maeda%2C%20J.%20Nucleocapsid-independent%20specific%20viral%20RNA%20packaging%20336%20via%20viral%20envelope%20protein%20and%20viral%20RNA%20signal%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Narayanan%2C%20K.%20Chen%2C%20C.J.%20Maeda%2C%20J.%20Nucleocapsid-independent%20specific%20viral%20RNA%20packaging%20336%20via%20viral%20envelope%20protein%20and%20viral%20RNA%20signal%202003"
+        },
+        {
+            "id": "Che_et+al_2004_a",
+            "alt_id": "14",
+            "entry": "Che XY, Qiu LW, Pan YX, et al. Sensitive and specific monoclonal antibody-based capture 338 enzyme immunoassay for detection of nucleocapsid antigen in sera from patients with severe acute 339 respiratory syndrome. J Clin Microbiol 2004;42(6):2629-35. 340 17.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Che%2C%20X.Y.%20Qiu%2C%20L.W.%20Pan%2C%20Y.X.%20Sensitive%20and%20specific%20monoclonal%20antibody-based%20capture%20338%20enzyme%20immunoassay%20for%20detection%20of%20nucleocapsid%20antigen%20in%20sera%20from%20patients%20with%20severe%20acute%20339%20respiratory%20syndrome%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Che%2C%20X.Y.%20Qiu%2C%20L.W.%20Pan%2C%20Y.X.%20Sensitive%20and%20specific%20monoclonal%20antibody-based%20capture%20338%20enzyme%20immunoassay%20for%20detection%20of%20nucleocapsid%20antigen%20in%20sera%20from%20patients%20with%20severe%20acute%20339%20respiratory%20syndrome%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Che%2C%20X.Y.%20Qiu%2C%20L.W.%20Pan%2C%20Y.X.%20Sensitive%20and%20specific%20monoclonal%20antibody-based%20capture%20338%20enzyme%20immunoassay%20for%20detection%20of%20nucleocapsid%20antigen%20in%20sera%20from%20patients%20with%20severe%20acute%20339%20respiratory%20syndrome%202004"
+        },
+        {
+            "id": "Woo_et+al_2004_a",
+            "alt_id": "15",
+            "entry": "2004;11(2):287-91. 344 18.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Woo%2C%20P.C.%20Lau%2C%20S.K.%20Wong%2C%20B.H.%20Longitudinal%20profile%20of%20immunoglobulin%20G%20%28IgG%29%2C%20IgM%2C%20and%20345%20IgA%20antibodies%20against%20the%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%20coronavirus%20nucleocapsid%20protein%20346%20in%20patients%20with%20pneumonia%20due%20to%20the%20SARS%20coronavirus%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Woo%2C%20P.C.%20Lau%2C%20S.K.%20Wong%2C%20B.H.%20Longitudinal%20profile%20of%20immunoglobulin%20G%20%28IgG%29%2C%20IgM%2C%20and%20345%20IgA%20antibodies%20against%20the%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%20coronavirus%20nucleocapsid%20protein%20346%20in%20patients%20with%20pneumonia%20due%20to%20the%20SARS%20coronavirus%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Woo%2C%20P.C.%20Lau%2C%20S.K.%20Wong%2C%20B.H.%20Longitudinal%20profile%20of%20immunoglobulin%20G%20%28IgG%29%2C%20IgM%2C%20and%20345%20IgA%20antibodies%20against%20the%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%20coronavirus%20nucleocapsid%20protein%20346%20in%20patients%20with%20pneumonia%20due%20to%20the%20SARS%20coronavirus%202004"
+        },
+        {
+            "id": "Virol_2020_a",
+            "alt_id": "16",
+            "entry": "Woo PC, Lau SK, Wong BH, et al. Longitudinal profile of immunoglobulin G (IgG), IgM, and 345 IgA antibodies against the severe acute respiratory syndrome (SARS) coronavirus nucleocapsid protein 346 in patients with pneumonia due to the SARS coronavirus. Clin Diagn Lab Immunol 2004;11(4):665-8. 347 19.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Woo%20PC%20Lau%20SK%20Wong%20BH%20et%20al%20Longitudinal%20profile%20of%20immunoglobulin%20G%20IgG%20IgM%20and%20345%20IgA%20antibodies%20against%20the%20severe%20acute%20respiratory%20syndrome%20SARS%20coronavirus%20nucleocapsid%20protein%20346%20in%20patients%20with%20pneumonia%20due%20to%20the%20SARS%20coronavirus%20Clin%20Diagn%20Lab%20Immunol%2020041146658%20347%2019"
+        },
+        {
+            "id": "348",
+            "alt_id": "Chen_et+al_2005_a",
+            "entry": "348 J Med Virol 2020; 92(4):418-423. 349 20. General Office of National Health Committee. Office of State Administration of Traditional 350 Chinese Medicine. Notice on the issuance of strategic guidelines for diagnosis and treatment of novel 351 coronavirus (2019-nCoV) infected pneumonia (Fifth edition draft) (2020-02-09) [EB/OL]. 352 http://bgs.satcm.gov.cn/zhengcewenjian/2020-02-09/12930.html.353 21.",
+            "url": "http://bgs.satcm.gov.cn/zhengcewenjian/2020-02-09/12930.html.353",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20S.%20Lu%2C%20D.%20Zhang%2C%20M.%20Double-antigen%20sandwich%20ELISA%20for%20detection%20of%20antibodies%20to%20354%20SARS-associated%20coronavirus%20in%20human%20serum%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20S.%20Lu%2C%20D.%20Zhang%2C%20M.%20Double-antigen%20sandwich%20ELISA%20for%20detection%20of%20antibodies%20to%20354%20SARS-associated%20coronavirus%20in%20human%20serum%202005"
+        }
+    ],
+    "facts": [
+        "recently emerged novel corona virus disease 2019 poses a challenge for public health laboratories",
+        "Methods A newly-developed ELISA assay for IgM",
+        "IgG antibodies against N protein of SARS-CoV-2 were used to screen the serums of 238 admitted hospital patients",
+        "SARS-CoV-2 RNA was detected by real time RT-PCR on pharyngeal swab specimens",
+        "which was significantly higher than the positive rate of viral RNA",
+        "After the patients were defined to the different stages of disease based on the day",
+        "the analysis results showed that the antibody positive rates were very low in the first",
+        "Interpretation The suspected patients were most likely infected by SARS-CoV-2",
+        "nucleic acid test is important for confirmation of viral infection",
+        "the diagnosis for viral infection should be majorly dependent on serological assay",
+        "which is found in hospital and family settings",
+        "The SARS-CoV-2 is the seventh member of enveloped RNA coronaviruses",
+        "SARS-CoV-2 is genetically distinct from SARS-CoV",
+        "The S protein homotrimers are required for attachment to host receptors",
+        "The N protein is responsible for packaging the encapsidated genome into virions",
+        "as a viral RNA silencing suppressor that is beneficial for the viral replication",
+        "Many diagnostic methods based on the N protein have been developed for",
+        "A newly-developed ELISA assay for IgM",
+        "suspected SARS-CoV-2 infection who have been tested by real-time RT-PCR for viral infection",
+        "radiological characteristics data of the patients on admission were extracted from electronic medical records",
+        "who were tested positive for viral RNA by real time RT-PCR assay on pharyngeal swab specimens",
+        "85 patients having negative results for real time RT-PCR assay were clinically diagnosed as highly-suspected cases according to the notice",
+        "50 healthy blood donors were randomly selected as the controls",
+        "The study was approved by the Hospital Ethics Committee",
+        "written informed consent was waived for emerging infectious diseases",
+        "The serum samples were collected from 238 admitted hospital patients",
+        "The clinical characteristics of the patients were shown in Table 1",
+        "A small number of patients possessed the symptoms of abdominal pain",
+        "leucocytes were below the normal range in patients",
+        "recently emerged novel coronavirus poses a challenge for public health laboratories",
+        "The results showed that the positive rates of IgM",
+        "that of viral RNA detected by real-time RT-PCR on the pharyngeal swab specimens of all enrolled patients",
+        "This result is further supported by the fact that the suspected patients had the same positive rate",
+        "Leucocytes were below the normal range in patients"
+    ],
+    "claims": [
+        "We aimed to evaluate the diagnostic value of serological assay for SARS-CoV-2",
+        "In this study, we report the application of the"
+    ],
+    "findings": [
+        "Day 11 after initial onset of symptoms is a key time point because the positive rates of IgM and/or IgG jumped to above 80% from less than 50% at this time point"
+    ],
+    "processes": [],
+    "key_statements": [
+        "The SARS-CoV-2 is the seventh member of enveloped RNA coronaviruses (CoVs). 6-8 Sequence and phylogenetic tree of CoVs analysis indicates that",
+        "The N protein is responsible for packaging the encapsidated genome into virions, 12,13 and acts as a viral RNA silencing suppressor that is beneficial for the viral replication",
+        "All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time Reverse Transcription Polymerase Chain Reaction for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled",
+        "Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time Reverse Transcription Polymerase Chain Reaction assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time Reverse Transcription Polymerase Chain Reaction assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19",
+        "The serum samples were collected from 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General Hospital of Central Theater",
+        "The clinical characteristics of the patients were shown in Table 1",
+        "We report the application of the",
+        "The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time Reverse Transcription Polymerase Chain Reaction on the pharyngeal swab specimens of all enrolled patients",
+        "Nucleic acid test is important for confirmation of viral infection"
+    ],
+    "top_statements": [
+        "A novel betacoronavirus 1 named severe acute respiratory syndrome coronavirus (SARS-CoV-2) causes a recent cluster cases of respiratory illness named corona virus disease 2019 (COVID-19) in multiple regions of the world, and it leads to a serious public health problem especially in Wuhan city, Hubei province, China since<br/><br/>December 2019. 2 By March 1, 2020, more than 80,000 confirmed cases have been identified globally both in China and other 58 countries spanning Asia, Europe, Oceania, North and South America, and Northeast Africa",
+        "All consecutive patients (n=238) with confirmed or suspected SARS-CoV-2 infection who have been tested by real-time Reverse Transcription Polymerase Chain Reaction for viral infection and were being treated in General Hospital of Central Theater Command of PLA from February to February 14, 2020, were enrolled",
+        "Among the 238 recruited patients, 153 patients were laboratory-confirmed cases, who were tested positive for viral RNA by real time Reverse Transcription Polymerase Chain Reaction assay on pharyngeal swab specimens, and the remaining 85 patients having negative results for real time Reverse Transcription Polymerase Chain Reaction assay were clinically diagnosed as highly-suspected cases according to the notice on the issuance of strategic guidelines for diagnosis and treatment of COVID-19",
+        "The serum samples were collected from 238 admitted hospital patients with confirmed or suspected SARS-CoV-2 infection in General Hospital of Central Theater",
+        "The clinical characteristics of the patients were shown in Table 1",
+        "The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time Reverse Transcription Polymerase Chain Reaction on the pharyngeal swab specimens of all enrolled patients"
+    ],
+    "headline": "The results showed that the positive rates of IgM and IgG were significantly higher than that of viral RNA detected by real-time Reverse Transcription Polymerase Chain Reaction on the pharyngeal swab specimens of all enrolled patients",
+    "contexts": [],
+    "abbreviations": {
+        "ELISA": "Enzyme-linked immunosorbent assays",
+        "RT-PCR": "Reverse Transcription Polymerase Chain Reaction",
+        "ORF1ab": "open reading frame 1ab",
+        "HRP": "horse radish peroxidase",
+        "A450": "at 450 nm",
+        "IQR": "interquartile ranges",
+        "SPSS": "Statistical Package for the Social Sciences"
+    }
+}

@@ -1,0 +1,585 @@
+{
+    "filename": "2020.02.10.20021584.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 705809,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.02.10.20021584",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/02/12/2020.02.10.20021584.full.pdf"
+        },
+        "title": "Neutrophil-to-Lymphocyte Ratio Predicts Severe Illness Patients with 2019 Novel Coronavirus in the Early Stage",
+        "author": "Jingyuan Liu, Yao Liu, Pan Xiang, Lin Pu, Haofeng Xiong, Chuansheng Li, Ming Zhang, Jianbo Tan, Yanli Xu, Rui Song, Meihua Song, Lin Wang, Wei Zhang, Bing Han, Li Yang, Xiaojing Wang, Guiqin Zhou, Ting Zhang, Ben Li, Yanbin Wang, Zhihai Chen, Xianbo Wang",
+        "date": 2020,
+        "affiliations": [
+            "Critical Care Medicine Department, Beijing Ditan Hospital, Capital Medical University. Beijing, China",
+            "Center of Integrative Medicine, Beijing Ditan Hospital, Capital Medical University. Beijing, China",
+            "Center of Infectious Diseases, Beijing Ditan Hospital, Capital Medical University. Beijing, China",
+            "Liver Diseases Center, Beijing Ditan Hospital, Capital Medical University. Beijing, China",
+            "Beijing Ditan Hospital from January 13, 2020 to January 31, 2020. Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia. The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve."
+        ],
+        "abstract": "Background: Severe ill patients with 2019 novel coronavirus (2019-nCoV) infection progressed rapidly to acute respiratory failure. We aimed to select the most useful prognostic factor for severe illness incidence.\nMethods: The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020. Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia. The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve.\nResults: The neutrophil-to-lymphocyte ratio (NLR) was identified as the independent risk factor for severe illness in patients with 2019-nCoV infection. The NLR had a c-index of 0.807 (95% confidence interval, 0.676-0.38), the calibration curves fitted well, and the decision curve and clinical impact curve showed that the NLR had superior standardized net benefit. In addition, the incidence of severe illness was 9.1% in age \u2265 50 and NLR &lt; 3.13 patients, and half of patients with age \u2265 50 and NLR \u2265 3.13 would develop severe illness. Based on the risk stratification of NLR with age, the study developed a 2019-nCoV pneumonia management process.\nConclusions: The NLR was the early identification of risk factors for 2019-nCoV severe illness. Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary.",
+        "keywords": [
+            "2019-nCoV",
+            "Neutrophil-to-Lymphocyte Ratio",
+            "model",
+            "prognosis",
+            "SARSCoV"
+        ],
+        "references": "@article{kuiken2003a,\n  author = {Kuiken, T. and Fouchier, R.A. and Schutten, M.},\n  title = {Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome},\n  journal = {Lancet (London, England)},\n  date = {2003},\n  volume = {362},\n  pages = {263\u201370},\n  more-authors = {true},\n  language = {}\n}\n@article{drosten2003a,\n  author = {Drosten, C. and Gunther, S. and Preiser, W.},\n  title = {Identification of a novel coronavirus in patients with severe acute respiratory syndrome},\n  journal = {The New England journal of medicine},\n  date = {2003},\n  volume = {348},\n  pages = {1967\u201376},\n  more-authors = {true},\n  language = {}\n}\n@article{de2013a,\n  author = {de Groot RJ and SC, Baker and RS, Baric},\n  title = {Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group},\n  journal = {Journal of virology},\n  date = {2013},\n  volume = {87},\n  pages = {7790\u20132},\n  more-authors = {true},\n  language = {}\n}\n@article{zaki2012a,\n  author = {Zaki, A.M. and van Boheemen, S. and Bestebroer, T.M. and Osterhaus, A.D. and Fouchier, R.A.},\n  title = {Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia},\n  journal = {The New England journal of medicine},\n  date = {2012},\n  volume = {367},\n  pages = {1814\u201320},\n  language = {}\n}\n@article{holshue2020a,\n  author = {Holshue, M.L. and DeBolt, C. and Lindquist, S.},\n  title = {First Case of 2019 Novel Coronavirus in the United States},\n  journal = {The New England journal of medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{wang-a,\n  author = {Wang, D. and Hu, B. and Hu, C.},\n  title = {Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{chen2020a,\n  author = {Chen, N. and Zhou, M. and Dong, X.},\n  title = {Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet},\n  date = {2020},\n  more-authors = {true},\n  language = {},\n  address = {London, England}\n}\n@misc{berhane-a,\n  author = {Berhane, M. and Melku, M. and Amsalu, A. and Enawgaw, B. and Getaneh, Z. and Asrie, F.},\n  title = {The Role of Neutrophil to Lymphocyte Count Ratio in the Differential Diagnosis of Pulmonary Tuberculosis and Bacterial Community-Acquired Pneumonia: a Cross-Sectional Study at Ayder and Mekelle Hospitals, Ethiopia. Clinical laboratory 2019; 65},\n  language = {}\n}\n@article{chen2019a,\n  author = {Chen, X.Q. and Xue, C.R. and Hou, P. and Lin, B.Q. and Zhang, JR},\n  title = {Lymphocyte-to-monocyte ratio effectively predicts survival outcome of patients with obstructive colorectal cancer},\n  journal = {World journal of gastroenterology},\n  date = {2019},\n  volume = {25},\n  pages = {4970\u201384},\n  language = {}\n}\n@article{feng2019a,\n  author = {Feng, D.Y. and Zhou, Y.Q. and Zhou, M. and Zou, X.L. and Wang, Y.H. and Zhang, T.T.},\n  title = {Risk Factors for Mortality Due to Ventilator-Associated Pneumonia in a Chinese Hospital: A Retrospective Study},\n  journal = {Medical science monitor: international medical journal of experimental and clinical research},\n  date = {2019},\n  volume = {25},\n  pages = {7660\u20135},\n  language = {}\n}\n@article{ge2019a,\n  author = {Ge, Y.L. and Zhang, H.F. and Zhang, Q.},\n  title = {Neutrophil-to-Lymphocyte Ratio in Adult Community-Acquired Pneumonia Patients Correlates with Unfavorable Clinical Outcomes},\n  journal = {Clinical laboratory},\n  date = {2019},\n  volume = {65},\n  more-authors = {true},\n  language = {}\n}\n@article{zhang2019a,\n  author = {Zhang, H.F. and Ge, Y.L. and Wang, H.Y.},\n  title = {Neutrophil-to-Lymphocyte Ratio Improves the Accuracy and Sensitivity of Pneumonia Severity Index in Predicting 30-Day Mortality of CAP Patients},\n  journal = {Clinical laboratory},\n  date = {2019},\n  volume = {65},\n  more-authors = {true},\n  language = {}\n}\n@article{liu2017a,\n  author = {Liu, W.J. and Zhao, M. and Liu, K.},\n  title = {T-cell immunity of SARS-CoV: Implications for vaccine development against MERS-CoV},\n  journal = {Antiviral research},\n  date = {2017},\n  volume = {137},\n  pages = {82\u201392},\n  more-authors = {true},\n  language = {}\n}\n@article{liu2014a,\n  author = {Liu, H. and Zhang, H. and Wan, G.},\n  title = {Neutrophil-lymphocyte ratio: a novel predictor for short-term prognosis in acute-on-chronic hepatitis B liver failure},\n  journal = {Journal of viral hepatitis},\n  date = {2014},\n  volume = {21},\n  pages = {499\u2013507},\n  more-authors = {true},\n  language = {}\n}\n@article{guo2019a,\n  author = {Guo, L. and Wei, D. and Zhang, X.},\n  title = {Clinical Features Predicting Mortality Risk in Patients With Viral Pneumonia: The MuLBSTA Score},\n  journal = {Frontiers in microbiology},\n  date = {2019},\n  volume = {10},\n  pages = {2752},\n  more-authors = {true},\n  language = {}\n}\n@article{murillo-zamora2018a,\n  author = {Murillo-Zamora, E. and Medina-Gonzalez, A. and Zamora-Perez, L. and Vazquez-Yanez, A. and Guzman-Esquivel, J. and Trujillo-Hernandez, B.},\n  title = {Performance of the PSI and CURB-65 scoring systems in predicting 30-day mortality in healthcare-associated pneumonia},\n  journal = {Medicina clinica},\n  date = {2018},\n  volume = {150},\n  pages = {99\u2013103},\n  language = {}\n}\n@article{brabrand2018a,\n  author = {Brabrand, M. and Henriksen, D.P.},\n  title = {CURB-65 Score is Equal to NEWS for Identifying Mortality Risk of Pneumonia Patients: An Observational Study},\n  journal = {Lung},\n  date = {2018},\n  volume = {196},\n  pages = {35961},\n  language = {}\n}\n@article{ilg2019a,\n  author = {Ilg, A. and Moskowitz, A. and Konanki, V.},\n  title = {Performance of the CURB-65 Score in Predicting Critical Care Interventions in Patients Admitted With Community-Acquired Pneumonia},\n  journal = {Annals of emergency medicine},\n  date = {2019},\n  volume = {74},\n  pages = {60\u20138},\n  more-authors = {true},\n  language = {}\n}\n",
+        "links": [
+            "http://www.nhc.gov.cn/"
+        ],
+        "emails": [
+            "wangxb@ccmu.edu.cn",
+            "wangyanbin01@163.com",
+            "chenzhihai0001@126.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Kuiken, T.\nAU  - Fouchier, R.A.\nAU  - Schutten, M.\nTI  - Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome\nT2  - Lancet (London, England)\nPY  - 2003\nDA  - 2003\nVL  - 362\nSP  - 263\nEP  - 70\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Drosten, C.\nAU  - Gunther, S.\nAU  - Preiser, W.\nTI  - Identification of a novel coronavirus in patients with severe acute respiratory syndrome\nT2  - The New England journal of medicine\nPY  - 2003\nDA  - 2003\nVL  - 348\nSP  - 1967\nEP  - 76\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - de Groot RJ\nAU  - SC, Baker\nAU  - RS, Baric\nTI  - Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group\nT2  - Journal of virology\nPY  - 2013\nDA  - 2013\nVL  - 87\nSP  - 7790\nEP  - 2\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zaki, A.M.\nAU  - van Boheemen, S.\nAU  - Bestebroer, T.M.\nAU  - Osterhaus, A.D.\nAU  - Fouchier, R.A.\nTI  - Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia\nT2  - The New England journal of medicine\nPY  - 2012\nDA  - 2012\nVL  - 367\nSP  - 1814\nEP  - 20\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Holshue, M.L.\nAU  - DeBolt, C.\nAU  - Lindquist, S.\nTI  - First Case of 2019 Novel Coronavirus in the United States\nT2  - The New England journal of medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Wang, D.\nAU  - Hu, B.\nAU  - Hu, C.\nTI  - Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Chen, N.\nAU  - Zhou, M.\nAU  - Dong, X.\nTI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nCY  - London, England\nER  - \n\nTY  - GEN\nAU  - Berhane, M.\nAU  - Melku, M.\nAU  - Amsalu, A.\nAU  - Enawgaw, B.\nAU  - Getaneh, Z.\nAU  - Asrie, F.\nTI  - The Role of Neutrophil to Lymphocyte Count Ratio in the Differential Diagnosis of Pulmonary Tuberculosis and Bacterial Community-Acquired Pneumonia: a Cross-Sectional Study at Ayder and Mekelle Hospitals, Ethiopia. Clinical laboratory 2019; 65\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, X.Q.\nAU  - Xue, C.R.\nAU  - Hou, P.\nAU  - Lin, B.Q.\nAU  - Zhang, JR\nTI  - Lymphocyte-to-monocyte ratio effectively predicts survival outcome of patients with obstructive colorectal cancer\nT2  - World journal of gastroenterology\nPY  - 2019\nDA  - 2019\nVL  - 25\nSP  - 4970\nEP  - 84\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Feng, D.Y.\nAU  - Zhou, Y.Q.\nAU  - Zhou, M.\nAU  - Zou, X.L.\nAU  - Wang, Y.H.\nAU  - Zhang, T.T.\nTI  - Risk Factors for Mortality Due to Ventilator-Associated Pneumonia in a Chinese Hospital: A Retrospective Study\nT2  - Medical science monitor: international medical journal of experimental and clinical research\nPY  - 2019\nDA  - 2019\nVL  - 25\nSP  - 7660\nEP  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ge, Y.L.\nAU  - Zhang, H.F.\nAU  - Zhang, Q.\nTI  - Neutrophil-to-Lymphocyte Ratio in Adult Community-Acquired Pneumonia Patients Correlates with Unfavorable Clinical Outcomes\nT2  - Clinical laboratory\nPY  - 2019\nDA  - 2019\nVL  - 65\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, H.F.\nAU  - Ge, Y.L.\nAU  - Wang, H.Y.\nTI  - Neutrophil-to-Lymphocyte Ratio Improves the Accuracy and Sensitivity of Pneumonia Severity Index in Predicting 30-Day Mortality of CAP Patients\nT2  - Clinical laboratory\nPY  - 2019\nDA  - 2019\nVL  - 65\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Liu, W.J.\nAU  - Zhao, M.\nAU  - Liu, K.\nTI  - T-cell immunity of SARS-CoV: Implications for vaccine development against MERS-CoV\nT2  - Antiviral research\nPY  - 2017\nDA  - 2017\nVL  - 137\nSP  - 82\nEP  - 92\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Liu, H.\nAU  - Zhang, H.\nAU  - Wan, G.\nTI  - Neutrophil-lymphocyte ratio: a novel predictor for short-term prognosis in acute-on-chronic hepatitis B liver failure\nT2  - Journal of viral hepatitis\nPY  - 2014\nDA  - 2014\nVL  - 21\nSP  - 499\nEP  - 507\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guo, L.\nAU  - Wei, D.\nAU  - Zhang, X.\nTI  - Clinical Features Predicting Mortality Risk in Patients With Viral Pneumonia: The MuLBSTA Score\nT2  - Frontiers in microbiology\nPY  - 2019\nDA  - 2019\nVL  - 10\nSP  - 2752\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Murillo-Zamora, E.\nAU  - Medina-Gonzalez, A.\nAU  - Zamora-Perez, L.\nAU  - Vazquez-Yanez, A.\nAU  - Guzman-Esquivel, J.\nAU  - Trujillo-Hernandez, B.\nTI  - Performance of the PSI and CURB-65 scoring systems in predicting 30-day mortality in healthcare-associated pneumonia\nT2  - Medicina clinica\nPY  - 2018\nDA  - 2018\nVL  - 150\nSP  - 99\nEP  - 103\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Brabrand, M.\nAU  - Henriksen, D.P.\nTI  - CURB-65 Score is Equal to NEWS for Identifying Mortality Risk of Pneumonia Patients: An Observational Study\nT2  - Lung\nPY  - 2018\nDA  - 2018\nVL  - 196\nSP  - 35961\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ilg, A.\nAU  - Moskowitz, A.\nAU  - Konanki, V.\nTI  - Performance of the CURB-65 Score in Predicting Critical Care Interventions in Patients Admitted With Community-Acquired Pneumonia\nT2  - Annals of emergency medicine\nPY  - 2019\nDA  - 2019\nVL  - 74\nSP  - 60\nEP  - 8\nC1  - true\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Demographics and characteristics of patients infected with 2019-nCoV"
+            },
+            {
+                "id": "2",
+                "caption": "Predictive value of the NLR, MuLBSTA and CURB-65"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "A 50-year-old man with 2019 novel coronavirus (2019-nCoV) infection. (A) Ground glass shadow in multiple lobes and segments of bilateral lungs, and the lesions were adjacent to the pleura (Illness Day 8, Hospital Day 0). (B) Ground glass shadow expanding and consolidation in bilateral lung (Illness Day 11, Hospital Day 3). (C) Ground glass shadow absorption and reduced consolidation area (Illness Day 15, Hospital Day 7). (D) Lesion dissipation (Illness Day 20, Hospital Day 12). Prognostic factors of severe illness 26 variables were included in the LASSO regression, the results showed that age, NLR and hypertension obtained from the 61 cases cohort were predictive factors for severe illness incidence when the partial likelihood deviance was smallest, and NLR was the significant factors when the lambda was 1 standard error (Figure 2A and 2B). The three factors mentioned above were included in the multivariate COX regression analyses, the results showed that age and NLR were predictive factors. However, the hazard ratios (HR) of age was close to 1, then age was transformed into a categorical variable (< 50 years / \u2265 50 years) based on cutoff value, and then the three variables were included in the COX regression analyses again. Finally, NLR was selected as the most useful prognostic factor affecting the prognosis for severe illness incidence by the forward selection procedure"
+            },
+            {
+                "id": "2",
+                "caption": "Prognostic factor neutrophil-to-lymphocyte ratio (NLR) was selected by LASSO regression analyses. (A) LASSO coefficient profiles of the non-zero variables of 2019-nCoV pneumonia. (B) Mean\u2212Squared Error plot of the lowest point of the red curve, which corresponds to a three-variable model. The dashed line on the right was a more concise model within one standard error (the number of variables was one). (C) Nomogram predicting 7-day and 14-day no severe illness survival of patients with 2019-nCoV pneumonia. (D) Calibration plot, (E) decision curve and (F) clinical impact curve of the nomogram for no severe illness survival in the 2019-nCoV cohort, in which the predicted probability of survival was compared well with the actual survival and had superior standardized net benefit. Nomogram The nomogram was established based on NLR, which were used to predict the nosevere ill survival rates of 7-day and 14-day (Figure 2C). The nomogram had a c-index"
+            },
+            {
+                "id": "3",
+                "caption": "Kaplan\u2013Meier curves of risk group stratification for no severe illness in 2019nCoV cohorts. (A) The range of NLR for each risk group were as follows: low risk: <3.13, and high risk: \u2265 3.13. (B) Risk group stratification with age and (C) NLR with age. (D) 2019-nCoV pneumonia management process. Discussion Since the outbreak of 2019-nCoV pneumonia in December 2019, there were 2000 to 4000 new confirmed patients every day in China, and the number of severe cases and deaths was also increasing day by day. The research showed that 26% of patients received ICU care, and mortality was 4.3%.6 The number of patients in Wuhan and other regions is increasing rapidly. The current difficulty is the shortage of medical"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.02.10.20021584.full.pdf_ju2wmua8_psgxpfa_.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.02.10.20021584.full.pdf_ju2wmua8_images_8kzcsau0/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.10.20021584.full.pdf_ju2wmua8_images_8kzcsau0/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.10.20021584.full.pdf_ju2wmua8_images_8kzcsau0/img-002.png"
+        ]
+    },
+    "sections": {
+        "background": [
+            "Severe ill patients with 2019 novel coronavirus (2019-nCoV) infection progressed rapidly to acute respiratory failure. We aimed to select the most useful prognostic factor for severe illness incidence."
+        ],
+        "methods": [
+            "The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020. Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia. The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve.",
+            "Patient selection<br/><br/>This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020. Diagnosis of 2019-nCoV pneumonia and clinical classification according to the new coronavirus pneumonia diagnosis and treatment plan (trial version 4) developed by the National Health Committee of the People's Republic of China (http://www.nhc.gov.cn/). The clinical classifications are as follows: (1) mild, with fever, respiratory tract symptoms, and imaging shows pneumonia. (2) moderate, meet any of the following: a) respiratory distress, respiratory rate \u2265 30 beats / min; b) in the resting state, means oxygen saturation \u2264 93%; c) arterial blood oxygen partial pressure / oxygen concentration \u2264 300mmHg (1mmHg = 0.133kPa). (3) severe, one of the following conditions: a) respiratory failure occurs and requires mechanical ventilation; b) Shock occurs; c) ICU admission is required for combined organ failure. This study was approved by the Ethics Committee of Beijing Ditan Hospital, and all patients signed the informed consent.<br/><br/>Baseline data collection<br/><br/>All suspected 2019-nCoV infection patients were taken upper respiratory throat swab samples at admission and stored in virus transport medium, which were transported to Beijing CDC for laboratory diagnosis. Influenza A virus (H1N1, H3N2, H7N9), influenza B virus, bacterial and fungal detections of sputum or respiratory secretions were performed at this hospital. Epidemiological history, comorbidity, vital signs, symptoms and signs were recorded in detail, and laboratory tests including biochemical Indicators, blood routine, C-reactive protein, chest radiograph or CT scan."
+        ],
+        "results": [
+            "The neutrophil-to-lymphocyte ratio (NLR) was identified as the independent risk factor for severe illness in patients with 2019-nCoV infection. The NLR had a cindex of 0.807 (95% confidence interval, 0.676\u20130.38), the calibration curves fitted well, and the decision curve and clinical impact curve showed that the NLR had superior standardized net benefit. In addition, the incidence of severe illness was 9.1% in age \u2265 50 and NLR < 3.13 patients, and half of patients with age \u2265 50 and NLR \u2265 3.13 would develop severe illness. Based on the risk stratification of NLR with age, the study developed a 2019-nCoV pneumonia management process.",
+            "Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild (mild group) and 17 as moderate or severe (severe group) on admission. The median age of the two groups was statistically different, the mild group was 41 years old and the severe group was 56 years old. None of the 61 patients had a history of Huanan seafood market exposure in Wuhan, 17 of them (27.9%) had not left Beijing recently, but had a close exposure history with 2019-nCoV pneumonia patients, and the other 44 (72.1%) patients were Wuhan citizens or visited Wuhan recently. There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1). Among 61 cases, 60 (98.4%) cases had fever, 5 (8.2%) cases had high fever ( > 39 \u00b0C), 3 (4.9%) cases had dyspnea. 7 (11.5%) cases had mild shortness of breath. Most of the patients in the severe group had cough, sputum production, and fatigue. 11 (18.0%) cases had gastrointestinal symptoms. Blood neutrophil count in the severe group was significantly higher than that in the mild group, blood lymphocyte count, serum sodium and chlorine levels were significantly lower, and the rate of bacterial infection was significantly increased (Table 1)."
+        ],
+        "conclusions": [
+            "The NLR was the early identification of risk factors for 2019-nCoV severe illness. Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary."
+        ],
+        "introduction": [
+            "Coronavirus was a large virus family, which was known to cause common cold and serious illness such as Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] It was found that the 2019 novel coronavirus (2019nCoV) was the cause of unexplained viral pneumonia in Wuhan, China in December 2019, and was recognized by the World Health Organization (WHO) on January 12, 2020. In the following month, 2019-nCoV was transmitted in Hubei Province, throughout China and even other countries,[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] causing 34,662 confirmed cases by February 8, 2020.<br/><br/>Most patients with novel coronavirus infection were mild. Moderate illness often experienced dyspnea after one week. Severe ill patients progressed rapidly to acute respiratory failure, acute respiratory distress syndrome, metabolic acidosis, coagulopathy, and septic shock. Early identification of risk factors for severe illness facilitated appropriate supportive care and promptly access to the intensive care unit (ICU) if necessary. For mild patients, general isolation and symptomatic treatment were available, and ICU-care was needed unless the condition worsens rapidly, such to reduce the mortality and alleviate the shortage of medical resources."
+        ],
+        "conclusion": [
+            "The NLR was the most useful prognostic factor affecting the prognosis for severe illness patients with 2019-nCoV pneumonia. Early application of NLR with age was beneficial to patients' classification management and relief of medical resource shortage."
+        ],
+        "disclosures": [
+            "The author(s) declare(s) that there is no conflict of interest regarding the publication of this paper."
+        ],
+        "acknowledgments": [
+            "We are grateful to Yi Ning, Ph.D, M.D. for his constructive comments in improving the language, grammar, and readability of the paper."
+        ],
+        "ethical_compliance": [
+            "This study was approved by the Ethics Committee of Beijing Ditan Hospital, and all patients signed the informed consent"
+        ],
+        "limitations": [
+            "There were some limitations in the study. First, the study was a single center with small sample and no external validation cohort. Second, most of patients are still in hospital, whose condition maybe change in follow-up. And the study has not included the final survival outcome. However, we focused on the early identification of critical cases for risk stratification and management. We expect that the risk model can help alleviate the shortage of medical resources and manage the patients with 2019-nCoV pneumonia."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [],
+        "Background": [
+            "Severe ill patients with 2019 novel coronavirus (2019-nCoV) infection progressed rapidly to acute respiratory failure. We aimed to select the most useful prognostic factor for severe illness incidence."
+        ],
+        "Methods": [
+            "This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020. Diagnosis of 2019-nCoV pneumonia and clinical classification according to the new coronavirus pneumonia diagnosis and treatment plan (trial version 4) developed by the National Health Committee of the People's Republic of China (http://www.nhc.gov.cn/). The clinical classifications are as follows: (1) mild, with",
+            "fever, respiratory tract symptoms, and imaging shows pneumonia. (2) moderate, meet any of the following: a) respiratory distress, respiratory rate \u2265 30 beats / min; b) in the resting state, means oxygen saturation \u2264 93%; c) arterial blood oxygen partial pressure / oxygen concentration \u2264 300mmHg (1mmHg = 0.133kPa). (3) severe, one of the following conditions: a) respiratory failure occurs and requires mechanical ventilation; b) Shock occurs; c) ICU admission is required for combined organ failure. This study was approved by the Ethics Committee of Beijing Ditan Hospital, and all patients signed the informed consent.",
+            "All suspected 2019-nCoV infection patients were taken upper respiratory throat swab samples at admission and stored in virus transport medium, which were transported to Beijing CDC for laboratory diagnosis. Influenza A virus (H1N1, H3N2, H7N9), influenza B virus, bacterial and fungal detections of sputum or respiratory secretions were performed at this hospital. Epidemiological history, comorbidity, vital signs, symptoms and signs were recorded in detail, and laboratory tests including biochemical Indicators, blood routine, C-reactive protein, chest radiograph or CT scan.",
+            "After admission, the patients were re-examined for laboratory indexes and imaging examination, and recorded symptoms and signs, treatments and outcome events. The endpoint of this study was the severe illness developed.",
+            "Age and days were represented by median (range), categorical variables by number (%), and laboratory data by mean (interquartile range). The cutoff value of neutrophil-tolymphocyte ratio (NLR) was calculated based on the maximum Youden index. Compared the differences between the two groups with t-test, chi-square test or MannWhitney U test. LASSO COX regression was used to select independent risk factors that affect outcomes. Analyses were performed using SPSS 22.0 statistical package (SPSS, Inc., Chicago, IL, USA) and R version 3.0.2 was used to establish nomogram, calibration, decision curve and clinical impact curve. P-value < 0.05 was considered statistically significant."
+        ],
+        "Results": [
+            "Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild (mild group) and 17 as moderate or severe (severe group) on admission. The median age of the two groups was statistically different, the mild group was 41 years old and the severe group was 56 years old. None of the 61 patients had a history of Huanan seafood market exposure in Wuhan, 17 of them (27.9%) had not left Beijing recently, but had a close exposure history with 2019-nCoV pneumonia patients, and the other 44 (72.1%) patients were Wuhan citizens or visited Wuhan recently. There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1). Among 61 cases, 60 (98.4%) cases had fever, 5 (8.2%) cases had high fever ( > 39 \u00b0C), 3 (4.9%) cases had dyspnea. 7 (11.5%) cases had mild shortness of breath. Most of the patients in the severe group had cough, sputum production, and fatigue. 11 (18.0%) cases had gastrointestinal symptoms. Blood neutrophil count in the severe group was significantly higher than that in the mild group, blood lymphocyte count, serum sodium and chlorine levels were significantly lower, and the rate of bacterial infection was significantly increased (Table 1).",
+            ">39 Dyspnea Mild shortness of breath Cough Sputum production Fatigue Headache Chill Anorexia Nausea or vomiting Diarrhea Sore throat Chest pain Systolic pressure < 90 or diastolic pressure \u2264 60, mm Hg Respiratory rate > 30 breaths per min Blood laboratory findings White blood cell count, \u00d7 109/L Neutrophil count, \u00d7 109/L Lymphocyte count, \u00d7 109/L Monocyte count, \u00d7 109/L NLR C-reactive protein, mg/L Hemoglobin, g/L Platelet count, \u00d7 109/L Prothrombin time, s International Normalized Ratio Potassium, mmol/L Sodium, mmol/L Serum Chlorine, mmol/L Serum urea nitrogen, mmol/L Creatinine, \u03bcmol/L Serum glucose, mmol/L Creatine kinase, U/L Alanine aminotransferase, U/L Albumin, g/L Multiple lung lobe or bilateral involvement With bacterial infection Timeline after onset of illness Days from illness onset to admission time Days from illness onset to",
+            "4.3 (3.5-5.1) 2.5 (2.1-3.5) 1.0 (0.8-1.4) 0.3 (0.2-0.4) 2.6 (1.6-3.5) 12.0 (3.7-27.8) 138.0 (127.0-150.5) 164.0 (135.0-219.5) 12.0 (11.1-13.1) 1.1 (1.0-1.1) 3.8 (3.5-4.1) 139.0 (137.0-140.0) 102.0 (100.0-104.0) 4.3 (3.5-5.6) 60.0 (47.0-69.5) 6.1 (5.5-6.9) 93.0 (57.0-137.0) 19.0 (14.0-33.5) 44.0 (40.5-47.0)",
+            "4.3 (3.3-5.1) 2.4 (1.9-3.4) 1.1 (0.9-1.4) 0.4 (0.2-0.4) 2.2 (1.4-3.1) 10.3 (3.6-21.9) 139.0 (126.5-151.8) 167.5 (151.0-219.8) 12.0 (10.8-13.1) 1.1 (0.9-1.2) 3.8 (3.5-4.1) 140.0 (137.9-141.0) 103.3 (101.0-105.0) 4.2 (3.4-5.0) 56.5 (46.3-68.6) 6.0 (5.2-6.6) 91.5 (56.5-133.8) 18.0 (14.0-32.3) 44.0 (41.0-47.0)",
+            "4.5 (3.7-5.6) 2.8 (2.3-4.4) 0.9 (0.7-1.1) 0.3 (0.2-0.4) 3.6 (2.5-5.4) 23.5 (2.7-71.2) 138.0 (127.5-148.0) 153.0 (120.5-216.0) 12.0 (11.7-12.6) 1.1 (1.0-1.1) 3.7 (3.5-4.1) 137.0 (136.0-138.5) 100.0 (98.5-103.5) 5.6 (3.6-6.1) 64.0 (51.0-81.0) 6.6 (6.0-9.1) 119.0 (55.5-190.0) 24.0 (14.0-34.5) 43.0 (37.0-45.5)",
+            "Data are median (range), n (%), or median (interquartile range).",
+            "p values comparing common type and severe or critical type are from \u03c72 test, or Mann-Whitney",
+            "U test. 2019-nCoV, 2019 novel coronavirus. NLR, neutrophil-to-lymphocyte ratio. NA, not applicable. ICU, intensive care unit.",
+            "The median days from illness onset to admission were 4 days in both groups. All patients were isolated after admission, 34 (55.7%) patients received antiviral treatment, of which 8 patients received oseltamivir (75 mg every 12 h, orally), 26 patients received lopinavir and ritonavir tablets (200 mg twice daily, orally). Nearly half of the patients received antibiotic therapy (42.6%), and 84.2% of the patients in the severe group received antibiotic therapy. One patient was received methylprednisolone for 3 days before admission and stopped after admission, and another patient took methylprednisolone 8 mg every other day for ten months for optic neuromyelitis and continued taking it after admission. Most of the patients in the severe group received oxygen support and nebulization inhalation therapy, of which 3 patients received noninvasive ventilation and 2 received invasive mechanical ventilation. Nebulization inhalation drugs included recombinant human interferon \u03b12b and acetylcysteine. By the end of Jan 31, no patients died, 3 patients were discharged, and the remaining patients were in hospital, of which 8 patients progressed to severe illness and still in the ICU (Table 1).",
+            "X-ray or CT showed multiple lung lobe or bilateral involvement in 48 (78.7%) patients. Figure 1 showed the CT images of a typical patient in early, consolidation, absorption and dissipation stages.",
+            "Using receiver operating characteristic analysis, the predictive value of the NLR for the incidence of severe illness was compared to that of the MuLBSTA and CURB-6 models. The results showed that the NLR had the highest area under curve (AUC) (0.849), and had higher sensitivity and specificity than the other two models (Table 2).",
+            "After NLR was incorporated into MuLBSTA (NLR-MuLBSTA) and CURB-65 (NLRCURB-65) models respectively, it was found that the prediction effect of the improved model was significantly better than that of the original model, but there was no significant difference of AUC in NLR vs. NLR-MuLBSTA and NLR vs. NLR-CURB65 (p = 0.9675 and p = 0.2971, respectively) (Table 2).",
+            "(0.676-0.938) (0.473-0.997) (0.577-0.832) (0.200-0.955) (0.823-0.987) (1.871-5.109) (0.028-1.100)",
+            "(0.659-0.883) (0.473-0.997) (0.537-0.801) (0.184-0.949) (0.822-0.986) (1.703-4.370) (0.029-1.162)",
+            "(0.573-0.915) (0.245-0.915) (0.617-0.862) (0.168-0.712) (0.722-0.965) (1.247-5.208) (0.200-1.232)",
+            "(0.762-0.978) (0.473-0.997) (0.747-0.945) (0.310-0.978) (0.855-0.992) (3.17-13.86) (0.023-0.904)",
+            "AUC, area under curve; SEN, sensitivity; SPE, specificity; PPV, positive predictive value; NPV, negative predictive value; DLR, diagnostic likelihood ratios.",
+            "Performance of the NLR in stratifying risk of patients The median follow-up time was 10 days, minimum 2 days, and maximum 26 days. Patients were divided into two strata according to the cutoff value of NLR (low risk: < 3.13; high risk: \u2265 3.13) and age (age < 50 years; age \u2265 50 years). Kaplan\u2013Meier analysis showed significant statistical differences in the two groups (p = 0.0005 and p = 0.00028) (Figure 3A and 3B). Furthermore, patients with 2019-nCoV pneumonia were stratified for severe illness incidence with respect to age with NLR (strata 1: age < 50 years and NLR < 3.13; strata 2: age < 50 years and NLR \u2265 3.13; strata 3: age \u2265 50 years and NLR < 3.13; strata 4: age \u2265 50 years and NLR \u2265 3.13). There was no severe illness case in the strata 1 and strata 2, 1 (9.1%) case in the strata 3 and 7 (50%) cases in the strata 4. As shown in Figure 3C, the severe illness incidence was significantly different between strata 3 and 4 (p = 0.0195), but the difference between the strata 2 and 3 was not significant (p = 0.4142).",
+            "Most of the 2019-nCoV pneumonia patients in the hospital were from Wuhan. Patients with 2019-nCoV pneumonia on early onset were not very severe. The median time from onset to admission of severe patients and mild patients was similar, but the severe patients deteriorated on 7-14 days of illness course and developed to severe pneumonia and acute respiratory failure. The severe or death patients with 2019-nCoV infection were mostly old age with comorbidities.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] In the study, severe ill ones are all over 50 years old. The decrease of lymphocyte count was related to the progress of the disease. we proposed that blood lymphocyte related index may be a potential predictor. The NLR was a widely used marker for the assessment of the severity of bacterial infections and the prognosis of patients with pneumonia and tumors. The increase of NLR indicated poor clinical prognosis.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>-<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] The results indicated that 2019-nCoV may act on T lymphocytes, and T lymphocyte damage is an important factor that causes patients to deteriorate[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. In addition, patients with severe illness might have bacterial infection due to low immune function. The latest report followed up the laboratory test results of patients with 2019-nCoV infection, and found that 5 patients had a rising neutrophil count and a falling lymphocyte count before their deaths.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+            "In the study, the data of 61 patients with 2019-nCoV pneumonia were analyzed, the baseline characteristics of patients in the mild and severe groups were described and compared, and the dynamic changes of laboratory indexes and imaging were demonstrated. The independent risk factors affecting incidence of severe illness were screened. The results showed that NLR was the most significant factor affecting the severe illness incidence, and it had significant predictive value. Furthermore, according to the NLR and age stratification, the incidence of severe ill ones with NLR \u2265 3.13 and aged \u2265 50 years old was 50%, and 9.1% in age \u2265 50 and NLR < 3.13 patients.",
+            "Previous studies showed that the MuLBSTA score can early warn the mortality of viral pneumonia, which included six indicators, such as age, smoking history, hypertension, bacterial co-infection, lymphopenia, and multilobular infiltration.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] CURB-65 score was widely used to evaluate 30-day mortality of patients with community-acquired pneumonia.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] In the study, NLR was compared with MuLBSTA and CURB-65 scoring models, the results showed that NLR had higher AUC, c-index, sensitivity and specificity, which indicated that NLR was better than the other two models in early predicting the incidence of severe illness. Furthermore, it was found that the prediction effect of the NLR-MuLBSTA and NLR-CURB-65 models was better than that of the original model. But NLR was an easy-to-use predictor index.",
+            "Based on the results, we suggest that patients with 2019-nCoV pneumonia can improve risk stratification and management according to NLR and age model. Patients with age < 50 years old and NLR < 3.13 who are no risk should be treated in a community hospital or home isolation. Patients with age < 50 years old and NLR \u2265 3.13 who are low risk need to be general isolation ward. Patients with age \u2265 50 and NLR < 3.13 patients who are moderate risk, should be admitted to isolation ward with respiratory monitoring and supportive care. Patients with age \u2265 50 and NLR \u2265 3.13 who are high risk should actively transfer to ICU with invasive respiratory support equipment (Figure 3D). If there are large-scale cases, the risk stratification and management will help alleviate the shortage of medical resources and reduce the mortality of critical patients.",
+            "There were some limitations in the study. First, the study was a single center with small sample and no external validation cohort. Second, most of patients are still in hospital, whose condition maybe change in follow-up. And the study has not included the final survival outcome. However, we focused on the early identification of critical cases for risk stratification and management. We expect that the risk model can help alleviate the shortage of medical resources and manage the patients with 2019-nCoV pneumonia."
+        ],
+        "Conclusions": [
+            "The NLR was the early identification of risk factors for 2019-nCoV severe illness. Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary."
+        ],
+        "Introduction": [
+            "Coronavirus was a large virus family, which was known to cause common cold and serious illness such as Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] It was found that the 2019 novel coronavirus (2019nCoV) was the cause of unexplained viral pneumonia in Wuhan, China in December 2019, and was recognized by the World Health Organization (WHO) on January 12, 2020. In the following month, 2019-nCoV was transmitted in Hubei Province, throughout China and even other countries,[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] causing 34,662 confirmed cases by February 8, 2020.",
+            "Most patients with novel coronavirus infection were mild. Moderate illness often experienced dyspnea after one week. Severe ill patients progressed rapidly to acute respiratory failure, acute respiratory distress syndrome, metabolic acidosis, coagulopathy, and septic shock. Early identification of risk factors for severe illness facilitated appropriate supportive care and promptly access to the intensive care unit (ICU) if necessary. For mild patients, general isolation and symptomatic treatment were available, and ICU-care was needed unless the condition worsens rapidly, such to reduce the mortality and alleviate the shortage of medical resources.",
+            "We aimed to compare the clinical characteristics, imaging features, treatments, and outcomes of patients with mild and moderate or severe 2019-nCoV infection, to explore the most useful prognostic factor for accurate individualized assessment of the severe incidence of 2019-nCoV infection."
+        ],
+        "Conclusion": [
+            "The NLR was the most useful prognostic factor affecting the prognosis for severe illness patients with 2019-nCoV pneumonia. Early application of NLR with age was beneficial to patients' classification management and relief of medical resource shortage."
+        ],
+        "Conflict of Interest": [
+            "The author(s) declare(s) that there is no conflict of interest regarding the publication of this paper."
+        ],
+        "Acknowledgments": [
+            "We are grateful to Yi Ning, Ph.D, M.D. for his constructive comments in improving the language, grammar, and readability of the paper."
+        ],
+        "References": [
+            "1. Kuiken T, Fouchier RA, Schutten M, et al Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome. Lancet (London, England) 2003;362:263-70. 2. Drosten C, Gunther S, Preiser W, et al Identification of a novel coronavirus in patients with severe acute respiratory syndrome. The New England journal of medicine 2003;348:1967-76. 3. de Groot RJ, Baker SC, Baric RS, et al Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group. Journal of virology 2013;87:7790-2. 4. Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA. Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. The New England journal of medicine 2012;367:1814-20.",
+            "5. Holshue ML, DeBolt C, Lindquist S, et al First Case of 2019 Novel Coronavirus in the United States. The New England journal of medicine 2020. 6. Wang D, Hu B, Hu C, et al Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020. 7. Chen N, Zhou M, Dong X, et al Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England) 2020. 8. Berhane M, Melku M, Amsalu A, Enawgaw B, Getaneh Z, Asrie F. The Role of Neutrophil to Lymphocyte Count Ratio in the Differential Diagnosis of Pulmonary Tuberculosis and Bacterial Community-Acquired Pneumonia: a Cross-Sectional Study at Ayder and Mekelle Hospitals, Ethiopia. Clinical laboratory 2019;65. 9. Chen XQ, Xue CR, Hou P, Lin BQ, Zhang JR. Lymphocyte-to-monocyte ratio effectively predicts survival outcome of patients with obstructive colorectal cancer. World journal of gastroenterology 2019;25:4970-84. 10. Feng DY, Zhou YQ, Zhou M, Zou XL, Wang YH, Zhang TT. Risk Factors for Mortality Due to Ventilator-Associated Pneumonia in a Chinese Hospital: A Retrospective Study. Medical science monitor : international medical journal of experimental and clinical research 2019;25:7660-5. 11. Ge YL, Zhang HF, Zhang Q, et al Neutrophil-to-Lymphocyte Ratio in Adult Community-Acquired Pneumonia Patients Correlates with Unfavorable Clinical Outcomes. Clinical laboratory 2019;65. 12. Zhang HF, Ge YL, Wang HY, et al Neutrophil-to-Lymphocyte Ratio Improves the Accuracy and Sensitivity of Pneumonia Severity Index in Predicting 30-Day Mortality of CAP Patients. Clinical laboratory 2019;65. 13. Liu WJ, Zhao M, Liu K, et al T-cell immunity of SARS-CoV: Implications for vaccine development against MERS-CoV. Antiviral research 2017;137:82-92. 14. Liu H, Zhang H, Wan G, et al Neutrophil-lymphocyte ratio: a novel predictor for short-term prognosis in acute-on-chronic hepatitis B liver failure. Journal of viral hepatitis 2014;21:499-507. 15. Guo L, Wei D, Zhang X, et al Clinical Features Predicting Mortality Risk in Patients With Viral Pneumonia: The MuLBSTA Score. Frontiers in microbiology 2019;10:2752. 16. Murillo-Zamora E, Medina-Gonzalez A, Zamora-Perez L, Vazquez-Yanez A, Guzman-Esquivel J, Trujillo-Hernandez B. Performance of the PSI and CURB-65 scoring systems in predicting 30-day mortality in healthcare-associated pneumonia. Medicina clinica 2018;150:99-103. 17. Brabrand M, Henriksen DP. CURB-65 Score is Equal to NEWS for Identifying Mortality Risk of Pneumonia Patients: An Observational Study. Lung 2018;196:35961. 18. Ilg A, Moskowitz A, Konanki V, et al Performance of the CURB-65 Score in Predicting Critical Care Interventions in Patients Admitted With Community-Acquired Pneumonia. Annals of emergency medicine 2019;74:60-8."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients with 2019-nCoV infection treated at Beijing Ditan Hospital",
+            "number": 61,
+            "context": "We aimed to select the most useful prognostic factor for severe illness incidence. <mark class=\"stats\">Methods: The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020</mark>. Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia"
+        },
+        {
+            "participant": "patients with 2019-nCoV infection treated at Beijing Ditan Hospital",
+            "number": 61,
+            "context": "Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary. <mark class=\"stats\">The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020</mark>. Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia"
+        },
+        {
+            "participant": "patients with 2019nCoV infection treated at Beijing Ditan Hospital",
+            "number": 61,
+            "context": "The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve. <mark class=\"stats\">Patient selection<br/><br/>This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020</mark>. Diagnosis of 2019-nCoV pneumonia and clinical classification according to the new coronavirus pneumonia diagnosis and treatment plan (trial version 4) developed by the National Health Committee of the People's Republic of China (http://www.nhc.gov.cn/)"
+        },
+        {
+            "participant": "patients with 2019nCoV infection treated at Beijing Ditan Hospital",
+            "number": 61,
+            "context": "Influenza A virus (H1N1, H3N2, H7N9), influenza B virus, bacterial and fungal detections of sputum or respiratory secretions were performed at this hospital. <mark class=\"stats\">Epidemiological history, comorbidity, vital signs, symptoms and signs were recorded in detail, and laboratory tests including biochemical Indicators, blood routine, C-reactive protein, chest radiograph or CT scan.This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020</mark>. Diagnosis of 2019-nCoV pneumonia and clinical classification according to the new coronavirus pneumonia diagnosis and treatment plan (trial version 4) developed by the National Health Committee of the People's Republic of China (http://www.nhc.gov.cn/)"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 34662,
+            "context": "It was found that the 2019 novel coronavirus (2019nCoV) was the cause of unexplained viral pneumonia in Wuhan, China in December 2019, and was recognized by the World Health Organization (WHO) on January 12, 2020. <mark class=\"stats\">In the following month, 2019-nCoV was transmitted in Hubei Province, throughout China and even other countries,[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] causing 34,662 confirmed cases by February 8, 2020</mark>. Most patients with novel coronavirus infection were mild"
+        },
+        {
+            "participant": "patients with 2019nCoV infection treated at Beijing Ditan Hospital",
+            "number": 61,
+            "context": "We aimed to compare the clinical characteristics, imaging features, treatments, and outcomes of patients with mild and moderate or severe 2019-nCoV infection, to explore the most useful prognostic factor for accurate individualized assessment of the severe incidence of 2019-nCoV infection. <mark class=\"stats\">This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020</mark>. Diagnosis of 2019-nCoV pneumonia and clinical classification according to the new coronavirus pneumonia diagnosis and treatment plan (trial version 4) developed by the National Health Committee of the People's Republic of China (http://www.nhc.gov.cn/)"
+        },
+        {
+            "participant": "patients with 2019-nCoV infection included in this study",
+            "number": 61,
+            "context": "P-value < 0.05 was considered statistically significant. <mark class=\"stats\">Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild (mild group) and 17 as moderate or severe (severe group) on admission</mark>. The median age of the two groups was statistically different, the mild group was 41 years old and the severe group was 56 years old"
+        },
+        {
+            "participant": "patients",
+            "number": 61,
+            "context": "The median age of the two groups was statistically different, the mild group was 41 years old and the severe group was 56 years old. <mark class=\"stats\">None of the 61 patients had a history of Huanan seafood market exposure in Wuhan, 17 of them (27.9%) had not left Beijing recently, but had a close exposure history with 2019-nCoV pneumonia patients, and the other 44 (72.1%) patients were Wuhan citizens or visited Wuhan recently</mark>. There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1)"
+        },
+        {
+            "participant": "cases",
+            "number": 61,
+            "context": "There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1). <mark class=\"stats\">Among 61 cases, 60 (98.4%) cases had fever, 5 (8.2%) cases had high fever ( > 39 \u00b0C), 3 (4.9%) cases had dyspnea. 7 (11.5%) cases had mild shortness of breath</mark>. Most of the patients in the severe group had cough, sputum production, and fatigue. 11 (18.0%) cases had gastrointestinal symptoms"
+        },
+        {
+            "participant": "data",
+            "number": 61,
+            "context": "Blood neutrophil count in the severe group was significantly higher than that in the mild group, blood lymphocyte count, serum sodium and chlorine levels were significantly lower, and the rate of bacterial infection was significantly increased (Table 1). <mark class=\"stats\">Severe or critical type (n=61)</mark>. Close contact with Wuhan patients in Beijing"
+        },
+        {
+            "participant": "patients",
+            "number": 8,
+            "context": "The median days from illness onset to admission were 4 days in both groups. <mark class=\"stats\">All patients were isolated after admission, 34 (55.7%) patients received antiviral treatment, of which 8 patients received oseltamivir (75 mg every 12 h, orally), 26 patients received lopinavir and ritonavir tablets (200 mg twice daily, orally)</mark>. Nearly half of the patients received antibiotic therapy (42.6%), and 84.2% of the patients in the severe group received antibiotic therapy"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "One patient was received methylprednisolone for 3 days before admission and stopped after admission, and another patient took methylprednisolone 8 mg every other day for ten months for optic neuromyelitis and continued taking it after admission. <mark class=\"stats\">Most of the patients in the severe group received oxygen support and nebulization inhalation therapy, of which 3 patients received noninvasive ventilation and 2 received invasive mechanical ventilation</mark>. Nebulization inhalation drugs included recombinant human interferon \u03b12b and acetylcysteine"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Nebulization inhalation drugs included recombinant human interferon \u03b12b and acetylcysteine. <mark class=\"stats\">By the end of Jan 31, no patients died, 3 patients were discharged, and the remaining patients were in hospital, of which 8 patients progressed to severe illness and still in the ICU (Table 1)</mark>. X-ray or CT showed multiple lung lobe or bilateral involvement in 48 (78.7%) patients"
+        },
+        {
+            "participant": "patients",
+            "number": 5,
+            "context": "In addition, patients with severe illness might have bacterial infection due to low immune function. <mark class=\"stats\">The latest report followed up the laboratory test results of patients with 2019-nCoV infection, and found that 5 patients had a rising neutrophil count and a falling lymphocyte count before their deaths.6</mark>. In the study, the data of 61 patients with 2019-nCoV pneumonia were analyzed, the baseline characteristics of patients in the mild and severe groups were described and compared, and the dynamic changes of laboratory indexes and imaging were demonstrated"
+        },
+        {
+            "participant": "patients with 2019-nCoV pneumonia",
+            "number": 61,
+            "context": "The latest report followed up the laboratory test results of patients with 2019-nCoV infection, and found that 5 patients had a rising neutrophil count and a falling lymphocyte count before their deaths.6. <mark class=\"stats\">In the study, the data of 61 patients with 2019-nCoV pneumonia were analyzed, the baseline characteristics of patients in the mild and severe groups were described and compared, and the dynamic changes of laboratory indexes and imaging were demonstrated</mark>. The independent risk factors affecting incidence of severe illness were screened"
+        }
+    ],
+    "statistics": [
+        {
+            "p_value": "p = 0.056",
+            "context": "None of the 61 patients had a history of Huanan seafood market exposure in Wuhan, 17 of them (27.9%) had not left Beijing recently, but had a close exposure history with 2019-nCoV pneumonia patients, and the other 44 (72.1%) patients were Wuhan citizens or visited Wuhan recently. <mark class=\"stats\">There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1)</mark>. Among 61 cases, 60 (98.4%) cases had fever, 5 (8.2%) cases had high fever ( > 39 \u00b0C), 3 (4.9%) cases had dyspnea. 7 (11.5%) cases had mild shortness of breath"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">p values comparing common type and severe or critical type are from \u03c72 test, or Mann-Whitney</mark>",
+                "tests": [
+                    {
+                        "test": "\u03c72 test"
+                    },
+                    {
+                        "test": "Mann-Whitney"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p = 0.9675",
+            "context": "The results showed that the NLR had the highest area under curve (AUC) (0.849), and had higher sensitivity and specificity than the other two models (Table 2). <mark class=\"stats\">After NLR was incorporated into MuLBSTA (NLR-MuLBSTA) and CURB-65 (NLRCURB-65) models respectively, it was found that the prediction effect of the improved model was significantly better than that of the original model, but there was no significant difference of AUC in NLR vs. NLR-MuLBSTA and NLR vs. NLR-CURB65 (p = 0.9675 and p = 0.2971, respectively) (Table 2)</mark>. DLR positive DLR negative"
+        },
+        {
+            "p_value": "p = 0.0005",
+            "context": "Patients were divided into two strata according to the cutoff value of NLR (low risk: < 3.13; high risk: \u2265 3.13) and age (age < 50 years; age \u2265 50 years). <mark class=\"stats\">Kaplan\u2013Meier analysis showed significant statistical differences in the two groups (p = 0.0005 and p = 0.00028) (Figure 3A and 3B)</mark>. Furthermore, patients with 2019-nCoV pneumonia were stratified for severe illness incidence with respect to age with NLR (strata 1: age < 50 years and NLR < 3.13; strata 2: age < 50 years and NLR \u2265 3.13; strata 3: age \u2265 50 years and NLR < 3.13; strata 4: age \u2265 50 years and NLR \u2265 3.13)",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Kaplan\u2013Meier"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p = 0.0195",
+            "context": "There was no severe illness case in the strata 1 and strata 2, 1 (9.1%) case in the strata 3 and 7 (50%) cases in the strata 4. <mark class=\"stats\">As shown in Figure 3C, the severe illness incidence was significantly different between strata 3 and 4 (p = 0.0195), but the difference between the strata 2 and 3 was not significant (p = 0.4142)</mark>. Most of the 2019-nCoV pneumonia patients in the hospital were from Wuhan"
+        }
+    ],
+    "keywords": [
+        "lymphocyte ratio",
+        "model",
+        "CURB-65",
+        "clinical impact",
+        "impact curve",
+        "SARSCoV",
+        "calibration curve",
+        "intensive care unit",
+        "community acquired pneumonia",
+        "prognostic factor",
+        "severe acute respiratory syndrome",
+        "severe ill patient",
+        "novel coronavirus",
+        "risk factor",
+        "Neutrophil-to-Lymphocyte Ratio",
+        "illness incidence",
+        "pneumonia",
+        "early identification",
+        "useful prognostic",
+        "Middle East respiratory syndrome",
+        "World Health Organization",
+        "neutrophil",
+        "clinical characteristics",
+        "ncov infection",
+        "2019-nCoV",
+        "prognosis",
+        "severe illness",
+        "viral pneumonia",
+        "acute respiratory failure",
+        "decision curve",
+        "coronavirus",
+        "area under curve"
+    ],
+    "keyword_relevance": {
+        "neutrophil-to-lymphocyte ratio": 0.2054794521,
+        "2019-nCoV": 0.1095890411,
+        "severe illness": 0.095890411,
+        "pneumonia": 0.0890410959,
+        "model": 0.051369863,
+        "CURB-65": 0.0410958904,
+        "intensive care unit": 0.0410958904,
+        "coronavirus": 0.0376712329,
+        "novel coronavirus": 0.0273972603,
+        "area under curve": 0.0239726027,
+        "severe acute respiratory syndrome": 0.0205479452,
+        "illness incidence": 0.0205479452,
+        "neutrophil": 0.0205479452,
+        "prognosis": 0.0205479452,
+        "lymphocyte ratio": 0.0171232877,
+        "clinical impact": 0.0171232877,
+        "impact curve": 0.0171232877,
+        "risk factor": 0.0171232877,
+        "Middle East respiratory syndrome": 0.0171232877,
+        "decision curve": 0.0171232877,
+        "prognostic factor": 0.0136986301,
+        "Neutrophil-to-Lymphocyte Ratio": 0.0136986301,
+        "useful prognostic": 0.0136986301,
+        "calibration curve": 0.0102739726,
+        "acute respiratory failure": 0.0102739726,
+        "early identification": 0.0068493151,
+        "World Health Organization": 0.0068493151,
+        "clinical characteristics": 0.0068493151,
+        "viral pneumonia": 0.0068493151,
+        "SARSCoV": 0.0034246575,
+        "community acquired pneumonia": 0.0,
+        "severe ill patient": 0.0,
+        "ncov infection": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Coronavirus was a large virus family, which was known to cause common cold and serious illness such as Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] It was found that the 2019 novel coronavirus (2019nCoV) was the cause of unexplained viral pneumonia in Wuhan, China in December 2019, and was recognized by the World Health Organization (WHO) on January 12, 2020.",
+        "Most patients with novel coronavirus infection were mild.",
+        "Severe ill patients progressed rapidly to acute respiratory failure, acute respiratory distress syndrome, metabolic acidosis, coagulopathy, and septic shock.",
+        "Severe ill patients with 2019 novel coronavirus (2019-nCoV) infection progressed rapidly to acute respiratory failure.",
+        "The authors aimed to select the most useful prognostic factor for severe illness incidence",
+        "<h2 style=\"display: inline\">Methods:</h2> The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020.",
+        "This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020.",
+        "The clinical classifications are as follows: (1) mild, with fever, respiratory tract symptoms, and imaging shows pneumonia.",
+        "Epidemiological history, comorbidity, vital signs, symptoms and signs were recorded in detail, and laboratory tests including biochemical Indicators, blood routine, C-reactive protein, chest radiograph or CT scan",
+        "<h2 style=\"display: inline\">Results:</h2> The neutrophil-to-lymphocyte ratio (NLR) was identified as the independent risk factor for severe illness in patients with 2019-nCoV infection.",
+        "Based on the risk stratification of NLR with age, the study developed a 2019-nCoV pneumonia management process.",
+        "Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild and 17 as moderate or severe on admission.",
+        "There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1).",
+        "Blood neutrophil count in the severe group was significantly higher than that in the mild group, blood lymphocyte count, serum sodium and chlorine levels were significantly lower, and the rate of bacterial infection was significantly increased (Table 1)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The NLR was the early identification of risk factors for 2019-nCoV severe illness. Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Coronavirus was a large virus family, which was known to cause common cold and serious illness such as Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] It was found that the 2019 novel coronavirus (2019nCoV) was the cause of unexplained viral pneumonia in Wuhan, China in December 2019, and was recognized by the World Health Organization (WHO) on January 12, 2020.",
+            "Most patients with novel coronavirus infection were mild.",
+            "Severe ill patients progressed rapidly to acute respiratory failure, acute respiratory distress syndrome, metabolic acidosis, coagulopathy, and septic shock.",
+            "Severe ill patients with 2019 novel coronavirus (2019-nCoV) infection progressed rapidly to acute respiratory failure.",
+            "The authors aimed to select the most useful prognostic factor for severe illness incidence"
+        ],
+        "Methods": [
+            "The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020.",
+            "This study was a prospective single-center study, which included 61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020.",
+            "The clinical classifications are as follows: (1) mild, with fever, respiratory tract symptoms, and imaging shows pneumonia.",
+            "Epidemiological history, comorbidity, vital signs, symptoms and signs were recorded in detail, and laboratory tests including biochemical Indicators, blood routine, C-reactive protein, chest radiograph or CT scan"
+        ],
+        "Results": [
+            "The neutrophil-to-lymphocyte ratio (NLR) was identified as the independent risk factor for severe illness in patients with 2019-nCoV infection.",
+            "Based on the risk stratification of NLR with age, the study developed a 2019-nCoV pneumonia management process.",
+            "Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild and 17 as moderate or severe on admission.",
+            "There was no significant difference of diabetes, cardiovascular disease and chronic obstructive pulmonary disease between the two groups, but the patients with hypertension in the severe group were more than those in the mild group (p = 0.056) (Table 1).",
+            "Blood neutrophil count in the severe group was significantly higher than that in the mild group, blood lymphocyte count, serum sodium and chlorine levels were significantly lower, and the rate of bacterial infection was significantly increased (Table 1)"
+        ],
+        "Conclusion": [
+            "The NLR was the early identification of risk factors for 2019-nCoV severe illness. Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Kuiken_et+al_2003_a",
+            "entry": "1. Kuiken T, Fouchier RA, Schutten M, et al. Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome. Lancet (London, England) 2003;362:263-70.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kuiken%2C%20T.%20Fouchier%2C%20R.A.%20Schutten%2C%20M.%20Newly%20discovered%20coronavirus%20as%20the%20primary%20cause%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kuiken%2C%20T.%20Fouchier%2C%20R.A.%20Schutten%2C%20M.%20Newly%20discovered%20coronavirus%20as%20the%20primary%20cause%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kuiken%2C%20T.%20Fouchier%2C%20R.A.%20Schutten%2C%20M.%20Newly%20discovered%20coronavirus%20as%20the%20primary%20cause%20of%20severe%20acute%20respiratory%20syndrome%202003"
+        },
+        {
+            "id": "2",
+            "alt_id": "Drosten_et+al_2003_a",
+            "entry": "2. Drosten C, Gunther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. The New England journal of medicine 2003;348:1967-76.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Drosten%2C%20C.%20Gunther%2C%20S.%20Preiser%2C%20W.%20Identification%20of%20a%20novel%20coronavirus%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Drosten%2C%20C.%20Gunther%2C%20S.%20Preiser%2C%20W.%20Identification%20of%20a%20novel%20coronavirus%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Drosten%2C%20C.%20Gunther%2C%20S.%20Preiser%2C%20W.%20Identification%20of%20a%20novel%20coronavirus%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%202003"
+        },
+        {
+            "id": "3",
+            "alt_id": "de_Groot_et+al_2013_a",
+            "entry": "3. de Groot RJ, Baker SC, Baric RS, et al. Middle East respiratory syndrome coronavirus (MERS-CoV): announcement of the Coronavirus Study Group. Journal of virology 2013;87:7790-2.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=de%20Groot%20RJ%20SC%2C%20Baker%20RS%2C%20Baric%20Middle%20East%20respiratory%20syndrome%20coronavirus%20%28MERS-CoV%29%3A%20announcement%20of%20the%20Coronavirus%20Study%20Group%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=de%20Groot%20RJ%20SC%2C%20Baker%20RS%2C%20Baric%20Middle%20East%20respiratory%20syndrome%20coronavirus%20%28MERS-CoV%29%3A%20announcement%20of%20the%20Coronavirus%20Study%20Group%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=de%20Groot%20RJ%20SC%2C%20Baker%20RS%2C%20Baric%20Middle%20East%20respiratory%20syndrome%20coronavirus%20%28MERS-CoV%29%3A%20announcement%20of%20the%20Coronavirus%20Study%20Group%202013"
+        },
+        {
+            "id": "4",
+            "alt_id": "Zaki_et+al_2012_a",
+            "entry": "4. Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA. Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. The New England journal of medicine 2012;367:1814-20.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zaki%2C%20A.M.%20van%20Boheemen%2C%20S.%20Bestebroer%2C%20T.M.%20Osterhaus%2C%20A.D.%20Isolation%20of%20a%20novel%20coronavirus%20from%20a%20man%20with%20pneumonia%20in%20Saudi%20Arabia%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zaki%2C%20A.M.%20van%20Boheemen%2C%20S.%20Bestebroer%2C%20T.M.%20Osterhaus%2C%20A.D.%20Isolation%20of%20a%20novel%20coronavirus%20from%20a%20man%20with%20pneumonia%20in%20Saudi%20Arabia%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zaki%2C%20A.M.%20van%20Boheemen%2C%20S.%20Bestebroer%2C%20T.M.%20Osterhaus%2C%20A.D.%20Isolation%20of%20a%20novel%20coronavirus%20from%20a%20man%20with%20pneumonia%20in%20Saudi%20Arabia%202012"
+        },
+        {
+            "id": "5",
+            "alt_id": "Holshue_et+al_2020_a",
+            "entry": "5. Holshue ML, DeBolt C, Lindquist S, et al. First Case of 2019 Novel Coronavirus in the United States. The New England journal of medicine 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Holshue%20ML%20DeBolt%20C%20Lindquist%20S%20et%20al%20First%20Case%20of%202019%20Novel%20Coronavirus%20in%20the%20United%20States%20The%20New%20England%20journal%20of%20medicine%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Holshue%20ML%20DeBolt%20C%20Lindquist%20S%20et%20al%20First%20Case%20of%202019%20Novel%20Coronavirus%20in%20the%20United%20States%20The%20New%20England%20journal%20of%20medicine%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Holshue%20ML%20DeBolt%20C%20Lindquist%20S%20et%20al%20First%20Case%20of%202019%20Novel%20Coronavirus%20in%20the%20United%20States%20The%20New%20England%20journal%20of%20medicine%202020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Wang_et+al_2019_a",
+            "entry": "6. Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20Hu%20B%20Hu%20C%20et%20al%20Clinical%20Characteristics%20of%20138%20Hospitalized%20Patients%20With%202019%20Novel%20CoronavirusInfected%20Pneumonia%20in%20Wuhan%20China%20Jama%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Chen_et+al_2020_a",
+            "entry": "7. Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England) 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%20N%20Zhou%20M%20Dong%20X%20et%20al%20Epidemiological%20and%20clinical%20characteristics%20of%2099%20cases%20of%202019%20novel%20coronavirus%20pneumonia%20in%20Wuhan%20China%20a%20descriptive%20study%20Lancet%20London%20England%202020"
+        },
+        {
+            "id": "8",
+            "alt_id": "Berhane_et+al_2019_a",
+            "entry": "8. Berhane M, Melku M, Amsalu A, Enawgaw B, Getaneh Z, Asrie F. The Role of Neutrophil to Lymphocyte Count Ratio in the Differential Diagnosis of Pulmonary Tuberculosis and Bacterial Community-Acquired Pneumonia: a Cross-Sectional Study at Ayder and Mekelle Hospitals, Ethiopia. Clinical laboratory 2019;65.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Berhane%20M%20Melku%20M%20Amsalu%20A%20Enawgaw%20B%20Getaneh%20Z%20Asrie%20F%20The%20Role%20of%20Neutrophil%20to%20Lymphocyte%20Count%20Ratio%20in%20the%20Differential%20Diagnosis%20of%20Pulmonary%20Tuberculosis%20and%20Bacterial%20CommunityAcquired%20Pneumonia%20a%20CrossSectional%20Study%20at%20Ayder%20and%20Mekelle%20Hospitals%20Ethiopia%20Clinical%20laboratory%20201965"
+        },
+        {
+            "id": "9",
+            "alt_id": "Chen_et+al_2019_a",
+            "entry": "9. Chen XQ, Xue CR, Hou P, Lin BQ, Zhang JR. Lymphocyte-to-monocyte ratio effectively predicts survival outcome of patients with obstructive colorectal cancer. World journal of gastroenterology 2019;25:4970-84.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20X.Q.%20Xue%2C%20C.R.%20Hou%2C%20P.%20Lin%2C%20B.Q.%20Lymphocyte-to-monocyte%20ratio%20effectively%20predicts%20survival%20outcome%20of%20patients%20with%20obstructive%20colorectal%20cancer%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20X.Q.%20Xue%2C%20C.R.%20Hou%2C%20P.%20Lin%2C%20B.Q.%20Lymphocyte-to-monocyte%20ratio%20effectively%20predicts%20survival%20outcome%20of%20patients%20with%20obstructive%20colorectal%20cancer%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20X.Q.%20Xue%2C%20C.R.%20Hou%2C%20P.%20Lin%2C%20B.Q.%20Lymphocyte-to-monocyte%20ratio%20effectively%20predicts%20survival%20outcome%20of%20patients%20with%20obstructive%20colorectal%20cancer%202019"
+        },
+        {
+            "id": "10",
+            "alt_id": "Feng_et+al_2019_a",
+            "entry": "10. Feng DY, Zhou YQ, Zhou M, Zou XL, Wang YH, Zhang TT. Risk Factors for Mortality Due to Ventilator-Associated Pneumonia in a Chinese Hospital: A Retrospective Study. Medical science monitor: international medical journal of experimental and clinical research 2019;25:7660-5.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Feng%2C%20D.Y.%20Zhou%2C%20Y.Q.%20Zhou%2C%20M.%20Zou%2C%20X.L.%20Risk%20Factors%20for%20Mortality%20Due%20to%20Ventilator-Associated%20Pneumonia%20in%20a%20Chinese%20Hospital%3A%20A%20Retrospective%20Study%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Feng%2C%20D.Y.%20Zhou%2C%20Y.Q.%20Zhou%2C%20M.%20Zou%2C%20X.L.%20Risk%20Factors%20for%20Mortality%20Due%20to%20Ventilator-Associated%20Pneumonia%20in%20a%20Chinese%20Hospital%3A%20A%20Retrospective%20Study%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Feng%2C%20D.Y.%20Zhou%2C%20Y.Q.%20Zhou%2C%20M.%20Zou%2C%20X.L.%20Risk%20Factors%20for%20Mortality%20Due%20to%20Ventilator-Associated%20Pneumonia%20in%20a%20Chinese%20Hospital%3A%20A%20Retrospective%20Study%202019"
+        },
+        {
+            "id": "11",
+            "alt_id": "Ge_et+al_2019_a",
+            "entry": "11. Ge YL, Zhang HF, Zhang Q, et al. Neutrophil-to-Lymphocyte Ratio in Adult Community-Acquired Pneumonia Patients Correlates with Unfavorable Clinical Outcomes. Clinical laboratory 2019;65.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ge%2C%20Y.L.%20Zhang%2C%20H.F.%20Zhang%2C%20Q.%20Neutrophil-to-Lymphocyte%20Ratio%20in%20Adult%20Community-Acquired%20Pneumonia%20Patients%20Correlates%20with%20Unfavorable%20Clinical%20Outcomes%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ge%2C%20Y.L.%20Zhang%2C%20H.F.%20Zhang%2C%20Q.%20Neutrophil-to-Lymphocyte%20Ratio%20in%20Adult%20Community-Acquired%20Pneumonia%20Patients%20Correlates%20with%20Unfavorable%20Clinical%20Outcomes%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ge%2C%20Y.L.%20Zhang%2C%20H.F.%20Zhang%2C%20Q.%20Neutrophil-to-Lymphocyte%20Ratio%20in%20Adult%20Community-Acquired%20Pneumonia%20Patients%20Correlates%20with%20Unfavorable%20Clinical%20Outcomes%202019"
+        },
+        {
+            "id": "12",
+            "alt_id": "Zhang_et+al_2019_a",
+            "entry": "12. Zhang HF, Ge YL, Wang HY, et al. Neutrophil-to-Lymphocyte Ratio Improves the Accuracy and Sensitivity of Pneumonia Severity Index in Predicting 30-Day Mortality of CAP Patients. Clinical laboratory 2019;65.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhang%2C%20H.F.%20Ge%2C%20Y.L.%20Wang%2C%20H.Y.%20Neutrophil-to-Lymphocyte%20Ratio%20Improves%20the%20Accuracy%20and%20Sensitivity%20of%20Pneumonia%20Severity%20Index%20in%20Predicting%2030-Day%20Mortality%20of%20CAP%20Patients%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhang%2C%20H.F.%20Ge%2C%20Y.L.%20Wang%2C%20H.Y.%20Neutrophil-to-Lymphocyte%20Ratio%20Improves%20the%20Accuracy%20and%20Sensitivity%20of%20Pneumonia%20Severity%20Index%20in%20Predicting%2030-Day%20Mortality%20of%20CAP%20Patients%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhang%2C%20H.F.%20Ge%2C%20Y.L.%20Wang%2C%20H.Y.%20Neutrophil-to-Lymphocyte%20Ratio%20Improves%20the%20Accuracy%20and%20Sensitivity%20of%20Pneumonia%20Severity%20Index%20in%20Predicting%2030-Day%20Mortality%20of%20CAP%20Patients%202019"
+        },
+        {
+            "id": "13",
+            "alt_id": "Liu_et+al_2017_a",
+            "entry": "13. Liu WJ, Zhao M, Liu K, et al. T-cell immunity of SARS-CoV: Implications for vaccine development against MERS-CoV. Antiviral research 2017;137:82-92.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Liu%2C%20W.J.%20Zhao%2C%20M.%20Liu%2C%20K.%20T-cell%20immunity%20of%20SARS-CoV%3A%20Implications%20for%20vaccine%20development%20against%20MERS-CoV%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Liu%2C%20W.J.%20Zhao%2C%20M.%20Liu%2C%20K.%20T-cell%20immunity%20of%20SARS-CoV%3A%20Implications%20for%20vaccine%20development%20against%20MERS-CoV%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Liu%2C%20W.J.%20Zhao%2C%20M.%20Liu%2C%20K.%20T-cell%20immunity%20of%20SARS-CoV%3A%20Implications%20for%20vaccine%20development%20against%20MERS-CoV%202017"
+        },
+        {
+            "id": "14",
+            "alt_id": "Liu_et+al_2014_a",
+            "entry": "14. Liu H, Zhang H, Wan G, et al. Neutrophil-lymphocyte ratio: a novel predictor for short-term prognosis in acute-on-chronic hepatitis B liver failure. Journal of viral hepatitis 2014;21:499-507.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Liu%2C%20H.%20Zhang%2C%20H.%20Wan%2C%20G.%20Neutrophil-lymphocyte%20ratio%3A%20a%20novel%20predictor%20for%20short-term%20prognosis%20in%20acute-on-chronic%20hepatitis%20B%20liver%20failure%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Liu%2C%20H.%20Zhang%2C%20H.%20Wan%2C%20G.%20Neutrophil-lymphocyte%20ratio%3A%20a%20novel%20predictor%20for%20short-term%20prognosis%20in%20acute-on-chronic%20hepatitis%20B%20liver%20failure%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Liu%2C%20H.%20Zhang%2C%20H.%20Wan%2C%20G.%20Neutrophil-lymphocyte%20ratio%3A%20a%20novel%20predictor%20for%20short-term%20prognosis%20in%20acute-on-chronic%20hepatitis%20B%20liver%20failure%202014"
+        },
+        {
+            "id": "15",
+            "alt_id": "Guo_et+al_2019_a",
+            "entry": "15. Guo L, Wei D, Zhang X, et al. Clinical Features Predicting Mortality Risk in Patients With Viral Pneumonia: The MuLBSTA Score. Frontiers in microbiology 2019;10:2752.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guo%2C%20L.%20Wei%2C%20D.%20Zhang%2C%20X.%20Clinical%20Features%20Predicting%20Mortality%20Risk%20in%20Patients%20With%20Viral%20Pneumonia%3A%20The%20MuLBSTA%20Score%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guo%2C%20L.%20Wei%2C%20D.%20Zhang%2C%20X.%20Clinical%20Features%20Predicting%20Mortality%20Risk%20in%20Patients%20With%20Viral%20Pneumonia%3A%20The%20MuLBSTA%20Score%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guo%2C%20L.%20Wei%2C%20D.%20Zhang%2C%20X.%20Clinical%20Features%20Predicting%20Mortality%20Risk%20in%20Patients%20With%20Viral%20Pneumonia%3A%20The%20MuLBSTA%20Score%202019"
+        },
+        {
+            "id": "16",
+            "alt_id": "Murillo-Zamora_et+al_2018_a",
+            "entry": "16. Murillo-Zamora E, Medina-Gonzalez A, Zamora-Perez L, Vazquez-Yanez A, Guzman-Esquivel J, Trujillo-Hernandez B. Performance of the PSI and CURB-65 scoring systems in predicting 30-day mortality in healthcare-associated pneumonia. Medicina clinica 2018;150:99-103.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Murillo-Zamora%2C%20E.%20Medina-Gonzalez%2C%20A.%20Zamora-Perez%2C%20L.%20Vazquez-Yanez%2C%20A.%20Performance%20of%20the%20PSI%20and%20CURB-65%20scoring%20systems%20in%20predicting%2030-day%20mortality%20in%20healthcare-associated%20pneumonia%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Murillo-Zamora%2C%20E.%20Medina-Gonzalez%2C%20A.%20Zamora-Perez%2C%20L.%20Vazquez-Yanez%2C%20A.%20Performance%20of%20the%20PSI%20and%20CURB-65%20scoring%20systems%20in%20predicting%2030-day%20mortality%20in%20healthcare-associated%20pneumonia%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Murillo-Zamora%2C%20E.%20Medina-Gonzalez%2C%20A.%20Zamora-Perez%2C%20L.%20Vazquez-Yanez%2C%20A.%20Performance%20of%20the%20PSI%20and%20CURB-65%20scoring%20systems%20in%20predicting%2030-day%20mortality%20in%20healthcare-associated%20pneumonia%202018"
+        },
+        {
+            "id": "17",
+            "alt_id": "Brabrand_2018_a",
+            "entry": "17. Brabrand M, Henriksen DP. CURB-65 Score is Equal to NEWS for Identifying Mortality Risk of Pneumonia Patients: An Observational Study. Lung 2018;196:35961.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Brabrand%2C%20M.%20Henriksen%2C%20D.P.%20CURB-65%20Score%20is%20Equal%20to%20NEWS%20for%20Identifying%20Mortality%20Risk%20of%20Pneumonia%20Patients%3A%20An%20Observational%20Study%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Brabrand%2C%20M.%20Henriksen%2C%20D.P.%20CURB-65%20Score%20is%20Equal%20to%20NEWS%20for%20Identifying%20Mortality%20Risk%20of%20Pneumonia%20Patients%3A%20An%20Observational%20Study%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Brabrand%2C%20M.%20Henriksen%2C%20D.P.%20CURB-65%20Score%20is%20Equal%20to%20NEWS%20for%20Identifying%20Mortality%20Risk%20of%20Pneumonia%20Patients%3A%20An%20Observational%20Study%202018"
+        },
+        {
+            "id": "18",
+            "alt_id": "Ilg_et+al_2019_a",
+            "entry": "18. Ilg A, Moskowitz A, Konanki V, et al. Performance of the CURB-65 Score in Predicting Critical Care Interventions in Patients Admitted With Community-Acquired Pneumonia. Annals of emergency medicine 2019;74:60-8. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ilg%2C%20A.%20Moskowitz%2C%20A.%20Konanki%2C%20V.%20Performance%20of%20the%20CURB-65%20Score%20in%20Predicting%20Critical%20Care%20Interventions%20in%20Patients%20Admitted%20With%20Community-Acquired%20Pneumonia%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ilg%2C%20A.%20Moskowitz%2C%20A.%20Konanki%2C%20V.%20Performance%20of%20the%20CURB-65%20Score%20in%20Predicting%20Critical%20Care%20Interventions%20in%20Patients%20Admitted%20With%20Community-Acquired%20Pneumonia%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ilg%2C%20A.%20Moskowitz%2C%20A.%20Konanki%2C%20V.%20Performance%20of%20the%20CURB-65%20Score%20in%20Predicting%20Critical%20Care%20Interventions%20in%20Patients%20Admitted%20With%20Community-Acquired%20Pneumonia%202019"
+        }
+    ],
+    "facts": [
+        "61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13",
+        "Prognostic factor of severe illness was selected by the LASSO COX regression analyses",
+        "The predictive accuracy was evaluated by concordance index",
+        "The neutrophil-to-lymphocyte ratio was identified as the independent risk factor for severe illness",
+        "clinical impact curve showed that the NLR had superior standardized net benefit",
+        "The NLR was the early identification of risk factors for 2019-nCoV severe illness",
+        "that the 2019 novel coronavirus was the cause of unexplained viral pneumonia in Wuhan",
+        "ICU-care was needed unless the condition worsens",
+        "61 patients with 2019nCoV infection treated at Beijing Ditan Hospital from January 13",
+        "clinical classification according to the new coronavirus pneumonia diagnosis and treatment plan developed by the",
+        "ICU admission is required for combined organ failure",
+        "This study was approved by the Ethics Committee of Beijing Ditan Hospital",
+        "which were transported to Beijing CDC for laboratory diagnosis",
+        "respiratory secretions were performed at this hospital",
+        "symptoms and signs were recorded in detail",
+        "Of the 61 patients with 2019-nCoV infection included in this study",
+        "The decrease of lymphocyte count was related to the progress of the disease"
+    ],
+    "claims": [
+        "The decrease of lymphocyte count was related to the progress of the disease. we proposed that blood lymphocyte related index may be a potential predictor",
+        "We focused on the early identification of critical cases for risk stratification and management"
+    ],
+    "findings": [
+        "Kaplan\u2013Meier analysis showed significant statistical differences in the two groups (p = 0.0005 and p = 0.00028) (Figure 3A and 3B)",
+        "As shown in Figure 3C, the severe illness incidence was significantly different between strata 3 and 4 (p = 0.0195), but the difference between the strata 2 and 3 was not significant (p = 0.4142)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020",
+        "Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia",
+        "The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve",
+        "The decision curve and clinical impact curve showed that the neutrophil-to-lymphocyte ratio had superior standardized net benefit",
+        "The neutrophil-to-lymphocyte ratio was the early identification of risk factors for 2019-nCoV severe illness",
+        "The clinical classifications are as follows: (1) mild, with fever, respiratory tract symptoms, and imaging shows pneumonia. (2) moderate, meet any of the following: a) respiratory distress, respiratory rate \u2265 30 beats / min; b) in the resting state, means oxygen saturation \u2264 93%; c) arterial blood oxygen partial pressure / oxygen concentration \u2264 300mmHg (1mmHg = 0.133kPa). (3) severe, one of the following conditions: a) respiratory failure occurs and requires mechanical ventilation; b) Shock occurs; c) intensive care unit admission is required for combined organ failure",
+        "Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild and 17 as moderate or severe on admission"
+    ],
+    "top_statements": [
+        "Coronavirus was a large virus family, which was known to cause common cold and serious illness such as Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+        "The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020",
+        "The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve",
+        "The decision curve and clinical impact curve showed that the neutrophil-to-lymphocyte ratio had superior standardized net benefit",
+        "The neutrophil-to-lymphocyte ratio was the early identification of risk factors for 2019-nCoV severe illness",
+        "Of the 61 patients with 2019-nCoV infection included in this study, 44 were diagnosed as mild and 17 as moderate or severe on admission"
+    ],
+    "headline": "The neutrophil-to-lymphocyte ratio was the early identification of risk factors for 2019-nCoV severe illness",
+    "contexts": [],
+    "abbreviations": {
+        "NLR": "neutrophil-to-lymphocyte ratio",
+        "MERS": "Middle East respiratory syndrome",
+        "SARS": "severe acute respiratory syndrome",
+        "WHO": "World Health Organization",
+        "ICU": "intensive care unit",
+        "AUC": "area under curve"
+    }
+}

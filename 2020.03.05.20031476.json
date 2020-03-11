@@ -1,0 +1,324 @@
+{
+    "filename": "2020.03.05.20031476.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 136000,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.05.20031476",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/07/2020.03.05.20031476.full.pdf"
+        },
+        "title": "Appealing for Efficient, Well Organized Clinical Trials on COVID-19",
+        "author": "Yang Zhao, Yongyue Wei, Sipeng Shen, Mingzhi Zhang, Feng Chen",
+        "date": 2020,
+        "affiliations": [
+            "Department of Biostatistics, School of Public Health, Nanjing Medical University",
+            "Yongyue PhD Department of Biostatistics, School of Public Health, Nanjing Medical University",
+            "Sipeng PhD Department of Biostatistics, School of Public Health, Nanjing Medical University",
+            "Department of Biostatistics, School of Public Health, Nanjing Medical University"
+        ],
+        "abstract": "The rapid emergence of clinical trials on COVID-19 stimulated a wave of discussion in scientific community. We reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov. A total of 171 COVID-19-related interventional trials were identified on Feb 22nd, 2020. These trials are classified into 4 categories based on treatment modalities, including chemical drugs, biological therapies, traditional Chinese medicine treatments and other therapies. Our analysis focused on the issues of stage, design, randomization, blinding, primary endpoints definition and sample size of these trials. We found some studies with potential defects including unreasonable design, inappropriate primary endpoint definition, insufficient sample size and ethical issue. Clinical trials on COVID-19 should be designed based on scientific rules, ethics and benefits for patients.",
+        "references": "@article{maxmen2020a,\n  author = {Maxmen, A.},\n  title = {More than 80 clinical trials launch to test coronavirus treatments},\n  journal = {Nature},\n  date = {2020-02},\n  volume = {578},\n  pages = {347\u2013348},\n  doi = {Doi: 10.1038/d41586-020-00444-3},\n  number = {7795},\n  language = {}\n}\n@misc{unknown2020a,\n  title = {Chinese Clinical Trial Registration},\n  url = {http://www.chictr.org.cn.},\n  date = {2020-02-22},\n  language = {}\n}\n@misc{clinicaltrials2020a,\n  author = {},\n  date = {2020-02-22}\n}\n@misc{unknown-a,\n  title = {Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)},\n  url = {https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-o},\n  date = {n-covid-19-final-report.pdf. February 16-24,},\n  pages = {2020},\n  language = {}\n}\n@article{chen-a,\n  author = {Chen, F. and Hao, Y.T. and Zhang, Z.J.},\n  title = {An Urgent Call for Raising the Scientific Rigorousness of Clinical Trials on COVID-19. Chin},\n  journal = {J Epidemiol},\n  volume = {2020},\n  doi = {DOI: 10.3760/cma.j.issn.0254-6450.2020.03.004},\n  more-authors = {true},\n  source = {Epub ahead of print},\n  number = {41},\n  language = {}\n}\n",
+        "links": [
+            "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-o",
+            "https://clinicaltrials.gov/",
+            "http://www.chictr.org.cn"
+        ],
+        "emails": [
+            "fengchen@njmu.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Maxmen, A.\nTI  - More than 80 clinical trials launch to test coronavirus treatments\nT2  - Nature\nPY  - 2020\nDA  - 2020/02\nVL  - 578\nSP  - 347\nEP  - 348\nDO  - Doi: 10.1038/d41586-020-00444-3\nIS  - 7795\nLA  - \nER  - \n\nTY  - GEN\nTI  - Chinese Clinical Trial Registration\nUR  - http://www.chictr.org.cn.\nPY  - 2020\nDA  - 2020/02/22\nLA  - \nER  - \n\nTY  - GEN\nPY  - 2020\nDA  - 2020/02/22\nER  - \n\nTY  - GEN\nTI  - Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)\nUR  - https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-o\nPY  - n-covid-19-final-report.pdf. February 16-24,\nDA  - n/covid/19/final/report.pdf. February 16/24,\nSP  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, F.\nAU  - Hao, Y.T.\nAU  - Zhang, Z.J.\nTI  - An Urgent Call for Raising the Scientific Rigorousness of Clinical Trials on COVID-19. Chin\nT2  - J Epidemiol\nVL  - 2020\nDO  - 10.3760/cma.j.issn.0254-6450.2020.03.004\nC1  - true\nT2  - Epub ahead of print\nIS  - 41\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Characteristics of the 171 Interventional Clinical Trials [n(%)]"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The Registration Date Distribution of the Interventional Clinical Trials"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.05.20031476.full.pdf_55wz_cbj_ydfmgiln.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.05.20031476.full.pdf_55wz_cbj_images_9mpi7jgw/img-000.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "As of February 29, 2020, approximately 85,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed worldwide, with nearly 3,000 deaths occured. Recently, many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191. The rapid emergence of these trials stimulated a wave of discussion. Herein, we reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]"
+        ],
+        "methods": [
+            "The data of interventional trials from ChiCTR and ClinicalTrials.gov were retrieved updated on February 22, 2020. Two authors (Zhao and Shen) were independently responsible for collecting the relevant information, including clinical phase, study design, presence or absence of randomization, blinding, sample size, severity of disease and source of samples."
+        ],
+        "results": [
+            "A total of 171 COVID-19-related interventional trials were identified (138 from ChiCTR and 33 from ClinicalTrials.gov). The registration date distribution of these trials was shown in Figure 1. Of the trials registered at ChiCTR, 120 were approved by the institutional review boards. The 171 trials are classified into 4 categories based on treatment modalities, including chemical drugs (CDs), biological therapies (BTs), traditional Chinese medicine (TCM) treatments and other therapies. The characteristics of these trials were summarized in Table 1. There are 11 confirmatory Phase III or Phase II/III studies (6.4%), 8 of which are for CDs. Most trials (88.3%) use parallel-arm design. Randomization is applied in 132 trials (77.2%), while blinding in only 25 trials (14.6%). The sample sizes of 45.6% trials are more than 100. Two trials on TCM treatments are planned to recruit 800 or more patients. Severe and critically ill patients are respectively recruited in 70 (40.9%) and 28 (16.4%) trials. More than half of the trials (72.4%) are planned to collect blood samples, while only 19 trials (13.8%) to collect nasopharyngeal swabs. More trials on TCM treatment use 2 or more primary endpoints (PEs) than those on CDs or BTs (57.6%, 39.4% and 40.5%, respectively). Some trials even have 6 or more PEs. The most 3 common used PEs are associated with clinical symptoms(73.1%), pathogen(29.2%) and lung function(27.5%). Trials on CDs have greater proportions of pathogen (41.0%) or fatality (18.0%) related PEs than the others. It is worth noting that these trials have registered over 300 distinct PEs totally."
+        ],
+        "discussion": [
+            "During the outbreak, we are in urgent need of an effective treatment strategies. Through analyzing currently-registered interventional trials, we found some studies with potential defects including unreasonable design, inappropriate PE definition, small sample size and ethical issue.<br/><br/>Determining the appropriate PEs is crucial to address the primary scientific question of the study. The PEs should be defined clearly and specifically to improve the operation quality. Objective endpoints, such as pathogen or imaging results, are preferred to avoid the bias during evaluation.<br/><br/>It is possible that some trials lack statistical power. Assuming a two-side significance level of 0.05 and power of 80%, a trial on mild pneumonia patients should recruit nearly 1,000 patients if the effective rate increases from 90% to 95% for the new treatment. More patients are needed for the trials planning to decrease the fatality of critically ill patients."
+        ],
+        "disclosures": [
+            "<strong>Conflict of Interest Disclosures</strong><br/><br/>None."
+        ],
+        "acknowledgment": [
+            "This study was funded by the National Natural Science Foundation of China (Grant N o. 81872709) and Key Project of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China (Grant No 18KJA110004). The authors are grateful to Miss Yuanping Yue and Mrs. Yue Wang for their help on preparing the manuscript.<br/><br/>Figure legends Figure 1. The Registration Date Distribution of the Interventional Clinical Trials"
+        ],
+        "design": [
+            "Single-arm    5 (8.2)    8 (19.0)    4 (6.8)    Parallel-arm    56 (91.8)    34 (81.0)    54 (91.5)    7 (77.8)<br/><br/>Factorial design**    0 (0.0)"
+        ],
+        "funding": [
+            "This study was funded by the National Natural Science Foundation of China (Grant N o. 81872709) and Key Project of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China (Grant No 18KJA110004)"
+        ]
+    },
+    "structured_content": {
+        "Introduction": [
+            "As of February 29, 2020, approximately 85,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed worldwide, with nearly 3,000 deaths occured. Recently, many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191. The rapid emergence of these trials stimulated a wave of discussion. Herein, we reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]"
+        ],
+        "Methods": [
+            "The data of interventional trials from ChiCTR and ClinicalTrials.gov were retrieved updated on February 22, 2020. Two authors (Zhao and Shen) were independently responsible for collecting the relevant information, including clinical phase, study design, presence or absence of randomization, blinding, sample size, severity of disease and source of samples."
+        ],
+        "Results": [
+            "A total of 171 COVID-19-related interventional trials were identified (138 from ChiCTR and 33 from ClinicalTrials.gov). The registration date distribution of these trials was shown in Figure 1. Of the trials registered at ChiCTR, 120 were approved by the institutional review boards. The 171 trials are classified into 4 categories based on treatment modalities, including chemical drugs (CDs), biological therapies (BTs), traditional Chinese medicine (TCM) treatments and other therapies. The characteristics of these trials were summarized in Table 1. There are 11 confirmatory Phase III or Phase II/III studies (6.4%), 8 of which are for CDs. Most trials (88.3%) use parallel-arm design. Randomization is applied in 132 trials (77.2%), while blinding in only 25 trials (14.6%). The sample sizes of 45.6% trials are more than 100. Two trials on TCM treatments are planned to recruit 800 or more patients. Severe and critically ill patients are respectively recruited in 70 (40.9%) and 28 (16.4%) trials. More than half of the trials (72.4%) are planned to collect blood samples, while only 19 trials (13.8%) to collect nasopharyngeal swabs. More trials on TCM treatment use 2 or more primary endpoints (PEs) than those on CDs or BTs (57.6%, 39.4% and 40.5%, respectively). Some trials even have 6 or more PEs. The most 3 common used PEs are associated with clinical symptoms(73.1%), pathogen(29.2%) and lung function(27.5%). Trials on CDs have greater proportions of pathogen (41.0%) or fatality (18.0%) related PEs than the others. It is worth noting that these trials have registered over 300 distinct PEs totally."
+        ],
+        "Discussion": [
+            "During the outbreak, we are in urgent need of an effective treatment strategies. Through analyzing currently-registered interventional trials, we found some studies with potential defects including unreasonable design, inappropriate PE definition, small sample size and ethical issue.",
+            "Determining the appropriate PEs is crucial to address the primary scientific question of the study. The PEs should be defined clearly and specifically to improve the operation quality. Objective endpoints, such as pathogen or imaging results, are preferred to avoid the bias during evaluation.",
+            "It is possible that some trials lack statistical power. Assuming a two-side significance level of 0.05 and power of 80%, a trial on mild pneumonia patients should recruit nearly 1,000 patients if the effective rate increases from 90% to 95% for the new treatment. More patients are needed for the trials planning to decrease the fatality of critically ill patients.",
+            "Some drugs and therapies under study are short of previous theoretical support for COVID-19. These drugs and therapies may be not beneficial to the patients, leading to non-compliance to ethical standards. These unnecessary trials may also waste medical resources, as well as diverting patients resources. WHO has suggested an establishment of a centralized research program to ensure the most promising researches[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "As appealed by some Chinese scientists recently, clinical trials on COVID-19 should be designed based on scientific rules (appropriate controls, randomization, blinding,",
+            ", and sufficient sample size) ethics and patients\u2019 benefits[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. The standards for clinical trials should not be compromised in such a special time.",
+            "Conflict of Interest Disclosures: None."
+        ],
+        "Acknowledgment": [
+            "This study was funded by the National Natural Science Foundation of China (Grant N o. 81872709) and Key Project of the Natural Science Foundation of the Jiangsu Higher Education Institutions of China (Grant No 18KJA110004). The authors are grateful to Miss Yuanping Yue and Mrs. Yue Wang for their help on preparing the manuscript.",
+            "Figure legends Figure 1. The Registration Date Distribution of the Interventional Clinical Trials"
+        ],
+        "References": [
+            "1. Maxmen A. More than 80 clinical trials launch to test coronavirus treatments.",
+            "Nature. 2020 Feb;578(7795):[347-348]. Doi:10.1038/d41586-020-00444-3. 2. Chinese Clinical Trial Registration. http://www.chictr.org.cn. February 22, 2020. 3. ClinicalTrials.gov. https://clinicaltrials.gov/. February 22, 2020. 4. Report of the WHO-China Joint Mission on Coronavirus Disease 2019",
+            "(COVID-19). https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-o n-covid-19-final-report.pdf. February 16-24, 2020. 5. Chen F, Hao YT, Zhang ZJ., et al An Urgent Call for Raising the Scientific Rigorousness of Clinical Trials on COVID-19. Chin J Epidemiol, 2020,41: Epub ahead of print. DOI: 10.3760/cma.j.issn.0254-6450.2020.03.004.",
+            "Table 1. Characteristics of the 171 Interventional Clinical Trials [n(%)]",
+            "Chemical drugs* Biological therapies* TCM treatment* Other therapies (n=61)",
+            "(n=42)",
+            "(n=59)",
+            "(n=9)",
+            "Phase",
+            "I and II",
+            "20 (32.8)",
+            "27 (64.3)",
+            "28 (47.5)",
+            "6 (66.7)",
+            "II/III and III",
+            "8 (13.1)",
+            "2 (4.7)",
+            "1 (1.7)",
+            "0 (0)",
+            "IV",
+            "22 (36.1)",
+            "7 (16.7)",
+            "16 (27.1)",
+            "Others",
+            "11 (18.0)",
+            "6 (14.3)",
+            "14 (23.7)",
+            "3 (33.3)"
+        ],
+        "Design": [],
+        "Notes:": [
+            "**Three trials are registered as \u201cfactorial design\u201d, one for TCM, one for psychological intervention to doctors and nurses, and one for probiotics. However, unlike the general purporse of factorial design, none of the 3 trials aim to find the best \u201ccombination\u201d of the treatments.",
+            "***Trials registered at ClinicalTrials do not provide information about the collected samples.",
+            "#Percentages for PE type are calculated by the number of trials using this PE divided by the number of corresponding type of trials. Percentages of severity and samples are calculated in the same manner."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 85000,
+            "context": "Clinical trials on COVID-19 should be designed based on scientific rules, ethics and benefits for patients. <mark class=\"stats\">Introduction As of February 29, 2020, approximately 85,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed worldwide, with nearly 3,000 deaths occured</mark>. Recently, many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191"
+        },
+        {
+            "participant": "patients",
+            "number": 1000,
+            "context": "It is possible that some trials lack statistical power. <mark class=\"stats\">Assuming a two-side significance level of 0.05 and power of 80%, a trial on mild pneumonia patients should recruit nearly 1,000 patients if the effective rate increases from 90% to 95% for the new treatment</mark>. More patients are needed for the trials planning to decrease the fatality of critically ill patients"
+        },
+        {
+            "participant": "data",
+            "number": 61,
+            "context": "DOI: 10.3760/cma.j.issn.0254-6450.2020.03.004. <mark class=\"stats\">Chemical drugs* Biological therapies* TCM treatment* Other therapies (n=61)</mark>. I and II"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "biological therapies",
+        "COVID-19",
+        "primary endpoint definition",
+        "chemical drugs",
+        "Chinese Clinical Trial Registration",
+        "rapid emergence",
+        "unreasonable design",
+        "traditional Chinese medicine",
+        "sample size",
+        "primary endpoints",
+        "interventional trial",
+        "potential defect",
+        "clinical trial",
+        "coronavirus disease"
+    ],
+    "keyword_relevance": {
+        "primary endpoints": 0.1666666667,
+        "COVID-19": 0.1538461538,
+        "traditional Chinese medicine": 0.1282051282,
+        "Chinese Clinical Trial Registration": 0.1025641026,
+        "chemical drugs": 0.0769230769,
+        "sample size": 0.0769230769,
+        "interventional trial": 0.0769230769,
+        "clinical trial": 0.0641025641,
+        "biological therapies": 0.0512820513,
+        "rapid emergence": 0.0256410256,
+        "unreasonable design": 0.0256410256,
+        "potential defect": 0.0256410256,
+        "primary endpoint definition": 0.0128205128,
+        "coronavirus disease": 0.0128205128
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> As of February 29, 2020, approximately 85,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed worldwide, with nearly 3,000 deaths occured.",
+        "Many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191.",
+        "The rapid emergence of these trials stimulated a wave of discussion.",
+        "The authors reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "<h2 style=\"display: inline\">Methods:</h2> The data of interventional trials from ChiCTR and ClinicalTrials.gov were retrieved updated on February 22, 2020.",
+        "Two authors (Zhao and Shen) were independently responsible for collecting the relevant information, including clinical phase, study design, presence or absence of randomization, blinding, sample size, severity of disease and source of samples",
+        "<h2 style=\"display: inline\">Results:</h2> A total of 171 COVID-19-related interventional trials were identified (138 from ChiCTR and 33 from ClinicalTrials.gov).",
+        "The 171 trials are classified into 4 categories based on treatment modalities, including chemical drugs (CDs), biological therapies (BTs), traditional Chinese medicine (TCM) treatments and other therapies.",
+        "The characteristics of these trials were summarized in Table 1.",
+        "More trials on TCM treatment use 2 or more primary endpoints (PEs) than those on CDs or BTs (57.6%, 39.4% and 40.5%, respectively).",
+        "It is worth noting that these trials have registered over 300 distinct PEs totally",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors are in urgent need of an effective treatment strategies. Through analyzing currently-registered interventional trials, the authors found some studies with potential defects including unreasonable design, inappropriate PE definition, small sample size and ethical issue.<br/><br/>Determining the appropriate PEs is crucial to address the primary scientific question of the study.",
+        "The PEs should be defined clearly and to improve the operation quality.",
+        "Objective endpoints, such as pathogen or imaging results, are preferred to avoid the bias during evaluation.",
+        "Assuming a two-side significance level of 0.05 and power of 80%, a trial on mild pneumonia patients should recruit nearly 1,000 patients if the effective rate increases from 90% to 95% for the new treatment.",
+        "More patients are needed for the trials planning to decrease the fatality of critically ill patients"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "As of February 29, 2020, approximately 85,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed worldwide, with nearly 3,000 deaths occured.",
+            "Many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191.",
+            "The rapid emergence of these trials stimulated a wave of discussion.",
+            "The authors reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]"
+        ],
+        "Methods": [
+            "The data of interventional trials from ChiCTR and ClinicalTrials.gov were retrieved updated on February 22, 2020.",
+            "Two authors (Zhao and Shen) were independently responsible for collecting the relevant information, including clinical phase, study design, presence or absence of randomization, blinding, sample size, severity of disease and source of samples"
+        ],
+        "Results": [
+            "A total of 171 COVID-19-related interventional trials were identified (138 from ChiCTR and 33 from ClinicalTrials.gov).",
+            "The 171 trials are classified into 4 categories based on treatment modalities, including chemical drugs (CDs), biological therapies (BTs), traditional Chinese medicine (TCM) treatments and other therapies.",
+            "The characteristics of these trials were summarized in Table 1.",
+            "More trials on TCM treatment use 2 or more primary endpoints (PEs) than those on CDs or BTs (57.6%, 39.4% and 40.5%, respectively).",
+            "It is worth noting that these trials have registered over 300 distinct PEs totally"
+        ],
+        "Conclusion": [
+            "The authors are in urgent need of an effective treatment strategies. Through analyzing currently-registered interventional trials, the authors found some studies with potential defects including unreasonable design, inappropriate PE definition, small sample size and ethical issue.<br/><br/>Determining the appropriate PEs is crucial to address the primary scientific question of the study.",
+            "The PEs should be defined clearly and to improve the operation quality.",
+            "Objective endpoints, such as pathogen or imaging results, are preferred to avoid the bias during evaluation.",
+            "Assuming a two-side significance level of 0.05 and power of 80%, a trial on mild pneumonia patients should recruit nearly 1,000 patients if the effective rate increases from 90% to 95% for the new treatment.",
+            "More patients are needed for the trials planning to decrease the fatality of critically ill patients"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Maxmen_2020_a",
+            "entry": "1. Maxmen A. More than 80 clinical trials launch to test coronavirus treatments. Nature. 2020 Feb;578(7795):347-348. Doi:10.1038/d41586-020-00444-3.",
+            "crossref": "https://dx.doi.org/10.1038/d41586-020-00444-3",
+            "scite": "https://scite.ai/reports/10.1038/d41586-020-00444-3",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/d41586-020-00444-3"
+        },
+        {
+            "id": "2",
+            "alt_id": "2._2020_a",
+            "entry": "2. Chinese Clinical Trial Registration. http://www.chictr.org.cn. February 22, 2020.",
+            "url": "http://www.chictr.org.cn"
+        },
+        {
+            "id": "3",
+            "alt_id": "Clinicaltrials_2020_a",
+            "entry": "3. ClinicalTrials.gov. https://clinicaltrials.gov/. February 22, 2020.",
+            "url": "https://clinicaltrials.gov/"
+        },
+        {
+            "id": "4",
+            "alt_id": "4._n-covid-19-final-report.pdf. February 16-24,_a",
+            "entry": "4. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-o n-covid-19-final-report.pdf. February 16-24, 2020.",
+            "url": "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-o"
+        },
+        {
+            "id": "5",
+            "alt_id": "Chen_et+al_0000_a",
+            "entry": "5. Chen F, Hao YT, Zhang ZJ., et al. An Urgent Call for Raising the Scientific Rigorousness of Clinical Trials on COVID-19. Chin J Epidemiol, 2020,41: Epub ahead of print. DOI: 10.3760/cma.j.issn.0254-6450.2020.03.004. ",
+            "crossref": "https://dx.doi.org/10.3760/cma.j.issn.0254-6450.2020.03.004",
+            "scite": "https://scite.ai/reports/10.3760/cma.j.issn.0254-6450.2020.03.004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.3760/cma.j.issn.0254-6450.2020.03.004"
+        }
+    ],
+    "facts": [
+        "The rapid emergence of clinical trials on COVID-19 stimulated a wave of discussion in scientific community",
+        "A total of 171 COVID-19-related interventional trials were identified on Feb 22nd",
+        "These trials are classified into 4 categories based on treatment modalities",
+        "Our analysis focused on the issues of stage",
+        "Clinical trials on COVID-19 should be designed based on scientific rules",
+        "many COVID-19-related interventional clinical trials have emerged in China",
+        "The rapid emergence of these trials stimulated a wave of discussion",
+        "ClinicalTrials.gov were retrieved updated on February 22",
+        "The registration date distribution of these trials was shown in Figure 1",
+        "Of the trials registered at ChiCTR",
+        "The 171 trials are classified into 4 categories based on treatment modalities",
+        "The characteristics of these trials were summarized in Table 1",
+        "of which are for CDs",
+        "Randomization is applied in 132 trials",
+        "used PEs are associated with clinical symptoms",
+        "worth noting that these trials have registered over",
+        "More patients are needed for the trials planning to decrease the fatality of",
+        "COVID-19-related interventional clinical trials have emerged in China"
+    ],
+    "claims": [
+        "We reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov",
+        "We found some studies with potential defects including unreasonable design, inappropriate primary endpoint definition, insufficient sample size and ethical issue",
+        "Herein, we reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov.2,3",
+        "Through analyzing currently-registered interventional trials, we found some studies with potential defects including unreasonable design, inappropriate PE definition, small sample size and ethical issue"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "ABSTRATC The rapid emergence of clinical trials on COVID-19 stimulated a wave of discussion in scientific community",
+        "We reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov",
+        "These trials are classified into 4 categories based on treatment modalities, including chemical drugs, biological therapies, traditional Chinese medicine treatments and other therapies",
+        "We found some studies with potential defects including unreasonable design, inappropriate primary endpoint definition, insufficient sample size and ethical issue",
+        "Many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191",
+        "We reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "Of the trials registered at Chinese Clinical Trial Registration, 120 were approved by the institutional review boards",
+        "The 171 trials are classified into 4 categories based on treatment modalities, including chemical drugs (CDs), biological therapies (BTs), traditional Chinese medicine (TCM) treatments and other therapies",
+        "There are 11 confirmatory Phase III or Phase II/III studies (6.4%), 8 of which are for chemical drugs",
+        "The most 3 common used primary endpoints are associated with clinical symptoms(73.1%), pathogen(29.2%) and lung function(27.5%)",
+        "It is worth noting that these trials have registered over 300 distinct primary endpoints totally",
+        "Through analyzing currently-registered interventional trials, we found some studies with potential defects including unreasonable design, inappropriate primary endpoints definition, small sample size and ethical issue"
+    ],
+    "top_statements": [
+        "As of February 29, 2020, approximately 85,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed worldwide, with nearly 3,000 deaths occured",
+        "We reviewed the characteristics of interventional trials from Chinese Clinical Trial Registration (ChiCTR) and ClinicalTrials.gov",
+        "We found some studies with potential defects including unreasonable design, inappropriate primary endpoint definition, insufficient sample size and ethical issue",
+        "Many COVID-19-related interventional clinical trials have emerged in China, the original and high-incidence area of COVID-191",
+        "The 171 trials are classified into 4 categories based on treatment modalities, including chemical drugs (CDs), biological therapies (BTs), traditional Chinese medicine (TCM) treatments and other therapies",
+        "Through analyzing currently-registered interventional trials, we found some studies with potential defects including unreasonable design, inappropriate primary endpoints definition, small sample size and ethical issue"
+    ],
+    "headline": "Through analyzing currently-registered interventional trials, we found some studies with potential defects including unreasonable design, inappropriate primary endpoints definition, small sample size and ethical issue",
+    "contexts": [],
+    "abbreviations": {
+        "ChiCTR": "Chinese Clinical Trial Registration",
+        "CDs": "chemical drugs",
+        "BTs": "biological therapies",
+        "TCM": "traditional Chinese medicine",
+        "PEs": "primary endpoints"
+    }
+}

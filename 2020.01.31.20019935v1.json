@@ -1,0 +1,521 @@
+{
+    "filename": "2020.01.31.20019935v1.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 984489,
+    "metadata": {
+        "title": "Early epidemiological analysis of the 2019-nCoV outbreak based on a crowdsourced data",
+        "date": 2020,
+        "author": "Kaiyuan Sun, Jenny Chen, C\u00e9cile Viboud",
+        "affiliations": [
+            "Fogarty International Center, NIH, Bethesda MD USA",
+            "National Institutes of Health or U.S. Department of Health and Human Services"
+        ],
+        "journal": "Method",
+        "volume": "18",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.01.31.20019935",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.01.31.20019935v1.full.pdf"
+        },
+        "abstract": "As the outbreak of novel 2019 coronavirus (2019-nCoV) progresses within China and beyond, there is a need for rapidly available epidemiological data to guide situational awareness and intervention strategies. Here we present an effort to compile epidemiological information on 2019-nCoV from media news reports and a physician community website (dxy.cn) between Jan 20, 2020 and Jan 30, 2020, as the outbreak entered its 7th week. We compiled a line list of patients reported in China and internationally and daily case counts by Chinese province. We describe the demographics, hospitalization and reporting delays for 288 patients, over time and geographically. We find a decrease in case detection lags in provinces outside of Wuhan and internationally, compared to Wuhan, and after Jan 18, 2020, as outbreak awareness increased. The rapid progression of reported cases in different provinces of China is consistent with local transmission beyond Wuhan. The age profile of cases points at a deficit among children under 15 years of age, possibly related to prior immunity with related coronavirus or behavioral differences. Overall, our datasets, which have been publicly available since Jan 21, 2020, align with official reports from Chinese authorities published more than a week later. Availability of publicly available datasets in the early stages of an outbreak is important to encourage disease modeling efforts by independent academic modeling teams and provide robust evidence to guide interventions.",
+        "references": "@misc{w-a,\n  author = {W.H.O.},\n  title = {WHO second emergency meeting statement. 2020},\n  url = {https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-ofthe-international-health-regulations-},\n  language = {}\n}\n@article{rivers2019a,\n  author = {Rivers, C. and Chretien, J.P. and Riley, S.},\n  title = {Using \"outbreak science\" to strengthen the use of models during epidemics},\n  journal = {Nat Commun},\n  date = {2019},\n  volume = {10},\n  pages = {3102},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{chowell2009a,\n  author = {Chowell, G. and Bertozzi, S.M. and Colchero, M.A.},\n  title = {Severe respiratory disease concurrent with the circulation of H1N1 influenza},\n  journal = {N Engl J Med},\n  date = {2009},\n  volume = {361},\n  pages = {674\u20139},\n  more-authors = {true},\n  number = {7},\n  language = {}\n}\n@article{chowell2011a,\n  author = {Chowell, G. and Echevarria-Zuno, S. and Viboud, C.},\n  title = {Characterizing the epidemiology of the 2009 influenza A/H1N1 pandemic in Mexico},\n  journal = {PLoS Med},\n  date = {2011},\n  volume = {8},\n  pages = {1000436},\n  more-authors = {true},\n  number = {5},\n  language = {}\n}\n@article{fraser2009a,\n  author = {Fraser, C. and Donnelly, C.A. and Cauchemez, S.},\n  title = {Pandemic potential of a strain of influenza A (H1N1): early findings},\n  journal = {Science},\n  date = {2009},\n  volume = {324},\n  pages = {1557\u201361},\n  more-authors = {true},\n  number = {5934},\n  language = {}\n}\n@article{lipsitch2003a,\n  author = {Lipsitch, M. and Cohen, T. and Cooper, B.},\n  title = {Transmission dynamics and control of severe acute respiratory syndrome},\n  journal = {Science},\n  date = {2003},\n  volume = {300},\n  pages = {1966\u201370},\n  more-authors = {true},\n  number = {5627},\n  language = {}\n}\n@article{cleaton2016a,\n  author = {Cleaton, J.M. and Viboud, C. and Simonsen, L. and Hurtado, A.M. and Chowell, G.},\n  title = {Characterizing Ebola Transmission Patterns Based on Internet News Reports},\n  journal = {Clin Infect Dis},\n  date = {2016},\n  volume = {62},\n  pages = {24\u201331},\n  number = {1},\n  language = {}\n}\n@incollection{unknown-a,\n  title = {DXY.cn. 2020},\n  url = {https://en.wikipedia.org/wiki/DXY.cn.9.},\n  source = {DXY.cn. Pneumonia.},\n  pages = {3\u20135},\n  unmatched-url = {2020.http:},\n  language = {},\n  organization = {Wikipedia}\n}\n@misc{vespignani-a,\n  author = {Vespignani, A.},\n  title = {MOBS lab -- preliminary analysis of the 2019 coronavirus outbreak in Wuhan. 2020},\n  url = {https://www.mobs-lab.org/2019ncov.html.},\n  language = {}\n}\n@misc{ifhma2020a,\n  author = {IfHMa, Evaluation},\n  title = {Global Burden of Disease Data},\n  date = {2020},\n  language = {}\n}\n@article{lemaitre2010a,\n  author = {Lemaitre, M. and Carrat, F.},\n  title = {Comparative age distribution of influenza morbidity and mortality during seasonal influenza epidemics and the 2009 H1N1 pandemic},\n  journal = {BMC Infect Dis},\n  date = {2010},\n  volume = {10},\n  pages = {162},\n  language = {}\n}\n@incollection{c-a,\n  title = {Analysis IC-CfGID. News / Wuhan Coronavirus. 2020},\n  url = {https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhancoronavirus/.14.},\n  producer = {CDC},\n  author = {C.},\n  source = {Wuhan coronavirus report},\n  unmatched-url = {2020.http: //www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf.},\n  director = {C.D.C.},\n  language = {}\n}\n@misc{backer-a,\n  author = {Backer, J. and Klinkenberg, D. and Wallinga, J.},\n  title = {The incubation period of 2019-nCoV infections among travellers from Wuhan, China. 2020},\n  url = {https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.},\n  language = {}\n}\n@misc{lessler-a,\n  author = {Lessler, J.},\n  title = {Incubation Period. 2020},\n  url = {https://github.com/HopkinsIDD/ncov_incubation},\n  language = {}\n}\n@misc{sea-a,\n  author = {Sea, Zhao},\n  title = {Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. 2020},\n  url = {https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1.},\n  language = {}\n}\n@article{li2020a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{greenbaum2014a,\n  author = {Greenbaum, A.H. and Chen, J. and Reed, C.},\n  title = {Hospitalizations for severe lower respiratory tract infections},\n  journal = {Pediatrics},\n  date = {2014},\n  volume = {134},\n  pages = {546\u201354},\n  more-authors = {true},\n  number = {3},\n  language = {}\n}\n@misc{chan-a,\n  author = {Chan, J.F. and Yuan, S. and Kok, K.H.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{leung2004a,\n  author = {Leung, G.M. and Hedley, A.J. and Ho, L.M.},\n  title = {The epidemiology of severe acute respiratory syndrome in the 2003 Hong Kong epidemic: an analysis of all 1755 patients},\n  journal = {Ann Intern Med},\n  date = {2004},\n  volume = {141},\n  pages = {662\u201373},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{simonsen2013a,\n  author = {Simonsen, L. and Spreeuwenberg, P. and Lustig, R.},\n  title = {Global mortality estimates for the 2009 Influenza Pandemic from the GLaMOR project: a modeling study},\n  journal = {PLoS Med},\n  date = {2013},\n  volume = {10},\n  pages = {1001558},\n  more-authors = {true},\n  number = {11},\n  language = {}\n}\n@article{lau2010a,\n  author = {Lau, E.H. and Hsiung, C.A. and Cowling, B.J.},\n  title = {A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan},\n  journal = {BMC Infect Dis},\n  date = {2010},\n  volume = {10},\n  pages = {50},\n  more-authors = {true},\n  language = {}\n}\n@misc{du-a,\n  author = {Du, W. and Wang, L. and Cauchemez, S.},\n  title = {Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine MedRxiv 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{t2016a,\n  author = {T, International Ebola Response and J, Agua-Agum and A, Ariyarajah},\n  title = {Exposure Patterns Driving Ebola Transmission in West Africa: A Retrospective Observational Study},\n  journal = {PLoS Med},\n  date = {2016},\n  volume = {13},\n  pages = {1002170},\n  more-authors = {true},\n  number = {11},\n  language = {}\n}\n",
+        "emails": [
+            "kaiyuan.sun@nih.gov"
+        ],
+        "references_ris": "TY  - GEN\nAU  - W.H.O.\nTI  - WHO second emergency meeting statement. 2020\nUR  - https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-ofthe-international-health-regulations-\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rivers, C.\nAU  - Chretien, J.P.\nAU  - Riley, S.\nTI  - Using \"outbreak science\" to strengthen the use of models during epidemics\nT2  - Nat Commun\nPY  - 2019\nDA  - 2019\nVL  - 10\nSP  - 3102\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chowell, G.\nAU  - Bertozzi, S.M.\nAU  - Colchero, M.A.\nTI  - Severe respiratory disease concurrent with the circulation of H1N1 influenza\nT2  - N Engl J Med\nPY  - 2009\nDA  - 2009\nVL  - 361\nSP  - 674\nEP  - 9\nC1  - true\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chowell, G.\nAU  - Echevarria-Zuno, S.\nAU  - Viboud, C.\nTI  - Characterizing the epidemiology of the 2009 influenza A/H1N1 pandemic in Mexico\nT2  - PLoS Med\nPY  - 2011\nDA  - 2011\nVL  - 8\nSP  - 1000436\nC1  - true\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fraser, C.\nAU  - Donnelly, C.A.\nAU  - Cauchemez, S.\nTI  - Pandemic potential of a strain of influenza A (H1N1): early findings\nT2  - Science\nPY  - 2009\nDA  - 2009\nVL  - 324\nSP  - 1557\nEP  - 61\nC1  - true\nIS  - 5934\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lipsitch, M.\nAU  - Cohen, T.\nAU  - Cooper, B.\nTI  - Transmission dynamics and control of severe acute respiratory syndrome\nT2  - Science\nPY  - 2003\nDA  - 2003\nVL  - 300\nSP  - 1966\nEP  - 70\nC1  - true\nIS  - 5627\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cleaton, J.M.\nAU  - Viboud, C.\nAU  - Simonsen, L.\nAU  - Hurtado, A.M.\nAU  - Chowell, G.\nTI  - Characterizing Ebola Transmission Patterns Based on Internet News Reports\nT2  - Clin Infect Dis\nPY  - 2016\nDA  - 2016\nVL  - 62\nSP  - 24\nEP  - 31\nIS  - 1\nLA  - \nER  - \n\nTY  - CHAP\nTI  - DXY.cn. 2020\nUR  - https://en.wikipedia.org/wiki/DXY.cn.9.\nT2  - DXY.cn. Pneumonia.\nSP  - 3\nEP  - 5\nC1  - 2020.http:\nLA  - \nC1  - Wikipedia\nER  - \n\nTY  - GEN\nAU  - Vespignani, A.\nTI  - MOBS lab -- preliminary analysis of the 2019 coronavirus outbreak in Wuhan. 2020\nUR  - https://www.mobs-lab.org/2019ncov.html.\nLA  - \nER  - \n\nTY  - GEN\nAU  - IfHMa, Evaluation\nTI  - Global Burden of Disease Data\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lemaitre, M.\nAU  - Carrat, F.\nTI  - Comparative age distribution of influenza morbidity and mortality during seasonal influenza epidemics and the 2009 H1N1 pandemic\nT2  - BMC Infect Dis\nPY  - 2010\nDA  - 2010\nVL  - 10\nSP  - 162\nLA  - \nER  - \n\nTY  - CHAP\nTI  - Analysis IC-CfGID. News / Wuhan Coronavirus. 2020\nUR  - https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhancoronavirus/.14.\nC1  - CDC\nAU  - C.\nT2  - Wuhan coronavirus report\nC1  - 2020.http: //www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf.\nC1  - C.D.C.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Backer, J.\nAU  - Klinkenberg, D.\nAU  - Wallinga, J.\nTI  - The incubation period of 2019-nCoV infections among travellers from Wuhan, China. 2020\nUR  - https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Lessler, J.\nTI  - Incubation Period. 2020\nUR  - https://github.com/HopkinsIDD/ncov_incubation\nLA  - \nER  - \n\nTY  - GEN\nAU  - Sea, Zhao\nTI  - Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. 2020\nUR  - https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Greenbaum, A.H.\nAU  - Chen, J.\nAU  - Reed, C.\nTI  - Hospitalizations for severe lower respiratory tract infections\nT2  - Pediatrics\nPY  - 2014\nDA  - 2014\nVL  - 134\nSP  - 546\nEP  - 54\nC1  - true\nIS  - 3\nLA  - \nER  - \n\nTY  - GEN\nAU  - Chan, J.F.\nAU  - Yuan, S.\nAU  - Kok, K.H.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Leung, G.M.\nAU  - Hedley, A.J.\nAU  - Ho, L.M.\nTI  - The epidemiology of severe acute respiratory syndrome in the 2003 Hong Kong epidemic: an analysis of all 1755 patients\nT2  - Ann Intern Med\nPY  - 2004\nDA  - 2004\nVL  - 141\nSP  - 662\nEP  - 73\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Simonsen, L.\nAU  - Spreeuwenberg, P.\nAU  - Lustig, R.\nTI  - Global mortality estimates for the 2009 Influenza Pandemic from the GLaMOR project: a modeling study\nT2  - PLoS Med\nPY  - 2013\nDA  - 2013\nVL  - 10\nSP  - 1001558\nC1  - true\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lau, E.H.\nAU  - Hsiung, C.A.\nAU  - Cowling, B.J.\nTI  - A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan\nT2  - BMC Infect Dis\nPY  - 2010\nDA  - 2010\nVL  - 10\nSP  - 50\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Du, W.\nAU  - Wang, L.\nAU  - Cauchemez, S.\nTI  - Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine MedRxiv 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - T, International Ebola Response\nAU  - J, Agua-Agum\nAU  - A, Ariyarajah\nTI  - Exposure Patterns Driving Ebola Transmission in West Africa: A Retrospective Observational Study\nT2  - PLoS Med\nPY  - 2016\nDA  - 2016\nVL  - 13\nSP  - 1002170\nC1  - true\nIS  - 11\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In conclusion, crowdsourced epidemiological data can be useful to monitor emerging outbreaks, such as 2019-nCoV (see also 7 for a related study in the context of Ebola). These efforts can help generate and disseminate detailed information to the scientific community, particularly in the early stages of an outbreak when little else is available, enabling independent estimation of key parameter estimates that affect interventions. Based on our small sample of 2019-nCoV cases, we see an intriguing age distribution, reminiscent of that of SARS, which warrants further epidemiologic and serologic studies. We also report early signs that the response is strengthening in China based on a decrease in case detection time, and rapid management of travel-related cases that are identified internationally. As a caveat, this is an early report of a rapidly evolving situation and the parameters discussed here could change quickly. In the coming weeks, we will continue to monitor the epidemiology of this outbreak using data from news reports and official sources."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Characteristics of 2019-nCoVpatients included in the line list. Data are available here 10"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Age distribution of 288 2019-nCoVcases from crowdsourced data. Top: by disease outcome (alive/unknown or dead at time of reporting); vertical bars represent means. Bottom: Relative risk (RR) by 5-year age bands. The observed data is in green and the estimated RR in blue (blue dots=estimated RR, blue curve= spline-smoothed curve)"
+            },
+            {
+                "id": "2",
+                "caption": "Daily timeline of the 2019-nCoVepidemic based on crowdsourced data and official sources, by location. All data are by date of symptom onset. Cumulative curves are shown for the official China CDC data (first report available on Jan 29th, 2020, light blue), and for the crowdsourced data (dark blue). Histograms represent daily case count based on crowdsourced data for Wuhan (light green), mainland China non-Wuhan (darker green), and cases outside of mainland China (light blue)"
+            },
+            {
+                "id": "3",
+                "caption": "Daily timeline of the nCoV epidemic at provincial level, China, as of 01/30/2020. Curves are by date of reporting and sorted by total number of reported cases. The timeline for each province is reconstructed based on daily outbreak situation reports provided by provincial health authorities and posted on DXY.cn"
+            },
+            {
+                "id": "4",
+                "caption": "Lags between symptoms onset and hospitalization of 2019-nCoVcases, and between hospitalization and reporting, by location"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.01.31.20019935v1.full.pdf_66wtmtcv_okh9dz3l.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.01.31.20019935v1.full.pdf_66wtmtcv_images_ync8cijm/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.01.31.20019935v1.full.pdf_66wtmtcv_images_ync8cijm/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.01.31.20019935v1.full.pdf_66wtmtcv_images_ync8cijm/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.01.31.20019935v1.full.pdf_66wtmtcv_images_ync8cijm/img-003.png",
+            "https://sandbox-api.scholarcy.com/images/2020.01.31.20019935v1.full.pdf_66wtmtcv_images_ync8cijm/img-004.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "As the outbreak of novel 2019 coronavirus (2019-nCoV) is rapidly expanding in China and beyond, threatening to become a worldwide pandemic 1, there is a need for real-time analyses of epidemiological data to increase situational awareness and inform interventions 2. In the past, real-time analyses have shed light on the transmissibility, severity, and natural history of an emerging pathogen in the first few weeks of an outbreak [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>-<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Analyses of detailed line lists of patients are particularly useful to infer key epidemiologic parameters, such as the incubation and infectious periods, and lags in detection, isolation, and reporting of cases [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. However, individual patient data rarely become publicly available in the first weeks of an outbreak, when the information is most needed.<br/><br/>Building on prior experience collating news reports to monitor Ebola transmission 7, here we present an effort to compile individual patient information and subnational epidemic curves on 2019-nCoV from a variety of online resources. Data were made publicly available in real-time and were used by the infectious disease modeling community to generate and compare epidemiological estimates relevant for interventions. Here we describe the process to compile data and provide an early analysis of the demographics, hospitalization, and reporting lags, in different provinces of China and internationally as of Jan 30, 2020."
+        ],
+        "results": [
+            "Patients characteristics<br/><br/>Our line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1). The gender ratio was skewed towards male (63%). Within mainland China, there was a large representation of 5 of the 30 provinces, with 17% of cases reported from Hubei (capital, Wuhan), 13% from Shanxi, 8.8% from Tianjin, and 7% each from Yunnan and Beijing. Most cases had a travel history to Wuhan (42%) or where residents of Wuhan (44%), while 14% had no direct relation to Wuhan.<br/><br/>The age distribution of cases was skewed towards older age groups with a median of 44 years for cases who were alive or with unknown outcome at the time of reporting (Figure 1A). The median age of 2019-nCoVcases who had died at the time of reporting was 70 years. Few cases (n=7, 2.4%) were under 15 years of age. Adjustment for the age demographics of China confirmed a deficit of cases among children, with a RR below 0.3. in individuals under 15 years (Figure 1).The RR measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs."
+        ],
+        "discussion": [
+            "Information from patient line-lists is crucial but difficult to obtain at the beginning of an outbreak. Here we have shown that careful compilation of crowdsourced reports curated by a long-standing Chinese clinician network provides a valuable picture of the outbreak in real-time. The outbreak timeline is consistent with aggregated case counts provided by health authorities (for comparison, China CDC published the first epidemic curve by symptom onset on Jan 29, 2020 14). The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources. Crowdsourced data can contribute to assessment of the effectiveness of interventions and the potential for widespread local transmission beyond the initial foci of infection. In particular, shorter delays between symptoms onset and hospitalization accelerate detection and isolation of cases, effectively shortening the infectious period."
+        ]
+    },
+    "structured_content": {
+        "Introduction": [
+            "As the outbreak of novel 2019 coronavirus (2019-nCoV) is rapidly expanding in China and beyond, threatening to become a worldwide pandemic 1, there is a need for real-time analyses of epidemiological data to increase situational awareness and inform interventions 2. In the past, real-time analyses have shed light on the transmissibility, severity, and natural history of an emerging pathogen in the first few weeks of an outbreak [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>-<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Analyses of detailed line lists of patients are particularly useful to infer key epidemiologic parameters, such as the incubation and infectious periods, and lags in detection, isolation, and reporting of cases [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. However, individual patient data rarely become publicly available in the first weeks of an outbreak, when the information is most needed.",
+            "Building on prior experience collating news reports to monitor Ebola transmission 7, here we present an effort to compile individual patient information and subnational epidemic curves on 2019-nCoV from a variety of online resources. Data were made publicly available in real-time and were used by the infectious disease modeling community to generate and compare epidemiological estimates relevant for interventions. Here we describe the process to compile data and provide an early analysis of the demographics, hospitalization, and reporting lags, in different provinces of China and internationally as of Jan 30, 2020.",
+            "Method: 2019-nCoV data compilation: We used crowdsourced reports from DXY.cn, a Chinese online community network for physicians, health care professionals, pharmacies and healthcare facilities established in 2000 8. An online platform provides real-time coverage of the 2019-nCoV outbreak in China, obtained by collating and curating reports from news media, government TV, national and provincial health agencies. The information reported includes time-stamped cumulative case counts of 2019-nCoV, outbreak maps, and real-time streaming of health authority announcements in Chinese (directly or through state media) 9. Every report is linked to an on-line source, which can be followed through for more detailed information on individual cases.",
+            "We closely monitored updates on DXY.cn between Jan 20, 2020 and Jan 30, 2020 to extract key information on individual patients in near real-time, as well as daily reported case counts. For individual-level patient information, we used descriptions from the original source in Chinese to retrieve age, gender, province of identification, travel history, reporting date, date of symptom onset and hospitalization, and discharge status, when available. Individual level data were formatted into a line-list database for further quantitative analysis. Individual-level patient data were entered from DXY.cn by a native Chinese speaker (KS), who also generated an English summary for each case. Entries were doubled checked by a second person (JC). Since DXY.cn primarily provides information on cases reported in China, we also compiled additional information on internationally exported cases from global news media.",
+            "Further, we reconstructed the daily progression of reported cases in each province of China from Jan 18, 2020 to Jan 30, 2020. We used the daily outbreak situation reports communicated by provincial health authorities, covered by state TV and media, and posted on DXY.cn. All cases in our databases are laboratory confirmed 2019-nCoV patients.",
+            "The database was made available as a Google sheet disseminated via Twitter on Jan 21, 2020 and posted on a university website on Jan 24, 2020 10.",
+            "Statistical Analysis. We assessed the age distribution of 2019-nCoV cases by discharge status, adjusted for the demographics of the Chinese population. We used 2016 population estimates from the Institute for Health Metrics and Evaluation 11 to calculate the relative risk (RR) of 2019nCoV infection by age group, following Lemaitre et al 12. The RR for age group # is defined as:",
+            "$$% = '\u2211(% %(%* / '\u2211,% ,% %* Where (%is the number of cases in group # and ,% is the population of age group #.",
+            "To estimate trends in the strength of case detection and interventions, we analyzed delays between symptom onset and visit to a healthcare provider, at a hospital or clinic, and from hospitalization to reporting, by time period and location. We considered the period before and after Jan 18, 2020, when media attention and awareness of the outbreak became more pronounced 13. Further, intense travel restrictions in and out of the Wuhan region were put in place starting Jan 22, 2020 13."
+        ],
+        "Results": [
+            "Our line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1). The gender ratio was skewed towards male (63%). Within mainland China, there was a large representation of 5 of the 30 provinces, with 17% of cases reported from Hubei (capital, Wuhan), 13% from Shanxi, 8.8% from Tianjin, and 7% each from Yunnan and Beijing. Most cases had a travel history to Wuhan (42%) or where residents of Wuhan (44%), while 14% had no direct relation to Wuhan.",
+            "The age distribution of cases was skewed towards older age groups with a median of 44 years for cases who were alive or with unknown outcome at the time of reporting (Figure 1A). The median age of 2019-nCoVcases who had died at the time of reporting was 70 years. Few cases (n=7, 2.4%) were under 15 years of age. Adjustment for the age demographics of China confirmed a deficit of cases among children, with a RR below 0.3. in individuals under 15 years (Figure 1).The RR measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs.",
+            "Epidemic timelines in Mainland China, nationally and at provincial level A timeline of cases in our crowdsourced patient line list is shown by date of onset in Figure 2, indicating an acceleration of reported cases by Jan 13, 2020. The outbreak progression based on the crowdsourced patient line list is consistent with the timeline published by China CDC on Jan 29th, based on a more comprehensive database of more than 6,000 2019-nCoVcases (Figure 2). Comparison of cumulative curves shows that the crowdsourced dataset captured a larger fraction of the cases reported to China CDC before Jan 18, 2020 than in more recent days. The very recent slowing down of cumulative cases apparent in the crowdsourced and China CDC curves is likely a reflection of the delay between disease onset and reporting, estimated at a median of 5 days in our data (range 0-43 days).",
+            "The subnational growth of the epidemic in China is shown by reporting date in Figure 3. As of Jan 30, 2020, 14 of the 30 provinces had already reported more than 100 confirmed cases. The apparent rapid growth of newly reported cases in many of the provinces outside of Hubei is consistent with sustained local transmission.",
+            "Hospitalization and reporting delays in mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 3 days in mainland China (IQR 0-15 days) (Figure 4). This delay declined from 5 to 2 days before and after Jan 18, 2020 (Wilcoxon test, p=0.03). Some provinces, such as Tianjin and Yunnan had shorter delays, while the early cases from Wuhan were characterized by longer seeking care delays. The median delay between hospitalization and reporting was 3 days (IQR [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] days) in mainland China and declined from 9 to 2 days after Jan 18th, 2020 (Wilcoxon test, P<0.0001, Figure 4). Similar to hospitalization delays, reporting was quickest in Tianjin and Yunnan and slowest in Hubei province.",
+            "Hospitalization and reporting delays for international travelers outside mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 0 days (range 0-9 days) for international travelers, shorter than for cases in Hubei or the rest of mainland China (Kruskal Wallis test, p<0.0001, Figure 4). Even in the period after Jan 18, 2020, when awareness of the outbreak increased, there was a shorter hospitalization delay for international cases than for those from mainland China (p<0.001). Further, for international cases, the delay between hospitalization and reporting was 2 days (IQR 0-12 days), also shorter than for mainland China (p<0.0001)."
+        ],
+        "Discussion": [
+            "Information from patient line-lists is crucial but difficult to obtain at the beginning of an outbreak. Here we have shown that careful compilation of crowdsourced reports curated by a long-standing Chinese clinician network provides a valuable picture of the outbreak in real-time. The outbreak timeline is consistent with aggregated case counts provided by health authorities (for comparison, China CDC published the first epidemic curve by symptom onset on Jan 29, 2020 14). The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources. Crowdsourced data can contribute to assessment of the effectiveness of interventions and the potential for widespread local transmission beyond the initial foci of infection. In particular, shorter delays between symptoms onset and hospitalization accelerate detection and isolation of cases, effectively shortening the infectious period.",
+            "Perhaps the most useful feature of our crowdsourced database was a careful curation of travel histories for patients returning from Wuhan, which, along with dates of symptom onset, allowed for precise estimation of the incubation period [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>,<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. A narrow window of exposure can be defined for a subset of cases who had a short stay in Wuhan, at a time when the epidemic was still localized to Wuhan. Several teams have used ours and other datasets to estimate an incubation period of [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] days for 2019-nCoV (95% CI [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] dys) 15-18. This is a useful parameter to guide isolation and contact tracing; the disease status of a contact should be known with near certainty after a period of observation of 14 days 15. Availability of a public dataset enables independent estimation of important epidemiological parameters by several modeling teams, allowing for confirmation and cross-checking at a time when information can be conflicting and noisy.",
+            "Another interesting finding in our data is the age distribution of cases. There is a heavy skew of reported 2019-nCoV cases towards older age groups, with a marked deficit of children. This pattern could point at age-related differences in susceptibility to infection, severe outcomes, or behavior. On one hand, a substantial portion of the cases in our database are from travelers, a population which tends to be skewed towards adults (although it does not exclude children). Further, because cases in our dataset were captured by the health system, they are biased towards the more severe spectrum of the disease, especially for cases from Mainland China. Clinical reports have shown that 2019nCoV severity is associated with the presence of chronic conditions [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>,<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>], which are more frequent in older age groups. Nevertheless, we would also expect very young patients to be at risk of severe outcomes and to be reported to the healthcare system, as is seen for other respiratory infections 20.",
+            "Biological differences could play a role in driving these age profiles. Detailed analysis of one of the early 2019-nCoV clusters suggests that all household members were infected, except for a baby, hinting at true biological differences in the risk of infection driven by age 21. It has been speculated that prior immunity from infection with related coronaviruses may protect children from SARS infection 22, which could also play a role for 2019-nCoV. In any case, if the age distribution of cases reported here was to be confirmed and the epidemic were to progress regionally and globally, we would expect a rise in respiratory mortality concentrated among ages 30 and above. This mortality pattern would be markedly different from the profile of 2009 influenza pandemic, where excess mortality was concentrated in those under 65 years 23.",
+            "The age profile of 2019-nCoVcases is reminiscent of SARS infections, for which a deficit of children was also noted [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>,<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]. The SARS epidemic was characterized by a concentration of cases among health care workers due to super-spreading events occurring in healthcare facilities 22. We do not see a large fraction of health care workers in the data currently available for 2019-nCoV, although one large cluster was reported in Wuhan (not captured in our data).",
+            "Based on our data, the timeline of the outbreak indicates rapid growth in several provinces of China, consistent with local transmission outside of Wuhan. At this point, province-level epidemic curves are only available by date of reporting, rather than date of symptoms, which tends to inflate recent case counts if detection has increased. Further, these province-level curves include both returning travelers from Wuhan (importations) and locally acquired cases, which contribute to overestimate the potential for local transmission. It is worth noting that other lines of evidence suggest that local transmission is now well-established outside of Wuhan, as travel increased just before the Chinese New Year and before the ban was implemented in Wuhan [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>,<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]. Accordingly, in our line list, we have information on a few local transmission clusters reported outside of Wuhan. For instance, there is evidence of second-generation transmission in Shanxi on Jan 21, 2020.",
+            "We recognize that our data source is useful and timely but should not replace official statistics. Manual compilation of detailed line lists from media sources is highly time consuming, and it is not sustainable when case counts reach several thousands. Here we provide detailed data on 288 patients when the official case count is over 7000 (as of Jan 30, 2020) 10, representing a sample of ~4% of all reported cases. At the time of this writing, efforts are underway to coordinate compilation of 2019-nCoV cases from on-line sources across various modeling teams. Ultimately, we expect that a line list of patients will be shared by government sources with the global community; however, data cleaning and access issues may take prohibitively long to resolve. For the West African Ebola outbreak, it took 2 years until publication of a line list 26. Given the progression of the 2019-nCoV outbreak, such a long delay would be counterproductive.",
+            "In conclusion, crowdsourced epidemiological data can be useful to monitor emerging outbreaks, such as 2019-nCoV (see also 7 for a related study in the context of Ebola). These efforts can help generate and disseminate detailed information to the scientific community, particularly in the early stages of an outbreak when little else is available, enabling independent estimation of key parameter estimates that affect interventions. Based on our small sample of 2019-nCoV cases, we see an intriguing age distribution, reminiscent of that of SARS, which warrants further epidemiologic and serologic studies. We also report early signs that the response is strengthening in China based on a decrease in case detection time, and rapid management of travel-related cases that are identified internationally. As a caveat, this is an early report of a rapidly evolving situation and the parameters discussed here could change quickly. In the coming weeks, we will continue to monitor the epidemiology of this outbreak using data from news reports and official sources."
+        ],
+        "References": [
+            "1. WHO. WHO second emergency meeting statement. 2020. https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-ofthe-international-health-regulations-(2005)-emergency-committee-regarding-theoutbreak-of-novel-coronavirus-(2019-ncov). 2. Rivers C, Chretien JP, Riley S, et al Using \"outbreak science\" to strengthen the use of models during epidemics. Nat Commun 2019; 10(1): 3102. 3. Chowell G, Bertozzi SM, Colchero MA, et al Severe respiratory disease concurrent with the circulation of H1N1 influenza. N Engl J Med 2009; 361(7): 674-9. 4. Chowell G, Echevarria-Zuno S, Viboud C, et al Characterizing the epidemiology of the 2009 influenza A/H1N1 pandemic in Mexico. PLoS Med 2011; 8(5): e1000436. 5. Fraser C, Donnelly CA, Cauchemez S, et al Pandemic potential of a strain of influenza A (H1N1): early findings. Science 2009; 324(5934): 1557-61. 6. Lipsitch M, Cohen T, Cooper B, et al Transmission dynamics and control of severe acute respiratory syndrome. Science 2003; 300(5627): 1966-70.",
+            "7. Cleaton JM, Viboud C, Simonsen L, Hurtado AM, Chowell G. Characterizing Ebola Transmission Patterns Based on Internet News Reports. Clin Infect Dis 2016; 62(1): 24-31. 8. Wikipedia. DXY.cn. 2020. https://en.wikipedia.org/wiki/DXY.cn. 9. DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia. 10. Vespignani A. MOBS lab -- preliminary analysis of the 2019 coronavirus outbreak in Wuhan. 2020. https://www.mobs-lab.org/2019ncov.html. 11. Evaluation IfHMa. Global Burden of Disease Data. 2020. 12. Lemaitre M, Carrat F. Comparative age distribution of influenza morbidity and mortality during seasonal influenza epidemics and the 2009 H1N1 pandemic. BMC Infect Dis 2010; 10: 162. 13. Analysis IC-CfGID. News / Wuhan Coronavirus. 2020. https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhancoronavirus/. 14. CDC C. Wuhan coronavirus report. 2020. http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf. 15. Backer J, Klinkenberg D, Wallinga J. The incubation period of 2019-nCoV infections among travellers from Wuhan, China. 2020. https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1. 16. Lessler J. Incubation Period. 2020. https://github.com/HopkinsIDD/ncov_incubation",
+            "17. Zhao Sea. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. 2020. https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1. 18. Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020. 19. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020. 20. Greenbaum AH, Chen J, Reed C, et al Hospitalizations for severe lower respiratory tract infections. Pediatrics 2014; 134(3): 546-54. 21. Chan JF, Yuan S, Kok KH, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020. 22. Leung GM, Hedley AJ, Ho LM, et al The epidemiology of severe acute respiratory syndrome in the 2003 Hong Kong epidemic: an analysis of all 1755 patients. Ann Intern Med 2004; 141(9): 662-73. 23. Simonsen L, Spreeuwenberg P, Lustig R, et al Global mortality estimates for the 2009 Influenza Pandemic from the GLaMOR project: a modeling study. PLoS Med 2013; 10(11): e1001558. 24. Lau EH, Hsiung CA, Cowling BJ, et al A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan. BMC Infect Dis 2010; 10: 50. 25. Du W, Wang L, Cauchemez S, et al Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine MedRxiv 2020. 26. International Ebola Response T, Agua-Agum J, Ariyarajah A, et al Exposure Patterns Driving Ebola Transmission in West Africa: A Retrospective Observational Study. PLoS Med 2016; 13(11): e1002170.",
+            "Table 1: Characteristics of 2019-nCoVpatients included in the line list. Data are available here 10.",
+            "Characteristics Age: median (range) in yrs Sex: Male Location",
+            "Mainland China Hubei*, China Shanxi, China Tianjin, China Yunnan, China Beijing, China Outside Mainland China Relation to Wuhan Visited Wuhan Wuhan Resident None Disease Outcome: death at time of reporting",
+            "Patients (N=288) 49 (2-89) 62.3% (172)",
+            "68.4% (197) 14.2% (41) 12.5% (36) 7.6% (22) 6.6% (19) 6.2% (18) 31.6% (91)",
+            "42% (119) 44% (127) 14% (41) 13.5% (39)",
+            "*Including 32 from Wuhan",
+            "Figure 1: Age distribution of 288 2019-nCoVcases from crowdsourced data. Top: by disease outcome (alive/unknown or dead at time of reporting); vertical bars represent means. Bottom: Relative risk (RR) by 5-year age bands. The observed data is in green and the estimated RR in blue (blue dots=estimated RR, blue curve= spline-smoothed curve)",
+            "Figure 2: Daily timeline of the 2019-nCoVepidemic based on crowdsourced data and official sources, by location. All data are by date of symptom onset. Cumulative curves are shown for the official China CDC data (first report available on Jan 29th, 2020, light blue), and for the crowdsourced data (dark blue). Histograms represent daily case count based on crowdsourced data for Wuhan (light green), mainland China non-Wuhan (darker green), and cases outside of mainland China (light blue).",
+            "Figure 3: Daily timeline of the nCoV epidemic at provincial level, China, as of 01/30/2020. Curves are by date of reporting and sorted by total number of reported cases. The timeline for each province is reconstructed based on daily outbreak situation reports provided by provincial health authorities and posted on DXY.cn.",
+            "Figure 4: Lags between symptoms onset and hospitalization of 2019-nCoVcases, and between hospitalization and reporting, by location."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 288,
+            "context": "We compiled a line list of patients reported in China and internationally and daily case counts by Chinese province. <mark class=\"stats\">We describe the demographics, hospitalization and reporting delays for 288 patients, over time and geographically</mark>. We find a decrease in case detection lags in provinces outside of Wuhan and internationally, compared to Wuhan, and after Jan 18, 2020, as outbreak awareness increased"
+        },
+        {
+            "participant": "cases",
+            "number": 288,
+            "context": "Results Patients characteristics. <mark class=\"stats\">Our line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1)</mark>. The gender ratio was skewed towards male (63%)"
+        },
+        {
+            "participant": "cases",
+            "number": 7,
+            "context": "The median age of 2019-nCoVcases who had died at the time of reporting was 70 years. <mark class=\"stats\">Few cases (n=7, 2.4%) were under 15 years of age</mark>. Adjustment for the age demographics of China confirmed a deficit of cases among children, with a RR below 0.3. in individuals under 15 years (Figure 1).The RR measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 100,
+            "context": "The subnational growth of the epidemic in China is shown by reporting date in Figure 3. <mark class=\"stats\">As of Jan 30, 2020, 14 of the 30 provinces had already reported more than 100 confirmed cases</mark>. The apparent rapid growth of newly reported cases in many of the provinces outside of Hubei is consistent with sustained local transmission"
+        },
+        {
+            "participant": "patients",
+            "number": 288,
+            "context": "Manual compilation of detailed line lists from media sources is highly time consuming, and it is not sustainable when case counts reach several thousands. <mark class=\"stats\">Here we provide detailed data on 288 patients when the official case count is over 7000 (as of Jan 30, 2020) 10, representing a sample of ~4% of all reported cases</mark>. At the time of this writing, efforts are underway to coordinate compilation of 2019-nCoV cases from on-line sources across various modeling teams"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We used 2016 population estimates from the Institute for Health Metrics and Evaluation 11 to calculate the relative risk (RR) of 2019nCoV infection by age group, following Lemaitre et al 12</mark>",
+                "tests": [
+                    {
+                        "test": "relative risk"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p=0.03",
+            "context": "Hospitalization and reporting delays in mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 3 days in mainland China (IQR 0-15 days) (Figure 4). <mark class=\"stats\">This delay declined from 5 to 2 days before and after Jan 18, 2020 (Wilcoxon test, p=0.03)</mark>. Some provinces, such as Tianjin and Yunnan had shorter delays, while the early cases from Wuhan were characterized by longer seeking care delays",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Wilcoxon test",
+                        "value": "p=0.03"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P<0.0001",
+            "context": "Some provinces, such as Tianjin and Yunnan had shorter delays, while the early cases from Wuhan were characterized by longer seeking care delays. <mark class=\"stats\">The median delay between hospitalization and reporting was 3 days (IQR 2-5 days) in mainland China and declined from 9 to 2 days after Jan 18th, 2020 (Wilcoxon test, P<0.0001, Figure 4)</mark>. Similar to hospitalization delays, reporting was quickest in Tianjin and Yunnan and slowest in Hubei province",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Wilcoxon test",
+                        "value": "P<0.0001"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.0001",
+            "context": "Similar to hospitalization delays, reporting was quickest in Tianjin and Yunnan and slowest in Hubei province. <mark class=\"stats\">Hospitalization and reporting delays for international travelers outside mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 0 days (range 0-9 days) for international travelers, shorter than for cases in Hubei or the rest of mainland China (Kruskal Wallis test, p<0.0001, Figure 4)</mark>. Even in the period after Jan 18, 2020, when awareness of the outbreak increased, there was a shorter hospitalization delay for international cases than for those from mainland China (p<0.001)",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Kruskal Wallis test",
+                        "value": "p<0.0001"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.001",
+            "context": "Hospitalization and reporting delays for international travelers outside mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 0 days (range 0-9 days) for international travelers, shorter than for cases in Hubei or the rest of mainland China (Kruskal Wallis test, p<0.0001, Figure 4). <mark class=\"stats\">Even in the period after Jan 18, 2020, when awareness of the outbreak increased, there was a shorter hospitalization delay for international cases than for those from mainland China (p<0.001)</mark>. Further, for international cases, the delay between hospitalization and reporting was 2 days (IQR 0-12 days), also shorter than for mainland China (p<0.0001)"
+        },
+        {
+            "p_value": "p<0.0001",
+            "context": "Even in the period after Jan 18, 2020, when awareness of the outbreak increased, there was a shorter hospitalization delay for international cases than for those from mainland China (p<0.001). <mark class=\"stats\">Further, for international cases, the delay between hospitalization and reporting was 2 days (IQR 0-12 days), also shorter than for mainland China (p<0.0001)</mark>. Discussion Information from patient line-lists is crucial but difficult to obtain at the beginning of an outbreak"
+        }
+    ],
+    "keywords": [
+        "news report",
+        "real time",
+        "situational awareness",
+        "H1N1",
+        "symptom onset",
+        "case count",
+        "relative risk",
+        "Resident None disease",
+        "line list",
+        "coronavirus",
+        "ebola transmission",
+        "epidemiological datum",
+        "local transmission",
+        "time analysis",
+        "different province",
+        "reporting delay"
+    ],
+    "keyword_relevance": {
+        "coronavirus": 0.1714285714,
+        "line list": 0.1571428571,
+        "case count": 0.1285714286,
+        "symptom onset": 0.1142857143,
+        "relative risk": 0.1142857143,
+        "local transmission": 0.1,
+        "H1N1": 0.0571428571,
+        "reporting delay": 0.0571428571,
+        "news report": 0.0428571429,
+        "situational awareness": 0.0285714286,
+        "different province": 0.0285714286,
+        "real time": 0.0,
+        "Resident None disease": 0.0,
+        "ebola transmission": 0.0,
+        "epidemiological datum": 0.0,
+        "time analysis": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> As the outbreak of novel 2019 coronavirus (2019-nCoV) is rapidly expanding in China and beyond, threatening to become a worldwide pandemic 1, there is a need for real-time analyses of epidemiological data to increase situational awareness and inform interventions 2.",
+        "Individual patient data rarely become publicly available in the first weeks of an outbreak, when the information is most needed.",
+        "Data were made publicly available in real-time and were used by the infectious disease modeling community to generate and compare epidemiological estimates relevant for interventions.",
+        "The authors describe the process to compile data and provide an early analysis of the demographics, hospitalization, and reporting lags, in different provinces of China and internationally as of Jan 30, 2020",
+        "<h2 style=\"display: inline\">Results:</h2> Patients characteristics<br/><br/>The authors' line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1).",
+        "Within mainland China, there was a large representation of 5 of the 30 provinces, with 17% of cases reported from Hubei, 13% from Shanxi, 8.8% from Tianjin, and 7% each from Yunnan and Beijing.",
+        "The age distribution of cases was skewed towards older age groups with a median of 44 years for cases who were alive or with unknown outcome at the time of reporting (Figure 1A).",
+        "The median age of 2019-nCoVcases who had died at the time of reporting was 70 years.",
+        "Adjustment for the age demographics of China confirmed a deficit of cases among children, with a RR below 0.3. in individuals under 15 years (Figure 1).The RR measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Information from patient line-lists is crucial but difficult to obtain at the beginning of an outbreak.",
+        "The outbreak timeline is consistent with aggregated case counts provided by health authorities.",
+        "The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources.",
+        "Shorter delays between symptoms onset and hospitalization accelerate detection and isolation of cases, effectively shortening the infectious period"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "As the outbreak of novel 2019 coronavirus (2019-nCoV) is rapidly expanding in China and beyond, threatening to become a worldwide pandemic 1, there is a need for real-time analyses of epidemiological data to increase situational awareness and inform interventions 2.",
+            "Individual patient data rarely become publicly available in the first weeks of an outbreak, when the information is most needed.",
+            "Data were made publicly available in real-time and were used by the infectious disease modeling community to generate and compare epidemiological estimates relevant for interventions.",
+            "The authors describe the process to compile data and provide an early analysis of the demographics, hospitalization, and reporting lags, in different provinces of China and internationally as of Jan 30, 2020"
+        ],
+        "Results": [
+            "Patients characteristics<br/><br/>The authors' line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1).",
+            "Within mainland China, there was a large representation of 5 of the 30 provinces, with 17% of cases reported from Hubei, 13% from Shanxi, 8.8% from Tianjin, and 7% each from Yunnan and Beijing.",
+            "The age distribution of cases was skewed towards older age groups with a median of 44 years for cases who were alive or with unknown outcome at the time of reporting (Figure 1A).",
+            "The median age of 2019-nCoVcases who had died at the time of reporting was 70 years.",
+            "Adjustment for the age demographics of China confirmed a deficit of cases among children, with a RR below 0.3. in individuals under 15 years (Figure 1).The RR measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs"
+        ],
+        "Conclusion": [
+            "Information from patient line-lists is crucial but difficult to obtain at the beginning of an outbreak.",
+            "The outbreak timeline is consistent with aggregated case counts provided by health authorities.",
+            "The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources.",
+            "Shorter delays between symptoms onset and hospitalization accelerate detection and isolation of cases, effectively shortening the infectious period"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "W_2020_a",
+            "entry": "1. WHO. WHO second emergency meeting statement. 2020. https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-ofthe-international-health-regulations-(2005)-emergency-committee-regarding-theoutbreak-of-novel-coronavirus-(2019-ncov).",
+            "url": "https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-ofthe-international-health-regulations-(2005)-emergency-committee-regarding-theoutbreak-of-novel-coronavirus-(2019-ncov"
+        },
+        {
+            "id": "2",
+            "alt_id": "Rivers_et+al_2019_a",
+            "entry": "2. Rivers C, Chretien JP, Riley S, et al. Using \"outbreak science\" to strengthen the use of models during epidemics. Nat Commun 2019; 10(1): 3102.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rivers%2C%20C.%20Chretien%2C%20J.P.%20Riley%2C%20S.%20Using%20%22outbreak%20science%22%20to%20strengthen%20the%20use%20of%20models%20during%20epidemics%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rivers%2C%20C.%20Chretien%2C%20J.P.%20Riley%2C%20S.%20Using%20%22outbreak%20science%22%20to%20strengthen%20the%20use%20of%20models%20during%20epidemics%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rivers%2C%20C.%20Chretien%2C%20J.P.%20Riley%2C%20S.%20Using%20%22outbreak%20science%22%20to%20strengthen%20the%20use%20of%20models%20during%20epidemics%202019"
+        },
+        {
+            "id": "3",
+            "alt_id": "Chowell_et+al_2009_a",
+            "entry": "3. Chowell G, Bertozzi SM, Colchero MA, et al. Severe respiratory disease concurrent with the circulation of H1N1 influenza. N Engl J Med 2009; 361(7): 674-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chowell%2C%20G.%20Bertozzi%2C%20S.M.%20Colchero%2C%20M.A.%20Severe%20respiratory%20disease%20concurrent%20with%20the%20circulation%20of%20H1N1%20influenza%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chowell%2C%20G.%20Bertozzi%2C%20S.M.%20Colchero%2C%20M.A.%20Severe%20respiratory%20disease%20concurrent%20with%20the%20circulation%20of%20H1N1%20influenza%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chowell%2C%20G.%20Bertozzi%2C%20S.M.%20Colchero%2C%20M.A.%20Severe%20respiratory%20disease%20concurrent%20with%20the%20circulation%20of%20H1N1%20influenza%202009"
+        },
+        {
+            "id": "4",
+            "alt_id": "Chowell_et+al_2011_a",
+            "entry": "4. Chowell G, Echevarria-Zuno S, Viboud C, et al. Characterizing the epidemiology of the 2009 influenza A/H1N1 pandemic in Mexico. PLoS Med 2011; 8(5): e1000436.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chowell%20G%20EchevarriaZuno%20S%20Viboud%20C%20et%20al%20Characterizing%20the%20epidemiology%20of%20the%202009%20influenza%20AH1N1%20pandemic%20in%20Mexico%20PLoS%20Med%202011%2085%20e1000436",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chowell%20G%20EchevarriaZuno%20S%20Viboud%20C%20et%20al%20Characterizing%20the%20epidemiology%20of%20the%202009%20influenza%20AH1N1%20pandemic%20in%20Mexico%20PLoS%20Med%202011%2085%20e1000436",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chowell%20G%20EchevarriaZuno%20S%20Viboud%20C%20et%20al%20Characterizing%20the%20epidemiology%20of%20the%202009%20influenza%20AH1N1%20pandemic%20in%20Mexico%20PLoS%20Med%202011%2085%20e1000436"
+        },
+        {
+            "id": "5",
+            "alt_id": "Fraser_et+al_2009_a",
+            "entry": "5. Fraser C, Donnelly CA, Cauchemez S, et al. Pandemic potential of a strain of influenza A (H1N1): early findings. Science 2009; 324(5934): 1557-61.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fraser%2C%20C.%20Donnelly%2C%20C.A.%20Cauchemez%2C%20S.%20Pandemic%20potential%20of%20a%20strain%20of%20influenza%20A%20%28H1N1%29%3A%20early%20findings%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fraser%2C%20C.%20Donnelly%2C%20C.A.%20Cauchemez%2C%20S.%20Pandemic%20potential%20of%20a%20strain%20of%20influenza%20A%20%28H1N1%29%3A%20early%20findings%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fraser%2C%20C.%20Donnelly%2C%20C.A.%20Cauchemez%2C%20S.%20Pandemic%20potential%20of%20a%20strain%20of%20influenza%20A%20%28H1N1%29%3A%20early%20findings%202009"
+        },
+        {
+            "id": "6",
+            "alt_id": "Lipsitch_et+al_2003_a",
+            "entry": "6. Lipsitch M, Cohen T, Cooper B, et al. Transmission dynamics and control of severe acute respiratory syndrome. Science 2003; 300(5627): 1966-70.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003"
+        },
+        {
+            "id": "7",
+            "alt_id": "Cleaton_et+al_2016_a",
+            "entry": "7. Cleaton JM, Viboud C, Simonsen L, Hurtado AM, Chowell G. Characterizing Ebola Transmission Patterns Based on Internet News Reports. Clin Infect Dis 2016; 62(1): 24-31.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cleaton%2C%20J.M.%20Viboud%2C%20C.%20Simonsen%2C%20L.%20Hurtado%2C%20A.M.%20Characterizing%20Ebola%20Transmission%20Patterns%20Based%20on%20Internet%20News%20Reports%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cleaton%2C%20J.M.%20Viboud%2C%20C.%20Simonsen%2C%20L.%20Hurtado%2C%20A.M.%20Characterizing%20Ebola%20Transmission%20Patterns%20Based%20on%20Internet%20News%20Reports%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cleaton%2C%20J.M.%20Viboud%2C%20C.%20Simonsen%2C%20L.%20Hurtado%2C%20A.M.%20Characterizing%20Ebola%20Transmission%20Patterns%20Based%20on%20Internet%20News%20Reports%202016"
+        },
+        {
+            "id": "8",
+            "alt_id": "8._2020_a",
+            "entry": "8. Wikipedia. DXY.cn. 2020. https://en.wikipedia.org/wiki/DXY.cn.9. DXY.cn. Pneumonia.2020.http://3g.dxy.cn/newh5/view/pneumonia.",
+            "url": "https://en.wikipedia.org/wiki/DXY.cn.9",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wikipedia%20DXYcn%202020%20httpsenwikipediaorgwikiDXYcn9%20DXYcn%20Pneumonia2020http3gdxycnnewh5viewpneumonia",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wikipedia%20DXYcn%202020%20httpsenwikipediaorgwikiDXYcn9%20DXYcn%20Pneumonia2020http3gdxycnnewh5viewpneumonia"
+        },
+        {
+            "id": "10",
+            "alt_id": "Vespignani_2019_a",
+            "entry": "10. Vespignani A. MOBS lab -- preliminary analysis of the 2019 coronavirus outbreak in Wuhan. 2020. https://www.mobs-lab.org/2019ncov.html.",
+            "url": "https://www.mobs-lab.org/2019ncov.html"
+        },
+        {
+            "id": "11",
+            "alt_id": "Ifhma_2020_a",
+            "entry": "11. Evaluation IfHMa. Global Burden of Disease Data. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=IfHMa%2C%20Evaluation%20Global%20Burden%20of%20Disease%20Data%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Lemaitre_2010_a",
+            "entry": "12. Lemaitre M, Carrat F. Comparative age distribution of influenza morbidity and mortality during seasonal influenza epidemics and the 2009 H1N1 pandemic. BMC Infect Dis 2010; 10: 162.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lemaitre%20M%20Carrat%20F%20Comparative%20age%20distribution%20of%20influenza%20morbidity%20and%20mortality%20during%20seasonal%20influenza%20epidemics%20and%20the%202009%20H1N1%20pandemic%20BMC%20Infect%20Dis%202010%2010%20162",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lemaitre%20M%20Carrat%20F%20Comparative%20age%20distribution%20of%20influenza%20morbidity%20and%20mortality%20during%20seasonal%20influenza%20epidemics%20and%20the%202009%20H1N1%20pandemic%20BMC%20Infect%20Dis%202010%2010%20162",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lemaitre%20M%20Carrat%20F%20Comparative%20age%20distribution%20of%20influenza%20morbidity%20and%20mortality%20during%20seasonal%20influenza%20epidemics%20and%20the%202009%20H1N1%20pandemic%20BMC%20Infect%20Dis%202010%2010%20162"
+        },
+        {
+            "id": "13",
+            "alt_id": "C_2020_a",
+            "entry": "13. Analysis IC-CfGID. News / Wuhan Coronavirus. 2020. https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhancoronavirus/.14. CDC C. Wuhan coronavirus report.2020.http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf.",
+            "url": "https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhancoronavirus/.14",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Analysis%20ICCfGID%20News%20%20Wuhan%20Coronavirus%202020%20httpswwwimperialacukmrcglobalinfectiousdiseaseanalysisnewswuhancoronavirus14%20CDC%20C%20Wuhan%20coronavirus%20report2020httpwwwchinacdccnyyrdgz202001P020200128523354919292pdf",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Analysis%20ICCfGID%20News%20%20Wuhan%20Coronavirus%202020%20httpswwwimperialacukmrcglobalinfectiousdiseaseanalysisnewswuhancoronavirus14%20CDC%20C%20Wuhan%20coronavirus%20report2020httpwwwchinacdccnyyrdgz202001P020200128523354919292pdf"
+        },
+        {
+            "id": "15",
+            "alt_id": "Backer_et+al_2019_a",
+            "entry": "15. Backer J, Klinkenberg D, Wallinga J. The incubation period of 2019-nCoV infections among travellers from Wuhan, China. 2020. https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.",
+            "url": "https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1"
+        },
+        {
+            "id": "16",
+            "alt_id": "Lessler_2020_a",
+            "entry": "16. Lessler J. Incubation Period. 2020. https://github.com/HopkinsIDD/ncov_incubation",
+            "url": "https://github.com/HopkinsIDD/ncov_incubation"
+        },
+        {
+            "id": "17",
+            "alt_id": "Sea_2019_a",
+            "entry": "17. Zhao Sea. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. 2020. https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1.",
+            "url": "https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1"
+        },
+        {
+            "id": "18",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "18. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "19",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "19. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020"
+        },
+        {
+            "id": "20",
+            "alt_id": "Greenbaum_et+al_2014_a",
+            "entry": "20. Greenbaum AH, Chen J, Reed C, et al. Hospitalizations for severe lower respiratory tract infections. Pediatrics 2014; 134(3): 546-54.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Greenbaum%2C%20A.H.%20Chen%2C%20J.%20Reed%2C%20C.%20Hospitalizations%20for%20severe%20lower%20respiratory%20tract%20infections%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Greenbaum%2C%20A.H.%20Chen%2C%20J.%20Reed%2C%20C.%20Hospitalizations%20for%20severe%20lower%20respiratory%20tract%20infections%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Greenbaum%2C%20A.H.%20Chen%2C%20J.%20Reed%2C%20C.%20Hospitalizations%20for%20severe%20lower%20respiratory%20tract%20infections%202014"
+        },
+        {
+            "id": "21",
+            "alt_id": "Chan_et+al_2019_a",
+            "entry": "21. Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020"
+        },
+        {
+            "id": "22",
+            "alt_id": "Leung_et+al_2004_a",
+            "entry": "22. Leung GM, Hedley AJ, Ho LM, et al. The epidemiology of severe acute respiratory syndrome in the 2003 Hong Kong epidemic: an analysis of all 1755 patients. Ann Intern Med 2004; 141(9): 662-73.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Leung%20GM%20Hedley%20AJ%20Ho%20LM%20et%20al%20The%20epidemiology%20of%20severe%20acute%20respiratory%20syndrome%20in%20the%202003%20Hong%20Kong%20epidemic%20an%20analysis%20of%20all%201755%20patients%20Ann%20Intern%20Med%202004%201419%2066273",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Leung%20GM%20Hedley%20AJ%20Ho%20LM%20et%20al%20The%20epidemiology%20of%20severe%20acute%20respiratory%20syndrome%20in%20the%202003%20Hong%20Kong%20epidemic%20an%20analysis%20of%20all%201755%20patients%20Ann%20Intern%20Med%202004%201419%2066273",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Leung%20GM%20Hedley%20AJ%20Ho%20LM%20et%20al%20The%20epidemiology%20of%20severe%20acute%20respiratory%20syndrome%20in%20the%202003%20Hong%20Kong%20epidemic%20an%20analysis%20of%20all%201755%20patients%20Ann%20Intern%20Med%202004%201419%2066273"
+        },
+        {
+            "id": "23",
+            "alt_id": "Simonsen_et+al_2013_a",
+            "entry": "23. Simonsen L, Spreeuwenberg P, Lustig R, et al. Global mortality estimates for the 2009 Influenza Pandemic from the GLaMOR project: a modeling study. PLoS Med 2013; 10(11): e1001558.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Simonsen%20L%20Spreeuwenberg%20P%20Lustig%20R%20et%20al%20Global%20mortality%20estimates%20for%20the%202009%20Influenza%20Pandemic%20from%20the%20GLaMOR%20project%20a%20modeling%20study%20PLoS%20Med%202013%201011%20e1001558",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Simonsen%20L%20Spreeuwenberg%20P%20Lustig%20R%20et%20al%20Global%20mortality%20estimates%20for%20the%202009%20Influenza%20Pandemic%20from%20the%20GLaMOR%20project%20a%20modeling%20study%20PLoS%20Med%202013%201011%20e1001558",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Simonsen%20L%20Spreeuwenberg%20P%20Lustig%20R%20et%20al%20Global%20mortality%20estimates%20for%20the%202009%20Influenza%20Pandemic%20from%20the%20GLaMOR%20project%20a%20modeling%20study%20PLoS%20Med%202013%201011%20e1001558"
+        },
+        {
+            "id": "24",
+            "alt_id": "Lau_et+al_2010_a",
+            "entry": "24. Lau EH, Hsiung CA, Cowling BJ, et al. A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan. BMC Infect Dis 2010; 10: 50.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20E.H.%20Hsiung%2C%20C.A.%20Cowling%2C%20B.J.%20A%20comparative%20epidemiologic%20analysis%20of%20SARS%20in%20Hong%20Kong%2C%20Beijing%20and%20Taiwan%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20E.H.%20Hsiung%2C%20C.A.%20Cowling%2C%20B.J.%20A%20comparative%20epidemiologic%20analysis%20of%20SARS%20in%20Hong%20Kong%2C%20Beijing%20and%20Taiwan%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20E.H.%20Hsiung%2C%20C.A.%20Cowling%2C%20B.J.%20A%20comparative%20epidemiologic%20analysis%20of%20SARS%20in%20Hong%20Kong%2C%20Beijing%20and%20Taiwan%202010"
+        },
+        {
+            "id": "25",
+            "alt_id": "Du_et+al_2019_a",
+            "entry": "25. Du W, Wang L, Cauchemez S, et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine MedRxiv 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Du%20W%20Wang%20L%20Cauchemez%20S%20et%20al%20Risk%20of%202019%20novel%20coronavirus%20importations%20throughout%20China%20prior%20to%20the%20Wuhan%20quarantine%20MedRxiv%202020"
+        },
+        {
+            "id": "26",
+            "alt_id": "International_et+al_2016_a",
+            "entry": "26. International Ebola Response T, Agua-Agum J, Ariyarajah A, et al. Exposure Patterns Driving Ebola Transmission in West Africa: A Retrospective Observational Study. PLoS Med 2016; 13(11): e1002170. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=T%2C%20International%20Ebola%20Response%20J%2C%20Agua-Agum%20A%2C%20Ariyarajah%20Exposure%20Patterns%20Driving%20Ebola%20Transmission%20in%20West%20Africa%3A%20A%20Retrospective%20Observational%20Study%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=T%2C%20International%20Ebola%20Response%20J%2C%20Agua-Agum%20A%2C%20Ariyarajah%20Exposure%20Patterns%20Driving%20Ebola%20Transmission%20in%20West%20Africa%3A%20A%20Retrospective%20Observational%20Study%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=T%2C%20International%20Ebola%20Response%20J%2C%20Agua-Agum%20A%2C%20Ariyarajah%20Exposure%20Patterns%20Driving%20Ebola%20Transmission%20in%20West%20Africa%3A%20A%20Retrospective%20Observational%20Study%202016"
+        }
+    ],
+    "facts": [
+        "a line list of patients reported in China",
+        "The rapid progression of reported cases in different provinces of China is consistent with local transmission beyond Wuhan",
+        "which have been publicly available since Jan 21",
+        "align with official reports from Chinese authorities published more than a week",
+        "2019 coronavirus is rapidly expanding in China",
+        "individual patient data rarely become publicly available in the first weeks of an outbreak",
+        "Data were made publicly available in real-time",
+        "288 cases reported between Jan 20",
+        "with 17% of cases reported from Hubei",
+        "while 14% had no direct relation to Wuhan",
+        "The age distribution of cases was skewed towards older age groups with a median",
+        "The median age of 2019-nCoVcases who had died at the time of reporting was",
+        "Few cases were under 15 years of age",
+        "Adjustment for the age demographics of China confirmed a deficit of cases among children",
+        "The RR measure pointed at a sharp increase in the likelihood",
+        "2019-nCoV infection starting at age 30 yrs",
+        "difficult to obtain at the beginning of an outbreak",
+        "that careful compilation of crowdsourced reports curated by a long-standing Chinese clinician network provides a valuable picture of the outbreak",
+        "The outbreak timeline is consistent with aggregated case counts provided by health authorities",
+        "which is not available from aggregated case counts published by official sources",
+        "Crowdsourced data can contribute to assessment of the effectiveness",
+        "Individual patient data rarely become publicly available in the first weeks of an outbreak",
+        "report early signs that the response is strengthening in China based on a decrease"
+    ],
+    "claims": [
+        "We present an effort to compile epidemiological information on 2019-nCoV from media news reports and a physician community website (dxy.cn) between Jan 20, 2020 and Jan 30, 2020, as the outbreak entered its 7th week",
+        "We describe the demographics, hospitalization and reporting delays for 288 patients, over time and geographically",
+        "We find a decrease in case detection lags in provinces outside of Wuhan and internationally, compared to Wuhan, and after Jan 18, 2020, as outbreak awareness increased",
+        "Building on prior experience collating news reports to monitor Ebola transmission 7, here we present an effort to compile individual patient information and subnational epidemic curves on 2019-nCoV from a variety of online resources",
+        "We describe the process to compile data and provide an early analysis of the demographics, hospitalization, and reporting lags, in different provinces of China and internationally as of Jan 30, 2020",
+        "We considered the period before and after Jan 18, 2020, when media attention and awareness of the outbreak became more pronounced 13",
+        "We have shown that careful compilation of crowdsourced reports curated by a long-standing Chinese clinician network provides a valuable picture of the outbreak in real-time",
+        "We provide detailed data on 288 patients when the official case count is over 7000 (as of Jan 30, 2020) 10, representing a sample of ~4% of all reported cases",
+        "We also report early signs that the response is strengthening in China based on a decrease in case detection time, and rapid management of travel-related cases that are identified internationally"
+    ],
+    "findings": [
+        "Hospitalization and reporting delays in mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 3 days in mainland China (IQR 0-15 days) (Figure 4). This delay declined from 5 to 2 days before and after Jan 18, 2020 (Wilcoxon test, p=0.03)",
+        "The median delay between hospitalization and reporting was 3 days (IQR [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] days) in mainland China and declined from 9 to 2 days after Jan 18th, 2020 (Wilcoxon test, P<0.0001, Figure 4)",
+        "Hospitalization and reporting delays for international travelers outside mainland China The median delay between symptom onset and seeking care at a hospital or clinic was 0 days (range 0-9 days) for international travelers, shorter than for cases in Hubei or the rest of mainland China (Kruskal Wallis test, p<0.0001, Figure 4)",
+        "Even in the period after Jan 18, 2020, when awareness of the outbreak increased, there was a shorter hospitalization delay for international cases than for those from mainland China (p<0.001)",
+        "For international cases, the delay between hospitalization and reporting was 2 days (IQR 0-12 days), also shorter than for mainland China (p<0.0001)",
+        "Datasets to estimate an incubation period of [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] days for 2019-nCoV (95% CI [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] dys) 15-18"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Building on prior experience collating news reports to monitor Ebola transmission 7, here we present an effort to compile individual patient information and subnational epidemic curves on 2019-nCoV from a variety of online resources",
+        "Our line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1)",
+        "Adjustment for the age demographics of China confirmed a deficit of cases among children, with a relative risk below 0.3. in individuals under 15 years (Figure 1).The relative risk measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs",
+        "The outbreak timeline is consistent with aggregated case counts provided by health authorities",
+        "The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources",
+        "Crowdsourced data can contribute to assessment of the effectiveness of interventions and the potential for widespread local transmission beyond the initial foci of infection"
+    ],
+    "top_statements": [
+        "As the outbreak of novel 2019 coronavirus (2019-nCoV) is rapidly expanding in China and beyond, threatening to become a worldwide pandemic 1, there is a need for real-time analyses of epidemiological data to increase situational awareness and inform interventions 2",
+        "Our line list comprised 288 cases reported between Jan 20, 2020 and Jan 29, 2020 including 200 cases from mainland China and 88 international cases (Table 1)",
+        "Adjustment for the age demographics of China confirmed a deficit of cases among children, with a relative risk below 0.3. in individuals under 15 years (Figure 1).The relative risk measure pointed at a sharp increase in the likelihood of reported 2019-nCoV infection starting at age 30 yrs",
+        "The outbreak timeline is consistent with aggregated case counts provided by health authorities",
+        "The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources",
+        "Crowdsourced data can contribute to assessment of the effectiveness of interventions and the potential for widespread local transmission beyond the initial foci of infection"
+    ],
+    "headline": "The line list provides information on the lag between symptom onset and detection by the healthcare system, reporting delays, and travel history, which is not available from aggregated case counts published by official sources",
+    "contexts": [],
+    "abbreviations": {
+        "RR": "relative risk"
+    }
+}

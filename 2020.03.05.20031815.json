@@ -1,0 +1,502 @@
+{
+    "filename": "2020.03.05.20031815.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 398199,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.05.20031815",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/08/2020.03.05.20031815.full.pdf"
+        },
+        "title": "Estimating the generation interval for COVID-19 based on symptom onset data",
+        "keywords": [
+            "COVID-19",
+            "generation interval",
+            "serial interval",
+            "incubation period",
+            "reproduction number"
+        ],
+        "author": "Tapiwa Ganyani, Cecile Kremer, Dongxuan Chen, Andrea Torneri, Christel Faes, Jacco Wallinga, Niel Hens",
+        "date": 2020,
+        "affiliations": [
+            "Data Science Institute, Hasselt University, Hasselt, Belgium",
+            "Centre for Infectious Disease Control, National Institute for Public Health and the",
+            "Leiden University Medical Center, The Netherlands",
+            "Centre for Health Economics Research and Modelling Infectious Diseases (CHERMID), Vaccine and Infectious Disease Institute, University of Antwerp, Antwerp, Belgium, *joint first author, corresponding author: tapiwa.ganyani@uhasselt.be"
+        ],
+        "abstract": "Background: Estimating key infectious disease parameters from the COVID-19 outbreak is quintessential for modelling studies and guiding intervention strategies. Whereas different estimates for the incubation period distribution and the serial interval distribution have been reported, estimates of the generation interval for COVID-19 have not been provided.\nMethods: We used outbreak data from clusters in Singapore and Tianjin,\nChina to estimate the generation interval from symptom onset data while\nacknowledging uncertainty about the incubation period distribution and the underlying transmission network. From those estimates we obtained the proportions pre-symptomatic transmission and reproduction numbers.\nResults: The mean generation interval was 5.20 (95%CI 3.78-6.78) days for Singapore and 3.95 (95%CI 3.01-4.91) days for Tianjin, China when relying on a previously reported incubation period with mean 5.2 and SD 2.8 days. The proportion of pre-symptomatic transmission was 48% (95%CI 32-67%) for Singapore and 62% (95%CI 50-76%) for Tianjin, China. Estimates of the reproduction number based on the generation interval distribution were slightly higher than those based on the serial interval distribution.\nConclusions: Estimating generation and serial interval distributions from outbreak data requires careful investigation of the underlying transmission network. Detailed contact tracing information is essential for correctly estimating these quantities.",
+        "references": "@article{held2019a,\n  author = {Held, L.},\n  title = {Handbook of infectious disease data analysis},\n  journal = {Chapman and Hall/CRC},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@article{li2020a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early transmission dynamics in Wuhan, China, of novel coronavirs-infected pneumonia},\n  journal = {In: The New England Journal of Medicine},\n  date = {2020},\n  doi = {doi: 10.1056/NEJMoa2001316},\n  more-authors = {true},\n  language = {}\n}\n@incollection{backer2019a,\n  author = {Backer, J.A. and Klinkenberg, D. and Wallinga, J.},\n  title = {\u201cIncubation period of 2019 novel coronavirus},\n  date = {2019},\n  editor = {Eurosurveillance},\n  volume = {25},\n  doi = {doi: 10.2807/1560- 7917},\n  pages = {2020\u201325},\n  source = {infections among travellers from Wuhan, China, 20-28 January 2020},\n  number = {5},\n  language = {}\n}\n@misc{linton2020a,\n  author = {Linton, N.M. and Kobayashi, T. and Yang, Y.},\n  title = {Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data},\n  edition = {In: medRxiv preprint},\n  date = {2020},\n  doi = {doi: 10.1101/2020.01.26.20018754},\n  more-authors = {true},\n  language = {}\n}\n@misc{zhang-a,\n  author = {Zhang, J.},\n  title = {Evolving epidemiology of novel coronavirus diseases 2019 and possible interruption of local transmission outside Hubei Province in China: a descriptive and modeling study},\n  edition = {In: medRxiv preprint (Feb 2020},\n  doi = {doi: 10.1101/2020.02.21.20026328},\n  more-authors = {true},\n  language = {}\n}\n@book{liu2020a,\n  author = {Liu, T. and Hu, J. and Lin, L.},\n  title = {Transmission dynamics of 2019 novel coronavirus (2019-nCoV)},\n  publisher = {bioRxiv preprint},\n  date = {2020},\n  doi = {doi: 10.1101/2020.01.25.919787},\n  more-authors = {true},\n  language = {},\n  address = {In}\n}\n@article{britton2019a,\n  author = {Britton, T. and Scalia-Tomba, G.},\n  title = {Estimation in emerging epidemics: biases and remedies},\n  journal = {In: Journal of The Royal Society Interface},\n  date = {2019},\n  pages = {20180670},\n  doi = {doi: arXiv: 1803.01688},\n  language = {}\n}\n@article{wallinga2004a,\n  author = {Wallinga, J. and Teunis, P.},\n  title = {Different Epidemic Curves for Severe Acute Respiratory Syndrome Reveal Similar Impacts of Control Measures},\n  journal = {In: American Journal of Epidemiology},\n  volume = {160},\n  date = {2004},\n  pages = {509\u2013516},\n  doi = {doi: 10.1093/aje/kwh255},\n  number = {6},\n  language = {}\n}\n@article{hens2012a,\n  author = {Hens, N.},\n  title = {Robust Reconstruction and Analysis of Outbreak Data: Influenza A(H1N1)v Transmission in a School-based Population},\n  journal = {In: American Journal of Epidemiology},\n  volume = {176},\n  date = {2012},\n  pages = {196\u2013203},\n  doi = {doi: 10.1093/aje/kws006},\n  more-authors = {true},\n  number = {3},\n  language = {}\n}\n@misc{te2013a,\n  author = {te Beest, D.E.},\n  title = {Estimating the generation interval of influenza A (H1N1) in a range of social settings},\n  editor = {Epidemiology},\n  volume = {24},\n  date = {2013},\n  pages = {244\u2013250},\n  doi = {doi: 0.1097/EDE.0b013e31827f50e8},\n  more-authors = {true},\n  language = {}\n}\n@book{mood1950a,\n  author = {Mood, A.M.},\n  title = {Introduction to the Theory of Statistics},\n  publisher = {McGraw-hill},\n  date = {1950},\n  language = {}\n}\n@book{robert2004a,\n  author = {Robert, C.P. and Casella, G.},\n  title = {Monte Carlo Statistical Methods},\n  publisher = {Springer New York},\n  date = {2004},\n  doi = {doi: 10.1007/978-1-4757-4145-2},\n  language = {}\n}\n@article{wallinga2007a,\n  author = {Wallinga, J. and Lipsitch, M.},\n  title = {How generation intervals shape the relationship between growth rates and reproductive numbers},\n  journal = {In: Proceedings of the Royal Society B: Biological Sciences},\n  volume = {274},\n  date = {2007},\n  pages = {599\u2013604},\n  doi = {doi: 10.1098/rspb.2006.3754},\n  number = {1609},\n  language = {}\n}\n@misc{tindale2020a,\n  author = {Tindale, L.C. and Coombe, M. and Stockdale, J.E.},\n  title = {Transmission interval estimates suggest pre-symptomatic spread of COVID-19},\n  edition = {In: medRxiv preprint},\n  date = {2020-03},\n  url = {https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysisSUPP-joined.pdf.},\n  more-authors = {true},\n  language = {}\n}\n@article{bell2004a,\n  author = {Bell, D.M.},\n  title = {\u201cPublic Health Interventions and SARS Spread, 2003\u201d. In: Emerging},\n  journal = {Infectious Diseases},\n  volume = {10},\n  date = {2004},\n  pages = {1900\u20131906},\n  doi = {doi: 10.3201/eid1011.040729},\n  number = {11},\n  language = {}\n}\n",
+        "links": [
+            "http://wsjk.tj.gov.cn/col/col87/index.html",
+            "https://www.moh.gov.sg/newshighlights/",
+            "https://github.com/cecilekremer/COVID19"
+        ],
+        "emails": [
+            "tapiwa.ganyani@uhasselt.be"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Held, L.\nTI  - Handbook of infectious disease data analysis\nT2  - Chapman and Hall/CRC\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early transmission dynamics in Wuhan, China, of novel coronavirs-infected pneumonia\nT2  - In: The New England Journal of Medicine\nPY  - 2020\nDA  - 2020\nDO  - 10.1056/NEJMoa2001316\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Backer, J.A.\nAU  - Klinkenberg, D.\nAU  - Wallinga, J.\nTI  - \u201cIncubation period of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nA2  - Eurosurveillance\nVL  - 25\nDO  - 10.2807/1560- 7917\nSP  - 2020\nEP  - 25\nT2  - infections among travellers from Wuhan, China, 20-28 January 2020\nIS  - 5\nLA  - \nER  - \n\nTY  - GEN\nAU  - Linton, N.M.\nAU  - Kobayashi, T.\nAU  - Yang, Y.\nTI  - Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data\nET  - In: medRxiv preprint\nPY  - 2020\nDA  - 2020\nDO  - 10.1101/2020.01.26.20018754\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zhang, J.\nTI  - Evolving epidemiology of novel coronavirus diseases 2019 and possible interruption of local transmission outside Hubei Province in China: a descriptive and modeling study\nET  - In: medRxiv preprint (Feb 2020\nDO  - 10.1101/2020.02.21.20026328\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Liu, T.\nAU  - Hu, J.\nAU  - Lin, L.\nTI  - Transmission dynamics of 2019 novel coronavirus (2019-nCoV)\nPB  - bioRxiv preprint\nPY  - 2020\nDA  - 2020\nDO  - 10.1101/2020.01.25.919787\nC1  - true\nLA  - \nCY  - In\nER  - \n\nTY  - JOUR\nAU  - Britton, T.\nAU  - Scalia-Tomba, G.\nTI  - Estimation in emerging epidemics: biases and remedies\nT2  - In: Journal of The Royal Society Interface\nPY  - 2019\nDA  - 2019\nSP  - 20180670\nDO  - arXiv: 1803.01688\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Teunis, P.\nTI  - Different Epidemic Curves for Severe Acute Respiratory Syndrome Reveal Similar Impacts of Control Measures\nT2  - In: American Journal of Epidemiology\nVL  - 160\nPY  - 2004\nDA  - 2004\nSP  - 509\nEP  - 516\nDO  - 10.1093/aje/kwh255\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hens, N.\nTI  - Robust Reconstruction and Analysis of Outbreak Data: Influenza A(H1N1)v Transmission in a School-based Population\nT2  - In: American Journal of Epidemiology\nVL  - 176\nPY  - 2012\nDA  - 2012\nSP  - 196\nEP  - 203\nDO  - 10.1093/aje/kws006\nC1  - true\nIS  - 3\nLA  - \nER  - \n\nTY  - GEN\nAU  - te Beest, D.E.\nTI  - Estimating the generation interval of influenza A (H1N1) in a range of social settings\nA2  - Epidemiology\nVL  - 24\nPY  - 2013\nDA  - 2013\nSP  - 244\nEP  - 250\nDO  - 0.1097/EDE.0b013e31827f50e8\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Mood, A.M.\nTI  - Introduction to the Theory of Statistics\nPB  - McGraw-hill\nPY  - 1950\nDA  - 1950\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Robert, C.P.\nAU  - Casella, G.\nTI  - Monte Carlo Statistical Methods\nPB  - Springer New York\nPY  - 2004\nDA  - 2004\nDO  - 10.1007/978-1-4757-4145-2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Lipsitch, M.\nTI  - How generation intervals shape the relationship between growth rates and reproductive numbers\nT2  - In: Proceedings of the Royal Society B: Biological Sciences\nVL  - 274\nPY  - 2007\nDA  - 2007\nSP  - 599\nEP  - 604\nDO  - 10.1098/rspb.2006.3754\nIS  - 1609\nLA  - \nER  - \n\nTY  - GEN\nAU  - Tindale, L.C.\nAU  - Coombe, M.\nAU  - Stockdale, J.E.\nTI  - Transmission interval estimates suggest pre-symptomatic spread of COVID-19\nET  - In: medRxiv preprint\nPY  - 2020\nDA  - 2020/03\nUR  - https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysisSUPP-joined.pdf.\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bell, D.M.\nTI  - \u201cPublic Health Interventions and SARS Spread, 2003\u201d. In: Emerging\nT2  - Infectious Diseases\nVL  - 10\nPY  - 2004\nDA  - 2004\nSP  - 1900\nEP  - 1906\nDO  - 10.3201/eid1011.040729\nIS  - 11\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Parameter estimates and credible intervals of generation and serial interval distributions for Singapore and Tianjin datasets. The estimates are obtained using reported information on infector-infectee pairs and assuming an incubation period with mean 5.2 and SD 2.8 days. GI: generation interval; SI: serial interval"
+            },
+            {
+                "id": "2",
+                "caption": "Parameter estimates and credible intervals of generation and serial interval distributions for Singapore and Tianjin datasets. The estimates are obtained under different assumptions for the incubation period, under the baseline scenario where missing"
+            },
+            {
+                "id": "3",
+                "caption": "Parameter estimates and credible intervals of generation and serial interval distributions for Singapore and Tianjin datasets when allowing serial intervals to be negative and assuming an incubation period with mean 5.2 and SD 2.8 days. GI"
+            },
+            {
+                "id": "4",
+                "caption": "Parameter estimates and credible intervals of generation and serial interval distributions for the largest cluster in the Tianjin dataset. The estimates are obtained under different scenarios for the serial interval, assuming an incubation period with mean"
+            },
+            {
+                "id": "5",
+                "caption": "Proportion of pre-symptomatic transmission (p) and reproduction number R"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.05.20031815.full.pdf_wf3zavu5_hnmu9gsv.xlsx"
+    },
+    "sections": {
+        "introduction": [
+            "In order to plan intervention strategies aimed at bringing disease outbreaks such as the COVID-19 outbreak under control as well as to monitor disease outbreaks, public health officials depend on insights about key disease transmission parameters which are typically obtained from mathematical or statistical modelling. Examples of key parameters include the reproduction number (average number of infections caused by an infectious individual) and distributions of the generation interval (time between infection events in an infector-infectee pair), serial interval (time between symptom onsets in an infector-infectee pair), and incubation period (time between moment of infection and symptom onset) [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Estimates of the reproduction number together with the generation interval distribution can provide insight into the speed with which a disease will spread. On the other hand, estimates of the incubation period distribution can help guide determining appropriate quarantine periods.<br/><br/>As soon as line lists were made available, statistical and mathematical modelling was used to quantify these key epidemiological parameters. Li et al [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] estimated the basic reproduction number (using a renewal equation) to be 2.2 (95% CI 1.4-3.9), the serial interval distribution to have a mean of 7.5 days (95% CI 5.5-19) based on 6 observations, and the incubation period distribution to have a mean of 5.2 days (95% CI 4.1-7.0) based on 10 observations. Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days (range 1.8-12.4 days) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days (range 2-11 days) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]."
+        ],
+        "methods": [
+            "2.1 Data<br/><br/>The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China.<br/><br/>As of February 26th, 91 confirmed COVID-19 cases had been reported in Singapore. Detailed information on age, sex, known travel history, time of symptom onset, and known contacts is available for 54 of these cases (link: https://www.moh.gov.sg/newshighlights/, last accessed February 26th). For cases with no infector information available, it is assumed that they could have been infected by any other case within the same cluster. Cases known to be Chinese/Wuhan nationals or known to have been in close contact with a Chinese/Wuhan national are labeled as index cases. All other cases are assumed to have been infected locally."
+        ],
+        "results": [
+            "3.1 Estimates of key epidemiological parameters<br/><br/>Table 1 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming an incubation period with mean 5.2 and SD 2.8 days. The mean generation time is estimated to be 5.2 days (95%CI, 3.78 - 6.78) for the Singapore data, and 3.95 days (95%CI, 3.01 - 4.91) for the Tianjin data. As expected, the estimated means of the generation interval and serial interval distributions are approximately equal but the latter has a larger variance.    Data<br/><br/>Scenario Interval<br/><br/>Estimate (95% credible interval)    Mean<br/><br/>Standard deviation    GI<br/><br/>5.20 (3.78, 6.78) 1.72 (0.91, 3.93)<br/><br/>Singapore Baseline<br/><br/>SI 5.21 (-3.35, 13.94) 4.32 (4.06, 5.58)"
+        ],
+        "discussion": [
+            "We estimated the generation time to have a mean of 5.20 (95%CI 3.78-6.78) days and a standard deviation of 1.72 (95%CI 0.91-3.93) days for the Singapore data, and a mean of 3.95 (95%CI 3.01-4.91) days with a standard deviation of 1.51 (95%CI 0.74-2.97) days for the Tianjin data. These mean estimates increase only slightly when increasing the mean incubation period. For the Singapore data, allowing the serial interval to be negative decreases the estimated mean generation time from 5.20 days, when restricting missing serial intervals to be positive, to 3.86 (95%CI 2.22-5.60) days when allowing them to be negative. For the Tianjin data, the baseline estimate of the mean generation time (3.95 days) is about the same than when allowing serial intervals to be negative in the Singapore data. However, in the Tianjin data there were already some negative serial intervals among the reported links, which may explain this lower estimate. When allowing for negative serial intervals in the Tianjin data, the mean generation time decreased to 2.90 (1.85-4.12) days. These are the first estimates of the generation interval for COVID-19. Sensitivity analyses show that the assumptions made about the incubation period have only moderate impact on the results. On the other hand, assumptions made about the underlying transmission network (e.g. acknowledging possibly negative serial intervals) have a large impact on our results."
+        ],
+        "acknowledgements": [
+            "NH acknowledges funding from the European Research Council (ERC) under the European Union\u00e2s Horizon 2020 research and innovation programme (grant agreement 682540 - TransMID). CF, NH and JW acknowledge funding from the European Union\u2019s SC1-PHE-CORONAVIRUS-2020 programme."
+        ],
+        "funding": [
+            "NH acknowledges funding from the European Research Council (ERC) under the European Union\u00e2s Horizon 2020 research and innovation programme (grant agreement 682540 - TransMID)",
+            "CF, NH and JW acknowledge funding from the European Union\u2019s SC1-PHE-CORONAVIRUS-2020 programme"
+        ],
+        "limitations": [
+            "This study does have some limitations. First, we rely on previous estimates for the incubation period. However, sensitivity analyses show that changing the incubation period distribution does not have a big impact on our estimates of the generation interval distribution. Second, we do not account for incomplete or possible changes in reporting over the course of the epidemic. Third, we do not acknowledge changes in contact processes and thus behavioral change, which could shape realised generation interval distributions as well as serial interval distributions (unpublished work). Fourth, we do not account for contraction of the generation interval because of depletion of susceptibles. Future work should take into account these shortcomings."
+        ],
+        "data_availability": [
+            "Data on these cases are available in official daily reports (link: http://wsjk.tj.gov.cn/col/col87/index.html, last accessed February 27th)and include age, sex, relationship to other known cases, and travel history to risk areas in and outside Hubei province, China",
+            "https://github.com/cecilekremer/COVID19"
+        ]
+    },
+    "structured_content": {
+        "1 Introduction": [
+            "In order to plan intervention strategies aimed at bringing disease outbreaks such as the COVID-19 outbreak under control as well as to monitor disease outbreaks, public health officials depend on insights about key disease transmission parameters which are typically obtained from mathematical or statistical modelling. Examples of key parameters include the reproduction number (average number of infections caused by an infectious individual) and distributions of the generation interval (time between infection events in an infector-infectee pair), serial interval (time between symptom onsets in an infector-infectee pair), and incubation period (time between moment of infection and symptom onset) [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Estimates of the reproduction number together with the generation interval distribution can provide insight into the speed with which a disease will spread. On the other hand, estimates of the incubation period distribution can help guide determining appropriate quarantine periods.",
+            "As soon as line lists were made available, statistical and mathematical modelling was used to quantify these key epidemiological parameters. Li et al [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] estimated the basic reproduction number (using a renewal equation) to be 2.2 (95% CI 1.4-3.9), the serial interval distribution to have a mean of 7.5 days (95% CI 5.5-19) based on 6 observations, and the incubation period distribution to have a mean of 5.2 days (95% CI 4.1-7.0) based on 10 observations. Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days (range 1.8-12.4 days) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days (range 2-11 days) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].",
+            "When the incubation period does not change over the course of the epidemic, the expected values of the serial and generation interval distributions are expected to be equal but their variances to be different [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. It has recently been shown that ignoring the difference between the serial and generation interval can lead to biased estimates of the reproduction number. More specifically, when the serial interval distribution has larger variance than the generation interval distribution, using the serial interval as a proxy for",
+            "the generation interval will lead to an underestimation of the basic reproduction number R. When R is underestimated, this may lead to prevention policies that are insufficient to stop disease spread [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+            "The most well-known method to estimate the serial interval distribution from line list data is the likelihood-based estimation method proposed by Wallinga and Teunis [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. In 2012, Hens et al [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] proposed using the Expectation-Maximisation (EM) algorithm to estimate the generation interval distribution from incomplete line list data based on the method by [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] and allowing for auxiliary information to be used in assigning potential infector-infectee pairs. Te Beest et al [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] used a Markov chain Monte Carlo (MCMC) approach as an alternative to the EM-algorithm, to facilitate taking into account uncertainty related to the dates of symptom onset. In this paper, we use an MCMC approach to estimate, next to the serial interval distribution, the generation interval distribution upon specification of the incubation period distribution. We compare the impact of differences amongst previous estimates of the incubation period distribution for COVID-19 and analyse data on clusters of confirmed cases from Singapore (January 21 to February 26) and Tianjin, China (January 14 to February 27)."
+        ],
+        "2 Methods": [
+            "The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China.",
+            "As of February 26th, 91 confirmed COVID-19 cases had been reported in Singapore. Detailed information on age, sex, known travel history, time of symptom onset, and known contacts is available for 54 of these cases (link: https://www.moh.gov.sg/newshighlights/, last accessed February 26th). For cases with no infector information available, it is assumed that they could have been infected by any other case within the same cluster. Cases known to be Chinese/Wuhan nationals or known to have been in close contact with a Chinese/Wuhan national are labeled as index cases. All other cases are assumed to have been infected locally.",
+            "As of February 27th, 135 confirmed cases had been reported by the Tianjin municipal health commission. Data on these cases are available in official daily reports (link: http://wsjk.tj.gov.cn/col/col87/index.html, last accessed February 27th) and include age, sex, relationship to other known cases, and travel history to risk areas in and outside Hubei province, China. In these data, 114 cases can be traced to one of 16 clusters. The largest cluster consisting of 45 cases can be traced to a shopping mall in Baodi district. Through contact investigations, potential transmission links were identified for cases who had close contacts. Travel history information was used to identify some individuals as import cases. For cases with no infector information available, it is assumed that they could have been infected by any other case within the same cluster.",
+            "For i = 2, . . . , n, denote ti the time of infection for individual i, tv(i) the time of infection for the infector of individual i, \u03b4i the incubation period for individual i, and \u03b4v(i) the incubation period for the infector of individual i. The serial interval (Zi) for case i is a linear combination of latent variables, i.e., Zi = (ti + \u03b4i) \u2212 (tv(i) + \u03b4v(i)). Assuming the incubation period is independent of the infection time, Zi can be rewritten as a convolution of the generation interval for individual i and the difference between the incubation period of individual i and the incubation period of its infector v(i) [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], i.e., Zi = (ti + \u03b4i) \u2212 (tv(i) + \u03b4v(i))",
+            "= Xi + Yi.",
+            "The random variables Xi and \u03b4i are positive and are both assumed to be independent and identically distributed, i.e., Xi \u223c f (x; \u03981) and \u03b4i \u223c k(\u03b4; \u03982), so that Yi \u223c g(yi; \u03982). Equation (1) implies that both the generation interval and serial interval distributions have the same mean and that the latter has a larger variance and can be negative.",
+            "The observed serial interval, zi, can be expressed in terms of the latent variables as zi = xi + yi, which implies that, zi \u223c h(zi; \u03981, \u03982). The density function h(.) is given by [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>],",
+            "f (z \u2212 y; \u03981)g(y; \u03982)dy.",
+            "In general, h(z; \u03981, \u03982) and g(y; \u03982) have no closed form for arbitrary choices of f (x; \u03981)",
+            "and k(\u03b4; \u03982). Monte Carlo methods [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] can be used to estimate h(z; \u03981, \u03982) as follows,",
+            "j=1 where yj is the jth Monte Carlo sample drawn from g(y; \u03982). When all infector-infectee pairs are observed, the likelihood function is given by, n1 J",
+            "i=2 j=1 where \u0398 = {\u03981, \u03982} [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. To account for uncertainty in the transmission links we resort to a Bayesian framework in which missing links are imputed [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] (see Subsection 2.3). The likelihood function is then given by L \u0398, v(i)missing|zi, v(i) ."
+        ],
+        "2.3 Estimation": [
+            "We use the Bayesian method described in te Beest et al [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] for parameter estimation. This method proceeds in two steps. The first step updates the missing links v(i)missing and the second step updates the parameter vector \u03981, i.e., the parameters of the generation interval distribution. We assume that both the generation interval and the incubation period are gamma distributed, i.e., f (x; \u03981) \u2261 \u0393(\u03b11, \u03b21) and k(\u03b4; \u03982) \u2261 \u0393(\u03b12, \u03b22). The parameter vector \u03982 is fixed to (\u03b12 = 3.45, \u03b22 = 0.66), corresponding to an incubation period with a mean of 5.2 and standard deviation (SD) of 2.8 days [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Minimally informative uniform priors are assigned to the parameters of the generation interval distribution, i.e., \u03b11 \u223c U (0, 30) and \u03b21 \u223c U (0, 20). For cases with multiple potential infectors, the possible links v(i)missing are assigned equal prior probabilities. The missing links are updated using an independence sampler, whereas \u03981 is updated using a random-walk Metropolis-Hastings algorithm with a uniform proposal distribution[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. We evaluate the posterior distribution using 3 000 000 iterations of which the first 500 000 are discarded as burn-in. Thinning is applied by taking every 200th iteration. The serial interval distribution is obtained by simulating 1 000 000 draws from h(z; \u03981, \u03982). All analyses were performed using R, datasets and code are available on GitHub (https://github.com/cecilekremer/COVID19)."
+        ],
+        "2.3.1 Implications": [
+            "The proportion of pre-symptomatic transmission is calculated as p = P (Xi < \u03b4v(i)), i.e., pre-symptomatic transmission occurs when the generation interval is shorter than the incubation period of the infector. This proportion was obtained by simulating values from the estimated generation interval and incubation period distributions (assuming a mean incubation time of 5.2 days [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]).",
+            ", where r denotes the exponential growth rate estimated from the initial phase of the outbreak, and \u03bc and \u03c32 are the mean and variance of the generation or serial interval distribution [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].",
+            "Confidence intervals for p and R are calculated by evaluating p and R at each iteration of the converged MCMC chain, i.e., at each mean/variance pair of the posterior generation/serial interval distribution. The 95% confidence intervals are given by the 2.5% and 97.5% quantiles of the resulting distributions."
+        ],
+        "2.3.2 Sensitivity analyses": [
+            "As sensitivity analyses, we investigate the robustness of our estimates of the generation interval distribution to the choice of different incubation period distributions. In particular, we fix \u03982 to (\u03b12 = 7.74, \u03b22 = 1.21) and (\u03b12 = 4.36, \u03b22 = 0.91), corresponding to an incubation period with mean and SD (6.4, 2.3) days [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and (4.8, 2.6) days [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], respectively.",
+            "In our main (i.e., baseline) analyses, missing serial intervals were only allowed to be positive, i.e., the symptom onset time of the infector has to occur before that of the infectee. However, given that pre-symptomatic transmission is possible, this can be deemed an unrealistic assumption. Therefore, we assess the impact of allowing for negative serial intervals on our estimates of the generation interval distribution.",
+            "To further assess the robustness of the estimated generation interval distribution, for each dataset, we fit the model to data from the largest cluster. In the Tianjin dataset, the largest cluster is the shopping mall cluster consisting of 45 cases. In the Singapore dataset this is the Grace Assembly of God cluster consisting of 25 cases."
+        ],
+        "3 Results": [],
+        "3.1 Estimates of key epidemiological parameters": [
+            "Table 1 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming an incubation period with mean 5.2 and SD 2.8 days. The mean generation time is estimated to be 5.2 days (95%CI, 3.78 - 6.78) for the Singapore data, and 3.95 days (95%CI, 3.01 - 4.91) for the Tianjin data. As expected, the estimated means of the generation interval and serial interval distributions are approximately equal but the latter has a larger variance."
+        ],
+        "3.2 Sensitivity analyses": [
+            "Table 2 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming incubation periods with mean and SD (6.4, 2.3) days and (4.8, 2.6) days. The parameter estimates are fairly robust to the specified incubation period distribution, with mean generation times about 5 days for Singapore and 4 days for Tianjin.",
+            "Table 3 shows parameter estimates of the generation and serial interval distributions obtained when allowing for negative serial intervals in case there is no known infector. Compared to baseline analyses (Table 1), estimates of the mean generation time are smaller when allowing for negative serial intervals. The mean generation time is 3.86 days for Singapore and 2.90 days for Tianjin.",
+            "Table 4 shows parameter estimates obtained when we fit the model to data from the largest cluster. We only show results for the Tianjin dataset, as for the Singapore data there were too few cases (n=25) and the MCMC chain did not converge. When allowing only positive serial intervals for cases with no known infector, the mean generation time is estimated to be 3.50 days. On the other hand, when allowing for negative serial intervals, it is estimated to be 2.57 days."
+        ],
+        "3.3 Implications": [
+            "Table 5 shows the proportions of pre-symptomatic transmission and reproduction numbers for each dataset. Pre-symptomatic transmission is higher when allowing for negative serial intervals for cases with no known infector. The reproduction number is lower when estimated using the serial interval compared to when using the generation interval."
+        ],
+        "4 Discussion": [
+            "We estimated the generation time to have a mean of 5.20 (95%CI 3.78-6.78) days and a standard deviation of 1.72 (95%CI 0.91-3.93) days for the Singapore data, and a mean of 3.95 (95%CI 3.01-4.91) days with a standard deviation of 1.51 (95%CI 0.74-2.97) days for the Tianjin data. These mean estimates increase only slightly when increasing the mean incubation period. For the Singapore data, allowing the serial interval to be negative decreases the estimated mean generation time from 5.20 days, when restricting missing serial intervals to be positive, to 3.86 (95%CI 2.22-5.60) days when allowing them to be negative. For the Tianjin data, the baseline estimate of the mean generation time (3.95 days) is about the same than when allowing serial intervals to be negative in the Singapore data. However, in the Tianjin data there were already some negative serial intervals among the reported links, which may explain this lower estimate. When allowing for negative serial intervals in the Tianjin data, the mean generation time decreased to 2.90 (1.85-4.12) days. These are the first estimates of the generation interval for COVID-19. Sensitivity analyses show that the assumptions made about the incubation period have only moderate impact on the results. On the other hand, assumptions made about the underlying transmission network (e.g. acknowledging possibly negative serial intervals) have a large impact on our results.",
+            "As expected, the proportion of pre-symptomatic transmission increases from 48% (95%CI 32-67%) in the baseline scenario to 66% (95%CI 45-84%) when allowing for negative serial intervals, for the Singapore data, and from 62% (95%CI 50-76%) to 77% (95%CI 65-87%) for the Tianjin data. Hence, a substantial proportion of transmission appears to occur before symptom onset, which is an important point to consider when planning intervention strategies. We also estimated R0, solely to illustrate the bias that occurs when using the serial interval as a proxy for the generation interval [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Whereas the impact was limited for our analyses, estimates based on the generation interval are larger and should be preferred to inform intervention policies. Indeed, as expected, the reproduction number was underestimated when using the serial interval distribution which is more variable than the generation interval distribution.",
+            "Tindale et al [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] recently estimated the mean serial interval for COVID-19 to be 4.56 (95%CI 2.69 - 6.42) days for Singapore and 4.22 (95%CI 3.43 - 5.01) days for Tianjin. Although these estimates are different from the ones we report, they fall within the uncertainty ranges we obtained. An important advantage of our method is that we are able to infer the generation interval distribution while allowing serial intervals to be negative. Our estimates of R are smaller than the ones reported by Tindale et al [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>], because we use a different estimate of the growth rate r (0.04 for Singapore and 0.12 for",
+            "Tianjin as obtained from the initial exponential growth phase in each dataset, compared to 0.15 used by [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]).",
+            "Another advantage of our method is that we can derive a proper variance estimate for the generation interval, in contrast to using a too large variance estimate that is obtained when using the serial interval as a proxy for the generation interval. Furthermore, in theory we do not need to condition on the order of symptom onset times. However, when the data does not provide sufficient information on directionality of transmission, this lack of auxiliary information may cause problems for estimation.",
+            "This study does have some limitations. First, we rely on previous estimates for the incubation period. However, sensitivity analyses show that changing the incubation period distribution does not have a big impact on our estimates of the generation interval distribution. Second, we do not account for incomplete or possible changes in reporting over the course of the epidemic. Third, we do not acknowledge changes in contact processes and thus behavioral change, which could shape realised generation interval distributions as well as serial interval distributions (unpublished work). Fourth, we do not account for contraction of the generation interval because of depletion of susceptibles. Future work should take into account these shortcomings.",
+            "Infection control for the COVID-19 epidemic relies on case-based measures such as finding cases and tracing contacts. A variable that determines how effective these case-based measures are is the proportion of pre-symptomatic transmission. Our estimates of this proportion are high, ranging from 0.48 to 0.77. This implies that the effectiveness of case finding and contact tracing in preventing COVID-19 infections will be considerably smaller compared to the effectiveness in preventing SARS or MERS infections, where presymptomatic transmission did not play an important role (see e.g. [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]). It is unlikely that these measures alone will suffice to control the COVID-19 epidemic. Additional measures, such as social distancing, are required."
+        ],
+        "Acknowledgements": [
+            "NH acknowledges funding from the European Research Council (ERC) under the European Union\u00e2s Horizon 2020 research and innovation programme (grant agreement 682540 - TransMID). CF, NH and JW acknowledge funding from the European Union\u2019s SC1-PHE-CORONAVIRUS-2020 programme."
+        ],
+        "References": [
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] L. Held et al Handbook of infectious disease data analysis. Chapman and Hall/CRC, 2019.",
+            "[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] Q. Li, X. Guan, and P. Wu et al \u201cEarly transmission dynamics in Wuhan, China, of novel coronavirs-infected pneumonia\u201d. In: The New England Journal of Medicine (2020). doi: 10.1056/NEJMoa2001316.",
+            "[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] J. A. Backer, D. Klinkenberg, and J. Wallinga. \u201cIncubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20 - 28 January 2020\u201d. In: Eurosurveillance 25 (5 2020). doi: 10.2807/1560- 7917.ES. 2020.25.5.2000062.",
+            "[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] N. M. Linton, T. Kobayashi, and Y. Yang et al \u201cEpidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data\u201d. In: medRxiv preprint (2020). doi: 10.1101/2020.01.26.20018754.",
+            "[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] J. Zhang et al \u201cEvolving epidemiology of novel coronavirus diseases 2019 and possible interruption of local transmission outside Hubei Province in China: a descriptive and modeling study\u201d. In: medRxiv preprint (Feb 2020). doi: 10.1101/ 2020.02.21.20026328.",
+            "[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] T. Liu, J. Hu, and L. Lin et al \u201cTransmission dynamics of 2019 novel coronavirus (2019-nCoV)\u201d. In: bioRxiv preprint (2020). doi: 10.1101/2020.01.25.919787.",
+            "[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] T. Britton and G. Scalia-Tomba. \u201cEstimation in emerging epidemics: biases and remedies\u201d. In: Journal of The Royal Society Interface 16.150 (2019), p. 20180670. doi: arXiv:1803.01688.",
+            "[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] J. Wallinga and P. Teunis. \u201cDifferent Epidemic Curves for Severe Acute Respiratory Syndrome Reveal Similar Impacts of Control Measures\u201d. In: American Journal of Epidemiology 160.6 (2004), pp. 509\u2013516. doi: 10.1093/aje/kwh255.",
+            "[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] N. Hens et al \u201cRobust Reconstruction and Analysis of Outbreak Data: Influenza A(H1N1)v Transmission in a School-based Population\u201d. In: American Journal of Epidemiology 176.3 (2012), pp. 196\u2013203. doi: 10.1093/aje/kws006.",
+            "[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] D. E. te Beest et al \u201cEstimating the generation interval of influenza A (H1N1) in a range of social settings\u201d. In: Epidemiology 24 (2 2013), pp. 244\u2013250. doi: 0.1097/ EDE.0b013e31827f50e8.",
+            "[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] A. M. Mood. Introduction to the Theory of Statistics. McGraw-hill, 1950.",
+            "[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] C. P. Robert and G. Casella. Monte Carlo Statistical Methods. Springer New York, 2004. doi: 10.1007/978-1-4757-4145-2.",
+            "[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] J. Wallinga and M. Lipsitch. \u201cHow generation intervals shape the relationship between growth rates and reproductive numbers\u201d. In: Proceedings of the Royal Society B: Biological Sciences 274.1609 (2007), pp. 599\u2013604. doi: 10.1098/rspb. 2006.3754.",
+            "[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] L. C. Tindale, M. Coombe, and J. E. Stockdale et al \u201cTransmission interval estimates suggest pre-symptomatic spread of COVID-19\u201d. In: medRxiv preprint (March 2020). url: https://github.com/carolinecolijn/ClustersCOVID19/ blob/master/COVID_19_Singapore_Tianjin_analysisSUPP-joined.pdf.",
+            "[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] D. M. Bell. \u201cPublic Health Interventions and SARS Spread, 2003\u201d. In: Emerging Infectious Diseases 10 (11 2004), pp. 1900\u20131906. doi: 10.3201/eid1011.040729."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "confirmed cases",
+            "number": 135,
+            "context": "All other cases are assumed to have been infected locally. <mark class=\"stats\">As of February 27th, 135 confirmed cases had been reported by the Tianjin municipal health commission</mark>. Data on these cases are available in official daily reports (link: http://wsjk.tj.gov.cn/col/col87/index.html, last accessed February 27th) and include age, sex, relationship to other known cases, and travel history to risk areas in and outside Hubei province, China"
+        },
+        {
+            "participant": "cases",
+            "number": 114,
+            "context": "Data on these cases are available in official daily reports (link: http://wsjk.tj.gov.cn/col/col87/index.html, last accessed February 27th) and include age, sex, relationship to other known cases, and travel history to risk areas in and outside Hubei province, China. <mark class=\"stats\">In these data, 114 cases can be traced to one of 16 clusters</mark>. The largest cluster consisting of 45 cases can be traced to a shopping mall in Baodi district"
+        },
+        {
+            "participant": "cases",
+            "number": 45,
+            "context": "In these data, 114 cases can be traced to one of 16 clusters. <mark class=\"stats\">The largest cluster consisting of 45 cases can be traced to a shopping mall in Baodi district</mark>. Through contact investigations, potential transmission links were identified for cases who had close contacts"
+        },
+        {
+            "participant": "observations",
+            "number": 6,
+            "context": "As soon as line lists were made available, statistical and mathematical modelling was used to quantify these key epidemiological parameters. <mark class=\"stats\">Li et al [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] estimated the basic reproduction number (using a renewal equation) to be 2.2 (95% CI 1.4-3.9), the serial interval distribution to have a mean of 7.5 days (95% CI 5.5-19) based on 6 observations, and the incubation period distribution to have a mean of 5.2 days (95% CI 4.1-7.0) based on 10 observations</mark>. Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days (range 1.8-12.4 days) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days (range 2-11 days) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]"
+        },
+        {
+            "participant": "cases",
+            "number": 45,
+            "context": "To further assess the robustness of the estimated generation interval distribution, for each dataset, we fit the model to data from the largest cluster. <mark class=\"stats\">In the Tianjin dataset, the largest cluster is the shopping mall cluster consisting of 45 cases</mark>. In the Singapore dataset this is the Grace Assembly of God cluster consisting of 25 cases"
+        },
+        {
+            "participant": "cases",
+            "number": 25,
+            "context": "In the Tianjin dataset, the largest cluster is the shopping mall cluster consisting of 45 cases. <mark class=\"stats\">In the Singapore dataset this is the Grace Assembly of God cluster consisting of 25 cases</mark>. 3.1 Estimates of key epidemiological parameters"
+        },
+        {
+            "participant": "cases",
+            "number": 25,
+            "context": "Table 4 shows parameter estimates obtained when we fit the model to data from the largest cluster. <mark class=\"stats\">We only show results for the Tianjin dataset, as for the Singapore data there were too few cases (n=25) and the MCMC chain did not converge</mark>. When allowing only positive serial intervals for cases with no known infector, the mean generation time is estimated to be 3.50 days"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We use the Bayesian method described in te Beest et al [10] for parameter estimation</mark>",
+                "tests": [
+                    {
+                        "test": "Bayesian method"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The missing links are updated using an independence sampler, whereas \u03981 is updated using a random-walk Metropolis-Hastings algorithm with a uniform proposal distribution[12]</mark>",
+                "tests": [
+                    {
+                        "test": "Metropolis-Hastings algorithm"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "outbreak datum",
+        "symptom onset",
+        "pre symptomatic",
+        "dynamics",
+        "interval distribution",
+        "reproduction number",
+        "intervention strategy",
+        "transmission dynamics",
+        "incubation period",
+        "mean generation time",
+        "incubation period distribution",
+        "onset datum",
+        "Infectious disease",
+        "symptomatic transmission",
+        "Markov chain Monte Carlo",
+        "standard deviation",
+        "negative serial interval",
+        "underlying transmission network",
+        "coronavirus",
+        "European Research Council",
+        "infectee pair",
+        "serial interval distribution",
+        "serial intervals",
+        "generation interval",
+        "COVID-19",
+        "disease outbreak"
+    ],
+    "keyword_relevance": {
+        "generation interval": 0.1634980989,
+        "interval distribution": 0.1368821293,
+        "incubation period": 0.1292775665,
+        "serial interval distribution": 0.0798479087,
+        "standard deviation": 0.0608365019,
+        "serial intervals": 0.0570342205,
+        "COVID-19": 0.0494296578,
+        "reproduction number": 0.0456273764,
+        "incubation period distribution": 0.0418250951,
+        "symptomatic transmission": 0.0418250951,
+        "symptom onset": 0.0380228137,
+        "negative serial interval": 0.0342205323,
+        "mean generation time": 0.030418251,
+        "Markov chain Monte Carlo": 0.0190114068,
+        "infectee pair": 0.0190114068,
+        "coronavirus": 0.0152091255,
+        "underlying transmission network": 0.0114068441,
+        "dynamics": 0.0076045627,
+        "European Research Council": 0.0076045627,
+        "disease outbreak": 0.0076045627,
+        "transmission dynamics": 0.0038022814,
+        "outbreak datum": 0.0,
+        "pre symptomatic": 0.0,
+        "intervention strategy": 0.0,
+        "onset datum": 0.0,
+        "Infectious disease": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> In order to plan intervention strategies aimed at bringing disease outbreaks such as the COVID-19 outbreak under control as well as to monitor disease outbreaks, public health officials depend on insights about key disease transmission parameters which are typically obtained from mathematical or statistical modelling.",
+        "Examples of key parameters include the reproduction number and distributions of the generation interval, serial interval, and incubation period [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "Estimates of the reproduction number together with the generation interval distribution can provide insight into the speed with which a disease will spread.",
+        "Li et al [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] estimated the basic reproduction number to be 2.2 (95% CI 1.4-3.9), the serial interval distribution to have a mean of 7.5 days (95% CI 5.5-19) based on 6 observations, and the incubation period distribution to have a mean of 5.2 days (95% CI 4.1-7.0) based on 10 observations.",
+        "Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "<h2 style=\"display: inline\">Methods:</h2> 2.1 Data<br/><br/>The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China.<br/><br/>As of February 26th, 91 confirmed COVID-19 cases had been reported in Singapore.",
+        "The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China.",
+        "Sex, known travel history, time of symptom onset, and known contacts is available for 54 of these cases.",
+        "For cases with no infector information available, it is assumed that they could have been infected by any other case within the same cluster.",
+        "All other cases are assumed to have been infected locally",
+        "<h2 style=\"display: inline\">Results:</h2> 3.1 Estimates of key epidemiological parameters<br/><br/>Table 1 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming an incubation period with mean 5.2 and SD 2.8 days.",
+        "3.1 Estimates of key epidemiological parameters.",
+        "Table 1 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming an incubation period with mean 5.2 and SD 2.8 days.",
+        "The mean generation time is estimated to be 5.2 days (95%CI, 3.78 - 6.78) for the Singapore data, and 3.95 days (95%CI, 3.01 - 4.91) for the Tianjin data.",
+        "The estimated means of the generation interval and serial interval distributions are approximately equal but the latter has a larger variance.",
+        "Estimate (95% credible interval) Mean.",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors estimated the generation time to have a mean of 5.20 (95%CI 3.78-6.78) days and a standard deviation of 1.72 (95%CI 0.91-3.93) days for the Singapore data, and a mean of 3.95 (95%CI 3.01-4.91) days with a standard deviation of 1.51 (95%CI 0.74-2.97) days for the Tianjin data",
+        "These mean estimates increase only slightly when increasing the mean incubation period.",
+        "For the Tianjin data, the baseline estimate of the mean generation time (3.95 days) is about the same than when allowing serial intervals to be negative in the Singapore data.",
+        "Assumptions made about the underlying transmission network have a large impact on the results"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "In order to plan intervention strategies aimed at bringing disease outbreaks such as the COVID-19 outbreak under control as well as to monitor disease outbreaks, public health officials depend on insights about key disease transmission parameters which are typically obtained from mathematical or statistical modelling.",
+            "Examples of key parameters include the reproduction number and distributions of the generation interval, serial interval, and incubation period [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "Estimates of the reproduction number together with the generation interval distribution can provide insight into the speed with which a disease will spread.",
+            "Li et al [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] estimated the basic reproduction number to be 2.2 (95% CI 1.4-3.9), the serial interval distribution to have a mean of 7.5 days (95% CI 5.5-19) based on 6 observations, and the incubation period distribution to have a mean of 5.2 days (95% CI 4.1-7.0) based on 10 observations.",
+            "Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]"
+        ],
+        "Methods": [
+            "2.1 Data<br/><br/>The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China.<br/><br/>As of February 26th, 91 confirmed COVID-19 cases had been reported in Singapore.",
+            "The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China.",
+            "Sex, known travel history, time of symptom onset, and known contacts is available for 54 of these cases.",
+            "For cases with no infector information available, it is assumed that they could have been infected by any other case within the same cluster.",
+            "All other cases are assumed to have been infected locally"
+        ],
+        "Results": [
+            "3.1 Estimates of key epidemiological parameters<br/><br/>Table 1 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming an incubation period with mean 5.2 and SD 2.8 days.",
+            "3.1 Estimates of key epidemiological parameters.",
+            "Table 1 shows parameter estimates of the generation and serial interval distributions for each dataset, assuming an incubation period with mean 5.2 and SD 2.8 days.",
+            "The mean generation time is estimated to be 5.2 days (95%CI, 3.78 - 6.78) for the Singapore data, and 3.95 days (95%CI, 3.01 - 4.91) for the Tianjin data.",
+            "The estimated means of the generation interval and serial interval distributions are approximately equal but the latter has a larger variance.",
+            "Estimate (95% credible interval) Mean."
+        ],
+        "Conclusion": [
+            "The authors estimated the generation time to have a mean of 5.20 (95%CI 3.78-6.78) days and a standard deviation of 1.72 (95%CI 0.91-3.93) days for the Singapore data, and a mean of 3.95 (95%CI 3.01-4.91) days with a standard deviation of 1.51 (95%CI 0.74-2.97) days for the Tianjin data",
+            "These mean estimates increase only slightly when increasing the mean incubation period.",
+            "For the Tianjin data, the baseline estimate of the mean generation time (3.95 days) is about the same than when allowing serial intervals to be negative in the Singapore data.",
+            "Assumptions made about the underlying transmission network have a large impact on the results"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Held_2019_a",
+            "entry": "[1] L. Held et al. Handbook of infectious disease data analysis. Chapman and Hall/CRC, 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Held%2C%20L.%20Handbook%20of%20infectious%20disease%20data%20analysis%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Held%2C%20L.%20Handbook%20of%20infectious%20disease%20data%20analysis%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Held%2C%20L.%20Handbook%20of%20infectious%20disease%20data%20analysis%202019"
+        },
+        {
+            "id": "2",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "[2] Q. Li, X. Guan, and P. Wu et al. \u201cEarly transmission dynamics in Wuhan, China, of novel coronavirs-infected pneumonia\u201d. In: The New England Journal of Medicine (2020). doi: 10.1056/NEJMoa2001316.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001316",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001316",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001316"
+        },
+        {
+            "id": "3",
+            "alt_id": "Backer_et+al_2019_a",
+            "entry": "[3] J. A. Backer, D. Klinkenberg, and J. Wallinga. \u201cIncubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20 - 28 January 2020\u201d. In: Eurosurveillance 25 (5 2020). doi: 10.2807/1560- 7917.ES. 2020.25.5.2000062.",
+            "crossref": "https://dx.doi.org/10.2807/1560-",
+            "scite": "https://scite.ai/reports/10.2807/1560-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.2807/1560-"
+        },
+        {
+            "id": "4",
+            "alt_id": "Linton_et+al_2020_a",
+            "entry": "[4] N. M. Linton, T. Kobayashi, and Y. Yang et al. \u201cEpidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data\u201d. In: medRxiv preprint (2020). doi: 10.1101/2020.01.26.20018754.",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.26.20018754",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.26.20018754"
+        },
+        {
+            "id": "5",
+            "alt_id": "Zhang_2019_a",
+            "entry": "[5] J. Zhang et al. \u201cEvolving epidemiology of novel coronavirus diseases 2019 and possible interruption of local transmission outside Hubei Province in China: a descriptive and modeling study\u201d. In: medRxiv preprint (Feb 2020). doi: 10.1101/ 2020.02.21.20026328.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.21.20026328",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.21.20026328"
+        },
+        {
+            "id": "6",
+            "alt_id": "Liu_et+al_2020_a",
+            "entry": "[6] T. Liu, J. Hu, and L. Lin et al. \u201cTransmission dynamics of 2019 novel coronavirus (2019-nCoV)\u201d. In: bioRxiv preprint (2020). doi: 10.1101/2020.01.25.919787.",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.25.919787",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.25.919787"
+        },
+        {
+            "id": "7",
+            "alt_id": "Britton_2019_a",
+            "entry": "[7] T. Britton and G. Scalia-Tomba. \u201cEstimation in emerging epidemics: biases and remedies\u201d. In: Journal of The Royal Society Interface 16.150 (2019), p. 20180670. doi: arXiv:1803.01688.",
+            "arxiv_url": "https://arxiv.org/pdf/1803.01688"
+        },
+        {
+            "id": "8",
+            "alt_id": "Wallinga_2004_a",
+            "entry": "[8] J. Wallinga and P. Teunis. \u201cDifferent Epidemic Curves for Severe Acute Respiratory Syndrome Reveal Similar Impacts of Control Measures\u201d. In: American Journal of Epidemiology 160.6 (2004), pp. 509\u2013516. doi: 10.1093/aje/kwh255.",
+            "crossref": "https://dx.doi.org/10.1093/aje/kwh255",
+            "scite": "https://scite.ai/reports/10.1093/aje/kwh255",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/aje/kwh255"
+        },
+        {
+            "id": "9",
+            "alt_id": "Hens_2012_a",
+            "entry": "[9] N. Hens et al. \u201cRobust Reconstruction and Analysis of Outbreak Data: Influenza A(H1N1)v Transmission in a School-based Population\u201d. In: American Journal of Epidemiology 176.3 (2012), pp. 196\u2013203. doi: 10.1093/aje/kws006.",
+            "crossref": "https://dx.doi.org/10.1093/aje/kws006",
+            "scite": "https://scite.ai/reports/10.1093/aje/kws006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/aje/kws006"
+        },
+        {
+            "id": "10",
+            "alt_id": "Te_2013_a",
+            "entry": "[10] D. E. te Beest et al. \u201cEstimating the generation interval of influenza A (H1N1) in a range of social settings\u201d. In: Epidemiology 24 (2 2013), pp. 244\u2013250. doi: 0.1097/ EDE.0b013e31827f50e8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=te%20Beest%2C%20D.E.%20Estimating%20the%20generation%20interval%20of%20influenza%20A%20%28H1N1%29%20in%20a%20range%20of%20social%20settings%202013"
+        },
+        {
+            "id": "11",
+            "alt_id": "Mood_1950_a",
+            "entry": "[11] A. M. Mood. Introduction to the Theory of Statistics. McGraw-hill, 1950.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mood%2C%20A.M.%20Introduction%20to%20the%20Theory%20of%20Statistics%201950"
+        },
+        {
+            "id": "12",
+            "alt_id": "Robert_2004_a",
+            "entry": "[12] C. P. Robert and G. Casella. Monte Carlo Statistical Methods. Springer New York, 2004. doi: 10.1007/978-1-4757-4145-2.",
+            "crossref": "https://dx.doi.org/10.1007/978-1-4757-4145-2",
+            "scite": "https://scite.ai/reports/10.1007/978-1-4757-4145-2"
+        },
+        {
+            "id": "13",
+            "alt_id": "Wallinga_2007_a",
+            "entry": "[13] J. Wallinga and M. Lipsitch. \u201cHow generation intervals shape the relationship between growth rates and reproductive numbers\u201d. In: Proceedings of the Royal Society B: Biological Sciences 274.1609 (2007), pp. 599\u2013604. doi: 10.1098/rspb. 2006.3754.",
+            "crossref": "https://dx.doi.org/10.1098/rspb.2006.3754",
+            "arxiv_url": "https://arxiv.org/pdf/2006.3754",
+            "scite": "https://scite.ai/reports/10.1098/rspb.2006.3754"
+        },
+        {
+            "id": "14",
+            "alt_id": "Tindale_et+al_2020_a",
+            "entry": "[14] L. C. Tindale, M. Coombe, and J. E. Stockdale et al. \u201cTransmission interval estimates suggest pre-symptomatic spread of COVID-19\u201d. In: medRxiv preprint (March 2020). url: https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysisSUPP-joined.pdf.",
+            "url": "https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysisSUPP-joined.pdf"
+        },
+        {
+            "id": "15",
+            "alt_id": "Bell_2004_a",
+            "entry": "[15] D. M. Bell. \u201cPublic Health Interventions and SARS Spread, 2003\u201d. In: Emerging Infectious Diseases 10 (11 2004), pp. 1900\u20131906. doi: 10.3201/eid1011.040729. ",
+            "crossref": "https://dx.doi.org/10.3201/eid1011.040729",
+            "scite": "https://scite.ai/reports/10.3201/eid1011.040729",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.3201/eid1011.040729"
+        }
+    ],
+    "facts": [
+        "Estimating key infectious disease parameters from the COVID-19 outbreak is quintessential for modelling studies",
+        "Estimates of the reproduction number based on the generation interval distribution were slightly higher than those based on the serial interval distribution",
+        "In order to plan intervention strategies aimed at bringing disease outbreaks",
+        "such as the COVID-19 outbreak under control",
+        "public health officials depend on insights about key disease transmission parameters",
+        "the serial interval distribution to have a mean of 7.5 days based on",
+        "the incubation period distribution to have a mean of 5.2 days based on",
+        "the incubation period distribution to have a mean of 6.4 days",
+        "The data used in this paper consist of symptom onset dates",
+        "91 confirmed COVID-19 cases had been reported in Singapore",
+        "Wuhan national are labeled as index cases",
+        "the generation time to have a mean of 5.20 days",
+        "same than when allowing serial intervals to be negative in the Singapore data",
+        "the mean generation time decreased to 2.90 days",
+        "Sensitivity analyses show that the assumptions made about the incubation period have only moderate impact",
+        "assumptions made about the underlying transmission network have a large impact on our results",
+        "Assumptions made about the underlying transmission network have a large impact on our results",
+        "these estimates are different from the ones"
+    ],
+    "claims": [
+        "We evaluate the posterior distribution using 3 000 000 iterations of which the first 500 000 are discarded as burn-in",
+        "As sensitivity analyses, we investigate the robustness of our estimates of the generation interval distribution to the choice of different incubation period distributions",
+        "We only show results for the Tianjin dataset, as for the Singapore data there were too few cases (n=25) and the MCMC chain did not converge",
+        "Although these estimates are different from the ones we report, they fall within the uncertainty ranges we obtained"
+    ],
+    "findings": [
+        "Li et al [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] estimated the basic reproduction number (using a renewal equation) to be 2.2 (95% CI 1.4-3.9), the serial interval distribution to have a mean of 7.5 days (95% CI 5.5-19) based on 6 observations, and the incubation period distribution to have a mean of 5.2 days (95% CI 4.1-7.0) based on 10 observations",
+        "Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days (range 1.8-12.4 days) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days (range 2-11 days) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]"
+    ],
+    "processes": [],
+    "key_statements": [
+        "In order to plan intervention strategies aimed at bringing disease outbreaks such as the COVID-19 outbreak under control as well as to monitor disease outbreaks, public health officials depend on insights about key disease transmission parameters which are typically obtained from mathematical or statistical modelling",
+        "Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "The data used in this paper consist of symptom onset dates and cluster information for confirmed cases in Singapore and Tianjin, China",
+        "As of February 26th, 91 confirmed COVID-19 cases had been reported in Singapore",
+        "We investigate the robustness of our estimates of the generation interval distribution to the choice of different incubation period distributions",
+        "We only show results for the Tianjin dataset, as for the Singapore data there were too few cases (n=25) and the Markov chain Monte Carlo chain did not converge",
+        "For the Tianjin data, the baseline estimate of the mean generation time (3.95 days) is about the same than when allowing serial intervals to be negative in the Singapore data",
+        "Sensitivity analyses show that the assumptions made about the incubation period have only moderate impact on the results",
+        "Tindale et al [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] recently estimated the mean serial interval for COVID-19 to be 4.56 (95%CI 2.69 - 6.42) days for Singapore and 4.22 (95%CI 3.43 - 5.01) days for Tianjin. These estimates are different from the ones we report, they fall within the uncertainty ranges we obtained"
+    ],
+    "top_statements": [
+        "In order to plan intervention strategies aimed at bringing disease outbreaks such as the COVID-19 outbreak under control as well as to monitor disease outbreaks, public health officials depend on insights about key disease transmission parameters which are typically obtained from mathematical or statistical modelling",
+        "Other studies estimated the incubation period distribution to have a mean of 6.4 days (95% CI 5.6-7.7) [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], median of 5 days (95% CI 4.0-5.8) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], mean of 5.2 days [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and a mean of 4.8 days [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "We investigate the robustness of our estimates of the generation interval distribution to the choice of different incubation period distributions",
+        "For the Tianjin data, the baseline estimate of the mean generation time (3.95 days) is about the same than when allowing serial intervals to be negative in the Singapore data",
+        "Sensitivity analyses show that the assumptions made about the incubation period have only moderate impact on the results"
+    ],
+    "headline": "For the Tianjin data, the baseline estimate of the mean generation time is about the same than when allowing serial intervals to be negative in the Singapore data",
+    "contexts": [],
+    "abbreviations": {
+        "MCMC": "Markov chain Monte Carlo",
+        "SD": "standard deviation",
+        "ERC": "European Research Council"
+    }
+}

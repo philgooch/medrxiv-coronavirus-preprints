@@ -1,0 +1,632 @@
+{
+    "filename": "2020.03.05.20030502.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 723463,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.05.20030502",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/08/2020.03.05.20030502.full.pdf"
+        },
+        "title": "Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster",
+        "author": "Roman Woelfel, Victor Max Corman, Wolfgang Guggemos, Michael Seilmaier, Sabine Zange, Marcel A Mueller, Daniela Niemeyer, Patrick Vollmar, Camilla Rothe, Michael Hoelscher, Tobias Bleicker, Sebastian Bruenink, Julia Schneider, Rosina Ehmann, Katrin Zwirglmaier, Christian Drosten, Clemens Wendtner",
+        "date": 2020,
+        "affiliations": [
+            "Bundeswehr Institute of Microbiology, Munich, Germany (Roman W\u00f6lfel, M.D.; Sabine Zange, M.D.; Patrick Vollmar, M.D.; Rosina Ehmann DVM; Katrin Zwirglmaier, Ph.D.)",
+            "University Hospital LMU Munich, Munich, Germany (Camilla Rothe, M.D; Michael Hoelscher (M.D., Ph.D.)"
+        ],
+        "abstract": "Background: In coronavirus disease 2019 (COVID-19), current case definitions presume mainly lower respiratory tract infection. However, cases seen outside the epicenter of the epidemic may differ in their overall clinical appearance due to more sensitive case finding. Methods: We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases. Infectious virus was detected by cell culture. Active replication was demonstrated by analysis of viral subgenomic replicative intermediates. Serology including neutralization testing was done to characterize immune response. Results: Seven cases had upper respiratory tract disease. Lower respiratory tract symptoms seen in two cases were limited. Clinical sensitivity of RT-PCR on swabs taken on days 1-5 of symptoms was 100%, with no differences comparing swab and sputum samples taken simultaneously. Average viral load was 6.76x10E5 copies per swab during the first 5 days. Live virus isolates were obtained from swabs during the first week of illness. Proof of active viral replication in upper respiratory tract tissues was obtained by detection of subgenomic viral RNA. Shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after about one week. Conclusions: The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.",
+        "references": "@misc{zhu-a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  unknown = {N},\n  more-authors = {true},\n  language = {}\n}\n@misc{engl2020a,\n  author = {Engl, J.},\n  title = {Med},\n  doi = {doi: 10.1056/NEJMoa2001017},\n  date = {2020},\n  language = {}\n}\n@misc{group2020a,\n  author = {Group., bioRxiv 2020.2002.2007.937862},\n  doi = {doi: 10.1101/2020.02.07.937862},\n  date = {2020}\n}\n@book{unknown-a,\n  title = {Report of the WHO-China Joint Mission on Coronavirus Disease 2019},\n  publisher = {COVID},\n  language = {},\n  organization = {WHO}\n}\n@misc{unknown2020a,\n  url = {https://www.who.int/docs/default-source/coronaviruse/who-china-jointmission-on-covid-19-final-report.pdf},\n  date = {2020}\n}\n@article{hoffmann2019a,\n  author = {Hoffmann, M.},\n  journal = {et al. The novel coronavirus},\n  date = {2019},\n  title = {uses the SARS-},\n  language = {}\n}\n@misc{unknown2020b,\n  title = {coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells., bioRxiv 2020.2001.2031.929042},\n  doi = {doi: 10.1101/2020.01.31.929042},\n  date = {2020},\n  language = {}\n}\n@article{unknown-b,\n  title = {Hong Kong epidemic: an analysis of all 1755 patients},\n  journal = {Ann Intern Med},\n  volume = {141},\n  pages = {662},\n  language = {}\n}\n@misc{unknown2004a,\n  doi = {doi: 10.7326/0003-4819-141-9-200411020-00006},\n  date = {2004}\n}\n@book{rothe-a,\n  author = {Rothe, C.},\n  title = {Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl},\n  publisher = {J, Med},\n  doi = {doi: 10.1056/NEJMc2001468 (2020},\n  more-authors = {true},\n  language = {}\n}\n@article{holshue2019a,\n  author = {Holshue, M.L.},\n  journal = {et al. First Case of},\n  date = {2019},\n  title = {Novel Coronavirus in the United States},\n  unknown = {N Engl},\n  language = {}\n}\n@misc{j2020a,\n  editor = {J, Med},\n  doi = {doi: 10.1056/NEJMoa2001191},\n  date = {2020}\n}\n@book{hoehl-a,\n  author = {Hoehl, S.},\n  title = {Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China},\n  publisher = {Journal of, Medicine},\n  doi = {doi: 10.1056/NEJMc2001899 (2020},\n  more-authors = {true},\n  language = {},\n  address = {New England}\n}\n@misc{patients2020a,\n  author = {Patients},\n  title = {New England Journal of, Medicine},\n  doi = {doi: 10.1056/NEJMc2001737},\n  date = {2020},\n  language = {}\n}\n@article{corman2019a,\n  author = {Corman, V.M.},\n  journal = {et al. Detection of},\n  date = {2019},\n  title = {novel coronavirus},\n  publisher = {Euro Surveill 25},\n  doi = {doi: 10.2807/1560-7917. ES.2020.25.3.2000045},\n  source = {by real-time RT-PCR},\n  language = {}\n}\n@book{corman2012a,\n  author = {Corman, V.M.},\n  title = {Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections},\n  publisher = {Euro Surveill 17},\n  doi = {doi: 10.2807/ese.17.49.20334-en},\n  date = {2012},\n  more-authors = {true},\n  language = {}\n}\n@article{drosten2014a,\n  author = {Drosten, C.},\n  title = {Transmission of MERS-coronavirus in household contacts},\n  journal = {N Engl J Med},\n  volume = {371},\n  pages = {828\u2013835},\n  doi = {doi: 10.1056/NEJMoa1405858},\n  date = {2014},\n  more-authors = {true},\n  language = {}\n}\n@article{drosten-a,\n  author = {Drosten, C.},\n  title = {Evaluation of advanced reverse transcription-PCR assays and an alternative PCR target region for detection of severe acute respiratory syndromeassociated coronavirus},\n  journal = {J Clin Microbiol},\n  volume = {42},\n  pages = {2043\u20132047},\n  doi = {doi: 10.1128/jcm.42.5.2043},\n  more-authors = {true},\n  language = {}\n}\n@article{peiris2003a,\n  author = {Peiris, J.S.},\n  title = {Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study},\n  journal = {Lancet},\n  volume = {361},\n  doi = {1767- 1772, doi: 10.1016/s0140-6736(03)13412-5},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@article{poon2004a,\n  author = {Poon, L.L.},\n  title = {Detection of SARS coronavirus in patients with severe acute respiratory syndrome by conventional and real-time quantitative reverse transcription-PCR assays},\n  journal = {Clin Chem},\n  volume = {50},\n  pages = {67\u201372},\n  doi = {doi: 10.1373/clinchem.2003.023663},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{ksiazek2003a,\n  author = {Ksiazek, T.G.},\n  title = {A novel coronavirus associated with severe acute respiratory syndrome},\n  journal = {N Engl J Med},\n  volume = {348},\n  pages = {1953\u20131966},\n  doi = {doi: 10.1056/NEJMoa030781},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@article{drosten2003a,\n  author = {Drosten, C.},\n  title = {Identification of a novel coronavirus in patients with severe acute respiratory syndrome},\n  journal = {N Engl J Med},\n  volume = {348},\n  pages = {1967\u20131976},\n  doi = {doi: 10.1056/NEJMoa030747},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@article{peiris2003b,\n  author = {Peiris, J.S.},\n  title = {Coronavirus as a possible cause of severe acute respiratory syndrome},\n  journal = {Lancet},\n  volume = {361},\n  pages = {1319\u20131325},\n  doi = {doi: 10.1016/s0140-6736(03)13077-2},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@book{bertram2012a,\n  author = {Bertram, S.},\n  title = {Influenza and SARS-coronavirus activating proteases TMPRSS2 and HAT are expressed at multiple sites in human respiratory and gastrointestinal tracts},\n  publisher = {PloS one 7, e35876},\n  doi = {doi: 10.1371/journal.pone.0035876},\n  date = {2012},\n  more-authors = {true},\n  language = {}\n}\n@inproceedings{belouzard2009a,\n  author = {Belouzard, S. and Chu, V.C. and Whittaker, G.R.},\n  title = {Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites},\n  booktitle = {Proceedings of the 106, 5871-5876, National Academy of Sciences of the},\n  publisher = {States of America},\n  doi = {doi: 10.1073/pnas.0809524106},\n  date = {2009},\n  language = {},\n  address = {United}\n}\n@book{corman2016a,\n  author = {Corman, V.M.},\n  title = {Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection. Clinical infectious diseases: 62, 477-483, an official publication of the Infectious Diseases},\n  publisher = {Society of America},\n  doi = {doi: 10.1093/cid/civ951},\n  date = {2016},\n  more-authors = {true},\n  language = {}\n}\n@article{zhou2017a,\n  author = {Zhou, J.},\n  title = {Human intestinal tract serves as an alternative infection route for Middle East respiratory syndrome coronavirus},\n  journal = {Sci Adv},\n  volume = {3},\n  doi = {doi: 10.1126/sciadv.aao4966},\n  date = {2017},\n  more-authors = {true},\n  number = {4966},\n  language = {}\n}\n@article{leung2003a,\n  author = {Leung, W.K.},\n  title = {Enteric involvement of severe acute respiratory syndromeassociated coronavirus infection},\n  journal = {Gastroenterology},\n  volume = {125},\n  pages = {1011\u20131017},\n  doi = {doi: 10.1016/s0016-5085(03)01215-0},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@book{chen-a,\n  author = {Chen, N.},\n  title = {Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study},\n  publisher = {The Lancet 395, 507513},\n  doi = {doi: 10.1016/S0140-6736(20)30211-7 (2020},\n  more-authors = {true},\n  language = {}\n}\n@article{muller2015a,\n  author = {Muller, M.A.},\n  title = {Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study},\n  journal = {Lancet Infect Dis},\n  volume = {15},\n  pages = {559\u2013564},\n  doi = {doi: 10.1016/S1473-3099(15)70090-3},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n",
+        "emails": [
+            "christian.drosten@charite.de",
+            "clemens.wendtner@muenchen-klinik.de"
+        ],
+        "references_ris": "TY  - GEN\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nC1  - N\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Engl, J.\nTI  - Med\nDO  - 10.1056/NEJMoa2001017\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - Group., bioRxiv 2020.2002.2007.937862\nDO  - 10.1101/2020.02.07.937862\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - BOOK\nTI  - Report of the WHO-China Joint Mission on Coronavirus Disease 2019\nPB  - COVID\nLA  - \nC1  - WHO\nER  - \n\nTY  - GEN\nUR  - https://www.who.int/docs/default-source/coronaviruse/who-china-jointmission-on-covid-19-final-report.pdf\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Hoffmann, M.\nT2  - et al. The novel coronavirus\nPY  - 2019\nDA  - 2019\nTI  - uses the SARS-\nLA  - \nER  - \n\nTY  - GEN\nTI  - coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells., bioRxiv 2020.2001.2031.929042\nDO  - 10.1101/2020.01.31.929042\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Hong Kong epidemic: an analysis of all 1755 patients\nT2  - Ann Intern Med\nVL  - 141\nSP  - 662\nLA  - \nER  - \n\nTY  - GEN\nDO  - 10.7326/0003-4819-141-9-200411020-00006\nPY  - 2004\nDA  - 2004\nER  - \n\nTY  - BOOK\nAU  - Rothe, C.\nTI  - Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl\nPB  - J, Med\nDO  - 10.1056/NEJMc2001468 (2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Holshue, M.L.\nT2  - et al. First Case of\nPY  - 2019\nDA  - 2019\nTI  - Novel Coronavirus in the United States\nC1  - N Engl\nLA  - \nER  - \n\nTY  - GEN\nA2  - J, Med\nDO  - 10.1056/NEJMoa2001191\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - BOOK\nAU  - Hoehl, S.\nTI  - Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China\nPB  - Journal of, Medicine\nDO  - 10.1056/NEJMc2001899 (2020\nC1  - true\nLA  - \nCY  - New England\nER  - \n\nTY  - GEN\nAU  - Patients\nTI  - New England Journal of, Medicine\nDO  - 10.1056/NEJMc2001737\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Corman, V.M.\nT2  - et al. Detection of\nPY  - 2019\nDA  - 2019\nTI  - novel coronavirus\nPB  - Euro Surveill 25\nDO  - 10.2807/1560-7917. ES.2020.25.3.2000045\nT2  - by real-time RT-PCR\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Corman, V.M.\nTI  - Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections\nPB  - Euro Surveill 17\nDO  - 10.2807/ese.17.49.20334-en\nPY  - 2012\nDA  - 2012\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Drosten, C.\nTI  - Transmission of MERS-coronavirus in household contacts\nT2  - N Engl J Med\nVL  - 371\nSP  - 828\nEP  - 835\nDO  - 10.1056/NEJMoa1405858\nPY  - 2014\nDA  - 2014\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Drosten, C.\nTI  - Evaluation of advanced reverse transcription-PCR assays and an alternative PCR target region for detection of severe acute respiratory syndromeassociated coronavirus\nT2  - J Clin Microbiol\nVL  - 42\nSP  - 2043\nEP  - 2047\nDO  - 10.1128/jcm.42.5.2043\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peiris, J.S.\nTI  - Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study\nT2  - Lancet\nVL  - 361\nDO  - 1767- 1772, doi: 10.1016/s0140-6736(03)13412-5\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Poon, L.L.\nTI  - Detection of SARS coronavirus in patients with severe acute respiratory syndrome by conventional and real-time quantitative reverse transcription-PCR assays\nT2  - Clin Chem\nVL  - 50\nSP  - 67\nEP  - 72\nDO  - 10.1373/clinchem.2003.023663\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ksiazek, T.G.\nTI  - A novel coronavirus associated with severe acute respiratory syndrome\nT2  - N Engl J Med\nVL  - 348\nSP  - 1953\nEP  - 1966\nDO  - 10.1056/NEJMoa030781\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Drosten, C.\nTI  - Identification of a novel coronavirus in patients with severe acute respiratory syndrome\nT2  - N Engl J Med\nVL  - 348\nSP  - 1967\nEP  - 1976\nDO  - 10.1056/NEJMoa030747\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peiris, J.S.\nTI  - Coronavirus as a possible cause of severe acute respiratory syndrome\nT2  - Lancet\nVL  - 361\nSP  - 1319\nEP  - 1325\nDO  - 10.1016/s0140-6736(03)13077-2\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Bertram, S.\nTI  - Influenza and SARS-coronavirus activating proteases TMPRSS2 and HAT are expressed at multiple sites in human respiratory and gastrointestinal tracts\nPB  - PloS one 7, e35876\nDO  - 10.1371/journal.pone.0035876\nPY  - 2012\nDA  - 2012\nC1  - true\nLA  - \nER  - \n\nTY  - CONF\nAU  - Belouzard, S.\nAU  - Chu, V.C.\nAU  - Whittaker, G.R.\nTI  - Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites\nT2  - Proceedings of the 106, 5871-5876, National Academy of Sciences of the\nPB  - States of America\nDO  - 10.1073/pnas.0809524106\nPY  - 2009\nDA  - 2009\nLA  - \nCY  - United\nER  - \n\nTY  - BOOK\nAU  - Corman, V.M.\nTI  - Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection. Clinical infectious diseases: 62, 477-483, an official publication of the Infectious Diseases\nPB  - Society of America\nDO  - 10.1093/cid/civ951\nPY  - 2016\nDA  - 2016\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, J.\nTI  - Human intestinal tract serves as an alternative infection route for Middle East respiratory syndrome coronavirus\nT2  - Sci Adv\nVL  - 3\nDO  - 10.1126/sciadv.aao4966\nPY  - 2017\nDA  - 2017\nC1  - true\nIS  - 4966\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Leung, W.K.\nTI  - Enteric involvement of severe acute respiratory syndromeassociated coronavirus infection\nT2  - Gastroenterology\nVL  - 125\nSP  - 1011\nEP  - 1017\nDO  - 10.1016/s0016-5085(03)01215-0\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Chen, N.\nTI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study\nPB  - The Lancet 395, 507513\nDO  - 10.1016/S0140-6736(20)30211-7 (2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Muller, M.A.\nTI  - Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study\nT2  - Lancet Infect Dis\nVL  - 15\nSP  - 559\nEP  - 564\nDO  - 10.1016/S1473-3099(15)70090-3\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Single nucleotide polymorphism in clinical samples from case #4"
+            },
+            {
+                "id": "2",
+                "caption": "Clinical characteristics of all patients"
+            },
+            {
+                "id": "3",
+                "caption": "IgG and IgM immunofluorescence titers against SARS-CoV-2 of all patients"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Hallmarks of viral shedding in aggregated samples. A, samples and sample types per day. B, viral RNA concentrations in upper respiratory tract samples. C, viral RNA concentrations in sputum and stool samples. D, virus isolation success dependent on day post-onset. E, virus isolation success dependent on viral load. F and G, projected virus isolation success based on probit distributions. The inner lines are probit curves (doseresponse rule). The outer dotted lines are 95% CI. For less than 5% isolation success, the estimated day was 9.78 (95% CI: 8.45-21.78) days post-onset and the estimated RNA concentration for less than 5% isolation success was estimate to be 6.51 Log[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] RNA/ml (95% CI:-4,11-5.40). H, Subgenomic viral RNA transcripts in relation to viral genomic RNA"
+            },
+            {
+                "id": "2",
+                "caption": "Viral load kinetics, seroconversion and clinical observations in individual cases. Panels A to I correspond to cases #1, #2, #3, #4, #7, #8, #10, #14, and #16 in B\u00f6hmer et al(accompanying manuscript). Dotted lines, limit of quantification"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.05.20030502.full.pdf_0li5h80g_gpdejft9.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.05.20030502.full.pdf_0li5h80g_images_e20xg8eh/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.05.20030502.full.pdf_0li5h80g_images_e20xg8eh/img-001.png"
+        ]
+    },
+    "sections": {
+        "conclusions": [
+            "The clinical courses in subjects under study were mild, all being young- to middle-aged professionals without significant underlying disease. Apart from one patient, all cases were first tested when symptoms were still mild or in the prodromal stage, a period in which most patients would present once there is general awareness of a circulating pandemic disease[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage of infection. This is in stark contrast to SARS. For instance, only 38 of 98 nasal or nasopharyngeal swab samples tested positive by RT-PCR in SARS patients in Hong Kong[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Also, viral load differed considerably. In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>,<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher. Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. Altogether, this suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is therefore not thought to replicate[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. At the same time, the concurrent use of ACE-2 as a receptor by SARS-CoV and SARS-CoV-2 corresponds to a highly similar excretion kinetic in sputum, with active replication in the lung. SARS-CoV was found in sputum at mean concentrations of 1.2-2.8x106 copies per mL, which corresponds to observations made here[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]."
+        ],
+        "ethical_compliance": [
+            "<strong>Ethical approval statement</strong><br/><br/>All patients provided informed consent to the use of their data and clinical samples for the purposes of the present study. Institutional review board clearance for the scientific use of patient data has been granted to the treating institution by the Ethikkommission bei der Medizinischen Fakult\u00e4t der Ludwig Maximillians Universtit\u00e4t M\u00fcnchen."
+        ],
+        "acknowledgements": [
+            "This work was funded by grants from the German Ministry of Research (01KI1723A) and the European Union (602525) to C. D. as well as by the German Bundeswehr Medical Service Biodefense Research Program. The funders had no role in study design, data collection and analysis or decision to publish.<br/><br/>We thank Petra Mackeldanz, Elisabeth M\u00f6ncke-Buchner, Anja Richter, Marie Schmidt, and J\u00f6rn Beheim-Schwarzbach for technical assistance.<br/><br/>Author contributions Roman W\u00f6lfel: Planned and supervised laboratory testing and evaluated data. Victor M. Corman: Planned and supervised laboratory testing and evaluated data. Wolfgang Guggemos: Managed patients and evaluated clinical data. Michael Seilmaier: Managed patients and evaluated clinical data. Sabine Zange: Performed laboratory testing. Marcel A. M\u00fcller: Managed serological laboratory testing. Daniela Niemeyer: Managed and performed virus isolation studies Patrick Vollmar: Managed laboratory testing Camilla Rothe: Managed initial patient contacts Michael Hoelscher: Managed initial patient contacts and evaluated clinical data Tobias Bleicker: Performed laboratory testing Sebastian Br\u00fcnink: Performed laboratory testing Julia Schneider: Performed laboratory testing Rosina Ehmann: Performed laboratory testing Katrin Zwirglmaier: Performed laboratory testing Christian Drosten: Designed and supervised laboratory studies, wrote the manuscript Clemens Wendtner: Designed and supervised clinical management and clinical data"
+        ],
+        "supplementary": [
+            "Information is available for this paper.<br/><br/>Correspondence and requests for materials should be addressed to Christian Drosten or Clemens Wendtner.<br/><br/>The authors declare no competing interests."
+        ],
+        "funding": [
+            "This work was funded by grants from the German Ministry of Research (01KI1723A) and the European Union (602525) to C"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [
+                "Supplementary Information"
+            ],
+            "supplementary_figure_references": [
+                "Table S1"
+            ]
+        },
+        "introduction": [
+            "Coronavirus disease 2019 (COVID-19) is an acute respiratory tract infection that emerged in late 20191,2. Initial outbreaks in China involved 13.8% cases with severe-, and 6.1% with critical courses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. This severe presentation corresponds to the usage of a virus receptor that is expressed predominantly in the lung[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. By causing an early onset of severe symptoms, this same receptor tropism is thought to have determined pathogenicity but also aided the control of severe acute respiratory syndrome (SARS) in 20035. However, there are reports of COVID-19 cases with mild upper respiratory tract symptoms, suggesting a potential for pre- or oligosymptomatic transmission[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>-<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. There is an urgent need for information on body site - specific virus replication, immunity, and infectivity. Here we provide a detailed virological analysis of nine cases, providing proof of active virus replication in upper respiratory tract tissues. Pharyngeal virus shedding was very high during the first week of symptoms (peak at 7.11 X 108 RNA copies per throat swab, day 4). Infectious virus was readily isolated from throat- and lung-derived samples, but not from stool samples in spite of high virus RNA concentration. Blood and urine never yielded virus. Active replication in the throat was confirmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat- and lung samples of one same patient. Shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after 6-12 days, but was not followed by a rapid decline of viral loads. COVID-19 can present as a mild upper respiratory tract illness. Active virus replication in the upper respiratory tract puts prospects of COVID-19 containment in perspective.",
+            "There is a close genetic relatedness between severe acute respiratory syndrome coronavirus (SARS-CoV) and the causative agent of COVID-19, SARS-CoV-2. The predominant expression of ACE2 in the lower respiratory tract is believed to have determined the natural history of SARS as a lower respiratory tract infection. Whereas positive SARS-CoV-2 detection in clinical specimens from the upper respiratory tract has been described[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], these observations do not address principal differences between SARS and COVID-19 in terms of clinical pathology. The here-studied patients were enrolled because they acquired their infections upon known close contact to an index case, thereby avoiding representational biases due to symptom-based case definitions. All patients were treated in a single hospital in Munich, Germany. Virological testing was done by two closely-collaborating laboratories using the same standards of technology for RT-PCR and virus isolation, confirming each other\u2019s results based on almost all individual samples. Due to extremely high congruence of results, all data are presented together. Only the serological data are based on results from one laboratory. The patients are part of a larger cluster of epidemiologically-linked cases that occurred after January 23rd, 2020 in Munich, Germany, as discovered on January 27th (B\u00f6hmer et al, accompanying manuscript). The present study uses samples taken during the clinical course in the hospital, as well as from initial diagnostic testing before admission. In cases when this initial diagnostic testing was done by other laboratories, the original samples were retrieved and re-tested under the rigorous quality standards of the present study."
+        ]
+    },
+    "structured_content": {
+        "Conclusions": [
+            "The clinical courses in subjects under study were mild, all being young- to middle-aged professionals without significant underlying disease. Apart from one patient, all cases were first tested when symptoms were still mild or in the prodromal stage, a period in which most patients would present once there is general awareness of a circulating pandemic disease[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage of infection. This is in stark contrast to SARS. For instance, only 38 of 98 nasal or nasopharyngeal swab samples tested positive by RT-PCR in SARS patients in Hong Kong[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Also, viral load differed considerably. In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>,<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher. Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. Altogether, this suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is therefore not thought to replicate[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. At the same time, the concurrent use of ACE-2 as a receptor by SARS-CoV and SARS-CoV-2 corresponds to a highly similar excretion kinetic in sputum, with active replication in the lung. SARS-CoV was found in sputum at mean concentrations of 1.2-2.8x106 copies per mL, which corresponds to observations made here[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].",
+            "Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARSCoV-2 with replication in the throat is strongly supported by our studies of sgRNAtranscribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung. Critically, the majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection. Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum. Studies should look at the prognostic value of an increase of viral load beyond the end of week 1, potentially indicating aggravation of symptoms.",
+            "One of the most interesting hypotheses to explain a potential extension of tropism to the throat is the presence of a polybasic furin-type cleavage site at the S1-S2 junction in the SARS-CoV-2 spike protein that is not present in SARS-CoV17. Insertion of a polybasic cleavage site in the S1-S2 region in SARS-CoV was shown to lead to a moderate but discernible gain of fusion activity that might result in increased viral entry in tissues with low density of ACE2 expression[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>].",
+            "The combination of very high virus RNA concentrations and occasional detection of sgRNAcontaining cells in stool indicate active replication in the gastrointestinal tract. Active replication is also suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. If virus was only passively present in stool, such as after swallowing respiratory secretions, similar detection rates as for MERS-CoV would be expected. Replication in the gastrointestinal tract is also supported by analogy with SARSCoV, which was regularly excreted in stool, from which it could be isolated in cell culture[<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. Our failure to isolate live SARS-CoV-2 from stool may be due to the mild courses of cases, with only one case showing intermittent diarrhea. In China, diarrhea has been seen in only 2 of 99 cases[<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]. Further studies should therefore address whether SARS-CoV-2 shed in stool is rendered non-infectious though contact with the gut environment. Our initial results suggest that measures to contain viral spread should aim at droplet-, rather than fomitebased transmission.",
+            "The prolonged viral shedding in sputum is relevant not only for hospital infection control, but also for discharge management. In a situation characterized by limited capacity of hospital beds in infectious diseases wards, there is pressure for early discharge following treatment. Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.",
+            "The serological courses of all patients suggest a timing of seroconversion similar to or slightly earlier than in SARS-CoV infection[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. Seroconversion in most cases of SARS occurred during the second week of symptoms. As in SARS and MERS, IgM was not detected significantly earlier than IgG in immunofluorescence, which might in part be due to technical reasons as the higher avidity of IgG antibodies outcompetes IgM for viral epitopes in the assay. IgG depletion can only partially alleviate this effect. Because IFA is a laborintensive method, ELISA tests should be developed as a screening test. Neutralization testing is necessary to rule out cross-reactive antibodies directed against endemic human coronaviruses. Based on frequently low neutralizing antibody titers observed in coronavirus infection 12,25, we have here developed a particularly sensitive plaque reduction neutralization assay. Considering the titers observed, a simpler microneutralization test format is likely to provide sufficient sensitivity in routine application and population studies.",
+            "When aligned to viral load courses, it seems there is no abrupt virus elimination at the time of seroconversion. Rather, seroconversion early in week 2 coincides with a slow but steady decline of sputum viral load. Whether certain properties such as glycosylation pattern at critical sites of the glycoprotein play a role in the attenuation of neutralizing antibody response needs further clarification. In any case, vaccine approaches targeting mainly the induction of antibody responses should aim to induce particularly strong antibody responses in order to be effective."
+        ],
+        "References": [
+            "Zhu, N. et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N",
+            "Engl J , Med doi:10.1056/NEJMoa2001017 (2020).",
+            "Gorbalenya, A. E. et al <em>Severe acute respiratory syndrome-related coronavirus</em>: The species and its viruses \u2013 a statement of the Coronavirus Study",
+            "Group. , bioRxiv 2020.2002.2007.937862, doi:10.1101/2020.02.07.937862 (2020).",
+            "WHO. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-",
+            ", 19) <https://www.who.int/docs/default-source/coronaviruse/who-china-jointmission-on-covid-19-final-report.pdf> (2020).",
+            "Hoffmann, M. et al The novel coronavirus 2019 (2019-nCoV) uses the SARS-",
+            "coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. , bioRxiv 2020.2001.2031.929042, doi:10.1101/2020.01.31.929042 (2020).",
+            "Leung, G. M. et al The epidemiology of severe acute respiratory syndrome in the",
+            "2003 Hong Kong epidemic: an analysis of all 1755 patients. Ann Intern Med 141, 662-",
+            "673, doi:10.7326/0003-4819-141-9-200411020-00006 (2004).",
+            "Rothe, C. et al Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J , Med doi:10.1056/NEJMc2001468 (2020).",
+            "Holshue, M. L. et al First Case of 2019 Novel Coronavirus in the United States. N Engl",
+            "J , Med doi:10.1056/NEJMoa2001191 (2020).",
+            "Hoehl, S. et al Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China. New England Journal of , Medicine doi:10.1056/NEJMc2001899 (2020).",
+            "Zou, L. et al SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected",
+            "Patients. New England Journal of , Medicine doi:10.1056/NEJMc2001737 (2020).",
+            "10 Corman, V. M. et al Detection of 2019 novel coronavirus (2019-nCoV) by real-time",
+            "RT-PCR. Euro Surveill 25, doi:10.2807/1560-7917.ES.2020.25.3.2000045 (2020).",
+            "11 Corman, V. M. et al Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections. Euro Surveill 17, doi:10.2807/ese.17.49.20334-en (2012).",
+            "12 Drosten, C. et al Transmission of MERS-coronavirus in household contacts. N Engl J",
+            "Med 371, 828-835, doi:10.1056/NEJMoa1405858 (2014).",
+            "13 Drosten, C. et al Evaluation of advanced reverse transcription-PCR assays and an alternative PCR target region for detection of severe acute respiratory syndromeassociated coronavirus. J Clin Microbiol 42, 2043-2047, doi:10.1128/jcm.42.5.2043-",
+            "2047.2004 (2004).",
+            "14 Peiris, J. S. et al Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study. Lancet 361, 1767-",
+            "1772, doi:10.1016/s0140-6736(03)13412-5 (2003).",
+            "15 Poon, L. L. et al Detection of SARS coronavirus in patients with severe acute respiratory syndrome by conventional and real-time quantitative reverse transcription-PCR assays. Clin Chem 50, 67-72, doi:10.1373/clinchem.2003.023663",
+            "(2004).",
+            "16 Ksiazek, T. G. et al A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med 348, 1953-1966, doi:10.1056/NEJMoa030781 (2003).",
+            "17 Drosten, C. et al Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med 348, 1967-1976, doi:10.1056/NEJMoa030747",
+            "(2003).",
+            "18 Peiris, J. S. et al Coronavirus as a possible cause of severe acute respiratory syndrome. Lancet 361, 1319-1325, doi:10.1016/s0140-6736(03)13077-2 (2003).",
+            "19 Bertram, S. et al Influenza and SARS-coronavirus activating proteases TMPRSS2 and HAT are expressed at multiple sites in human respiratory and gastrointestinal tracts. PloS one 7, e35876, doi:10.1371/journal.pone.0035876 (2012).",
+            "20 Belouzard, S., Chu, V. C. & Whittaker, G. R. Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites. Proceedings of the 106, 5871-5876, National Academy of Sciences of the United States of America doi:10.1073/pnas.0809524106 (2009).",
+            "21 Corman, V. M. et al Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection. Clinical infectious diseases : 62, 477-483, an official publication of the Infectious Diseases Society of America doi:10.1093/cid/civ[951] (2016).",
+            "22 Zhou, J. et al Human intestinal tract serves as an alternative infection route for Middle East respiratory syndrome coronavirus. Sci Adv 3, eaao4966, doi:10.1126/sciadv.aao4966 (2017).",
+            "23 Leung, W. K. et al Enteric involvement of severe acute respiratory syndromeassociated coronavirus infection. Gastroenterology 125, 1011-1017, doi:10.1016/s0016-5085(03)01215-0 (2003).",
+            "24 Chen, N. et al Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet 395, 507513, doi:10.1016/S0140-6736(20)30211-7 (2020).",
+            "25 Muller, M. A. et al Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study. Lancet Infect Dis 15, 559-564, doi:10.1016/S1473-3099(15)70090-3 (2015).",
+            "Table 1. Single nucleotide polymorphism in clinical samples from case #4",
+            "Day p.o.",
+            "Swab",
+            "A",
+            "Sputum",
+            "G",
+            "G>A",
+            "Stool",
+            "A=G",
+            "Table 2. Clinical characteristics of all patients",
+            "PATIENT ID #1",
+            "#2",
+            "#3",
+            "#4 #7 #8 #10 #14",
+            "#16",
+            "COMORBIDITY hypothyreoidism none",
+            "COPD none hypercholesterinemia none none none none",
+            "INITIAL SYMPTOMS cough, fever, diarrhea sinusitis, cephalgia, cough, arthralgia, sinusitis, cough, otitis, rhinitis, rhinitis, cough, sinusitis, cough sinusitis, cough, fever, cough, diarrhea none",
+            "ANC/\u03bcL 4870",
+            "ALC/\u03bcL 1900",
+            "CRP (MG/L) 46",
+            "1.3",
+            "0.5",
+            "LDH (U/L) 197",
+            "Abbreviations: ANC = absolute neutrophil count, ALC = absolute lymphocyte count, CRP = C-reactive protein, LDH = lactate dehydrogenase, M = male, F= female",
+            "Table 3. IgG and IgM immunofluorescence titers against SARS-CoV-2 of all patients",
+            "Patient ID Day p.o. IgG Day p.o. IgG IgM",
+            "PRNT90 PRNT50",
+            "#1",
+            "<10 21",
+            "1,000 100",
+            ">640",
+            "<10 19",
+            "<10 23",
+            "#4",
+            "<10 17",
+            "10,000 <10",
+            "#7",
+            "<10 20",
+            "10,000 100",
+            ">1280 >1280",
+            "#8",
+            "10,000 10",
+            ">320",
+            "#10",
+            "<10 15",
+            ">40",
+            "#14 na na",
+            "#16 na"
+        ],
+        "Figures": [],
+        "Materials and Methods": [
+            "Clinical samples and viral load conversion Sputum- and stool samples were taken and shipped in native condition. Oro- and nasopharyngeal throat swabs were preserved in 3 mL of viral transport medium. Viral loads in sputum samples were projected to RNA copies per mL, in stool to copies per g, and in throat swabs to copies per 3 mL, assuming that all sample components were suspended in the 3 mL viral transport medium. For swab samples suspended in less than 3 mL viral transport medium, this conversion was adapted to represent copies per whole swab. An aggregated overview of samples received per day post onset of disease from all patients is shown in Figure 1A.",
+            "RT-PCR for SARS-CoV-2 and other respiratory viruses RT-PCR used targets in the E- and RdRp genes as described[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. Both laboratories used a pre-formulated oligonucleotide mixture (Tib-Molbiol, Berlin, Germany) to make laboratory procedures more reproducible. All patients were also tested for other respiratory viruses, including human coronaviruses (HCoV) -HKU1, -OC43, -NL63, -229E; Influenza virus A and B, Rhinovirus, Enterovirus, Respiratory syncytial virus, Human Parainfluenza virus 1-4, Human metapneumovirus, Adenovirus, and Human bocavirus using LightMix-Modular Assays (Roche, Penzberg, Germany). Additional technical details are provided in Section 1 in the Supplementary Appendix.",
+            "Virus isolation Virus isolation was done in two laboratories on Vero E6 cells. 100 \u03bcl of suspended, cleared, and filtered clinical sample was mixed with an equal volume of cell culture medium. Supernatant was harvested after 0, 1, 3, and 5 days and used in RT-PCR analysis. Additional technical details are provided in Section 2a in the Supplementary Appendix.",
+            "Serology We performed recombinant immunofluorescence assays to determine the specific reactivity against recombinant spike proteins in VeroB4 cells, as described[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>,<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. This assay used cloned CoV spike protein from HCoV-229E, HCoV-NL63, HCoV-OC43, HCoV-HKU1, and SARSCoV-2. The screening dilution was 1:10. Plaque reduction neutralization tests were done essentially as previously described for MERS-CoV12. Serum dilutions causing plaque reductions of 90% (PRNT90) and 50% (PRNT50) were recorded as titers. Additional technical details are provided in Section 2b and 2c in the Supplementary Appendix.",
+            "Statistical analyses were done using SPSS software (Version 25) or GrapPad Prism (Version 8).",
+            "Ethical approval statement All patients provided informed consent to the use of their data and clinical samples for the purposes of the present study. Institutional review board clearance for the scientific use of patient data has been granted to the treating institution by the Ethikkommission bei der Medizinischen Fakult\u00e4t der Ludwig Maximillians Universtit\u00e4t M\u00fcnchen."
+        ],
+        "Acknowledgements": [
+            "This work was funded by grants from the German Ministry of Research (01KI1723A) and the European Union (602525) to C. D. as well as by the German Bundeswehr Medical Service Biodefense Research Program. The funders had no role in study design, data collection and analysis or decision to publish.",
+            "We thank Petra Mackeldanz, Elisabeth M\u00f6ncke-Buchner, Anja Richter, Marie Schmidt, and J\u00f6rn Beheim-Schwarzbach for technical assistance.",
+            "Author contributions Roman W\u00f6lfel: Planned and supervised laboratory testing and evaluated data. Victor M. Corman: Planned and supervised laboratory testing and evaluated data. Wolfgang Guggemos: Managed patients and evaluated clinical data. Michael Seilmaier: Managed patients and evaluated clinical data. Sabine Zange: Performed laboratory testing. Marcel A. M\u00fcller: Managed serological laboratory testing. Daniela Niemeyer: Managed and performed virus isolation studies Patrick Vollmar: Managed laboratory testing Camilla Rothe: Managed initial patient contacts Michael Hoelscher: Managed initial patient contacts and evaluated clinical data Tobias Bleicker: Performed laboratory testing Sebastian Br\u00fcnink: Performed laboratory testing Julia Schneider: Performed laboratory testing Rosina Ehmann: Performed laboratory testing Katrin Zwirglmaier: Performed laboratory testing Christian Drosten: Designed and supervised laboratory studies, wrote the manuscript Clemens Wendtner: Designed and supervised clinical management and clinical data"
+        ],
+        "Supplementary": [
+            "Information is available for this paper.",
+            "Correspondence and requests for materials should be addressed to Christian Drosten or Clemens Wendtner.",
+            "The authors declare no competing interests."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "hospitalized cases",
+            "number": 9,
+            "context": "However, cases seen outside the epicenter of the epidemic may differ in their overall clinical appearance due to more sensitive case finding. <mark class=\"stats\">Methods: We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases</mark>. Infectious virus was detected by cell culture"
+        },
+        {
+            "participant": "cases",
+            "number": 7,
+            "context": "Serology including neutralization testing was done to characterize immune response. <mark class=\"stats\">Results: Seven cases had upper respiratory tract disease</mark>. Lower respiratory tract symptoms seen in two cases were limited"
+        },
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "Results: Seven cases had upper respiratory tract disease. <mark class=\"stats\">Lower respiratory tract symptoms seen in two cases were limited</mark>. Clinical sensitivity of RT-PCR on swabs taken on days 1-5 of symptoms was 100%, with no differences comparing swab and sputum samples taken simultaneously"
+        },
+        {
+            "participant": "patients",
+            "number": 7,
+            "context": "Average viral load in sputum was 1.18 x 106 copies per mL (maximum, 6.65x108 copies per mL). <mark class=\"stats\">Because swab samples had limited sensitivity for initial diagnosis of cases of SARS13,14, we analyzed the first paired swab and sputum samples taken on the same occasion from seven patients (Table 1)</mark>. All samples were taken between 2 and 4 days post-onset"
+        },
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "All samples were taken between 2 and 4 days post-onset. <mark class=\"stats\">In two cases, swab samples had clearly higher virus concentrations than sputum samples, as indicated by a difference greater than 3 in threshold cycle (Ct) value</mark>. The opposite was true in two others cases, while the other 5 cases had similar concentrations in both sample types"
+        },
+        {
+            "participant": "others cases",
+            "number": 2,
+            "context": "In two cases, swab samples had clearly higher virus concentrations than sputum samples, as indicated by a difference greater than 3 in threshold cycle (Ct) value. <mark class=\"stats\">The opposite was true in two others cases, while the other 5 cases had similar concentrations in both sample types</mark>. None of 27 urine samples and none of 31 serum samples were tested positive for SARSCoV2 RNA"
+        },
+        {
+            "participant": "urine samples",
+            "number": 27,
+            "context": "The opposite was true in two others cases, while the other 5 cases had similar concentrations in both sample types. <mark class=\"stats\">None of 27 urine samples and none of 31 serum samples were tested positive for SARSCoV2 RNA</mark>. To understand infectivity, live virus isolation was attempted on multiple occasions from clinical samples (Figure 1 D)"
+        },
+        {
+            "participant": "samples",
+            "number": 13,
+            "context": "Whereas virus was readily isolated during the first week of symptoms from a significant fraction of samples (16.66% in swabs, 83.33% in sputum samples), no isolates were obtained from samples taken after day 8 in spite of ongoing high viral loads. <mark class=\"stats\">Virus isolation from stool samples was never successful, irrespective of viral RNA concentration, based on a total of 13 samples taken between days six to twelve from four patients</mark>. Virus isolation success also depended on viral load: samples containing <106 copies/mL (or copies per sample) never yielded an isolate"
+        },
+        {
+            "participant": "patients",
+            "number": 2,
+            "context": "All cases had comparatively mild courses (Table 2). <mark class=\"stats\">The two patients who showed some signs of pneumonia were the only cases where sputum viral loads showed a late and high peak around day 10/11, whereas sputum viral loads were on the decline by this time in all other patients (Figure 2 F,G)</mark>. Seroconversion was detected by IgG and IgM immunofluorescence using cells expressing the spike protein of SARS-CoV-2 and a virus neutralization assay using SARS-CoV-2 (Table 3)"
+        },
+        {
+            "participant": "patients",
+            "number": 2,
+            "context": "Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. <mark class=\"stats\">Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum</mark>. Studies should look at the prognostic value of an increase of viral load beyond the end of week 1, potentially indicating aggravation of symptoms"
+        },
+        {
+            "participant": "patients",
+            "number": 37,
+            "context": "The combination of very high virus RNA concentrations and occasional detection of sgRNAcontaining cells in stool indicate active replication in the gastrointestinal tract. <mark class=\"stats\">Active replication is also suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia21,22</mark>. If virus was only passively present in stool, such as after swallowing respiratory secretions, similar detection rates as for MERS-CoV would be expected"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "RT-PCR",
+        "acute respiratory",
+        "low respiratory tract",
+        "respiratory tract infection",
+        "active virus replication",
+        "active replication",
+        "coronavirus disease",
+        "case definition",
+        "initial diagnostic",
+        "viral load",
+        "virus replication",
+        "subgenomic messenger RNAs",
+        "upper respiratory tract tissue",
+        "viral rna",
+        "sars cov",
+        "pneumonia",
+        "present study",
+        "rt pcr",
+        "COVID-19",
+        "severe acute respiratory syndrome"
+    ],
+    "keyword_relevance": {
+        "severe acute respiratory syndrome": 0.3741007194,
+        "viral load": 0.1366906475,
+        "acute respiratory": 0.0791366906,
+        "RT-PCR": 0.071942446,
+        "subgenomic messenger RNAs": 0.0575539568,
+        "virus replication": 0.0503597122,
+        "COVID-19": 0.0503597122,
+        "present study": 0.035971223,
+        "active replication": 0.0287769784,
+        "respiratory tract infection": 0.0215827338,
+        "active virus replication": 0.0215827338,
+        "upper respiratory tract tissue": 0.0215827338,
+        "pneumonia": 0.0215827338,
+        "initial diagnostic": 0.0143884892,
+        "coronavirus disease": 0.0071942446,
+        "case definition": 0.0071942446,
+        "low respiratory tract": 0.0,
+        "viral rna": 0.0,
+        "sars cov": 0.0,
+        "rt pcr": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Coronavirus disease 2019 (COVID-19) is an acute respiratory tract infection that emerged in late 20191,2.",
+        "Initial outbreaks in China involved 13.8% cases with severe-, and 6.1% with critical courses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "This severe presentation corresponds to the usage of a virus receptor that is expressed predominantly in the lung[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+        "Active virus replication in the upper respiratory tract puts prospects of COVID-19 containment in perspective.",
+        "Virological testing was done by two closely-collaborating laboratories using the same standards of technology for RT-PCR and virus isolation, confirming each other\u2019s results based on almost all individual samples.",
+        "In cases when this initial diagnostic testing was done by other laboratories, the original samples were retrieved and re-tested under the rigorous quality standards of the present study",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The clinical courses in subjects under study were mild, all being young- to middle-aged professionals without significant underlying disease.",
+        "Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage of infection",
+        "This is in stark contrast to SARS.",
+        "Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]",
+        "This suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is not thought to replicate[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].",
+        "SARS-CoV was found in sputum at mean concentrations of 1.2-2.8x106 copies per mL, which corresponds to observations made here[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Coronavirus disease 2019 (COVID-19) is an acute respiratory tract infection that emerged in late 20191,2.",
+            "Initial outbreaks in China involved 13.8% cases with severe-, and 6.1% with critical courses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+            "This severe presentation corresponds to the usage of a virus receptor that is expressed predominantly in the lung[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "Active virus replication in the upper respiratory tract puts prospects of COVID-19 containment in perspective.",
+            "Virological testing was done by two closely-collaborating laboratories using the same standards of technology for RT-PCR and virus isolation, confirming each other\u2019s results based on almost all individual samples.",
+            "In cases when this initial diagnostic testing was done by other laboratories, the original samples were retrieved and re-tested under the rigorous quality standards of the present study"
+        ],
+        "Conclusion": [
+            "The clinical courses in subjects under study were mild, all being young- to middle-aged professionals without significant underlying disease.",
+            "Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage of infection",
+            "This is in stark contrast to SARS.",
+            "Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]",
+            "This suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is not thought to replicate[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].",
+            "SARS-CoV was found in sputum at mean concentrations of 1.2-2.8x106 copies per mL, which corresponds to observations made here[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "Zhu_2019_a",
+            "alt_id": "1",
+            "entry": "Zhu, N. et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N"
+        },
+        {
+            "id": "Engl_2020_a",
+            "alt_id": "2",
+            "entry": "Engl J, Med doi:10.1056/NEJMoa2001017 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "Group._2020_a",
+            "alt_id": "3",
+            "entry": "Group., bioRxiv 2020.2002.2007.937862, doi:10.1101/2020.02.07.937862 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.07.937862",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.07.937862"
+        },
+        {
+            "id": "WHO._2019_a",
+            "alt_id": "4",
+            "entry": "WHO. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WHO%20Report%20of%20the%20WHOChina%20Joint%20Mission%20on%20Coronavirus%20Disease%202019%20COVID"
+        },
+        {
+            "id": "_2020_a",
+            "alt_id": "5",
+            "entry": ", 19) <https://www.who.int/docs/default-source/coronaviruse/who-china-jointmission-on-covid-19-final-report.pdf> (2020).",
+            "url": "https://www.who.int/docs/default-source/coronaviruse/who-china-jointmission-on-covid-19-final-report.pdf>"
+        },
+        {
+            "id": "Hoffmann_2019_a",
+            "alt_id": "6",
+            "entry": "Hoffmann, M. et al. The novel coronavirus 2019 (2019-nCoV) uses the SARS-",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hoffmann%2C%20M.%20uses%20the%20SARS-%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hoffmann%2C%20M.%20uses%20the%20SARS-%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hoffmann%2C%20M.%20uses%20the%20SARS-%202019"
+        },
+        {
+            "id": "coronavirus_2020_b",
+            "alt_id": "7",
+            "entry": "coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells., bioRxiv 2020.2001.2031.929042, doi:10.1101/2020.01.31.929042 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.31.929042",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.31.929042"
+        },
+        {
+            "id": "2003_1755_b",
+            "alt_id": "8",
+            "entry": "2003 Hong Kong epidemic: an analysis of all 1755 patients. Ann Intern Med 141, 662-",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hong%20Kong%20epidemic%20an%20analysis%20of%20all%201755%20patients%20Ann%20Intern%20Med%20141%20662",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hong%20Kong%20epidemic%20an%20analysis%20of%20all%201755%20patients%20Ann%20Intern%20Med%20141%20662",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hong%20Kong%20epidemic%20an%20analysis%20of%20all%201755%20patients%20Ann%20Intern%20Med%20141%20662"
+        },
+        {
+            "id": "673_2004_a",
+            "alt_id": "9",
+            "entry": "673, doi:10.7326/0003-4819-141-9-200411020-00006 (2004).",
+            "crossref": "https://dx.doi.org/10.7326/0003-4819-141-9-200411020-00006",
+            "scite": "https://scite.ai/reports/10.7326/0003-4819-141-9-200411020-00006"
+        },
+        {
+            "id": "Rothe_2019_a",
+            "alt_id": "10",
+            "entry": "Rothe, C. et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J, Med doi:10.1056/NEJMc2001468 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMc2001468",
+            "scite": "https://scite.ai/reports/10.1056/NEJMc2001468"
+        },
+        {
+            "id": "Holshue_2019_a",
+            "alt_id": "11",
+            "entry": "Holshue, M. L. et al. First Case of 2019 Novel Coronavirus in the United States. N Engl",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Holshue%2C%20M.L.%20Novel%20Coronavirus%20in%20the%20United%20States%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Holshue%2C%20M.L.%20Novel%20Coronavirus%20in%20the%20United%20States%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Holshue%2C%20M.L.%20Novel%20Coronavirus%20in%20the%20United%20States%202019"
+        },
+        {
+            "id": "Med_2020_a",
+            "alt_id": "12",
+            "entry": "J, Med doi:10.1056/NEJMoa2001191 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001191",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001191"
+        },
+        {
+            "id": "Hoehl_0000_a",
+            "alt_id": "13",
+            "entry": "Hoehl, S. et al. Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China. New England Journal of, Medicine doi:10.1056/NEJMc2001899 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMc2001899",
+            "scite": "https://scite.ai/reports/10.1056/NEJMc2001899"
+        },
+        {
+            "id": "Patients_2020_a",
+            "alt_id": "14",
+            "entry": "Patients. New England Journal of, Medicine doi:10.1056/NEJMc2001737 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMc2001737",
+            "scite": "https://scite.ai/reports/10.1056/NEJMc2001737"
+        },
+        {
+            "id": "10",
+            "alt_id": "Corman_2019_a",
+            "entry": "10 Corman, V. M. et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill 25, doi:10.2807/1560-7917.ES.2020.25.3.2000045 (2020).",
+            "crossref": "https://dx.doi.org/10.2807/1560-7917.ES.2020.25.3.2000045",
+            "scite": "https://scite.ai/reports/10.2807/1560-7917.ES.2020.25.3.2000045",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.2807/1560-7917.ES.2020.25.3.2000045"
+        },
+        {
+            "id": "11",
+            "alt_id": "Corman_2012_a",
+            "entry": "11 Corman, V. M. et al. Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections. Euro Surveill 17, doi:10.2807/ese.17.49.20334-en (2012).",
+            "crossref": "https://dx.doi.org/10.2807/ese.17.49.20334-en",
+            "scite": "https://scite.ai/reports/10.2807/ese.17.49.20334-en"
+        },
+        {
+            "id": "12",
+            "alt_id": "Drosten_2014_a",
+            "entry": "12 Drosten, C. et al. Transmission of MERS-coronavirus in household contacts. N Engl J Med 371, 828-835, doi:10.1056/NEJMoa1405858 (2014).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa1405858",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa1405858",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa1405858"
+        },
+        {
+            "id": "13",
+            "alt_id": "Drosten_0000_a",
+            "entry": "13 Drosten, C. et al. Evaluation of advanced reverse transcription-PCR assays and an alternative PCR target region for detection of severe acute respiratory syndromeassociated coronavirus. J Clin Microbiol 42, 2043-2047, doi:10.1128/jcm.42.5.2043-",
+            "crossref": "https://dx.doi.org/10.1128/jcm.42.5.2043-",
+            "scite": "https://scite.ai/reports/10.1128/jcm.42.5.2043-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/jcm.42.5.2043-"
+        },
+        {
+            "id": "Peiris_2003_a",
+            "alt_id": "19",
+            "entry": "2047.2004 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Peiris%2C%20J.S.%20Clinical%20progression%20and%20viral%20load%20in%20a%20community%20outbreak%20of%20coronavirus-associated%20SARS%20pneumonia%3A%20a%20prospective%20study%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Peiris%2C%20J.S.%20Clinical%20progression%20and%20viral%20load%20in%20a%20community%20outbreak%20of%20coronavirus-associated%20SARS%20pneumonia%3A%20a%20prospective%20study%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Peiris%2C%20J.S.%20Clinical%20progression%20and%20viral%20load%20in%20a%20community%20outbreak%20of%20coronavirus-associated%20SARS%20pneumonia%3A%20a%20prospective%20study%202003"
+        },
+        {
+            "id": "14",
+            "alt_id": "Poon_2004_a",
+            "entry": "14 Peiris, J. S. et al. Clinical progression and viral load in a community outbreak of coronavirus-associated SARS pneumonia: a prospective study. Lancet 361, 1767- 1772, doi:10.1016/s0140-6736(03)13412-5 (2003).",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(03)13412-5",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(03)13412-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/s0140-6736%2803%2913412-5"
+        },
+        {
+            "id": "15",
+            "alt_id": "Ksiazek_2003_a",
+            "entry": "15 Poon, L. L. et al. Detection of SARS coronavirus in patients with severe acute respiratory syndrome by conventional and real-time quantitative reverse transcription-PCR assays. Clin Chem 50, 67-72, doi:10.1373/clinchem.2003.023663 (2004).",
+            "crossref": "https://dx.doi.org/10.1373/clinchem.2003.023663",
+            "scite": "https://scite.ai/reports/10.1373/clinchem.2003.023663",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1373/clinchem.2003.023663"
+        },
+        {
+            "id": "16",
+            "alt_id": "Drosten_2003_a",
+            "entry": "16 Ksiazek, T. G. et al. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med 348, 1953-1966, doi:10.1056/NEJMoa030781 (2003).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa030781",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa030781",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa030781"
+        },
+        {
+            "id": "17",
+            "alt_id": "Peiris_2003_b",
+            "entry": "17 Drosten, C. et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med 348, 1967-1976, doi:10.1056/NEJMoa030747 (2003).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa030747",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa030747",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa030747"
+        },
+        {
+            "id": "18",
+            "alt_id": "Bertram_2012_a",
+            "entry": "18 Peiris, J. S. et al. Coronavirus as a possible cause of severe acute respiratory syndrome. Lancet 361, 1319-1325, doi:10.1016/s0140-6736(03)13077-2 (2003).",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(03)13077-2",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(03)13077-2"
+        },
+        {
+            "id": "19",
+            "alt_id": "Belouzard_et+al_2009_a",
+            "entry": "19 Bertram, S. et al. Influenza and SARS-coronavirus activating proteases TMPRSS2 and HAT are expressed at multiple sites in human respiratory and gastrointestinal tracts. PloS one 7, e35876, doi:10.1371/journal.pone.0035876 (2012).",
+            "crossref": "https://dx.doi.org/10.1371/journal.pone.0035876",
+            "scite": "https://scite.ai/reports/10.1371/journal.pone.0035876",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pone.0035876"
+        },
+        {
+            "id": "20",
+            "alt_id": "Corman_2016_a",
+            "entry": "20 Belouzard, S., Chu, V. C. & Whittaker, G. R. Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites. Proceedings of the 106, 5871-5876, National Academy of Sciences of the United States of America doi:10.1073/pnas.0809524106 (2009).",
+            "crossref": "https://dx.doi.org/10.1073/pnas.0809524106",
+            "scite": "https://scite.ai/reports/10.1073/pnas.0809524106"
+        },
+        {
+            "id": "21",
+            "alt_id": "Zhou_2017_a",
+            "entry": "21 Corman, V. M. et al. Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection. Clinical infectious diseases: 62, 477-483, an official publication of the Infectious Diseases Society of America doi:10.1093/cid/civ951 (2016).",
+            "crossref": "https://dx.doi.org/10.1093/cid/civ951",
+            "scite": "https://scite.ai/reports/10.1093/cid/civ951",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/cid/civ951"
+        },
+        {
+            "id": "22",
+            "alt_id": "Leung_2003_a",
+            "entry": "22 Zhou, J. et al. Human intestinal tract serves as an alternative infection route for Middle East respiratory syndrome coronavirus. Sci Adv 3, eaao4966, doi:10.1126/sciadv.aao4966 (2017).",
+            "crossref": "https://dx.doi.org/10.1126/sciadv.aao4966",
+            "scite": "https://scite.ai/reports/10.1126/sciadv.aao4966",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1126/sciadv.aao4966"
+        },
+        {
+            "id": "23",
+            "alt_id": "Chen_2019_a",
+            "entry": "23 Leung, W. K. et al. Enteric involvement of severe acute respiratory syndromeassociated coronavirus infection. Gastroenterology 125, 1011-1017, doi:10.1016/s0016-5085(03)01215-0 (2003).",
+            "crossref": "https://dx.doi.org/10.1016/s0016-5085(03)01215-0",
+            "scite": "https://scite.ai/reports/10.1016/s0016-5085(03)01215-0"
+        },
+        {
+            "id": "24",
+            "alt_id": "Muller_2015_a",
+            "entry": "24 Chen, N. et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet 395, 507513, doi:10.1016/S0140-6736(20)30211-7 (2020).",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30211-7",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30211-7",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930211-7"
+        }
+    ],
+    "facts": [
+        "cases seen outside the epicenter of the epidemic may differ in their overall clinical appearance",
+        "Infectious virus was detected by cell culture",
+        "Active replication was demonstrated by analysis of viral subgenomic replicative intermediates",
+        "Lower respiratory tract symptoms seen in two cases were limited",
+        "Clinical sensitivity of RT-PCR on swabs taken on days 1-5 of symptoms was",
+        "Live virus isolates were obtained from swabs during the first week",
+        "Proof of active viral replication in upper respiratory tract tissues was obtained by detection of subgenomic viral RNA",
+        "of viral RNA from sputum outlasted the end of symptoms",
+        "Seroconversion occurred after about one week",
+        "The present study shows that COVID-19 can often present as a common cold-like illness",
+        "SARS-CoV-2 can actively replicate in the upper respiratory tract",
+        "This severe presentation corresponds to the usage of a virus receptor",
+        "Pharyngeal virus shedding was very high during the first week of symptoms",
+        "Infectious virus was readily isolated from throat-",
+        "Active replication in the throat was confirmed by viral replicative RNA intermediates in throat samples",
+        "Sequence-distinct virus populations were consistently detected in throat- and lung samples of one same patient",
+        "Seroconversion occurred after 6-12 days",
+        "COVID-19 can present as a mild upper respiratory tract illness",
+        "The predominant expression of ACE2 in the lower respiratory tract is believed to have determined the natural history of SARS as a lower respiratory tract infection",
+        "All patients were treated in a single hospital in Munich",
+        "Virological testing was done by two closely-collaborating laboratories using the same standards of technology",
+        "the serological data are based on results from one laboratory",
+        "The patients are part of a larger cluster of epidemiologically-linked cases that occurred after January 23rd",
+        "The present study uses samples taken during the clinical course in the hospital",
+        "this initial diagnostic testing was done by other laboratories",
+        "Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage",
+        "nasopharyngeal swab samples tested positive by RT-PCR in SARS patients",
+        "peak concentrations were reached before day 5",
+        "more than 1000 times higher. Successful live virus isolation from throat swabs is another striking difference from SARS",
+        "SARS-CoV is not thought to replicate[19",
+        "SARS-CoV was found in sputum at mean concentrations",
+        "which corresponds to observations made here[13",
+        "Successful live virus isolation from throat swabs is another striking difference from SARS",
+        "found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh"
+    ],
+    "claims": [
+        "Methods: We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases",
+        "Conclusions: The present study shows that COVID-19 can often present as a common cold-like illness",
+        "Active replication is also suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia21,22"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "The predominant expression of ACE2 in the lower respiratory tract is believed to have determined the natural history of severe acute respiratory syndrome as a lower respiratory tract infection",
+        "Virological testing was done by two closely-collaborating laboratories using the same standards of technology for RT-PCR and virus isolation, confirming each other\u2019s results based on almost all individual samples",
+        "The present study uses samples taken during the clinical course in the hospital, as well as from initial diagnostic testing before admission",
+        "In cases when this initial diagnostic testing was done by other laboratories, the original samples were retrieved and re-tested under the rigorous quality standards of the present study",
+        "Only 38 of 98 nasal or nasopharyngeal swab samples tested positive by RT-PCR in severe acute respiratory syndrome patients in Hong Kong[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "Peak concentrations were reached before day 5, and were more than 1000 times higher",
+        "Successful live virus isolation from throat swabs is another striking difference from severe acute respiratory syndrome, for which such isolation was rarely successful[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]",
+        "severe acute respiratory syndrome-CoV was found in sputum at mean concentrations of 1.2-2.8x106 copies per mL, which corresponds to observations made here[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+        "Active replication is suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]"
+    ],
+    "top_statements": [
+        "Coronavirus disease 2019 (COVID-19) is an acute respiratory tract infection that emerged in late 20191,2",
+        "Only 38 of 98 nasal or nasopharyngeal swab samples tested positive by RT-PCR in severe acute respiratory syndrome patients in Hong Kong[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "Peak concentrations were reached before day 5, and were more than 1000 times higher",
+        "Successful live virus isolation from throat swabs is another striking difference from severe acute respiratory syndrome, for which such isolation was rarely successful[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>-<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]",
+        "severe acute respiratory syndrome-CoV was found in sputum at mean concentrations of 1.2-2.8x106 copies per mL, which corresponds to observations made here[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+        "Active replication is suggested by a much higher detection rate as compared to MERScoronavirus, for which we found stool-associated RNA in only 14.6% samples in 37 patients hospitalized in Riyadh, Saudi Arabia[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]"
+    ],
+    "headline": "38 of 98 nasal or nasopharyngeal swab samples tested positive by RT-PCR in severe acute respiratory syndrome patients in Hong Kong15",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "severe acute respiratory syndrome",
+        "sgRNA": "subgenomic messenger RNAs"
+    }
+}

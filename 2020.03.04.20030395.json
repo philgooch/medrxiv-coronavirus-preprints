@@ -1,0 +1,696 @@
+{
+    "filename": "2020.03.04.20030395.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 727644,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.04.20030395",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/06/2020.03.04.20030395.full.pdf"
+        },
+        "title": "Clinical Features of Patients Infected with the 2019 Novel Coronavirus (COVID-19) in Shanghai, China",
+        "author": "Min Cao, Dandan Zhang, Youhua Wang, Yunfei Lu, Xiangdong Zhu, Ying Li, Honghao Xue, Yunxiao Lin, Min Zhang, Yiguo Sun, Zongguo Yang, Jia Shi, Yi Wang, Chang Zhou, Yidan Dong, Ping Liu, Steven M Dudek, Zhen Xiao, Hongzhou Lu, Longping Peng",
+        "date": 2020,
+        "affiliations": [
+            "Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China,",
+            "Shanghai Public Health Clinical Centre, Shanghai, China,",
+            "Department of Emergency Medicine, University of Illinois College of Medicine, Chicago, IL, USA,",
+            "Division of Pulmonary, Critical Care, Sleep and Allergy, Department of Medicine, University of Illinois College of Medicine, Chicago, IL, USA.",
+            "Public Health Clinical Centre, Shanghai, China. E-mail address: luhongzhou@fudan.edu.cn, or Dr. Zhen Xiao, Longhua Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China. Email address: xiaozhen61@126.com",
+            "These authors contributed equally to this paper. Word counts: 2959"
+        ],
+        "abstract": "Background: Since mid-December 2019, a cluster of pneumonia-like diseases caused by a novel coronavirus, now designated COVID-19 by the WHO, emerged in Wuhan city and rapidly spread throughout China. Here we identify the clinical characteristics of COVID-19 in a cohort of patients in Shanghai. \nMethods: Cases were confirmed by real-time RT-PCR and were analysed for demographic, clinical, laboratory and radiological features. \nResults: Of 198 patients, the median duration from disease onset to hospital admission was 4 days. The mean age of the patients was 50.1 years, and 51.0% patients were male. The most common symptom was fever. Less than half of the patients presented with respiratory systems including cough, sputum production, itchy or sore throat, shortness of breath, and chest congestion. 5.6% patients had diarrhoea. On admission, T lymphocytes were decreased in 45.8% patients. Ground glass opacity was the most common radiological finding on chest computed tomography. 9.6% were admitted to the ICU because of the development of organ dysfunction. Compared with patients not treated in ICU, patients treated in the ICU were older, had longer waiting time to admission, fever over 38.5o C, dyspnoea, reduced T lymphocytes, elevated neutrophils and organ failure.\nConclusions: In this single centre cohort of COVID-19 patients, the most common symptom was fever, and the most common laboratory abnormality was decreased blood T cell counts. Older age, male, fever over 38.5oC, symptoms of dyspnoea, and underlying comorbidity, were the risk factors most associated with severity of disease.\nKey words: 2019 novel coronavirus; acute respiratory infection; risk factors for disease severity",
+        "keywords": [
+            "2019 novel coronavirus",
+            "acute respiratory infection",
+            "risk factors for disease severity"
+        ],
+        "references": "@article{zhu-a,\n  author = {Zhu, N. and Zhang, D. and Wang, W.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  volume = {2020},\n  doi = {doi: 10.1056/NEJMoa2001017},\n  more-authors = {true},\n  language = {}\n}\n@book{chan-a,\n  author = {Chan, J.F. and Yuan, S. and Kok, K.H.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster},\n  publisher = {Lancet 2020},\n  doi = {doi: 10.1016/S0140-6736(20)30154-9},\n  more-authors = {true},\n  language = {}\n}\n@book{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  publisher = {Lancet 2020},\n  doi = {doi: 10.1016/S0140-6736(20)30183-5},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown-a,\n  title = {China: Diagnosis and treatment of pneumonia caused by novel coronavirus (trial version},\n  date = {5).},\n  url = {https://www.chinalawtranslate.com/en/13986-2/.},\n  language = {},\n  urldate = {Febrary 11, 2020 ed.},\n  institution = {National Health Commission of}\n}\n@misc{chen-a,\n  author = {Chen, N. and Zhou, M. and Dong, X.},\n  title = {Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020},\n  doi = {doi: 10.1016/S0140-6736(20)30211-7},\n  more-authors = {true},\n  language = {}\n}\n@article{li-a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  volume = {2020},\n  doi = {doi: 10.1056/NEJMoa2001316},\n  more-authors = {true},\n  language = {}\n}\n@article{chu2016a,\n  author = {Chu, H. and Zhou, J. and Wong, B.H.},\n  title = {Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways},\n  journal = {J Infect Dis},\n  date = {2016},\n  volume = {213},\n  pages = {904\u201314},\n  doi = {doi: 10.1093/infdis/jiv380},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{zhou-a,\n  author = {Zhou, P. and Yang, X.L. and Wang, X.G.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  journal = {Nature},\n  volume = {2020},\n  doi = {doi: 10.1038/s41586-020-2012-7},\n  more-authors = {true},\n  language = {}\n}\n@article{gu2007a,\n  author = {Gu, J. and Korteweg, C.},\n  title = {Pathology and pathogenesis of severe acute respiratory syndrome},\n  journal = {Am J Pathol},\n  date = {2007},\n  volume = {170},\n  pages = {1136\u201347},\n  doi = {doi: 10.2353/ajpath.2007.061088},\n  number = {4},\n  language = {}\n}\n@article{raj2013a,\n  author = {Raj, V.S. and Mou, H. and Smits, S.L.},\n  title = {Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC},\n  journal = {Nature},\n  date = {2013},\n  volume = {495},\n  pages = {251\u20134},\n  doi = {doi: 10.1038/nature12005},\n  more-authors = {true},\n  number = {7440},\n  language = {}\n}\n@article{coleman2017a,\n  author = {Coleman, C.M. and Sisk, J.M. and Halasz, G.},\n  title = {CD8+ T Cells and Macrophages Regulate Pathogenesis in a Mouse Model of Middle East Respiratory Syndrome},\n  journal = {J Virol},\n  date = {2017},\n  volume = {91},\n  doi = {doi: 10.1128/JVI.01825-16},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{bonig2012a,\n  author = {Bonig, H. and Papayannopoulou, T.},\n  title = {Mobilization of hematopoietic stem/progenitor cells: general principles and molecular mechanisms},\n  journal = {Methods Mol Biol},\n  date = {2012},\n  volume = {904},\n  pages = {1\u201314},\n  doi = {doi: 10.1007/978-1-61779-943-3_1},\n  language = {}\n}\n@article{couto2016a,\n  author = {Couto, N. and Wood, J. and Barber, J.},\n  title = {The role of glutathione reductase and related enzymes on cellular redox homoeostasis network},\n  journal = {Free Radic Biol Med},\n  date = {2016},\n  volume = {95},\n  pages = {27\u201342},\n  doi = {doi: 10.1016/j.freeradbiomed.2016.02.028},\n  language = {}\n}\n@article{yan2013a,\n  author = {Yan, J. and Ralston, M.M. and Meng, X.},\n  title = {Glutathione reductase is essential for host defense against bacterial infection},\n  journal = {Free Radic Biol Med},\n  date = {2013},\n  volume = {61},\n  pages = {320\u201332},\n  doi = {doi: 10.1016/j.freeradbiomed.2013.04.015},\n  more-authors = {true},\n  language = {}\n}\n@article{yan2012a,\n  author = {Yan, J. and Meng, X. and Wancket, L.M.},\n  title = {Glutathione reductase facilitates host defense by sustaining phagocytic oxidative burst and promoting the development of neutrophil extracellular traps},\n  journal = {J Immunol},\n  date = {2012},\n  volume = {188},\n  pages = {2316\u201327},\n  doi = {doi: 10.4049/jimmunol.1102683},\n  more-authors = {true},\n  number = {5},\n  language = {}\n}\n@article{fujioka2013a,\n  author = {Fujioka, Y. and Tsuda, M. and Nanbo, A.},\n  title = {A Ca(2+)-dependent signalling circuit regulates influenza A virus internalization and infection},\n  journal = {Nat Commun},\n  date = {2013},\n  volume = {4},\n  pages = {2763},\n  doi = {doi: 10.1038/ncomms3763},\n  more-authors = {true},\n  language = {}\n}\n@article{fujioka2018a,\n  author = {Fujioka, Y. and Nishide, S. and Ose, T.},\n  title = {A Sialylated Voltage-Dependent Ca(2+) Channel Binds Hemagglutinin and Mediates Influenza A Virus Entry into Mammalian Cells},\n  journal = {Cell Host Microbe},\n  date = {2018},\n  volume = {23},\n  pages = {809\u201318},\n  doi = {doi: 10.1016/j.chom.2018.04.015},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{yang2005a,\n  author = {Yang, M. and Ng, M.H. and Li, C.K.},\n  title = {Thrombocytopenia in patients with severe acute respiratory syndrome (review)},\n  journal = {Hematology},\n  date = {2005},\n  volume = {10},\n  pages = {101\u20135},\n  doi = {doi: 10.1080/10245330400026170},\n  number = {2},\n  language = {}\n}\n@article{assiri2013a,\n  author = {Assiri, A. and Al-Tawfiq, J.A. and Al-Rabeeah, A.A.},\n  title = {and clinical characteristics of 47 cases of Middle East respiratory syndrome coronavirus disease from Saudi Arabia: a descriptive study},\n  journal = {Lancet Infect Dis},\n  date = {2013},\n  volume = {13},\n  pages = {752\u201361},\n  doi = {doi: 10.1016/S1473-3099(13)70204-4},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{chu2005a,\n  author = {Chu, K.H. and Tsang, W.K. and Tang, C.S.},\n  title = {Acute renal impairment in coronavirus-associated severe acute respiratory syndrome},\n  journal = {Kidney Int},\n  date = {2005},\n  volume = {67},\n  pages = {698\u2013705},\n  doi = {doi: 10.1111/j.1523-1755.2005.67130.x},\n  more-authors = {true},\n  number = {2},\n  language = {}\n}\n@misc{unknown-b,\n  title = {Bilateral multilobular ground glass opacity and partial consolidation, and a pneumatocele in the right upper lobe},\n  language = {}\n}\n@misc{unknown-c,\n  title = {Bilateral consolidation in the peripheral regions of the upper lobes, with inter- and intra-lobular septal thickening (crazy paving pattern)},\n  language = {}\n}\n@misc{unknown-d,\n  title = {Bilateral consolidation in the subpleural region of lower lobes, with parenchymal bands. Air bronchograms are present in the right lower lobe},\n  language = {}\n}\n@misc{unknown-e,\n  title = {Diffuse consolidation in the right lower lobe. Ground glass opacity with partial consolidation in multiple lobes of left lung},\n  language = {}\n}\n@misc{unknown-f,\n  title = {Bilateral diffuse consolidation with air bronchograms in the lower lobes. Multiple areas of patchy consolidation in the right middle lobe},\n  language = {}\n}\n@misc{unknown-g,\n  title = {Bilateral diffuse consolidation with air bronchograms},\n  language = {}\n}\n",
+        "emails": [
+            "xiaozhen61@126.com",
+            "luhongzhou@fudan.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nVL  - 2020\nDO  - 10.1056/NEJMoa2001017\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Chan, J.F.\nAU  - Yuan, S.\nAU  - Kok, K.H.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster\nPB  - Lancet 2020\nDO  - 10.1016/S0140-6736(20)30154-9\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nPB  - Lancet 2020\nDO  - 10.1016/S0140-6736(20)30183-5\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nTI  - China: Diagnosis and treatment of pneumonia caused by novel coronavirus (trial version\nPY  - 5).\nDA  - 5).\nUR  - https://www.chinalawtranslate.com/en/13986-2/.\nLA  - \nC1  - Febrary 11, 2020 ed.\nC1  - National Health Commission of\nER  - \n\nTY  - GEN\nAU  - Chen, N.\nAU  - Zhou, M.\nAU  - Dong, X.\nTI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020\nDO  - 10.1016/S0140-6736(20)30211-7\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nVL  - 2020\nDO  - 10.1056/NEJMoa2001316\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chu, H.\nAU  - Zhou, J.\nAU  - Wong, B.H.\nTI  - Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways\nT2  - J Infect Dis\nPY  - 2016\nDA  - 2016\nVL  - 213\nSP  - 904\nEP  - 14\nDO  - 10.1093/infdis/jiv380\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nAU  - Yang, X.L.\nAU  - Wang, X.G.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nT2  - Nature\nVL  - 2020\nDO  - 10.1038/s41586-020-2012-7\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gu, J.\nAU  - Korteweg, C.\nTI  - Pathology and pathogenesis of severe acute respiratory syndrome\nT2  - Am J Pathol\nPY  - 2007\nDA  - 2007\nVL  - 170\nSP  - 1136\nEP  - 47\nDO  - 10.2353/ajpath.2007.061088\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Raj, V.S.\nAU  - Mou, H.\nAU  - Smits, S.L.\nTI  - Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC\nT2  - Nature\nPY  - 2013\nDA  - 2013\nVL  - 495\nSP  - 251\nEP  - 4\nDO  - 10.1038/nature12005\nC1  - true\nIS  - 7440\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Coleman, C.M.\nAU  - Sisk, J.M.\nAU  - Halasz, G.\nTI  - CD8+ T Cells and Macrophages Regulate Pathogenesis in a Mouse Model of Middle East Respiratory Syndrome\nT2  - J Virol\nPY  - 2017\nDA  - 2017\nVL  - 91\nDO  - 10.1128/JVI.01825-16\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bonig, H.\nAU  - Papayannopoulou, T.\nTI  - Mobilization of hematopoietic stem/progenitor cells: general principles and molecular mechanisms\nT2  - Methods Mol Biol\nPY  - 2012\nDA  - 2012\nVL  - 904\nSP  - 1\nEP  - 14\nDO  - 10.1007/978-1-61779-943-3_1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Couto, N.\nAU  - Wood, J.\nAU  - Barber, J.\nTI  - The role of glutathione reductase and related enzymes on cellular redox homoeostasis network\nT2  - Free Radic Biol Med\nPY  - 2016\nDA  - 2016\nVL  - 95\nSP  - 27\nEP  - 42\nDO  - 10.1016/j.freeradbiomed.2016.02.028\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yan, J.\nAU  - Ralston, M.M.\nAU  - Meng, X.\nTI  - Glutathione reductase is essential for host defense against bacterial infection\nT2  - Free Radic Biol Med\nPY  - 2013\nDA  - 2013\nVL  - 61\nSP  - 320\nEP  - 32\nDO  - 10.1016/j.freeradbiomed.2013.04.015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yan, J.\nAU  - Meng, X.\nAU  - Wancket, L.M.\nTI  - Glutathione reductase facilitates host defense by sustaining phagocytic oxidative burst and promoting the development of neutrophil extracellular traps\nT2  - J Immunol\nPY  - 2012\nDA  - 2012\nVL  - 188\nSP  - 2316\nEP  - 27\nDO  - 10.4049/jimmunol.1102683\nC1  - true\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fujioka, Y.\nAU  - Tsuda, M.\nAU  - Nanbo, A.\nTI  - A Ca(2+)-dependent signalling circuit regulates influenza A virus internalization and infection\nT2  - Nat Commun\nPY  - 2013\nDA  - 2013\nVL  - 4\nSP  - 2763\nDO  - 10.1038/ncomms3763\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fujioka, Y.\nAU  - Nishide, S.\nAU  - Ose, T.\nTI  - A Sialylated Voltage-Dependent Ca(2+) Channel Binds Hemagglutinin and Mediates Influenza A Virus Entry into Mammalian Cells\nT2  - Cell Host Microbe\nPY  - 2018\nDA  - 2018\nVL  - 23\nSP  - 809\nEP  - 18\nDO  - 10.1016/j.chom.2018.04.015\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, M.\nAU  - Ng, M.H.\nAU  - Li, C.K.\nTI  - Thrombocytopenia in patients with severe acute respiratory syndrome (review)\nT2  - Hematology\nPY  - 2005\nDA  - 2005\nVL  - 10\nSP  - 101\nEP  - 5\nDO  - 10.1080/10245330400026170\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Assiri, A.\nAU  - Al-Tawfiq, J.A.\nAU  - Al-Rabeeah, A.A.\nTI  - and clinical characteristics of 47 cases of Middle East respiratory syndrome coronavirus disease from Saudi Arabia: a descriptive study\nT2  - Lancet Infect Dis\nPY  - 2013\nDA  - 2013\nVL  - 13\nSP  - 752\nEP  - 61\nDO  - 10.1016/S1473-3099(13)70204-4\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chu, K.H.\nAU  - Tsang, W.K.\nAU  - Tang, C.S.\nTI  - Acute renal impairment in coronavirus-associated severe acute respiratory syndrome\nT2  - Kidney Int\nPY  - 2005\nDA  - 2005\nVL  - 67\nSP  - 698\nEP  - 705\nDO  - 10.1111/j.1523-1755.2005.67130.x\nC1  - true\nIS  - 2\nLA  - \nER  - \n\nTY  - GEN\nTI  - Bilateral multilobular ground glass opacity and partial consolidation, and a pneumatocele in the right upper lobe\nLA  - \nER  - \n\nTY  - GEN\nTI  - Bilateral consolidation in the peripheral regions of the upper lobes, with inter- and intra-lobular septal thickening (crazy paving pattern)\nLA  - \nER  - \n\nTY  - GEN\nTI  - Bilateral consolidation in the subpleural region of lower lobes, with parenchymal bands. Air bronchograms are present in the right lower lobe\nLA  - \nER  - \n\nTY  - GEN\nTI  - Diffuse consolidation in the right lower lobe. Ground glass opacity with partial consolidation in multiple lobes of left lung\nLA  - \nER  - \n\nTY  - GEN\nTI  - Bilateral diffuse consolidation with air bronchograms in the lower lobes. Multiple areas of patchy consolidation in the right middle lobe\nLA  - \nER  - \n\nTY  - GEN\nTI  - Bilateral diffuse consolidation with air bronchograms\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In conclusion, COVID-19 affects a wide-range of patients, from youth to the elderly. Fever is consistently the most common symptom of onset, but multiple other clinical manifestations occur, including a spectrum form T cell deficiency to symptoms of digestive system involvement. Older age, male, fever over"
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Demographics and baseline characteristics of patients with COVID-19"
+            },
+            {
+                "id": "2",
+                "caption": "Admission blood cell count and coagulation function of patients with COVID-19"
+            },
+            {
+                "id": "3",
+                "caption": "Organ dysfunction of patients with COVID-19 on admission to hospital"
+            },
+            {
+                "id": "4",
+                "caption": "Immunological findings of patients with COVID-19 on admission to hospital"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Representative chest CT images from multiple patients. Various radiographic abnormalities are present as follows: 1. Intralobular septal thickening and parenchymal bands in the right lower lobe. 2. A small region of subpleural ground glass opacity with partial consolidation in the right lower lobe. 3. A small region of subpleural consolidation in the posterior right upper lobe. 4. Bilateral multilobular ground glass opacity and partial consolidation, and a pneumatocele in the right upper lobe. 5. Bilateral consolidation in the peripheral regions of the upper lobes, with inter- and intra-lobular septal thickening (crazy paving pattern). 6. Bilateral consolidation in the subpleural region of lower lobes, with parenchymal bands. Air bronchograms are present in the right lower lobe. 7. Diffuse consolidation in the right lower lobe. Ground glass opacity with partial consolidation in multiple lobes of left lung. 8. Bilateral diffuse consolidation with air bronchograms in the lower lobes. Multiple areas of patchy consolidation in the right middle lobe. 9. Bilateral diffuse consolidation with air bronchograms. medRxiv preprint doi: https://doi.org/10.1101/2020.03.04.20030395. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. All rights reserved. No reuse allowed without permission"
+            },
+            {
+                "id": "2",
+                "caption": "Timeline charts illustrate the laboratory parameters in 19 patients with COVID-19 (9 severe and 10 critical cases) measured every other day based on the days after the onset of illness. Dynamic changes in the following parameters are shown: A) CRP, B) procalcitonin, C) WBC count, D) neutrophil count, E) lymphocyte count. The straight lines in each graph mark the upper (A-D) or lower (E) normal limit of each parameter. *P<0.05, critical group vs severe group at that time point"
+            },
+            {
+                "id": "3",
+                "caption": "Timeline charts illustrate the laboratory parameters in 19 patients with COVID-19 (9 severe and 10 critical cases) measured every other day based on the days after the onset of illness. Dynamic changes in the following parameters are shown: A) troponin I, B) myoglobin, C) creatinine, D) BUN, E) D-dimer, F) fibrinogen. The straight lines in each graph mark the upper normal limit of each parameter. *P<0.05, critical group vs severe group at that time point"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.04.20030395.full.pdf_odc9exsb_gr29yndw.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20030395.full.pdf_odc9exsb_images_5gkx7bmt/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20030395.full.pdf_odc9exsb_images_5gkx7bmt/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.04.20030395.full.pdf_odc9exsb_images_5gkx7bmt/img-002.png"
+        ]
+    },
+    "sections": {
+        "background": [
+            "Since mid-December 2019, a cluster of pneumonia-like diseases caused by a novel coronavirus, now designated COVID-19 by the WHO, emerged in Wuhan city and rapidly spread throughout China. Here we identify the clinical characteristics of COVID-19 in a cohort of patients in Shanghai."
+        ],
+        "methods": [
+            "Cases were confirmed by real-time RT-PCR and were analysed for demographic, clinical, laboratory and radiological features.",
+            "Patients. We obtained epidemiological, demographic, clinical, laboratory and management data from the medical records of patients infected with SARS-Cov-2. On Jan 20, 2020, the first human case of COVID-19 in Shanghai was confirmed. Since then all hospitals in Shanghai have opened special fever clinics to screen suspected patients, and laboratory confirmed patients were then admitted to a single designated hospital in Shanghai (Shanghai Public Health Clinical Centre). Laboratory confirmation of COVID-19 was done by the Chinese Centre for Disease Control and Prevention. Throat-swab specimens from the upper respiratory tract were obtained from all patients at admission and maintained in viral transport medium. COVID-19 was confirmed by real-time RT-PCR using the same protocol as described previously 3. Confirmed patients were hospitalized into negative pressure wards for further medical observation and treatment. We collected data from patients who were admitted from Jan. 20 up to Feb. 15. All the data collected from the included cases have been shared with the WHO."
+        ],
+        "results": [
+            "Of 198 patients, the median duration from disease onset to hospital admission was 4 days. The mean age of the patients was 50.1 years, and 51.0% patients were male. The most common symptom was fever. Less than half of the patients presented with respiratory systems including cough, sputum production, itchy or sore throat, shortness of breath, and chest congestion. 5.6% patients had diarrhoea. On admission, T lymphocytes were decreased in 45.8% patients. Ground glass opacity was the most common radiological finding on chest computed tomography. 9.6% were admitted to the ICU because of the development of organ dysfunction. Compared with patients not treated in ICU, patients treated in the ICU were older, had longer waiting time to admission, fever over 38.5o C, dyspnoea, reduced T lymphocytes, elevated neutrophils and organ failure.",
+            "Demographic and clinical characteristics. The demographic and clinical characteristics are shown in Table 1. Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3). 48.5% of the patients were under 50 years old, among them 66 (33.3%) were under 39 years old, and 30 were aged 40-49. 24 (12.1%) patients were over 70 years old. 14 (7.1%) of the patients had a history of alcohol use, and 11 (5.6%) had a smoking history. 101 (51.0%) patients were male, and 97 (49.0%) were female. 69 patients had at least one underlying chronic medical disorder. These included 42 (21.2%) patients with hypertension, 15 (7.6%) with diabetes, 12 (6.0%) with cardiovascular diseases, 4 (2.0%) with malignancy, and 6 (3.0%) with thyroid diseases.<br/><br/>The most common symptom identified was fever (86.9%). Patients\u2019 body temperatures were most commonly in a range from 38-38.9 \u00b0C (IQR). 10 (8.8%) patients presented with high fever greater than 39 . Less than half of the patients presented with respiratory systems including cough (46.4%), sputum production (23.2%), itchy or sore throat (9.8%), shortness of breath (4.5%) and chest congestion (8.0%). Myalgia or fatigue occurred in almost one-third (31.3%) of the patients. In addition, 5 (4.4%) patients had diarrhoea, which is suggestive of digestive system involvement (Table 1)."
+        ],
+        "conclusions": [
+            "In this single centre cohort of COVID-19 patients, the most common symptom was fever, and the most common laboratory abnormality was decreased blood T cell counts. Older age, male, fever over 38.5oC, symptoms of dyspnoea, and underlying comorbidity, were the risk factors most associated with severity of disease.<br/><br/>Key words: 2019 novel coronavirus; acute respiratory infection; risk factors for disease severity"
+        ],
+        "introduction": [
+            "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China 1. Sequencing analysis from lower respiratory tract samples indicated a novel coronavirus, which was initially named 2019 novel coronavirus (2019-nCov), and later reclassified as SARS-CoV-2 by the World Health Organization. Coronaviruses are known to cause multiple system infections in various animals and primarily respiratory tract infections in humans, including recent outbreaks of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) 2. Employing lessons learned from the SARS outbreak, extraordinary public health measures were launched to control spread of the SARS-CoV-2 virus. Beginning on Jan 23, 2020, local governments in Hubei Province including Wuhan, Huanggang etc., announced the suspension of public transportation, with closure of airports, railway stations, and city highways, to prevent further disease transmission. Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019 (COVID-19), by January 30th, 2020, human-to-human transmission had been reported to occur outside Wuhan, extending into other regions of China and to other countries. WHO has declared that the outbreak of COVID-19 constitutes a Public Health Emergency of International Concern (PHEIC). As of Feb 19, 2020, 72,533 confirmed cases had been reported with a total of 1872 deaths."
+        ],
+        "discussion": [
+            "In this single centre cohort of confirmed COVID-19 cases in Shanghai, the median duration of symptoms from disease onset to hospital admission was 4 days. Compared to the previously reported duration of 7-10 days between symptom onset and hospitalization in Wuhan 3 5 6, patients in Shanghai received earlier in-ward observation and medical service, most likely due to improved monitoring and increased awareness of the outbreak. As a result, our data likely were recorded closer to the onset date of the disease, which may explain some of the differences between the results reported from Wuhan and Shanghai.<br/><br/>In terms of patient\u2019s characteristics, we observed a comparatively equal male to female ratio in this study, which differs from the data reported in Wuhan 3 5 6. This may be because most of these initial cases in Shanghai had a history of exposure in Wuhan (63.6%), and the disease thereafter appeared in a family cluster pattern. Almost half of the patients in Shanghai were under 50 years old, in contrast with the predominantly older patient population reported in Wuhan. In addition, 69 (34.8%) patients in our cohort had pre-existing comorbidities. Whether the disease is more likely to manifest in patients with comorbidities and/or older patients remains unclear and requires further study."
+        ],
+        "acknowledgments": [
+            "We thank Dr. Suling Li (Lewis University) for providing guidance on the analysis of data, and Dr. Duan Zhou (Longhua Hospital, Shanghai University of Traditional Chinese Medicine) for assistance in the preparation of this manuscript."
+        ],
+        "ethical_compliance": [
+            "The study was approved by the ethics committee of Shanghai Public Health Clinical Centre, Shanghai, China    Footnotes<br/><br/>Contributors: MC, DZ, Y-FL, YL, HX, ZY, JS and MZ enrolled study subjects and collected data. YW, XZ and PL, participated in the study design and conception. YL, YW, CZ, and YD performed statistical analysis of the data. YW, XZ, SD wrote the manuscript. All authors reviewed and approved the final manuscript as submitted and agree to be accountable for all aspects of the work."
+        ],
+        "funding": [
+            "Funding information This research was funded by the First-rate University and Discipline Construction Project of Fudan University (IDF162005) and the Key Scientific Research Projects on 2019-nCoV of Shanghai Public Health Clinical Centre (2020YJKY01), the Special Emergency Project for the Prevention ( ) and Treatment of COVID-19 with Traditional Chinese Medicine in Shanghai 2020NCP001 , and the 2018-2020 Three-year Action Plan for Traditional Chinese Medicine Further Development in Shanghai (ZY (2018-2020) CCCX-2002-04). Disclaimer: The funders did not play any role in the design of the study, data collection, analysis and interpretation of data, and in writing the manuscript. Competing interests: ZX holds research grants from Shanghai municipal government. HL holds research grant from Fudan University and from Shanghai public health clinical centre. All the other authors have no disclosures. Patient consent for publication: Patient consent was waived."
+        ],
+        "disclosures": [
+            "Competing interests: ZX holds research grants from Shanghai municipal government. HL holds research grant from Fudan University and from Shanghai public health clinical centre. All the other authors have no disclosures."
+        ],
+        "limitations": [
+            "Our study has several limitations. First, although we obtained data from the initial 198 patients with laboratory-confirmed COVID-19 in Shanghai, the cohort is still relatively small. More patients need to be analysed to provide a comprehensive and precise description of the spectrum of disease associated with this infection. Secondly, our study reports primarily baseline results from patients upon hospital admission, and more longitudinal data regarding disease progression and clinical outcomes will require further collection and study. Despite these limitations, our study provides data from the first large cohort outside Wuhan and adds important laboratory information to the rapidly accumulating body of information about COVID-19. These results will assist in multi-centre monitoring of the disease."
+        ],
+        "data_availability": [
+            "The data that support the findings of this study are available from the corresponding authors upon request"
+        ]
+    },
+    "structured_content": {
+        "ABSTRACT": [],
+        "Background": [
+            "Since mid-December 2019, a cluster of pneumonia-like diseases caused by a novel coronavirus, now designated COVID-19 by the WHO, emerged in Wuhan city and rapidly spread throughout China. Here we identify the clinical characteristics of COVID-19 in a cohort of patients in Shanghai."
+        ],
+        "Methods": [
+            "Patients. We obtained epidemiological, demographic, clinical, laboratory and management data from the medical records of patients infected with SARS-Cov-2. On Jan 20, 2020, the first human case of COVID-19 in Shanghai was confirmed. Since then all hospitals in Shanghai have opened special fever clinics to screen suspected patients, and laboratory confirmed patients were then admitted to a single designated hospital in Shanghai (Shanghai Public Health Clinical Centre). Laboratory confirmation of COVID-19 was done by the Chinese Centre for Disease Control and Prevention. Throat-swab specimens from the upper respiratory tract were obtained from all patients at admission and maintained in viral transport medium. COVID-19 was confirmed by real-time RT-PCR using the same protocol as described previously 3. Confirmed patients were hospitalized into negative pressure wards for further medical observation and treatment. We collected data from patients who were admitted from Jan. 20 up to Feb. 15. All the data collected from the included cases have been shared with the WHO.",
+            "Data Collection. Epidemiological exposure data, patient characteristics, clinical symptoms, laboratory and imaging findings and medical history were extracted from electronic medical records and analysed by licensed physicians. Laboratory data were recorded in standardized form. Initial investigations included a complete blood count, routine urinalysis, blood gases, coagulation function, erythrocyte sedimentation rate (ESR), C-reactive protein (CRP) and serum biochemical testing (including renal and liver function, serum lactate, lactate dehydrogenase, and electrolytes). To characterize the effect of coronavirus on the immune system, immunologic factors including serum immunoglobulin, complements, cytokines, rheumatoid factor (RF) and T cell and leukocyte subpopulations were analysed by flow cytometry.",
+            "Non-laboratory information, including patient characteristics, epidemiological and medical history, were obtained and recorded by licensed physicians from direct interviews of patients and their relatives. Two researchers independently reviewed the data collection forms to review the data extracted. Written informed consent was waived in light of the urgent need to collect clinical data.",
+            "The severity of COVID was defined based on the criteria established by China's National Health Commission 4. 1. Mild. Minor symptoms only, without evidence for pneumonia by chest X-ray. 2, Moderate. Fever and respiratory symptoms are present, and there is evidence for pneumonia by chest X-ray. 3. Severe.",
+            "Defined by any of the following conditions. 1) Dyspnoea, respiratory rate \u226530 /min, 2) resting hypoxia SaO2 \u226493%, 3) PaO2/FiO2 \u2264300 mmHg. 4. Critical. The presence of any of the following conditions. 1)",
+            "Respiratory failure, require mechanical ventilation, 2) shock, 3) other acute organ failure.",
+            "Median and interquartile range (IQR) or mean and standard deviation were calculated for continuous variables. Count and percentages were presented for categorical variables. Statistical Analysis was performed by using SPSS21.0."
+        ],
+        "Results": [
+            "Demographic and clinical characteristics. The demographic and clinical characteristics are shown in Table 1. Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3). 48.5% of the patients were under 50 years old, among them 66 (33.3%) were under 39 years old, and 30 were aged 40-49. 24 (12.1%) patients were over 70 years old. 14 (7.1%) of the patients had a history of alcohol use, and 11 (5.6%) had a smoking history. 101 (51.0%) patients were male, and 97 (49.0%) were female. 69 patients had at least one underlying chronic medical disorder. These included 42 (21.2%) patients with hypertension, 15 (7.6%) with diabetes, 12 (6.0%) with cardiovascular diseases, 4 (2.0%) with malignancy, and 6 (3.0%) with thyroid diseases.",
+            "The most common symptom identified was fever (86.9%). Patients\u2019 body temperatures were most commonly in a range from 38-38.9 \u00b0C (IQR). 10 (8.8%) patients presented with high fever greater than 39 . Less than half of the patients presented with respiratory systems including cough (46.4%), sputum production (23.2%), itchy or sore throat (9.8%), shortness of breath (4.5%) and chest congestion (8.0%). Myalgia or fatigue occurred in almost one-third (31.3%) of the patients. In addition, 5 (4.4%) patients had diarrhoea, which is suggestive of digestive system involvement (Table 1).",
+            "No infections of health care workers were detected during the time interval studied. A history of recent travel to Wuhan, and contact with people from Wuhan was documented in 126 (63.6%) of the patients. There was no difference in severity of disease between cases with Wuhan contact history and no-Wuhan contact history.",
+            "Of these 198 patients, 179 (90.4%) were admitted to isolation wards, including 3 mild and 176 moderate cases. 19 (9.5%) were admitted and transferred to the ICU because of the development of respiratory failure or other organ dysfunction, including 9 severe cases and 10 critical cases. 1 patient died without collecting sufficient data, and therefore was excluded from this study. Patient age differed significantly between the two groups (63.7 \u00b1 16.8 for ICU vs 48.6 \u00b1 15.6 for non-ICU patients). Male patients were significantly more common in ICU as compared with non-ICU cases (89.5% vs. 46.9%).",
+            "Moreover, patients with underlying cardiovascular diseases were significantly more common in ICU cases as compared with non-ICU cases (26.3% vs. 3.9%, P<0.01). Compared with the non-ICU, patients admitted to the ICU were more likely to have high fever with temperature over 38.5oC (78.6% vs 37.6%), shortness of breath (36.8% vs 2.2%), and longer waiting period from onset of symptom to hospital admission (7 vs 4 days).",
+            "Blood cell counts, coagulation function and other laboratory findings. On admission, the majority of patients had normal white blood cell, neutrophil, lymphocyte and platelet counts (Table 2). Prothrombin time (PT) (median 13.3, 12.9-13.8) and activated partial thromboplastin time (APTT, median 39.5, 36.7-42.8)",
+            "were normal in most patients. However, a marked rise in fibrinogen and CRP was observed in 108 (55.4%)",
+            "and 152 (78.4%) cases, respectively. The majority of patients (65.4%) had decreased blood calcium concentration, while 19.5% cases had decreased blood sodium concentration.",
+            "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased neutrophil count (15.8% vs 5.2%), decreased lymphocyte count (84.2% vs 0.6%), increased prothrombin time (26.3% vs 7.4%), increased APTT (42.1% vs 15.3), increased fibrinogen (78.9% vs 52.8%) and increased D-dimer (63.2% vs 29.5%), as well as decreased levels of blood sodium (42.1% vs 17.0%) and calcium (100% vs 61.4%). By contrast, patients admitted to the ICU were less likely to have increased C-reactive protein (57.9% vs 80.6%).",
+            "Organ dysfunction. The organ dysfunctions of the 198 patients are shown in Table 3. 21 (10.8%) patients had increased alanine aminotransferase (ALT) and 26 (20.0%) had increased aspartate aminotransferase (AST). Although 78 (40.0%) patients presented with hypoalbuminemia, the median (40.92, 37.99 - 43.12) was close to the normal range. Several patients had varying degrees of renal dysfunction or damage, with elevated blood urea nitrogen (15, 7.9%) or serum creatinine (10, 5.3%). 36.4% of the patients had positive urine protein tests. 22 (11.3%) patients had increased cardiac troponin I, and 33 (17.0%) patients had increased myoglobin.",
+            "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased AST (42.1% vs 14.8%), decreased albumin (84.2% vs 35.8%), and increased glutathione reductase (66.7% vs 36.9%). Patients admitted to the ICU were also more likely to have increased creatinine (15.8% vs 4.1%) and blood urea nitrogen (26.3% vs 5.7%) as measures of kidney dysfunction, as well as increased level of blood cardiac troponin I (47.4% vs 7.4%) indicative of heart injury.",
+            "Immunological dysfunction. Most patients had decreased T lymphocyte counts, with 88 (45.8%) having decreased CD3+ T lymphocytes, 88 (45.8%) having decreased CD4 Th1 cells, 66 (34.4%) having decreased CD8 Th2 cells, and 73 (38.0%) having decreased CD45 positive cells, a pan-leukocyte marker. The majority of patients showed normal CD4/CD8 ratio, and normal levels of IgA, IgG, IgM, C3 and C4 (Table 4).",
+            "Compared with the non-ICU patients, patients admitted to the ICU had reduced CD3+ T cell counts (411.0 vs 801.0) and were more likely to have decreased CD4+ T cells (89.5% vs 41.0%), decreased CD8+ T cells (84.2% vs 29.7%), decreased CD45+leukocyte population (84.2% vs 32.9%) and decreased complement 3 level (31.6% vs 6.3%). By contrast, patients admitted to the ICU were more likely to have increased level of IgA (21.1% vs 7.4%).",
+            "Radiological findings. Of 198 patients who underwent chest computed tomography on admission, 98.5 % cases manifested abnormalities suggestive of pneumonia. The most common patterns on chest computed tomography were ground-glass opacity and bilateral patchy consolidation. Figure 1 illustrates representative findings with different degrees of radiological abnormalities from seven patients.",
+            "Longitudinal profile of laboratory finding in patients admitted to ICU. To determine the major clinical features that appeared during COVID-19 progression, the dynamic changes in 11 clinical laboratory parameters, including haematological and biochemical parameters, were tracked from day 1 to day 15 after the onset of the disease at 2-day intervals (Fig. 2 &3). ICU patients were subdivided into two subgroups as described in the Methods section: severe and critical. The levels of CRP and procalcitonin in critically ill patients showed a trend for sustained elevation 9 days after admission (Fig. 2A&B). White blood cells and neutrophils counts were higher in critical patients than in severe patients (Fig. 2C&D). Most significantly, critical cases had more severe lymphopenia than severe cases (Fig 2E, < 0.6 x 109/L, P<0.05).",
+            "Critical cases had significantly more organ dysfunction and coagulation abnormalities than severe cases. Cardiac troponin I and myoglobin was higher in critical patients than in severe cases (Fig. 3A&B), indicating heart injury. The levels of blood urea nitrogen (BUN) and creatinine level were higher in critical cases than in severe cases (Fig. 3C&D), suggesting kidney injury. The level of D-dimer was higher in critically ill than in severely ill (Fig. 3E), however, there was no marked difference in fibrinogen level between these two groups (Fig. 3F)."
+        ],
+        "Conclusions": [
+            "In this single centre cohort of COVID-19 patients, the most common symptom was fever, and the most common laboratory abnormality was decreased blood T cell counts. Older age, male, fever over 38.5oC, symptoms of dyspnoea, and underlying comorbidity, were the risk factors most associated with severity of disease.",
+            "Key words: 2019 novel coronavirus; acute respiratory infection; risk factors for disease severity"
+        ],
+        "Introduction": [
+            "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China 1. Sequencing analysis from lower respiratory tract samples indicated a novel coronavirus, which was initially named 2019 novel coronavirus (2019-nCov), and later reclassified as SARS-CoV-2 by the World Health Organization. Coronaviruses are known to cause multiple system infections in various animals and primarily respiratory tract infections in humans, including recent outbreaks of severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) 2. Employing lessons learned from the SARS outbreak, extraordinary public health measures were launched to control spread of the SARS-CoV-2 virus. Beginning on Jan 23, 2020, local governments in Hubei Province including Wuhan, Huanggang etc., announced the suspension of public transportation, with closure of airports, railway stations, and city highways, to prevent further disease transmission. Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019 (COVID-19), by January 30th, 2020, human-to-human transmission had been reported to occur outside Wuhan, extending into other regions of China and to other countries. WHO has declared that the outbreak of COVID-19 constitutes a Public Health Emergency of International Concern (PHEIC). As of Feb 19, 2020, 72,533 confirmed cases had been reported with a total of 1872 deaths.",
+            "At the time of this analysis, only a little over a month has passed since COVID-19 was first reported 1. There are reasonable concerns about whether COVID-19 has undergone rapid or marked genomic mutation during transmission. Yet large cohort reports from outside Wuhan (Hubei Province) are not yet available, and the clinical characteristics of COVID-19 remain largely unclear. In this article, we describe the initial clinical, laboratory, and radiological characteristics of patients confirmed to have COVID-19 in Shanghai, and we compare the clinical features between patients with less severe illness and those requiring critical care."
+        ],
+        "Discussion": [
+            "In this single centre cohort of confirmed COVID-19 cases in Shanghai, the median duration of symptoms from disease onset to hospital admission was 4 days. Compared to the previously reported duration of 7-10 days between symptom onset and hospitalization in Wuhan 3 5 6, patients in Shanghai received earlier in-ward observation and medical service, most likely due to improved monitoring and increased awareness of the outbreak. As a result, our data likely were recorded closer to the onset date of the disease, which may explain some of the differences between the results reported from Wuhan and Shanghai.",
+            "In terms of patient\u2019s characteristics, we observed a comparatively equal male to female ratio in this study, which differs from the data reported in Wuhan 3 5 6. This may be because most of these initial cases in Shanghai had a history of exposure in Wuhan (63.6%), and the disease thereafter appeared in a family cluster pattern. Almost half of the patients in Shanghai were under 50 years old, in contrast with the predominantly older patient population reported in Wuhan. In addition, 69 (34.8%) patients in our cohort had pre-existing comorbidities. Whether the disease is more likely to manifest in patients with comorbidities and/or older patients remains unclear and requires further study.",
+            "Regarding laboratory evaluation, low or normal levels of white blood cell (WBC) and neutrophil counts were present in COVID-19 patients upon admission. ESR and CRP levels were elevated in most patients. Although procalcitonin level was increased in over one-third (28.4%) of the patients, the median 0.03 (0.02-0.06) was close to normal range. These results are similar with that of two Wuhan cohort studies already published 3 5. We further observed that serum lactate levels were above the normal upper range in the majority of patients (83.7%), indicating the likely presence of metabolic acidosis. The sensitivity of LACT in COVID-19 infection is similar to ESR and CRP.",
+            "In addition, we observed a marked reduction in T and TH subtype cells in infected patients, suggesting that SARS-Cov-2 infection may impair cellular immunity. It is known that MERS-CoV is able to infect both CD4+ and CD8+ primary human T cells and, upon infection induces T cell apoptosis in vitro 7. While the cell surface receptor for SARS-Cov-2 has now been identified as ACE2 8, other receptors may also exist on immune cells to bind to coronavirus 9-11. As there is no proven antiviral treatment yet available, strategies to enhance the immune system may be considered. Since the most common haematological changes in COVID-19 patients were lymphopenia and immunodeficiency, we postulate that hematopoietic growth factors such as G-CSF, by mobilizing endogenous blood stem cells and endogenous cytokines, may represent a potential haematological treatment for COVID-19 patients 12.",
+            "Interestingly, a noticeable increase of glutathione reductase (GR) level occurred in 40.2% of the COVID-19 patients in our cohort, while ALT and AST are normal in most patients. GR is an essential enzyme that recycles oxidized glutathione back to the reduced form 13. GR is known to participate in an oxidative defence system required for effective immune responses against bacteria 14 15. Whether GR is involved in host defence systems against viruses such as SARS-Cov-2 remains to be determined.",
+            "We observed that 65.4% of COVID-19 patients had decreased serum calcium levels. Calcium influx regulates both clathrin-mediated and clathrin-independent endocytosis during viral infection, thus constituting a key mechanism for regulation of influenza A virus internalization and infection 16. Based on this theory, calcium channel blockers, including amlodipine, verapamil, and diltiazem, as well as BAPTA-AM, have been proven effective in inhibiting IAV replication in a dose-dependent manner in a canine kidney cell model 17. Moreover, diltiazem may have both prophylactic and therapeutic effects in IAV treatment according to both ex vivo and in vivo testing 17. We therefore propose the hypothesis that Ca2+ levels and/or Ca2+ channels may play a role in endocytosis and infection of SARS-Cov-2. Further studies are needed to characterize the functional importance of this potential pathway.",
+            "The patients admitted to the ICU were more likely to be older, male, with temperature over 38.5oC, symptom of dyspnoea, underlying cardiovascular disease, and longer waiting period from onset of symptom to hospital admission, compared to those not admitted to the ICU. This suggests that age, sex, high fever, admission time and co-morbidity are risk factors for disease severity. Compared with non-ICU patients, patients who received ICU care had numerous laboratory abnormalities. These abnormalities suggest that SARS-Cov-2 infection can be associated with cellular immune deficiency, coagulation activation, myocardial injury, hepatic injury and kidney injury. These laboratory abnormalities are similar to those previously observed in patients with MERS-Cov and SARS-Cov infection 18 19.",
+            "The longitudinal profile of laboratory findings was dynamically tracked for those patients requiring ICU care. When these patients were subdivided into severe and critical ill subgroups, we observed that white blood cell count, neutrophil count, D-dimer, BUN, creatinine, myoglobulin and troponin I levels were higher in critical cases than in severe cases. Neutrophilia may be associated with secondary infection, while coagulation activation could be related to sustained inflammatory responses. Acute heart and kidney injury could be related to direct effects of the virus or possibly hypoxia 9 20.",
+            "Our study has several limitations. First, although we obtained data from the initial 198 patients with laboratory-confirmed COVID-19 in Shanghai, the cohort is still relatively small. More patients need to be analysed to provide a comprehensive and precise description of the spectrum of disease associated with this infection. Secondly, our study reports primarily baseline results from patients upon hospital admission, and more longitudinal data regarding disease progression and clinical outcomes will require further collection and study. Despite these limitations, our study provides data from the first large cohort outside Wuhan and adds important laboratory information to the rapidly accumulating body of information about COVID-19. These results will assist in multi-centre monitoring of the disease.",
+            "In conclusion, COVID-19 affects a wide-range of patients, from youth to the elderly. Fever is consistently the most common symptom of onset, but multiple other clinical manifestations occur, including a spectrum form T cell deficiency to symptoms of digestive system involvement. Older age, male, fever over",
+            "38.5oC, symptom of dyspnoea, the presence of underlying cardiovascular disease, and longer waiting period from onset of symptom to hospital admission are risk factors associated with the severity of disease."
+        ],
+        "Acknowledgments": [
+            "We thank Dr. Suling Li (Lewis University) for providing guidance on the analysis of data, and Dr. Duan Zhou (Longhua Hospital, Shanghai University of Traditional Chinese Medicine) for assistance in the preparation of this manuscript.",
+            "Ethical approval: The study was approved by the ethics committee of Shanghai Public Health Clinical Centre, Shanghai, China",
+            "Contributors: MC, DZ, Y-FL, YL, HX, ZY, JS and MZ enrolled study subjects and collected data. YW, XZ and PL, participated in the study design and conception. YL, YW, CZ, and YD performed statistical analysis of the data. YW, XZ, SD wrote the manuscript. All authors reviewed and approved the final manuscript as submitted and agree to be accountable for all aspects of the work.",
+            "Funding information: This research was funded by the First-rate University and Discipline Construction Project of Fudan University (IDF162005) and the Key Scientific Research Projects on 2019-nCoV of Shanghai Public Health Clinical Centre (2020YJKY01), the Special Emergency Project for the Prevention ( ) and Treatment of COVID-19 with Traditional Chinese Medicine in Shanghai 2020NCP001 , and the",
+            "2018-2020 Three-year Action Plan for Traditional Chinese Medicine Further Development in Shanghai (ZY (2018-2020) CCCX-2002-04). Disclaimer: The funders did not play any role in the design of the study, data collection, analysis and interpretation of data, and in writing the manuscript. Competing interests: ZX holds research grants from Shanghai municipal government. HL holds research grant from Fudan University and from Shanghai public health clinical centre. All the other authors have no disclosures.",
+            "Patient consent for publication: Patient consent was waived.",
+            "Data sharing: The data that support the findings of this study are available from the corresponding authors upon request. Participant data are without names and identifiers, and they will be made available after approval from the corresponding author and National Health Commission. After publication of study findings, the data will be available for others to request. The research team will provide an email address for communication once the data are approved for sharing."
+        ],
+        "References": [
+            "1. Zhu N, Zhang D, Wang W, et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020 doi: 10.1056/NEJMoa2001017",
+            "2. Chan JF, Yuan S, Kok KH, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020 doi: 10.1016/S0140-6736(20)30154-9",
+            "3. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020 doi: 10.1016/S0140-6736(20)30183-5",
+            "4. National Health Commission of China: Diagnosis and treatment of pneumonia caused by novel coronavirus (trial version 5). https://www.chinalawtranslate.com/en/13986-2/. Febrary 11, 2020 ed.",
+            "5. Chen N, Zhou M, Dong X, et al Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020 doi: 10.1016/S0140-6736(20)30211-7",
+            "6. Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020 doi: 10.1056/NEJMoa2001316",
+            "7. Chu H, Zhou J, Wong BH, et al Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways. J Infect Dis 2016;213(6):904-14. doi: 10.1093/infdis/jiv380",
+            "8. Zhou P, Yang XL, Wang XG, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020 doi: 10.1038/s41586-020-2012-7",
+            "9. Gu J, Korteweg C. Pathology and pathogenesis of severe acute respiratory syndrome. Am J Pathol 2007;170(4):1136-47. doi: 10.2353/ajpath.2007.061088",
+            "10. Raj VS, Mou H, Smits SL, et al Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC. Nature 2013;495(7440):251-4. doi: 10.1038/nature12005",
+            "11. Coleman CM, Sisk JM, Halasz G, et al CD8+ T Cells and Macrophages Regulate Pathogenesis in a Mouse Model of Middle East Respiratory Syndrome. J Virol 2017;91(1) doi: 10.1128/JVI.01825-16",
+            "12. Bonig H, Papayannopoulou T. Mobilization of hematopoietic stem/progenitor cells: general principles and molecular mechanisms. Methods Mol Biol 2012;904:1-14. doi: 10.1007/978-1-61779-943-3_1",
+            "13. Couto N, Wood J, Barber J. The role of glutathione reductase and related enzymes on cellular redox homoeostasis network. Free Radic Biol Med 2016;95:27-42. doi: 10.1016/j.freeradbiomed.2016.02.028",
+            "14. Yan J, Ralston MM, Meng X, et al Glutathione reductase is essential for host defense against bacterial infection. Free Radic Biol Med 2013;61:320-32. doi: 10.1016/j.freeradbiomed.2013.04.015",
+            "15. Yan J, Meng X, Wancket LM, et al Glutathione reductase facilitates host defense by sustaining phagocytic oxidative burst and promoting the development of neutrophil extracellular traps. J Immunol 2012;188(5):2316-27. doi: 10.4049/jimmunol.1102683",
+            "16. Fujioka Y, Tsuda M, Nanbo A, et al A Ca(2+)-dependent signalling circuit regulates influenza A virus internalization and infection. Nat Commun 2013;4:2763. doi: 10.1038/ncomms3763",
+            "17. Fujioka Y, Nishide S, Ose T, et al A Sialylated Voltage-Dependent Ca(2+) Channel Binds Hemagglutinin and Mediates Influenza A Virus Entry into Mammalian Cells. Cell Host Microbe 2018;23(6):809-18 e5. doi: 10.1016/j.chom.2018.04.015",
+            "18. Yang M, Ng MH, Li CK. Thrombocytopenia in patients with severe acute respiratory syndrome (review). Hematology 2005;10(2):101-5. doi: 10.1080/10245330400026170",
+            "19. Assiri A, Al-Tawfiq JA, Al-Rabeeah AA, et al Epidemiological, demographic, and clinical characteristics of 47 cases of Middle East respiratory syndrome coronavirus disease from Saudi Arabia: a descriptive study. Lancet Infect Dis 2013;13(9):752-61. doi: 10.1016/S1473-3099(13)70204-4",
+            "20. Chu KH, Tsang WK, Tang CS, et al Acute renal impairment in coronavirus-associated severe acute respiratory syndrome. Kidney Int 2005;67(2):698-705. doi: 10.1111/j.1523-1755.2005.67130.x",
+            "Figure legends",
+            "Figure 1. Representative chest CT images from multiple patients. Various radiographic abnormalities are present as follows: 1. Intralobular septal thickening and parenchymal bands in the right lower lobe.",
+            "2. A small region of subpleural ground glass opacity with partial consolidation in the right lower lobe.",
+            "3. A small region of subpleural consolidation in the posterior right upper lobe.",
+            "4. Bilateral multilobular ground glass opacity and partial consolidation, and a pneumatocele in the right upper lobe.",
+            "5. Bilateral consolidation in the peripheral regions of the upper lobes, with inter- and intra-lobular septal thickening (crazy paving pattern). 6. Bilateral consolidation in the subpleural region of lower lobes, with parenchymal bands. Air bronchograms are present in the right lower lobe.",
+            "7. Diffuse consolidation in the right lower lobe. Ground glass opacity with partial consolidation in multiple lobes of left lung.",
+            "8. Bilateral diffuse consolidation with air bronchograms in the lower lobes. Multiple areas of patchy consolidation in the right middle lobe.",
+            "9. Bilateral diffuse consolidation with air bronchograms.",
+            "Figure 2. Timeline charts illustrate the laboratory parameters in 19 patients with COVID-19 (9 severe and 10 critical cases) measured every other day based on the days after the onset of illness. Dynamic changes in the following parameters are shown: A) CRP, B) procalcitonin, C) WBC count, D) neutrophil count, E) lymphocyte count. The straight lines in each graph mark the upper (A-D) or lower (E) normal limit of each parameter. *P<0.05, critical group vs severe group at that time point.",
+            "Figure 3. Timeline charts illustrate the laboratory parameters in 19 patients with COVID-19 (9 severe and 10 critical cases) measured every other day based on the days after the onset of illness. Dynamic changes in the following parameters are shown: A) troponin I, B) myoglobin, C) creatinine, D) BUN, E) D-dimer, F) fibrinogen. The straight lines in each graph mark the upper normal limit of each parameter. *P<0.05, critical group vs severe group at that time point.",
+            "Fig. 1",
+            "Fig.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 198,
+            "context": "Methods: Cases were confirmed by real-time RT-PCR and were analysed for demographic, clinical, laboratory and radiological features. <mark class=\"stats\">Results: Of 198 patients, the median duration from disease onset to hospital admission was 4 days</mark>. The mean age of the patients was 50.1 years, and 51.0% patients were male"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 72533,
+            "context": "WHO has declared that the outbreak of COVID-19 constitutes a Public Health Emergency of International Concern (PHEIC). <mark class=\"stats\">As of Feb 19, 2020, 72,533 confirmed cases had been reported with a total of 1872 deaths</mark>. At the time of this analysis, only a little over a month has passed since COVID-19 was first reported 1"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 198,
+            "context": "The demographic and clinical characteristics are shown in Table 1. <mark class=\"stats\">Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3). 48.5% of the patients were under 50 years old, among them 66 (33.3%) were under 39 years old, and 30 were aged 40-49. 24 (12.1%) patients were over 70 years old. 14 (7.1%) of the patients had a history of alcohol use, and 11 (5.6%) had a smoking history. 101 (51.0%) patients were male, and 97 (49.0%) were female. 69 patients had at least one underlying chronic medical disorder</mark>. These included 42 (21.2%) patients with hypertension, 15 (7.6%) with diabetes, 12 (6.0%) with cardiovascular diseases, 4 (2.0%) with malignancy, and 6 (3.0%) with thyroid diseases"
+        },
+        {
+            "participant": "patients",
+            "number": 198,
+            "context": "There was no difference in severity of disease between cases with Wuhan contact history and no-Wuhan contact history. <mark class=\"stats\">Of these 198 patients, 179 (90.4%) were admitted to isolation wards, including 3 mild and 176 moderate cases. 19 (9.5%) were admitted and transferred to the ICU because of the development of respiratory failure or other organ dysfunction, including 9 severe cases and 10 critical cases. 1 patient died without collecting sufficient data, and therefore was excluded from this study</mark>. Patient age differed significantly between the two groups (63.7 \u00b1 16.8 for ICU vs 48.6 \u00b1 15.6 for non-ICU patients)"
+        },
+        {
+            "participant": "data",
+            "number": 179,
+            "context": "Compared with the non-ICU, patients admitted to the ICU were more likely to have high fever with temperature over 38.5oC (78.6% vs 37.6%), shortness of breath (36.8% vs 2.2%), and longer waiting period from onset of symptom to hospital admission (7 vs 4 days). <mark class=\"stats\">Non-ICU(n=179)</mark>. Time between symptom onset and hospital admission, days"
+        },
+        {
+            "participant": "data",
+            "number": 179,
+            "context": "By contrast, patients admitted to the ICU were less likely to have increased C-reactive protein (57.9% vs 80.6%). <mark class=\"stats\">Non-ICU (n=179)</mark>. Complete blood count n=193 n=19 n=174"
+        },
+        {
+            "participant": "patients",
+            "number": 198,
+            "context": "Organ dysfunction. <mark class=\"stats\">The organ dysfunctions of the 198 patients are shown in Table 3. 21 (10.8%) patients had increased alanine aminotransferase (ALT) and 26 (20.0%) had increased aspartate aminotransferase (AST)</mark>. Although 78 (40.0%) patients presented with hypoalbuminemia, the median (40.92, 37.99 - 43.12) was close to the normal range"
+        },
+        {
+            "participant": "data",
+            "number": 18,
+            "context": "Glutathione reductase(GR), U/L. <mark class=\"stats\">86.12 (69.5525-107.6375)(n=18)</mark>. 68.75 (62.23-77.965) <0.001 (Normal: 33-73)"
+        },
+        {
+            "participant": "patients",
+            "number": 198,
+            "context": "Radiological findings. <mark class=\"stats\">Of 198 patients who underwent chest computed tomography on admission, 98.5 % cases manifested abnormalities suggestive of pneumonia</mark>. The most common patterns on chest computed tomography were ground-glass opacity and bilateral patchy consolidation"
+        },
+        {
+            "participant": "patients",
+            "number": 7,
+            "context": "The most common patterns on chest computed tomography were ground-glass opacity and bilateral patchy consolidation. <mark class=\"stats\">Figure 1 illustrates representative findings with different degrees of radiological abnormalities from seven patients</mark>. Longitudinal profile of laboratory finding in patients admitted to ICU"
+        },
+        {
+            "participant": "Wuhan cohort studies",
+            "number": 2,
+            "context": "Although procalcitonin level was increased in over one-third (28.4%) of the patients, the median 0.03 (0.02-0.06) was close to normal range. <mark class=\"stats\">These results are similar with that of two Wuhan cohort studies already published 3 5</mark>. We further observed that serum lactate levels were above the normal upper range in the majority of patients (83.7%), indicating the likely presence of metabolic acidosis"
+        },
+        {
+            "participant": "patients with laboratory-confirmed COVID-19 in Shanghai",
+            "number": 198,
+            "context": "Our study has several limitations. <mark class=\"stats\">First, although we obtained data from the initial 198 patients with laboratory-confirmed COVID-19 in Shanghai, the cohort is still relatively small</mark>. More patients need to be analysed to provide a comprehensive and precise description of the spectrum of disease associated with this infection"
+        }
+    ],
+    "statistics": [
+        {
+            "p_value": "P<0.01",
+            "context": "Male patients were significantly more common in ICU as compared with non-ICU cases (89.5% vs. 46.9%). <mark class=\"stats\">Moreover, patients with underlying cardiovascular diseases were significantly more common in ICU cases as compared with non-ICU cases (26.3% vs. 3.9%, P<0.01)</mark>. Compared with the non-ICU, patients admitted to the ICU were more likely to have high fever with temperature over 38.5oC (78.6% vs 37.6%), shortness of breath (36.8% vs 2.2%), and longer waiting period from onset of symptom to hospital admission (7 vs 4 days)"
+        },
+        {
+            "p_value": "P<0.05",
+            "context": "White blood cells and neutrophils counts were higher in critical patients than in severe patients (Fig. 2C&D). <mark class=\"stats\">Most significantly, critical cases had more severe lymphopenia than severe cases (Fig 2E, < 0.6 x 109/L, P<0.05)</mark>. Critical cases had significantly more organ dysfunction and coagulation abnormalities than severe cases"
+        }
+    ],
+    "keywords": [
+        "glutathione reductase",
+        "2019 novel coronavirus",
+        "acute respiratory infection",
+        "lymphocytes",
+        "interquartile range",
+        "clinical characteristics",
+        "C-reactive protein",
+        "COVID-19",
+        "novel coronavirus",
+        "middle east respiratory syndrome",
+        "risk factor",
+        "ground glass opacity",
+        "East Respiratory syndrome",
+        "erythrocyte sedimentation rate",
+        "white blood cell",
+        "Public Health Emergency of International Concern",
+        "Cardiac troponin I",
+        "severe acute respiratory syndrome",
+        "dyspnoea",
+        "Cluster of Differentiation",
+        "bronchograms",
+        "pneumonia",
+        "blood urea nitrogen",
+        "coronavirus",
+        "common symptom",
+        "HS-C reactive protein",
+        "bilateral consolidation",
+        "single centre cohort",
+        "Prothrombin time",
+        "risk factors for disease severity",
+        "rheumatoid factor"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.164021164,
+        "Cluster of Differentiation": 0.1058201058,
+        "severe acute respiratory syndrome": 0.0793650794,
+        "coronavirus": 0.0793650794,
+        "C-reactive protein": 0.0529100529,
+        "pneumonia": 0.0476190476,
+        "glutathione reductase": 0.0423280423,
+        "novel coronavirus": 0.0423280423,
+        "blood urea nitrogen": 0.037037037,
+        "clinical characteristics": 0.0317460317,
+        "2019 novel coronavirus": 0.0264550265,
+        "erythrocyte sedimentation rate": 0.0264550265,
+        "white blood cell": 0.0264550265,
+        "Prothrombin time": 0.0264550265,
+        "risk factor": 0.0211640212,
+        "dyspnoea": 0.0211640212,
+        "common symptom": 0.0211640212,
+        "lymphocytes": 0.0158730159,
+        "interquartile range": 0.0158730159,
+        "Cardiac troponin I": 0.0158730159,
+        "bronchograms": 0.0158730159,
+        "Middle East respiratory syndrome": 0.0158730159,
+        "ground glass opacity": 0.0105820106,
+        "Public Health Emergency of International Concern": 0.0105820106,
+        "HS-C reactive protein": 0.0105820106,
+        "single centre cohort": 0.0105820106,
+        "risk factors for disease severity": 0.0105820106,
+        "rheumatoid factor": 0.0105820106,
+        "acute respiratory infection": 0.0052910053,
+        "middle east respiratory syndrome": 0.0,
+        "East Respiratory syndrome": 0.0,
+        "bilateral consolidation": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China 1.",
+        "Beginning on Jan 23, 2020, local governments in Hubei Province including Wuhan, Huanggang etc., announced the suspension of public transportation, with closure of airports, railway stations, and city highways, to prevent further disease transmission",
+        "Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019 (COVID-19), by January 30th, 2020, human-to-human transmission had been reported to occur outside Wuhan, extending into other regions of China and to other countries.",
+        "The authors identify the clinical characteristics of COVID-19 in a cohort of patients in Shanghai",
+        "<h2 style=\"display: inline\">Methods:</h2> Cases were confirmed by real-time RT-PCR and were analysed for demographic, clinical, laboratory and radiological features.",
+        "Demographic, clinical, laboratory and management data from the medical records of patients infected with SARS-Cov-2.",
+        "On Jan 20, 2020, the first human case of COVID-19 in Shanghai was confirmed.",
+        "COVID-19 was confirmed by real-time RT-PCR using the same protocol as described previously 3.",
+        "The authors collected data from patients who were admitted from Jan. 20 up to Feb. 15.",
+        "All the data collected from the included cases have been shared with the WHO",
+        "<h2 style=\"display: inline\">Results:</h2> Of 198 patients, the median duration from disease onset to hospital admission was 4 days.",
+        "The mean age of the patients was 50.1 years, and 51.0% patients were male.",
+        "Compared with patients not treated in ICU, patients treated in the ICU were older, had longer waiting time to admission, fever over 38.5o C, dyspnoea, reduced T lymphocytes, elevated neutrophils and organ failure.",
+        "69 patients had at least one underlying chronic medical disorder.",
+        "Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3).",
+        "5 (4.4%) patients had diarrhoea, which is suggestive of digestive system involvement (Table 1)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> In this single centre cohort of confirmed COVID-19 cases in Shanghai, the median duration of symptoms from disease onset to hospital admission was 4 days.",
+        "In terms of patient\u2019s characteristics, the authors observed a comparatively equal male to female ratio in this study, which differs from the data reported in Wuhan 3 5 6.",
+        "This may be because most of these initial cases in Shanghai had a history of exposure in Wuhan (63.6%), and the disease thereafter appeared in a family cluster pattern.",
+        "Male, fever over 38.5oC, symptoms of dyspnoea, and underlying comorbidity, were the risk factors most associated with severity of disease."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China 1.",
+            "Beginning on Jan 23, 2020, local governments in Hubei Province including Wuhan, Huanggang etc., announced the suspension of public transportation, with closure of airports, railway stations, and city highways, to prevent further disease transmission",
+            "Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019 (COVID-19), by January 30th, 2020, human-to-human transmission had been reported to occur outside Wuhan, extending into other regions of China and to other countries.",
+            "The authors identify the clinical characteristics of COVID-19 in a cohort of patients in Shanghai"
+        ],
+        "Methods": [
+            "Cases were confirmed by real-time RT-PCR and were analysed for demographic, clinical, laboratory and radiological features.",
+            "Demographic, clinical, laboratory and management data from the medical records of patients infected with SARS-Cov-2.",
+            "On Jan 20, 2020, the first human case of COVID-19 in Shanghai was confirmed.",
+            "COVID-19 was confirmed by real-time RT-PCR using the same protocol as described previously 3.",
+            "The authors collected data from patients who were admitted from Jan. 20 up to Feb. 15.",
+            "All the data collected from the included cases have been shared with the WHO"
+        ],
+        "Results": [
+            "Of 198 patients, the median duration from disease onset to hospital admission was 4 days.",
+            "The mean age of the patients was 50.1 years, and 51.0% patients were male.",
+            "Compared with patients not treated in ICU, patients treated in the ICU were older, had longer waiting time to admission, fever over 38.5o C, dyspnoea, reduced T lymphocytes, elevated neutrophils and organ failure.",
+            "69 patients had at least one underlying chronic medical disorder.",
+            "Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3).",
+            "5 (4.4%) patients had diarrhoea, which is suggestive of digestive system involvement (Table 1)"
+        ],
+        "Conclusion": [
+            "In this single centre cohort of confirmed COVID-19 cases in Shanghai, the median duration of symptoms from disease onset to hospital admission was 4 days.",
+            "In terms of patient\u2019s characteristics, the authors observed a comparatively equal male to female ratio in this study, which differs from the data reported in Wuhan 3 5 6.",
+            "This may be because most of these initial cases in Shanghai had a history of exposure in Wuhan (63.6%), and the disease thereafter appeared in a family cluster pattern.",
+            "Male, fever over 38.5oC, symptoms of dyspnoea, and underlying comorbidity, were the risk factors most associated with severity of disease."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Zhu_et+al_2019_a",
+            "entry": "1. Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020 doi: 10.1056/NEJMoa2001017",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "2",
+            "alt_id": "Chan_et+al_2019_a",
+            "entry": "2. Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020 doi: 10.1016/S0140-6736(20)30154-9",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30154-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30154-9"
+        },
+        {
+            "id": "3",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "3. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020 doi: 10.1016/S0140-6736(20)30183-5",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30183-5"
+        },
+        {
+            "id": "4",
+            "alt_id": "4._5)._a",
+            "entry": "4. National Health Commission of China: Diagnosis and treatment of pneumonia caused by novel coronavirus (trial version 5). https://www.chinalawtranslate.com/en/13986-2/. Febrary 11, 2020 ed.",
+            "url": "https://www.chinalawtranslate.com/en/13986-2/"
+        },
+        {
+            "id": "5",
+            "alt_id": "Chen_et+al_2019_a",
+            "entry": "5. Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020 doi: 10.1016/S0140-6736(20)30211-7",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30211-7",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30211-7"
+        },
+        {
+            "id": "6",
+            "alt_id": "Li_et+al_0000_a",
+            "entry": "6. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020 doi: 10.1056/NEJMoa2001316",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001316",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001316",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001316"
+        },
+        {
+            "id": "7",
+            "alt_id": "Chu_et+al_2016_a",
+            "entry": "7. Chu H, Zhou J, Wong BH, et al. Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways. J Infect Dis 2016;213(6):904-14. doi: 10.1093/infdis/jiv380",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jiv380",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jiv380",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/infdis/jiv380"
+        },
+        {
+            "id": "8",
+            "alt_id": "Zhou_et+al_0000_a",
+            "entry": "8. Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020 doi: 10.1038/s41586-020-2012-7",
+            "crossref": "https://dx.doi.org/10.1038/s41586-020-2012-7",
+            "scite": "https://scite.ai/reports/10.1038/s41586-020-2012-7",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/s41586-020-2012-7"
+        },
+        {
+            "id": "9",
+            "alt_id": "Gu_2007_a",
+            "entry": "9. Gu J, Korteweg C. Pathology and pathogenesis of severe acute respiratory syndrome. Am J Pathol 2007;170(4):1136-47. doi: 10.2353/ajpath.2007.061088",
+            "crossref": "https://dx.doi.org/10.2353/ajpath.2007.061088",
+            "scite": "https://scite.ai/reports/10.2353/ajpath.2007.061088",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.2353/ajpath.2007.061088"
+        },
+        {
+            "id": "10",
+            "alt_id": "Raj_et+al_2013_a",
+            "entry": "10. Raj VS, Mou H, Smits SL, et al. Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC. Nature 2013;495(7440):251-4. doi: 10.1038/nature12005",
+            "crossref": "https://dx.doi.org/10.1038/nature12005",
+            "scite": "https://scite.ai/reports/10.1038/nature12005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nature12005"
+        },
+        {
+            "id": "11",
+            "alt_id": "Coleman_et+al_2017_a",
+            "entry": "11. Coleman CM, Sisk JM, Halasz G, et al. CD8+ T Cells and Macrophages Regulate Pathogenesis in a Mouse Model of Middle East Respiratory Syndrome. J Virol 2017;91(1) doi: 10.1128/JVI.01825-16",
+            "crossref": "https://dx.doi.org/10.1128/JVI.01825-16",
+            "scite": "https://scite.ai/reports/10.1128/JVI.01825-16",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/JVI.01825-16"
+        },
+        {
+            "id": "12",
+            "alt_id": "Bonig_2012_a",
+            "entry": "12. Bonig H, Papayannopoulou T. Mobilization of hematopoietic stem/progenitor cells: general principles and molecular mechanisms. Methods Mol Biol 2012;904:1-14. doi: 10.1007/978-1-61779-943-3_1",
+            "crossref": "https://dx.doi.org/10.1007/978-1-61779-943-3_1",
+            "scite": "https://scite.ai/reports/10.1007/978-1-61779-943-3_1",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1007/978-1-61779-943-3_1"
+        },
+        {
+            "id": "13",
+            "alt_id": "Couto_et+al_2016_a",
+            "entry": "13. Couto N, Wood J, Barber J. The role of glutathione reductase and related enzymes on cellular redox homoeostasis network. Free Radic Biol Med 2016;95:27-42. doi: 10.1016/j.freeradbiomed.2016.02.028",
+            "crossref": "https://dx.doi.org/10.1016/j.freeradbiomed.2016.02.028",
+            "scite": "https://scite.ai/reports/10.1016/j.freeradbiomed.2016.02.028",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.freeradbiomed.2016.02.028"
+        },
+        {
+            "id": "14",
+            "alt_id": "Yan_et+al_2013_a",
+            "entry": "14. Yan J, Ralston MM, Meng X, et al. Glutathione reductase is essential for host defense against bacterial infection. Free Radic Biol Med 2013;61:320-32. doi: 10.1016/j.freeradbiomed.2013.04.015",
+            "crossref": "https://dx.doi.org/10.1016/j.freeradbiomed.2013.04.015",
+            "scite": "https://scite.ai/reports/10.1016/j.freeradbiomed.2013.04.015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.freeradbiomed.2013.04.015"
+        },
+        {
+            "id": "15",
+            "alt_id": "Yan_et+al_2012_a",
+            "entry": "15. Yan J, Meng X, Wancket LM, et al. Glutathione reductase facilitates host defense by sustaining phagocytic oxidative burst and promoting the development of neutrophil extracellular traps. J Immunol 2012;188(5):2316-27. doi: 10.4049/jimmunol.1102683",
+            "crossref": "https://dx.doi.org/10.4049/jimmunol.1102683",
+            "scite": "https://scite.ai/reports/10.4049/jimmunol.1102683",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.4049/jimmunol.1102683"
+        },
+        {
+            "id": "16",
+            "alt_id": "Fujioka_et+al_2013_a",
+            "entry": "16. Fujioka Y, Tsuda M, Nanbo A, et al. A Ca(2+)-dependent signalling circuit regulates influenza A virus internalization and infection. Nat Commun 2013;4:2763. doi: 10.1038/ncomms3763",
+            "crossref": "https://dx.doi.org/10.1038/ncomms3763",
+            "scite": "https://scite.ai/reports/10.1038/ncomms3763",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/ncomms3763"
+        },
+        {
+            "id": "17",
+            "alt_id": "Fujioka_et+al_2018_a",
+            "entry": "17. Fujioka Y, Nishide S, Ose T, et al. A Sialylated Voltage-Dependent Ca(2+) Channel Binds Hemagglutinin and Mediates Influenza A Virus Entry into Mammalian Cells. Cell Host Microbe 2018;23(6):809-18 e5. doi: 10.1016/j.chom.2018.04.015",
+            "crossref": "https://dx.doi.org/10.1016/j.chom.2018.04.015",
+            "scite": "https://scite.ai/reports/10.1016/j.chom.2018.04.015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.chom.2018.04.015"
+        },
+        {
+            "id": "18",
+            "alt_id": "Yang_et+al_2005_a",
+            "entry": "18. Yang M, Ng MH, Li CK. Thrombocytopenia in patients with severe acute respiratory syndrome (review). Hematology 2005;10(2):101-5. doi: 10.1080/10245330400026170",
+            "crossref": "https://dx.doi.org/10.1080/10245330400026170",
+            "scite": "https://scite.ai/reports/10.1080/10245330400026170",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1080/10245330400026170"
+        },
+        {
+            "id": "19",
+            "alt_id": "Assiri_et+al_2013_a",
+            "entry": "19. Assiri A, Al-Tawfiq JA, Al-Rabeeah AA, et al. Epidemiological, demographic, and clinical characteristics of 47 cases of Middle East respiratory syndrome coronavirus disease from Saudi Arabia: a descriptive study. Lancet Infect Dis 2013;13(9):752-61. doi: 10.1016/S1473-3099(13)70204-4",
+            "crossref": "https://dx.doi.org/10.1016/S1473-3099(13)70204-4",
+            "scite": "https://scite.ai/reports/10.1016/S1473-3099(13)70204-4",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S1473-3099%2813%2970204-4"
+        },
+        {
+            "id": "20",
+            "alt_id": "Chu_et+al_2005_a",
+            "entry": "20. Chu KH, Tsang WK, Tang CS, et al. Acute renal impairment in coronavirus-associated severe acute respiratory syndrome. Kidney Int 2005;67(2):698-705. doi: 10.1111/j.1523-1755.2005.67130.x",
+            "crossref": "https://dx.doi.org/10.1111/j.1523-1755.2005.67130.x",
+            "scite": "https://scite.ai/reports/10.1111/j.1523-1755.2005.67130.x",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1111/j.1523-1755.2005.67130.x"
+        },
+        {
+            "id": "4",
+            "alt_id": "4._0000_b",
+            "entry": "4. Bilateral multilobular ground glass opacity and partial consolidation, and a pneumatocele in the right upper lobe.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bilateral%20multilobular%20ground%20glass%20opacity%20and%20partial%20consolidation%20and%20a%20pneumatocele%20in%20the%20right%20upper%20lobe"
+        },
+        {
+            "id": "5",
+            "alt_id": "5._0000_c",
+            "entry": "5. Bilateral consolidation in the peripheral regions of the upper lobes, with inter- and intra-lobular septal thickening (crazy paving pattern).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bilateral%20consolidation%20in%20the%20peripheral%20regions%20of%20the%20upper%20lobes%20with%20inter%20and%20intralobular%20septal%20thickening%20crazy%20paving%20pattern"
+        },
+        {
+            "id": "6",
+            "alt_id": "6._0000_d",
+            "entry": "6. Bilateral consolidation in the subpleural region of lower lobes, with parenchymal bands. Air bronchograms are present in the right lower lobe.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bilateral%20consolidation%20in%20the%20subpleural%20region%20of%20lower%20lobes%20with%20parenchymal%20bands%20Air%20bronchograms%20are%20present%20in%20the%20right%20lower%20lobe"
+        },
+        {
+            "id": "7",
+            "alt_id": "7._0000_e",
+            "entry": "7. Diffuse consolidation in the right lower lobe. Ground glass opacity with partial consolidation in multiple lobes of left lung.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Diffuse%20consolidation%20in%20the%20right%20lower%20lobe%20Ground%20glass%20opacity%20with%20partial%20consolidation%20in%20multiple%20lobes%20of%20left%20lung"
+        },
+        {
+            "id": "8",
+            "alt_id": "8._0000_f",
+            "entry": "8. Bilateral diffuse consolidation with air bronchograms in the lower lobes. Multiple areas of patchy consolidation in the right middle lobe.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bilateral%20diffuse%20consolidation%20with%20air%20bronchograms%20in%20the%20lower%20lobes%20Multiple%20areas%20of%20patchy%20consolidation%20in%20the%20right%20middle%20lobe"
+        },
+        {
+            "id": "9",
+            "alt_id": "9._0000_g",
+            "entry": "9. Bilateral diffuse consolidation with air bronchograms. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bilateral%20diffuse%20consolidation%20with%20air%20bronchograms"
+        }
+    ],
+    "facts": [
+        "a cluster of pneumonia-like diseases caused by a novel coronavirus",
+        "Cases were confirmed by real-time RT-PCR",
+        "Less than half of the patients presented with respiratory systems including cough",
+        "T lymphocytes were decreased in 45.8% patients",
+        "9.6% were admitted to the ICU",
+        "with patients not treated in ICU",
+        "patients treated in the ICU were older",
+        "the risk factors most associated with severity of disease",
+        "a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan",
+        "Employing lessons learned from the SARS outbreak",
+        "extraordinary public health measures were launched to control spread of the SARS-CoV-2 virus",
+        "Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019",
+        "human-to-human transmission had been reported to occur outside Wuhan",
+        "WHO has declared that the outbreak of COVID-19 constitutes a",
+        "72,533 confirmed cases had been reported with a total of 1872 deaths",
+        "obtained epidemiological, demographic, clinical, laboratory and management data from the medical records of patients infected with SARS-Cov-2",
+        "Laboratory confirmation of COVID-19 was done by the Chinese Centre for Disease Control",
+        "Throat-swab specimens from the upper respiratory tract were obtained from all patients",
+        "COVID-19 was confirmed by real-time RT-PCR using the same protocol as described",
+        "Confirmed patients were hospitalized into negative pressure wards for further medical observation and treatment",
+        "collected data from patients who were admitted from Jan. 20",
+        "the data collected from the included cases have been shared with the WHO",
+        "clinical characteristics are shown in Table 1",
+        "48.5% of the patients were under 50 years old",
+        "24 patients were over 70 years old",
+        "of the patients had a history of alcohol use",
+        "10 patients presented with high fever",
+        "Myalgia or fatigue occurred in almost one-third of the patients",
+        "which is suggestive of digestive system involvement",
+        "some of the differences between the results reported from Wuhan",
+        "which differs from the data reported in",
+        "most of these initial cases in Shanghai had a history of exposure in Wuhan",
+        "the disease thereafter appeared in a family cluster pattern",
+        "Almost half of the patients in Shanghai were under 50 years old",
+        "predominantly older patient population reported in Wuhan",
+        "likely to manifest in patients with comorbidities",
+        "clinical, laboratory and management data from the medical records of patients infected with SARS-Cov-2"
+    ],
+    "claims": [
+        "We identify the clinical characteristics of COVID-19 in a cohort of patients in Shanghai",
+        "In this article, we describe the initial clinical, laboratory, and radiological characteristics of patients confirmed to have COVID-19 in Shanghai, and we compare the clinical features between patients with less severe illness and those requiring critical care"
+    ],
+    "findings": [
+        "Male patients were significantly more common in ICU as compared with non-ICU cases (89.5% vs. 46.9%)",
+        "Patients with underlying cardiovascular diseases were significantly more common in ICU cases as compared with non-ICU cases (26.3% vs. 3.9%, P<0.01)",
+        "Compared with the non-ICU, patients admitted to the ICU were more likely to have high fever with temperature over 38.5oC (78.6% vs 37.6%), shortness of breath (36.8% vs 2.2%), and longer waiting period from onset of symptom to hospital admission (7 vs 4 days)",
+        "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased neutrophil count (15.8% vs 5.2%), decreased lymphocyte count (84.2% vs 0.6%), increased prothrombin time (26.3% vs 7.4%), increased APTT (42.1% vs 15.3), increased fibrinogen (78.9% vs 52.8%) and increased D-dimer (63.2% vs 29.5%), as well as decreased levels of blood sodium (42.1% vs 17.0%) and calcium (100% vs 61.4%)",
+        "By contrast, patients admitted to the ICU were less likely to have increased C-reactive protein (57.9% vs 80.6%)",
+        "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased AST (42.1% vs 14.8%), decreased albumin (84.2% vs 35.8%), and increased glutathione reductase (66.7% vs 36.9%)",
+        "Patients admitted to the ICU were also more likely to have increased creatinine (15.8% vs 4.1%) and blood urea nitrogen (26.3% vs 5.7%) as measures of kidney dysfunction, as well as increased level of blood cardiac troponin I (47.4% vs 7.4%) indicative of heart injury",
+        "Compared with the non-ICU patients, patients admitted to the ICU had reduced CD3+ T cell counts (411.0 vs 801.0) and were more likely to have decreased CD4+ T cells (89.5% vs 41.0%), decreased CD8+ T cells (84.2% vs 29.7%), decreased CD45+leukocyte population (84.2% vs 32.9%) and decreased complement 3 level (31.6% vs 6.3%)",
+        "By contrast, patients admitted to the ICU were more likely to have increased level of IgA (21.1% vs 7.4%)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China 1",
+        "Employing lessons learned from the severe acute respiratory syndrome outbreak, extraordinary public health measures were launched to control spread of the severe acute respiratory syndrome-CoV-2 virus",
+        "Beginning on Jan 23, 2020, local governments in Hubei Province including Wuhan, Huanggang etc., announced the suspension of public transportation, with closure of airports, railway stations, and city highways, to prevent further disease transmission. Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019 (COVID-19), by January 30th, 2020, human-to-human transmission had been reported to occur outside Wuhan, extending into other regions of China and to other countries",
+        "WHO has declared that the outbreak of COVID-19 constitutes a Public Health Emergency of International Concern (PHEIC)",
+        "We describe the initial clinical, laboratory, and radiological characteristics of patients confirmed to have COVID-19 in Shanghai, and we compare the clinical features between patients with less severe illness and those requiring critical care",
+        "Demographic, clinical, laboratory and management data from the medical records of patients infected with severe acute respiratory syndrome-Cov-2",
+        "The demographic and clinical characteristics are shown in Table 1",
+        "Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3). 48.5% of the patients were under 50 years old, among them 66 (33.3%) were under 39 years old, and 30 were aged 40-49. 24 (12.1%) patients were over 70 years old. 14 (7.1%) of the patients had a history of alcohol use, and 11 (5.6%) had a smoking history. 101 (51.0%) patients were male, and 97 (49.0%) were female. 69 patients had at least one underlying chronic medical disorder",
+        "5 (4.4%) patients had diarrhoea, which is suggestive of digestive system involvement (Table 1)",
+        "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased neutrophil count (15.8% vs 5.2%), decreased lymphocyte count (84.2% vs 0.6%), increased prothrombin time (26.3% vs 7.4%), increased APTT (42.1% vs 15.3), increased fibrinogen (78.9% vs 52.8%) and increased D-dimer (63.2% vs 29.5%), as well as decreased levels of blood sodium (42.1% vs 17.0%) and calcium (100% vs 61.4%)",
+        "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased AST (42.1% vs 14.8%), decreased albumin (84.2% vs 35.8%), and increased glutathione reductase (66.7% vs 36.9%)",
+        "Compared with the non-ICU patients, patients admitted to the ICU had reduced CD3+ T cell counts (411.0 vs 801.0) and were more likely to have decreased CD4+ T cells (89.5% vs 41.0%), decreased CD8+ T cells (84.2% vs 29.7%), decreased CD45+leukocyte population (84.2% vs 32.9%) and decreased complement 3 level (31.6% vs 6.3%)",
+        "This may be because most of these initial cases in Shanghai had a history of exposure in Wuhan (63.6%), and the disease thereafter appeared in a family cluster pattern",
+        "Almost half of the patients in Shanghai were under 50 years old, in contrast with the predominantly older patient population reported in Wuhan"
+    ],
+    "top_statements": [
+        "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China 1",
+        "Beginning on Jan 23, 2020, local governments in Hubei Province including Wuhan, Huanggang etc., announced the suspension of public transportation, with closure of airports, railway stations, and city highways, to prevent further disease transmission. Despite these extensive efforts by the Chinese government and health officials to control the outbreak of coronavirus disease 2019 (COVID-19), by January 30th, 2020, human-to-human transmission had been reported to occur outside Wuhan, extending into other regions of China and to other countries",
+        "WHO has declared that the outbreak of COVID-19 constitutes a Public Health Emergency of International Concern (PHEIC)",
+        "The demographic and clinical characteristics are shown in Table 1",
+        "Of 198 confirmed cases, the mean age of the patients was 50.1 years (\u00b1 16.3). 48.5% of the patients were under 50 years old, among them 66 (33.3%) were under 39 years old, and 30 were aged 40-49. 24 (12.1%) patients were over 70 years old. 14 (7.1%) of the patients had a history of alcohol use, and 11 (5.6%) had a smoking history. 101 (51.0%) patients were male, and 97 (49.0%) were female. 69 patients had at least one underlying chronic medical disorder",
+        "Compared with the non-ICU patients, patients admitted to the ICU were more likely to have increased neutrophil count (15.8% vs 5.2%), decreased lymphocyte count (84.2% vs 0.6%), increased prothrombin time (26.3% vs 7.4%), increased APTT (42.1% vs 15.3), increased fibrinogen (78.9% vs 52.8%) and increased D-dimer (63.2% vs 29.5%), as well as decreased levels of blood sodium (42.1% vs 17.0%) and calcium (100% vs 61.4%)"
+    ],
+    "headline": "The demographic and clinical characteristics are shown in Table 1",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "severe acute respiratory syndrome",
+        "MERS": "Middle East respiratory syndrome",
+        "PHEIC": "Public Health Emergency of International Concern",
+        "ESR": "erythrocyte sedimentation rate",
+        "CRP": "C-reactive protein",
+        "RF": "rheumatoid factor",
+        "IQR": "interquartile range",
+        "PT": "Prothrombin time",
+        "hsCRP": "HS-C reactive protein",
+        "cTnI": "Cardiac troponin I",
+        "CD": "Cluster of Differentiation",
+        "BUN": "blood urea nitrogen",
+        "WBC": "white blood cell",
+        "GR": "glutathione reductase"
+    }
+}

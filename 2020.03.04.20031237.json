@@ -1,0 +1,1020 @@
+{
+    "filename": "2020.03.04.20031237.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 657832,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.04.20031237",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/08/2020.03.04.20031237.full.pdf"
+        },
+        "title": "Exploring diseases/traits and blood proteins causally related to expression of ACE2, the putative receptor of 2019-nCov: A Mendelian Randomization analysis",
+        "author": "Shitao Rao, Alexandria Lau, Hon-Cheong So",
+        "date": 2020,
+        "affiliations": [
+            "School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, Hong Kong",
+            "KIZ-CUHK Joint Laboratory of Bioresources and Molecular Research of Common Diseases, Kunming Institute of Zoology and The Chinese University of Hong Kong, China",
+            "CUHK Shenzhen Research Institute, Shenzhen, China *these authors contributed equally to this work ^Corresponding author",
+            "The Chinese University of Hong Kong, Shatin, Hong Kong. Tel: +852 3943 9255; E-mail: hcso@cuhk.edu.hk"
+        ],
+        "abstract": "The novel coronavirus 2019-nCoV has caused major outbreaks in many parts of the world. A better understanding of the pathophysiology of COVID-19 is urgently needed. Clinically, it is important to identify who may be susceptible to infection and identify treatments for the disease. There is good evidence that ACE2 is a receptor for 2019-nCoV, and studies also suggested that high expression of ACE2 may increase susceptibility to infection. Here we conducted a phenome-wide Mendelian randomization (MR) study to prioritize diseases/traits and blood proteins that may be causally linked to ACE2 expression in the lung. Expression data was based on GTEx. We also explored drug candidates whose targets overlapped with the top-ranked proteins in MR analysis, as these drugs could potentially alter ACE2 expression and may be clinically relevant. Notably, MR is much less vulnerable to confounding and reverse causality compared to observational studies. The most consistent finding was a tentative causal association between diabetes-related traits and increased ACE2 expression. Based on one of the largest GWAS on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised ACE2 expression (beta=0.1835, 95% CI 0.0853-0.2817; p=2.49E-4; GSMR method). Significant associations (at nominal level; p&lt;0.05) was also observed across multiple datasets, with different analytic methods, and for both type I and II diabetes. Other diseases/traits having nominal significant associations with increased ACE2 included inflammatory bowel disease, (ER+) breast and lung cancers, asthma, smoking and elevated ALT, among others. We also uncovered a number of plasma/serum proteins potentially linked to altered ACE2 expression, and the top enriched pathways included cytokine-cytokine-receptor interaction, VEGF signaling, JAK-STAT signaling etc. We also explored drugs that target some of the top-ranked proteins in the MR analysis. In conclusion, the current MR analysis reveals diseases/traits and blood proteins that may causally affect ACE2 expression, which in turn may influence susceptibility to the infection. The proteome-wide MR analysis may shed light on the molecular mechanisms underlying ACE2 expression, and may help guide drug repositioning in the future. Nevertheless, we stress that further studies are required to verify our findings due to various limitations and the exploratory nature of some analyses.",
+        "references": "@article{lu2020a,\n  author = {Lu, R.},\n  title = {Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding},\n  journal = {The Lancet},\n  volume = {395},\n  pages = {565\u2013574},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {New England Journal of Medicine},\n  volume = {382},\n  pages = {727\u2013733},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{li2020a,\n  author = {Li, Q.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{guan2020a,\n  author = {Guan, W.-j},\n  title = {Clinical characteristics of 2019 novel coronavirus infection in China},\n  journal = {medRxiv},\n  volume = {2020},\n  date = {2020},\n  more-authors = {true},\n  source = {The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19},\n  number = {2},\n  language = {}\n}\n@article{unknown2020a,\n  title = {in China]. Zhonghua Liu Xing Bing Xue Za},\n  journal = {Zhi},\n  volume = {41},\n  pages = {145\u2013151},\n  date = {2020},\n  language = {}\n}\n@article{huang2020a,\n  author = {Huang, C.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {The Lancet},\n  volume = {395},\n  pages = {497\u2013506},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{zou2020a,\n  author = {Zou, X.},\n  title = {The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection},\n  journal = {Front. Med},\n  publisher = {Epub ahead of print},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{wan-a,\n  author = {Wan, Y. and Shang, J. and Graham, R. and Baric, R.S. and Li, F.},\n  title = {Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS},\n  journal = {J},\n  language = {}\n}\n@article{li2003a,\n  author = {Li, W.},\n  title = {Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus},\n  journal = {Nature},\n  volume = {426},\n  pages = {450\u20134},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@article{kuba2005a,\n  author = {Kuba, K.},\n  title = {A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury},\n  journal = {Nat Med},\n  volume = {11},\n  pages = {875\u20139},\n  date = {2005},\n  more-authors = {true},\n  language = {}\n}\n@article{zhou2020a,\n  author = {Zhou, P.},\n  title = {Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin},\n  journal = {bioRxiv},\n  volume = {2020},\n  date = {2020},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{wrapp2020a,\n  author = {Wrapp, D.},\n  title = {Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation},\n  journal = {bioRxiv},\n  volume = {2020},\n  date = {2020},\n  more-authors = {true},\n  number = {2},\n  language = {}\n}\n@article{hofmann2004a,\n  author = {Hofmann, H.},\n  title = {Susceptibility to SARS coronavirus S protein-driven infection correlates with expression of angiotensin converting enzyme 2 and infection can be blocked by soluble receptor},\n  journal = {Biochemical and Biophysical Research Communications},\n  volume = {319},\n  pages = {1216\u20131221},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{jia2005a,\n  author = {Jia, H.P.},\n  title = {ACE2 receptor expression and severe acute respiratory syndrome coronavirus infection depend on differentiation of human airway epithelia},\n  journal = {J Virol},\n  volume = {79},\n  pages = {14614\u201321},\n  date = {2005},\n  more-authors = {true},\n  language = {}\n}\n@article{cai-a,\n  author = {Cai, G.},\n  title = {Bulk and Single-Cell Transcriptomics Identify Tobacco-Use Disparity in Lung Gene Expression of ACE2, the Receptor of 2019-nCov},\n  journal = {Preprints},\n  volume = {2020020051},\n  number = {2020},\n  language = {}\n}\n@article{ng2019a,\n  author = {Ng, R. and Sutradhar, R. and Yao, Z. and Wodchis, W.P. and Rosella, L.C.},\n  title = {Smoking, drinking, diet and physical activity\u2014modifiable lifestyle risk factors and their associations with age to first chronic disease},\n  journal = {International journal of epidemiology},\n  date = {2019},\n  language = {}\n}\n@incollection{bielicki2019a,\n  author = {Bielicki, P. and Trojnar, A. and Sobieraj, P. and W\u0105sik, M.},\n  title = {Smoking status in relation to obstructive sleep apnea severity (OSA) and cardiovascular comorbidity in patients with newly diagnosed OSA},\n  booktitle = {Advances in respiratory medicine 87},\n  pages = {103\u2013109},\n  date = {2019},\n  language = {}\n}\n@article{azibou2019a,\n  author = {Azibou, A.},\n  title = {Smoking, comorbidity, anxiety and depression in patients with MS and their relation with motor and/or cognitive fatigue},\n  journal = {MULTIPLE SCLEROSIS JOURNAL},\n  volume = {25},\n  pages = {428\u2013429},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@article{smith2003a,\n  author = {Smith, G.D. and Ebrahim, S.},\n  title = {'Mendelian randomization': can genetic epidemiology contribute to understanding environmental determinants of disease?},\n  journal = {Int J Epidemiol},\n  volume = {32},\n  pages = {1\u201322},\n  date = {2003},\n  language = {}\n}\n@article{bennett2017a,\n  author = {Bennett, D.A. and Holmes, M.V.},\n  title = {Mendelian randomisation in cardiovascular research: an introduction for clinicians},\n  journal = {Heart},\n  volume = {103},\n  pages = {1400\u20131407},\n  date = {2017},\n  language = {}\n}\n@article{schmidt2019a,\n  author = {Schmidt, A.F.},\n  title = {Genetic drug target validation using Mendelian randomization},\n  journal = {bioRxiv},\n  volume = {781039},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@article{bellera2018a,\n  author = {Bellera, C.},\n  title = {A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication},\n  journal = {Stat Methods Med Res},\n  volume = {27},\n  pages = {1271\u20131281},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{lloyd-jones2018a,\n  author = {Lloyd-Jones, L.R. and Robinson, M.R. and Yang, J. and Visscher, P.M.},\n  title = {Transformation of Summary Statistics from Linear Mixed Model Association on All-or-None Traits to Odds Ratio},\n  journal = {Genetics},\n  volume = {208},\n  pages = {1397\u20131408},\n  date = {2018},\n  language = {}\n}\n@article{gamazon2018a,\n  author = {Gamazon, E.R.},\n  title = {Using an atlas of gene regulation across 44 human tissues to inform complex disease- and trait-associated variation},\n  journal = {Nature Genetics},\n  volume = {50},\n  pages = {956\u2013967},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{burgess2013a,\n  author = {Burgess, S. and Butterworth, A. and Thompson, S.G.},\n  title = {Mendelian randomization analysis with multiple genetic variants using summarized data},\n  journal = {Genet Epidemiol},\n  volume = {37},\n  pages = {658\u201365},\n  date = {2013},\n  language = {}\n}\n@article{bowden2015a,\n  author = {Bowden, J. and Davey Smith, G. and Burgess, S.},\n  title = {Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression},\n  journal = {Int J Epidemiol},\n  volume = {44},\n  pages = {512\u201325},\n  date = {2015},\n  language = {}\n}\n@article{zhu2018a,\n  author = {Zhu, Z.},\n  title = {Causal associations between risk factors and common diseases inferred from GWAS summary data},\n  journal = {Nat Commun},\n  volume = {9},\n  date = {2018},\n  more-authors = {true},\n  number = {224},\n  language = {}\n}\n@misc{zhao2018a,\n  author = {Zhao, Q. and Wang, J. and Hemani, G. and Bowden, J. and Small, D.S.},\n  title = {Statistical inference in two-sample summary-data Mendelian randomization using robust adjusted profile score},\n  edition = {arXiv preprint arXiv: 1801.09652},\n  date = {2018},\n  language = {}\n}\n@article{bindea2009a,\n  author = {Bindea, G.},\n  title = {ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks},\n  journal = {Bioinformatics (Oxford, England)},\n  volume = {25},\n  pages = {1091\u20131093},\n  date = {2009},\n  more-authors = {true},\n  language = {}\n}\n@article{burgess2017a,\n  author = {Burgess, S. and Thompson, S.G.},\n  title = {Interpreting findings from Mendelian randomization using the MR-Egger method},\n  journal = {Eur J Epidemiol},\n  volume = {32},\n  pages = {377\u2013389},\n  date = {2017},\n  language = {}\n}\n@article{mahajan2014a,\n  author = {Mahajan, A.},\n  title = {Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture of type 2 diabetes susceptibility},\n  journal = {Nat Genet},\n  volume = {46},\n  pages = {234\u201344},\n  date = {2014},\n  more-authors = {true},\n  language = {}\n}\n@article{thomas2018a,\n  author = {Thomas, N.J.},\n  title = {Frequency and phenotype of type 1 diabetes in the first six decades of life: a cross-sectional, genetically stratified survival analysis from UK Biobank},\n  journal = {The lancet. Diabetes & endocrinology},\n  volume = {6},\n  pages = {122\u2013129},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{mahajan2018a,\n  author = {Mahajan, A.},\n  title = {Refining the accuracy of validated target identification through coding variant fine-mapping in type 2 diabetes},\n  journal = {Nature Genetics},\n  volume = {50},\n  pages = {559\u2013571},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{burgess2018a,\n  author = {Burgess, S. and Labrecque, J.A.},\n  title = {Mendelian randomization with a binary exposure variable: interpretation and presentation of causal estimates},\n  journal = {European Journal of Epidemiology},\n  volume = {33},\n  pages = {947\u2013952},\n  date = {2018},\n  url = {https://pipelinereview.com/index.php/2020022673884/Proteins-and-Peptides/APEIRONs-res},\n  language = {}\n}\n@article{banik2016a,\n  author = {Banik, G.R. and Alqahtani, A.S. and Booy, R. and Rashid, H.},\n  title = {Risk factors for severity and mortality in patients with MERS-CoV: Analysis of publicly available data from Saudi Arabia},\n  journal = {Virol Sin},\n  volume = {31},\n  pages = {81\u20134},\n  date = {2016},\n  language = {}\n}\n@article{alqahtani2018a,\n  author = {Alqahtani, F.Y.},\n  title = {Prevalence of comorbidities in cases of Middle East respiratory syndrome coronavirus: a retrospective study},\n  journal = {Epidemiol Infect},\n  volume = {1},\n  date = {2018},\n  more-authors = {true},\n  number = {5},\n  language = {}\n}\n@article{kulcsar2019a,\n  author = {Kulcsar, K.A. and Coleman, C.M. and Beck, S.E. and Frieman, M.B.},\n  title = {Comorbid diabetes results in immune dysregulation and enhanced disease severity following MERS-CoV infection},\n  journal = {JCI insight},\n  volume = {4},\n  pages = {131774},\n  date = {2019},\n  language = {}\n}\n@article{liang2020a,\n  author = {Liang, W.},\n  title = {Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China},\n  journal = {The Lancet Oncology},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{pendergrass2011a,\n  author = {Pendergrass, S.A.},\n  title = {The use of phenome-wide association studies (PheWAS) for exploration of novel genotype-phenotype relationships and pleiotropy discovery},\n  journal = {Genetic epidemiology},\n  volume = {35},\n  pages = {410\u2013422},\n  date = {2011},\n  more-authors = {true},\n  language = {}\n}\n@article{imai2005a,\n  author = {Imai, Y.},\n  title = {Angiotensin-converting enzyme 2 protects from severe acute lung failure},\n  journal = {Nature},\n  volume = {436},\n  pages = {112\u20136},\n  date = {2005},\n  more-authors = {true},\n  language = {}\n}\n@article{markham2018a,\n  author = {Markham, A.},\n  title = {Fostamatinib: First Global Approval},\n  journal = {Drugs},\n  volume = {78},\n  pages = {959\u2013963},\n  date = {2018},\n  language = {}\n}\n@article{kang2019a,\n  author = {Kang, Y.},\n  title = {Efficacy and Safety of Multiple Dosages of Fostamatinib in Adult Patients With Rheumatoid Arthritis: A Systematic Review and Meta-Analysis},\n  journal = {Front Pharmacol},\n  volume = {10},\n  date = {2019},\n  more-authors = {true},\n  number = {897},\n  language = {}\n}\n@article{richardson2020a,\n  author = {Richardson, P.},\n  title = {Baricitinib as potential treatment for 2019-nCoV acute respiratory disease},\n  journal = {Lancet},\n  volume = {395},\n  pages = {30\u201331},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{stebbing2020a,\n  author = {Stebbing, J.},\n  title = {COVID- 19: combining antiviral and anti-inflammatory treatments},\n  journal = {The Lancet Infectious Diseases},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{richardson2020b,\n  author = {Richardson, P.},\n  title = {Baricitinib as potential treatment for 2019-nCoV acute respiratory disease},\n  journal = {The Lancet},\n  volume = {395},\n  pages = {30\u201331},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{stebbing-a,\n  author = {Stebbing, J.},\n  title = {COVID- 19: combining antiviral and anti-inflammatory treatments},\n  journal = {The Lancet Infectious Diseases},\n  volume = {0},\n  more-authors = {true},\n  number = {2020},\n  language = {}\n}\n@article{rolf2015a,\n  editor = {Rolf, M.G.},\n  title = {vitro pharmacological profiling of R406 identifies molecular targets underlying the clinical effects of fostamatinib},\n  journal = {Pharmacol Res Perspect},\n  volume = {3},\n  pages = {00175},\n  date = {2015},\n  more-editors = {true},\n  language = {}\n}\n@article{roth2010a,\n  author = {Roth, D.E. and Richard, S.A. and Black, R.E.},\n  title = {Zinc supplementation for the prevention of acute lower respiratory infection in children in developing countries: meta-analysis and meta-regression of randomized trials},\n  journal = {International Journal of Epidemiology},\n  volume = {39},\n  pages = {795\u2013808},\n  date = {2010},\n  language = {}\n}\n",
+        "links": [
+            "http://cnsgenomics.com/software/gsmr/",
+            "https://gwas.mrcieu.ac.uk/",
+            "http://www.nealelab.is/blog/2017/9/11/details-and-considerations-of-the-uk-biobank-gwas",
+            "https://sites.google.com/broadinstitute.org/ukbbgwasresults/",
+            "https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue",
+            "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfv",
+            "https://github.com/Nealelab/UK_Biobank_GWAS/tree/master/imputed-v2-gwas"
+        ],
+        "emails": [
+            "hcso@cuhk.edu.hk"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Lu, R.\nTI  - Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding\nT2  - The Lancet\nVL  - 395\nSP  - 565\nEP  - 574\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - New England Journal of Medicine\nVL  - 382\nSP  - 727\nEP  - 733\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guan, W.-j\nTI  - Clinical characteristics of 2019 novel coronavirus infection in China\nT2  - medRxiv\nVL  - 2020\nPY  - 2020\nDA  - 2020\nC1  - true\nT2  - The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nTI  - in China]. Zhonghua Liu Xing Bing Xue Za\nT2  - Zhi\nVL  - 41\nSP  - 145\nEP  - 151\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - The Lancet\nVL  - 395\nSP  - 497\nEP  - 506\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zou, X.\nTI  - The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection\nT2  - Front. Med\nPB  - Epub ahead of print\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wan, Y.\nAU  - Shang, J.\nAU  - Graham, R.\nAU  - Baric, R.S.\nAU  - Li, F.\nTI  - Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS\nT2  - J\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, W.\nTI  - Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus\nT2  - Nature\nVL  - 426\nSP  - 450\nEP  - 4\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kuba, K.\nTI  - A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury\nT2  - Nat Med\nVL  - 11\nSP  - 875\nEP  - 9\nPY  - 2005\nDA  - 2005\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nTI  - Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin\nT2  - bioRxiv\nVL  - 2020\nPY  - 2020\nDA  - 2020\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wrapp, D.\nTI  - Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation\nT2  - bioRxiv\nVL  - 2020\nPY  - 2020\nDA  - 2020\nC1  - true\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hofmann, H.\nTI  - Susceptibility to SARS coronavirus S protein-driven infection correlates with expression of angiotensin converting enzyme 2 and infection can be blocked by soluble receptor\nT2  - Biochemical and Biophysical Research Communications\nVL  - 319\nSP  - 1216\nEP  - 1221\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jia, H.P.\nTI  - ACE2 receptor expression and severe acute respiratory syndrome coronavirus infection depend on differentiation of human airway epithelia\nT2  - J Virol\nVL  - 79\nSP  - 14614\nEP  - 21\nPY  - 2005\nDA  - 2005\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cai, G.\nTI  - Bulk and Single-Cell Transcriptomics Identify Tobacco-Use Disparity in Lung Gene Expression of ACE2, the Receptor of 2019-nCov\nT2  - Preprints\nVL  - 2020020051\nIS  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ng, R.\nAU  - Sutradhar, R.\nAU  - Yao, Z.\nAU  - Wodchis, W.P.\nAU  - Rosella, L.C.\nTI  - Smoking, drinking, diet and physical activity\u2014modifiable lifestyle risk factors and their associations with age to first chronic disease\nT2  - International journal of epidemiology\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Bielicki, P.\nAU  - Trojnar, A.\nAU  - Sobieraj, P.\nAU  - W\u0105sik, M.\nTI  - Smoking status in relation to obstructive sleep apnea severity (OSA) and cardiovascular comorbidity in patients with newly diagnosed OSA\nT2  - Advances in respiratory medicine 87\nSP  - 103\nEP  - 109\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Azibou, A.\nTI  - Smoking, comorbidity, anxiety and depression in patients with MS and their relation with motor and/or cognitive fatigue\nT2  - MULTIPLE SCLEROSIS JOURNAL\nVL  - 25\nSP  - 428\nEP  - 429\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Smith, G.D.\nAU  - Ebrahim, S.\nTI  - 'Mendelian randomization': can genetic epidemiology contribute to understanding environmental determinants of disease?\nT2  - Int J Epidemiol\nVL  - 32\nSP  - 1\nEP  - 22\nPY  - 2003\nDA  - 2003\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bennett, D.A.\nAU  - Holmes, M.V.\nTI  - Mendelian randomisation in cardiovascular research: an introduction for clinicians\nT2  - Heart\nVL  - 103\nSP  - 1400\nEP  - 1407\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Schmidt, A.F.\nTI  - Genetic drug target validation using Mendelian randomization\nT2  - bioRxiv\nVL  - 781039\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bellera, C.\nTI  - A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication\nT2  - Stat Methods Med Res\nVL  - 27\nSP  - 1271\nEP  - 1281\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lloyd-Jones, L.R.\nAU  - Robinson, M.R.\nAU  - Yang, J.\nAU  - Visscher, P.M.\nTI  - Transformation of Summary Statistics from Linear Mixed Model Association on All-or-None Traits to Odds Ratio\nT2  - Genetics\nVL  - 208\nSP  - 1397\nEP  - 1408\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gamazon, E.R.\nTI  - Using an atlas of gene regulation across 44 human tissues to inform complex disease- and trait-associated variation\nT2  - Nature Genetics\nVL  - 50\nSP  - 956\nEP  - 967\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Burgess, S.\nAU  - Butterworth, A.\nAU  - Thompson, S.G.\nTI  - Mendelian randomization analysis with multiple genetic variants using summarized data\nT2  - Genet Epidemiol\nVL  - 37\nSP  - 658\nEP  - 65\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bowden, J.\nAU  - Davey Smith, G.\nAU  - Burgess, S.\nTI  - Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression\nT2  - Int J Epidemiol\nVL  - 44\nSP  - 512\nEP  - 25\nPY  - 2015\nDA  - 2015\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, Z.\nTI  - Causal associations between risk factors and common diseases inferred from GWAS summary data\nT2  - Nat Commun\nVL  - 9\nPY  - 2018\nDA  - 2018\nC1  - true\nIS  - 224\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zhao, Q.\nAU  - Wang, J.\nAU  - Hemani, G.\nAU  - Bowden, J.\nAU  - Small, D.S.\nTI  - Statistical inference in two-sample summary-data Mendelian randomization using robust adjusted profile score\nET  - arXiv preprint arXiv: 1801.09652\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bindea, G.\nTI  - ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks\nT2  - Bioinformatics (Oxford, England)\nVL  - 25\nSP  - 1091\nEP  - 1093\nPY  - 2009\nDA  - 2009\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Burgess, S.\nAU  - Thompson, S.G.\nTI  - Interpreting findings from Mendelian randomization using the MR-Egger method\nT2  - Eur J Epidemiol\nVL  - 32\nSP  - 377\nEP  - 389\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Mahajan, A.\nTI  - Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture of type 2 diabetes susceptibility\nT2  - Nat Genet\nVL  - 46\nSP  - 234\nEP  - 44\nPY  - 2014\nDA  - 2014\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Thomas, N.J.\nTI  - Frequency and phenotype of type 1 diabetes in the first six decades of life: a cross-sectional, genetically stratified survival analysis from UK Biobank\nT2  - The lancet. Diabetes & endocrinology\nVL  - 6\nSP  - 122\nEP  - 129\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Mahajan, A.\nTI  - Refining the accuracy of validated target identification through coding variant fine-mapping in type 2 diabetes\nT2  - Nature Genetics\nVL  - 50\nSP  - 559\nEP  - 571\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Burgess, S.\nAU  - Labrecque, J.A.\nTI  - Mendelian randomization with a binary exposure variable: interpretation and presentation of causal estimates\nT2  - European Journal of Epidemiology\nVL  - 33\nSP  - 947\nEP  - 952\nPY  - 2018\nDA  - 2018\nUR  - https://pipelinereview.com/index.php/2020022673884/Proteins-and-Peptides/APEIRONs-res\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Banik, G.R.\nAU  - Alqahtani, A.S.\nAU  - Booy, R.\nAU  - Rashid, H.\nTI  - Risk factors for severity and mortality in patients with MERS-CoV: Analysis of publicly available data from Saudi Arabia\nT2  - Virol Sin\nVL  - 31\nSP  - 81\nEP  - 4\nPY  - 2016\nDA  - 2016\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Alqahtani, F.Y.\nTI  - Prevalence of comorbidities in cases of Middle East respiratory syndrome coronavirus: a retrospective study\nT2  - Epidemiol Infect\nVL  - 1\nPY  - 2018\nDA  - 2018\nC1  - true\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kulcsar, K.A.\nAU  - Coleman, C.M.\nAU  - Beck, S.E.\nAU  - Frieman, M.B.\nTI  - Comorbid diabetes results in immune dysregulation and enhanced disease severity following MERS-CoV infection\nT2  - JCI insight\nVL  - 4\nSP  - 131774\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Liang, W.\nTI  - Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China\nT2  - The Lancet Oncology\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Pendergrass, S.A.\nTI  - The use of phenome-wide association studies (PheWAS) for exploration of novel genotype-phenotype relationships and pleiotropy discovery\nT2  - Genetic epidemiology\nVL  - 35\nSP  - 410\nEP  - 422\nPY  - 2011\nDA  - 2011\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Imai, Y.\nTI  - Angiotensin-converting enzyme 2 protects from severe acute lung failure\nT2  - Nature\nVL  - 436\nSP  - 112\nEP  - 6\nPY  - 2005\nDA  - 2005\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Markham, A.\nTI  - Fostamatinib: First Global Approval\nT2  - Drugs\nVL  - 78\nSP  - 959\nEP  - 963\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kang, Y.\nTI  - Efficacy and Safety of Multiple Dosages of Fostamatinib in Adult Patients With Rheumatoid Arthritis: A Systematic Review and Meta-Analysis\nT2  - Front Pharmacol\nVL  - 10\nPY  - 2019\nDA  - 2019\nC1  - true\nIS  - 897\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Richardson, P.\nTI  - Baricitinib as potential treatment for 2019-nCoV acute respiratory disease\nT2  - Lancet\nVL  - 395\nSP  - 30\nEP  - 31\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Stebbing, J.\nTI  - COVID- 19: combining antiviral and anti-inflammatory treatments\nT2  - The Lancet Infectious Diseases\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Richardson, P.\nTI  - Baricitinib as potential treatment for 2019-nCoV acute respiratory disease\nT2  - The Lancet\nVL  - 395\nSP  - 30\nEP  - 31\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Stebbing, J.\nTI  - COVID- 19: combining antiviral and anti-inflammatory treatments\nT2  - The Lancet Infectious Diseases\nVL  - 0\nC1  - true\nIS  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nA2  - Rolf, M.G.\nTI  - vitro pharmacological profiling of R406 identifies molecular targets underlying the clinical effects of fostamatinib\nT2  - Pharmacol Res Perspect\nVL  - 3\nSP  - 00175\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Roth, D.E.\nAU  - Richard, S.A.\nAU  - Black, R.E.\nTI  - Zinc supplementation for the prevention of acute lower respiratory infection in children in developing countries: meta-analysis and meta-regression of randomized trials\nT2  - International Journal of Epidemiology\nVL  - 39\nSP  - 795\nEP  - 808\nPY  - 2010\nDA  - 2010\nLA  - \nER  - \n\n",
+        "author_conclusions": [
+            "In conclusion, the current MR analysis reveals diseases/traits and blood proteins that may causally affect ACE2 expression, which in turn may influence susceptibility to the infection. The proteome-wide MR analysis may shed light on the molecular mechanisms underlying ACE2 expression, and may help guide drug repositioning in the future. Nevertheless, we stress that further studies are required to verify our findings due to various limitations and the exploratory nature of some analyses."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Overall MR analysis results achieving nominal significance (p<0.05), with diseases/traits as exposure and ACE2 lung expression as outcome"
+            },
+            {
+                "id": "2",
+                "caption": "Further MR analysis results for type II diabetes based on 2018 Mahajan et al"
+            },
+            {
+                "id": "3",
+                "caption": "Top 10 enriched pathways for significant proteins in MR analysis"
+            },
+            {
+                "id": "4",
+                "caption": "Drugs with targets overlapping with significant proteins from MR analysis (only FDA-approved drugs shown)"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.04.20031237.full.pdf_gs4lgwcw_bsavva9_.xlsx"
+    },
+    "sections": {
+        "introduction": [
+            "A novel coronavirus named 2019-nCoV was detected from patients in Wuhan city, China 1,2 at the end of<br/><br/>2019. The virus has since caused an outbreak of coronavirus disease 2019 (COVID-19) not only presenting in China but also spreading worldwide 3-5. A total of 87,137 of confirmed cases have been reported as at<br/><br/>01-03-2020, according to the latest<br/><br/>WHO situation report (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfv rsn=6768306d_2). Although most of patients were still concentrated in China, the total number of infected subjects in other countries has exceeded 7000, with confirmed cases in 58 countries. COVID-19 has already caused 2,977 deaths worldwide as at 01-03-2020. Considering the severity of COVID-19 outbreak all over the world, it is urgent to seek solutions to control the spread of the disease to susceptible groups, and to identify effective treatments. A better understanding of the pathophysiology of the disease is also urgently needed."
+        ],
+        "methods": [
+            "GWAS data    Exposure data<br/><br/>To perform the phenome-study, we made use of the latest IEU GWAS database (https://gwas.mrcieu.ac.uk/), which contains up to 111,908,636,549 genetic associations from 31,773 GWAS summary datasets (as at 26th Feb 2020). The database was retrieved via the R package \u201cTwoSampleMR\u201d (ver 0.5.1). MR analysis was conducted with the same package. Due to the extremely huge number of traits in the database, we performed some pre-selection to the list of traits/diseases before full analysis. Briefly, we selected the following categories of traits: (1) Traits listed as priority 1 (high priority) and labelled as \u201cDisease\u201d or \u201cRisk factor\u201d (81 and 71 items respectively); (2) traits labelled as \u201cprotein\u201d as described above (3371 items); (3) (selected) traits from the UK Biobank, as it is one of the largest source of GWAS data worldwide (with sample size ~ 500,000). We consider that a proportion of traits have presumably low prior probability of association with respiratory infections, and others are less directly clinically relevant. To reduce computational burden and for ease of interpretation, a proportion of UK Biobank (UKBB) traits were filtered. More specifically, we excluded GWAS data of diseases or traits related to the following: eye or hearing problems, orthopedic and trauma-related conditions (except autoimmune diseases), skin problems (except systemic or autoimmune diseases), perinatal and obstetric problems, operation history, medication history (as confounding by indication is common and may affect the validity of results22), diet/exercise habit (as accuracy of information cannot be fully guaranteed and recall bias may be present), other socioeconomic features (such as type of jobs). A total of 425 UKBB traits were retained for final analysis."
+        ],
+        "results": [
+            "MR analysis for diseases and clinically relevant traits MR results are presented in Tables 1 and 2 (full results shown in Tables S2 and S3). Traits were shown if any of the three methods (MR-IVW, MR-Egger, Wald ratio) showed nominally significant (p<0.05) results. For traits that do not show evidence for directional pleiotropy (p-value of Egger Intercept>0.05), we shall primarily report the results from MR-IVW, as generally the SE of causal estimates is larger with MR-Egger 30 (hence power is weaker). Results from MR-Egger will be presented if there is significant directional pleiotropy.<br/><br/>Diabetes-related traits Remarkably, a number of top-ranked results were related to diabetes. We observed totally five diabetes-related traits that showed nominally significant MR results, and they were all positively associated with ACE2 expression. Three are related to diagnosis of diabetes (including both type I and II) in the UKBB. Another one (id: ieu-a-23) was based on a trans-ethnic meta-analysis in 2014 31, which had no overlap with the UKBB sample. The finding of a nominally significant result in this dataset can therefore be considered as an independent replication of the UKBB result."
+        ],
+        "acknowledgements": [
+            "We would like to thank Prof. Stephen Tsui for computing support. This study was partially supported by the Lo Kwee Seong Biomedical Research Fund, an NSFC grant and a Chinese University of Hong Kong Direct Grant. We also thank Mr Carlos Chau for assistance in part of the analysis.<br/><br/>Author contributions Conceived and designed the study: HCS, SR. Supervised the study: HCS. Data analysis: HCS (lead), SR, AL. Data interpretation: SR, AL, HCS. Drafted the manuscript: HCS (lead), with input from AL and SR."
+        ],
+        "disclosures": [
+            "The authors declare no conflict of interest."
+        ],
+        "funding": [
+            "This study was partially supported by the Lo Kwee Seong Biomedical Research Fund, an NSFC grant and a Chinese University of Hong Kong Direct Grant"
+        ],
+        "data_availability": [
+            "https://github.com/Nealelab/UK_Biobank_GWAS/tree/master/imputed-v2-gwas"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Supplementary Table 1",
+                "Tables S2 and S3",
+                "Table S2",
+                "Table S4",
+                "Table S1"
+            ]
+        }
+    },
+    "structured_content": {
+        "Introduction": [
+            "A novel coronavirus named 2019-nCoV was detected from patients in Wuhan city, China 1,2 at the end of",
+            "2019. The virus has since caused an outbreak of coronavirus disease 2019 (COVID-19) not only presenting in China but also spreading worldwide 3-5. A total of 87,137 of confirmed cases have been reported as at",
+            "WHO situation report (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfv rsn=6768306d_2). Although most of patients were still concentrated in China, the total number of infected subjects in other countries has exceeded 7000, with confirmed cases in 58 countries. COVID-19 has already caused 2,977 deaths worldwide as at 01-03-2020. Considering the severity of COVID-19 outbreak all over the world, it is urgent to seek solutions to control the spread of the disease to susceptible groups, and to identify effective treatments. A better understanding of the pathophysiology of the disease is also urgently needed.",
+            "There have been ongoing efforts to characterize the clinical features of the illness. Through integrating three recent reports of confirmed cases, we estimated that over one quarter of patients had a previous history of comorbidity conditions, including hypertension (12.9%), diabetes (5.4%), cardiovascular disease (4.1%), respiratory system diseases (2.4%) and malignancy (0.5%) (Supplementary Table 1) 4-6. Furthermore, various human organs such as lung, heart, kidney and bladder were reported to be vulnerable to the virus via analyzing the single-cell RNA sequencing datasets 7. Nevertheless, it is still unclear whether the above or other comorbid diseases would lead to increased susceptibility to COVID-19, and if so, what the underlying mechanisms may be. In addition, since most clinical studies on the disease were observational in nature, it may be difficult to discern causality as many known or unknown confounders may be present (e.g. age, sex, other diseases, medications received, smoking/drinking history etc.). These confounders may lead to spurious associations between the exposure (e.g. comorbid conditions) and the outcome (e.g. susceptibility to infection, severity of illness etc.).",
+            "According to four lines of evidence, Wan et al speculated that the host receptor of 2019-nCoV was angiotensin-converting enzyme 2 (ACE2) 8. ACE2 has been established a receptor for SARS-CoV 9,10, and the same protein might regulate 2019-nCoV\u2019s capacity for cross-species and human-to-human transmissions 8. Besides, Zhou et al also confirmed this finding in HELA cell lines 11. Subsequently, Wrapp et al observed that the ACE2 protein could bind to the virus spike ecto-domain with around 15 nM affinity, which is up to 20-fold",
+            "higher than the binding affinity to the previous SARS-CoV spike glycoprotein 12. This provides strong evidence that ACE2 is a target of the novel coronavirus.",
+            "A number of studies have looked into the relationship between ACE2 expression level and coronavirus infection. For example, Li et al overexpressed ACE2 protein in 293T and Vero E6 cell lines. Over-expression of ACE2 lead to more efficient viral replication, but it was blocked by anti-ACE2 antibody in a dose-dependent manner 9. A further study also confirmed that susceptibility to SAR-CoV correlates with ACE2 expression on cell lines 13. In a subsequent work, Jia et al showed that undifferentiated airway epithelial cells that express little ACE2 were poorly infected by SARS-CoV, while well-differential cells expressing higher ACE2 were readily infected 14. Taking the evidence together, expression level of the ACE2 protein is associated with susceptibility to SARS-CoV infection.",
+            "Since ACE2 has been supported by multiple studies as a receptor for 2019-nCov, it is reasonable to speculate that higher ACE2 expression in relevant tissues (e.g. the lung) may lead to increased susceptibility to infection. As discussed above, studies have indeed supported this hypothesis for SARS-CoV. While further studies are required, revealing diseases/traits that are causally associated with altered ACE2 expression may shed light on why certain subjects are more susceptible to the infection and the underlying mechanisms (whether the increased susceptibility is mediated via ACE2).",
+            "In a related work, recently Cai 15 performed an analysis with TCGA datasets and showed that smoking is associated with elevated expression of ACE2 in the lung, which may be associated with greater susceptibility to infection or more severe illness. However, there are several limitations as detailed by the author. For example, the samples studied are derived from patients with lung cancer, which may not be fully reflective of the expression in normal lung tissues. Another potential limitation is that it is difficult to control for all confounders, as smoking may be related to other unhealthy life habits 16 and multiple comorbid diseases 17,18.",
+            "Here we conducted a phenome-wide Mendelian randomization (MR) study to explore diseases or traits that may be causally linked to increased ACE2 expression in the lung. We will employ MR for causal inference. MR makes use of genetic variants as \u201cinstruments\u201d to represent the exposure of interest, and infers causal relationship between the exposure and the outcome[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. MR is much less susceptible to confounding bias and reverse causality when compared to observational studies.",
+            "The concept of MR is akin to randomized controlled trials (RCT). For example, consider a study on the causal effect of lipid on the risk of a certain disease. Subjects who have inherited lipid-lowering alleles at a locus (or a set of such alleles at multiple loci) will have lower lipid levels on average, which is analogous to receiving lipid-lowering drugs in an RCT20. The random allocation of alleles at conception is similar to random assignment of treatment in an RCT. As a result, the chance of spurious associations due to known or unknown confounders is reduced due to the \u2018random assignment\u2019 of treatment or risk factor. Another important point to note is that MR can be conducted with summary statistics from genome-wide association studies (GWAS), which are now widely available and often of very large sample sizes.",
+            "In this study, we wish to answer the following question: What conditions or traits may lead to increased ACE2 expression, which may in turn result in greater susceptibility to 2019-nCov infection? Since COVID-19 is a new disease and prior knowledge is lacking, we employed a phenome-wide approach in which a large variety of traits are studied for causal associations with ACE2 expression. This analysis may help to prioritize resources for better prevention of the infection in those susceptible subjects.",
+            "In addition to diseases, we also studied serum/plasma proteins as exposure, as they may point to potential molecular mechanisms underlying ACE2 expression, and may serve as potential predictive or prognostic biomarkers. It has also been suggested that such proteome-wide studies may help to reveal drug repositioning candidates[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>], through the search for drugs that target the top-ranked proteins. For example, if a protein is found to casually increase the risk of a disease by MR, by the definition of causality, blocking the protein will lead to reduced disease risks. In our study, by finding plasma/serum proteins causally linked to ACE2 expression, we may find drugs that will alter ACE2 expression, which in turn may be useful for treatment."
+        ],
+        "Methods": [
+            "To perform the phenome-study, we made use of the latest IEU GWAS database (https://gwas.mrcieu.ac.uk/), which contains up to 111,908,636,549 genetic associations from 31,773 GWAS summary datasets (as at 26th Feb 2020). The database was retrieved via the R package \u201cTwoSampleMR\u201d (ver 0.5.1). MR analysis was conducted with the same package. Due to the extremely huge number of traits in the database, we performed some pre-selection to the list of traits/diseases before full analysis. Briefly, we selected the following categories of traits: (1) Traits listed as priority 1 (high priority) and labelled as \u201cDisease\u201d or \u201cRisk factor\u201d (81 and 71 items respectively); (2) traits labelled as \u201cprotein\u201d as described above (3371 items); (3) (selected) traits from the UK Biobank, as it is one of the largest source of GWAS data worldwide (with sample size ~ 500,000). We consider that a proportion of traits have presumably low prior probability of association with respiratory infections, and others are less directly clinically relevant. To reduce computational burden and for ease of interpretation, a proportion of UK Biobank (UKBB) traits were filtered. More specifically, we excluded GWAS data of diseases or traits related to the following: eye or hearing problems, orthopedic and trauma-related conditions (except autoimmune diseases), skin problems (except systemic or autoimmune diseases), perinatal and obstetric problems, operation history, medication history (as confounding by indication is common and may affect the validity of results22), diet/exercise habit (as accuracy of information cannot be fully guaranteed and recall bias may be present), other socioeconomic features (such as type of jobs). A total of 425 UKBB traits were retained for final analysis.",
+            "GWAS of UKBB were based on analysis results from the Neale Lab (https://sites.google.com/broadinstitute.org/ukbbgwasresults/) and from MRC-IEU. GWAS analysis was performed using linear models with adjustment for population stratification; details of the analytic approach is given in the following links: https://github.com/Nealelab/UK_Biobank_GWAS/tree/master/imputed-v2-gwas, http://www.nealelab.is/blog/2017/9/11/details-and-considerations-of-the-uk-biobank-gwas and https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi. For binary outcomes, we converted the regression coefficients obtained from the linear model to those under a logistic model, based on methodology presented in 23. The SE under a logistic model was derived by the delta method (see supplementary text of 23, equation 37).",
+            "Regarding the outcome, we are interested in the expression of ACE2. While ideally one should study the protein expression in the lung, such data is scarce and corresponding genotype data (required for MR) is not available. Here we focus on the gene expression of ACE2 in the lung (N = 515). ACE2 protein levels appear to be relatively well-correlated with mRNA levels across tissues, based on the Human Proteome Atlas (https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue). We retrieved GWAS summary data from the GTEx database, one of the largest databases to date with both genotype and expression data for a large variety of tissues. For details of GTEx please refer to 24.",
+            "Mendelian randomization (MR) analysis Here we performed two-sample MR in which the instrument-exposure and instrument-outcome associations were estimated in different samples. We conducted MR primarily with the \u2018inverse-variance weighted\u2019 (MR-IVW)[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>] and Egger regression (MR-Egger)[<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>] approaches, which are among the most widely used MR methods. One of the concerns of MR is horizontal pleiotropy, in which the genetic instruments have effects on the outcome other than through effects on the exposure. Of note, MR-Egger gives valid estimates of causal effects in the presence of imbalanced or directional horizontal pleiotropy. In addition, significance of the MR-Egger intercept can be used to judge whether significant imbalanced pleiotropy is present. MR was performed on (approximately) independent SNPs with r2 threshold of 0.001, following default settings in TwoSampleMR. We only included SNPs passing genome-wide significance (p<5e-8) as instruments. For exposure with only one instrument, the Wald ratio method was used. For analysis with less than 3 genetic instruments, we employed MR-IVW since MR-Egger cannot be reliably performed. As will be detailed in the results section, for selected trait(s) with stronger evidence of association, we also performed further analysis by GSMR and MR-RAPS. GSMR (http://cnsgenomics.com/software/gsmr/) can take into account of (imbalanced) horizontal pleiotropy but is based on a different principle from MR-Egger. It excludes \u2018outlier\u2019 or heterogeneous genetic instruments that may contribute to pleiotropy, by the \u2018HEIDI-outlier\u2019 method 27.",
+            "GSMR also employed a slightly different formula from MR-IVW by modelling variance of both \u03b2XG and \u03b2YG , and accounts for correlated SNPs 27. MR-RAPS is another MR analysis methodology which can take into account multiple weak instruments by a robust procedure. Details of MR-RAPS were described in Zhao et al 28.",
+            "We also performed analysis with plasma/serum proteins as exposure. Besides MR analysis on individual proteins, we also performed pathway analysis by ClueGO 29. Hypergeometric tests were conducted on the top-ranked proteins (with p<0.05). In addition, we searched for drugs with targets overlapping with the top-ranked proteins. Drug targets were defined based on the DrugBank database. Our aim is uncover drug candidates leading to alteration of ACE2 expression, which may be therapeutically relevant."
+        ],
+        "Results": [
+            "MR analysis for diseases and clinically relevant traits MR results are presented in Tables 1 and 2 (full results shown in Tables S2 and S3). Traits were shown if any of the three methods (MR-IVW, MR-Egger, Wald ratio) showed nominally significant (p<0.05) results. For traits that do not show evidence for directional pleiotropy (p-value of Egger Intercept>0.05), we shall primarily report the results from MR-IVW, as generally the SE of causal estimates is larger with MR-Egger 30 (hence power is weaker). Results from MR-Egger will be presented if there is significant directional pleiotropy.",
+            "Diabetes-related traits Remarkably, a number of top-ranked results were related to diabetes. We observed totally five diabetes-related traits that showed nominally significant MR results, and they were all positively associated with ACE2 expression. Three are related to diagnosis of diabetes (including both type I and II) in the UKBB. Another one (id: ieu-a-23) was based on a trans-ethnic meta-analysis in 2014 31, which had no overlap with the UKBB sample. The finding of a nominally significant result in this dataset can therefore be considered as an independent replication of the UKBB result.",
+            "We also observed that starting insulin within one year of diagnosis, which was only assessed within diabetic subjects, was casually associated with increased ACE2 expression. Early use of insulin may indicate type I diabetes as the underlying diagnosis or more severe or late-stage disease for type II diabetic subjects 32.",
+            "In view of the consistent causal associations with diabetes or related traits, we further searched for GWAS summary statistics that have not been included in the IEU GWAS database. We found another publicly available dataset from the DIAGRAM Consortium, based on a recent meta-analysis of type II diabetes by Mahajan et al 33. For a more in-depth analysis, we also employed GSMR and MR-RAPS in addition to IVW and Egger. The full results are presented in Table 2. Reassuringly, with the exception of MR-Egger (which is relatively less powerful 30), all other methods showed (nominally) significant results. GSMR reported the lowest p-value of 2.49E-04 (beta = 0.1835, 95% CI: 0.0853 to 0.2817). While this study 33 has partial overlap with the trans-ethnic analysis in 2014 31, the consistent associations provide further support to a causal link between diabetes and expression of ACE2.",
+            "Regarding the effect size of casual associations, since the exposures were binary, the regression coefficients (beta) from MR may be roughly interpreted as average change in the outcome (increase in normalized expression level) per 2.72-fold increase in the prevalence of the exposure 34. For type II diabetes, or self-reported diabetes from UKBB which presumably comprised mainly type II diabetes, the causal estimates ranged from ~0.1621 to 0.1835. These estimates were reasonably close despite different datasets being used. The causal estimate from type I diabetes was slightly lower and estimated to be ~0.1006.",
+            "Other disease/traits As shown in Table 1, a number of other disease/traits also showed (nominally) significant results. Several neoplasms, such as breast and lung cancer, may be associated with increased ACE2 expression. We also observed that several autoimmune disorders, especially inflammatory bowel diseases may be casually associated with ACE2 expression. Interestingly, asthma and tobacco use also showed nominal significant associations with higher ACE2 expression. As for other traits, high alanine aminotransferase (ALT), commonly associated with liver diseases, may be related to elevated ACE2 expression. Other commonly measured blood measures that may lead to altered ACE2 expression also included red cell distribution width (often associated with iron-deficiency, folate or B12 deficiency anemia), basophil percentage (inverse relationship), calcium level, urate level, HDL-cholesterol and LDL cholesterol (inverse relationship).",
+            "MR results with plasma/serum proteins as exposure Full results are shown in Table S2 and the enriched pathways are shown in Table 3 and Table S4. Since a large number of proteins are involved, we only highlight a few top pathways here. Some of top pathways include cytokine and cytokine receptor interaction, VEGFA-VEGF2 signaling pathway, JAS-STAT signaling pathway etc. Table 4 and S5 shows the list of drugs whose targets overlap with the top-ranked proteins. Note that the tables do not explicitly discern the direction of effects of the drugs. A few drugs target more than one protein. If they are ranked by the number of proteins targeted, the top drugs are fostamatinib, copper, zinc and zonisamide, which target >=3 proteins.",
+            "In this study we have employed Mendelian Randomization (MR) to uncover diseases/traits that may be causally linked to ACE2 expression levels in the lung, which in turn may influence susceptibility to the infection. We believe such analysis is of value as observational studies are more prone to confounding bias. Also, in practice, it is very difficult to organize a comprehensive clinical study of many different risk factors/diseases, evaluate if they are risk factors for COVID-19. Such studies may also be limited by the lack of relevant clinical data for some patients.",
+            "From our analysis, the most consistent finding was the casual link between diabetes (and related traits) with ACE2 expression, which was supported by multiple datasets and different analytic approaches. Other results were more tentative, but may be worthy of further studies. For example, several neoplasms (e.g. breast and lung cancers) and autoimmune diseases, elevated ALT, asthma and smoking all showed nominally significant and positive associations with ACE2 expression. If the findings are replicated and confirmed in further studies, there may be clinical implications.",
+            "For example, identification of those at greater risk may help to guide the prioritization of resources to reduce infection risks in susceptible groups. Also, it is likely that vaccines may be developed in the near future; in the lack of resources, susceptible groups may be prioritized to receive vaccination to maximize cost-effectiveness. In a similar vein, if resources are limited, the more susceptible subjects may receive higher priority for diagnostic testing for the infection. As far as treatment is concerned, if certain conditions such as diabetes indeed increases susceptibility via ACE2, then drugs targeting at this gene/protein may be particularly useful for this patient subgroup. For example, human recombinant ACE2 has been proposed as a treatment and is under clinical trial for COVID-1935. It will be interesting to see if the drug may be more beneficial for DM patients. More generally speaking, if DM is causally linked to elevated ACE2 and potentially increased susceptibility to infection, then anti-diabetic drugs or improved glycemic control may reverse the process. Interestingly, a few studies have shown that metformin may reduce mortality from lower respiratory disease in diabetic patients{Ho, 2019 #59;Mendy, 2019 #60}. It will be intriguing to know if metformin (or other anti-diabetic medications) may be clinically beneficial in preventing or reducing the severity of disease in diabetic or non-diabetic subjects.",
+            "Here we further discuss on a few disease/traits also supported by previous studies. First, as discussed in the introduction, a recent study 15 also suggested smoking was associated with higher ACE2 expression. Our analysis adds further support to the hypothesis, but we further showed that the relationship may be casual. As shown in Table S1, a number of COVID-19 cases (~5.4%) were also comorbid with diabetes mellitus (DM). Similarly, DM was also common in patients infected with MERS-CoV 36,37. Kulcsar et al built a mouse model susceptible to MERS-CoV infection and induced type 2 DM using a high-fat diet. They found that, if affected by the virus, these diabetic mice suffered from a prolonged phase of disease and delayed recovery, which might be due to a dysregulated immune response 38. With regards to comorbidity with cancers, Liang et al recently carried out a nationwide analysis of 1,590 patients with laboratory-confirmed COVID-19 and suggested that cancer patients might have a higher infection risk than those without 39. The study also reported higher risk of severe complications in such patients.",
+            "There are several limitations in our analysis of associated diseases/traits with ACE2 expression. A major limitation is that the sample size for GTEx is relatively modest, which limits the power of MR analysis. However, to our knowledge, GTEx is probably the largest database with both genotype and expression data for lung tissues.",
+            "Another point we wish to emphasize is that we consider this work as largely an exploratory rather than confirmatory study. Our main purpose is to prioritize diseases, traits or proteins with potential causal links with ACE2 expression, and hence possibly increased susceptibility to 2019-nCov infection. Owing to relatively modest sample size of the outcome dataset of GTEx (N = 515), we expect the power to be modest. Also in view of the exploratory and hypothesis-generating nature of this study, we have not implemented stringent multiple testing procedures such as Bonferroni correction. On the other hand, we examined the consistency of the observed associations across different datasets, and considered those supported by more than one set of data as relatively more trustworthy or robust, similar to the approach adopted by Pendergrass et al 40. However, we emphasize that our findings will require further replications and support by further clinical and experimental studies.",
+            "On the other hand, we also wish to highlight some results could be false negatives. The main reason for false negatives is the limited sample size of GTEx, and that for some exposure traits, the number of instruments available may be small. For example, in our analysis, we do not find evidence of hypertension or blood pressure, history of coronary heart disease and stroke to be casually linked to ACE2 expression, although patients with severe infections have been reported to be enriched for these comorbidities.",
+            "On ACE2 expression and exploring drug candidates As discussed above, increased expression of ACE2 appears to be correlated with susceptibility to",
+            "SARS-Cov and 201-nCoV infection. Nevertheless, the consequences of altered ACE2 expression may be rather complex. Kuba et al reported that the Spike protein of the SARS-CoV down-modulated ACE2 expression 10, which may lead to heightened risks of acute lung injury. Another study 41 suggested ACE2 may protect against acute pulmonary failure by blocking the renin-angiotensin signaling pathway. However, whether the same may apply to 2019-nCov is still unknown. If this is the case, then one may hypothesize that for unaffected individuals or those without (or with minimal) lung involvement yet (as could be the case for some subjects at the early stage of disease), a lower level of ACE2 expression on lung cells may be beneficial in reducing susceptibility to more sustained infection by reducing viral entry. However, for patients with severe lung involvement or at risk of acute lung injury, higher level of ACE2 expression may prevent risk of acute lung failure. Therefore, it may be clinically relevant to identify both types of drugs, i.e. those leading to elevated ACE2 expression as well as those leading to reduced expression. Further studies are warranted to clarify the role of ACE2 and whether drugs targeting ACE2 may be therapeutically useful.",
+            "The drugs we highlighted in this study may help researchers to prioritize repositioning candidates for further studies, given the huge cost in developing a brand-new drug and that detailed investigations on every existing mediation will be impractical. We briefly discuss a few drugs highlighted by our analysis. Fostamatinib targets the largest number (seven) of proteins potentially linked to ACE2 expression. According to DrugBank, it serves as an inhibitor for all these proteins, and all were linked to elevated ACE2 expression in the present MR analysis except one. This drug has been approved for treating Immune Thrombocytopenic Purpura (ITP), and is a spleen tyrosine kinase inhibitor[<a class=\"ref-link\" id=\"c42\" href=\"#r42\">42</a>]. There has been trials on rheumatoid arthritis (RA)[<a class=\"ref-link\" id=\"c43\" href=\"#r43\">43</a>] and IgA nephropathy as well[<a class=\"ref-link\" id=\"c42\" href=\"#r42\">42</a>]. Interestingly, recent studies by the company BenevolentAI44,45 employed a proprietary knowledge graph approach and found several repositioning candidates 46,47. Baricitinib, a JAK 1/2 inhibitor approved for RA, was suggested as a top candidate. The drug was proposed on its action on AAK1 which is a regulator of endocytosis, although how AAK1 was prioritized as target was not described in the study. Fostamatinib, which we prioritized in this study, also inhibits JAK1, JAK2 and AAK1 48 based on curations from DrugBank and was shown to be effective for RA 43. Of note, two other JAK-STAT signaling inhibitors were recommended by Stebbing et al.[<a class=\"ref-link\" id=\"c45\" href=\"#r45\">45</a>], while in our analysis JAK-STAT signaling is among the top 10 pathways enriched for top proteins linked to ACE2 expression. Another candidate highlighted by Richardson et al.[<a class=\"ref-link\" id=\"c44\" href=\"#r44\">44</a>], sunitinib, was also top-listed by our MR-based analysis. We have employed a rather different algorithm based on causal inference, when compared to the approach by BenevolentAI. The concordance between different studies provides additional support to the usefulness our MR-based approach, and the drugs with converging evidence by different approaches may be more likely to be true candidates. Zinc was also a top-listed candidate in our study, and it has been reported to reduce the risk of lower respiratory tract infections in some studies, e.g. 49, although further studies are required as the evidence is not firm.",
+            "Despite some interesting findings, due to limited knowledge of how the drugs act on the targets and their directions of effect, as well as the pathophysiology of COVID-19, we consider our results as exploratory findings which require further investigations. We note that a number of drugs may act on more than one target, but the exact pharmacological action on each target is often unclear; the overall direction and magnitude of effect of each drug may not be easily determined and must be verified in further studies. We emphasize that the drugs highlighted in this work are meant to prioritize suitable candidates to speed up discovery for treatments, and are not supposed to be applied to clinical practice or trials yet. However, due to the potential huge cost and extreme urgency of developing new therapies, we believe that any drug repositioning/discovery attempt that may improve the success rate even by a small margin may still be much valuable.",
+            "Moreover, we should stress that this study does not address what factors may aggravate or ameliorate CoV-induced changes in ACE2 levels (i.e. the expression changes as a result of CoV infection). This involves complex interaction between the virus, the ACE2 receptor and other downstream pathways, and could not be predicted by the present analysis per se. Our findings from MR mainly reflect diseases/traits/proteins causally linked to ACE2 expression in uninfected subjects, as the outcome dataset (GTEx) is composed of such subjects.",
+            "Finally, on a methodological note, we have employed MR in a different manner in most present studies. Usually MR is used to identify causal risk factors with a disease as the outcome, for which GWAS data for the disease is available. Here we presented a new analytic approach; we made use of existing knowledge of a key receptor of an infectious agent to uncover risk factors as well as repositioning candidates. This analytic framework may also be applied to other diseases, especially when a target can be identified but genomic data for the disease is limited. Conclusions",
+            "Notwithstanding the limitations, we have identified several diseases and traits which may be causally related to ACE2 expression the lung, which in turn may mediate susceptibility to 2019-nCoV infection. In addition, our proteome-wide MR analysis revealed proteins that could lead to changes in ACE2 expression. Subsequent drug repositioning analysis highlighted several candidates that may warrant further investigations. We stress that most of the findings require replications and validation in further studies, especially the part on drug repositioning. Nevertheless, we believe this work is of value in view of the urgency to address the outbreak of 2019-nCoV."
+        ],
+        "Acknowledgements": [
+            "We would like to thank Prof. Stephen Tsui for computing support. This study was partially supported by the Lo Kwee Seong Biomedical Research Fund, an NSFC grant and a Chinese University of Hong Kong Direct Grant. We also thank Mr Carlos Chau for assistance in part of the analysis.",
+            "Author contributions Conceived and designed the study: HCS, SR. Supervised the study: HCS. Data analysis: HCS (lead), SR, AL. Data interpretation: SR, AL, HCS. Drafted the manuscript: HCS (lead), with input from AL and SR.",
+            "Conflicts of interest The authors declare no conflict of interest."
+        ],
+        "References": [
+            "1. Lu, R. et al Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet 395, 565-574 (2020).",
+            "2. Zhu, N. et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. New",
+            "England Journal of Medicine 382, 727-733 (2020).",
+            "3. Li, Q. et al Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected",
+            "Pneumonia. N Engl J Med (2020).",
+            "4. Guan, W.-j. et al Clinical characteristics of 2019 novel coronavirus infection in China.",
+            "medRxiv, 2020.02.06.20020974 (2020).",
+            "5. Novel-Coronavirus-Pneumonia-Emergency-Response-Epidemiology-Team.",
+            "[The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19)",
+            "in China]. Zhonghua Liu Xing Bing Xue Za Zhi 41, 145-151 (2020).",
+            "6. Huang, C. et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 395, 497-506 (2020).",
+            "7. Zou, X. et al The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection. Front.",
+            "Med., [Epub ahead of print] (2020).",
+            "8. Wan, Y., Shang, J., Graham, R., Baric, R.S. & Li, F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J",
+            "Virol (2020).",
+            "9. Li, W. et al Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature 426, 450-4 (2003).",
+            "10. Kuba, K. et al A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury. Nat Med 11, 875-9 (2005).",
+            "11. Zhou, P. et al Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv, 2020.01.22.914952 (2020).",
+            "12. Wrapp, D. et al Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation.",
+            "bioRxiv, 2020.02.11.944462 (2020).",
+            "13. Hofmann, H. et al Susceptibility to SARS coronavirus S protein-driven infection correlates with expression of angiotensin converting enzyme 2 and infection can be blocked by soluble receptor. Biochemical and Biophysical Research Communications 319, 1216-1221 (2004).",
+            "14. Jia, H.P. et al ACE2 receptor expression and severe acute respiratory syndrome coronavirus infection depend on differentiation of human airway epithelia. J Virol 79, 14614-21 (2005).",
+            "15. Cai, G. Bulk and Single-Cell Transcriptomics Identify Tobacco-Use Disparity in Lung Gene",
+            "Expression of ACE2, the Receptor of 2019-nCov. Preprints 2020020051(2020).",
+            "16. Ng, R., Sutradhar, R., Yao, Z., Wodchis, W.P. & Rosella, L.C. Smoking, drinking, diet and physical activity\u2014modifiable lifestyle risk factors and their associations with age to first chronic disease. International journal of epidemiology (2019).",
+            "17. Bielicki, P., Trojnar, A., Sobieraj, P. & W\u0105sik, M. Smoking status in relation to obstructive sleep apnea severity (OSA) and cardiovascular comorbidity in patients with newly diagnosed OSA. Advances in respiratory medicine 87, 103-109 (2019).",
+            "18. Azibou, A. et al Smoking, comorbidity, anxiety and depression in patients with MS and their relation with motor and/or cognitive fatigue. MULTIPLE SCLEROSIS JOURNAL 25, 428-429 (2019).",
+            "19. Smith, G.D. & Ebrahim, S. 'Mendelian randomization': can genetic epidemiology contribute to understanding environmental determinants of disease? Int J Epidemiol 32, 1-22 (2003).",
+            "20. Bennett, D.A. & Holmes, M.V. Mendelian randomisation in cardiovascular research: an introduction for clinicians. Heart 103, 1400-1407 (2017).",
+            "21. Schmidt, A.F. et al Genetic drug target validation using Mendelian randomization. bioRxiv, 781039 (2019).",
+            "22. Bellera, C. et al A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication. Stat Methods Med Res 27, 1271-1281 (2018).",
+            "23. Lloyd-Jones, L.R., Robinson, M.R., Yang, J. & Visscher, P.M. Transformation of Summary Statistics from Linear Mixed Model Association on All-or-None Traits to Odds Ratio. Genetics 208, 1397-1408 (2018).",
+            "24. Gamazon, E.R. et al Using an atlas of gene regulation across 44 human tissues to inform complex disease- and trait-associated variation. Nature Genetics 50, 956-967 (2018).",
+            "25. Burgess, S., Butterworth, A. & Thompson, S.G. Mendelian randomization analysis with multiple genetic variants using summarized data. Genet Epidemiol 37, 658-65 (2013).",
+            "26. Bowden, J., Davey Smith, G. & Burgess, S. Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression. Int J Epidemiol 44, 512-25 (2015).",
+            "27. Zhu, Z. et al Causal associations between risk factors and common diseases inferred from GWAS summary data. Nat Commun 9, 224 (2018).",
+            "28. Zhao, Q., Wang, J., Hemani, G., Bowden, J. & Small, D.S. Statistical inference in two-sample summary-data Mendelian randomization using robust adjusted profile score. arXiv preprint arXiv:1801.09652 (2018).",
+            "29. Bindea, G. et al ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks. Bioinformatics (Oxford, England) 25, 1091-1093 (2009).",
+            "30. Burgess, S. & Thompson, S.G. Interpreting findings from Mendelian randomization using the MR-Egger method. Eur J Epidemiol 32, 377-389 (2017).",
+            "31. Mahajan, A. et al Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture of type 2 diabetes susceptibility. Nat Genet 46, 234-44 (2014).",
+            "32. Thomas, N.J. et al Frequency and phenotype of type 1 diabetes in the first six decades of life: a cross-sectional, genetically stratified survival analysis from UK Biobank. The lancet. Diabetes & endocrinology 6, 122-129 (2018).",
+            "33. Mahajan, A. et al Refining the accuracy of validated target identification through coding variant fine-mapping in type 2 diabetes. Nature Genetics 50, 559-571 (2018).",
+            "34. Burgess, S. & Labrecque, J.A. Mendelian randomization with a binary exposure variable: interpretation and presentation of causal estimates. European Journal of Epidemiology 33, 947-952 (2018).",
+            "35. APEIRON's respiratory drug product to start pilot clinical trial to treat coronavirus disease",
+            "COVID-19 in",
+            "China.",
+            "Available at https://pipelinereview.com/index.php/2020022673884/Proteins-and-Peptides/APEIRONs-res piratory-drug-product-to-start-pilot-clinical-trial-to-treat-coronavirus-disease-COVID-19-in-",
+            "China.html.",
+            "36. Banik, G.R., Alqahtani, A.S., Booy, R. & Rashid, H. Risk factors for severity and mortality in patients with MERS-CoV: Analysis of publicly available data from Saudi Arabia. Virol Sin 31, 81-4 (2016).",
+            "37. Alqahtani, F.Y. et al Prevalence of comorbidities in cases of Middle East respiratory syndrome coronavirus: a retrospective study. Epidemiol Infect, 1-5 (2018).",
+            "38. Kulcsar, K.A., Coleman, C.M., Beck, S.E. & Frieman, M.B. Comorbid diabetes results in immune dysregulation and enhanced disease severity following MERS-CoV infection. JCI insight 4, e131774 (2019).",
+            "39. Liang, W. et al Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. The",
+            "Lancet Oncology (2020).",
+            "40. Pendergrass, S.A. et al The use of phenome-wide association studies (PheWAS) for exploration of novel genotype-phenotype relationships and pleiotropy discovery. Genetic epidemiology 35, 410-422 (2011).",
+            "41. Imai, Y. et al Angiotensin-converting enzyme 2 protects from severe acute lung failure.",
+            "Nature 436, 112-6 (2005).",
+            "42. Markham, A. Fostamatinib: First Global Approval. Drugs 78, 959-963 (2018).",
+            "43. Kang, Y. et al Efficacy and Safety of Multiple Dosages of Fostamatinib in Adult Patients With",
+            "Rheumatoid Arthritis: A Systematic Review and Meta-Analysis. Front Pharmacol 10, 897",
+            "(2019).",
+            "44. Richardson, P. et al Baricitinib as potential treatment for 2019-nCoV acute respiratory disease.",
+            "Lancet 395, E30-E31 (2020).",
+            "45. Stebbing, J. et al COVID-19: combining antiviral and anti-inflammatory treatments. The",
+            "Lancet Infectious Diseases (2020).",
+            "46. Richardson, P. et al Baricitinib as potential treatment for 2019-nCoV acute respiratory disease.",
+            "The Lancet 395, e30-e31 (2020).",
+            "47. Stebbing, J. et al COVID-19: combining antiviral and anti-inflammatory treatments. The",
+            "Lancet Infectious Diseases 0(2020).",
+            "48. Rolf, M.G. et al In vitro pharmacological profiling of R406 identifies molecular targets underlying the clinical effects of fostamatinib. Pharmacol Res Perspect 3, e00175 (2015).",
+            "49. Roth, D.E., Richard, S.A. & Black, R.E. Zinc supplementation for the prevention of acute lower respiratory infection in children in developing countries: meta-analysis and meta-regression of randomized trials. International Journal of Epidemiology 39, 795-808 (2010).",
+            "Table 1 Overall MR analysis results achieving nominal significance (p<0.05), with diseases/traits as exposure and ACE2 lung expression as outcome b_ se_ pval_",
+            "b_",
+            "se_",
+            "pval_",
+            "Egger_",
+            "id trait nsnps",
+            "IVW IVW IVW Egger Egger Egger Wald Wald Wald intercept",
+            "Diseases as exposure",
+            "Diabetes-related ukb-b-10753 Diabetes diagnosed by doctor",
+            "-",
+            "0.0196 ukb-b-12948 Non-cancer illness code, self-reported: diabetes",
+            "-0.0047 ukb-b-10694 Diagnoses - secondary ICD10: E10.9 Type I Diabetes mellitus without complications ieu-a-23",
+            "Type 2 diabetes ukb-b-8388 Started insulin within one year diagnosis of diabetes",
+            "-0.0523",
+            "-0.0005",
+            "pval_ intercept",
+            "0.8986 0.9914",
+            "Neoplasms ukb-b-8549 Diagnoses - main ICD10: D24 Benign neoplasm of breast ukb-d-D12",
+            "Diagnoses - main ICD10: D12 Benign neoplasm of colon, rectum, anus and anal canal ukb-d-C3_RESP Malignant neoplasm of respiratory system and",
+            "IRATORY_INT intrathoracic organs",
+            "RATHORACIC",
+            "-0.2861 0.1177 0.0150 -0.0575 0.4634 0.9038",
+            "-0.0312",
+            "0.5137 0.1976 0.0093 0.7114 0.7363 0.5109",
+            "-0.0562",
+            "0.8213 ukb-d-C34",
+            "Diagnoses - main ICD10: C34 Malignant neoplasm of bronchus and lung ieu-a-1134",
+            "ER+ Breast cancer (GWAS)",
+            "-0.0944",
+            "0.2594 ieu-a-1013",
+            "Glioma",
+            "-0.0705",
+            "Autoimmue disorders ukb-b-18194 Non-cancer illness code, self-reported: ankylosing spondylitis",
+            "0.0586",
+            "0.9639 ieu-a-32 ieu-a-292 ieu-a-30 ieu-a-31",
+            "Ulcerative colitis Inflammatory bowel disease Crohn's disease Inflammatory bowel disease",
+            "0.0034 0.0429 0.9376 0.2458 0.1034 0.0192",
+            "-0.0138 0.0499 0.7827 0.2866 0.1327 0.0360",
+            "-0.1049",
+            "-0.0309",
+            "-0.0443",
+            "-0.0510",
+            "Other diseases ukb-b-17219 Diagnoses - secondary ICD10: J45.9 Asthma,",
+            "-0.0635",
+            "0.1517 unspecified ukb-b-5115 Diagnoses - secondary ICD10: Z72.0 Tobacco use",
+            "0.0236",
+            "0.9303 ukb-b-6514 Non-cancer illness code, self-reported: hiatus hernia ukb-b-8848 Diagnoses - main ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene ukb-b-1386 Diagnoses - main ICD10: K21.9 Gastro-oesophageal",
+            "- -0.8653 0.4214 0.0400",
+            "reflux disease without oesophagitis ukb-d-I9_DISV Diseases of veins, lymphatic vessels and lymph",
+            "-0.2693 0.1194 0.0241 -0.1381 0.3021 0.6558",
+            "-0.0165",
+            "EINLYMPH nodes, not elsewhere classified ukb-d-M48 Diagnoses - main ICD10: M48 Other spondylopathies ukb-d-N13",
+            "Diagnoses - main ICD10: N13 Obstructive and reflux uropathy",
+            "Other risk factors or clinically relevant traits as exposure ukb-b-15272",
+            "Ever manic/hyper for 2 days ukb-d-30620_raw Alanine aminotransferase ukb-d-30070_irnt Red blood cell (erythrocyte) distribution width ukb-d-30220_irnt Basophill percentage ukb-d-30780_raw LDL direct ukb-d-30680_raw Calcium ukb-d-30830_raw SHBG ieu-a-793",
+            "Urate",
+            "0.0474 0.0177 0.0074 0.0806 0.0389 0.0413",
+            "-0.5036 0.2281 0.0273 -0.5837 0.4200 0.1687",
+            "-0.2718 0.1676 0.1050 -0.7577 0.2667 0.0053",
+            "0.2020 1.8845 0.9146 -10.38 4.0074 0.0105",
+            "0.0256 0.0116 0.0271 0.0263 0.0124 0.1671",
+            "-0.0124",
+            "-0.0044",
+            "0.0026",
+            "0.0195",
+            "0.0308",
+            "-0.0164",
+            "-0.0079",
+            "0.8839 ieu-a-1034",
+            "Height",
+            "0.6362 0.3202 0.0469 2.0601 7.3837 0.8064 ieu-a-299",
+            "HDL cholesterol",
+            "0.0842 0.1291 0.5145 0.5630 0.2402 0.0215 ieu-a-1089",
+            "Body mass index",
+            "Nsnps, number of SNPS. b, beta (causal estimate); se, standard error; pval, p-value. IVW, inverse-variance weighted approach.",
+            "-0.1177 -0.0258",
+            "Table 2 Further MR analysis results for type II diabetes based on 2018 Mahajan et al.",
+            "beta se",
+            "Egger Intercept pval n_pleio nsnps",
+            "Intercept pval",
+            "MR-IVW 0.1772 0.0595 2.91E-03 -",
+            "MR-Egger -0.0390 0.1264 0.7578 0.0159 0.0545",
+            "GSMR 0.1835 0.0501 2.49E-04 -",
+            "MR-RAPS 0.0571 0.0268 3.28E-02 -",
+            "The exposure GWAS dataset on type II diabetes was based on Mahajan et al (2018).Nature genetics, 50(11), 1505-1513. This study was not covered in IEU GWAS database.",
+            "Table 3 Top 10 enriched pathways for significant proteins in MR analysis",
+            "GOID",
+            "GOTerm",
+            "Ontology Source",
+            "KEGG:04060 Cytokine-cytokine receptor interaction",
+            "KEGG_27.02.2019",
+            "WP:3888",
+            "VEGFA-VEGFR2 Signaling Pathway WikiPathways_27.02.2019",
+            "WP:[254]",
+            "Apoptosis",
+            "WikiPathways_27.02.2019",
+            "Term PVal",
+            "Term Pval (Bonf Associated Genes corrected)",
+            "1.82E-06 7.29E-05 [CCL25, CTF1, CX3CL1, CXCL12, IL15RA, IL22, IL34, IL37, LTA, LTBR, OSM, TNFSF4, TNFSF8]",
+            "7.79E-06 3.11E-04 [ACACB, BCL2L1, CFL1, EEA1, F3, IGFBP7, JAG1, KDR, PIK3CA, PTPN1, TXNIP]",
+            "1.07E-04 4.29E-03 [BCL2L1, BIRC5, DIABLO, IGF1, LTA, MCL1]",
+            "WP:3614",
+            "Photodynamic therapy-induced HIF-1 WikiPathways_27.02.2019",
+            "2.99E-04 survival signaling",
+            "R-HSA:399954 Sema3A PAK dependent Axon",
+            "REACTOME_Pathways_27.02.2019 3.40E-04 repulsion",
+            "1.19E-02 [BCL2L1, BIRC5, HK1, MCL1] 1.36E-02 [CFL1, PAK3, PLXNA1]",
+            "R-HSA:2173782 Binding and Uptake of Ligands by Scavenger Receptors",
+            "KEGG:04630 JAK-STAT signaling pathway",
+            "REACTOME_Pathways_27.02.2019 4.89E-04",
+            "5.61E-04",
+            "KEGG:04672 Intestinal immune network for IgA KEGG_27.02.2019 production",
+            "WP:3657",
+            "Hematopoietic Stem Cell Gene",
+            "Regulation by GABP alpha/beta",
+            "Complex",
+            "WP:3872",
+            "Regulation of Apoptosis by",
+            "Parathyroid Hormone-related Protein",
+            "Pval, p-vlaue; Bonf, Bonferroni correction.",
+            "8.84E-04 9.00E-04 0.00090",
+            "1.96E-02 [FTH1, HP, STAB1, STAB2] 2.24E-02 [BCL2L1, CTF1, IL15RA, IL22, MCL1, OSM, PIK3CA] 3.53E-02 [CCL25, CXCL12, IL15RA, LTBR] 3.60E-02 [BCL2L1, FLT3, MCL1]",
+            "0.03602 [BCL2L1, MCL1, PIK3CG]",
+            "Table 4 Drugs with targets overlapping with significant proteins from MR analysis (only FDA-approved drugs shown)",
+            "No of",
+            "Drug proteins Targets (that overlap with proteins significant in MR analysis) targeted",
+            "Fostamatinib"
+        ],
+        "7 ZAP70 FLT3 HIPK3 KDR MST1R PAK3 PIK3CG": [],
+        "6 CFL1 S100A2 PARK7 AHSG APOD CBX5": [],
+        "4 S100A2 AHSG C8A APLP2": [],
+        "3 CA4 CA9 CA10": [],
+        "2 CA4 CA9": [],
+        "2 LAYN STAB2": [],
+        "2 BCL2L1 MCL1": [],
+        "2 KDR FLT3": [],
+        "2 FLT3 KDR": [],
+        "2 CA4 CA9 2 KDR FLT3 2 KDR FLT3": []
+    },
+    "participants": [
+        {
+            "participant": "data",
+            "number": 898130,
+            "context": "The most consistent finding was a tentative causal association between diabetes-related traits and increased ACE2 expression. <mark class=\"stats\">Based on one of the largest GWAS on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised ACE2 expression (beta=0.1835, 95% CI 0.0853-0.2817; p=2.49E-4; GSMR method)</mark>. Significant associations (at nominal level; p&lt;0.05) was also observed across multiple datasets, with different analytic methods, and for both type I and II diabetes"
+        },
+        {
+            "participant": "GWAS summary datasets",
+            "number": 31773,
+            "context": "Nevertheless, we stress that further studies are required to verify our findings due to various limitations and the exploratory nature of some analyses. <mark class=\"stats\">GWAS data    Exposure data<br/><br/>To perform the phenome-study, we made use of the latest IEU GWAS database (https://gwas.mrcieu.ac.uk/), which contains up to 111,908,636,549 genetic associations from 31,773 GWAS summary datasets (as at 26th Feb 2020)</mark>. The database was retrieved via the R package \u201cTwoSampleMR\u201d (ver 0.5.1)"
+        },
+        {
+            "participant": "GWAS summary datasets",
+            "number": 31773,
+            "context": "More specifically, we excluded GWAS data of diseases or traits related to the following: eye or hearing problems, orthopedic and trauma-related conditions (except autoimmune diseases), skin problems (except systemic or autoimmune diseases), perinatal and obstetric problems, operation history, medication history (as confounding by indication is common and may affect the validity of results22), diet/exercise habit (as accuracy of information cannot be fully guaranteed and recall bias may be present), other socioeconomic features (such as type of jobs). <mark class=\"stats\">A total of 425 UKBB traits were retained for final analysis.To perform the phenome-study, we made use of the latest IEU GWAS database (https://gwas.mrcieu.ac.uk/), which contains up to 111,908,636,549 genetic associations from 31,773 GWAS summary datasets (as at 26th Feb 2020)</mark>. The database was retrieved via the R package \u201cTwoSampleMR\u201d (ver 0.5.1)"
+        },
+        {
+            "participant": "data",
+            "number": 515,
+            "context": "While ideally one should study the protein expression in the lung, such data is scarce and corresponding genotype data (required for MR) is not available. <mark class=\"stats\">Here we focus on the gene expression of ACE2 in the lung (N = 515)</mark>. ACE2 protein levels appear to be relatively well-correlated with mRNA levels across tissues, based on the Human Proteome Atlas (https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)"
+        },
+        {
+            "participant": "data",
+            "number": 898130,
+            "context": "The most consistent finding was a tentative causal association between diabetes-related traits and increased ACE2 expression. <mark class=\"stats\">Based on one of the largest GWAS on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised ACE2 expression (beta=0.1835, 95% CI 0.0853-0.2817; p=2.49E-4; GSMR method)</mark>. Significant associations (at nominal level; p<0.05) was also observed across multiple datasets, with different analytic methods, and for both type I and II diabetes"
+        },
+        {
+            "participant": "GWAS summary datasets",
+            "number": 31773,
+            "context": "In our study, by finding plasma/serum proteins causally linked to ACE2 expression, we may find drugs that will alter ACE2 expression, which in turn may be useful for treatment. <mark class=\"stats\">To perform the phenome-study, we made use of the latest IEU GWAS database (https://gwas.mrcieu.ac.uk/), which contains up to 111,908,636,549 genetic associations from 31,773 GWAS summary datasets (as at 26th Feb 2020)</mark>. The database was retrieved via the R package \u201cTwoSampleMR\u201d (ver 0.5.1)"
+        },
+        {
+            "participant": "proteins",
+            "number": 3,
+            "context": "A few drugs target more than one protein. <mark class=\"stats\">If they are ranked by the number of proteins targeted, the top drugs are fostamatinib, copper, zinc and zonisamide, which target >=3 proteins</mark>. Discussions Diseases/traits causally linked to ACE2 expression"
+        },
+        {
+            "participant": "patients with laboratory-confirmed COVID-19 and suggested",
+            "number": 1590,
+            "context": "They found that, if affected by the virus, these diabetic mice suffered from a prolonged phase of disease and delayed recovery, which might be due to a dysregulated immune response 38. <mark class=\"stats\">With regards to comorbidity with cancers, Liang et al recently carried out a nationwide analysis of 1,590 patients with laboratory-confirmed COVID-19 and suggested that cancer patients might have a higher infection risk than those without 39</mark>. The study also reported higher risk of severe complications in such patients"
+        },
+        {
+            "participant": "data",
+            "number": 515,
+            "context": "Our main purpose is to prioritize diseases, traits or proteins with potential causal links with ACE2 expression, and hence possibly increased susceptibility to 2019-nCov infection. <mark class=\"stats\">Owing to relatively modest sample size of the outcome dataset of GTEx (N = 515), we expect the power to be modest</mark>. Also in view of the exploratory and hypothesis-generating nature of this study, we have not implemented stringent multiple testing procedures such as Bonferroni correction"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">GWAS analysis was performed using linear models with adjustment for population stratification; details of the analytic approach is given in the following links: https://github.com/Nealelab/UK_Biobank_GWAS/tree/master/imputed-v2-gwas, http://www.nealelab.is/blog/2017/9/11/details-and-considerations-of-the-uk-biobank-gwas and https://doi.org/10.5523/bris.pnoat8cxo0u52p6ynfaekeigi</mark>",
+                "tests": [
+                    {
+                        "test": "linear models"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We conducted MR primarily with the \u2018inverse-variance weighted\u2019 (MR-IVW)[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>] and Egger regression (MR-Egger)[<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>] approaches, which are among the most widely used MR methods</mark>",
+                "tests": [
+                    {
+                        "test": "Egger regression"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "Besides MR analysis on individual proteins, we also performed pathway analysis by ClueGO 29. <mark class=\"stats\">Hypergeometric tests were conducted on the top-ranked proteins (with p<0.05)</mark>. In addition, we searched for drugs with targets overlapping with the top-ranked proteins"
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "Based on one of the largest GWAS on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised ACE2 expression (beta=0.1835, 95% CI 0.0853-0.2817; p=2.49E-4; GSMR method). <mark class=\"stats\">Significant associations (at nominal level; p<0.05) was also observed across multiple datasets, with different analytic methods, and for both type I and II diabetes</mark>. Other diseases/traits having nominal significant associations with increased ACE2 included inflammatory bowel disease, (ER+) breast and lung cancers, asthma, smoking and elevated ALT, among others"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We conducted MR primarily with the \u2018inverse-variance weighted\u2019 (MR-IVW)25 and Egger regression (MR-Egger)26 approaches, which are among the most widely used MR methods</mark>",
+                "tests": [
+                    {
+                        "test": "Egger regression"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "Results MR analysis for diseases and clinically relevant traits MR results are presented in Tables 1 and 2 (full results shown in Tables S2 and S3). <mark class=\"stats\">Traits were shown if any of the three methods (MR-IVW, MR-Egger, Wald ratio) showed nominally significant (p<0.05) results</mark>. For traits that do not show evidence for directional pleiotropy (p-value of Egger Intercept>0.05), we shall primarily report the results from MR-IVW, as generally the SE of causal estimates is larger with MR-Egger 30 (hence power is weaker)"
+        }
+    ],
+    "keywords": [
+        "coronavirus infection",
+        "randomized controlled trials",
+        "ace2 expression",
+        "angiotensin-converting enzyme 2",
+        "SARS",
+        "sars coronavirus",
+        "MR primarily with the \u2018inverse-variance weighted\u2019",
+        "diabetes",
+        "novel coronavirus",
+        "rheumatoid arthritis",
+        "pneumonia",
+        "UK Biobank",
+        "pathophysiology",
+        "diabetes mellitus",
+        "baricitinib",
+        "genome-wide association studies",
+        "Immune Thrombocytopenic Purpura",
+        "blood protein",
+        "fostamatinib",
+        "randomization analysis",
+        "epidemiology",
+        "mr analysis",
+        "Crohn disease",
+        "mendelian randomization",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "angiotensin-converting enzyme 2": 0.2745098039,
+        "Mendelian randomization": 0.2418300654,
+        "diabetes": 0.0882352941,
+        "genome-wide association studies": 0.0620915033,
+        "rheumatoid arthritis": 0.0555555556,
+        "COVID-19": 0.0522875817,
+        "SARS": 0.0392156863,
+        "UK Biobank": 0.0326797386,
+        "novel coronavirus": 0.0294117647,
+        "diabetes mellitus": 0.0261437908,
+        "MR primarily with the \u2018inverse-variance weighted\u2019": 0.022875817,
+        "randomized controlled trials": 0.0130718954,
+        "epidemiology": 0.0130718954,
+        "coronavirus infection": 0.0098039216,
+        "pathophysiology": 0.0098039216,
+        "blood protein": 0.0098039216,
+        "Immune Thrombocytopenic Purpura": 0.0065359477,
+        "fostamatinib": 0.0065359477,
+        "pneumonia": 0.0032679739,
+        "randomization analysis": 0.0032679739,
+        "ace2 expression": 0.0,
+        "sars coronavirus": 0.0,
+        "baricitinib": 0.0,
+        "mr analysis": 0.0,
+        "Crohn disease": 0.0,
+        "mendelian randomization": 0.0
+    },
+    "species": [],
+    "summary": [
+        "A novel coronavirus named 2019-nCoV was detected from patients in Wuhan city, China 1,2 at the end of<br/><br/>2019.",
+        "The most consistent finding was a tentative causal association between diabetes-related traits and increased ACE2 expression.",
+        "The current MR analysis reveals diseases/traits and blood proteins that may causally affect ACE2 expression, which in turn may influence susceptibility to the infection.",
+        "While further studies are required, revealing diseases/traits that are causally associated with altered ACE2 expression may shed light on why certain subjects are more susceptible to the infection and the underlying mechanisms.",
+        "The authors conducted a phenome-wide Mendelian randomization (MR) study to explore diseases or traits that may be causally linked to increased ACE2 expression in the lung.",
+        "The authors wish to answer the following question: What conditions or traits may lead to increased ACE2 expression, which may in turn result in greater susceptibility to 2019-nCov infection?",
+        "Since COVID-19 is a new disease and prior knowledge is lacking, the authors employed a phenome-wide approach in which a large variety of traits are studied for causal associations with ACE2 expression.",
+        "The authors observed totally five diabetes-related traits that showed nominally significant MR results, and they were all positively associated with ACE2 expression.",
+        "While this study 33 has partial overlap with the trans-ethnic analysis in 2014 31, the consistent associations provide further support to a causal link between diabetes and expression of ACE2.",
+        "In this study the authors have employed Mendelian Randomization (MR) to uncover diseases/traits that may be causally linked to ACE2 expression levels in the lung, which in turn may influence susceptibility to the infection.",
+        "The most consistent finding was the casual link between diabetes with ACE2 expression, which was supported by multiple datasets and different analytic approaches.",
+        "The authors' main purpose is to prioritize diseases, traits or proteins with potential causal links with ACE2 expression, and possibly increased susceptibility to 2019-nCov infection.",
+        "In the analysis, the authors do not find evidence of hypertension or blood pressure, history of coronary heart disease and stroke to be casually linked to ACE2 expression, patients with severe infections have been reported to be enriched for these comorbidities.",
+        "The authors' findings from MR mainly reflect diseases/traits/proteins causally linked to ACE2 expression in uninfected subjects, as the outcome dataset (GTEx) is composed of such subjects.",
+        "Notwithstanding the limitations, the authors have identified several diseases and traits which may be causally related to ACE2 expression the lung, which in turn may mediate susceptibility to 2019-nCoV infection."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "A novel coronavirus named 2019-nCoV was detected from patients in Wuhan city, China 1,2 at the end of<br/><br/>2019.",
+            "The most consistent finding was a tentative causal association between diabetes-related traits and increased ACE2 expression.",
+            "The current MR analysis reveals diseases/traits and blood proteins that may causally affect ACE2 expression, which in turn may influence susceptibility to the infection."
+        ],
+        "Results": [
+            "While further studies are required, revealing diseases/traits that are causally associated with altered ACE2 expression may shed light on why certain subjects are more susceptible to the infection and the underlying mechanisms.",
+            "The authors conducted a phenome-wide Mendelian randomization (MR) study to explore diseases or traits that may be causally linked to increased ACE2 expression in the lung.",
+            "The authors wish to answer the following question: What conditions or traits may lead to increased ACE2 expression, which may in turn result in greater susceptibility to 2019-nCov infection?",
+            "Since COVID-19 is a new disease and prior knowledge is lacking, the authors employed a phenome-wide approach in which a large variety of traits are studied for causal associations with ACE2 expression.",
+            "The authors observed totally five diabetes-related traits that showed nominally significant MR results, and they were all positively associated with ACE2 expression.",
+            "While this study 33 has partial overlap with the trans-ethnic analysis in 2014 31, the consistent associations provide further support to a causal link between diabetes and expression of ACE2.",
+            "In this study the authors have employed Mendelian Randomization (MR) to uncover diseases/traits that may be causally linked to ACE2 expression levels in the lung, which in turn may influence susceptibility to the infection.",
+            "The most consistent finding was the casual link between diabetes with ACE2 expression, which was supported by multiple datasets and different analytic approaches.",
+            "The authors' main purpose is to prioritize diseases, traits or proteins with potential causal links with ACE2 expression, and possibly increased susceptibility to 2019-nCov infection."
+        ],
+        "Conclusion": [
+            "In the analysis, the authors do not find evidence of hypertension or blood pressure, history of coronary heart disease and stroke to be casually linked to ACE2 expression, patients with severe infections have been reported to be enriched for these comorbidities.",
+            "The authors' findings from MR mainly reflect diseases/traits/proteins causally linked to ACE2 expression in uninfected subjects, as the outcome dataset (GTEx) is composed of such subjects.",
+            "Notwithstanding the limitations, the authors have identified several diseases and traits which may be causally related to ACE2 expression the lung, which in turn may mediate susceptibility to 2019-nCoV infection."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Lu_2020_a",
+            "entry": "1. Lu, R. et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet 395, 565-574 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lu%20R%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20The%20Lancet%20395%20565574%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lu%20R%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20The%20Lancet%20395%20565574%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lu%20R%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20The%20Lancet%20395%20565574%202020"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhu_2020_a",
+            "entry": "2. Zhu, N. et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine 382, 727-733 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20New%20England%20Journal%20of%20Medicine%20382%20727733%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20New%20England%20Journal%20of%20Medicine%20382%20727733%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20New%20England%20Journal%20of%20Medicine%20382%20727733%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Li_2020_a",
+            "entry": "3. Li, Q. et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Guan_2020_a",
+            "entry": "4. Guan, W.-j. et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv, 2020.02.06.20020974 (2020). [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19)",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guan%20Wj%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020020620020974%202020%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guan%20Wj%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020020620020974%202020%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guan%20Wj%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020020620020974%202020%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19"
+        },
+        {
+            "id": "in_2020_a",
+            "alt_id": "5",
+            "entry": "in China]. Zhonghua Liu Xing Bing Xue Za Zhi 41, 145-151 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=in%20China%20Zhonghua%20Liu%20Xing%20Bing%20Xue%20Za%20Zhi%2041%20145151%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=in%20China%20Zhonghua%20Liu%20Xing%20Bing%20Xue%20Za%20Zhi%2041%20145151%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=in%20China%20Zhonghua%20Liu%20Xing%20Bing%20Xue%20Za%20Zhi%2041%20145151%202020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Huang_2020_a",
+            "entry": "6. Huang, C. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 395, 497-506 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%20395%20497506%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%20395%20497506%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%20395%20497506%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Zou_2020_a",
+            "entry": "7. Zou, X. et al. The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection. Front. Med., [Epub ahead of print] (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zou%20X%20et%20al%20The%20singlecell%20RNAseq%20data%20analysis%20on%20the%20receptor%20ACE2%20expression%20reveals%20the%20potential%20risk%20of%20different%20human%20organs%20vulnerable%20to%20Wuhan%202019nCoV%20infection%20Front%20Med%20Epub%20ahead%20of%20print%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zou%20X%20et%20al%20The%20singlecell%20RNAseq%20data%20analysis%20on%20the%20receptor%20ACE2%20expression%20reveals%20the%20potential%20risk%20of%20different%20human%20organs%20vulnerable%20to%20Wuhan%202019nCoV%20infection%20Front%20Med%20Epub%20ahead%20of%20print%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zou%20X%20et%20al%20The%20singlecell%20RNAseq%20data%20analysis%20on%20the%20receptor%20ACE2%20expression%20reveals%20the%20potential%20risk%20of%20different%20human%20organs%20vulnerable%20to%20Wuhan%202019nCoV%20infection%20Front%20Med%20Epub%20ahead%20of%20print%202020"
+        },
+        {
+            "id": "8",
+            "alt_id": "Wan_et+al_0000_a",
+            "entry": "8. Wan, Y., Shang, J., Graham, R., Baric, R.S. & Li, F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Baric%2C%20R.S.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Baric%2C%20R.S.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Baric%2C%20R.S.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS"
+        },
+        {
+            "id": "9",
+            "alt_id": "Li_2003_a",
+            "entry": "9. Li, W. et al. Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature 426, 450-4 (2003).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20W.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20coronavirus%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20W.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20coronavirus%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20W.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20coronavirus%202003"
+        },
+        {
+            "id": "10",
+            "alt_id": "Kuba_2005_a",
+            "entry": "10. Kuba, K. et al. A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury. Nat Med 11, 875-9 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kuba%2C%20K.%20A%20crucial%20role%20of%20angiotensin%20converting%20enzyme%202%20%28ACE2%29%20in%20SARS%20coronavirus-induced%20lung%20injury%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kuba%2C%20K.%20A%20crucial%20role%20of%20angiotensin%20converting%20enzyme%202%20%28ACE2%29%20in%20SARS%20coronavirus-induced%20lung%20injury%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kuba%2C%20K.%20A%20crucial%20role%20of%20angiotensin%20converting%20enzyme%202%20%28ACE2%29%20in%20SARS%20coronavirus-induced%20lung%20injury%202005"
+        },
+        {
+            "id": "11",
+            "alt_id": "Zhou_2020_a",
+            "entry": "11. Zhou, P. et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv, 2020.01.22.914952 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Wrapp_2020_a",
+            "entry": "12. Wrapp, D. et al. Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation. bioRxiv, 2020.02.11.944462 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wrapp%20D%20et%20al%20CryoEM%20Structure%20of%20the%202019nCoV%20Spike%20in%20the%20Prefusion%20Conformation%20bioRxiv%2020200211944462%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wrapp%20D%20et%20al%20CryoEM%20Structure%20of%20the%202019nCoV%20Spike%20in%20the%20Prefusion%20Conformation%20bioRxiv%2020200211944462%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wrapp%20D%20et%20al%20CryoEM%20Structure%20of%20the%202019nCoV%20Spike%20in%20the%20Prefusion%20Conformation%20bioRxiv%2020200211944462%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Hofmann_2004_a",
+            "entry": "13. Hofmann, H. et al. Susceptibility to SARS coronavirus S protein-driven infection correlates with expression of angiotensin converting enzyme 2 and infection can be blocked by soluble receptor. Biochemical and Biophysical Research Communications 319, 1216-1221 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hofmann%2C%20H.%20Susceptibility%20to%20SARS%20coronavirus%20S%20protein-driven%20infection%20correlates%20with%20expression%20of%20angiotensin%20converting%20enzyme%202%20and%20infection%20can%20be%20blocked%20by%20soluble%20receptor%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hofmann%2C%20H.%20Susceptibility%20to%20SARS%20coronavirus%20S%20protein-driven%20infection%20correlates%20with%20expression%20of%20angiotensin%20converting%20enzyme%202%20and%20infection%20can%20be%20blocked%20by%20soluble%20receptor%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hofmann%2C%20H.%20Susceptibility%20to%20SARS%20coronavirus%20S%20protein-driven%20infection%20correlates%20with%20expression%20of%20angiotensin%20converting%20enzyme%202%20and%20infection%20can%20be%20blocked%20by%20soluble%20receptor%202004"
+        },
+        {
+            "id": "14",
+            "alt_id": "Jia_2005_a",
+            "entry": "14. Jia, H.P. et al. ACE2 receptor expression and severe acute respiratory syndrome coronavirus infection depend on differentiation of human airway epithelia. J Virol 79, 14614-21 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Jia%2C%20H.P.%20ACE2%20receptor%20expression%20and%20severe%20acute%20respiratory%20syndrome%20coronavirus%20infection%20depend%20on%20differentiation%20of%20human%20airway%20epithelia%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Jia%2C%20H.P.%20ACE2%20receptor%20expression%20and%20severe%20acute%20respiratory%20syndrome%20coronavirus%20infection%20depend%20on%20differentiation%20of%20human%20airway%20epithelia%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Jia%2C%20H.P.%20ACE2%20receptor%20expression%20and%20severe%20acute%20respiratory%20syndrome%20coronavirus%20infection%20depend%20on%20differentiation%20of%20human%20airway%20epithelia%202005"
+        },
+        {
+            "id": "15",
+            "alt_id": "Cai_2019_a",
+            "entry": "15. Cai, G. Bulk and Single-Cell Transcriptomics Identify Tobacco-Use Disparity in Lung Gene Expression of ACE2, the Receptor of 2019-nCov. Preprints 2020020051(2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cai%20G%20Bulk%20and%20SingleCell%20Transcriptomics%20Identify%20TobaccoUse%20Disparity%20in%20Lung%20Gene%20Expression%20of%20ACE2%20the%20Receptor%20of%202019nCov%20Preprints%2020200200512020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cai%20G%20Bulk%20and%20SingleCell%20Transcriptomics%20Identify%20TobaccoUse%20Disparity%20in%20Lung%20Gene%20Expression%20of%20ACE2%20the%20Receptor%20of%202019nCov%20Preprints%2020200200512020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cai%20G%20Bulk%20and%20SingleCell%20Transcriptomics%20Identify%20TobaccoUse%20Disparity%20in%20Lung%20Gene%20Expression%20of%20ACE2%20the%20Receptor%20of%202019nCov%20Preprints%2020200200512020"
+        },
+        {
+            "id": "16",
+            "alt_id": "Ng_et+al_2019_a",
+            "entry": "16. Ng, R., Sutradhar, R., Yao, Z., Wodchis, W.P. & Rosella, L.C. Smoking, drinking, diet and physical activity\u2014modifiable lifestyle risk factors and their associations with age to first chronic disease. International journal of epidemiology (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ng%2C%20R.%20Sutradhar%2C%20R.%20Yao%2C%20Z.%20Wodchis%2C%20W.P.%20Smoking%2C%20drinking%2C%20diet%20and%20physical%20activity%E2%80%94modifiable%20lifestyle%20risk%20factors%20and%20their%20associations%20with%20age%20to%20first%20chronic%20disease%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ng%2C%20R.%20Sutradhar%2C%20R.%20Yao%2C%20Z.%20Wodchis%2C%20W.P.%20Smoking%2C%20drinking%2C%20diet%20and%20physical%20activity%E2%80%94modifiable%20lifestyle%20risk%20factors%20and%20their%20associations%20with%20age%20to%20first%20chronic%20disease%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ng%2C%20R.%20Sutradhar%2C%20R.%20Yao%2C%20Z.%20Wodchis%2C%20W.P.%20Smoking%2C%20drinking%2C%20diet%20and%20physical%20activity%E2%80%94modifiable%20lifestyle%20risk%20factors%20and%20their%20associations%20with%20age%20to%20first%20chronic%20disease%202019"
+        },
+        {
+            "id": "17",
+            "alt_id": "Bielicki_et+al_2019_a",
+            "entry": "17. Bielicki, P., Trojnar, A., Sobieraj, P. & W\u0105sik, M. Smoking status in relation to obstructive sleep apnea severity (OSA) and cardiovascular comorbidity in patients with newly diagnosed OSA. Advances in respiratory medicine 87, 103-109 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bielicki%2C%20P.%20Trojnar%2C%20A.%20Sobieraj%2C%20P.%20W%C4%85sik%2C%20M.%20Smoking%20status%20in%20relation%20to%20obstructive%20sleep%20apnea%20severity%20%28OSA%29%20and%20cardiovascular%20comorbidity%20in%20patients%20with%20newly%20diagnosed%20OSA%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bielicki%2C%20P.%20Trojnar%2C%20A.%20Sobieraj%2C%20P.%20W%C4%85sik%2C%20M.%20Smoking%20status%20in%20relation%20to%20obstructive%20sleep%20apnea%20severity%20%28OSA%29%20and%20cardiovascular%20comorbidity%20in%20patients%20with%20newly%20diagnosed%20OSA%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bielicki%2C%20P.%20Trojnar%2C%20A.%20Sobieraj%2C%20P.%20W%C4%85sik%2C%20M.%20Smoking%20status%20in%20relation%20to%20obstructive%20sleep%20apnea%20severity%20%28OSA%29%20and%20cardiovascular%20comorbidity%20in%20patients%20with%20newly%20diagnosed%20OSA%202019"
+        },
+        {
+            "id": "18",
+            "alt_id": "Azibou_2019_a",
+            "entry": "18. Azibou, A. et al. Smoking, comorbidity, anxiety and depression in patients with MS and their relation with motor and/or cognitive fatigue. MULTIPLE SCLEROSIS JOURNAL 25, 428-429 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Azibou%2C%20A.%20Smoking%2C%20comorbidity%2C%20anxiety%20and%20depression%20in%20patients%20with%20MS%20and%20their%20relation%20with%20motor%20and/or%20cognitive%20fatigue%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Azibou%2C%20A.%20Smoking%2C%20comorbidity%2C%20anxiety%20and%20depression%20in%20patients%20with%20MS%20and%20their%20relation%20with%20motor%20and/or%20cognitive%20fatigue%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Azibou%2C%20A.%20Smoking%2C%20comorbidity%2C%20anxiety%20and%20depression%20in%20patients%20with%20MS%20and%20their%20relation%20with%20motor%20and/or%20cognitive%20fatigue%202019"
+        },
+        {
+            "id": "19",
+            "alt_id": "Smith_2003_a",
+            "entry": "19. Smith, G.D. & Ebrahim, S. 'Mendelian randomization': can genetic epidemiology contribute to understanding environmental determinants of disease? Int J Epidemiol 32, 1-22 (2003).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Smith%2C%20G.D.%20Ebrahim%2C%20S.%20%27Mendelian%20randomization%27%3A%20can%20genetic%20epidemiology%20contribute%20to%20understanding%20environmental%20determinants%20of%20disease%3F%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Smith%2C%20G.D.%20Ebrahim%2C%20S.%20%27Mendelian%20randomization%27%3A%20can%20genetic%20epidemiology%20contribute%20to%20understanding%20environmental%20determinants%20of%20disease%3F%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Smith%2C%20G.D.%20Ebrahim%2C%20S.%20%27Mendelian%20randomization%27%3A%20can%20genetic%20epidemiology%20contribute%20to%20understanding%20environmental%20determinants%20of%20disease%3F%202003"
+        },
+        {
+            "id": "20",
+            "alt_id": "Bennett_2017_a",
+            "entry": "20. Bennett, D.A. & Holmes, M.V. Mendelian randomisation in cardiovascular research: an introduction for clinicians. Heart 103, 1400-1407 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bennett%2C%20D.A.%20Holmes%2C%20M.V.%20Mendelian%20randomisation%20in%20cardiovascular%20research%3A%20an%20introduction%20for%20clinicians%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bennett%2C%20D.A.%20Holmes%2C%20M.V.%20Mendelian%20randomisation%20in%20cardiovascular%20research%3A%20an%20introduction%20for%20clinicians%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bennett%2C%20D.A.%20Holmes%2C%20M.V.%20Mendelian%20randomisation%20in%20cardiovascular%20research%3A%20an%20introduction%20for%20clinicians%202017"
+        },
+        {
+            "id": "21",
+            "alt_id": "Schmidt_2019_a",
+            "entry": "21. Schmidt, A.F. et al. Genetic drug target validation using Mendelian randomization. bioRxiv, 781039 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Schmidt%2C%20A.F.%20Genetic%20drug%20target%20validation%20using%20Mendelian%20randomization%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Schmidt%2C%20A.F.%20Genetic%20drug%20target%20validation%20using%20Mendelian%20randomization%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Schmidt%2C%20A.F.%20Genetic%20drug%20target%20validation%20using%20Mendelian%20randomization%202019"
+        },
+        {
+            "id": "22",
+            "alt_id": "Bellera_2018_a",
+            "entry": "22. Bellera, C. et al. A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication. Stat Methods Med Res 27, 1271-1281 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bellera%2C%20C.%20A%20two-stage%20model%20in%20a%20Bayesian%20framework%20to%20estimate%20a%20survival%20endpoint%20in%20the%20presence%20of%20confounding%20by%20indication%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bellera%2C%20C.%20A%20two-stage%20model%20in%20a%20Bayesian%20framework%20to%20estimate%20a%20survival%20endpoint%20in%20the%20presence%20of%20confounding%20by%20indication%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bellera%2C%20C.%20A%20two-stage%20model%20in%20a%20Bayesian%20framework%20to%20estimate%20a%20survival%20endpoint%20in%20the%20presence%20of%20confounding%20by%20indication%202018"
+        },
+        {
+            "id": "23",
+            "alt_id": "Lloyd-Jones_et+al_2018_a",
+            "entry": "23. Lloyd-Jones, L.R., Robinson, M.R., Yang, J. & Visscher, P.M. Transformation of Summary Statistics from Linear Mixed Model Association on All-or-None Traits to Odds Ratio. Genetics 208, 1397-1408 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lloyd-Jones%2C%20L.R.%20Robinson%2C%20M.R.%20Yang%2C%20J.%20Visscher%2C%20P.M.%20Transformation%20of%20Summary%20Statistics%20from%20Linear%20Mixed%20Model%20Association%20on%20All-or-None%20Traits%20to%20Odds%20Ratio%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lloyd-Jones%2C%20L.R.%20Robinson%2C%20M.R.%20Yang%2C%20J.%20Visscher%2C%20P.M.%20Transformation%20of%20Summary%20Statistics%20from%20Linear%20Mixed%20Model%20Association%20on%20All-or-None%20Traits%20to%20Odds%20Ratio%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lloyd-Jones%2C%20L.R.%20Robinson%2C%20M.R.%20Yang%2C%20J.%20Visscher%2C%20P.M.%20Transformation%20of%20Summary%20Statistics%20from%20Linear%20Mixed%20Model%20Association%20on%20All-or-None%20Traits%20to%20Odds%20Ratio%202018"
+        },
+        {
+            "id": "24",
+            "alt_id": "Gamazon_2018_a",
+            "entry": "24. Gamazon, E.R. et al. Using an atlas of gene regulation across 44 human tissues to inform complex disease- and trait-associated variation. Nature Genetics 50, 956-967 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gamazon%2C%20E.R.%20Using%20an%20atlas%20of%20gene%20regulation%20across%2044%20human%20tissues%20to%20inform%20complex%20disease-%20and%20trait-associated%20variation%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gamazon%2C%20E.R.%20Using%20an%20atlas%20of%20gene%20regulation%20across%2044%20human%20tissues%20to%20inform%20complex%20disease-%20and%20trait-associated%20variation%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gamazon%2C%20E.R.%20Using%20an%20atlas%20of%20gene%20regulation%20across%2044%20human%20tissues%20to%20inform%20complex%20disease-%20and%20trait-associated%20variation%202018"
+        },
+        {
+            "id": "25",
+            "alt_id": "Burgess_et+al_2013_a",
+            "entry": "25. Burgess, S., Butterworth, A. & Thompson, S.G. Mendelian randomization analysis with multiple genetic variants using summarized data. Genet Epidemiol 37, 658-65 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Burgess%2C%20S.%20Butterworth%2C%20A.%20Thompson%2C%20S.G.%20Mendelian%20randomization%20analysis%20with%20multiple%20genetic%20variants%20using%20summarized%20data%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Burgess%2C%20S.%20Butterworth%2C%20A.%20Thompson%2C%20S.G.%20Mendelian%20randomization%20analysis%20with%20multiple%20genetic%20variants%20using%20summarized%20data%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Burgess%2C%20S.%20Butterworth%2C%20A.%20Thompson%2C%20S.G.%20Mendelian%20randomization%20analysis%20with%20multiple%20genetic%20variants%20using%20summarized%20data%202013"
+        },
+        {
+            "id": "26",
+            "alt_id": "Bowden_et+al_2015_a",
+            "entry": "26. Bowden, J., Davey Smith, G. & Burgess, S. Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression. Int J Epidemiol 44, 512-25 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bowden%2C%20J.%20Davey%20Smith%2C%20G.%20Burgess%2C%20S.%20Mendelian%20randomization%20with%20invalid%20instruments%3A%20effect%20estimation%20and%20bias%20detection%20through%20Egger%20regression%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bowden%2C%20J.%20Davey%20Smith%2C%20G.%20Burgess%2C%20S.%20Mendelian%20randomization%20with%20invalid%20instruments%3A%20effect%20estimation%20and%20bias%20detection%20through%20Egger%20regression%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bowden%2C%20J.%20Davey%20Smith%2C%20G.%20Burgess%2C%20S.%20Mendelian%20randomization%20with%20invalid%20instruments%3A%20effect%20estimation%20and%20bias%20detection%20through%20Egger%20regression%202015"
+        },
+        {
+            "id": "27",
+            "alt_id": "Zhu_2018_a",
+            "entry": "27. Zhu, Z. et al. Causal associations between risk factors and common diseases inferred from GWAS summary data. Nat Commun 9, 224 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%2C%20Z.%20Causal%20associations%20between%20risk%20factors%20and%20common%20diseases%20inferred%20from%20GWAS%20summary%20data%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%2C%20Z.%20Causal%20associations%20between%20risk%20factors%20and%20common%20diseases%20inferred%20from%20GWAS%20summary%20data%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%2C%20Z.%20Causal%20associations%20between%20risk%20factors%20and%20common%20diseases%20inferred%20from%20GWAS%20summary%20data%202018"
+        },
+        {
+            "id": "28",
+            "alt_id": "Zhao_et+al_2018_a",
+            "entry": "28. Zhao, Q., Wang, J., Hemani, G., Bowden, J. & Small, D.S. Statistical inference in two-sample summary-data Mendelian randomization using robust adjusted profile score. arXiv preprint arXiv:1801.09652 (2018).",
+            "arxiv_url": "https://arxiv.org/pdf/1801.09652"
+        },
+        {
+            "id": "29",
+            "alt_id": "Bindea_2009_a",
+            "entry": "29. Bindea, G. et al. ClueGO: a Cytoscape plug-in to decipher functionally grouped gene ontology and pathway annotation networks. Bioinformatics (Oxford, England) 25, 1091-1093 (2009).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bindea%2C%20G.%20ClueGO%3A%20a%20Cytoscape%20plug-in%20to%20decipher%20functionally%20grouped%20gene%20ontology%20and%20pathway%20annotation%20networks%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bindea%2C%20G.%20ClueGO%3A%20a%20Cytoscape%20plug-in%20to%20decipher%20functionally%20grouped%20gene%20ontology%20and%20pathway%20annotation%20networks%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bindea%2C%20G.%20ClueGO%3A%20a%20Cytoscape%20plug-in%20to%20decipher%20functionally%20grouped%20gene%20ontology%20and%20pathway%20annotation%20networks%202009"
+        },
+        {
+            "id": "30",
+            "alt_id": "Burgess_2017_a",
+            "entry": "30. Burgess, S. & Thompson, S.G. Interpreting findings from Mendelian randomization using the MR-Egger method. Eur J Epidemiol 32, 377-389 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Burgess%2C%20S.%20Thompson%2C%20S.G.%20Interpreting%20findings%20from%20Mendelian%20randomization%20using%20the%20MR-Egger%20method%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Burgess%2C%20S.%20Thompson%2C%20S.G.%20Interpreting%20findings%20from%20Mendelian%20randomization%20using%20the%20MR-Egger%20method%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Burgess%2C%20S.%20Thompson%2C%20S.G.%20Interpreting%20findings%20from%20Mendelian%20randomization%20using%20the%20MR-Egger%20method%202017"
+        },
+        {
+            "id": "31",
+            "alt_id": "Mahajan_2014_a",
+            "entry": "31. Mahajan, A. et al. Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture of type 2 diabetes susceptibility. Nat Genet 46, 234-44 (2014).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mahajan%2C%20A.%20Genome-wide%20trans-ancestry%20meta-analysis%20provides%20insight%20into%20the%20genetic%20architecture%20of%20type%202%20diabetes%20susceptibility%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Mahajan%2C%20A.%20Genome-wide%20trans-ancestry%20meta-analysis%20provides%20insight%20into%20the%20genetic%20architecture%20of%20type%202%20diabetes%20susceptibility%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Mahajan%2C%20A.%20Genome-wide%20trans-ancestry%20meta-analysis%20provides%20insight%20into%20the%20genetic%20architecture%20of%20type%202%20diabetes%20susceptibility%202014"
+        },
+        {
+            "id": "32",
+            "alt_id": "Thomas_2018_a",
+            "entry": "32. Thomas, N.J. et al. Frequency and phenotype of type 1 diabetes in the first six decades of life: a cross-sectional, genetically stratified survival analysis from UK Biobank. The lancet. Diabetes & endocrinology 6, 122-129 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Thomas%2C%20N.J.%20Frequency%20and%20phenotype%20of%20type%201%20diabetes%20in%20the%20first%20six%20decades%20of%20life%3A%20a%20cross-sectional%2C%20genetically%20stratified%20survival%20analysis%20from%20UK%20Biobank%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Thomas%2C%20N.J.%20Frequency%20and%20phenotype%20of%20type%201%20diabetes%20in%20the%20first%20six%20decades%20of%20life%3A%20a%20cross-sectional%2C%20genetically%20stratified%20survival%20analysis%20from%20UK%20Biobank%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Thomas%2C%20N.J.%20Frequency%20and%20phenotype%20of%20type%201%20diabetes%20in%20the%20first%20six%20decades%20of%20life%3A%20a%20cross-sectional%2C%20genetically%20stratified%20survival%20analysis%20from%20UK%20Biobank%202018"
+        },
+        {
+            "id": "33",
+            "alt_id": "Mahajan_2018_a",
+            "entry": "33. Mahajan, A. et al. Refining the accuracy of validated target identification through coding variant fine-mapping in type 2 diabetes. Nature Genetics 50, 559-571 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mahajan%2C%20A.%20Refining%20the%20accuracy%20of%20validated%20target%20identification%20through%20coding%20variant%20fine-mapping%20in%20type%202%20diabetes%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Mahajan%2C%20A.%20Refining%20the%20accuracy%20of%20validated%20target%20identification%20through%20coding%20variant%20fine-mapping%20in%20type%202%20diabetes%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Mahajan%2C%20A.%20Refining%20the%20accuracy%20of%20validated%20target%20identification%20through%20coding%20variant%20fine-mapping%20in%20type%202%20diabetes%202018"
+        },
+        {
+            "id": "34",
+            "alt_id": "Burgess_2018_a",
+            "entry": "34. Burgess, S. & Labrecque, J.A. Mendelian randomization with a binary exposure variable: interpretation and presentation of causal estimates. European Journal of Epidemiology 33, 947-952 (2018). Available at https://pipelinereview.com/index.php/2020022673884/Proteins-and-Peptides/APEIRONs-res piratory-drug-product-to-start-pilot-clinical-trial-to-treat-coronavirus-disease-COVID-19-in-",
+            "url": "https://pipelinereview.com/index.php/2020022673884/Proteins-and-Peptides/APEIRONs-res",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Burgess%2C%20S.%20Labrecque%2C%20J.A.%20Mendelian%20randomization%20with%20a%20binary%20exposure%20variable%3A%20interpretation%20and%20presentation%20of%20causal%20estimates%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Burgess%2C%20S.%20Labrecque%2C%20J.A.%20Mendelian%20randomization%20with%20a%20binary%20exposure%20variable%3A%20interpretation%20and%20presentation%20of%20causal%20estimates%202018"
+        },
+        {
+            "id": "36",
+            "alt_id": "Banik_et+al_2016_a",
+            "entry": "36. Banik, G.R., Alqahtani, A.S., Booy, R. & Rashid, H. Risk factors for severity and mortality in patients with MERS-CoV: Analysis of publicly available data from Saudi Arabia. Virol Sin 31, 81-4 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Banik%2C%20G.R.%20Alqahtani%2C%20A.S.%20Booy%2C%20R.%20Rashid%2C%20H.%20Risk%20factors%20for%20severity%20and%20mortality%20in%20patients%20with%20MERS-CoV%3A%20Analysis%20of%20publicly%20available%20data%20from%20Saudi%20Arabia%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Banik%2C%20G.R.%20Alqahtani%2C%20A.S.%20Booy%2C%20R.%20Rashid%2C%20H.%20Risk%20factors%20for%20severity%20and%20mortality%20in%20patients%20with%20MERS-CoV%3A%20Analysis%20of%20publicly%20available%20data%20from%20Saudi%20Arabia%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Banik%2C%20G.R.%20Alqahtani%2C%20A.S.%20Booy%2C%20R.%20Rashid%2C%20H.%20Risk%20factors%20for%20severity%20and%20mortality%20in%20patients%20with%20MERS-CoV%3A%20Analysis%20of%20publicly%20available%20data%20from%20Saudi%20Arabia%202016"
+        },
+        {
+            "id": "37",
+            "alt_id": "Alqahtani_2018_a",
+            "entry": "37. Alqahtani, F.Y. et al. Prevalence of comorbidities in cases of Middle East respiratory syndrome coronavirus: a retrospective study. Epidemiol Infect, 1-5 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Alqahtani%2C%20F.Y.%20Prevalence%20of%20comorbidities%20in%20cases%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%3A%20a%20retrospective%20study%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Alqahtani%2C%20F.Y.%20Prevalence%20of%20comorbidities%20in%20cases%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%3A%20a%20retrospective%20study%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Alqahtani%2C%20F.Y.%20Prevalence%20of%20comorbidities%20in%20cases%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%3A%20a%20retrospective%20study%202018"
+        },
+        {
+            "id": "38",
+            "alt_id": "Kulcsar_et+al_2019_a",
+            "entry": "38. Kulcsar, K.A., Coleman, C.M., Beck, S.E. & Frieman, M.B. Comorbid diabetes results in immune dysregulation and enhanced disease severity following MERS-CoV infection. JCI insight 4, e131774 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kulcsar%2C%20K.A.%20Coleman%2C%20C.M.%20Beck%2C%20S.E.%20Frieman%2C%20M.B.%20Comorbid%20diabetes%20results%20in%20immune%20dysregulation%20and%20enhanced%20disease%20severity%20following%20MERS-CoV%20infection%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kulcsar%2C%20K.A.%20Coleman%2C%20C.M.%20Beck%2C%20S.E.%20Frieman%2C%20M.B.%20Comorbid%20diabetes%20results%20in%20immune%20dysregulation%20and%20enhanced%20disease%20severity%20following%20MERS-CoV%20infection%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kulcsar%2C%20K.A.%20Coleman%2C%20C.M.%20Beck%2C%20S.E.%20Frieman%2C%20M.B.%20Comorbid%20diabetes%20results%20in%20immune%20dysregulation%20and%20enhanced%20disease%20severity%20following%20MERS-CoV%20infection%202019"
+        },
+        {
+            "id": "39",
+            "alt_id": "Liang_2020_a",
+            "entry": "39. Liang, W. et al. Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. The Lancet Oncology (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Liang%2C%20W.%20Cancer%20patients%20in%20SARS-CoV-2%20infection%3A%20a%20nationwide%20analysis%20in%20China%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Liang%2C%20W.%20Cancer%20patients%20in%20SARS-CoV-2%20infection%3A%20a%20nationwide%20analysis%20in%20China%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Liang%2C%20W.%20Cancer%20patients%20in%20SARS-CoV-2%20infection%3A%20a%20nationwide%20analysis%20in%20China%202020"
+        },
+        {
+            "id": "40",
+            "alt_id": "Pendergrass_2011_a",
+            "entry": "40. Pendergrass, S.A. et al. The use of phenome-wide association studies (PheWAS) for exploration of novel genotype-phenotype relationships and pleiotropy discovery. Genetic epidemiology 35, 410-422 (2011).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Pendergrass%2C%20S.A.%20The%20use%20of%20phenome-wide%20association%20studies%20%28PheWAS%29%20for%20exploration%20of%20novel%20genotype-phenotype%20relationships%20and%20pleiotropy%20discovery%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Pendergrass%2C%20S.A.%20The%20use%20of%20phenome-wide%20association%20studies%20%28PheWAS%29%20for%20exploration%20of%20novel%20genotype-phenotype%20relationships%20and%20pleiotropy%20discovery%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Pendergrass%2C%20S.A.%20The%20use%20of%20phenome-wide%20association%20studies%20%28PheWAS%29%20for%20exploration%20of%20novel%20genotype-phenotype%20relationships%20and%20pleiotropy%20discovery%202011"
+        },
+        {
+            "id": "41",
+            "alt_id": "Imai_2005_a",
+            "entry": "41. Imai, Y. et al. Angiotensin-converting enzyme 2 protects from severe acute lung failure. Nature 436, 112-6 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Imai%2C%20Y.%20Angiotensin-converting%20enzyme%202%20protects%20from%20severe%20acute%20lung%20failure%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Imai%2C%20Y.%20Angiotensin-converting%20enzyme%202%20protects%20from%20severe%20acute%20lung%20failure%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Imai%2C%20Y.%20Angiotensin-converting%20enzyme%202%20protects%20from%20severe%20acute%20lung%20failure%202005"
+        },
+        {
+            "id": "42",
+            "alt_id": "Markham_2018_a",
+            "entry": "42. Markham, A. Fostamatinib: First Global Approval. Drugs 78, 959-963 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Markham%2C%20A.%20Fostamatinib%3A%20First%20Global%20Approval%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Markham%2C%20A.%20Fostamatinib%3A%20First%20Global%20Approval%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Markham%2C%20A.%20Fostamatinib%3A%20First%20Global%20Approval%202018"
+        },
+        {
+            "id": "43",
+            "alt_id": "Kang_2019_a",
+            "entry": "43. Kang, Y. et al. Efficacy and Safety of Multiple Dosages of Fostamatinib in Adult Patients With Rheumatoid Arthritis: A Systematic Review and Meta-Analysis. Front Pharmacol 10, 897 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kang%2C%20Y.%20Efficacy%20and%20Safety%20of%20Multiple%20Dosages%20of%20Fostamatinib%20in%20Adult%20Patients%20With%20Rheumatoid%20Arthritis%3A%20A%20Systematic%20Review%20and%20Meta-Analysis%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kang%2C%20Y.%20Efficacy%20and%20Safety%20of%20Multiple%20Dosages%20of%20Fostamatinib%20in%20Adult%20Patients%20With%20Rheumatoid%20Arthritis%3A%20A%20Systematic%20Review%20and%20Meta-Analysis%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kang%2C%20Y.%20Efficacy%20and%20Safety%20of%20Multiple%20Dosages%20of%20Fostamatinib%20in%20Adult%20Patients%20With%20Rheumatoid%20Arthritis%3A%20A%20Systematic%20Review%20and%20Meta-Analysis%202019"
+        },
+        {
+            "id": "44",
+            "alt_id": "Richardson_2020_a",
+            "entry": "44. Richardson, P. et al. Baricitinib as potential treatment for 2019-nCoV acute respiratory disease. Lancet 395, E30-E31 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Richardson%20P%20et%20al%20Baricitinib%20as%20potential%20treatment%20for%202019nCoV%20acute%20respiratory%20disease%20Lancet%20395%20E30E31%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Richardson%20P%20et%20al%20Baricitinib%20as%20potential%20treatment%20for%202019nCoV%20acute%20respiratory%20disease%20Lancet%20395%20E30E31%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Richardson%20P%20et%20al%20Baricitinib%20as%20potential%20treatment%20for%202019nCoV%20acute%20respiratory%20disease%20Lancet%20395%20E30E31%202020"
+        },
+        {
+            "id": "45",
+            "alt_id": "Stebbing_2020_a",
+            "entry": "45. Stebbing, J. et al. COVID-19: combining antiviral and anti-inflammatory treatments. The Lancet Infectious Diseases (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Stebbing%2C%20J.%20COVID-%2019%3A%20combining%20antiviral%20and%20anti-inflammatory%20treatments%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Stebbing%2C%20J.%20COVID-%2019%3A%20combining%20antiviral%20and%20anti-inflammatory%20treatments%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Stebbing%2C%20J.%20COVID-%2019%3A%20combining%20antiviral%20and%20anti-inflammatory%20treatments%202020"
+        },
+        {
+            "id": "46",
+            "alt_id": "Richardson_2020_b",
+            "entry": "46. Richardson, P. et al. Baricitinib as potential treatment for 2019-nCoV acute respiratory disease. The Lancet 395, e30-e31 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Richardson%20P%20et%20al%20Baricitinib%20as%20potential%20treatment%20for%202019nCoV%20acute%20respiratory%20disease%20The%20Lancet%20395%20e30e31%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Richardson%20P%20et%20al%20Baricitinib%20as%20potential%20treatment%20for%202019nCoV%20acute%20respiratory%20disease%20The%20Lancet%20395%20e30e31%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Richardson%20P%20et%20al%20Baricitinib%20as%20potential%20treatment%20for%202019nCoV%20acute%20respiratory%20disease%20The%20Lancet%20395%20e30e31%202020"
+        },
+        {
+            "id": "47",
+            "alt_id": "Stebbing_0000_a",
+            "entry": "47. Stebbing, J. et al. COVID-19: combining antiviral and anti-inflammatory treatments. The Lancet Infectious Diseases 0(2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Stebbing%2C%20J.%20COVID-%2019%3A%20combining%20antiviral%20and%20anti-inflammatory%20treatments",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Stebbing%2C%20J.%20COVID-%2019%3A%20combining%20antiviral%20and%20anti-inflammatory%20treatments",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Stebbing%2C%20J.%20COVID-%2019%3A%20combining%20antiviral%20and%20anti-inflammatory%20treatments"
+        },
+        {
+            "id": "48",
+            "alt_id": "Rolf_2015_a",
+            "entry": "48. Rolf, M.G. et al. In vitro pharmacological profiling of R406 identifies molecular targets underlying the clinical effects of fostamatinib. Pharmacol Res Perspect 3, e00175 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rolf%20MG%20et%20al%20In%20vitro%20pharmacological%20profiling%20of%20R406%20identifies%20molecular%20targets%20underlying%20the%20clinical%20effects%20of%20fostamatinib%20Pharmacol%20Res%20Perspect%203%20e00175%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rolf%20MG%20et%20al%20In%20vitro%20pharmacological%20profiling%20of%20R406%20identifies%20molecular%20targets%20underlying%20the%20clinical%20effects%20of%20fostamatinib%20Pharmacol%20Res%20Perspect%203%20e00175%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rolf%20MG%20et%20al%20In%20vitro%20pharmacological%20profiling%20of%20R406%20identifies%20molecular%20targets%20underlying%20the%20clinical%20effects%20of%20fostamatinib%20Pharmacol%20Res%20Perspect%203%20e00175%202015"
+        },
+        {
+            "id": "49",
+            "alt_id": "Roth_et+al_2010_a",
+            "entry": "49. Roth, D.E., Richard, S.A. & Black, R.E. Zinc supplementation for the prevention of acute lower respiratory infection in children in developing countries: meta-analysis and meta-regression of randomized trials. International Journal of Epidemiology 39, 795-808 (2010). ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Roth%2C%20D.E.%20Richard%2C%20S.A.%20Black%2C%20R.E.%20Zinc%20supplementation%20for%20the%20prevention%20of%20acute%20lower%20respiratory%20infection%20in%20children%20in%20developing%20countries%3A%20meta-analysis%20and%20meta-regression%20of%20randomized%20trials%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Roth%2C%20D.E.%20Richard%2C%20S.A.%20Black%2C%20R.E.%20Zinc%20supplementation%20for%20the%20prevention%20of%20acute%20lower%20respiratory%20infection%20in%20children%20in%20developing%20countries%3A%20meta-analysis%20and%20meta-regression%20of%20randomized%20trials%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Roth%2C%20D.E.%20Richard%2C%20S.A.%20Black%2C%20R.E.%20Zinc%20supplementation%20for%20the%20prevention%20of%20acute%20lower%20respiratory%20infection%20in%20children%20in%20developing%20countries%3A%20meta-analysis%20and%20meta-regression%20of%20randomized%20trials%202010"
+        }
+    ],
+    "facts": [
+        "identify who may be susceptible to infection",
+        "studies suggested that high expression of ACE2 may increase susceptibility",
+        "traits and blood proteins that may be causally linked to ACE2 expression in the lung",
+        "Expression data was based on GTEx",
+        "explored drug candidates whose targets overlapped with the top-ranked proteins in MR analysis",
+        "reverse causality compared to observational studies",
+        "that T2DM is causally linked to raised ACE2 expression",
+        "Significant associations was observed across multiple datasets",
+        "serum proteins potentially linked to altered ACE2 expression",
+        "may help guide drug repositioning in the future",
+        "The virus has since caused an outbreak of coronavirus disease 2019 not only presenting in",
+        "most of patients were still concentrated in China",
+        "seek solutions to control the spread of the disease to susceptible groups",
+        "The database was retrieved via the R package",
+        "MR analysis was conducted with the same package",
+        "Traits listed as priority 1",
+        "A total of 425 UKBB traits were retained for final analysis",
+        "clinically relevant traits MR results are presented in Tables 1",
+        "the SE of causal estimates is larger with MR-Egger 30",
+        "Results from MR-Egger will be presented if there is significant directional pleiotropy",
+        "a number of top-ranked results were related to diabetes",
+        "Another one was based on a trans-ethnic meta-analysis",
+        "which had no overlap with the UKBB sample",
+        "nominally significant result in this dataset can be considered as an independent replication of the UKBB result",
+        "traits that are causally associated with altered ACE2 expression may shed light on why certain subjects are more susceptible to the infection",
+        "a phenome-wide Mendelian randomization study to explore diseases or traits that may be causally linked to increased ACE2 expression in the lung",
+        "What conditions or traits may lead to increased ACE2 expression",
+        "which may in turn result in greater susceptibility",
+        "a large variety of traits are studied for causal associations with ACE2 expression",
+        "traits that may be causally linked to ACE2 expression levels in the lung",
+        "most consistent finding was the casual link between diabetes with ACE2 expression",
+        "which was supported by multiple datasets",
+        "history of coronary heart disease and stroke to be casually linked to ACE2 expression",
+        "patients with severe infections have been reported to be enriched for these comorbidities",
+        "proteins causally linked to ACE2 expression in uninfected subjects",
+        "as the outcome dataset is composed of such subjects",
+        "have identified several diseases and traits which may be causally related to ACE2 expression the lung",
+        "similar to the approach adopted by Pendergrass et al 40"
+    ],
+    "claims": [
+        "We also explored drug candidates whose targets overlapped with the top-ranked proteins in MR analysis, as these drugs could potentially alter ACE2 expression and may be clinically relevant",
+        "Based on one of the largest GWAS on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised ACE2 expression (beta=0.1835, 95% CI 0.0853-0.2817; p=2.49E-4; GSMR method)",
+        "We also explored drugs that target some of the top-ranked proteins in the MR analysis",
+        "In addition to diseases, we also studied serum/plasma proteins as exposure, as they may point to potential molecular mechanisms underlying ACE2 expression, and may serve as potential predictive or prognostic biomarkers",
+        "We focus on the gene expression of ACE2 in the lung (N = 515)",
+        "We found another publicly available dataset from the DIAGRAM Consortium, based on a recent meta-analysis of type II diabetes by Mahajan et al 33",
+        "Our analysis adds further support to the hypothesis, but we further showed that the relationship may be casual",
+        "On the other hand, we examined the consistency of the observed associations across different datasets, and considered those supported by more than one set of data as relatively more trustworthy or robust, similar to the approach adopted by Pendergrass et al 40",
+        "We presented a new analytic approach; we made use of existing knowledge of a key receptor of an infectious agent to uncover risk factors as well as repositioning candidates",
+        "Notwithstanding the limitations, we have identified several diseases and traits which may be causally related to ACE2 expression the lung, which in turn may mediate susceptibility to 2019-nCoV infection"
+    ],
+    "findings": [
+        "Based on one of the largest GWAS on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised ACE2 expression (beta=0.1835, 95% CI 0.0853-0.2817; p=2.49E-4; GSMR method)",
+        "GSMR reported the lowest p-value of 2.49E-04 (beta = 0.1835, 95% CI: 0.0853 to 0.2817)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Based on one of the largest genome-wide association studies on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised angiotensin-converting enzyme 2 expression",
+        "We explored drugs that target some of the top-ranked proteins in the Mendelian randomization analysis",
+        "The proteome-wide Mendelian randomization analysis may shed light on the molecular mechanisms underlying angiotensin-converting enzyme 2 expression, and may help guide drug repositioning in the future",
+        "While further studies are required, revealing diseases/traits that are causally associated with altered angiotensin-converting enzyme 2 expression may shed light on why certain subjects are more susceptible to the infection and the underlying mechanisms",
+        "We wish to answer the following question: What conditions or traits may lead to increased angiotensin-converting enzyme 2 expression, which may in turn result in greater susceptibility to 2019-nCov infection? Since COVID-19 is a new disease and prior knowledge is lacking, we employed a phenome-wide approach in which a large variety of traits are studied for causal associations with angiotensin-converting enzyme 2 expression",
+        "We selected the following categories of traits: (1) Traits listed as priority 1 and labelled as \u201cDisease\u201d or \u201cRisk factor\u201d (81 and 71 items respectively); (2) traits labelled as \u201cprotein\u201d as described above (3371 items); (3) traits from the UK Biobank, as it is one of the largest source of genome-wide association studies data worldwide",
+        "Mendelian randomization analysis for diseases and clinically relevant traits Mendelian randomization results are presented in Tables 1 and 2",
+        "For traits that do not show evidence for directional pleiotropy (p-value of Egger Intercept>0.05), we shall primarily report the results from Mendelian randomization-IVW, as generally the SE of causal estimates is larger with Mendelian randomization-Egger 30",
+        "Diabetes-related traits Remarkably, a number of top-ranked results were related to diabetes",
+        "Three are related to diagnosis of diabetes in the UK Biobank. Another one was based on a trans-ethnic meta-analysis in 2014 31, which had no overlap with the UK Biobank sample",
+        "In this study we have employed Mendelian Randomization (MR) to uncover diseases/traits that may be causally linked to angiotensin-converting enzyme 2 expression levels in the lung, which in turn may influence susceptibility to the infection",
+        "The most consistent finding was the casual link between diabetes with angiotensin-converting enzyme 2 expression, which was supported by multiple datasets and different analytic approaches",
+        "We examined the consistency of the observed associations across different datasets, and considered those supported by more than one set of data as relatively more trustworthy or robust, similar to the approach adopted by Pendergrass et al 40",
+        "In our analysis, we do not find evidence of hypertension or blood pressure, history of coronary heart disease and stroke to be casually linked to angiotensin-converting enzyme 2 expression, patients with severe infections have been reported to be enriched for these comorbidities",
+        "Our findings from Mendelian randomization mainly reflect diseases/traits/proteins causally linked to angiotensin-converting enzyme 2 expression in uninfected subjects, as the outcome dataset (GTEx) is composed of such subjects",
+        "Notwithstanding the limitations, we have identified several diseases and traits which may be causally related to angiotensin-converting enzyme 2 expression the lung, which in turn may mediate susceptibility to 2019-nCoV infection"
+    ],
+    "top_statements": [
+        "A novel coronavirus named 2019-nCoV was detected from patients in Wuhan city, China 1,2 at the end of<br/><br/>2019",
+        "Based on one of the largest genome-wide association studies on type II diabetes (T2DM) to date (N=898,130), we found that T2DM is causally linked to raised angiotensin-converting enzyme 2 expression",
+        "We wish to answer the following question: What conditions or traits may lead to increased angiotensin-converting enzyme 2 expression, which may in turn result in greater susceptibility to 2019-nCov infection? Since COVID-19 is a new disease and prior knowledge is lacking, we employed a phenome-wide approach in which a large variety of traits are studied for causal associations with angiotensin-converting enzyme 2 expression",
+        "Mendelian randomization analysis for diseases and clinically relevant traits Mendelian randomization results are presented in Tables 1 and 2",
+        "For traits that do not show evidence for directional pleiotropy (p-value of Egger Intercept>0.05), we shall primarily report the results from Mendelian randomization-IVW, as generally the SE of causal estimates is larger with Mendelian randomization-Egger 30",
+        "Diabetes-related traits Remarkably, a number of top-ranked results were related to diabetes"
+    ],
+    "headline": "Based on one of the largest genome-wide association studies on type II diabetes to date, we found that T2DM is causally linked to raised angiotensin-converting enzyme 2 expression",
+    "contexts": [],
+    "abbreviations": {
+        "MR": "Mendelian randomization",
+        "ACE2": "angiotensin-converting enzyme 2",
+        "RCT": "randomized controlled trials",
+        "GWAS": "genome-wide association studies",
+        "UKBB": "UK Biobank",
+        "MR-IVW": "MR primarily with the \u2018inverse-variance weighted\u2019",
+        "DM": "diabetes mellitus",
+        "ITP": "Immune Thrombocytopenic Purpura",
+        "RA": "rheumatoid arthritis"
+    }
+}

@@ -1,0 +1,961 @@
+{
+    "filename": "2020.03.06.20031278.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 636487,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.06.20031278",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/08/2020.03.06.20031278.full.pdf"
+        },
+        "title": "The Evaluation of Sleep Disturbances for Chinese Frontline Medical Workers Under the Outbreak of COVID-19",
+        "author": "Jing Qi, Jing Xu, Bozhi Li, Jinsha Huang, Yuan Yang, Zhentao Zhang, Dongai Yao, Qunhui Liu, Min Jia, Daokai Gong, Xiaohong Ni, Qimei Zhang, Furong Shang, Nian Xiong, Chunli Zhu, Tao Wang, Xi Zhang",
+        "date": 2020,
+        "affiliations": [
+            "School of Medicine, Nankai University, Tianjin, 300071, China",
+            "Department of Neurology, The Secondary Medical Center, National Clinical Research Center for Geriatric Disease, Chinese PLA General Hospital, Beijing, 100853, China",
+            "Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430022, China",
+            "Department of Neurology, Tongji Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430030, China",
+            "Department of Neurology, Renmin Hospital of Wuhan University, Wuhan, Hubei, 430060, China",
+            "Department of Neurology, Zhongnan Hospital of Wuhan University, Wuhan, Hubei, 430071, China",
+            "Department of Neurology, the Central Hospital of Enshi Tujia and Miao Autonomous Prefecture, Enshi, Hubei, 445000, China",
+            "Department of Neurology, Jingzhou Central Hospital, Jingzhou, Hubei, 434000, China",
+            "Department of Neurology, Huanggang Central Hospital, Huanggang, Hubei, 438000, China",
+            "Department of Neurology, People\u2019s Hospital of Yichang central, Yichang, Hubei, 443003, China",
+            "Department of Neurology, Xiangyang Central Hospital, Xiangyang, Hubei, 441021,",
+            "Department of Neurology, Red Cross Hospital of Wuhan, Wuhan, Hubei, 430015, China",
+            "Xi Zhang Department of Neurology, The Secondary Medical Center, National Clinical Research Center for Geriatric Disease, Chinese PLA General Hospital, Beijing, 100853, China School of Medicine, Nankai University, Tianjin, 300071, China E-mail: zhangxiplagh@sina.com",
+            "Tao Wang Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science & Technology, Wuhan, Hubei, 430022, China E-mail: wangtaowh@hust.edu.cn"
+        ],
+        "abstract": "Objective To evaluate sleep disturbances of Chinese frontline medical workers (fMW) under the outbreak of coronavirus disease 2019, and make a comparison with non-fMW.\nMethods The medical workers from multiple hospitals in Hubei Province, China, were volunteered to participate in this cross-sectional study. An online questionnaire, including Pittsburgh Sleep Quality Index (PSQI), Athens Insomnia Scale (AIS) and Visual Analogue Scale (VAS), was used to evaluate sleep disturbances and mental status of fMW. Sleep disturbances were defined as PSQI&gt;7 points or/and AIS&gt;6 points. We compared the scores of PSQI, AIS, anxiety and depression VAS and prevalence of sleep disturbances between fMW and non-fMW. Subgroup analysis for different gender in fMW was conducted. \nResults A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled. Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001). In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001).\nConclusion fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW. Female fMW were more vulnerable to having sleep disturbances than male fMW.",
+        "keywords": [
+            "Sleep disturbances",
+            "COVID-19",
+            "Pressure",
+            "Medical Workers"
+        ],
+        "references": "@misc{weiss2011a,\n  author = {Weiss, SR, Leibowitz and J.L.},\n  title = {Coronavirus pathogenesis. ADV VIRUS RES},\n  date = {2011},\n  volume = {81},\n  pages = {85\u2013164},\n  language = {}\n}\n@article{su2016a,\n  author = {Su, S. and Wong, G. and Shi, W. and Liu, J. and Lai, A. and Zhou, J.},\n  title = {Genetic Recombination, and Pathogenesis of Coronaviruses},\n  journal = {TRENDS MICROBIOL},\n  date = {2016},\n  volume = {24},\n  pages = {490\u2013502},\n  more-authors = {true},\n  language = {}\n}\n@article{cavanagh2007a,\n  author = {Cavanagh, D.},\n  title = {Coronavirus avian infectious bronchitis virus},\n  journal = {VET RES},\n  date = {2007},\n  volume = {38},\n  pages = {281\u201397},\n  language = {}\n}\n@article{lu-a,\n  author = {Lu, H. and Stratton, C.W. and Tang, Y.W.},\n  title = {Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle},\n  journal = {J MED VIROL},\n  volume = {2020},\n  pages = {401\u20132},\n  number = {92},\n  language = {}\n}\n@article{chan-a,\n  author = {Chan, J.F. and Yuan, S. and Kok, K. and To, K.K. and Chu, H. and Yang, J.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster},\n  journal = {The Lancet},\n  volume = {2020},\n  pages = {514\u201323},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@article{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X. and Ren, L. and Zhao, J. and Hu, Y.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {The Lancet},\n  volume = {2020},\n  pages = {497\u2013506},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@misc{organization-a,\n  author = {Organization, World Health},\n  title = {Coronavirus disease (COVID-19) Outbreak},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019.},\n  language = {}\n}\n@misc{w-a,\n  author = {W.H.O.},\n  title = {Novel coronavirus \u2013 Thailand (ex-China). Jan 14, 2020},\n  url = {http://www.who.int/csr/don/14-january-2020-novel-coronavirusthailand/en/},\n  date = {Jan},\n  volume = {19},\n  number = {2020},\n  language = {}\n}\n@misc{w-b,\n  author = {W.H.O.},\n  title = {Novel coronavirus \u2013 Republic of Korea (ex-China). Jan 21, 2020},\n  url = {http://www.who.int/csr/don/21-january-2020-novelcoronavirus-republic-of-korea-ex-china/en/},\n  date = {Jan},\n  volume = {23},\n  pages = {2020},\n  language = {}\n}\n@misc{w-c,\n  author = {W.H.O.},\n  title = {Novel coronavirus \u2013 Japan (ex-China). Jan 17, 2020},\n  url = {http://www.who.int/csr/don/17-january-2020-novel-coronavirusjapan-ex-china/en/},\n  date = {Jan},\n  volume = {19},\n  number = {2020},\n  language = {}\n}\n@misc{team-a,\n  author = {Team, N.C.P.E.},\n  title = {The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi},\n  pages = {2020145\u201351},\n  language = {}\n}\n@article{kalmbach2017a,\n  author = {Kalmbach, D.A. and Arnedt, J.T. and Song, P.X. and Guille, C. and Sen, S.},\n  title = {Sleep Disturbance and Short Sleep as Risk Factors for Depression and Perceived Medical Errors in First-Year Residents},\n  journal = {SLEEP},\n  date = {2017},\n  unknown = {40},\n  language = {}\n}\n@incollection{qiu2019a,\n  author = {Qiu, D. and Yu, Y. and Li, R.Q. and Li, Y.L. and Xiao, S.Y.},\n  title = {Prevalence of sleep disturbances in Chinese healthcare professionals: a systematic review and meta-analysis},\n  source = {SLEEP MED.},\n  date = {2019},\n  language = {}\n}\n@article{adams2017a,\n  author = {Adams, R.J. and Appleton, S.L. and Taylor, A.W. and Gill, T.K. and Lang, C. and McEvoy, R.D.},\n  title = {Sleep health of Australian adults in 2016: results of the 2016 Sleep Health Foundation national survey},\n  journal = {Sleep Health},\n  date = {2017},\n  volume = {3},\n  pages = {35\u201342},\n  more-authors = {true},\n  language = {}\n}\n@article{soldatos2005a,\n  author = {Soldatos, C.R. and Allaert, F.A. and Ohta, T. and Dikeos, D.G.},\n  title = {How do individuals sleep around the world? Results from a single-day survey in ten countries},\n  journal = {SLEEP MED},\n  date = {2005},\n  volume = {6},\n  pages = {5\u201313},\n  language = {}\n}\n@article{furihata2012a,\n  author = {Furihata, R. and Uchiyama, M. and Takahashi, S. and Suzuki, M. and Konno, C. and Osaki, K.},\n  title = {The association between sleep problems and perceived health status: a Japanese nationwide general population survey},\n  journal = {SLEEP MED},\n  date = {2012},\n  volume = {13},\n  pages = {831\u20137},\n  more-authors = {true},\n  language = {}\n}\n@article{huth2013a,\n  author = {Huth, J.J. and Eliades, A. and Handwork, C. and Englehart, J.L. and Messenger, J.},\n  title = {Shift worked, quality of sleep, and elevated body mass index in pediatric nurses},\n  journal = {J PEDIATR NURS},\n  date = {2013},\n  volume = {28},\n  pages = {64\u201373},\n  language = {}\n}\n@article{silva-costa2015a,\n  author = {Silva-Costa, A. and Griep, R.H. and Rotenberg, L.},\n  title = {Associations of a Short Sleep Duration, Insufficient Sleep, and Insomnia with Self-Rated Health among Nurses},\n  journal = {PLOS ONE},\n  date = {2015},\n  volume = {10},\n  pages = {126844},\n  language = {}\n}\n@article{kaneita2011a,\n  author = {Kaneita, Y. and Ohida, T.},\n  title = {Association of current work and sleep situations with excessive daytime sleepiness and medical incidents among Japanese physicians},\n  journal = {J CLIN SLEEP MED},\n  date = {2011},\n  volume = {7},\n  pages = {512\u201322},\n  language = {}\n}\n@article{sveinsdottir2006a,\n  author = {Sveinsdottir, H.},\n  title = {Self-assessed quality of sleep, occupational health, working environment, illness experience and job satisfaction of female nurses working different combination of shifts},\n  journal = {SCAND J CARING SCI},\n  date = {2006},\n  volume = {20},\n  pages = {229\u201337},\n  language = {}\n}\n@article{sun2015a,\n  author = {Sun, W. and Yu, Y. and Yuan, J. and Li, C. and Liu, T. and Lin, D.},\n  title = {Sleep duration and quality among different occupations--China national study},\n  journal = {PLOS ONE},\n  date = {2015},\n  volume = {10},\n  pages = {117700},\n  more-authors = {true},\n  language = {}\n}\n@article{tsai2005a,\n  author = {Tsai, P.S. and Wang, S.Y. and Wang, M.Y. and Su, C.T. and Yang, T.T. and Huang, C.J.},\n  title = {Psychometric evaluation of the Chinese version of the Pittsburgh Sleep Quality Index (CPSQI) in primary insomnia and control subjects},\n  journal = {QUAL LIFE RES},\n  date = {2005},\n  volume = {14},\n  pages = {1943\u201352},\n  more-authors = {true},\n  language = {}\n}\n@article{buysse1989a,\n  author = {Buysse, D.J. and Reynolds, C.R. and Monk, T.H. and Berman, SR, Kupfer and D.J.},\n  title = {The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research},\n  journal = {Psychiatry Res},\n  date = {1989},\n  volume = {28},\n  pages = {193\u2013213},\n  language = {}\n}\n@article{soldatos2000a,\n  author = {Soldatos, C.R. and Dikeos, D.G. and Paparrigopoulos, T.J.},\n  title = {Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria},\n  journal = {J PSYCHOSOM RES},\n  date = {2000},\n  volume = {48},\n  pages = {555\u201360},\n  language = {}\n}\n@misc{unknown-a,\n  title = {Coronavirus disease 2019 (COVID-19) Situation Report-},\n  url = {43.https},\n  unknown = {n-reports},\n  language = {}\n}\n@article{wu2020a,\n  author = {Wu, Z. and McGoogan, J.M.},\n  title = {Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention},\n  journal = {JAMA},\n  date = {2020},\n  language = {}\n}\n@article{luckhaupt2010a,\n  author = {Luckhaupt, S.E. and Tak, S. and Calvert, G.M.},\n  title = {The prevalence of short sleep duration by industry and occupation in the},\n  journal = {National Health Interview Survey. SLEEP},\n  date = {2010},\n  volume = {33},\n  pages = {149\u201359},\n  language = {}\n}\n@article{schiller2017a,\n  author = {Schiller, H. and Lekander, M. and Rajaleid, K. and Hellgren, C. and Akerstedt, T. and Barck-Holst, P.},\n  title = {The impact of reduced worktime on sleep and perceived stress - a group randomized intervention study using diary data},\n  journal = {Scand J Work Environ Health},\n  date = {2017},\n  volume = {43},\n  pages = {109\u201316},\n  more-authors = {true},\n  language = {}\n}\n@article{neylan2002a,\n  author = {Neylan, T.C. and Metzler, T.J. and Best, SR, Weiss and DS, Fagan and JA, Liberman and A.},\n  title = {Critical incident exposure and sleep quality in police officers},\n  journal = {PSYCHOSOM MED},\n  date = {2002},\n  volume = {64},\n  pages = {345\u201352},\n  more-authors = {true},\n  language = {}\n}\n@article{utsugi2005a,\n  author = {Utsugi, M. and Saijo, Y. and Yoshioka, E. and Horikawa, N. and Sato, T. and Gong, Y.},\n  title = {Relationships of occupational stress to insomnia and short sleep in Japanese workers},\n  journal = {SLEEP},\n  date = {2005},\n  volume = {28},\n  pages = {728\u201335},\n  more-authors = {true},\n  language = {}\n}\n@article{johnson2006a,\n  author = {Johnson, J.V. and Lipscomb, J.},\n  title = {Long working hours, occupational health and the changing nature of work organization},\n  journal = {AM J IND MED},\n  date = {2006},\n  volume = {49},\n  pages = {921\u20139},\n  language = {}\n}\n@article{basner2007a,\n  author = {Basner, M. and Fomberstein, K.M. and Razavi, F.M. and Banks, S. and William, J.H. and Rosa, R.R.},\n  title = {American time use survey: sleep time and its relationship to waking activities},\n  journal = {SLEEP},\n  date = {2007},\n  volume = {30},\n  pages = {1085\u201395},\n  more-authors = {true},\n  language = {}\n}\n@article{ota2005a,\n  author = {Ota, A. and Masue, T. and Yasuda, N. and Tsutsumi, A. and Mino, Y. and Ohara, H.},\n  title = {Association between psychosocial job characteristics and insomnia: an investigation using two relevant job stress models--the demand-control-support (DCS) model and the effort-reward imbalance (ERI) model},\n  journal = {SLEEP MED},\n  date = {2005},\n  volume = {6},\n  pages = {353\u20138},\n  language = {}\n}\n@article{fu2018a,\n  author = {Fu, Y. and Schwebel, D.C. and Hu, G.},\n  title = {Physicians' Workloads in China: 1998(-)2016},\n  journal = {Int J Environ Res Public Health},\n  date = {2018},\n  unknown = {15},\n  language = {}\n}\n@article{pikovsky2013a,\n  author = {Pikovsky, O. and Oron, M. and Shiyovich, A. and Perry, Z.H. and Nesher, L.},\n  title = {The impact of sleep deprivation on sleepiness, risk factors and professional performance in medical residents},\n  journal = {ISR MED ASSOC J},\n  date = {2013},\n  volume = {15},\n  pages = {739\u201344},\n  language = {}\n}\n@article{gordon2010a,\n  author = {Gordon, J.A. and Alexander, E.K. and Lockley, S.W. and Flynn-Evans, E. and Venkatan, S.K. and Landrigan, C.P.},\n  title = {Does simulator-based clinical performance correlate with actual hospital behavior? The effect of extended work hours on patient care provided by medical interns},\n  journal = {ACAD MED},\n  date = {2010},\n  volume = {85},\n  pages = {1583\u20138},\n  more-authors = {true},\n  language = {}\n}\n@article{parker2017a,\n  author = {Parker, R.S. and Parker, P.},\n  title = {The impact of sleep deprivation in military surgical teams: a systematic review},\n  journal = {J R Army Med Corps},\n  date = {2017},\n  volume = {163},\n  pages = {158\u201363},\n  language = {}\n}\n@article{deng-a,\n  author = {Deng, X. and Liu, X. and Fang, R.},\n  title = {Evaluation of the correlation between job stress and sleep quality in community nurses},\n  journal = {Medicine (Baltimore)},\n  volume = {2020},\n  pages = {18822},\n  number = {99},\n  language = {}\n}\n@article{tucker2015a,\n  author = {Tucker, P. and Bejerot, E. and Kecklund, G. and Aronsson, G. and Akerstedt, T.},\n  title = {The impact of work time control on physicians' sleep and well-being},\n  journal = {APPL ERGON},\n  date = {2015},\n  volume = {47},\n  pages = {109\u201316},\n  language = {}\n}\n@article{lin2012a,\n  author = {Lin, P.C. and Chen, C.H. and Pan, S.M. and Pan, C.H. and Chen, C.J. and Chen, Y.M.},\n  title = {Atypical work schedules are associated with poor sleep quality and mental health in Taiwan female nurses},\n  journal = {Int Arch Occup Environ Health},\n  date = {2012},\n  volume = {85},\n  pages = {877\u201384},\n  more-authors = {true},\n  language = {}\n}\n@article{han2016a,\n  author = {Han, Y. and Yuan, Y. and Zhang, L. and Fu, Y.},\n  title = {Sleep disorder status of nurses in general hospitals and its influencing factors},\n  journal = {Psychiatr Danub},\n  date = {2016},\n  volume = {28},\n  pages = {176\u201383},\n  language = {}\n}\n@article{faraut2012a,\n  author = {Faraut, B. and Touchette, E. and Gamble, H. and Royant-Parola, S. and Safar, M.E. and Varsat, B.},\n  title = {Short sleep duration and increased risk of hypertension: a primary care medicine investigation},\n  journal = {J HYPERTENS},\n  date = {2012},\n  volume = {30},\n  pages = {1354\u201363},\n  more-authors = {true},\n  language = {}\n}\n@article{jansson2006a,\n  author = {Jansson, M. and Linton, S.J.},\n  title = {The role of anxiety and depression in the development of insomnia: Cross-sectional and prospective analyses},\n  journal = {PSYCHOL HEALTH},\n  date = {2006},\n  volume = {21},\n  pages = {383\u201397},\n  language = {}\n}\n@article{rodriiguez-munoz2008a,\n  author = {Rodriiguez-Munoz, A. and Moreno-Jimenez, B. and Fernandez-Mendoza, J.J. and Olavarrieta-Bernardino, S. and de la Cruz-Troca, J.J. and Vela-Bueno, A.},\n  title = {Insomnia and quality of sleep among primary care physicians: a gender perspective},\n  journal = {Rev Neurol},\n  date = {2008},\n  volume = {47},\n  pages = {119\u201323},\n  language = {}\n}\n@article{zhang2006a,\n  author = {Zhang, B. and Wing, Y.K.},\n  title = {Sex differences in insomnia: a meta-analysis},\n  journal = {SLEEP},\n  date = {2006},\n  volume = {29},\n  pages = {85\u201393},\n  language = {}\n}\n@article{barsky2001a,\n  author = {Barsky, A.J. and Peekna, H.M. and Borus, J.F.},\n  title = {Somatic symptom reporting in women and men},\n  journal = {J GEN INTERN MED},\n  date = {2001},\n  volume = {16},\n  pages = {266\u201375},\n  language = {}\n}\n",
+        "emails": [
+            "wangtaowh@hust.edu.cn",
+            "zhangxiplagh@sina.com"
+        ],
+        "references_ris": "TY  - GEN\nAU  - Weiss, SR, Leibowitz\nAU  - J.L.\nTI  - Coronavirus pathogenesis. ADV VIRUS RES\nPY  - 2011\nDA  - 2011\nVL  - 81\nSP  - 85\nEP  - 164\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Su, S.\nAU  - Wong, G.\nAU  - Shi, W.\nAU  - Liu, J.\nAU  - Lai, A.\nAU  - Zhou, J.\nTI  - Genetic Recombination, and Pathogenesis of Coronaviruses\nT2  - TRENDS MICROBIOL\nPY  - 2016\nDA  - 2016\nVL  - 24\nSP  - 490\nEP  - 502\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cavanagh, D.\nTI  - Coronavirus avian infectious bronchitis virus\nT2  - VET RES\nPY  - 2007\nDA  - 2007\nVL  - 38\nSP  - 281\nEP  - 97\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lu, H.\nAU  - Stratton, C.W.\nAU  - Tang, Y.W.\nTI  - Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle\nT2  - J MED VIROL\nVL  - 2020\nSP  - 401\nEP  - 2\nIS  - 92\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nAU  - Yuan, S.\nAU  - Kok, K.\nAU  - To, K.K.\nAU  - Chu, H.\nAU  - Yang, J.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster\nT2  - The Lancet\nVL  - 2020\nSP  - 514\nEP  - 23\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nAU  - Ren, L.\nAU  - Zhao, J.\nAU  - Hu, Y.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - The Lancet\nVL  - 2020\nSP  - 497\nEP  - 506\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - GEN\nAU  - Organization, World Health\nTI  - Coronavirus disease (COVID-19) Outbreak\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019.\nLA  - \nER  - \n\nTY  - GEN\nAU  - W.H.O.\nTI  - Novel coronavirus \u2013 Thailand (ex-China). Jan 14, 2020\nUR  - http://www.who.int/csr/don/14-january-2020-novel-coronavirusthailand/en/\nPY  - Jan\nDA  - Jan\nVL  - 19\nIS  - 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - W.H.O.\nTI  - Novel coronavirus \u2013 Republic of Korea (ex-China). Jan 21, 2020\nUR  - http://www.who.int/csr/don/21-january-2020-novelcoronavirus-republic-of-korea-ex-china/en/\nPY  - Jan\nDA  - Jan\nVL  - 23\nSP  - 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - W.H.O.\nTI  - Novel coronavirus \u2013 Japan (ex-China). Jan 17, 2020\nUR  - http://www.who.int/csr/don/17-january-2020-novel-coronavirusjapan-ex-china/en/\nPY  - Jan\nDA  - Jan\nVL  - 19\nIS  - 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - Team, N.C.P.E.\nTI  - The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi\nSP  - 2020145\nEP  - 51\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kalmbach, D.A.\nAU  - Arnedt, J.T.\nAU  - Song, P.X.\nAU  - Guille, C.\nAU  - Sen, S.\nTI  - Sleep Disturbance and Short Sleep as Risk Factors for Depression and Perceived Medical Errors in First-Year Residents\nT2  - SLEEP\nPY  - 2017\nDA  - 2017\nC1  - 40\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Qiu, D.\nAU  - Yu, Y.\nAU  - Li, R.Q.\nAU  - Li, Y.L.\nAU  - Xiao, S.Y.\nTI  - Prevalence of sleep disturbances in Chinese healthcare professionals: a systematic review and meta-analysis\nT2  - SLEEP MED.\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Adams, R.J.\nAU  - Appleton, S.L.\nAU  - Taylor, A.W.\nAU  - Gill, T.K.\nAU  - Lang, C.\nAU  - McEvoy, R.D.\nTI  - Sleep health of Australian adults in 2016: results of the 2016 Sleep Health Foundation national survey\nT2  - Sleep Health\nPY  - 2017\nDA  - 2017\nVL  - 3\nSP  - 35\nEP  - 42\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Soldatos, C.R.\nAU  - Allaert, F.A.\nAU  - Ohta, T.\nAU  - Dikeos, D.G.\nTI  - How do individuals sleep around the world? Results from a single-day survey in ten countries\nT2  - SLEEP MED\nPY  - 2005\nDA  - 2005\nVL  - 6\nSP  - 5\nEP  - 13\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Furihata, R.\nAU  - Uchiyama, M.\nAU  - Takahashi, S.\nAU  - Suzuki, M.\nAU  - Konno, C.\nAU  - Osaki, K.\nTI  - The association between sleep problems and perceived health status: a Japanese nationwide general population survey\nT2  - SLEEP MED\nPY  - 2012\nDA  - 2012\nVL  - 13\nSP  - 831\nEP  - 7\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huth, J.J.\nAU  - Eliades, A.\nAU  - Handwork, C.\nAU  - Englehart, J.L.\nAU  - Messenger, J.\nTI  - Shift worked, quality of sleep, and elevated body mass index in pediatric nurses\nT2  - J PEDIATR NURS\nPY  - 2013\nDA  - 2013\nVL  - 28\nSP  - 64\nEP  - 73\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Silva-Costa, A.\nAU  - Griep, R.H.\nAU  - Rotenberg, L.\nTI  - Associations of a Short Sleep Duration, Insufficient Sleep, and Insomnia with Self-Rated Health among Nurses\nT2  - PLOS ONE\nPY  - 2015\nDA  - 2015\nVL  - 10\nSP  - 126844\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kaneita, Y.\nAU  - Ohida, T.\nTI  - Association of current work and sleep situations with excessive daytime sleepiness and medical incidents among Japanese physicians\nT2  - J CLIN SLEEP MED\nPY  - 2011\nDA  - 2011\nVL  - 7\nSP  - 512\nEP  - 22\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sveinsdottir, H.\nTI  - Self-assessed quality of sleep, occupational health, working environment, illness experience and job satisfaction of female nurses working different combination of shifts\nT2  - SCAND J CARING SCI\nPY  - 2006\nDA  - 2006\nVL  - 20\nSP  - 229\nEP  - 37\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sun, W.\nAU  - Yu, Y.\nAU  - Yuan, J.\nAU  - Li, C.\nAU  - Liu, T.\nAU  - Lin, D.\nTI  - Sleep duration and quality among different occupations--China national study\nT2  - PLOS ONE\nPY  - 2015\nDA  - 2015\nVL  - 10\nSP  - 117700\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tsai, P.S.\nAU  - Wang, S.Y.\nAU  - Wang, M.Y.\nAU  - Su, C.T.\nAU  - Yang, T.T.\nAU  - Huang, C.J.\nTI  - Psychometric evaluation of the Chinese version of the Pittsburgh Sleep Quality Index (CPSQI) in primary insomnia and control subjects\nT2  - QUAL LIFE RES\nPY  - 2005\nDA  - 2005\nVL  - 14\nSP  - 1943\nEP  - 52\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Buysse, D.J.\nAU  - Reynolds, C.R.\nAU  - Monk, T.H.\nAU  - Berman, SR, Kupfer\nAU  - D.J.\nTI  - The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research\nT2  - Psychiatry Res\nPY  - 1989\nDA  - 1989\nVL  - 28\nSP  - 193\nEP  - 213\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Soldatos, C.R.\nAU  - Dikeos, D.G.\nAU  - Paparrigopoulos, T.J.\nTI  - Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria\nT2  - J PSYCHOSOM RES\nPY  - 2000\nDA  - 2000\nVL  - 48\nSP  - 555\nEP  - 60\nLA  - \nER  - \n\nTY  - GEN\nTI  - Coronavirus disease 2019 (COVID-19) Situation Report-\nUR  - 43.https\nC1  - n-reports\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Z.\nAU  - McGoogan, J.M.\nTI  - Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Luckhaupt, S.E.\nAU  - Tak, S.\nAU  - Calvert, G.M.\nTI  - The prevalence of short sleep duration by industry and occupation in the\nT2  - National Health Interview Survey. SLEEP\nPY  - 2010\nDA  - 2010\nVL  - 33\nSP  - 149\nEP  - 59\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Schiller, H.\nAU  - Lekander, M.\nAU  - Rajaleid, K.\nAU  - Hellgren, C.\nAU  - Akerstedt, T.\nAU  - Barck-Holst, P.\nTI  - The impact of reduced worktime on sleep and perceived stress - a group randomized intervention study using diary data\nT2  - Scand J Work Environ Health\nPY  - 2017\nDA  - 2017\nVL  - 43\nSP  - 109\nEP  - 16\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Neylan, T.C.\nAU  - Metzler, T.J.\nAU  - Best, SR, Weiss\nAU  - DS, Fagan\nAU  - JA, Liberman\nAU  - A.\nTI  - Critical incident exposure and sleep quality in police officers\nT2  - PSYCHOSOM MED\nPY  - 2002\nDA  - 2002\nVL  - 64\nSP  - 345\nEP  - 52\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Utsugi, M.\nAU  - Saijo, Y.\nAU  - Yoshioka, E.\nAU  - Horikawa, N.\nAU  - Sato, T.\nAU  - Gong, Y.\nTI  - Relationships of occupational stress to insomnia and short sleep in Japanese workers\nT2  - SLEEP\nPY  - 2005\nDA  - 2005\nVL  - 28\nSP  - 728\nEP  - 35\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Johnson, J.V.\nAU  - Lipscomb, J.\nTI  - Long working hours, occupational health and the changing nature of work organization\nT2  - AM J IND MED\nPY  - 2006\nDA  - 2006\nVL  - 49\nSP  - 921\nEP  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Basner, M.\nAU  - Fomberstein, K.M.\nAU  - Razavi, F.M.\nAU  - Banks, S.\nAU  - William, J.H.\nAU  - Rosa, R.R.\nTI  - American time use survey: sleep time and its relationship to waking activities\nT2  - SLEEP\nPY  - 2007\nDA  - 2007\nVL  - 30\nSP  - 1085\nEP  - 95\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ota, A.\nAU  - Masue, T.\nAU  - Yasuda, N.\nAU  - Tsutsumi, A.\nAU  - Mino, Y.\nAU  - Ohara, H.\nTI  - Association between psychosocial job characteristics and insomnia: an investigation using two relevant job stress models--the demand-control-support (DCS) model and the effort-reward imbalance (ERI) model\nT2  - SLEEP MED\nPY  - 2005\nDA  - 2005\nVL  - 6\nSP  - 353\nEP  - 8\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fu, Y.\nAU  - Schwebel, D.C.\nAU  - Hu, G.\nTI  - Physicians' Workloads in China: 1998(-)2016\nT2  - Int J Environ Res Public Health\nPY  - 2018\nDA  - 2018\nC1  - 15\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Pikovsky, O.\nAU  - Oron, M.\nAU  - Shiyovich, A.\nAU  - Perry, Z.H.\nAU  - Nesher, L.\nTI  - The impact of sleep deprivation on sleepiness, risk factors and professional performance in medical residents\nT2  - ISR MED ASSOC J\nPY  - 2013\nDA  - 2013\nVL  - 15\nSP  - 739\nEP  - 44\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gordon, J.A.\nAU  - Alexander, E.K.\nAU  - Lockley, S.W.\nAU  - Flynn-Evans, E.\nAU  - Venkatan, S.K.\nAU  - Landrigan, C.P.\nTI  - Does simulator-based clinical performance correlate with actual hospital behavior? The effect of extended work hours on patient care provided by medical interns\nT2  - ACAD MED\nPY  - 2010\nDA  - 2010\nVL  - 85\nSP  - 1583\nEP  - 8\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Parker, R.S.\nAU  - Parker, P.\nTI  - The impact of sleep deprivation in military surgical teams: a systematic review\nT2  - J R Army Med Corps\nPY  - 2017\nDA  - 2017\nVL  - 163\nSP  - 158\nEP  - 63\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Deng, X.\nAU  - Liu, X.\nAU  - Fang, R.\nTI  - Evaluation of the correlation between job stress and sleep quality in community nurses\nT2  - Medicine (Baltimore)\nVL  - 2020\nSP  - 18822\nIS  - 99\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tucker, P.\nAU  - Bejerot, E.\nAU  - Kecklund, G.\nAU  - Aronsson, G.\nAU  - Akerstedt, T.\nTI  - The impact of work time control on physicians' sleep and well-being\nT2  - APPL ERGON\nPY  - 2015\nDA  - 2015\nVL  - 47\nSP  - 109\nEP  - 16\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lin, P.C.\nAU  - Chen, C.H.\nAU  - Pan, S.M.\nAU  - Pan, C.H.\nAU  - Chen, C.J.\nAU  - Chen, Y.M.\nTI  - Atypical work schedules are associated with poor sleep quality and mental health in Taiwan female nurses\nT2  - Int Arch Occup Environ Health\nPY  - 2012\nDA  - 2012\nVL  - 85\nSP  - 877\nEP  - 84\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Han, Y.\nAU  - Yuan, Y.\nAU  - Zhang, L.\nAU  - Fu, Y.\nTI  - Sleep disorder status of nurses in general hospitals and its influencing factors\nT2  - Psychiatr Danub\nPY  - 2016\nDA  - 2016\nVL  - 28\nSP  - 176\nEP  - 83\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Faraut, B.\nAU  - Touchette, E.\nAU  - Gamble, H.\nAU  - Royant-Parola, S.\nAU  - Safar, M.E.\nAU  - Varsat, B.\nTI  - Short sleep duration and increased risk of hypertension: a primary care medicine investigation\nT2  - J HYPERTENS\nPY  - 2012\nDA  - 2012\nVL  - 30\nSP  - 1354\nEP  - 63\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jansson, M.\nAU  - Linton, S.J.\nTI  - The role of anxiety and depression in the development of insomnia: Cross-sectional and prospective analyses\nT2  - PSYCHOL HEALTH\nPY  - 2006\nDA  - 2006\nVL  - 21\nSP  - 383\nEP  - 97\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rodriiguez-Munoz, A.\nAU  - Moreno-Jimenez, B.\nAU  - Fernandez-Mendoza, J.J.\nAU  - Olavarrieta-Bernardino, S.\nAU  - de la Cruz-Troca, J.J.\nAU  - Vela-Bueno, A.\nTI  - Insomnia and quality of sleep among primary care physicians: a gender perspective\nT2  - Rev Neurol\nPY  - 2008\nDA  - 2008\nVL  - 47\nSP  - 119\nEP  - 23\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, B.\nAU  - Wing, Y.K.\nTI  - Sex differences in insomnia: a meta-analysis\nT2  - SLEEP\nPY  - 2006\nDA  - 2006\nVL  - 29\nSP  - 85\nEP  - 93\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Barsky, A.J.\nAU  - Peekna, H.M.\nAU  - Borus, J.F.\nTI  - Somatic symptom reporting in women and men\nT2  - J GEN INTERN MED\nPY  - 2001\nDA  - 2001\nVL  - 16\nSP  - 266\nEP  - 75\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In conclusion, our study showed that over half of the fMW had sleep disturbances in the outbreak of COVID-19. fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW. And female fMW showed severer sleep disturbances compared to male fMW. Further interventions should be administrated for fMW, aiming to maintain their healthy condition and guarantee their professional performance in the battle with COVID-19. However, further prospective randomized controlled trials are warranted to validate our results."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Demographic characteristics of subjects"
+            },
+            {
+                "id": "2",
+                "caption": "Comparisons of PSQI, AIS, Anxiety and Depression scores between fMW and non-fMW"
+            },
+            {
+                "id": "3",
+                "caption": "Comparison of the prevalence of sleep disturbances between fMW and non-fMW"
+            },
+            {
+                "id": "4",
+                "caption": "Comparisons of PSQI, AIS, Anxiety and Depression scores between male and female fMW"
+            },
+            {
+                "id": "5",
+                "caption": "The factors influencing sleep quality from the perspective of medical workers"
+            },
+            {
+                "id": "6",
+                "caption": "Partial correlation analysis of PSQI, AIS, Anxiety, and Depression"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.06.20031278.full.pdf_z9b_e0b4_jjwrn5f4.xlsx"
+    },
+    "sections": {
+        "methods": [
+            "The medical workers from multiple hospitals in Hubei Province, China, were volunteered to participate in this cross-sectional study. An online questionnaire, including Pittsburgh Sleep Quality Index (PSQI), Athens Insomnia Scale (AIS) and Visual Analogue Scale (VAS), was used to evaluate sleep disturbances and mental status of fMW. Sleep disturbances were defined as PSQI>7 points or/and AIS>6<br/><br/>points. We compared the scores of PSQI, AIS, anxiety and depression VAS and prevalence of sleep disturbances between fMW and non-fMW. Subgroup analysis for different gender in fMW was conducted.",
+            "Study Samples This cross-sectional study included medical workers from multiple hospitals in Hubei<br/><br/>Province, China. The institutional ethics review boards of the participating hospitals approved this study. The study protocol was conducted in accordance with the Declaration of Helsinki. Informed consent was waived due to the cross-sectional nature of this study. All of subjects included in the study were anonymous and volunteered to participate. Subjects were divided into two groups according to the existence of directive exposure to COVID-19 patients, including fMW and non-fMW. The inclusion criteria for this study were as follows: (a) age older than 18 years old; (b) medical workers from hospitals in Hubei Province, including local medical workers and supportive medical workers from other Chinese regions; (c) involved in the battle with COVID-19 directly or/and indirectly, and (d) volunteered to participate in the survey. The exclusion criteria were listed as follows: (a) has been diagnosed as sleep disturbances; (b) sleep quality was affected by physical or psychological diseases; (c) sleep quality was affected by negative personal events; (d) within the treatment course for mental or/and physical diseases and (d) incomplete data of the online questionnaires."
+        ],
+        "results": [
+            "A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled. Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001). In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI > 7 points (70.3% vs 54.6%, P<0.001).",
+            "Subject Demographic Characteristics<br/><br/>A total of 1306 medical workers (801 in fMW group and 505 in non-fMW group; Figure 1) with age of (33.1\u00b18.4) years old were enrolled in the study, comprising 256 males (19.6%) and 1050 females (80.4%). There were 161 males (20.1%) and 640 females (79.9%) in fMW group. The detailed demographic characteristics are presented in Table 1. There were 68.4% of subjects married and 11.9% of subjects had high education level (Master\u2019s degree and Doctor\u2019s degree). Only 11.3% of subjects had advanced-rank in hospitals, who may present with more affluent working experience and positive attitudes toward COVID-19. In demographic characteristics, significant differences of age ([32.4\u00b17.7] vs [34.1\u00b19.3], P=0.016), education level (P=0.002) and rank (P=0.001) were found between the fMW group and non-fMW group."
+        ],
+        "conclusion": [
+            "fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW. Female fMW were more vulnerable to having sleep disturbances than male fMW.<br/><br/>Key words: Sleep disturbances; COVID-19; Pressure; Medical Workers",
+            "In conclusion, our study showed that over half of the fMW had sleep disturbances in the outbreak of COVID-19. fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW. And female fMW showed severer sleep disturbances compared to male fMW. Further interventions should be administrated for fMW, aiming to maintain their healthy condition and guarantee their professional performance in the battle with COVID-19. However, further prospective randomized controlled trials are warranted to validate our results."
+        ],
+        "introduction": [
+            "As a group of enveloped RNA viruses, coronaviruses are distributed broadly among humans and other animals, and can cause multi-organs infections, mainly invade the respiratory system [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. In December 2019, several pneumonia patients with cryptogenic etiology were reported in Wuhan, Hubei Province, China [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. A novel coronavirus was identified as the arch-criminal and has established efficient human-to-human transmission. It subsequently was named as coronavirus disease 2019 (COVID-19) by the World Health Organization (WHO) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. With the unknown mighty infectivity, COVID-19 has spread rapidly, confirmed cases were reported in Wuhan, Hubei Province, other regions in China, and other countries successively [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>-<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. The grim situation has attracted worldwide attention. More than 75000 cases were confirmed with COVID-19 in China, including 3000 doctors and nurses at least [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>], who have become the high-risk susceptible population to the disease. In addition to the risk of being infected with COVID-19, frontline medical workers (fMW) may have sleep disturbances, anxiety and depression when facing with a magnitude outburst public health incident."
+        ],
+        "discussion": [
+            "The outbreak of COVID-19 in China has aroused extensive public concern in recent months [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Many countries are also experiencing the invasion of COVID-19, such as Japan, South Korea, Italy, Iran, etc [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]. The rapid spread of the disease and inadequate early realization toward COVID-19 challenged the healthy institutions in many countries. In addition, the mortality of COVID-19 was 2.3%, and medical workers accounted for 3.8% in COVID-19 patients, as reported by the latest epidemiological study [<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. Previous studies have indicated that in ordinary times, medical workers were vulnerable to sleep disturbances, which may be higher than the general population [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. Therefore, we hypothesized that fMW under the outbreak of COVID-19 in China may be more susceptible to sleep disturbances. To the best of our knowledge, this is the first study to evaluate the sleep disturbances of fMW under the outbreak of COVID-19."
+        ],
+        "disclosures": [
+            "None."
+        ],
+        "acknowledgements": [
+            "The authors thank all participants in the survey for providing evidence for guaranteeing sleep health of frontline medical workers. And we express the high respect to frontline medical workers in battle with COVID-19."
+        ],
+        "ethical_compliance": [
+            "The institutional ethics review boards of the participating hospitals approved this study",
+            "The study protocol was conducted in accordance with the Declaration of Helsinki"
+        ],
+        "limitations": [
+            "Our study has several limitations that should be noted. First, this is a cross-sectional study. All subjects were volunteered to participate in our survey, so there may be subject selection bias. Second, there are other occupations who directly expose to COVID-19 patients and experience sleep disturbances potentially, such as police and social workers, but our study merely included the medical workers. Third, our questionnaires did not contain sufficient items, such as the potential risk factors for sleep disturbances of fMW, which can provide more information and be used to explore the underlying mechanisms. Forth, our study lacked of interventions and follow-ups, which may show the following changes of sleep disturbances for fMW ."
+        ]
+    },
+    "structured_content": {
+        "Methods": [
+            "The medical workers from multiple hospitals in Hubei Province, China, were volunteered to participate in this cross-sectional study. An online questionnaire, including Pittsburgh Sleep Quality Index (PSQI), Athens Insomnia Scale (AIS) and Visual Analogue Scale (VAS), was used to evaluate sleep disturbances and mental status of fMW. Sleep disturbances were defined as PSQI>7 points or/and AIS>6",
+            "points. We compared the scores of PSQI, AIS, anxiety and depression VAS and prevalence of sleep disturbances between fMW and non-fMW. Subgroup analysis for different gender in fMW was conducted."
+        ],
+        "Results": [
+            "A total of 1306 medical workers (801 in fMW group and 505 in non-fMW group; Figure 1) with age of (33.1\u00b18.4) years old were enrolled in the study, comprising 256 males (19.6%) and 1050 females (80.4%). There were 161 males (20.1%) and 640 females (79.9%) in fMW group. The detailed demographic characteristics are presented in Table 1. There were 68.4% of subjects married and 11.9% of subjects had high education level (Master\u2019s degree and Doctor\u2019s degree). Only 11.3% of subjects had advanced-rank in hospitals, who may present with more affluent working experience and positive attitudes toward COVID-19. In demographic characteristics, significant differences of age ([32.4\u00b17.7] vs [34.1\u00b19.3], P=0.016), education level (P=0.002) and rank (P=0.001) were found between the fMW group and non-fMW group.",
+            "The detailed comparisons of scores between two groups are presented in Table 2. The scores of PSQI, AIS, anxiety and depression VAS in fMW group were 9.3\u00b13.8, 6.9 \u00b14.3, 4.9\u00b12.7, 4.1\u00b12.5, respectively, and in non-fMW group, they were 7.5\u00b13.7, 5.3\u00b13.8,4.3\u00b12.6, 3.6\u00b12.4, respectively. Compared to non-fMW group, the fMW group had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001; Figure 2A), AIS (6.9 vs 5.3, P<0.001; Figure 2B), anxiety (4.9 vs 4.3, P<0.001; Figure 2C) and depression (4.1 vs 3.6, P=0.001; Figure 2D).",
+            "The detailed comparisons of prevalence of sleep disturbances between two groups are presented in Table 3. There were 538/801 (67.2%) fMW and 241/505 (47.7%) non-fMW with PSQI > 7 points which indicated over 60% of fMW had poor sleep quality. Meanwhile, AIS > 6 points was observed in 414/801(51.7%) fMW and 180/505 (35.6%) non-fMW, which indicated that over half of fMW had insomnia. Furthermore, compared to non-fMW group, the fMW group had significantly higher prevalence of sleep disturbances, according to PSQI > 7 points (67.2% vs 47.7%, P< 0.001; Figure 3) and AIS > 6 points (51.7% vs 35.6%, P<0.001; Figure 3).",
+            "In the subgroups analysis, detailed comparisons of scores between male and famale fMW are presented in Table 4. The scores of PSQI, AIS, anxiety and depression VAS in male fMW group were 8.6\u00b14.3, 6.4\u00b14.7, 4.6\u00b12.7, 3.8\u00b12.4, respectively, and in female fMW group, they were 9.4\u00b13.8, 7.0\u00b14.2, 5.0\u00b12.7, 4.2\u00b12.5, respectively. Compared to the male fMW group, female fMW group had significantly higher score of PSQI (9.4 vs 8.6, P=0.022; Figure 4A), while no significant differences were found in AIS (7.0 vs 6.4, P=0.108), anxiety (5.0 vs 4.6, P=0.137) and depression (4.2 vs 3.8, P=0.196). In addition, 70.3% of female fMW and 54.7% of male fMW had PSQI >7 points. And compared to male fMW group, the female fMW group had significantly higher prevalence of sleep disturbances, according to PSQI > 7 points (70.3% vs 54.7%, P<0.001; Figure 4B). In summary, the female fMW in battle with COVID-19 are more vulnerable to suffering from sleep disturbances according to the PSQI score.",
+            "The Factors Influencing Sleep Quality The detailed comparisons of factors influencing sleep quality between fMW group and non-fMW group are presented in Table 5. Severity of COVID-19 was the leading factor (38.1%) influencing sleep quality from the perspective of medical workers, followed by frequent work shifts (31.8%), work stress (31.2%) and insufficient sleep time (18.0%). Compared to non-fMW, more fMW believed work stress (38.1% vs 20.4%, P<0.001; Figure 5), frequent work shifts (40.0% vs 18.8%, P<0.001; Figure 5) and severity of COVID-19 (42.2% vs 31.5%, P<0.001; Figure 5) may influence their sleep quality.",
+            "Partial Correlation Analysis of PSQI, AIS, Anxiety and Depression Partial correlation analysis was conducted to explore association between PSQI, AIS, anxiety and depression by adjusting for gender (Table 6). PSQI was significantly correlated with anxiety (rp=0.442, P<0.001) and depression (rp=0.329, P<0.001). And significant association was observed between AIS and anxiety(rp=0.526, P<0.001), and depression (rp=0.415, P<0.001)."
+        ],
+        "Introduction": [
+            "As a group of enveloped RNA viruses, coronaviruses are distributed broadly among humans and other animals, and can cause multi-organs infections, mainly invade the respiratory system [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. In December 2019, several pneumonia patients with cryptogenic etiology were reported in Wuhan, Hubei Province, China [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. A novel coronavirus was identified as the arch-criminal and has established efficient human-to-human transmission. It subsequently was named as coronavirus disease 2019 (COVID-19) by the World Health Organization (WHO) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. With the unknown mighty infectivity, COVID-19 has spread rapidly, confirmed cases were reported in Wuhan, Hubei Province, other regions in China, and other countries successively [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>-<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. The grim situation has attracted worldwide attention. More than 75000 cases were confirmed with COVID-19 in China, including 3000 doctors and nurses at least [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>], who have become the high-risk susceptible population to the disease. In addition to the risk of being infected with COVID-19, frontline medical workers (fMW) may have sleep disturbances, anxiety and depression when facing with a magnitude outburst public health incident.",
+            "Sleep disturbances are defined as the mental or/and physical status that trigger a series of adverse symptoms owing to abnormal amount of sleep or/and poor sleep quality, and remain to be one of the global health concerns [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Sleep disturbances have a prevalence ranging from 8.3% to 45% [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. By comparison, it was reported that 30%-49% of medical workers had complaints of sleep problems, which may be higher than the general population [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. Medical workers are generally under great pressure, irregular work time and frequent day-night work shifts, which may lead to the increasing of sleep disturbances [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. In a meta-analysis from China, Qiu et al [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. found that 39.2% of Chinese medical workers suffered from sleep disturbances, and the prevalence was much higher than the general population. The outbreak of COVID-19 in China remains to be a serious challenge for fMW. There is no doubt that they are not only under high risk of being infected with the disease but also high mental stress, which may lead to acute sleep disturbances or mental disorders. However, as far as we know, few studies have concentrated on the sleep disturbances of fMW under the emergent events of public health, especially in the outbreak of COVID-19.",
+            "Therefore, we conducted a cross-sectional study to evaluate the sleep disturbances of fMW in the battle with COVID-19, and made a comparison with non-fMW."
+        ],
+        "Subjects and Methods": [
+            "Province, China. The institutional ethics review boards of the participating hospitals approved this study. The study protocol was conducted in accordance with the Declaration of Helsinki. Informed consent was waived due to the cross-sectional nature of this study. All of subjects included in the study were anonymous and volunteered to participate. Subjects were divided into two groups according to the existence of directive exposure to COVID-19 patients, including fMW and non-fMW. The inclusion criteria for this study were as follows: (a) age older than 18 years old; (b) medical workers from hospitals in Hubei Province, including local medical workers and supportive medical workers from other Chinese regions; (c) involved in the battle with COVID-19 directly or/and indirectly, and (d) volunteered to participate in the survey. The exclusion criteria were listed as follows: (a) has been diagnosed as sleep disturbances; (b) sleep quality was affected by physical or psychological diseases; (c) sleep quality was affected by negative personal events; (d) within the treatment course for mental or/and physical diseases and (d) incomplete data of the online questionnaires.",
+            "The online survey was conducted in February 2020 among medical workers from multiple hospitals in Hubei Province, with the contents encompassing basic information (age, gender, marriage, education level and etc.), epidemiological investigation, details of work, Pittsburgh Sleep Quality Index (PSQI), Athens",
+            "Insomnia Scale (AIS) ,Visual Analogue Scale (VAS), the factors influencing sleep quality, ect. PSQI is a self-reported questionnaire which assesses subjective sleep quality within one month. It comprises of seven components, including sleep quality, sleep latency, sleep duration, sleep efficiency, sleep disturbances, sleep medication and daytime function. A subject with total score > 7 points is defined as poor sleep quality [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>, <a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. In general, the higher the PSQI, the worse the sleep quality [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. AIS is a brief instrument to assess the severity of insomnia. It contains eight items with each item rated from 0 to 3 points. The sum of eight items\u2019 scores is regarded as total score. A subject with total score > 6 points is diagnosed as insomnia. In general, the higher the AIS, the severer the insomnia [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]. A 10-items VAS measure was used to investigate emotional status of subjects, including work pressure, attention, anxiety, energy, confidence, irritability, stress, impatience, fear and depression. The VAS was conducted online as a horizontal graphic slider, which was divided into ten segments from 1 (weakest) to 10 (strongest). The VAS scores could represent the degree of their feelings. Higher scores indicate stronger feeling of each emotional state. We used scores of VAS to compare anxiety and depression between fMW and non-fMW.",
+            "The sleep disturbances were mainly confirmed by the scores of PSQI and AIS, with PSQI > 7 points or/and AIS > 6 points. The main study objective was to compare the scores of PSQI, AIS, anxiety and depression between fMW group and non-fMW group. In addition, we compared the prevalence of sleep disturbances in two groups, aiming to reflect the overall level of sleep quality for medical workers in different work environments.",
+            "Categorical variables were described as frequencies and percentages, and continuous variables were described as the mean \u00b1 SDs. Statistical analyses were performed using SPSS 23.0 for Windows (IBM, Somers, NY). The demographic characteristics were compared by non-parametric test for continuous variables and by Pearson\u2019s chi-square test for categorical variables between two groups. The scores of PSQI, AIS, anxiety and depression VAS were compared by ANOVA. The variables with significant differences between two groups in demographic characteristics were described as covariants and joined in the process of ANOVA. In the subgroup analysis of fMW, the scores of PSQI, AIS, anxiety and depression VAS were compared by ANOVA between male and female fMW. A P-value <0.05 was considered to indicate statistical significance in all statistical analyses. Partial correlation analysis was conducted to investigate the correlation between PSQI, AIS, anxiety and depression."
+        ],
+        "Discussion": [
+            "The outbreak of COVID-19 in China has aroused extensive public concern in recent months [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Many countries are also experiencing the invasion of COVID-19, such as Japan, South Korea, Italy, Iran, etc [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]. The rapid spread of the disease and inadequate early realization toward COVID-19 challenged the healthy institutions in many countries. In addition, the mortality of COVID-19 was 2.3%, and medical workers accounted for 3.8% in COVID-19 patients, as reported by the latest epidemiological study [<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. Previous studies have indicated that in ordinary times, medical workers were vulnerable to sleep disturbances, which may be higher than the general population [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. Therefore, we hypothesized that fMW under the outbreak of COVID-19 in China may be more susceptible to sleep disturbances. To the best of our knowledge, this is the first study to evaluate the sleep disturbances of fMW under the outbreak of COVID-19.",
+            "Although sleep disturbances distribute widely among the population, the prevalence varies among different occupations and work pressure [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>, <a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>, <a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. A USA National Health Interview Survey showed short sleep duration disturbed 29.9% of civilian employed workers, including 40.5% of enterprise managers, 37.1% of transportation/warehousing and 34.8% of manufacturing, and indicated that sleep disturbances have increased over the past decades [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>]. Similarly, a nationwide study in China demonstrated that civil servants had the shortest sleep duration (Mean 7.85 hours) and the worst sleep equality, who may experience with more work pressure [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Meanwhile, 64.1% of police officers had PSQI > 5 points, and were regarded as sleep disturbances as reported. Their sleep disturbances were related to posttraumatic stress and general psychopathology [<a class=\"ref-link\" id=\"c29\" href=\"#r29\">29</a>]. A survey from Japan indicated that high occupational stress was significantly associated with insomnia, especially the presence of high efforts but low reward [<a class=\"ref-link\" id=\"c30\" href=\"#r30\">30</a>]. And exposure to long working hours and irregular work shifts may attribute to stress, fatigue and chronic diseases [<a class=\"ref-link\" id=\"c31\" href=\"#r31\">31</a>], which may influence the quantity and quality of sleep [<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>, <a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>]. Schiller et al.[<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>] compared sleep quality and sleep duration between full worktime subjects and 75% reduced worktime subjects, and found the latter presented with improved sleep quality and sleep duration. The reduction of worktime may be useful for alleviating sleep disturbances.",
+            "Accompanied with long working hours, frequent day-night shifts, excessive workload and high stress, medical workers were vulnerable to sleep disturbances or sleep deprivation all over the world [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>, <a class=\"ref-link\" id=\"c34\" href=\"#r34\">34</a>]. Pikovsky et al [<a class=\"ref-link\" id=\"c35\" href=\"#r35\">35</a>]. found that 63% and 49% of medical residents presented with low professional performance and judgement levels after the night shifts, respectively. The long working hours could potentially increase the fatigue of medical workers and be linked to the occurrence of medical errors [<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>]. Meanwhile, sleep deprivation could influence the medical workers in making quick and appropriate decisions for patients, which was fatal to patient care [<a class=\"ref-link\" id=\"c37\" href=\"#r37\">37</a>]. Deng et al [<a class=\"ref-link\" id=\"c38\" href=\"#r38\">38</a>]. reported that job difficulty, doctor-patient relationship, psychosomatic state, environment or events, promotion or competition and total pressure scores were related to sleep disturbances for community nurses. Tucker et al [<a class=\"ref-link\" id=\"c39\" href=\"#r39\">39</a>]. found moderate work time control for medical workers could improve the sleep quantity that frequent nigh work resulted in, and work time control had association with fewer sleep disturbances. Therefore, it is rational to believe that increased work stress plays a critical role in sleep disturbances of medical workers. With the booming of Chinese economy in past decades, patient visits per physician in China increased by 135% and inpatient admissions per physician rose by 184%. Workload has increased dramatically for Chinese physicians, which exerted a trend that potentially threatened physicians\u2019 health and quality of patient care [<a class=\"ref-link\" id=\"c34\" href=\"#r34\">34</a>]. The prevalence of sleep disturbances in Chinese medical workers was 12.9%-78% [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c40\" href=\"#r40\">40</a>, <a class=\"ref-link\" id=\"c41\" href=\"#r41\">41</a>]. The present study showed that over 50% of fMW under the outbreak of COVID-19 had sleep disturbances. Although it is even higher than that of in normal times, the prevalence is still compatible to previous results from China. The high prevalence of sleep disturbances of fMW in battle with COVID-19 should be put much emphasize. It was reported that sleep characteristics may exert critical effects on immune functions, which may increase the inflammatory response to sleep deprivation and exert negative feedback to aggravate the short sleep duration and increase the risk of cardiovascular, respiratory and metabolic disorders [<a class=\"ref-link\" id=\"c42\" href=\"#r42\">42</a>]. Thus, sleep disturbances would further increase the possibility of fMW being infected with COVID-19 owing to affected immune system. Therefore, it is imperative to concern on sleep disturbances of fMW, aiming to maintain their healthy condition and guarantee their professional performance in the battle with COVID-19.",
+            "Our study showed that the overall scores of PSQI and AIS for fWM were significantly higher than that of non-fWM, which indicated fMW had worse sleep compared to non-fMW. There were 67.2% and 51.7% of fMW with PSQI > 7 points and AIS > 6 points, respectively, which were regarded as having sleep disturbances. Our study also demonstrated that the fWM group had significantly higher prevalence of sleep disturbances than that of non-fWM. In addition, the fWM group had significantly longer sleep latency, shorter sleep duration, lower sleep efficiency and worse daytime function according to the scores of components of PSQI. Change of work environment may underpin the severer sleep disturbances of fMW. With the direct contact with COVID-19 patients, fMW are inclined to emerge anxiety and worries of being infected. The rapid spread of COVID-19 boomed the medical demands, aggravated the shortage of medical resources and increased work stress for fMW, especially for those with continuous working and frequent day-night shifts. And in terms of factors influencing sleep quality, severity of COVID-19, frequent work shifts and work stress were the leading factors according to our study. We further found anxiety, depression were significantly correlated with PSQI and AIS in fMV, which indicated that anxious and depressive symptoms may influence sleep quality of fMW. The result was consistent with previous studies demonstrating that anxiety and depression played a key role in the development of sleep disturbances [<a class=\"ref-link\" id=\"c43\" href=\"#r43\">43</a>]. This would provide evidence for further targeted interventions to improve sleep disturbances in fMW. However, with the import of supportive fMW from other regions of China, the work duration of fMW may be decreased. By comparison, the non-fMW worked in a relatively mild environment and had less possibility of being infected, thus having less sleep disturbances. Our study also found that scores of PSQI among female fMW were significantly higher than that of male fMW although other scores showed no significant difference, which indicated that female fMW had worse sleep quality than male fMW in emergent events of public health. It is in accordance with previous studies [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c44\" href=\"#r44\">44</a>]. In a meta-analysis, Zhang et al [<a class=\"ref-link\" id=\"c45\" href=\"#r45\">45</a>]. calculated a hazard ratio of 1.41 for female versus male toward insomnia. In general, females had inferior symptom bearing and more bodily vigilance, and the social culture encouraged females to express the indisposition more [<a class=\"ref-link\" id=\"c46\" href=\"#r46\">46</a>], which potentially exaggerated the severity and prevalence of sleep disturbances. In addition, females tended to report more sleep problems even if having a similar degree of morning awakening compared to males [<a class=\"ref-link\" id=\"c45\" href=\"#r45\">45</a>].",
+            "Our study has several limitations that should be noted. First, this is a cross-sectional study. All subjects were volunteered to participate in our survey, so there may be subject selection bias. Second, there are other occupations who directly expose to COVID-19 patients and experience sleep disturbances potentially, such as police and social workers, but our study merely included the medical workers. Third, our questionnaires did not contain sufficient items, such as the potential risk factors for sleep disturbances of fMW, which can provide more information and be used to explore the underlying mechanisms. Forth, our study lacked of interventions and follow-ups, which may show the following changes of sleep disturbances for fMW ."
+        ],
+        "Conclusion": [
+            "In conclusion, our study showed that over half of the fMW had sleep disturbances in the outbreak of COVID-19. fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW. And female fMW showed severer sleep disturbances compared to male fMW. Further interventions should be administrated for fMW, aiming to maintain their healthy condition and guarantee their professional performance in the battle with COVID-19. However, further prospective randomized controlled trials are warranted to validate our results.",
+            "Conflict of interest: None."
+        ],
+        "Acknowledgements": [
+            "The authors thank all participants in the survey for providing evidence for guaranteeing sleep health of frontline medical workers. And we express the high respect to frontline medical workers in battle with COVID-19."
+        ],
+        "References:": [
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Weiss SR, Leibowitz JL. Coronavirus pathogenesis. ADV VIRUS RES. 2011;81: 85-164.",
+            "[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] Su S, Wong G, Shi W, Liu J, Lai A, Zhou J, et al Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses. TRENDS MICROBIOL. 2016;24: 490-502.",
+            "[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Cavanagh D. Coronavirus avian infectious bronchitis virus. VET RES. 2007;38: 281-97.",
+            "[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] Lu H, Stratton CW, Tang YW. Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J MED VIROL. 2020;92:401-2.",
+            "[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Chan JF, Yuan S, Kok K, To KK, Chu H, Yang J, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet. 2020;395:514-23.",
+            "[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. 2020;395: 497-506.",
+            "[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] World Health Organization. Coronavirus disease (COVID-19) Outbreak https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] WHO. Novel coronavirus \u2013 Thailand (ex-China). Jan 14, 2020.",
+            "http://www.who.int/csr/don/14-january-2020-novel-coronavirusthailand/en/ (accessed Jan 19, 2020). [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] WHO. Novel coronavirus \u2013 Republic of Korea (ex-China). Jan 21, 2020. http://www.who.int/csr/don/21-january-2020-novelcoronavirus-republic-of-korea-ex-china/en/ (accessed Jan 23, 2020). [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] WHO. Novel coronavirus \u2013 Japan (ex-China). Jan 17, 2020. http://www.who.int/csr/don/17-january-2020-novel-coronavirusjapan-ex-china/en/ (accessed Jan 19, 2020). [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Team NCPE. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi. 2020145-51. [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] Kalmbach DA, Arnedt JT, Song PX, Guille C, Sen S. Sleep Disturbance and Short Sleep as Risk Factors for Depression and Perceived Medical Errors in First-Year Residents. SLEEP. 2017;40:. [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] Qiu D, Yu Y, Li RQ, Li YL, Xiao SY. Prevalence of sleep disturbances in Chinese healthcare professionals: a systematic review and meta-analysis. SLEEP MED. 2019. [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] Adams RJ, Appleton SL, Taylor AW, Gill TK, Lang C, McEvoy RD, et al Sleep health of Australian adults in 2016: results of the 2016 Sleep Health Foundation national survey. Sleep Health. 2017;3:35-42.",
+            "[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Soldatos CR, Allaert FA, Ohta T, Dikeos DG. How do individuals sleep around the world? Results from a single-day survey in ten countries. SLEEP MED. 2005;6:5-13.",
+            "[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Furihata R, Uchiyama M, Takahashi S, Suzuki M, Konno C, Osaki K, et al The association between sleep problems and perceived health status: a Japanese nationwide general population survey. SLEEP MED. 2012;13:831-7.",
+            "[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Huth JJ, Eliades A, Handwork C, Englehart JL, Messenger J. Shift worked, quality of sleep, and elevated body mass index in pediatric nurses. J PEDIATR NURS. 2013;28:e64-73.",
+            "[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Silva-Costa A, Griep RH, Rotenberg L. Associations of a Short Sleep Duration, Insufficient Sleep, and Insomnia with Self-Rated Health among Nurses. PLOS ONE. 2015;10:e126844.",
+            "[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] Kaneita Y, Ohida T. Association of current work and sleep situations with excessive daytime sleepiness and medical incidents among Japanese physicians. J CLIN SLEEP MED. 2011;7:512-22.",
+            "[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>] Sveinsdottir H. Self-assessed quality of sleep, occupational health, working environment, illness experience and job satisfaction of female nurses working different combination of shifts. SCAND J CARING SCI. 2006;20:229-37.",
+            "[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>] Sun W, Yu Y, Yuan J, Li C, Liu T, Lin D, et al Sleep duration and quality among different occupations--China national study. PLOS ONE. 2015;10:e117700.",
+            "[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] Tsai PS, Wang SY, Wang MY, Su CT, Yang TT, Huang CJ, et al Psychometric evaluation of the Chinese version of the Pittsburgh Sleep Quality Index (CPSQI) in primary insomnia and control subjects. QUAL LIFE RES. 2005;14:1943-52.",
+            "[<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>] Buysse DJ, Reynolds CR, Monk TH, Berman SR, Kupfer DJ. The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research. Psychiatry Res. 1989;28:193-213.",
+            "[<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>] Soldatos CR, Dikeos DG, Paparrigopoulos TJ. Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria. J PSYCHOSOM RES. 2000;48:555-60.",
+            "[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>] Coronavirus disease 2019 (COVID-19) Situation",
+            "Report-43.https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situatio n-reports.",
+            "[<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>] Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020.",
+            "[<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>] Luckhaupt SE, Tak S, Calvert GM. The prevalence of short sleep duration by industry and occupation in the National Health Interview Survey. SLEEP. 2010;33: 149-59.",
+            "[<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>] Schiller H, Lekander M, Rajaleid K, Hellgren C, Akerstedt T, Barck-Holst P, et al The impact of reduced worktime on sleep and perceived stress - a group randomized intervention study using diary data. Scand J Work Environ Health. 2017;43:109-16.",
+            "[<a class=\"ref-link\" id=\"c29\" href=\"#r29\">29</a>] Neylan TC, Metzler TJ, Best SR, Weiss DS, Fagan JA, Liberman A, et al Critical incident exposure and sleep quality in police officers. PSYCHOSOM MED. 2002;64: 345-52.",
+            "[<a class=\"ref-link\" id=\"c30\" href=\"#r30\">30</a>] Utsugi M, Saijo Y, Yoshioka E, Horikawa N, Sato T, Gong Y, et al Relationships of occupational stress to insomnia and short sleep in Japanese workers. SLEEP. 2005;28:728-35.",
+            "[<a class=\"ref-link\" id=\"c31\" href=\"#r31\">31</a>] Johnson JV, Lipscomb J. Long working hours, occupational health and the changing nature of work organization. AM J IND MED. 2006;49:921-9.",
+            "[<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>] Basner M, Fomberstein KM, Razavi FM, Banks S, William JH, Rosa RR, et al American time use survey: sleep time and its relationship to waking activities. SLEEP. 2007;30:1085-95.",
+            "[<a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>] Ota A, Masue T, Yasuda N, Tsutsumi A, Mino Y, Ohara H. Association between psychosocial job characteristics and insomnia: an investigation using two relevant job stress models--the demand-control-support (DCS) model and the effort-reward imbalance (ERI) model. SLEEP MED. 2005;6:353-8.",
+            "[<a class=\"ref-link\" id=\"c34\" href=\"#r34\">34</a>] Fu Y, Schwebel DC, Hu G. Physicians' Workloads in China: 1998(-)2016. Int J Environ Res Public Health. 2018;15:.",
+            "[<a class=\"ref-link\" id=\"c35\" href=\"#r35\">35</a>] Pikovsky O, Oron M, Shiyovich A, Perry ZH, Nesher L. The impact of sleep deprivation on sleepiness, risk factors and professional performance in medical residents. ISR MED ASSOC J. 2013;15:739-44.",
+            "[<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>] Gordon JA, Alexander EK, Lockley SW, Flynn-Evans E, Venkatan SK, Landrigan CP, et al Does simulator-based clinical performance correlate with actual hospital behavior? The effect of extended work hours on patient care provided by medical interns. ACAD MED. 2010;85:1583-8.",
+            "[<a class=\"ref-link\" id=\"c37\" href=\"#r37\">37</a>] Parker RS, Parker P. The impact of sleep deprivation in military surgical teams: a systematic review. J R Army Med Corps. 2017;163:158-63.",
+            "[<a class=\"ref-link\" id=\"c38\" href=\"#r38\">38</a>] Deng X, Liu X, Fang R. Evaluation of the correlation between job stress and sleep quality in community nurses. Medicine (Baltimore). 2020;99:e18822.",
+            "[<a class=\"ref-link\" id=\"c39\" href=\"#r39\">39</a>] Tucker P, Bejerot E, Kecklund G, Aronsson G, Akerstedt T. The impact of work time control on physicians' sleep and well-being. APPL ERGON. 2015;47:109-16.",
+            "[<a class=\"ref-link\" id=\"c40\" href=\"#r40\">40</a>] Lin PC, Chen CH, Pan SM, Pan CH, Chen CJ, Chen YM, et al Atypical work schedules are associated with poor sleep quality and mental health in Taiwan female nurses. Int Arch Occup Environ Health. 2012;85:877-84.",
+            "[<a class=\"ref-link\" id=\"c41\" href=\"#r41\">41</a>] Han Y, Yuan Y, Zhang L, Fu Y. Sleep disorder status of nurses in general hospitals and its influencing factors. Psychiatr Danub. 2016;28:176-83.",
+            "[<a class=\"ref-link\" id=\"c42\" href=\"#r42\">42</a>] Faraut B, Touchette E, Gamble H, Royant-Parola S, Safar ME, Varsat B, et al Short sleep duration and increased risk of hypertension: a primary care medicine investigation. J HYPERTENS. 2012;30:1354-63.",
+            "[<a class=\"ref-link\" id=\"c43\" href=\"#r43\">43</a>] Jansson M, Linton SJ. The role of anxiety and depression in the development of insomnia: Cross-sectional and prospective analyses. PSYCHOL HEALTH. 2006;21: 383-97.",
+            "[<a class=\"ref-link\" id=\"c44\" href=\"#r44\">44</a>] Rodriiguez-Munoz A, Moreno-Jimenez B, Fernandez-Mendoza JJ, Olavarrieta-Bernardino S, de la Cruz-Troca JJ, Vela-Bueno A. Insomnia and quality of sleep among primary care physicians: a gender perspective. Rev Neurol. 2008;47: 119-23.",
+            "[<a class=\"ref-link\" id=\"c45\" href=\"#r45\">45</a>] Zhang B, Wing YK. Sex differences in insomnia: a meta-analysis. SLEEP. 2006;29:85-93.",
+            "[<a class=\"ref-link\" id=\"c46\" href=\"#r46\">46</a>] Barsky AJ, Peekna HM, Borus JF. Somatic symptom reporting in women and men. J GEN INTERN MED. 2001;16:266-75.",
+            "Table 1. Demographic characteristics of subjects.",
+            "Variables",
+            "Overall(n=1306) fMW(n=801) Non-fMW(n=505) P-value",
+            "Age(y)",
+            "33.1\u00b18.4",
+            "32.4\u00b17.7",
+            "34.1\u00b19.3",
+            "Gender",
+            "Male",
+            "256(19.6%)",
+            "161(20.1%) 95(18.8%)",
+            "Female",
+            "1050(80.4%)",
+            "640(79.9%) 410(81.2%)",
+            "Marriage",
+            "Married",
+            "893(68.4%)",
+            "534(66.7%) 359(71.1%)",
+            "Unmarried",
+            "413(31.6%)",
+            "267(33.3%) 146(28.9%)",
+            "Education level",
+            "Junior College",
+            "230(17.6%)",
+            "164(20.5%) 66(13.1%)",
+            "Bachelor",
+            "908(69.5%)",
+            "548(68.4%) 360(71.3%)",
+            "Master",
+            "126(9.6%)",
+            "64(8.0%)",
+            "62(12.3%)",
+            "Doctor",
+            "30(2.3%)",
+            "17(2.1%)",
+            "13(2.6%)",
+            "Others",
+            "12(0.9%)",
+            "8(1.0%)",
+            "4(0.8%)",
+            "Rank",
+            "Primary-rank",
+            "658(50.4%)",
+            "425(53.1%) 233(46.1%)",
+            "Intermediate-rank",
+            "439(33.6%)",
+            "274(34.2%) 165(32.7%)",
+            "Advanced-rank",
+            "148(11.3%)",
+            "73(9.1%)",
+            "75(14.9%)",
+            "61(4.7%)",
+            "29(3.6%)",
+            "32(6.3%)",
+            "fMW= frontline medical workers, Non-fMW= Non-frontline medical workers.",
+            "Table 2. Comparisons of PSQI, AIS, Anxiety and Depression scores between fMW and non-fMW.",
+            "Overall(n=1306)",
+            "fMW(n=801) Non-fMW(n=505) P-value",
+            "PSQI",
+            "8.6\u00b13.9",
+            "9.3\u00b13.8",
+            "7.5\u00b13.7",
+            "<0.001",
+            "AIS",
+            "6.3\u00b14.2",
+            "6.9\u00b14.3",
+            "5.3\u00b13.8",
+            "Anxiety",
+            "4.7\u00b12.7",
+            "4.9\u00b12.7",
+            "4.3\u00b12.6",
+            "Depression 3.9\u00b12.4",
+            "4.1\u00b12.5",
+            "3.6\u00b12.4",
+            "fMW= frontline medical workers, Non-fMW= Non-frontline medical workers, PSQI= Pittsburgh sleep quality index, AIS= Athens insomnia scale.",
+            "Table 3. Comparison of the prevalence of sleep disturbances between fMW and non-fMW.",
+            "Overall (n=1306) fMW (n=801) Non-fMW (n=505) P-value",
+            "PSQI>7",
+            "779(59.6%)",
+            "538(67.2%)",
+            "241(47.7%)",
+            "AIS>6",
+            "594(45.5%)",
+            "414(51.7%)",
+            "180(35.6%)",
+            "Table 4. Comparisons of PSQI, AIS, Anxiety and Depression scores between male and female fMW.",
+            "Variables Overall(n=801) Male fMW(n=161) Female fMW(n=640) P-value",
+            "8.6\u00b14.3",
+            "9.4\u00b13.8",
+            "6.4\u00b14.7",
+            "7.0\u00b14.2",
+            "Anxiety 4.9\u00b12.7",
+            "4.6\u00b12.7",
+            "5.0\u00b12.7",
+            "Dpression 4.1\u00b12.5",
+            "3.8\u00b12.4",
+            "4.2\u00b12.5",
+            "fMW = frontline medical workers, PSQI= Pittsburgh sleep quality index, AIS= Athens insomnia scale.",
+            "Table 5. The factors influencing sleep quality from the perspective of medical workers.",
+            "Insufficient sleep time 235(18.0%)",
+            "168(21.0%) 67(13.3%)",
+            "Work stress",
+            "408(31.2%)",
+            "305(38.1%) 103(20.4%)",
+            "Frequent work shifts 415(31.8%)",
+            "320(40.0%) 95(18.8%)",
+            "Severity of COVID-19 497(38.1%)",
+            "338(42.2%) 159(31.5%)",
+            "Table 6. Partial correlation analysis of PSQI, AIS, Anxiety, and Depression.",
+            "Depression rp P-value 0.442 <0.001 rp P-value 0.329 <0.001",
+            "0.526 <0.001",
+            "0.415 <0.001",
+            "Partial correlation analysis was adjusted for gender. rp= correlation coefficient, PSQI= Pittsburgh sleep quality index, AIS= Athens insomnia scale.",
+            "Figure.1 The flowchart shows the subject selection fMW= frontline medical workers, non-fMW= non-frontline medical workers.",
+            "Figure.2. The boxplots for PSQI, AIS, Anxiety and Depression VAS scores of fMW and non-fMW. (A) The fMW had significantly higher scores of PSQI (9.3 vs 7.5, P< 0.001) than non-fMW; (B) The fMW had significantly higher scores of AIS (6.9 vs 5.3, P< 0.001) than non-fMW; (C) The fMW had significantly higher scores of anxiety (4.9 vs 4.3, P< 0.001) than non-fMW; (D)The fMW had significantly higher scores of depression (4.1 vs 3.6, P= 0.001) than non-fMW. PSQI= Pittsburgh sleep quality index, AIS= Athens insomnia scale, VAS= Visual Analogue Scale, fMW= frontline medical workers, Non-fMW= Non-frontline medical workers.",
+            "Figure.3. The prevalence of sleep disturbances of fMW and non-fMW. The fMW group had significantly higher prevalence of sleep disturbances than non-fMW, according to PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P < 0.001). PSQI= Pittsburgh sleep quality index, AIS= Athens insomnia scale, fMW= frontline medical workers, Non-fMW= Non-frontline medical workers.",
+            "Figure.4. The score of PSQI and prevalence of sleep disturbances of male fMW and female fMW. (A). The female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) than male fMW. (B). The prevalence of sleep disturbances was significantly higher in female fMW than male fMW(70.3% vs 54.7%, P<0.001) according to PSQI>7. PSQI= Pittsburgh sleep quality index.",
+            "Figure.5. The percentage of factors influencing sleep quality of fMW and non-fMW. fMW= frontline medical workers, Non-fMW= Non-frontline medical workers."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "subjects",
+            "number": 1306,
+            "context": "Subgroup analysis for different gender in fMW was conducted. <mark class=\"stats\">Results A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled</mark>. Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001)"
+        },
+        {
+            "participant": "subjects",
+            "number": 1306,
+            "context": "In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001). <mark class=\"stats\">Results A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled</mark>. Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001)"
+        },
+        {
+            "participant": "cases",
+            "number": 75000,
+            "context": "The grim situation has attracted worldwide attention. <mark class=\"stats\">More than 75000 cases were confirmed with COVID-19 in China, including 3000 doctors and nurses at least [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>], who have become the high-risk susceptible population to the disease</mark>. In addition to the risk of being infected with COVID-19, frontline medical workers (fMW) may have sleep disturbances, anxiety and depression when facing with a magnitude outburst public health incident"
+        },
+        {
+            "participant": "medical workers",
+            "number": 1306,
+            "context": "Subject Demographic Characteristics. <mark class=\"stats\">A total of 1306 medical workers (801 in fMW group and 505 in non-fMW group; Figure 1) with age of (33.1\u00b18.4) years old were enrolled in the study, comprising 256 males (19.6%) and 1050 females (80.4%)</mark>. There were 161 males (20.1%) and 640 females (79.9%) in fMW group"
+        },
+        {
+            "participant": "males",
+            "number": 161,
+            "context": "A total of 1306 medical workers (801 in fMW group and 505 in non-fMW group; Figure 1) with age of (33.1\u00b18.4) years old were enrolled in the study, comprising 256 males (19.6%) and 1050 females (80.4%). <mark class=\"stats\">There were 161 males (20.1%) and 640 females (79.9%) in fMW group</mark>. The detailed demographic characteristics are presented in Table 1"
+        }
+    ],
+    "statistics": [
+        {
+            "p_value": "P=0.001",
+            "context": "Results A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled. <mark class=\"stats\">Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001)</mark>. In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001)"
+        },
+        {
+            "p_value": "P=0.022",
+            "context": "Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001). <mark class=\"stats\">In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001)</mark>. Conclusion fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The demographic characteristics were compared by non-parametric test for continuous variables and by Pearson\u2019s chi-square test for categorical variables between two groups</mark>",
+                "tests": [
+                    {
+                        "test": "Pearson\u2019s chi-square test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The scores of PSQI, AIS, anxiety and depression VAS were compared by ANOVA</mark>",
+                "tests": [
+                    {
+                        "test": "ANOVA"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">In the subgroup analysis of fMW, the scores of PSQI, AIS, anxiety and depression VAS were compared by ANOVA between male and female fMW</mark>",
+                "tests": [
+                    {
+                        "test": "ANOVA"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P=0.001",
+            "context": "Subgroup analysis for different gender in fMW was conducted. <mark class=\"stats\">Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001)</mark>. In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001)"
+        },
+        {
+            "p_value": "P=0.022",
+            "context": "Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001). <mark class=\"stats\">In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001)</mark>. Results A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "Results A total of 1306 subjects (including 801 fMW and 505 non-fMW) were enrolled. <mark class=\"stats\">Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001)</mark>. In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI > 7 points (70.3% vs 54.6%, P<0.001)"
+        },
+        {
+            "p_value": "P=0.022",
+            "context": "Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001). <mark class=\"stats\">In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI > 7 points (70.3% vs 54.6%, P<0.001)</mark>. Conclusion fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW"
+        },
+        {
+            "p_value": "P=0.016",
+            "context": "Only 11.3% of subjects had advanced-rank in hospitals, who may present with more affluent working experience and positive attitudes toward COVID-19. <mark class=\"stats\">In demographic characteristics, significant differences of age ([32.4\u00b17.7] vs [34.1\u00b19.3], P=0.016), education level (P=0.002) and rank (P=0.001) were found between the fMW group and non-fMW group</mark>. Comparison of Scores and Prevalence"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "The scores of PSQI, AIS, anxiety and depression VAS in fMW group were 9.3\u00b13.8, 6.9 \u00b14.3, 4.9\u00b12.7, 4.1\u00b12.5, respectively, and in non-fMW group, they were 7.5\u00b13.7, 5.3\u00b13.8,4.3\u00b12.6, 3.6\u00b12.4, respectively. <mark class=\"stats\">Compared to non-fMW group, the fMW group had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001; Figure 2A), AIS</mark>. (6.9 vs 5.3, P<0.001; Figure 2B), anxiety (4.9 vs 4.3, P<0.001; Figure 2C) and depression (4.1 vs 3.6, P=0.001; Figure 2D)"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "Compared to non-fMW group, the fMW group had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001; Figure 2A), AIS. <mark class=\"stats\">(6.9 vs 5.3, P<0.001; Figure 2B), anxiety (4.9 vs 4.3, P<0.001; Figure 2C) and depression (4.1 vs 3.6, P=0.001; Figure 2D)</mark>. The detailed comparisons of prevalence of sleep disturbances between two groups are presented in Table 3"
+        },
+        {
+            "p_value": "P< 0.001",
+            "context": "Meanwhile, AIS > 6 points was observed in 414/801(51.7%) fMW and 180/505 (35.6%) non-fMW, which indicated that over half of fMW had insomnia. <mark class=\"stats\">Furthermore, compared to non-fMW group, the fMW group had significantly higher prevalence of sleep disturbances, according to PSQI > 7 points (67.2% vs 47.7%, P< 0.001; Figure 3) and AIS > 6 points (51.7% vs 35.6%, P<0.001; Figure 3)</mark>. In the subgroups analysis, detailed comparisons of scores between male and famale fMW are presented in Table 4"
+        },
+        {
+            "p_value": "P=0.022",
+            "context": "The scores of PSQI, AIS, anxiety and depression VAS in male fMW group were 8.6\u00b14.3, 6.4\u00b14.7, 4.6\u00b12.7, 3.8\u00b12.4, respectively, and in female fMW group, they were 9.4\u00b13.8, 7.0\u00b14.2, 5.0\u00b12.7, 4.2\u00b12.5, respectively. <mark class=\"stats\">Compared to the male fMW group, female fMW group had significantly higher score of PSQI (9.4 vs 8.6, P=0.022; Figure 4A), while no significant differences were found in AIS (7.0 vs 6.4, P=0.108), anxiety (5.0 vs 4.6, P=0.137) and depression (4.2 vs 3.8, P=0.196)</mark>. In addition, 70.3% of female fMW and 54.7% of male fMW had PSQI >7 points"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "In addition, 70.3% of female fMW and 54.7% of male fMW had PSQI >7 points. <mark class=\"stats\">And compared to male fMW group, the female fMW group had significantly higher prevalence of sleep disturbances, according to PSQI > 7 points (70.3% vs 54.7%, P<0.001; Figure 4B)</mark>. In summary, the female fMW in battle with COVID-19 are more vulnerable to suffering from sleep disturbances according to the PSQI score"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "Severity of COVID-19 was the leading factor (38.1%) influencing sleep quality from the perspective of medical workers, followed by frequent work shifts (31.8%), work stress (31.2%) and insufficient sleep time (18.0%). <mark class=\"stats\">Compared to non-fMW, more fMW believed work stress (38.1% vs 20.4%, P<0.001; Figure 5), frequent work shifts (40.0% vs 18.8%, P<0.001; Figure 5) and severity of COVID-19 (42.2% vs 31.5%, P<0.001; Figure 5) may influence their sleep quality</mark>. Partial Correlation Analysis of PSQI, AIS, Anxiety and Depression Partial correlation analysis was conducted to explore association between PSQI, AIS, anxiety and depression by adjusting for gender (Table 6)"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "Partial Correlation Analysis of PSQI, AIS, Anxiety and Depression Partial correlation analysis was conducted to explore association between PSQI, AIS, anxiety and depression by adjusting for gender (Table 6). <mark class=\"stats\">PSQI was significantly correlated with anxiety (rp=0.442, P<0.001) and depression (rp=0.329, P<0.001)</mark>. And significant association was observed between AIS and anxiety(rp=0.526, P<0.001), and depression (rp=0.415, P<0.001)"
+        },
+        {
+            "p_value": "P<0.001",
+            "context": "PSQI was significantly correlated with anxiety (rp=0.442, P<0.001) and depression (rp=0.329, P<0.001). <mark class=\"stats\">And significant association was observed between AIS and anxiety(rp=0.526, P<0.001), and depression (rp=0.415, P<0.001)</mark>. Discussion The outbreak of COVID-19 in China has aroused extensive public concern in recent months [4]"
+        }
+    ],
+    "keywords": [
+        "athens insomnia",
+        "hubei province",
+        "female fmw",
+        "Coronavirus pathogenesis",
+        "high prevalence",
+        "frontline medical workers",
+        "Athens Insomnia Scale",
+        "COVID-19",
+        "novel coronavirus",
+        "sleep disturbance",
+        "Pressure",
+        "Geriatric disease",
+        "etiology",
+        "insomnia",
+        "Visual Analogue Scale",
+        "World Health Organization",
+        "bad sleep quality",
+        "non fmw",
+        "general population",
+        "pathogenesis",
+        "pneumonia",
+        "Medical Workers",
+        "Pittsburgh Sleep Quality Index",
+        "coronavirus disease"
+    ],
+    "keyword_relevance": {
+        "frontline medical workers": 0.3847980998,
+        "Pittsburgh Sleep Quality Index": 0.1401425178,
+        "sleep disturbance": 0.135391924,
+        "Athens Insomnia Scale": 0.1045130641,
+        "COVID-19": 0.0902612827,
+        "insomnia": 0.0403800475,
+        "Visual Analogue Scale": 0.0380047506,
+        "World Health Organization": 0.0142517815,
+        "novel coronavirus": 0.0095011876,
+        "general population": 0.0095011876,
+        "pneumonia": 0.0071258907,
+        "coronavirus disease": 0.0071258907,
+        "etiology": 0.0047505938,
+        "Medical Workers": 0.0047505938,
+        "Coronavirus pathogenesis": 0.0023752969,
+        "high prevalence": 0.0023752969,
+        "Pressure": 0.0023752969,
+        "pathogenesis": 0.0023752969,
+        "athens insomnia": 0.0,
+        "hubei province": 0.0,
+        "female fmw": 0.0,
+        "Geriatric disease": 0.0,
+        "bad sleep quality": 0.0,
+        "non fmw": 0.0
+    },
+    "species": [
+        "Coronavirus pathogenesis"
+    ],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> As a group of enveloped RNA viruses, coronaviruses are distributed broadly among humans and other animals, and can cause multi-organs infections, mainly invade the respiratory system [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+        "A novel coronavirus was identified as the arch-criminal and has established efficient human-to-human transmission.",
+        "It subsequently was named as coronavirus disease 2019 (COVID-19) by the World Health Organization (WHO) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+        "With the unknown mighty infectivity, COVID-19 has spread rapidly, confirmed cases were reported in Wuhan, Hubei Province, other regions in China, and other countries successively [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>-<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+        "In addition to the risk of being infected with COVID-19, frontline medical workers may have sleep disturbances, anxiety and depression when facing with a magnitude outburst public health incident",
+        "<h2 style=\"display: inline\">Methods:</h2> The medical workers from multiple hospitals in Hubei Province, China, were volunteered to participate in this cross-sectional study.",
+        "Study Samples This cross-sectional study included medical workers from multiple hospitals in Hubei.",
+        "The inclusion criteria for this study were as follows: (a) age older than 18 years old; (b) medical workers from hospitals in Hubei Province, including local medical workers and supportive medical workers from other Chinese regions; (c) involved in the battle with COVID-19 directly or/and indirectly, and (d) volunteered to participate in the survey.",
+        "The exclusion criteria were listed as follows: (a) has been diagnosed as sleep disturbances; (b) sleep quality was affected by physical or psychological diseases; (c) sleep quality was affected by negative personal events; (d) within the treatment course for mental or/and physical diseases and (d) incomplete data of the online questionnaires",
+        "<h2 style=\"display: inline\">Results:</h2> A total of 1306 subjects were enrolled. Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001).",
+        "In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI > 7 points (70.3% vs 54.6%, P<0.001).",
+        "A total of 1306 medical workers (801 in fMW group and 505 in non-fMW group; Figure 1) with age of (33.1\u00b18.4) years old were enrolled in the study, comprising 256 males (19.6%) and 1050 females (80.4%).",
+        "Significant differences of age ([32.4\u00b17.7] vs [34.1\u00b19.3], P=0.016), education level (P=0.002) and rank (P=0.001) were found between the fMW group and non-fMW group",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The outbreak of COVID-19 in China has aroused extensive public concern in recent months [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+        "The authors hypothesized that fMW under the outbreak of COVID-19 in China may be more susceptible to sleep disturbances.",
+        "To the best of the knowledge, this is the first study to evaluate the sleep disturbances of fMW under the outbreak of COVID-19.fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW.",
+        "The authors' study showed that over half of the fMW had sleep disturbances in the outbreak of COVID-19.",
+        "Further prospective randomized controlled trials are warranted to validate the results"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "As a group of enveloped RNA viruses, coronaviruses are distributed broadly among humans and other animals, and can cause multi-organs infections, mainly invade the respiratory system [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "A novel coronavirus was identified as the arch-criminal and has established efficient human-to-human transmission.",
+            "It subsequently was named as coronavirus disease 2019 (COVID-19) by the World Health Organization (WHO) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+            "With the unknown mighty infectivity, COVID-19 has spread rapidly, confirmed cases were reported in Wuhan, Hubei Province, other regions in China, and other countries successively [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>-<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+            "In addition to the risk of being infected with COVID-19, frontline medical workers may have sleep disturbances, anxiety and depression when facing with a magnitude outburst public health incident"
+        ],
+        "Methods": [
+            "The medical workers from multiple hospitals in Hubei Province, China, were volunteered to participate in this cross-sectional study.",
+            "Study Samples This cross-sectional study included medical workers from multiple hospitals in Hubei.",
+            "The inclusion criteria for this study were as follows: (a) age older than 18 years old; (b) medical workers from hospitals in Hubei Province, including local medical workers and supportive medical workers from other Chinese regions; (c) involved in the battle with COVID-19 directly or/and indirectly, and (d) volunteered to participate in the survey.",
+            "The exclusion criteria were listed as follows: (a) has been diagnosed as sleep disturbances; (b) sleep quality was affected by physical or psychological diseases; (c) sleep quality was affected by negative personal events; (d) within the treatment course for mental or/and physical diseases and (d) incomplete data of the online questionnaires"
+        ],
+        "Results": [
+            "A total of 1306 subjects were enrolled. Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001).",
+            "In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI > 7 points (70.3% vs 54.6%, P<0.001).",
+            "A total of 1306 medical workers (801 in fMW group and 505 in non-fMW group; Figure 1) with age of (33.1\u00b18.4) years old were enrolled in the study, comprising 256 males (19.6%) and 1050 females (80.4%).",
+            "Significant differences of age ([32.4\u00b17.7] vs [34.1\u00b19.3], P=0.016), education level (P=0.002) and rank (P=0.001) were found between the fMW group and non-fMW group"
+        ],
+        "Conclusion": [
+            "The outbreak of COVID-19 in China has aroused extensive public concern in recent months [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "The authors hypothesized that fMW under the outbreak of COVID-19 in China may be more susceptible to sleep disturbances.",
+            "To the best of the knowledge, this is the first study to evaluate the sleep disturbances of fMW under the outbreak of COVID-19.fMW had higher prevalence of sleep disturbances and worse sleep quality than non-fMW.",
+            "The authors' study showed that over half of the fMW had sleep disturbances in the outbreak of COVID-19.",
+            "Further prospective randomized controlled trials are warranted to validate the results"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Weiss_2011_a",
+            "entry": "[1] Weiss SR, Leibowitz JL. Coronavirus pathogenesis. ADV VIRUS RES. 2011;81: 85-164.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Weiss%2C%20SR%2C%20Leibowitz%20J.L.%20Coronavirus%20pathogenesis.%20ADV%20VIRUS%20RES%202011"
+        },
+        {
+            "id": "2",
+            "alt_id": "Su_et+al_2016_a",
+            "entry": "[2] Su S, Wong G, Shi W, Liu J, Lai A, Zhou J, et al. Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses. TRENDS MICROBIOL. 2016;24: 490-502.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Su%2C%20S.%20Wong%2C%20G.%20Shi%2C%20W.%20Liu%2C%20J.%20Genetic%20Recombination%2C%20and%20Pathogenesis%20of%20Coronaviruses%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Su%2C%20S.%20Wong%2C%20G.%20Shi%2C%20W.%20Liu%2C%20J.%20Genetic%20Recombination%2C%20and%20Pathogenesis%20of%20Coronaviruses%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Su%2C%20S.%20Wong%2C%20G.%20Shi%2C%20W.%20Liu%2C%20J.%20Genetic%20Recombination%2C%20and%20Pathogenesis%20of%20Coronaviruses%202016"
+        },
+        {
+            "id": "3",
+            "alt_id": "Cavanagh_2007_a",
+            "entry": "[3] Cavanagh D. Coronavirus avian infectious bronchitis virus. VET RES. 2007;38: 281-97.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cavanagh%2C%20D.%20Coronavirus%20avian%20infectious%20bronchitis%20virus%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cavanagh%2C%20D.%20Coronavirus%20avian%20infectious%20bronchitis%20virus%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cavanagh%2C%20D.%20Coronavirus%20avian%20infectious%20bronchitis%20virus%202007"
+        },
+        {
+            "id": "4",
+            "alt_id": "Lu_et+al_0000_a",
+            "entry": "[4] Lu H, Stratton CW, Tang YW. Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J MED VIROL. 2020;92:401-2.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lu%2C%20H.%20Stratton%2C%20C.W.%20Tang%2C%20Y.W.%20Outbreak%20of%20pneumonia%20of%20unknown%20etiology%20in%20Wuhan%2C%20China%3A%20The%20mystery%20and%20the%20miracle",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lu%2C%20H.%20Stratton%2C%20C.W.%20Tang%2C%20Y.W.%20Outbreak%20of%20pneumonia%20of%20unknown%20etiology%20in%20Wuhan%2C%20China%3A%20The%20mystery%20and%20the%20miracle",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lu%2C%20H.%20Stratton%2C%20C.W.%20Tang%2C%20Y.W.%20Outbreak%20of%20pneumonia%20of%20unknown%20etiology%20in%20Wuhan%2C%20China%3A%20The%20mystery%20and%20the%20miracle"
+        },
+        {
+            "id": "5",
+            "alt_id": "Chan_et+al_2019_a",
+            "entry": "[5] Chan JF, Yuan S, Kok K, To KK, Chu H, Yang J, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet. 2020;395:514-23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JF%20Yuan%20S%20Kok%20K%20To%20KK%20Chu%20H%20Yang%20J%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20The%20Lancet%20202039551423",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%20JF%20Yuan%20S%20Kok%20K%20To%20KK%20Chu%20H%20Yang%20J%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20The%20Lancet%20202039551423",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%20JF%20Yuan%20S%20Kok%20K%20To%20KK%20Chu%20H%20Yang%20J%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20The%20Lancet%20202039551423"
+        },
+        {
+            "id": "6",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "[6] Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. 2020;395: 497-506.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20Wang%20Y%20Li%20X%20Ren%20L%20Zhao%20J%20Hu%20Y%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020395%20497506",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20Wang%20Y%20Li%20X%20Ren%20L%20Zhao%20J%20Hu%20Y%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020395%20497506",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20Wang%20Y%20Li%20X%20Ren%20L%20Zhao%20J%20Hu%20Y%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020395%20497506"
+        },
+        {
+            "id": "7",
+            "alt_id": "Organization_0000_a",
+            "entry": "[7] World Health Organization. Coronavirus disease (COVID-19) Outbreak https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+        },
+        {
+            "id": "8",
+            "alt_id": "W_Jan_a",
+            "entry": "[8] WHO. Novel coronavirus \u2013 Thailand (ex-China). Jan 14, 2020. http://www.who.int/csr/don/14-january-2020-novel-coronavirusthailand/en/ (accessed Jan 19, 2020).",
+            "url": "http://www.who.int/csr/don/14-january-2020-novel-coronavirusthailand/en/"
+        },
+        {
+            "id": "9",
+            "alt_id": "W_Jan_b",
+            "entry": "[9] WHO. Novel coronavirus \u2013 Republic of Korea (ex-China). Jan 21, 2020. http://www.who.int/csr/don/21-january-2020-novelcoronavirus-republic-of-korea-ex-china/en/ (accessed Jan 23, 2020).",
+            "url": "http://www.who.int/csr/don/21-january-2020-novelcoronavirus-republic-of-korea-ex-china/en/"
+        },
+        {
+            "id": "10",
+            "alt_id": "W_Jan_c",
+            "entry": "[10] WHO. Novel coronavirus \u2013 Japan (ex-China). Jan 17, 2020. http://www.who.int/csr/don/17-january-2020-novel-coronavirusjapan-ex-china/en/ (accessed Jan 19, 2020).",
+            "url": "http://www.who.int/csr/don/17-january-2020-novel-coronavirusjapan-ex-china/en/"
+        },
+        {
+            "id": "11",
+            "alt_id": "Team_2019_a",
+            "entry": "[11] Team NCPE. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua Liu Xing Bing Xue Za Zhi. 2020145-51.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Team%20NCPE%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19%20in%20China%20Zhonghua%20Liu%20Xing%20Bing%20Xue%20Za%20Zhi%20202014551"
+        },
+        {
+            "id": "12",
+            "alt_id": "Kalmbach_et+al_2017_a",
+            "entry": "[12] Kalmbach DA, Arnedt JT, Song PX, Guille C, Sen S. Sleep Disturbance and Short Sleep as Risk Factors for Depression and Perceived Medical Errors in First-Year Residents. SLEEP. 2017;40:.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kalmbach%2C%20D.A.%20Arnedt%2C%20J.T.%20Song%2C%20P.X.%20Guille%2C%20C.%20Sleep%20Disturbance%20and%20Short%20Sleep%20as%20Risk%20Factors%20for%20Depression%20and%20Perceived%20Medical%20Errors%20in%20First-Year%20Residents%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kalmbach%2C%20D.A.%20Arnedt%2C%20J.T.%20Song%2C%20P.X.%20Guille%2C%20C.%20Sleep%20Disturbance%20and%20Short%20Sleep%20as%20Risk%20Factors%20for%20Depression%20and%20Perceived%20Medical%20Errors%20in%20First-Year%20Residents%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kalmbach%2C%20D.A.%20Arnedt%2C%20J.T.%20Song%2C%20P.X.%20Guille%2C%20C.%20Sleep%20Disturbance%20and%20Short%20Sleep%20as%20Risk%20Factors%20for%20Depression%20and%20Perceived%20Medical%20Errors%20in%20First-Year%20Residents%202017"
+        },
+        {
+            "id": "13",
+            "alt_id": "Qiu_et+al_2019_a",
+            "entry": "[13] Qiu D, Yu Y, Li RQ, Li YL, Xiao SY. Prevalence of sleep disturbances in Chinese healthcare professionals: a systematic review and meta-analysis. SLEEP MED. 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Qiu%2C%20D.%20Yu%2C%20Y.%20Li%2C%20R.Q.%20Li%2C%20Y.L.%20Prevalence%20of%20sleep%20disturbances%20in%20Chinese%20healthcare%20professionals%3A%20a%20systematic%20review%20and%20meta-analysis%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Qiu%2C%20D.%20Yu%2C%20Y.%20Li%2C%20R.Q.%20Li%2C%20Y.L.%20Prevalence%20of%20sleep%20disturbances%20in%20Chinese%20healthcare%20professionals%3A%20a%20systematic%20review%20and%20meta-analysis%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Qiu%2C%20D.%20Yu%2C%20Y.%20Li%2C%20R.Q.%20Li%2C%20Y.L.%20Prevalence%20of%20sleep%20disturbances%20in%20Chinese%20healthcare%20professionals%3A%20a%20systematic%20review%20and%20meta-analysis%202019"
+        },
+        {
+            "id": "14",
+            "alt_id": "Adams_et+al_2017_a",
+            "entry": "[14] Adams RJ, Appleton SL, Taylor AW, Gill TK, Lang C, McEvoy RD, et al. Sleep health of Australian adults in 2016: results of the 2016 Sleep Health Foundation national survey. Sleep Health. 2017;3:35-42.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Adams%20RJ%20Appleton%20SL%20Taylor%20AW%20Gill%20TK%20Lang%20C%20McEvoy%20RD%20et%20al%20Sleep%20health%20of%20Australian%20adults%20in%202016%20results%20of%20the%202016%20Sleep%20Health%20Foundation%20national%20survey%20Sleep%20Health%20201733542",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Adams%20RJ%20Appleton%20SL%20Taylor%20AW%20Gill%20TK%20Lang%20C%20McEvoy%20RD%20et%20al%20Sleep%20health%20of%20Australian%20adults%20in%202016%20results%20of%20the%202016%20Sleep%20Health%20Foundation%20national%20survey%20Sleep%20Health%20201733542",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Adams%20RJ%20Appleton%20SL%20Taylor%20AW%20Gill%20TK%20Lang%20C%20McEvoy%20RD%20et%20al%20Sleep%20health%20of%20Australian%20adults%20in%202016%20results%20of%20the%202016%20Sleep%20Health%20Foundation%20national%20survey%20Sleep%20Health%20201733542"
+        },
+        {
+            "id": "15",
+            "alt_id": "Soldatos_et+al_2005_a",
+            "entry": "[15] Soldatos CR, Allaert FA, Ohta T, Dikeos DG. How do individuals sleep around the world? Results from a single-day survey in ten countries. SLEEP MED. 2005;6:5-13.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Soldatos%2C%20C.R.%20Allaert%2C%20F.A.%20Ohta%2C%20T.%20Dikeos%2C%20D.G.%20How%20do%20individuals%20sleep%20around%20the%20world%3F%20Results%20from%20a%20single-day%20survey%20in%20ten%20countries%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Soldatos%2C%20C.R.%20Allaert%2C%20F.A.%20Ohta%2C%20T.%20Dikeos%2C%20D.G.%20How%20do%20individuals%20sleep%20around%20the%20world%3F%20Results%20from%20a%20single-day%20survey%20in%20ten%20countries%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Soldatos%2C%20C.R.%20Allaert%2C%20F.A.%20Ohta%2C%20T.%20Dikeos%2C%20D.G.%20How%20do%20individuals%20sleep%20around%20the%20world%3F%20Results%20from%20a%20single-day%20survey%20in%20ten%20countries%202005"
+        },
+        {
+            "id": "16",
+            "alt_id": "Furihata_et+al_2012_a",
+            "entry": "[16] Furihata R, Uchiyama M, Takahashi S, Suzuki M, Konno C, Osaki K, et al. The association between sleep problems and perceived health status: a Japanese nationwide general population survey. SLEEP MED. 2012;13:831-7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Furihata%2C%20R.%20Uchiyama%2C%20M.%20Takahashi%2C%20S.%20Suzuki%2C%20M.%20The%20association%20between%20sleep%20problems%20and%20perceived%20health%20status%3A%20a%20Japanese%20nationwide%20general%20population%20survey%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Furihata%2C%20R.%20Uchiyama%2C%20M.%20Takahashi%2C%20S.%20Suzuki%2C%20M.%20The%20association%20between%20sleep%20problems%20and%20perceived%20health%20status%3A%20a%20Japanese%20nationwide%20general%20population%20survey%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Furihata%2C%20R.%20Uchiyama%2C%20M.%20Takahashi%2C%20S.%20Suzuki%2C%20M.%20The%20association%20between%20sleep%20problems%20and%20perceived%20health%20status%3A%20a%20Japanese%20nationwide%20general%20population%20survey%202012"
+        },
+        {
+            "id": "17",
+            "alt_id": "Huth_et+al_2013_a",
+            "entry": "[17] Huth JJ, Eliades A, Handwork C, Englehart JL, Messenger J. Shift worked, quality of sleep, and elevated body mass index in pediatric nurses. J PEDIATR NURS. 2013;28:e64-73.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huth%2C%20J.J.%20Eliades%2C%20A.%20Handwork%2C%20C.%20Englehart%2C%20J.L.%20Shift%20worked%2C%20quality%20of%20sleep%2C%20and%20elevated%20body%20mass%20index%20in%20pediatric%20nurses%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huth%2C%20J.J.%20Eliades%2C%20A.%20Handwork%2C%20C.%20Englehart%2C%20J.L.%20Shift%20worked%2C%20quality%20of%20sleep%2C%20and%20elevated%20body%20mass%20index%20in%20pediatric%20nurses%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huth%2C%20J.J.%20Eliades%2C%20A.%20Handwork%2C%20C.%20Englehart%2C%20J.L.%20Shift%20worked%2C%20quality%20of%20sleep%2C%20and%20elevated%20body%20mass%20index%20in%20pediatric%20nurses%202013"
+        },
+        {
+            "id": "18",
+            "alt_id": "Silva-Costa_et+al_2015_a",
+            "entry": "[18] Silva-Costa A, Griep RH, Rotenberg L. Associations of a Short Sleep Duration, Insufficient Sleep, and Insomnia with Self-Rated Health among Nurses. PLOS ONE. 2015;10:e126844.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Silva-Costa%2C%20A.%20Griep%2C%20R.H.%20Rotenberg%2C%20L.%20Associations%20of%20a%20Short%20Sleep%20Duration%2C%20Insufficient%20Sleep%2C%20and%20Insomnia%20with%20Self-Rated%20Health%20among%20Nurses%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Silva-Costa%2C%20A.%20Griep%2C%20R.H.%20Rotenberg%2C%20L.%20Associations%20of%20a%20Short%20Sleep%20Duration%2C%20Insufficient%20Sleep%2C%20and%20Insomnia%20with%20Self-Rated%20Health%20among%20Nurses%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Silva-Costa%2C%20A.%20Griep%2C%20R.H.%20Rotenberg%2C%20L.%20Associations%20of%20a%20Short%20Sleep%20Duration%2C%20Insufficient%20Sleep%2C%20and%20Insomnia%20with%20Self-Rated%20Health%20among%20Nurses%202015"
+        },
+        {
+            "id": "19",
+            "alt_id": "Kaneita_2011_a",
+            "entry": "[19] Kaneita Y, Ohida T. Association of current work and sleep situations with excessive daytime sleepiness and medical incidents among Japanese physicians. J CLIN SLEEP MED. 2011;7:512-22.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kaneita%2C%20Y.%20Ohida%2C%20T.%20Association%20of%20current%20work%20and%20sleep%20situations%20with%20excessive%20daytime%20sleepiness%20and%20medical%20incidents%20among%20Japanese%20physicians%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kaneita%2C%20Y.%20Ohida%2C%20T.%20Association%20of%20current%20work%20and%20sleep%20situations%20with%20excessive%20daytime%20sleepiness%20and%20medical%20incidents%20among%20Japanese%20physicians%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kaneita%2C%20Y.%20Ohida%2C%20T.%20Association%20of%20current%20work%20and%20sleep%20situations%20with%20excessive%20daytime%20sleepiness%20and%20medical%20incidents%20among%20Japanese%20physicians%202011"
+        },
+        {
+            "id": "20",
+            "alt_id": "Sveinsdottir_2006_a",
+            "entry": "[20] Sveinsdottir H. Self-assessed quality of sleep, occupational health, working environment, illness experience and job satisfaction of female nurses working different combination of shifts. SCAND J CARING SCI. 2006;20:229-37.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sveinsdottir%2C%20H.%20Self-assessed%20quality%20of%20sleep%2C%20occupational%20health%2C%20working%20environment%2C%20illness%20experience%20and%20job%20satisfaction%20of%20female%20nurses%20working%20different%20combination%20of%20shifts%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sveinsdottir%2C%20H.%20Self-assessed%20quality%20of%20sleep%2C%20occupational%20health%2C%20working%20environment%2C%20illness%20experience%20and%20job%20satisfaction%20of%20female%20nurses%20working%20different%20combination%20of%20shifts%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sveinsdottir%2C%20H.%20Self-assessed%20quality%20of%20sleep%2C%20occupational%20health%2C%20working%20environment%2C%20illness%20experience%20and%20job%20satisfaction%20of%20female%20nurses%20working%20different%20combination%20of%20shifts%202006"
+        },
+        {
+            "id": "21",
+            "alt_id": "Sun_et+al_2015_a",
+            "entry": "[21] Sun W, Yu Y, Yuan J, Li C, Liu T, Lin D, et al. Sleep duration and quality among different occupations--China national study. PLOS ONE. 2015;10:e117700.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sun%2C%20W.%20Yu%2C%20Y.%20Yuan%2C%20J.%20Li%2C%20C.%20Sleep%20duration%20and%20quality%20among%20different%20occupations--China%20national%20study%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sun%2C%20W.%20Yu%2C%20Y.%20Yuan%2C%20J.%20Li%2C%20C.%20Sleep%20duration%20and%20quality%20among%20different%20occupations--China%20national%20study%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sun%2C%20W.%20Yu%2C%20Y.%20Yuan%2C%20J.%20Li%2C%20C.%20Sleep%20duration%20and%20quality%20among%20different%20occupations--China%20national%20study%202015"
+        },
+        {
+            "id": "22",
+            "alt_id": "Tsai_et+al_2005_a",
+            "entry": "[22] Tsai PS, Wang SY, Wang MY, Su CT, Yang TT, Huang CJ, et al. Psychometric evaluation of the Chinese version of the Pittsburgh Sleep Quality Index (CPSQI) in primary insomnia and control subjects. QUAL LIFE RES. 2005;14:1943-52.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tsai%2C%20P.S.%20Wang%2C%20S.Y.%20Wang%2C%20M.Y.%20Su%2C%20C.T.%20Psychometric%20evaluation%20of%20the%20Chinese%20version%20of%20the%20Pittsburgh%20Sleep%20Quality%20Index%20%28CPSQI%29%20in%20primary%20insomnia%20and%20control%20subjects%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tsai%2C%20P.S.%20Wang%2C%20S.Y.%20Wang%2C%20M.Y.%20Su%2C%20C.T.%20Psychometric%20evaluation%20of%20the%20Chinese%20version%20of%20the%20Pittsburgh%20Sleep%20Quality%20Index%20%28CPSQI%29%20in%20primary%20insomnia%20and%20control%20subjects%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tsai%2C%20P.S.%20Wang%2C%20S.Y.%20Wang%2C%20M.Y.%20Su%2C%20C.T.%20Psychometric%20evaluation%20of%20the%20Chinese%20version%20of%20the%20Pittsburgh%20Sleep%20Quality%20Index%20%28CPSQI%29%20in%20primary%20insomnia%20and%20control%20subjects%202005"
+        },
+        {
+            "id": "23",
+            "alt_id": "Buysse_et+al_1989_a",
+            "entry": "[23] Buysse DJ, Reynolds CR, Monk TH, Berman SR, Kupfer DJ. The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research. Psychiatry Res. 1989;28:193-213.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Buysse%2C%20D.J.%20Reynolds%2C%20C.R.%20Monk%2C%20T.H.%20Berman%2C%20SR%2C%20Kupfer%20The%20Pittsburgh%20Sleep%20Quality%20Index%3A%20a%20new%20instrument%20for%20psychiatric%20practice%20and%20research%201989",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Buysse%2C%20D.J.%20Reynolds%2C%20C.R.%20Monk%2C%20T.H.%20Berman%2C%20SR%2C%20Kupfer%20The%20Pittsburgh%20Sleep%20Quality%20Index%3A%20a%20new%20instrument%20for%20psychiatric%20practice%20and%20research%201989",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Buysse%2C%20D.J.%20Reynolds%2C%20C.R.%20Monk%2C%20T.H.%20Berman%2C%20SR%2C%20Kupfer%20The%20Pittsburgh%20Sleep%20Quality%20Index%3A%20a%20new%20instrument%20for%20psychiatric%20practice%20and%20research%201989"
+        },
+        {
+            "id": "24",
+            "alt_id": "Soldatos_et+al_2000_a",
+            "entry": "[24] Soldatos CR, Dikeos DG, Paparrigopoulos TJ. Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria. J PSYCHOSOM RES. 2000;48:555-60.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Soldatos%2C%20C.R.%20Dikeos%2C%20D.G.%20Paparrigopoulos%2C%20T.J.%20Athens%20Insomnia%20Scale%3A%20validation%20of%20an%20instrument%20based%20on%20ICD-10%20criteria%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Soldatos%2C%20C.R.%20Dikeos%2C%20D.G.%20Paparrigopoulos%2C%20T.J.%20Athens%20Insomnia%20Scale%3A%20validation%20of%20an%20instrument%20based%20on%20ICD-10%20criteria%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Soldatos%2C%20C.R.%20Dikeos%2C%20D.G.%20Paparrigopoulos%2C%20T.J.%20Athens%20Insomnia%20Scale%3A%20validation%20of%20an%20instrument%20based%20on%20ICD-10%20criteria%202000"
+        },
+        {
+            "id": "25",
+            "alt_id": "[25]_2019_a",
+            "entry": "[25] Coronavirus disease 2019 (COVID-19) Situation Report-43.https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situatio n-reports.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situatio"
+        },
+        {
+            "id": "26",
+            "alt_id": "Wu_2020_a",
+            "entry": "[26] Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%20Z%20McGoogan%20JM%20Characteristics%20of%20and%20Important%20Lessons%20From%20the%20Coronavirus%20Disease%202019%20COVID19%20Outbreak%20in%20China%20Summary%20of%20a%20Report%20of%2072314%20Cases%20From%20the%20Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20JAMA%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%20Z%20McGoogan%20JM%20Characteristics%20of%20and%20Important%20Lessons%20From%20the%20Coronavirus%20Disease%202019%20COVID19%20Outbreak%20in%20China%20Summary%20of%20a%20Report%20of%2072314%20Cases%20From%20the%20Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20JAMA%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%20Z%20McGoogan%20JM%20Characteristics%20of%20and%20Important%20Lessons%20From%20the%20Coronavirus%20Disease%202019%20COVID19%20Outbreak%20in%20China%20Summary%20of%20a%20Report%20of%2072314%20Cases%20From%20the%20Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20JAMA%202020"
+        },
+        {
+            "id": "27",
+            "alt_id": "Luckhaupt_et+al_2010_a",
+            "entry": "[27] Luckhaupt SE, Tak S, Calvert GM. The prevalence of short sleep duration by industry and occupation in the National Health Interview Survey. SLEEP. 2010;33: 149-59.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Luckhaupt%2C%20S.E.%20Tak%2C%20S.%20Calvert%2C%20G.M.%20The%20prevalence%20of%20short%20sleep%20duration%20by%20industry%20and%20occupation%20in%20the%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Luckhaupt%2C%20S.E.%20Tak%2C%20S.%20Calvert%2C%20G.M.%20The%20prevalence%20of%20short%20sleep%20duration%20by%20industry%20and%20occupation%20in%20the%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Luckhaupt%2C%20S.E.%20Tak%2C%20S.%20Calvert%2C%20G.M.%20The%20prevalence%20of%20short%20sleep%20duration%20by%20industry%20and%20occupation%20in%20the%202010"
+        },
+        {
+            "id": "28",
+            "alt_id": "Schiller_et+al_2017_a",
+            "entry": "[28] Schiller H, Lekander M, Rajaleid K, Hellgren C, Akerstedt T, Barck-Holst P, et al. The impact of reduced worktime on sleep and perceived stress - a group randomized intervention study using diary data. Scand J Work Environ Health. 2017;43:109-16.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Schiller%2C%20H.%20Lekander%2C%20M.%20Rajaleid%2C%20K.%20Hellgren%2C%20C.%20The%20impact%20of%20reduced%20worktime%20on%20sleep%20and%20perceived%20stress%20-%20a%20group%20randomized%20intervention%20study%20using%20diary%20data%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Schiller%2C%20H.%20Lekander%2C%20M.%20Rajaleid%2C%20K.%20Hellgren%2C%20C.%20The%20impact%20of%20reduced%20worktime%20on%20sleep%20and%20perceived%20stress%20-%20a%20group%20randomized%20intervention%20study%20using%20diary%20data%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Schiller%2C%20H.%20Lekander%2C%20M.%20Rajaleid%2C%20K.%20Hellgren%2C%20C.%20The%20impact%20of%20reduced%20worktime%20on%20sleep%20and%20perceived%20stress%20-%20a%20group%20randomized%20intervention%20study%20using%20diary%20data%202017"
+        },
+        {
+            "id": "29",
+            "alt_id": "Neylan_et+al_2002_a",
+            "entry": "[29] Neylan TC, Metzler TJ, Best SR, Weiss DS, Fagan JA, Liberman A, et al. Critical incident exposure and sleep quality in police officers. PSYCHOSOM MED. 2002;64: 345-52.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Neylan%2C%20T.C.%20Metzler%2C%20T.J.%20Best%2C%20SR%2C%20Weiss%20DS%2C%20Fagan%20Critical%20incident%20exposure%20and%20sleep%20quality%20in%20police%20officers%202002",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Neylan%2C%20T.C.%20Metzler%2C%20T.J.%20Best%2C%20SR%2C%20Weiss%20DS%2C%20Fagan%20Critical%20incident%20exposure%20and%20sleep%20quality%20in%20police%20officers%202002",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Neylan%2C%20T.C.%20Metzler%2C%20T.J.%20Best%2C%20SR%2C%20Weiss%20DS%2C%20Fagan%20Critical%20incident%20exposure%20and%20sleep%20quality%20in%20police%20officers%202002"
+        },
+        {
+            "id": "30",
+            "alt_id": "Utsugi_et+al_2005_a",
+            "entry": "[30] Utsugi M, Saijo Y, Yoshioka E, Horikawa N, Sato T, Gong Y, et al. Relationships of occupational stress to insomnia and short sleep in Japanese workers. SLEEP. 2005;28:728-35.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Utsugi%2C%20M.%20Saijo%2C%20Y.%20Yoshioka%2C%20E.%20Horikawa%2C%20N.%20Relationships%20of%20occupational%20stress%20to%20insomnia%20and%20short%20sleep%20in%20Japanese%20workers%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Utsugi%2C%20M.%20Saijo%2C%20Y.%20Yoshioka%2C%20E.%20Horikawa%2C%20N.%20Relationships%20of%20occupational%20stress%20to%20insomnia%20and%20short%20sleep%20in%20Japanese%20workers%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Utsugi%2C%20M.%20Saijo%2C%20Y.%20Yoshioka%2C%20E.%20Horikawa%2C%20N.%20Relationships%20of%20occupational%20stress%20to%20insomnia%20and%20short%20sleep%20in%20Japanese%20workers%202005"
+        },
+        {
+            "id": "31",
+            "alt_id": "Johnson_2006_a",
+            "entry": "[31] Johnson JV, Lipscomb J. Long working hours, occupational health and the changing nature of work organization. AM J IND MED. 2006;49:921-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Johnson%2C%20J.V.%20Lipscomb%2C%20J.%20Long%20working%20hours%2C%20occupational%20health%20and%20the%20changing%20nature%20of%20work%20organization%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Johnson%2C%20J.V.%20Lipscomb%2C%20J.%20Long%20working%20hours%2C%20occupational%20health%20and%20the%20changing%20nature%20of%20work%20organization%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Johnson%2C%20J.V.%20Lipscomb%2C%20J.%20Long%20working%20hours%2C%20occupational%20health%20and%20the%20changing%20nature%20of%20work%20organization%202006"
+        },
+        {
+            "id": "32",
+            "alt_id": "Basner_et+al_2007_a",
+            "entry": "[32] Basner M, Fomberstein KM, Razavi FM, Banks S, William JH, Rosa RR, et al. American time use survey: sleep time and its relationship to waking activities. SLEEP. 2007;30:1085-95.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Basner%2C%20M.%20Fomberstein%2C%20K.M.%20Razavi%2C%20F.M.%20Banks%2C%20S.%20American%20time%20use%20survey%3A%20sleep%20time%20and%20its%20relationship%20to%20waking%20activities%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Basner%2C%20M.%20Fomberstein%2C%20K.M.%20Razavi%2C%20F.M.%20Banks%2C%20S.%20American%20time%20use%20survey%3A%20sleep%20time%20and%20its%20relationship%20to%20waking%20activities%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Basner%2C%20M.%20Fomberstein%2C%20K.M.%20Razavi%2C%20F.M.%20Banks%2C%20S.%20American%20time%20use%20survey%3A%20sleep%20time%20and%20its%20relationship%20to%20waking%20activities%202007"
+        },
+        {
+            "id": "33",
+            "alt_id": "Ota_et+al_2005_a",
+            "entry": "[33] Ota A, Masue T, Yasuda N, Tsutsumi A, Mino Y, Ohara H. Association between psychosocial job characteristics and insomnia: an investigation using two relevant job stress models--the demand-control-support (DCS) model and the effort-reward imbalance (ERI) model. SLEEP MED. 2005;6:353-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ota%2C%20A.%20Masue%2C%20T.%20Yasuda%2C%20N.%20Tsutsumi%2C%20A.%20Association%20between%20psychosocial%20job%20characteristics%20and%20insomnia%3A%20an%20investigation%20using%20two%20relevant%20job%20stress%20models--the%20demand-control-support%20%28DCS%29%20model%20and%20the%20effort-reward%20imbalance%20%28ERI%29%20model%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ota%2C%20A.%20Masue%2C%20T.%20Yasuda%2C%20N.%20Tsutsumi%2C%20A.%20Association%20between%20psychosocial%20job%20characteristics%20and%20insomnia%3A%20an%20investigation%20using%20two%20relevant%20job%20stress%20models--the%20demand-control-support%20%28DCS%29%20model%20and%20the%20effort-reward%20imbalance%20%28ERI%29%20model%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ota%2C%20A.%20Masue%2C%20T.%20Yasuda%2C%20N.%20Tsutsumi%2C%20A.%20Association%20between%20psychosocial%20job%20characteristics%20and%20insomnia%3A%20an%20investigation%20using%20two%20relevant%20job%20stress%20models--the%20demand-control-support%20%28DCS%29%20model%20and%20the%20effort-reward%20imbalance%20%28ERI%29%20model%202005"
+        },
+        {
+            "id": "34",
+            "alt_id": "Fu_et+al_2018_a",
+            "entry": "[34] Fu Y, Schwebel DC, Hu G. Physicians' Workloads in China: 1998(-)2016. Int J Environ Res Public Health. 2018;15:.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fu%20Y%20Schwebel%20DC%20Hu%20G%20Physicians%20Workloads%20in%20China%2019982016%20Int%20J%20Environ%20Res%20Public%20Health%20201815",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fu%20Y%20Schwebel%20DC%20Hu%20G%20Physicians%20Workloads%20in%20China%2019982016%20Int%20J%20Environ%20Res%20Public%20Health%20201815",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fu%20Y%20Schwebel%20DC%20Hu%20G%20Physicians%20Workloads%20in%20China%2019982016%20Int%20J%20Environ%20Res%20Public%20Health%20201815"
+        },
+        {
+            "id": "35",
+            "alt_id": "Pikovsky_et+al_2013_a",
+            "entry": "[35] Pikovsky O, Oron M, Shiyovich A, Perry ZH, Nesher L. The impact of sleep deprivation on sleepiness, risk factors and professional performance in medical residents. ISR MED ASSOC J. 2013;15:739-44.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Pikovsky%2C%20O.%20Oron%2C%20M.%20Shiyovich%2C%20A.%20Perry%2C%20Z.H.%20The%20impact%20of%20sleep%20deprivation%20on%20sleepiness%2C%20risk%20factors%20and%20professional%20performance%20in%20medical%20residents%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Pikovsky%2C%20O.%20Oron%2C%20M.%20Shiyovich%2C%20A.%20Perry%2C%20Z.H.%20The%20impact%20of%20sleep%20deprivation%20on%20sleepiness%2C%20risk%20factors%20and%20professional%20performance%20in%20medical%20residents%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Pikovsky%2C%20O.%20Oron%2C%20M.%20Shiyovich%2C%20A.%20Perry%2C%20Z.H.%20The%20impact%20of%20sleep%20deprivation%20on%20sleepiness%2C%20risk%20factors%20and%20professional%20performance%20in%20medical%20residents%202013"
+        },
+        {
+            "id": "36",
+            "alt_id": "Gordon_et+al_2010_a",
+            "entry": "[36] Gordon JA, Alexander EK, Lockley SW, Flynn-Evans E, Venkatan SK, Landrigan CP, et al. Does simulator-based clinical performance correlate with actual hospital behavior? The effect of extended work hours on patient care provided by medical interns. ACAD MED. 2010;85:1583-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gordon%2C%20J.A.%20Alexander%2C%20E.K.%20Lockley%2C%20S.W.%20Flynn-Evans%2C%20E.%20Does%20simulator-based%20clinical%20performance%20correlate%20with%20actual%20hospital%20behavior%3F%20The%20effect%20of%20extended%20work%20hours%20on%20patient%20care%20provided%20by%20medical%20interns%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gordon%2C%20J.A.%20Alexander%2C%20E.K.%20Lockley%2C%20S.W.%20Flynn-Evans%2C%20E.%20Does%20simulator-based%20clinical%20performance%20correlate%20with%20actual%20hospital%20behavior%3F%20The%20effect%20of%20extended%20work%20hours%20on%20patient%20care%20provided%20by%20medical%20interns%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gordon%2C%20J.A.%20Alexander%2C%20E.K.%20Lockley%2C%20S.W.%20Flynn-Evans%2C%20E.%20Does%20simulator-based%20clinical%20performance%20correlate%20with%20actual%20hospital%20behavior%3F%20The%20effect%20of%20extended%20work%20hours%20on%20patient%20care%20provided%20by%20medical%20interns%202010"
+        },
+        {
+            "id": "37",
+            "alt_id": "Parker_2017_a",
+            "entry": "[37] Parker RS, Parker P. The impact of sleep deprivation in military surgical teams: a systematic review. J R Army Med Corps. 2017;163:158-63.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Parker%2C%20R.S.%20Parker%2C%20P.%20The%20impact%20of%20sleep%20deprivation%20in%20military%20surgical%20teams%3A%20a%20systematic%20review%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Parker%2C%20R.S.%20Parker%2C%20P.%20The%20impact%20of%20sleep%20deprivation%20in%20military%20surgical%20teams%3A%20a%20systematic%20review%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Parker%2C%20R.S.%20Parker%2C%20P.%20The%20impact%20of%20sleep%20deprivation%20in%20military%20surgical%20teams%3A%20a%20systematic%20review%202017"
+        },
+        {
+            "id": "38",
+            "alt_id": "Deng_et+al_0000_a",
+            "entry": "[38] Deng X, Liu X, Fang R. Evaluation of the correlation between job stress and sleep quality in community nurses. Medicine (Baltimore). 2020;99:e18822.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Deng%2C%20X.%20Liu%2C%20X.%20Fang%2C%20R.%20Evaluation%20of%20the%20correlation%20between%20job%20stress%20and%20sleep%20quality%20in%20community%20nurses",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Deng%2C%20X.%20Liu%2C%20X.%20Fang%2C%20R.%20Evaluation%20of%20the%20correlation%20between%20job%20stress%20and%20sleep%20quality%20in%20community%20nurses",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Deng%2C%20X.%20Liu%2C%20X.%20Fang%2C%20R.%20Evaluation%20of%20the%20correlation%20between%20job%20stress%20and%20sleep%20quality%20in%20community%20nurses"
+        },
+        {
+            "id": "39",
+            "alt_id": "Tucker_et+al_2015_a",
+            "entry": "[39] Tucker P, Bejerot E, Kecklund G, Aronsson G, Akerstedt T. The impact of work time control on physicians' sleep and well-being. APPL ERGON. 2015;47:109-16.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tucker%2C%20P.%20Bejerot%2C%20E.%20Kecklund%2C%20G.%20Aronsson%2C%20G.%20The%20impact%20of%20work%20time%20control%20on%20physicians%27%20sleep%20and%20well-being%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tucker%2C%20P.%20Bejerot%2C%20E.%20Kecklund%2C%20G.%20Aronsson%2C%20G.%20The%20impact%20of%20work%20time%20control%20on%20physicians%27%20sleep%20and%20well-being%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tucker%2C%20P.%20Bejerot%2C%20E.%20Kecklund%2C%20G.%20Aronsson%2C%20G.%20The%20impact%20of%20work%20time%20control%20on%20physicians%27%20sleep%20and%20well-being%202015"
+        },
+        {
+            "id": "40",
+            "alt_id": "Lin_et+al_2012_a",
+            "entry": "[40] Lin PC, Chen CH, Pan SM, Pan CH, Chen CJ, Chen YM, et al. Atypical work schedules are associated with poor sleep quality and mental health in Taiwan female nurses. Int Arch Occup Environ Health. 2012;85:877-84.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lin%2C%20P.C.%20Chen%2C%20C.H.%20Pan%2C%20S.M.%20Pan%2C%20C.H.%20Atypical%20work%20schedules%20are%20associated%20with%20poor%20sleep%20quality%20and%20mental%20health%20in%20Taiwan%20female%20nurses%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lin%2C%20P.C.%20Chen%2C%20C.H.%20Pan%2C%20S.M.%20Pan%2C%20C.H.%20Atypical%20work%20schedules%20are%20associated%20with%20poor%20sleep%20quality%20and%20mental%20health%20in%20Taiwan%20female%20nurses%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lin%2C%20P.C.%20Chen%2C%20C.H.%20Pan%2C%20S.M.%20Pan%2C%20C.H.%20Atypical%20work%20schedules%20are%20associated%20with%20poor%20sleep%20quality%20and%20mental%20health%20in%20Taiwan%20female%20nurses%202012"
+        },
+        {
+            "id": "41",
+            "alt_id": "Han_et+al_2016_a",
+            "entry": "[41] Han Y, Yuan Y, Zhang L, Fu Y. Sleep disorder status of nurses in general hospitals and its influencing factors. Psychiatr Danub. 2016;28:176-83.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Han%2C%20Y.%20Yuan%2C%20Y.%20Zhang%2C%20L.%20Fu%2C%20Y.%20Sleep%20disorder%20status%20of%20nurses%20in%20general%20hospitals%20and%20its%20influencing%20factors%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Han%2C%20Y.%20Yuan%2C%20Y.%20Zhang%2C%20L.%20Fu%2C%20Y.%20Sleep%20disorder%20status%20of%20nurses%20in%20general%20hospitals%20and%20its%20influencing%20factors%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Han%2C%20Y.%20Yuan%2C%20Y.%20Zhang%2C%20L.%20Fu%2C%20Y.%20Sleep%20disorder%20status%20of%20nurses%20in%20general%20hospitals%20and%20its%20influencing%20factors%202016"
+        },
+        {
+            "id": "42",
+            "alt_id": "Faraut_et+al_2012_a",
+            "entry": "[42] Faraut B, Touchette E, Gamble H, Royant-Parola S, Safar ME, Varsat B, et al. Short sleep duration and increased risk of hypertension: a primary care medicine investigation. J HYPERTENS. 2012;30:1354-63.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Faraut%2C%20B.%20Touchette%2C%20E.%20Gamble%2C%20H.%20Royant-Parola%2C%20S.%20Short%20sleep%20duration%20and%20increased%20risk%20of%20hypertension%3A%20a%20primary%20care%20medicine%20investigation%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Faraut%2C%20B.%20Touchette%2C%20E.%20Gamble%2C%20H.%20Royant-Parola%2C%20S.%20Short%20sleep%20duration%20and%20increased%20risk%20of%20hypertension%3A%20a%20primary%20care%20medicine%20investigation%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Faraut%2C%20B.%20Touchette%2C%20E.%20Gamble%2C%20H.%20Royant-Parola%2C%20S.%20Short%20sleep%20duration%20and%20increased%20risk%20of%20hypertension%3A%20a%20primary%20care%20medicine%20investigation%202012"
+        },
+        {
+            "id": "43",
+            "alt_id": "Jansson_2006_a",
+            "entry": "[43] Jansson M, Linton SJ. The role of anxiety and depression in the development of insomnia: Cross-sectional and prospective analyses. PSYCHOL HEALTH. 2006;21: 383-97.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Jansson%2C%20M.%20Linton%2C%20S.J.%20The%20role%20of%20anxiety%20and%20depression%20in%20the%20development%20of%20insomnia%3A%20Cross-sectional%20and%20prospective%20analyses%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Jansson%2C%20M.%20Linton%2C%20S.J.%20The%20role%20of%20anxiety%20and%20depression%20in%20the%20development%20of%20insomnia%3A%20Cross-sectional%20and%20prospective%20analyses%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Jansson%2C%20M.%20Linton%2C%20S.J.%20The%20role%20of%20anxiety%20and%20depression%20in%20the%20development%20of%20insomnia%3A%20Cross-sectional%20and%20prospective%20analyses%202006"
+        },
+        {
+            "id": "44",
+            "alt_id": "Rodriiguez-Munoz_et+al_2008_a",
+            "entry": "[44] Rodriiguez-Munoz A, Moreno-Jimenez B, Fernandez-Mendoza JJ, Olavarrieta-Bernardino S, de la Cruz-Troca JJ, Vela-Bueno A. Insomnia and quality of sleep among primary care physicians: a gender perspective. Rev Neurol. 2008;47: 119-23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rodriiguez-Munoz%2C%20A.%20Moreno-Jimenez%2C%20B.%20Fernandez-Mendoza%2C%20J.J.%20Olavarrieta-Bernardino%2C%20S.%20Insomnia%20and%20quality%20of%20sleep%20among%20primary%20care%20physicians%3A%20a%20gender%20perspective%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rodriiguez-Munoz%2C%20A.%20Moreno-Jimenez%2C%20B.%20Fernandez-Mendoza%2C%20J.J.%20Olavarrieta-Bernardino%2C%20S.%20Insomnia%20and%20quality%20of%20sleep%20among%20primary%20care%20physicians%3A%20a%20gender%20perspective%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rodriiguez-Munoz%2C%20A.%20Moreno-Jimenez%2C%20B.%20Fernandez-Mendoza%2C%20J.J.%20Olavarrieta-Bernardino%2C%20S.%20Insomnia%20and%20quality%20of%20sleep%20among%20primary%20care%20physicians%3A%20a%20gender%20perspective%202008"
+        },
+        {
+            "id": "45",
+            "alt_id": "Zhang_2006_a",
+            "entry": "[45] Zhang B, Wing YK. Sex differences in insomnia: a meta-analysis. SLEEP. 2006;29:85-93.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhang%2C%20B.%20Wing%2C%20Y.K.%20Sex%20differences%20in%20insomnia%3A%20a%20meta-analysis%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhang%2C%20B.%20Wing%2C%20Y.K.%20Sex%20differences%20in%20insomnia%3A%20a%20meta-analysis%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhang%2C%20B.%20Wing%2C%20Y.K.%20Sex%20differences%20in%20insomnia%3A%20a%20meta-analysis%202006"
+        },
+        {
+            "id": "46",
+            "alt_id": "Barsky_et+al_2001_a",
+            "entry": "[46] Barsky AJ, Peekna HM, Borus JF. Somatic symptom reporting in women and men. J GEN INTERN MED. 2001;16:266-75. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Barsky%2C%20A.J.%20Peekna%2C%20H.M.%20Borus%2C%20J.F.%20Somatic%20symptom%20reporting%20in%20women%20and%20men%202001",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Barsky%2C%20A.J.%20Peekna%2C%20H.M.%20Borus%2C%20J.F.%20Somatic%20symptom%20reporting%20in%20women%20and%20men%202001",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Barsky%2C%20A.J.%20Peekna%2C%20H.M.%20Borus%2C%20J.F.%20Somatic%20symptom%20reporting%20in%20women%20and%20men%202001"
+        }
+    ],
+    "facts": [
+        "Sleep disturbances were defined as PSQI&gt;7 points",
+        "Female fMW were more vulnerable to having sleep disturbances than male fMW",
+        "several pneumonia patients with cryptogenic etiology were reported in Wuhan",
+        "confirmed cases were reported in Wuhan",
+        "More than 75000 cases were confirmed with COVID-19 in China",
+        "anxiety and depression when facing with a magnitude outburst public health incident",
+        "Sleep disturbances were defined as PSQI>7 points",
+        "The study protocol was conducted in accordance with the Declaration",
+        "All of subjects included in the study were anonymous",
+        "Subjects were divided into two groups according to the existence",
+        "sleep quality was affected by negative personal events",
+        "inadequate early realization toward COVID-19 challenged the healthy institutions in many countries",
+        "medical workers accounted for 3.8% in COVID-19 patients",
+        "medical workers were vulnerable to sleep disturbances",
+        "which may be higher than the general population",
+        "that fMW under the outbreak of COVID-19 in China may be more susceptible to sleep disturbances",
+        "female fMW showed severer sleep disturbances compared to male fMW",
+        "Further interventions should be administrated for fMW",
+        "depression were significantly correlated with PSQI"
+    ],
+    "claims": [
+        "The present study showed that over 50% of fMW under the outbreak of COVID-19 had sleep disturbances",
+        "We further found anxiety, depression were significantly correlated with PSQI and AIS in fMV, which indicated that anxious and depressive symptoms may influence sleep quality of fMW"
+    ],
+    "findings": [
+        "Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P\uff1c0.001), AIS (6.9 vs 5.3, P\uff1c0.001), anxiety (4.9 vs 4.3, P\uff1c0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI &gt; 7 points (67.2% vs 47.7%, P\uff1c0.001) and AIS &gt; 6 points (51.7% vs 35.6%, P\uff1c0.001)",
+        "In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI &gt; 7 points (70.3% vs 54.6%, P&lt;0.001)",
+        "Compared to non-fMW, fMW had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001), AIS (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with PSQI > 7 points (67.2% vs 47.7%, P<0.001) and AIS > 6 points (51.7% vs 35.6%, P <0.001)",
+        "In subgroup analysis, compared to male fMW, female fMW had significantly higher scores of PSQI (9.4 vs 8.6, P=0.022) and higher prevalence of sleep disturbances with PSQI > 7 points (70.3% vs 54.6%, P<0.001)",
+        "In demographic characteristics, significant differences of age ([32.4\u00b17.7] vs [34.1\u00b19.3], P=0.016), education level (P=0.002) and rank (P=0.001) were found between the fMW group and non-fMW group",
+        "Compared to non-fMW group, the fMW group had significantly higher scores of PSQI (9.3 vs 7.5, P<0.001; Figure 2A), AIS",
+        "(6.9 vs 5.3, P<0.001; Figure 2B), anxiety (4.9 vs 4.3, P<0.001; Figure 2C) and depression (4.1 vs 3.6, P=0.001; Figure 2D)",
+        "Furthermore, compared to non-fMW group, the fMW group had significantly higher prevalence of sleep disturbances, according to PSQI > 7 points (67.2% vs 47.7%, P< 0.001; Figure 3) and AIS > 6 points (51.7% vs 35.6%, P<0.001; Figure 3)",
+        "Compared to the male fMW group, female fMW group had significantly higher score of PSQI (9.4 vs 8.6, P=0.022; Figure 4A), while no significant differences were found in AIS (7.0 vs 6.4, P=0.108), anxiety (5.0 vs 4.6, P=0.137) and depression (4.2 vs 3.8, P=0.196)",
+        "And compared to male fMW group, the female fMW group had significantly higher prevalence of sleep disturbances, according to PSQI > 7 points (70.3% vs 54.7%, P<0.001; Figure 4B)",
+        "Compared to non-fMW, more fMW believed work stress (38.1% vs 20.4%, P<0.001; Figure 5), frequent work shifts (40.0% vs 18.8%, P<0.001; Figure 5) and severity of COVID-19 (42.2% vs 31.5%, P<0.001; Figure 5) may influence their sleep quality",
+        "PSQI was significantly correlated with anxiety (rp=0.442, P<0.001) and depression (rp=0.329, P<0.001)",
+        "And significant association was observed between AIS and anxiety(rp=0.526, P<0.001), and depression (rp=0.415, P<0.001)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Compared to non-frontline medical workers, frontline medical workers had significantly higher scores of Pittsburgh Sleep Quality Index (9.3 vs 7.5, P<0.001), Athens Insomnia Scale (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with Pittsburgh Sleep Quality Index > 7 points (67.2% vs 47.7%, P<0.001) and Athens Insomnia Scale > 6 points (51.7% vs 35.6%, P <0.001)",
+        "Female frontline medical workers were more vulnerable to having sleep disturbances than male frontline medical workers",
+        "In December 2019, several pneumonia patients with cryptogenic etiology were reported in Wuhan, Hubei Province, China [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+        "In addition to the risk of being infected with COVID-19, frontline medical workers may have sleep disturbances, anxiety and depression when facing with a magnitude outburst public health incident",
+        "It was reported that 30%-49% of medical workers had complaints of sleep problems, which may be higher than the general population [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]",
+        "Compared to non-frontline medical workers group, the frontline medical workers group had significantly higher prevalence of sleep disturbances, according to Pittsburgh Sleep Quality Index > 7 points (67.2% vs 47.7%, P< 0.001; Figure 3) and Athens Insomnia Scale > 6 points (51.7% vs 35.6%, P<0.001; Figure 3)",
+        "Previous studies have indicated that in ordinary times, medical workers were vulnerable to sleep disturbances, which may be higher than the general population [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]",
+        "We hypothesized that frontline medical workers under the outbreak of COVID-19 in China may be more susceptible to sleep disturbances",
+        "Accompanied with long working hours, frequent day-night shifts, excessive workload and high stress, medical workers were vulnerable to sleep disturbances or sleep deprivation all over the world [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>, <a class=\"ref-link\" id=\"c34\" href=\"#r34\">34</a>]",
+        "The present study showed that over 50% of frontline medical workers under the outbreak of COVID-19 had sleep disturbances",
+        "Depression were significantly correlated with Pittsburgh Sleep Quality Index and Athens Insomnia Scale in fMV, which indicated that anxious and depressive symptoms may influence sleep quality of frontline medical workers",
+        "Female frontline medical workers showed severer sleep disturbances compared to male frontline medical workers",
+        "Further interventions should be administrated for frontline medical workers, aiming to maintain their healthy condition and guarantee their professional performance in the battle with COVID-19"
+    ],
+    "top_statements": [
+        "As a group of enveloped RNA viruses, coronaviruses are distributed broadly among humans and other animals, and can cause multi-organs infections, mainly invade the respiratory system [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "Compared to non-frontline medical workers, frontline medical workers had significantly higher scores of Pittsburgh Sleep Quality Index (9.3 vs 7.5, P<0.001), Athens Insomnia Scale (6.9 vs 5.3, P<0.001), anxiety (4.9 vs 4.3, P<0.001) and depression (4.1 vs 3.6, P=0.001), and higher prevalence of sleep disturbances with Pittsburgh Sleep Quality Index > 7 points (67.2% vs 47.7%, P<0.001) and Athens Insomnia Scale > 6 points (51.7% vs 35.6%, P <0.001)",
+        "Female frontline medical workers were more vulnerable to having sleep disturbances than male frontline medical workers",
+        "Previous studies have indicated that in ordinary times, medical workers were vulnerable to sleep disturbances, which may be higher than the general population [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>, <a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]",
+        "Female frontline medical workers showed severer sleep disturbances compared to male frontline medical workers",
+        "Further interventions should be administrated for frontline medical workers, aiming to maintain their healthy condition and guarantee their professional performance in the battle with COVID-19"
+    ],
+    "headline": "Compared to non-frontline medical workers, frontline medical workers had significantly higher scores of Pittsburgh Sleep Quality Index, Athens Insomnia Scale, anxiety and depression, and higher prevalence of sleep disturbances with Pittsburgh Sleep Quality Index > 7 points and Athens Insomnia Scale > 6 points",
+    "contexts": [],
+    "abbreviations": {
+        "fMW": "frontline medical workers",
+        "PSQI": "Pittsburgh Sleep Quality Index",
+        "AIS": "Athens Insomnia Scale",
+        "VAS": "Visual Analogue Scale",
+        "WHO": "World Health Organization"
+    }
+}

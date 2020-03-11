@@ -1,0 +1,482 @@
+{
+    "filename": "2020.02.01.20019984v1.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 1090130,
+    "metadata": {
+        "title": "Estimating the risk on outbreak spreading of 2019-nCoV in China using transportation data",
+        "date": 2020,
+        "author": "Hsiang-Yu Yuan, M. Pear Hossain, Mesfin Tsegaye, Xiaolin Zhu, Pengfei Jia, Alvin Junus, Tzai-Hung Wen, Dirk Pfeiffer",
+        "affiliations": [
+            "Department of Biomedical Sciences, Jockey Club College of Veterinary Medicine and Life Sciences, City University of Hong Kong, Hong Kong",
+            "Department of Statistics, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh.",
+            "Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong",
+            "Academic Information Center, China Academy of Urban Planning and Design, Beijing, China",
+            "Department of Geography, National Taiwan University, Taiwan",
+            "Centre for Applied One Health Research and Policy Advice, City University of Hong Kong, Hong Kong"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.02.01.20019984",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.02.01.20019984v1.full.pdf"
+        },
+        "abstract": "A novel corona virus (2019-nCoV) was identified in Wuhan, China and has been causing an unprecedented outbreak in China. The spread of this novel virus can eventually become an international emergency. During the early outbreak phase in Wuhan, one of the most important public health tasks is to prevent the spread of the virus to other cities. Therefore, full-scale border control measures to prevent the spread of virus have been discussed in many nearby countries. At the same time, lockdown in Wuhan cityu (border control from leaving out) has been imposed. The challenge is that many people have traveled from Wuhan to other cities before the border control. Thus, it is difficult to forecast the number of imported cases at different cities and estimate their risk on outbreak emergence.",
+        "references": "@techreport{unknown-a,\n  title = {Pneumonia of unknown cause \u2013 China.},\n  url = {https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/.},\n  language = {},\n  institution = {World Health Organization (WHO}\n}\n@article{unknown2019a,\n  title = {\u201cNovel},\n  publisher = {Coronavirus},\n  date = {2019},\n  journal = {WHO Bulletin},\n  volume = {2020},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019.},\n  source = {},\n  language = {},\n  organization = {World Health Organization (WHO}\n}\n@article{zhou2020a,\n  author = {Zhou, P.},\n  title = {Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin,},\n  journal = {bioRxiv},\n  pages = {2020\u201301},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{chan-a,\n  author = {Chan, J.F.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster,},\n  journal = {Lancet},\n  volume = {6736},\n  pages = {1\u201310},\n  more-authors = {true},\n  number = {20},\n  language = {}\n}\n@techreport{unknown-b,\n  title = {Confirmed 2019-nCoV Cases Globally.},\n  url = {https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmedcases.html.},\n  language = {},\n  institution = {Center for Disease Control and Prevention (CDC}\n}\n@misc{imai-a,\n  author = {Imai, N. and Dorigatti, I. and Cori, A. and Riley, S. and Ferguson, N.M.},\n  title = {Estimating the potential total number of novel Coronavirus cases in Wuhan City, China,},\n  url = {https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gidafellowships/2019-nCoV-outbreak-report-17-01-2020.pdf},\n  language = {}\n}\n@article{chong2014a,\n  author = {Chong, K.C. and Fong, H.F. and Zee, C.Y.},\n  title = {Estimating the incidence reporting rates of new influenza pandemics at an early stage using travel data from the source country,},\n  journal = {Epidemiol. Infect},\n  volume = {142},\n  pages = {955\u2013963},\n  date = {2014},\n  number = {5},\n  language = {}\n}\n@article{hwang2012a,\n  author = {Hwang, G.M.},\n  title = {A model-based tool to predict the propagation of infectious disease via airports,},\n  journal = {Travel Med. Infect. Dis},\n  volume = {10},\n  pages = {32\u201342},\n  date = {2012},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{nicolaides2012a,\n  author = {Nicolaides, C. and Cueto-Felgueroso, L. and Gonz\u00e1lez, M.C. and Juanes, R.},\n  title = {A metric of influential spreading during contagion dynamics through the air transportation network,},\n  journal = {PLoS One},\n  volume = {7},\n  pages = {1\u201310},\n  date = {2012},\n  number = {7},\n  language = {}\n}\n@article{kubiak2010a,\n  author = {Kubiak, R.J. and Arinaminpathy, N. and McLean, A.R.},\n  title = {Insights into the evolution and emergence of a novel infectious disease,},\n  journal = {PLoS Comput. Biol},\n  volume = {6},\n  date = {2010},\n  number = {9},\n  language = {}\n}\n@article{lipsitch2003a,\n  author = {Lipsitch, M.},\n  title = {Transmission dynamics and control of severe acute respiratory syndrome,},\n  journal = {Science},\n  volume = {300},\n  pages = {1966\u201370},\n  date = {2003},\n  more-authors = {true},\n  number = {5627},\n  language = {}\n}\n@misc{liu2020a,\n  author = {Liu, T.},\n  title = {Transmission dynamics of 2019 novel coronavirus (2019-nCoV),},\n  pages = {2020\u201301},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{riley2003a,\n  author = {Riley, S.},\n  title = {Transmission dynamics of the etiological agent of SARS in Hong Kong: Impact of public health interventions,},\n  journal = {Science},\n  volume = {300},\n  pages = {1961\u20131966},\n  date = {2003},\n  more-authors = {true},\n  number = {5627},\n  language = {}\n}\n@incollection{unknown2005a,\n  title = {World Health Organization (WHO), \u201cStatement on the meeting of the International Health Regulations},\n  date = {2005},\n  url = {https://www.who.int/news-room/detail/23-01-2020statement-on-the-meeting-of-the-international-health-regulations-},\n  source = {Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV},\n  language = {}\n}\n@article{read2020a,\n  author = {Read, J.M. and Bridgen, J.R.E. and Cummings, D.A.T. and Ho, A. and Jewell, C.P.},\n  title = {Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions,},\n  journal = {medRxiv},\n  pages = {2020\u201301},\n  date = {2020},\n  language = {}\n}\n@article{unknown2004a,\n  title = {Forum on Microbial Threats, \u201cLearning from SARS: Preparing for the Next Disease Outbreak: Workshop Summary,\u201d},\n  journal = {Washington},\n  date = {2004},\n  url = {https://pubmed.ncbi.nlm.nih.gov/22553895-learning-from-sars-preparing-for-the-nextdisease-outbreak/},\n  language = {},\n  organization = {Institute of Medicine (US}\n}\n@article{wallinga2004a,\n  author = {Wallinga, J. and Teunis, P.},\n  title = {Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures,},\n  journal = {Am. J. Epidemiol},\n  volume = {160},\n  pages = {509\u2013516},\n  date = {2004},\n  number = {6},\n  language = {}\n}\n@article{wang2019a,\n  author = {Wang, Y.},\n  title = {Epidemiology of imported infectious diseases, China, 2005\u20132016,},\n  journal = {Emerg. Infect. Dis},\n  volume = {25},\n  pages = {33\u201341},\n  date = {2019},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{priest2015a,\n  author = {Priest, P.C. and Jennings, L.C. and Duncan, A.R. and Brunton, C.R. and Baker, M.G.},\n  title = {Effectiveness of Border Screening for Detecting Influenza in Arriving Airline Travelers,},\n  journal = {Am. J. Public Health},\n  volume = {105},\n  pages = {607\u2013613},\n  date = {2015},\n  number = {4},\n  language = {}\n}\n@article{fraser2004a,\n  author = {Fraser, C. and Riley, S. and Anderson, R.M. and Ferguson, N.M.},\n  title = {Factors that make an infectious disease outbreak controllable,},\n  journal = {Proc. Natl. Acad. Sci. U. S. A},\n  volume = {101},\n  pages = {6146\u20136151},\n  date = {2004},\n  number = {16},\n  language = {}\n}\n",
+        "emails": [
+            "sean.yuan@cityu.edu.hk"
+        ],
+        "references_ris": "TY  - RPRT\nTI  - Pneumonia of unknown cause \u2013 China.\nUR  - https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/.\nLA  - \nC1  - World Health Organization (WHO\nER  - \n\nTY  - JOUR\nTI  - \u201cNovel\nPB  - Coronavirus\nPY  - 2019\nDA  - 2019\nT2  - WHO Bulletin\nVL  - 2020\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019.\nT2  - \nLA  - \nC1  - World Health Organization (WHO\nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nTI  - Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin,\nT2  - bioRxiv\nSP  - 2020\nEP  - 01\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster,\nT2  - Lancet\nVL  - 6736\nSP  - 1\nEP  - 10\nC1  - true\nIS  - 20\nLA  - \nER  - \n\nTY  - RPRT\nTI  - Confirmed 2019-nCoV Cases Globally.\nUR  - https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmedcases.html.\nLA  - \nC1  - Center for Disease Control and Prevention (CDC\nER  - \n\nTY  - GEN\nAU  - Imai, N.\nAU  - Dorigatti, I.\nAU  - Cori, A.\nAU  - Riley, S.\nAU  - Ferguson, N.M.\nTI  - Estimating the potential total number of novel Coronavirus cases in Wuhan City, China,\nUR  - https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gidafellowships/2019-nCoV-outbreak-report-17-01-2020.pdf\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chong, K.C.\nAU  - Fong, H.F.\nAU  - Zee, C.Y.\nTI  - Estimating the incidence reporting rates of new influenza pandemics at an early stage using travel data from the source country,\nT2  - Epidemiol. Infect\nVL  - 142\nSP  - 955\nEP  - 963\nPY  - 2014\nDA  - 2014\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hwang, G.M.\nTI  - A model-based tool to predict the propagation of infectious disease via airports,\nT2  - Travel Med. Infect. Dis\nVL  - 10\nSP  - 32\nEP  - 42\nPY  - 2012\nDA  - 2012\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nicolaides, C.\nAU  - Cueto-Felgueroso, L.\nAU  - Gonz\u00e1lez, M.C.\nAU  - Juanes, R.\nTI  - A metric of influential spreading during contagion dynamics through the air transportation network,\nT2  - PLoS One\nVL  - 7\nSP  - 1\nEP  - 10\nPY  - 2012\nDA  - 2012\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kubiak, R.J.\nAU  - Arinaminpathy, N.\nAU  - McLean, A.R.\nTI  - Insights into the evolution and emergence of a novel infectious disease,\nT2  - PLoS Comput. Biol\nVL  - 6\nPY  - 2010\nDA  - 2010\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lipsitch, M.\nTI  - Transmission dynamics and control of severe acute respiratory syndrome,\nT2  - Science\nVL  - 300\nSP  - 1966\nEP  - 70\nPY  - 2003\nDA  - 2003\nC1  - true\nIS  - 5627\nLA  - \nER  - \n\nTY  - GEN\nAU  - Liu, T.\nTI  - Transmission dynamics of 2019 novel coronavirus (2019-nCoV),\nSP  - 2020\nEP  - 01\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Riley, S.\nTI  - Transmission dynamics of the etiological agent of SARS in Hong Kong: Impact of public health interventions,\nT2  - Science\nVL  - 300\nSP  - 1961\nEP  - 1966\nPY  - 2003\nDA  - 2003\nC1  - true\nIS  - 5627\nLA  - \nER  - \n\nTY  - CHAP\nTI  - World Health Organization (WHO), \u201cStatement on the meeting of the International Health Regulations\nPY  - 2005\nDA  - 2005\nUR  - https://www.who.int/news-room/detail/23-01-2020statement-on-the-meeting-of-the-international-health-regulations-\nT2  - Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Read, J.M.\nAU  - Bridgen, J.R.E.\nAU  - Cummings, D.A.T.\nAU  - Ho, A.\nAU  - Jewell, C.P.\nTI  - Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions,\nT2  - medRxiv\nSP  - 2020\nEP  - 01\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Forum on Microbial Threats, \u201cLearning from SARS: Preparing for the Next Disease Outbreak: Workshop Summary,\u201d\nT2  - Washington\nPY  - 2004\nDA  - 2004\nUR  - https://pubmed.ncbi.nlm.nih.gov/22553895-learning-from-sars-preparing-for-the-nextdisease-outbreak/\nLA  - \nC1  - Institute of Medicine (US\nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Teunis, P.\nTI  - Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures,\nT2  - Am. J. Epidemiol\nVL  - 160\nSP  - 509\nEP  - 516\nPY  - 2004\nDA  - 2004\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, Y.\nTI  - Epidemiology of imported infectious diseases, China, 2005\u20132016,\nT2  - Emerg. Infect. Dis\nVL  - 25\nSP  - 33\nEP  - 41\nPY  - 2019\nDA  - 2019\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Priest, P.C.\nAU  - Jennings, L.C.\nAU  - Duncan, A.R.\nAU  - Brunton, C.R.\nAU  - Baker, M.G.\nTI  - Effectiveness of Border Screening for Detecting Influenza in Arriving Airline Travelers,\nT2  - Am. J. Public Health\nVL  - 105\nSP  - 607\nEP  - 613\nPY  - 2015\nDA  - 2015\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fraser, C.\nAU  - Riley, S.\nAU  - Anderson, R.M.\nAU  - Ferguson, N.M.\nTI  - Factors that make an infectious disease outbreak controllable,\nT2  - Proc. Natl. Acad. Sci. U. S. A\nVL  - 101\nSP  - 6146\nEP  - 6151\nPY  - 2004\nDA  - 2004\nIS  - 16\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Critical time of outbreak arrival at top 20 connected cities in China under a higher  \".  4 is the cumulated number of secondary infected cases generated by the imported cases"
+            },
+            {
+                "id": "2",
+                "caption": "Critical time of outbreak arrival at top 20 frequently-visited cities in China under a lower  \".  4 is the cumulated number of secondary infected cases generated by the imported cases"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Outbreak potential estimated from the secondary cases contacted by imported cases under a higher  \" scenario. (A) Number of cumulative secondary cases generated by imported cases. The secondary infecteds are listed among the top 10 visiting cities from Wuhan.   = 7.27 is the critical threshold number. (B) Probability of outbreak emergence in different cities at mean critical time (17.9 days)"
+            },
+            {
+                "id": "2",
+                "caption": "Number of infected cases and number of secondary cases generated by the imported cases. The blue line represents the number of infected cases of nCoV after 31 December 2019 and the orange lines represent the number of secondary cases generated by the imported cases through contact between cross-province transportation"
+            },
+            {
+                "id": "3",
+                "caption": "Outbreak potential estimated from the secondary cases contacted by imported cases under a lower  \" scenario. (A) Number of cumulative secondary cases generated by imported cases. The secondary infecteds are listed among the top 10 visiting cities from Wuhan.   = 7.27 is the critical threshold number. (B) Probability of outbreak emergence in different cities at mean critical time (26.2 days)"
+            },
+            {
+                "id": "4",
+                "caption": "Outbreak potential at different cities in mainland China. Outbreak potential at different cities at day 26.2 (A) and day 35 (B)"
+            },
+            {
+                "id": "5",
+                "caption": "Epidemic outbreaks under no disease control scenario. Blue line represents the number of infected cases from Wuhan city. Orange lines represent the number of infected cases from top 3 visiting cities from Wuhan"
+            },
+            {
+                "id": "6",
+                "caption": "Gain time of outbreak emergence by the rates of successful infectious disease border control. (A) The impact of border control under the lower  \" (1.4); (B) under the higher  \" (2.92); (C) under mild  \" (1.68)"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.02.01.20019984v1.full.pdf_jkkj6nfc_0303su30.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-003.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-004.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-005.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-006.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.01.20019984v1.full.pdf_jkkj6nfc_images_gcxhw9hd/img-007.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "On 31 December 2019, WHO was alerted to several cases of pneumonia infections in Wuhan City, Hubei Province of China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. The cause of the pneumonia was later identified as a novel Coronavirus (2019-nCoV) genetically very closely related to the Middle Eastern Respiratory Syndrome virus (MERS-CoV) and the Severe Acute Respiratory Syndrome virus (SARSCoV) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. This marks the third time in 20 years that a member of the family of coronaviruses (CoVs) has caused an epidemic employing its zoonotic potential, for example, from bats [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The novel virus was able to establish between person-to-person transmission [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].<br/><br/>The outbreak caused by the novel coronavirus (2019-nCoV) is currently occurring in Wuhan and affecting many neighboring cities and countries [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. During the early phase of the outbreak, it poses a severe threat to many other regions due to frequent transportation services linking Wuhan to the other cities. About 2 weeks later after 31 December, using the number of cases detected outside China, it has been inferred that more than a thousand individuals (with an estimated mean"
+        ],
+        "methods": [
+            "Calculating Imported & their secondary infected cases<br/><br/>Assuming that the newly emergence of 2019-nCoV causes an outbreak at location  , during the emergence, the number of infectious cases is changing following this formula:    $%& $'    =    b **    +& ,    *    \u2212    / 01    (1)    $%3& $'"
+        ],
+        "results": [
+            "For each city, the critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold were determined (Table 1). Beijing, Shanghai, Guangzhou and and Chengdu had the shortest required time periods. As stated before , the mean critical time for the top 10 visiting cities was 17.9 days. As shown in Figure 1,only eleven cities had higher risk of outbreak emergence (probability larger than 0.5).    City<br/><br/>Critical time (days) at mean critical time (day 17.9)    at day 35<br/><br/>Probability of outbreak at mean critical time (day<br/><br/>Outbreak spreading during early phase in a lower   scenario<br/><br/>In reality, the  \" or real-time effective   will decrease after many control measures are conducted [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Therefore, we made the same calculation under a mild transmission condition. We assumed that after 31 December 2019, the generation time was as short as 7 days and  \" was as low as 1.4, which was the lower bound of World Health Organization\u2019s estimate [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. The lower  \" can be caused by different estimation procedure or can be caused by isolation and mask wearing measures. Under this scenario, following the suggestion from a recent study [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], we consider the reporting rate to be near 5% and set initial infected number as 1000 on 31 December. Using model simulation, the infected number reached the recent estimated number 1723 on 9 January 2020 (Figure 2). Considering the incubation period to be 3 days, the number of infected persons with symptoms onset will be revealed on 12 January, 2020, same as the value estimated from the study [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. The infected number was slowly increasing linearly within the first 30 days. In the following study, we use this mild  \" parameter setting to evalulate the impact of border control on outbreak spreading."
+        ],
+        "discussion": [
+            "The 2019-nCoV is currently spreading from Wuhan to many nearby cities and countries. It is hypothesized that the rate of transmission between different cities or countries is proportional to the number of people moving from different locations to Wuhan. Until recently, very few studies have been done to predict the spreading of the outbreaks of newly emerging diseases using air and other forms of transport information . Our study provides an analytical solution to calculate the cumulative number of secondary cases generated by the imported cases with an estimated  \", with which we are able to predict the arrival time of the outbreak.<br/><br/>Two most important parameters, generation time and basic reproduction number are still unknown. The generation time we used was adapted from a previous study. Since  \" is not known, and can be different using different approaches [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], here we use  \" = 1.4 for Wuhan and we set  \" for other locations   a low number 1.1. This number was used because the nation-wide alert has already been received at different cities after 31 December, 2019. The control measures and self awareness make the initial infection to occur less easily. We have learnt from the previous SARS outbreak that it is crucial to implement rapid infection control measures to limit the impact of epidemics, both in terms of preventing more casualties and shortening of the epidemic period. The other important lesson is that a timely public alert against a new spreading epidemic is also most essential [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]."
+        ],
+        "disclosures": [
+            "All authors declare no competing interests."
+        ],
+        "acknowledgements": [
+            "We thank Miss Xiaoyue Tan for her assistance in making maps. We thank Prof. Mengsu (Michael) Yang and all the anonymous readers to who have provided invaluable comments. We thank for funding supports from City University of Hong Kong (#7200573 and #9610416).<br/><br/>Author contributions<br/><br/>HY and XZ designed the study. PJ participated in the data collection. HY, MPH, XZ, PJ and AJ analysed and interpreted the data. HY, MT and MPH wrote the paper. Everyone reviewed, revised and edited the manuscript."
+        ],
+        "funding": [
+            "We thank for funding supports from City University of Hong Kong (#7200573 and #9610416). Author contributions HY and XZ designed the study"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1"
+            ]
+        }
+    },
+    "structured_content": {
+        "Abstract": [
+            "A novel corona virus (2019-nCoV) was identified in Wuhan, China and has been causing an unprecedented outbreak in China. The spread of this novel virus can eventually become an international emergency. During the early outbreak phase in Wuhan, one of the most important public health tasks is to prevent the spread of the virus to other cities. Therefore, full-scale border control measures to prevent the spread of virus have been discussed in many nearby countries. At the same time, lockdown in Wuhan cityu (border control from leaving out) has been imposed. The challenge is that many people have traveled from Wuhan to other cities before the border control. Thus, it is difficult to forecast the number of imported cases at different cities and estimate their risk on outbreak emergence.",
+            "Here, we have developed a mathematical framework incorporating city-to-city connections to calculate the number of imported cases of the novel virus from an outbreak source, and the cumulative number of secondary cases generated by the imported cases. We used this number to estimate the arrival time of outbreak emergence using air travel frequency data from Wuhan to other cities, collected from the International Air Transport Association database. In addition, a meta-population compartmental model was built based on a classical SIR approach to simulate outbreaks at different cities.",
+            "We consider the scenarios under three basic reproductive number  \" settings using the best knowledge of the current findings, from high (2.92), mild (1.68), to a much lower numbers (1.4). The mean arrival time of outbreak spreading has been determined. Under the high  \", the critical time is 17.9 days after December 31, 2019 for outbreak spreading. Under the low  \", the critical time is between day 26.2 to day 35 after December 31, 2019. To make an extra 30 days gain, under the low  \" (1.4), the control measures have to reduce 87% of the connections between the source and target cities. Under the higher  \" (2.92), the effect on reducing the chance of outbreak emergence is generally low until the border control measure was enhanced to reduce more than 95% of the connections."
+        ],
+        "Introduction": [
+            "On 31 December 2019, WHO was alerted to several cases of pneumonia infections in Wuhan City, Hubei Province of China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. The cause of the pneumonia was later identified as a novel Coronavirus (2019-nCoV) genetically very closely related to the Middle Eastern Respiratory Syndrome virus (MERS-CoV) and the Severe Acute Respiratory Syndrome virus (SARSCoV) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. This marks the third time in 20 years that a member of the family of coronaviruses (CoVs) has caused an epidemic employing its zoonotic potential, for example, from bats [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The novel virus was able to establish between person-to-person transmission [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "The outbreak caused by the novel coronavirus (2019-nCoV) is currently occurring in Wuhan and affecting many neighboring cities and countries [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. During the early phase of the outbreak, it poses a severe threat to many other regions due to frequent transportation services linking Wuhan to the other cities. About 2 weeks later after 31 December, using the number of cases detected outside China, it has been inferred that more than a thousand individuals (with an estimated mean",
+            "1723) had had an onset of symptoms by January 12, 2020 [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. This number, which was estimated based on certain assumptions, was about 40 times higher than the reported number by January 12, 2020. Given that most of the members of the coronavirus family cause mild flu-like symptoms during infection and most people have not yet received nation-wide alert about the novel virus during that period, it could be possible that the confirmed case number among actual infected cases is very low, probably similar to influenza reporting rate, which is only about 1% [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+            "During this early outbreak phase in Wuhan, one of the most important preventive tasks is to prevent the outbreak potential to spread to other cities. If outbreaks also occur in other cities, the prevention of nCoV becomes even more difficult in China or at the global level. From disease control perspective, the major questions here are whether we can i) estimate the waiting time for nCoV to spread to other cities in China; and ii) evaluate the impacts of disease control by cessation of population movement (e.g., lockdown measures) on the outbreak spreading. The importance of prediction of infectious diseases based on transportation network information has already been highlighted previously [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Studies have been done to estimate the probability of emergence and the arrival time of the emergence [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. In addition, the required condition for a virus to spread to other cities is through secondary infections from the imported cases. In our study, imported case was defined as an infected individual migrating from other cities to a particular city. In order to evaluate the infectious disease control measures during the spreading of the virus, it is important to know how many secondary cases has been caused by the imported cases. Thus, there is a need to estimate the probability of emergence and the arrival time of the emergence through estimating the number of secondary infections caused from imported cases using transportation data.",
+            "In this study, we derived a simple mathematical formula to estimate the outbreak potential at neighboring cities and built a meta-population model based on a classical SIR approach to understand the outbreak spreading dynamics at different cities. Gain of time before outbreak emergence is predicted under different infectious disease control rates."
+        ],
+        "Methods": [
+            "Assuming that the newly emergence of 2019-nCoV causes an outbreak at location  , during the emergence, the number of infectious cases is changing following this formula:",
+            ", where is total population size.",
+            "( ) .",
+            "We can derive the following formula:",
+            "FLGH/ .",
+            "The total number of the imported cases during a period of time is derived as:   =",
+            ". Note that we can incorporate the effect of latent period. For example, if we consider infected people during latent state or within incubation period can pass the border screening, during each time point  , only newly infected indiviauls within inbucation period t can have chance to move to a different city, thus  *N",
+            "To incorporate the border control measure into our model, we introduce a control factor   such that",
+            "where   is the border control measure ranging from 0 to 1, representing no control to full-scaled control.",
+            "We consider the outbreak potential, defined as the probability of outbreak emergence given the number of cumulated cases. At the initial stage, if there is only one single infected individual, the chance of this virus to cause an outbreak is  4,/ = 1 \u2212",
+            ". We set  \" for location   to be a low number 1.1 for the secondary infected cases generated by the imported cases at location at because the nation-wide alert has already been received at different cities after December 31, 2019.",
+            "When the number of cumulative cases reaches a higher number, the probability of outbreak emergence is",
+            "4,W%3 = 1 \u2212 1 \u2212  4,/ W%3.",
+            "We obtain a critical threshold number of cases,   = NY \".Z , representing the threshold of having",
+            "higher outbreak probability. We set the critical time  $ such that the probability of outbreak emergence  4,W%3UY is larger than 50% can be solved.",
+            "Airline frequency data is collected from the International Air Transport Association (IATA) database. Although we do not have data for rail and other forms of transport, we assumed that the total number of travelers is 3.37 times higher than that of air transport except for certain cities on Hainan island. The total travel volume between different cities was then used for the contact mixing  *4 between locations   and  . For example, we divided daily passenger numbers by total population size in Wuhan to represent the contact rate between Wuhan city and any connected city  ."
+        ],
+        "Results": [
+            "For each city, the critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold were determined (Table 1). Beijing, Shanghai, Guangzhou and and Chengdu had the shortest required time periods. As stated before , the mean critical time for the top 10 visiting cities was 17.9 days. As shown in Figure 1,only eleven cities had higher risk of outbreak emergence (probability larger than 0.5).",
+            "In reality, the  \" or real-time effective   will decrease after many control measures are conducted [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Therefore, we made the same calculation under a mild transmission condition. We assumed that after 31 December 2019, the generation time was as short as 7 days and  \" was as low as 1.4, which was the lower bound of World Health Organization\u2019s estimate [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. The lower  \" can be caused by different estimation procedure or can be caused by isolation and mask wearing measures. Under this scenario, following the suggestion from a recent study [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], we consider the reporting rate to be near 5% and set initial infected number as 1000 on 31 December. Using model simulation, the infected number reached the recent estimated number 1723 on 9 January 2020 (Figure 2). Considering the incubation period to be 3 days, the number of infected persons with symptoms onset will be revealed on 12 January, 2020, same as the value estimated from the study [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. The infected number was slowly increasing linearly within the first 30 days. In the following study, we use this mild  \" parameter setting to evalulate the impact of border control on outbreak spreading.",
+            "We further calculated the cumulative number of secondary cases  4 at the  th city generated by the imported cases. The changes of  4 by time at each city are plotted from day 1 to 50 (Figure 3A). After 50 days since the outbreak, the cumulative cases can reach rapidly above 40 cases for many cities. After 30 days, most of the cities have secondary cases above a critical threshold of 7.27, calculated from eq(4) using  \" = 1.1. The current estimate of  \" is 2.92 for the initial outbreak period in Wuhan when citizens had not received any alert. However, the current  \" would be lower because people have since been aware of the disease. This setting will apply when about 62.3% of infections events can be prevented, due to different control policies, comparing to the Wuhan outbreak before the emergence of outbreak on other cities.",
+            "The outbreak potential of nearby cities can be assessed. For each city, the critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold was determined (Table 2). Beijing, Shanghai, Guangzhou had the shortest required time periods. The mean critical time from the top 10 visiting cities was 26.2 days. Only five cities had higher risk of outbreak emergence (probability larger than 0.5). We further calculated the probability of outbreak emergence at mean critical time and at day 35. 17 cities had higher risk of outbreak emergence (Table 2). We further compared the predicted cumulated infected case number at day 26 using model simulation with the actual observed reports in the top 10 visitng cities. Among top 5 high risk cities, four of them had higher case numbers than other cities. The higher number of predicted numbers confirmed that the actual case number can be 20 times higher than the reported numbers ( see suplemnetary Table S1).",
+            "Under this parameter setting, the critical time  $ (arrival time for emergence) when the probability of outbreak emergence at different cities larger than 0.5 were calculated. The probability of outbreak emergence at each of the top 20 frequently-visited cities at the average  $ (Figure 4A) and day 35 (Figure 4B) were plotted.",
+            "Under the no-border control scenario, assuming all other cities have the same population as Wuhan, model simulation results showed that nearly 2 months were required for generating the same level of epidemics in other frequent visiting cities (Figure 5). Ideally, complete cessation of population movement between cities or isolation of every susceptible case from the source city can reduce transmission events.",
+            "We evaluated the impact of border control measures by introducting a control rate   to reduce the transporation rate between two cities, such that  4",
+            ". We can thus recalculate the cumulative number of secondary infections under different levels of border control.",
+            "To achieve the gain time of control for transportation of a particular city, we calculate critical time given the control such that the cumulative number of secondary cases generated by the imported cases is greater than critical threshold number  . Finally, subtraction of the critical time without control from the critical time with control returns gain of the control system. To make an extra 30 days gain, under the low  \" (1.4), the control measures have to reduce 87% of the secondary infections generated by the imported cases (Figure 6A). Under the higher  \" (2.92), the effect on reducing the chance of outbreak emergence is low until the border control can reduce more than",
+            "95% of the secondary infections (Figure 6B). Under the mild  \" condition, we set  \" = 1.68 with generation time 8.4 days, and found that the border control effect is similar but a little bit weaker than that in the lower  \" scenario. This allows us to calculate how much extra time a connected region through mobility can gain and gives an indicator what scale of border control is necessary."
+        ],
+        "Discussion": [
+            "The 2019-nCoV is currently spreading from Wuhan to many nearby cities and countries. It is hypothesized that the rate of transmission between different cities or countries is proportional to the number of people moving from different locations to Wuhan. Until recently, very few studies have been done to predict the spreading of the outbreaks of newly emerging diseases using air and other forms of transport information . Our study provides an analytical solution to calculate the cumulative number of secondary cases generated by the imported cases with an estimated  \", with which we are able to predict the arrival time of the outbreak.",
+            "Two most important parameters, generation time and basic reproduction number are still unknown. The generation time we used was adapted from a previous study. Since  \" is not known, and can be different using different approaches [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], here we use  \" = 1.4 for Wuhan and we set  \" for other locations   a low number 1.1. This number was used because the nation-wide alert has already been received at different cities after 31 December, 2019. The control measures and self awareness make the initial infection to occur less easily. We have learnt from the previous SARS outbreak that it is crucial to implement rapid infection control measures to limit the impact of epidemics, both in terms of preventing more casualties and shortening of the epidemic period. The other important lesson is that a timely public alert against a new spreading epidemic is also most essential [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>].",
+            "Previous study shows that control measures at international cross-borders and screening at borders have influential effect in mitigating the spread of infectious diseases [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. They strongly recommend to strengthen cross-boarder screening system to prevent infectious disease outbreak due to imported cases as China has increased number of imported cases over the years. Besides, [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] studied the effectiveness of border screening for influenza detection among airline passengers in New Zealand. Here the model we constructed is easy to understand and simple to use when transportation data is available. The framework can be extended to multiple infected sources to one single target city. Hence, the model proposed in the current study could help to prevent infectious diseases caused by imported cases from different parts of China moving to neighbouring territories and countries including Hong Kong, Taiwan, Vietnam and so on.",
+            "Ideally, complete cessation of population movement between cities will be a way to block outbreak spreading. However, the effect is difficult to measure given that it is not easy to make a comparative study. But a lesson we learnt from the previous SARS outbreak is that it is crucial to estimate the transmission potential of a new emerging disease as soon as possible and to establish whether additional, more stringent control measures are required [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. Recent studies have shown the importance of modeling in infectious disease control [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. We have evaluated the impact of these control measures under different levels of infectious disease control scenarios. To make an extra 30 days gain, the control measures have to reduce 87% of secondary infections generated by the imported cases. This gives an indicator whether certain control or prevention measures, such as wearing masks, quarantine, etc., are necessary."
+        ],
+        "Declaration of interests": [
+            "All authors declare no competing interests."
+        ],
+        "Acknowledgements": [
+            "We thank Miss Xiaoyue Tan for her assistance in making maps. We thank Prof. Mengsu (Michael) Yang and all the anonymous readers to who have provided invaluable comments. We thank for funding supports from City University of Hong Kong (#7200573 and #9610416).",
+            "HY and XZ designed the study. PJ participated in the data collection. HY, MPH, XZ, PJ and AJ analysed and interpreted the data. HY, MT and MPH wrote the paper. Everyone reviewed, revised and edited the manuscript."
+        ],
+        "References": [
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] World Health Organization (WHO), \u201cPneumonia of unknown cause \u2013 China.\u201d Available at: https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/.",
+            "[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] World Health Organization (WHO), \u201cNovel Coronavirus ( 2019-nCoV ),\u201d WHO Bulletin, 2020. Available at: https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] P. Zhou et al, \u201cDiscovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin,\u201d bioRxiv, p. 2020.01.22.914952, 2020.",
+            "[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] J. F. Chan et al, \u201cA familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission : a study of a family cluster,\u201d Lancet, vol 6736, no. 20, pp. 1\u201310, 2020.",
+            "[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Center for Disease Control and Prevention (CDC), \u201cConfirmed 2019-nCoV Cases Globally.\u201d Available at: https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmedcases.html.",
+            "[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] N. Imai, I. Dorigatti, A. Cori, S. Riley, and N. M. Ferguson, \u201cEstimating the potential total number of novel Coronavirus cases in Wuhan City , China,\u201d Available at: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gidafellowships/2019-nCoV-outbreak-report-17-01-2020.pdf [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] K. C. Chong, H. F. Fong, and C. Y. Zee, \u201cEstimating the incidence reporting rates of new influenza pandemics at an early stage using travel data from the source country,\u201d Epidemiol. Infect., vol 142, no. 5, pp. 955\u2013963, 2014.",
+            "[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] G. M. Hwang et al, \u201cA model-based tool to predict the propagation of infectious disease via airports,\u201d Travel Med. Infect. Dis., vol 10, no. 1, pp. 32\u201342, 2012.",
+            "[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] C. Nicolaides, L. Cueto-Felgueroso, M. C. Gonz\u00e1lez, and R. Juanes, \u201cA metric of influential spreading during contagion dynamics through the air transportation network,\u201d PLoS One, vol 7, no. 7, pp. 1\u201310, 2012.",
+            "[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] R. J. Kubiak, N. Arinaminpathy, and A. R. McLean, \u201cInsights into the evolution and emergence of a novel infectious disease,\u201d PLoS Comput. Biol., vol 6, no. 9, 2010.",
+            "[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] M. Lipsitch et al, \u201cTransmission dynamics and control of severe acute respiratory syndrome,\u201d Science , vol 300, no. 5627, pp. 1966\u201370, 2003.",
+            "[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] T. Liu et al, \u201cTransmission dynamics of 2019 novel coronavirus (2019-nCoV),\u201d bioRxiv, p. 2020.01.25.919787, 2020.",
+            "[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] S. Riley et al, \u201cTransmission dynamics of the etiological agent of SARS in Hong Kong: Impact of public health interventions,\u201d Science , vol 300, no. 5627, pp. 1961\u20131966, 2003.",
+            "[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] World Health Organization (WHO), \u201cStatement on the meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV),\u201d 2020. Available at: https://www.who.int/news-room/detail/23-01-2020statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergencycommittee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov).",
+            "[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] J. M. Read, J. R. E. Bridgen, D. A. T. Cummings, A. Ho, and C. P. Jewell, \u201cNovel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions,\u201d medRxiv, p. 2020.01.23.20018549, 2020.",
+            "[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Institute of Medicine (US) Forum on Microbial Threats, \u201cLearning from SARS: Preparing for the Next Disease Outbreak: Workshop Summary,\u201d Washington, 2004. Available at: https://pubmed.ncbi.nlm.nih.gov/22553895-learning-from-sars-preparing-for-the-nextdisease-outbreak/",
+            "[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] J. Wallinga and P. Teunis, \u201cDifferent epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures,\u201d Am. J. Epidemiol., vol 160, no. 6, pp. 509\u2013 516, 2004.",
+            "[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Y. Wang et al, \u201cEpidemiology of imported infectious diseases, China, 2005\u20132016,\u201d Emerg. Infect. Dis., vol 25, no. 1, pp. 33\u201341, 2019.",
+            "[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] P. C. Priest, L. C. Jennings, A. R. Duncan, C. R. Brunton, and M. G. Baker, \u201cEffectiveness of Border Screening for Detecting Influenza in Arriving Airline Travelers,\u201d Am. J. Public Health, vol 105, no. S4, pp. S607\u2013S613, 2015.",
+            "[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>] C. Fraser, S. Riley, R. M. Anderson, and N. M. Ferguson, \u201cFactors that make an infectious disease outbreak controllable,\u201d Proc. Natl. Acad. Sci. U. S. A., vol 101, no. 16, pp. 6146\u2013 6151, 2004."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "individuals",
+            "number": 1000,
+            "context": "During the early phase of the outbreak, it poses a severe threat to many other regions due to frequent transportation services linking Wuhan to the other cities. <mark class=\"stats\">About 2 weeks later after 31 December, using the number of cases detected outside China, it has been inferred that more than a thousand individuals (with an estimated mean</mark>. 1723) had had an onset of symptoms by January 12, 2020 [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]"
+        },
+        {
+            "participant": "cases",
+            "number": 40,
+            "context": "The changes of  4 by time at each city are plotted from day 1 to 50 (Figure 3A). <mark class=\"stats\">After 50 days since the outbreak, the cumulative cases can reach rapidly above 40 cases for many cities</mark>. After 30 days, most of the cities have secondary cases above a critical threshold of 7.27, calculated from eq(4) using  \" = 1.1"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "novel coronavirus",
+        "wuhan city",
+        "dynamics",
+        "International Air Transport Association",
+        "coronavirus",
+        "border control",
+        "control measure",
+        "person transmission",
+        "public health",
+        "transmission dynamics",
+        "novel virus",
+        "pneumonia",
+        "respiratory syndrome virus",
+        "SARS",
+        "severe acute respiratory syndrome",
+        "different city"
+    ],
+    "keyword_relevance": {
+        "control measure": 0.2317073171,
+        "border control": 0.2195121951,
+        "coronavirus": 0.1341463415,
+        "novel coronavirus": 0.0609756098,
+        "dynamics": 0.0609756098,
+        "pneumonia": 0.0609756098,
+        "SARS": 0.0609756098,
+        "novel virus": 0.0487804878,
+        "International Air Transport Association": 0.0365853659,
+        "person transmission": 0.0243902439,
+        "public health": 0.0243902439,
+        "severe acute respiratory syndrome": 0.0243902439,
+        "different city": 0.012195122,
+        "wuhan city": 0.0,
+        "transmission dynamics": 0.0,
+        "respiratory syndrome virus": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> On 31 December 2019, WHO was alerted to several cases of pneumonia infections in Wuhan City, Hubei Province of China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "The cause of the pneumonia was later identified as a novel Coronavirus (2019-nCoV) genetically very closely related to the Middle Eastern Respiratory Syndrome virus (MERS-CoV) and the Severe Acute Respiratory Syndrome virus (SARSCoV) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+        "This marks the third time in 20 years that a member of the family of coronaviruses (CoVs) has caused an epidemic employing its zoonotic potential, for example, from bats [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+        "About 2 weeks later after 31 December, using the number of cases detected outside China, it has been inferred that more than a thousand individuals (with an estimated mean",
+        "<h2 style=\"display: inline\">Results:</h2> The critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold were determined (Table 1).",
+        "The lower \" can be caused by different estimation procedure or can be caused by isolation and mask wearing measures.",
+        "Under this scenario, following the suggestion from a recent study [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], the authors consider the reporting rate to be near 5% and set initial infected number as 1000 on 31 December.",
+        "The authors use this mild \" parameter setting to evalulate the impact of border control on outbreak spreading",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The 2019-nCoV is currently spreading from Wuhan to many nearby cities and countries. It is hypothesized that the rate of transmission between different cities or countries is proportional to the number of people moving from different locations to Wuhan.",
+        "Since \" is not known, and can be different using different approaches [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], here the authors use \" = 1.4 for Wuhan and the authors set \" for other locations a low number 1.1.",
+        "This number was used because the nation-wide alert has already been received at different cities after 31 December, 2019.",
+        "The other important lesson is that a timely public alert against a new spreading epidemic is most essential [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "On 31 December 2019, WHO was alerted to several cases of pneumonia infections in Wuhan City, Hubei Province of China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "The cause of the pneumonia was later identified as a novel Coronavirus (2019-nCoV) genetically very closely related to the Middle Eastern Respiratory Syndrome virus (MERS-CoV) and the Severe Acute Respiratory Syndrome virus (SARSCoV) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "This marks the third time in 20 years that a member of the family of coronaviruses (CoVs) has caused an epidemic employing its zoonotic potential, for example, from bats [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "About 2 weeks later after 31 December, using the number of cases detected outside China, it has been inferred that more than a thousand individuals (with an estimated mean"
+        ],
+        "Results": [
+            "The critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold were determined (Table 1).",
+            "The lower \" can be caused by different estimation procedure or can be caused by isolation and mask wearing measures.",
+            "Under this scenario, following the suggestion from a recent study [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], the authors consider the reporting rate to be near 5% and set initial infected number as 1000 on 31 December.",
+            "The authors use this mild \" parameter setting to evalulate the impact of border control on outbreak spreading"
+        ],
+        "Conclusion": [
+            "The 2019-nCoV is currently spreading from Wuhan to many nearby cities and countries. It is hypothesized that the rate of transmission between different cities or countries is proportional to the number of people moving from different locations to Wuhan.",
+            "Since \" is not known, and can be different using different approaches [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], here the authors use \" = 1.4 for Wuhan and the authors set \" for other locations a low number 1.1.",
+            "This number was used because the nation-wide alert has already been received at different cities after 31 December, 2019.",
+            "The other important lesson is that a timely public alert against a new spreading epidemic is most essential [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "[1]_0000_a",
+            "entry": "[1] World Health Organization (WHO), \u201cPneumonia of unknown cause \u2013 China.\u201d Available at: https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/.",
+            "url": "https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/"
+        },
+        {
+            "id": "2",
+            "alt_id": "[2]_2019_a",
+            "entry": "[2] World Health Organization (WHO), \u201cNovel Coronavirus ( 2019-nCoV ),\u201d WHO Bulletin, 2020. Available at: https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20WHO%20Novel%20Coronavirus%20%202019nCoV%20%20WHO%20Bulletin%202020%20Available%20at%20httpswwwwhointemergenciesdiseasesnovelcoronavirus2019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20WHO%20Novel%20Coronavirus%20%202019nCoV%20%20WHO%20Bulletin%202020%20Available%20at%20httpswwwwhointemergenciesdiseasesnovelcoronavirus2019"
+        },
+        {
+            "id": "3",
+            "alt_id": "Zhou_2020_a",
+            "entry": "[3] P. Zhou et al., \u201cDiscovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin,\u201d bioRxiv, p. 2020.01.22.914952, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin%2C%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin%2C%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin%2C%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Chan_2019_a",
+            "entry": "[4] J. F. Chan et al., \u201cA familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster,\u201d Lancet, vol. 6736, no. 20, pp. 1\u201310, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20F%20Chan%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%20vol%206736%20no%2020%20pp%20110%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J%20F%20Chan%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%20vol%206736%20no%2020%20pp%20110%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J%20F%20Chan%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%20vol%206736%20no%2020%20pp%20110%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "[5]_2019_b",
+            "entry": "[5] Center for Disease Control and Prevention (CDC), \u201cConfirmed 2019-nCoV Cases Globally.\u201d Available at: https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmedcases.html.",
+            "url": "https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmedcases.html"
+        },
+        {
+            "id": "6",
+            "alt_id": "Imai_et+al_0000_a",
+            "entry": "[6] N. Imai, I. Dorigatti, A. Cori, S. Riley, and N. M. Ferguson, \u201cEstimating the potential total number of novel Coronavirus cases in Wuhan City, China,\u201d Available at: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gidafellowships/2019-nCoV-outbreak-report-17-01-2020.pdf",
+            "url": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gidafellowships/2019-nCoV-outbreak-report-17-01-2020.pdf"
+        },
+        {
+            "id": "7",
+            "alt_id": "Chong_et+al_2014_a",
+            "entry": "[7] K. C. Chong, H. F. Fong, and C. Y. Zee, \u201cEstimating the incidence reporting rates of new influenza pandemics at an early stage using travel data from the source country,\u201d Epidemiol. Infect., vol. 142, no. 5, pp. 955\u2013963, 2014.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chong%2C%20K.C.%20Fong%2C%20H.F.%20Zee%2C%20C.Y.%20Estimating%20the%20incidence%20reporting%20rates%20of%20new%20influenza%20pandemics%20at%20an%20early%20stage%20using%20travel%20data%20from%20the%20source%20country%2C%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chong%2C%20K.C.%20Fong%2C%20H.F.%20Zee%2C%20C.Y.%20Estimating%20the%20incidence%20reporting%20rates%20of%20new%20influenza%20pandemics%20at%20an%20early%20stage%20using%20travel%20data%20from%20the%20source%20country%2C%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chong%2C%20K.C.%20Fong%2C%20H.F.%20Zee%2C%20C.Y.%20Estimating%20the%20incidence%20reporting%20rates%20of%20new%20influenza%20pandemics%20at%20an%20early%20stage%20using%20travel%20data%20from%20the%20source%20country%2C%202014"
+        },
+        {
+            "id": "8",
+            "alt_id": "Hwang_2012_a",
+            "entry": "[8] G. M. Hwang et al., \u201cA model-based tool to predict the propagation of infectious disease via airports,\u201d Travel Med. Infect. Dis., vol. 10, no. 1, pp. 32\u201342, 2012.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hwang%2C%20G.M.%20A%20model-based%20tool%20to%20predict%20the%20propagation%20of%20infectious%20disease%20via%20airports%2C%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hwang%2C%20G.M.%20A%20model-based%20tool%20to%20predict%20the%20propagation%20of%20infectious%20disease%20via%20airports%2C%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hwang%2C%20G.M.%20A%20model-based%20tool%20to%20predict%20the%20propagation%20of%20infectious%20disease%20via%20airports%2C%202012"
+        },
+        {
+            "id": "9",
+            "alt_id": "Nicolaides_et+al_2012_a",
+            "entry": "[9] C. Nicolaides, L. Cueto-Felgueroso, M. C. Gonz\u00e1lez, and R. Juanes, \u201cA metric of influential spreading during contagion dynamics through the air transportation network,\u201d PLoS One, vol. 7, no. 7, pp. 1\u201310, 2012.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nicolaides%2C%20C.%20Cueto-Felgueroso%2C%20L.%20Gonz%C3%A1lez%2C%20M.C.%20Juanes%2C%20R.%20A%20metric%20of%20influential%20spreading%20during%20contagion%20dynamics%20through%20the%20air%20transportation%20network%2C%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nicolaides%2C%20C.%20Cueto-Felgueroso%2C%20L.%20Gonz%C3%A1lez%2C%20M.C.%20Juanes%2C%20R.%20A%20metric%20of%20influential%20spreading%20during%20contagion%20dynamics%20through%20the%20air%20transportation%20network%2C%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nicolaides%2C%20C.%20Cueto-Felgueroso%2C%20L.%20Gonz%C3%A1lez%2C%20M.C.%20Juanes%2C%20R.%20A%20metric%20of%20influential%20spreading%20during%20contagion%20dynamics%20through%20the%20air%20transportation%20network%2C%202012"
+        },
+        {
+            "id": "10",
+            "alt_id": "Kubiak_et+al_2010_a",
+            "entry": "[10] R. J. Kubiak, N. Arinaminpathy, and A. R. McLean, \u201cInsights into the evolution and emergence of a novel infectious disease,\u201d PLoS Comput. Biol., vol. 6, no. 9, 2010.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kubiak%2C%20R.J.%20Arinaminpathy%2C%20N.%20McLean%2C%20A.R.%20Insights%20into%20the%20evolution%20and%20emergence%20of%20a%20novel%20infectious%20disease%2C%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kubiak%2C%20R.J.%20Arinaminpathy%2C%20N.%20McLean%2C%20A.R.%20Insights%20into%20the%20evolution%20and%20emergence%20of%20a%20novel%20infectious%20disease%2C%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kubiak%2C%20R.J.%20Arinaminpathy%2C%20N.%20McLean%2C%20A.R.%20Insights%20into%20the%20evolution%20and%20emergence%20of%20a%20novel%20infectious%20disease%2C%202010"
+        },
+        {
+            "id": "11",
+            "alt_id": "Lipsitch_2003_a",
+            "entry": "[11] M. Lipsitch et al., \u201cTransmission dynamics and control of severe acute respiratory syndrome,\u201d Science, vol. 300, no. 5627, pp. 1966\u201370, 2003.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lipsitch%2C%20M.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%2C%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lipsitch%2C%20M.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%2C%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lipsitch%2C%20M.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%2C%202003"
+        },
+        {
+            "id": "12",
+            "alt_id": "Liu_2020_a",
+            "entry": "[12] T. Liu et al., \u201cTransmission dynamics of 2019 novel coronavirus (2019-nCoV),\u201d bioRxiv, p. 2020.01.25.919787, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=T%20Liu%20et%20al%20Transmission%20dynamics%20of%202019%20novel%20coronavirus%202019nCoV%20bioRxiv%20p%2020200125919787%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Riley_2003_a",
+            "entry": "[13] S. Riley et al., \u201cTransmission dynamics of the etiological agent of SARS in Hong Kong: Impact of public health interventions,\u201d Science, vol. 300, no. 5627, pp. 1961\u20131966, 2003.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Riley%2C%20S.%20Transmission%20dynamics%20of%20the%20etiological%20agent%20of%20SARS%20in%20Hong%20Kong%3A%20Impact%20of%20public%20health%20interventions%2C%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Riley%2C%20S.%20Transmission%20dynamics%20of%20the%20etiological%20agent%20of%20SARS%20in%20Hong%20Kong%3A%20Impact%20of%20public%20health%20interventions%2C%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Riley%2C%20S.%20Transmission%20dynamics%20of%20the%20etiological%20agent%20of%20SARS%20in%20Hong%20Kong%3A%20Impact%20of%20public%20health%20interventions%2C%202003"
+        },
+        {
+            "id": "14",
+            "alt_id": "[14]_2005_a",
+            "entry": "[14] World Health Organization (WHO), \u201cStatement on the meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV),\u201d 2020. Available at: https://www.who.int/news-room/detail/23-01-2020statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergencycommittee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov).",
+            "url": "https://www.who.int/news-room/detail/23-01-2020statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergencycommittee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20WHO%20Statement%20on%20the%20meeting%20of%20the%20International%20Health%20Regulations%202005%20Emergency%20Committee%20regarding%20the%20outbreak%20of%20novel%20coronavirus%202019nCoV%202020%20Available%20at%20httpswwwwhointnewsroomdetail23012020statementonthemeetingoftheinternationalhealthregulations2005emergencycommitteeregardingtheoutbreakofnovelcoronavirus2019ncov",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20WHO%20Statement%20on%20the%20meeting%20of%20the%20International%20Health%20Regulations%202005%20Emergency%20Committee%20regarding%20the%20outbreak%20of%20novel%20coronavirus%202019nCoV%202020%20Available%20at%20httpswwwwhointnewsroomdetail23012020statementonthemeetingoftheinternationalhealthregulations2005emergencycommitteeregardingtheoutbreakofnovelcoronavirus2019ncov"
+        },
+        {
+            "id": "15",
+            "alt_id": "Read_et+al_2020_a",
+            "entry": "[15] J. M. Read, J. R. E. Bridgen, D. A. T. Cummings, A. Ho, and C. P. Jewell, \u201cNovel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions,\u201d medRxiv, p. 2020.01.23.20018549, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20M%20Read%20J%20R%20E%20Bridgen%20D%20A%20T%20Cummings%20A%20Ho%20and%20C%20P%20Jewell%20Novel%20coronavirus%202019nCoV%20early%20estimation%20of%20epidemiological%20parameters%20and%20epidemic%20predictions%20medRxiv%20p%202020012320018549%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J%20M%20Read%20J%20R%20E%20Bridgen%20D%20A%20T%20Cummings%20A%20Ho%20and%20C%20P%20Jewell%20Novel%20coronavirus%202019nCoV%20early%20estimation%20of%20epidemiological%20parameters%20and%20epidemic%20predictions%20medRxiv%20p%202020012320018549%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J%20M%20Read%20J%20R%20E%20Bridgen%20D%20A%20T%20Cummings%20A%20Ho%20and%20C%20P%20Jewell%20Novel%20coronavirus%202019nCoV%20early%20estimation%20of%20epidemiological%20parameters%20and%20epidemic%20predictions%20medRxiv%20p%202020012320018549%202020"
+        },
+        {
+            "id": "16",
+            "alt_id": "[16]_2004_a",
+            "entry": "[16] Institute of Medicine (US) Forum on Microbial Threats, \u201cLearning from SARS: Preparing for the Next Disease Outbreak: Workshop Summary,\u201d Washington, 2004. Available at: https://pubmed.ncbi.nlm.nih.gov/22553895-learning-from-sars-preparing-for-the-nextdisease-outbreak/",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22553895-learning-from-sars-preparing-for-the-nextdisease-outbreak/",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Institute%20of%20Medicine%20US%20Forum%20on%20Microbial%20Threats%20Learning%20from%20SARS%20Preparing%20for%20the%20Next%20Disease%20Outbreak%20Workshop%20Summary%20Washington%202004%20Available%20at%20httpspubmedncbinlmnihgov22553895learningfromsarspreparingforthenextdiseaseoutbreak",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Institute%20of%20Medicine%20US%20Forum%20on%20Microbial%20Threats%20Learning%20from%20SARS%20Preparing%20for%20the%20Next%20Disease%20Outbreak%20Workshop%20Summary%20Washington%202004%20Available%20at%20httpspubmedncbinlmnihgov22553895learningfromsarspreparingforthenextdiseaseoutbreak"
+        },
+        {
+            "id": "17",
+            "alt_id": "Wallinga_2004_a",
+            "entry": "[17] J. Wallinga and P. Teunis, \u201cDifferent epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures,\u201d Am. J. Epidemiol., vol. 160, no. 6, pp. 509\u2013 516, 2004.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%2C%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%2C%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%2C%202004"
+        },
+        {
+            "id": "18",
+            "alt_id": "Wang_2019_a",
+            "entry": "[18] Y. Wang et al., \u201cEpidemiology of imported infectious diseases, China, 2005\u20132016,\u201d Emerg. Infect. Dis., vol. 25, no. 1, pp. 33\u201341, 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Y%20Wang%20et%20al%20Epidemiology%20of%20imported%20infectious%20diseases%20China%2020052016%20Emerg%20Infect%20Dis%20vol%2025%20no%201%20pp%203341%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Y%20Wang%20et%20al%20Epidemiology%20of%20imported%20infectious%20diseases%20China%2020052016%20Emerg%20Infect%20Dis%20vol%2025%20no%201%20pp%203341%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Y%20Wang%20et%20al%20Epidemiology%20of%20imported%20infectious%20diseases%20China%2020052016%20Emerg%20Infect%20Dis%20vol%2025%20no%201%20pp%203341%202019"
+        },
+        {
+            "id": "19",
+            "alt_id": "Priest_et+al_2015_a",
+            "entry": "[19] P. C. Priest, L. C. Jennings, A. R. Duncan, C. R. Brunton, and M. G. Baker, \u201cEffectiveness of Border Screening for Detecting Influenza in Arriving Airline Travelers,\u201d Am. J. Public Health, vol. 105, no. S4, pp. S607\u2013S613, 2015.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Priest%2C%20P.C.%20Jennings%2C%20L.C.%20Duncan%2C%20A.R.%20Brunton%2C%20C.R.%20Effectiveness%20of%20Border%20Screening%20for%20Detecting%20Influenza%20in%20Arriving%20Airline%20Travelers%2C%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Priest%2C%20P.C.%20Jennings%2C%20L.C.%20Duncan%2C%20A.R.%20Brunton%2C%20C.R.%20Effectiveness%20of%20Border%20Screening%20for%20Detecting%20Influenza%20in%20Arriving%20Airline%20Travelers%2C%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Priest%2C%20P.C.%20Jennings%2C%20L.C.%20Duncan%2C%20A.R.%20Brunton%2C%20C.R.%20Effectiveness%20of%20Border%20Screening%20for%20Detecting%20Influenza%20in%20Arriving%20Airline%20Travelers%2C%202015"
+        },
+        {
+            "id": "20",
+            "alt_id": "Fraser_et+al_2004_a",
+            "entry": "[20] C. Fraser, S. Riley, R. M. Anderson, and N. M. Ferguson, \u201cFactors that make an infectious disease outbreak controllable,\u201d Proc. Natl. Acad. Sci. U. S. A., vol. 101, no. 16, pp. 6146\u2013 6151, 2004. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%2C%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%2C%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%2C%202004"
+        }
+    ],
+    "facts": [
+        "A novel corona virus was identified in Wuhan",
+        "most important public health tasks is to prevent the spread of the virus to other cities",
+        "full-scale border control measures to prevent the spread of virus have been discussed in many nearby countries",
+        "The challenge is that many people have traveled from",
+        "difficult to forecast the number of imported cases at different cities",
+        "WHO was alerted to several cases of pneumonia infections",
+        "The cause of the pneumonia was later identified as a novel Coronavirus",
+        "able to establish between person-to-person transmission",
+        "The outbreak caused by the novel coronavirus is currently occurring in",
+        "the number of cases detected outside China",
+        "the cumulative number of secondary cases generated by the imported cases",
+        "Outbreak spreading during early phase in a lower scenario",
+        "the generation time was as short as 7 days",
+        "the reporting rate to be near 5%",
+        "the number of infected persons with symptoms onset will be revealed on 12 January",
+        "same as the value estimated from the study",
+        "this mild \" parameter setting to evalulate the impact of border control on outbreak spreading",
+        "that the rate of transmission between different cities or countries is proportional to the number of people moving from different locations",
+        "very few studies have been done to predict the spreading of the outbreaks of newly emerging diseases using air",
+        "an analytical solution to calculate the cumulative number of secondary cases generated by the imported cases",
+        "This number was used because the nation-wide alert has already been received at different cities",
+        "implement rapid infection control measures to limit the impact of epidemics",
+        "The other important lesson is that a timely public alert"
+    ],
+    "claims": [
+        "To incorporate the border control measure into our model, we introduce a control factor   such that",
+        "We evaluated the impact of border control measures by introducting a control rate   to reduce the transporation rate between two cities, such that  4",
+        "We have evaluated the impact of these control measures under different levels of infectious disease control scenarios"
+    ],
+    "findings": [
+        "Under the higher  \" (2.92), the effect on reducing the chance of outbreak emergence is generally low until the border control measure was enhanced to reduce more than 95% of the connections"
+    ],
+    "processes": [],
+    "key_statements": [
+        "The cause of the pneumonia was later identified as a novel Coronavirus (2019-nCoV) genetically very closely related to the Middle Eastern Respiratory Syndrome virus (MERS-CoV) and the Severe Acute Respiratory Syndrome virus (SARSCoV) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "The critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold were determined (Table 1)",
+        "The lower \" can be caused by different estimation procedure or can be caused by isolation and mask wearing measures. Under this scenario, following the suggestion from a recent study [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], we consider the reporting rate to be near 5% and set initial infected number as 1000 on 31 December",
+        "Considering the incubation period to be 3 days, the number of infected persons with symptoms onset will be revealed on 12 January, 2020, same as the value estimated from the study [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "The critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold was determined (Table 2)",
+        "To achieve the gain time of control for transportation of a particular city, we calculate critical time given the control such that the cumulative number of secondary cases generated by the imported cases is greater than critical threshold number",
+        "Our study provides an analytical solution to calculate the cumulative number of secondary cases generated by the imported cases with an estimated \", with which we are able to predict the arrival time of the outbreak",
+        "We have learnt from the previous SARS outbreak that it is crucial to implement rapid infection control measures to limit the impact of epidemics, both in terms of preventing more casualties and shortening of the epidemic period"
+    ],
+    "top_statements": [
+        "On 31 December 2019, WHO was alerted to several cases of pneumonia infections in Wuhan City, Hubei Province of China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "The cause of the pneumonia was later identified as a novel Coronavirus (2019-nCoV) genetically very closely related to the Middle Eastern Respiratory Syndrome virus (MERS-CoV) and the Severe Acute Respiratory Syndrome virus (SARSCoV) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "The critical time at which the cumulative number of secondary cases generated by the imported cases larger than the critical threshold were determined (Table 1)",
+        "Considering the incubation period to be 3 days, the number of infected persons with symptoms onset will be revealed on 12 January, 2020, same as the value estimated from the study [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "Our study provides an analytical solution to calculate the cumulative number of secondary cases generated by the imported cases with an estimated \", with which we are able to predict the arrival time of the outbreak",
+        "We have learnt from the previous SARS outbreak that it is crucial to implement rapid infection control measures to limit the impact of epidemics, both in terms of preventing more casualties and shortening of the epidemic period"
+    ],
+    "headline": "We have learnt from the previous SARS outbreak that it is crucial to implement rapid infection control measures to limit the impact of epidemics, both in terms of preventing more casualties and shortening of the epidemic period",
+    "contexts": [],
+    "abbreviations": {
+        "IATA": "International Air Transport Association"
+    }
+}

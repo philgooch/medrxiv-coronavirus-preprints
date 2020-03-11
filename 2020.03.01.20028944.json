@@ -1,0 +1,563 @@
+{
+    "filename": "2020.03.01.20028944.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 894363,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.01.20028944",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/06/2020.03.01.20028944.full.pdf"
+        },
+        "title": "Epidemiologic Characteristics of COVID-19 in Guizhou, China",
+        "author": "Kaike Ping",
+        "date": 2020,
+        "affiliations": [
+            "Guizhou Center for Disease Control and Prevention, Guizhou, China (K."
+        ],
+        "abstract": "At the end of 2019, a coronavirus disease 2019 (COVID-19) outbroke in Wuhan, China, and spread to Guizhou province on January of 2020. To acquire the epidemiologic characteristics of COVID-19 in Guizhou, China, we collected data on 162 laboratory-confirmed cases related to COVID-19. We described the demographic characteristics of the cases and estimated the incubation period, serial interval and basic reproduction number. We also presented two representative case studies in Guizhou province -- Case Study 1 was an example of asymptomatic carrier; and Case Study 2 was an example of a large and complex infection chain that involved four different districts spanning three provinces and eight families. With an estimation of 8 days incubation period and 6 days serial interval, our results indicate that there may exist infectiousness during the incubation period for 2019-nCoV. This increases the difficulty of screening or identifying cases related to COVID-19.",
+        "references": "@book{unknown-a,\n  publisher = {Novel Coronavirus ( 2019-nCoV): situation report, [EB/OL]. World Health Organization},\n  url = {https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf.2020-02-11.},\n  language = {},\n  organization = {World Health Organization}\n}\n@incollection{ryan-a,\n  author = {Ryan, R. and Kerri, B.},\n  title = {Health officials to announce 'presumptive case'},\n  booktitle = {of coronavirus in Toronto [EB/OL]. Global News},\n  url = {https://globalnews.ca/news/6462626/coronavirus-toronto-hospital/.2020-01-25.},\n  language = {}\n}\n@incollection{s-a,\n  author = {S, Lena H. and S, Lenny B.First U.},\n  title = {case of potentially deadly Chinese coronavirus confirmed in Washington state [EB/OL]},\n  source = {The Washington Post.},\n  url = {https://www.washingtonpost.com/health/2020/01/21/coronavirus-us-case/.},\n  language = {}\n}\n@techreport{unknown-b,\n  url = {http://www.who.int/csr/don/16-january-},\n  institution = {World Health Organization}\n}\n@misc{unknown-c,\n  volume = {novel-coronavirus-japan-ex-china/en/.},\n  pages = {2020\u201301}\n}\n@misc{jacob-a,\n  author = {Jacob, E.},\n  title = {Coronavirus: trois premiers cas confirm\u00e9s en France [EB/OL]. Le Figaro.fr (in French)},\n  url = {https://www.lefigaro.fr/sciences/coronavirus-troispremiers-cas-confirmes-en-france-20200124.2020-01-24.},\n  language = {}\n}\n@article{xiang2013a,\n  author = {Xiang, N. and Havers, F. and Chen, T.},\n  title = {Use of national pneumonia surveillance to describe influenza A(H7N9) virus epidemiology, China, 2004\u20132013},\n  journal = {Emerg Infect Dis},\n  date = {2013},\n  volume = {19},\n  pages = {1784\u201390},\n  more-authors = {true},\n  language = {}\n}\n@misc{committee-a,\n  author = {Committee, Guizhou Health},\n  title = {COVID-19 condition in Guizhou province until 2020-02-14 [EB/OL]. Guizhou Health Committee},\n  language = {}\n}\n@misc{unknown-d,\n  url = {http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.}\n}\n@misc{unknown-e,\n  volume = {html.},\n  pages = {2020\u201302}\n}\n@book{li-a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia[J]},\n  publisher = {Journal of},\n  more-authors = {true},\n  language = {},\n  address = {New England}\n}\n@techreport{unknown-f,\n  title = {Laboratory diagnostics for novel coronavirus [EB/OL]. World Health Organization},\n  url = {https://www.who.int/healthtopics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.2020-02-12.},\n  language = {},\n  institution = {World Health Organization}\n}\n@article{vynnycky2000a,\n  author = {Vynnycky, E. and Fine, P.E.},\n  title = {Lifetime risks, incubation period, and serial interval of tuberculosis},\n  journal = {Am J Epidemiol},\n  date = {2000},\n  volume = {152},\n  pages = {247\u2013263},\n  number = {3},\n  language = {}\n}\n@article{reich2009a,\n  author = {Reich, N.G. and Lessler, J. and Cummings, D.A.T. and Brookmeyer, R.},\n  date = {2009},\n  title = {Estimating incubation periods with coarse data},\n  journal = {Statistics in Medicine},\n  volume = {28},\n  pages = {2769\u20132784},\n  number = {22},\n  language = {}\n}\n@article{obadia2012a,\n  author = {Obadia, T. and Haneef, R. and Y, Bo\u00eblle P.},\n  title = {The R0 package: a toolbox to estimate reproduction numbers for epidemic outbreaks},\n  journal = {BMC medical informatics and decision making},\n  date = {2012},\n  volume = {12},\n  pages = {147},\n  number = {1},\n  language = {}\n}\n@article{rothe2020a,\n  author = {Rothe, Camilla},\n  title = {Transmission of 2019-nCoV infection from an asymptomatic contact in Germany.},\n  journal = {New England Journal of Medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown-g,\n  title = {COVID-19 condition in China until 2020-02-15},\n  pages = {7860\u2013202002},\n  language = {},\n  institution = {National Health Committee}\n}\n@incollection{nishiura2019a,\n  author = {Nishiura, Hiroshi},\n  title = {\"The Rate of Underascertainment of Novel Coronavirus},\n  date = {2019},\n  more-authors = {true},\n  source = {Infection: Estimation Using Japanese Passengers},\n  language = {}\n}\n@misc{unknown-h,\n  title = {Data on Evacuation Flights.\"},\n  unknown = {2020): 419},\n  language = {}\n}\n",
+        "emails": [
+            "cdchuangyan@163.com"
+        ],
+        "references_ris": "TY  - BOOK\nPB  - Novel Coronavirus ( 2019-nCoV): situation report, [EB/OL]. World Health Organization\nUR  - https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf.2020-02-11.\nLA  - \nC1  - World Health Organization\nER  - \n\nTY  - CHAP\nAU  - Ryan, R.\nAU  - Kerri, B.\nTI  - Health officials to announce 'presumptive case'\nT2  - of coronavirus in Toronto [EB/OL]. Global News\nUR  - https://globalnews.ca/news/6462626/coronavirus-toronto-hospital/.2020-01-25.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - S, Lena H.\nAU  - S, Lenny B.First U.\nTI  - case of potentially deadly Chinese coronavirus confirmed in Washington state [EB/OL]\nT2  - The Washington Post.\nUR  - https://www.washingtonpost.com/health/2020/01/21/coronavirus-us-case/.\nLA  - \nER  - \n\nTY  - RPRT\nUR  - http://www.who.int/csr/don/16-january-\nC1  - World Health Organization\nER  - \n\nTY  - GEN\nVL  - novel-coronavirus-japan-ex-china/en/.\nSP  - 2020\nEP  - 01\nER  - \n\nTY  - GEN\nAU  - Jacob, E.\nTI  - Coronavirus: trois premiers cas confirm\u00e9s en France [EB/OL]. Le Figaro.fr (in French)\nUR  - https://www.lefigaro.fr/sciences/coronavirus-troispremiers-cas-confirmes-en-france-20200124.2020-01-24.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xiang, N.\nAU  - Havers, F.\nAU  - Chen, T.\nTI  - Use of national pneumonia surveillance to describe influenza A(H7N9) virus epidemiology, China, 2004\u20132013\nT2  - Emerg Infect Dis\nPY  - 2013\nDA  - 2013\nVL  - 19\nSP  - 1784\nEP  - 90\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Committee, Guizhou Health\nTI  - COVID-19 condition in Guizhou province until 2020-02-14 [EB/OL]. Guizhou Health Committee\nLA  - \nER  - \n\nTY  - GEN\nUR  - http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.\nER  - \n\nTY  - GEN\nVL  - html.\nSP  - 2020\nEP  - 02\nER  - \n\nTY  - BOOK\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia[J]\nPB  - Journal of\nC1  - true\nLA  - \nCY  - New England\nER  - \n\nTY  - RPRT\nTI  - Laboratory diagnostics for novel coronavirus [EB/OL]. World Health Organization\nUR  - https://www.who.int/healthtopics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.2020-02-12.\nLA  - \nC1  - World Health Organization\nER  - \n\nTY  - JOUR\nAU  - Vynnycky, E.\nAU  - Fine, P.E.\nTI  - Lifetime risks, incubation period, and serial interval of tuberculosis\nT2  - Am J Epidemiol\nPY  - 2000\nDA  - 2000\nVL  - 152\nSP  - 247\nEP  - 263\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Reich, N.G.\nAU  - Lessler, J.\nAU  - Cummings, D.A.T.\nAU  - Brookmeyer, R.\nPY  - 2009\nDA  - 2009\nTI  - Estimating incubation periods with coarse data\nT2  - Statistics in Medicine\nVL  - 28\nSP  - 2769\nEP  - 2784\nIS  - 22\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Obadia, T.\nAU  - Haneef, R.\nAU  - Y, Bo\u00eblle P.\nTI  - The R0 package: a toolbox to estimate reproduction numbers for epidemic outbreaks\nT2  - BMC medical informatics and decision making\nPY  - 2012\nDA  - 2012\nVL  - 12\nSP  - 147\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rothe, Camilla\nTI  - Transmission of 2019-nCoV infection from an asymptomatic contact in Germany.\nT2  - New England Journal of Medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nTI  - COVID-19 condition in China until 2020-02-15\nSP  - 7860\nEP  - 202002\nLA  - \nC1  - National Health Committee\nER  - \n\nTY  - CHAP\nAU  - Nishiura, Hiroshi\nTI  - \"The Rate of Underascertainment of Novel Coronavirus\nPY  - 2019\nDA  - 2019\nC1  - true\nT2  - Infection: Estimation Using Japanese Passengers\nLA  - \nER  - \n\nTY  - GEN\nTI  - Data on Evacuation Flights.\"\nC1  - 2020): 419\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Demographic Characteristics of Cases with COVID-19 in Guizhou"
+            },
+            {
+                "id": "2",
+                "caption": "Percentiles of incubation period"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The geographic distribution of confirmed cases in China and Guizhou. 237 (A) Geographic distribution and statistics of all confirmed cases in China as of February 16. Data was collected from National Health"
+            },
+            {
+                "id": "2",
+                "caption": "Distribution of the onset date of confirmed and suspicious cases of 247 COVID-19 in Guizhou, China. 248 The horizontal axis represents the onset date of confirmed cases or suspected cases. 249 The onset data was defined as the self-reported first date to have symptoms related to 250 2019-nCoV and as the confirmation date for confirmed cases without symptoms. On 251 January 21, the first case was officially confirmed and reported by Guiyang (capital 252 city of Guizhou) CDC, whose onset date was on January 9th when the case was still in"
+            },
+            {
+                "id": "3",
+                "caption": "Key time-to-event distributions. 261 (A) The time windows of exposure and onset points of symptoms for 93 cases (45 262 females, 48.38%; 48 males, 51.62%; median age 42, IQR: 27-55) that have detailed 263 information of exposure and onset dates. Blue shaded regions indicate the exposure"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.03.01.20028944.full.pdf_83zhu82m_p3zywo9k.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20028944.full.pdf_83zhu82m_images_l2b44rwe/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20028944.full.pdf_83zhu82m_images_l2b44rwe/img-001.png",
+            "https://sandbox-api.scholarcy.com/images/2020.03.01.20028944.full.pdf_83zhu82m_images_l2b44rwe/img-002.png"
+        ]
+    },
+    "sections": {
+        "background": [
+            "At the end of 2019, a Novel Coronavirus Infected Pneumonia (NCIP) outbroke in Wuhan, China. This coronavirus was named as 2019-Novel Coronavirus (2019-<br/><br/>nCoV), and then renamed this disease caused by the virus strain from 2019-nCoV acute respiratory disease to \"coronavirus disease 2019\" (COVID-19) by World Health<br/><br/>Organization (WHO) officially[0]. This incident caused a public health issue within<br/><br/>China immediately, and spread to several countries over the world[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>].<br/><br/>Guizhou province is in Southwest of China, close (~1,000 km) to Wuhan. With the increasing number of COVID-19 patients in mainland China, Guizhou detected its first confirmed case on January 21, and was officially confirmed by Chinese Center for Disease Control and Prevention (China CDC) on January 23. Before the confirmation of the first case, Guizhou CDC identified and screened suspected"
+        ],
+        "methods": [
+            "Case Definitions<br/><br/>According to standard clinical guidelines, suspected case of COVID-19 was defined as the combination of clinical characteristics and epidemiologic histories.<br/><br/>Clinical characteristics of suspected case must fit at least 2 of 3 following criteria: the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.<br/><br/>\u201cfever and/or symptoms in respiratory system; radiographic evidence of pneumonia; low or normal white-cell count or low lymphocyte count.\u201d 8 Epidemiologic histories must fit at least 1 of 4 following criteria: \u201cA history of traveling Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; A history of contacting with patient who has fever or symptoms in respiratory system from Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; Any person who has had a close contact with confirmed cases; cluster cases.\u201d[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] With a stricter definition, Guizhou Health Committee counted all cases that fit clinical characteristics criteria but not any criteria of epidemiologic histories described above as suspected cases. A confirmed case was defined as a case with respiratory specimens that tested positive for the 2019-nCoV by at least one of the following two methods: positive result by real-time reverse-transcription\u2013<br/><br/>polymerase-chain-reaction (RT-PCR) assay for 2019-nCoV or a genetic sequence that matches 2019-nCoV. Asymptomatic carrier (i.e. case that displays no signs or symptoms to 2019-nCoV) was not announced by Health Committee officially, but was included in this study.    Sources of Data<br/><br/>Suspected case was screened by local hospital or local Center for Disease<br/><br/>Control and Prevention (CDC). Once the patient was identified as confirmed case by laboratory, a joint field epidemiology team comprising members from Guizhou CDC and local CDC would open a detailed field investigation on demography information, epidemiologic histories, timelines of key events, and close contacts."
+        ],
+        "ethical_compliance": [
+            "Data collection and analysis of cases and their close contacts were determined by Guizhou Health Commission of the People\u2019s Republic of China. It is part of a continuing public health outbreak investigation and exempted from institutional review board assessment."
+        ],
+        "results": [
+            "There were 759 cases in total. Among all patients, 144 (18.97%) cases were confirmed cases with symptoms to 2019-nCOV, 18 (2.37% of all 759 cases, 11.11%<br/><br/>of all 162 confirmed cases) cases were confirmed as cases without symptoms, 597<br/><br/>(78.65%) cases were diagnosed as other diseases after clinical diagnosing or laboratory testing, 34 (4.47%) cases were suspected cases that were pending for laboratory testing. Figure 1 shows the geographic distribution of confirmed cases throughout China and Guizhou. The median age of all confirmed cases was 37 years (ranges from 1 month to 89 years), 82 (50.62%) confirmed cases were male, 84<br/><br/>(51.85%) confirmed cases were exposed to Wuhan or other districts outside Guizhou, the detailed demographic data are shown in Table 1.<br/><br/>The first case was detected on January 21 and was officially confirmed by<br/><br/>China CDC on January 23. It was reported by Guiyang (capital city of Guizhou)"
+        ],
+        "funding": [
+            "The authors received no specific funding for this research.  Author Bio Kaike Ping acquires his Master degree of Biostatistics in Southern Medical University on 2017. Now he is a researcher at Center for Disease Control and Prevention of Guizhou, China, where he has been investigating respiratory diseases and their epidemiologic Characteristics. His research interests include disease distributions, time series analysis, survival analysis, and machine learning."
+        ],
+        "limitations": [
+            "There are several limitations in our study. First, we could not collect all complete exposure and onset data from all confirmed cases, due to the recall bias and the lack of standardization on epidemiological investigation at the beginning of the incident. Second, some key data from asymptomatic carrier, especially the onset date or onset window, and left bound of exposure window from cases of Wuhan residents were unavailable, other statistical model may be used to fit such kind of censored data to estimate serial interval and R0 more accurately."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "Wuhan, China, and spread to Guizhou province on January of 2020. To acquire the epidemiologic characteristics of COVID-19 in Guizhou, China, we collected data on laboratory-confirmed cases related to COVID-19. We described the demographic characteristics of the cases and estimated the incubation period, serial interval and basic reproduction number. With an estimation of 8 days incubation period and 6 days serial interval, our results indicate that there may exist infectiousness during the incubation period for 2019-nCoV. This increases the difficulty of screening or identifying cases related to COVID-19."
+        ],
+        "Background": [
+            "At the end of 2019, a Novel Coronavirus Infected Pneumonia (NCIP) outbroke in Wuhan, China. This coronavirus was named as 2019-Novel Coronavirus (2019-",
+            "nCoV), and then renamed this disease caused by the virus strain from 2019-nCoV acute respiratory disease to \"coronavirus disease 2019\" (COVID-19) by World Health",
+            "Organization (WHO) officially[0]. This incident caused a public health issue within",
+            "China immediately, and spread to several countries over the world[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>\u2013<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>].",
+            "Guizhou province is in Southwest of China, close (~1,000 km) to Wuhan. With the increasing number of COVID-19 patients in mainland China, Guizhou detected its first confirmed case on January 21, and was officially confirmed by Chinese Center for Disease Control and Prevention (China CDC) on January 23. Before the confirmation of the first case, Guizhou CDC identified and screened suspected",
+            "COVID-19 cases by \u201cpneumonia of unknown etiology\u201d surveillance mechanism[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].",
+            "After the confirmation, Guizhou CDC started to identify and screen every case with pneumonia.",
+            "Until February 16, over 140 laboratory-confirmed cases were officially reported by Guizhou Health Committee[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. In this study, we analyzed the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19."
+        ],
+        "Methods": [
+            "According to standard clinical guidelines, suspected case of COVID-19 was defined as the combination of clinical characteristics and epidemiologic histories.",
+            "Clinical characteristics of suspected case must fit at least 2 of 3 following criteria: the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "\u201cfever and/or symptoms in respiratory system; radiographic evidence of pneumonia; low or normal white-cell count or low lymphocyte count.\u201d 8 Epidemiologic histories must fit at least 1 of 4 following criteria: \u201cA history of traveling Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; A history of contacting with patient who has fever or symptoms in respiratory system from Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; Any person who has had a close contact with confirmed cases; cluster cases.\u201d[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] With a stricter definition, Guizhou Health Committee counted all cases that fit clinical characteristics criteria but not any criteria of epidemiologic histories described above as suspected cases. A confirmed case was defined as a case with respiratory specimens that tested positive for the 2019-nCoV by at least one of the following two methods: positive result by real-time reverse-transcription\u2013",
+            "polymerase-chain-reaction (RT-PCR) assay for 2019-nCoV or a genetic sequence that matches 2019-nCoV. Asymptomatic carrier (i.e. case that displays no signs or symptoms to 2019-nCoV) was not announced by Health Committee officially, but was included in this study.",
+            "Control and Prevention (CDC). Once the patient was identified as confirmed case by laboratory, a joint field epidemiology team comprising members from Guizhou CDC and local CDC would open a detailed field investigation on demography information, epidemiologic histories, timelines of key events, and close contacts.",
+            "All data from epidemiological reports were inputted into standardized forms from technical protocols designed by China CDC. At least two team members independently review the full report of each case report to ensure that data is correctly input.",
+            "Once a case was evaluated as suspected case, local CDC would finish an initial investigation report in 24 hours and collect respiratory specimens for centralized laboratory testing. When case was confirmed as positive to 2019-nCoV, province CDC would send a special epidemiology team to investigate with local",
+            "CDC, in order to acquire more detailed information. Information was collected from infected individuals, family members, medical workers, close contacts, GPS-info, and",
+            "CCTV camera, etc. Information included basic demography data, detailed life trace and all close contacts, clinical characteristics, exposure history, etc.",
+            "With the guidelines of protocol by World Health Organization (WHO) 9, specimens of suspected cases were taken from whose upper and lower respiratory tract by professional medical worker from CDC or hospital. RNA was extracted and tested by RT-PCR with primers and probes for 2019-nCoV. Cross-reactivity with other known respiratory viruses and bacteria such as Influenza A (H1N1, H3N2, H5N1, or",
+            "H7N9), Influenza B (Victoria or Yamagata), MERS-CoV, Adenovirus, etc. are also be tested.",
+            "The onset date was defined as the self-reported first date to have symptoms related to 2019-nCoV or the date of visiting to clinical facilities if it was unavailable to acquire the accurate onset date, and as the confirmation date for confirmed cases without symptoms. As the date of infecting exposure for a given individual falls within a finite interval, an exposure window was clarified to denote this interval.",
+            "Criteria of infecting exposure was described above in the Case Definitions section.",
+            "Continuous variables were expressed as the means and standard deviations or medians, the interquartile range (IQR) equals the difference between 75th and 25th percentiles. Categorical variables were summarized as the counts and percentages in each category. The incubation period is defined as the delay from viral infection to the onset of illness[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], which was estimated by fitting a parametric accelerated failure time model with log-normal distribution of cases with detailed exposure window data, and standard errors of parameters was computed using a 1,000 times bootstrap routine, this was performed by R package coarseDataTools[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. The serial interval distribution (i.e. the duration between symptom onset of a primary/index case and symptom onset of its secondary cases) was fitted by a Weibull distribution with data from cluster events. The basic reproduction number (R0) was defined as the expected number of cases directly generated by one case in a population where all individuals are susceptible to infection, it was estimated by maximum likelihood estimation via R package R012.",
+            "3.6.2 (R Foundation for Statistical Computing)."
+        ],
+        "Ethics approval": [
+            "Data collection and analysis of cases and their close contacts were determined by Guizhou Health Commission of the People\u2019s Republic of China. It is part of a continuing public health outbreak investigation and exempted from institutional review board assessment."
+        ],
+        "Results": [
+            "There were 759 cases in total. Among all patients, 144 (18.97%) cases were confirmed cases with symptoms to 2019-nCOV, 18 (2.37% of all 759 cases, 11.11%",
+            "(78.65%) cases were diagnosed as other diseases after clinical diagnosing or laboratory testing, 34 (4.47%) cases were suspected cases that were pending for laboratory testing. Figure 1 shows the geographic distribution of confirmed cases throughout China and Guizhou. The median age of all confirmed cases was 37 years (ranges from 1 month to 89 years), 82 (50.62%) confirmed cases were male, 84",
+            "(51.85%) confirmed cases were exposed to Wuhan or other districts outside Guizhou, the detailed demographic data are shown in Table 1.",
+            "CDC. This case was a 51-year-old male, infected in Wuhan where he was there to do some business affairs. His onset date was on January 9 when he was still in Wuhan.",
+            "After returning to Guizhou on January 14, he visited a local hospital for several times until January 16 when he was isolated by the Division of Infection. Figure 2 shows the distribution of the onset date of all cases related to 2019-nCoV over time. It is notable that there was a decline of cases after February 7th, which is most likely attributed to the delay of reporting by the local hospital and laboratory confirmation.",
+            "We included 93 confirmed cases with detailed exposure window and onset date information to estimate the incubation period (Fig. 3 A-B). The median incubation period was 8.06 days (95% confidence interval [CI]: 6.89 \u2013 9.36). The",
+            "95% percentile was 21.90 days (95% CI: 18.21 \u2013 25.45). Other percentiles are shown on Table 2. We obtained 57 observations from cluster cases and estimated the serial interval distribution (Fig. 3C) with the mean (\u00b1SD) of 6.37\u00b14.15 days. The estimated basic reproduction number (R0) was 1.09 (95% CI: 0.94 \u2013 1.26).",
+            "This study provides an initial analysis among epidemiologic characteristics and two typical transmission phenomena of COVID-19. Most index cases were exposed to Wuhan or confirmed cases related to Wuhan, but it is also necessary to prevent the community transmission of COVID-19. Measures such as community screening, isolation of close contacts, public transportation limitation, extended population of PCR testing, enhanced disinfection, and health education etc. could be taken. Our findings provide more epidemiologic data to this incident of COVID-19, which contribute to the further analysis and the control of this disease.",
+            "In addition to the evidence of the human-to-human transmission, it is likely that there exists infectiousness to some extend during the incubation period, and the presence of \u201csuper-spreaders\u201d. The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in our study, which is longer than a recent report of 425 patients (8.2 days vs. 5.2 days), this may be a results of recall bias, during epidemiological investigation, we found that some cases actually have had shown mild symptoms days before the date they reported so as to their ignorance. We estimated the R0 as 1.09 (95% CI: 1.9",
+            "\u2013 1.2), which means each patient can infect other 1.09 people on average. In commonly used infection models, when R0 > 1 the infection will be able to start spreading in a population, but not if R0 < 1.",
+            "R0 was calculated under the assumptions that an infected individual but has no symptoms does not yet infect others, which assumes that all index cases should show symptoms before their secondary cases. However, as the investigation went on, Guizhou CDC found that there existed index cases who showed symptoms after that of their secondary cases. This may lead to that the estimated R0 was not robust as we do not hold enough evidence and information to the presence of asymptomatic carrier, those data were not included in the estimation model.",
+            "There are several limitations in our study. First, we could not collect all complete exposure and onset data from all confirmed cases, due to the recall bias and the lack of standardization on epidemiological investigation at the beginning of the incident. Second, some key data from asymptomatic carrier, especially the onset date or onset window, and left bound of exposure window from cases of Wuhan residents were unavailable, other statistical model may be used to fit such kind of censored data to estimate serial interval and R0 more accurately."
+        ],
+        "Funding": [
+            "The authors received no specific funding for this research.",
+            "Prevention of Guizhou, China, where he has been investigating respiratory diseases and their epidemiologic Characteristics. His research interests include disease distributions, time series analysis, survival analysis, and machine learning."
+        ],
+        "References": [
+            "1. World Health Organization. Novel Coronavirus (2019-nCoV): situation report,",
+            "[EB/OL]. World Health Organization. https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf. 2020-02-",
+            "2. Ryan R, Kerri B. Health officials to announce 'presumptive case' of coronavirus in Toronto [EB/OL]. Global News.",
+            "https://globalnews.ca/news/6462626/coronavirus-toronto-hospital/. 2020-01-",
+            "3. Lena H. S, Lenny B. First U.S case of potentially deadly Chinese coronavirus confirmed in Washington state [EB/OL]. The Washington Post.",
+            "https://www.washingtonpost.com/health/2020/01/21/coronavirus-us-case/.",
+            "2020-01-21.",
+            "4. World Health Organization. WHO | Novel Coronavirus \u2013 Japan (ex-China)",
+            "[EB/OL]. World Health Organization. http://www.who.int/csr/don/16-january-",
+            "2020-novel-coronavirus-japan-ex-china/en/. 2020-01-17.",
+            "5. Jacob E. Coronavirus: trois premiers cas confirm\u00e9s en France [EB/OL]. Le",
+            "Figaro.fr (in French). https://www.lefigaro.fr/sciences/coronavirus-troispremiers-cas-confirmes-en-france-20200124. 2020-01-24.",
+            "6. Xiang N, Havers F, Chen T, et al Use of national pneumonia surveillance to describe influenza A(H7N9) virus epidemiology, China, 2004\u20132013. Emerg",
+            "Infect Dis 2013; 19: 1784-90.",
+            "7. Guizhou Health Committee. COVID-19 condition in Guizhou province until",
+            "2020-02-14 [EB/OL]. Guizhou Health Committee.",
+            "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.",
+            "html. 2020-02-15.",
+            "8. Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of",
+            "Novel Coronavirus\u2013Infected Pneumonia[J]. New England Journal of",
+            "Medicine, 2020.",
+            "9. World Health Organization. Laboratory diagnostics for novel coronavirus [EB/OL]. World Health Organization. https://www.who.int/healthtopics/coronavirus/laboratory-diagnostics-for-novel-coronavirus. 2020-02-12.",
+            "10. Vynnycky E, Fine PE. Lifetime risks, incubation period, and serial interval of tuberculosis. Am J Epidemiol. 2000;152(3): 247\u2013263.",
+            "11. Reich NG, Lessler J, Cummings DAT, Brookmeyer R. (2009). Estimating incubation periods with coarse data. Statistics in Medicine. 28(22):2769--",
+            "12. Obadia T, Haneef R, Bo\u00eblle P Y. The R0 package: a toolbox to estimate reproduction numbers for epidemic outbreaks. BMC medical informatics and decision making, 2012, 12(1): 147.",
+            "13. Rothe, Camilla, et al \"Transmission of 2019-nCoV infection from an asymptomatic contact in Germany.\" New England Journal of Medicine (2020).",
+            "14. National Health Committee. COVID-19 condition in China until 2020-02-15",
+            "[EB/OL]. National Health Committee [EB/OL].",
+            "http://www.nhc.gov.cn/yjb/s7860/202002/4a1b1ec6c03548099de1c3aa935d04 fd.shtml. 2020-02-16.",
+            "15. Nishiura, Hiroshi, et al \"The Rate of Underascertainment of Novel",
+            "Coronavirus (2019-nCoV) Infection: Estimation Using Japanese Passengers",
+            "Data on Evacuation Flights.\" (2020): 419.",
+            "Figure 1. The geographic distribution of confirmed cases in China and Guizhou.",
+            "(A) Geographic distribution and statistics of all confirmed cases in China as of February 16. Data was collected from National Health",
+            "Committee[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. In total 57,416 cases were confirmed throughout China, and 144 cases were in Guizhou. (B) Geographic distribution and statistics in Guizhou province as of February 16. In addition to confirmed cases with symptom, 18 cases without symptom were also included, leading to 162 cases shown in the figure. Guiyang, locating in the center of Guizhou, is the capital and largest city of the province, where cases were reported. Throughout Guizhou province, 38 out of 88 administrative districts have reported confirm cases.",
+            "Figure 2. Distribution of the onset date of confirmed and suspicious cases of",
+            "COVID-19 in Guizhou, China.",
+            "The horizontal axis represents the onset date of confirmed cases or suspected cases.",
+            "The onset data was defined as the self-reported first date to have symptoms related to",
+            "2019-nCoV and as the confirmation date for confirmed cases without symptoms. On",
+            "January 21, the first case was officially confirmed and reported by Guiyang (capital city of Guizhou) CDC, whose onset date was on January 9th when the case was still in",
+            "Wuhan. On January 29th, we started to identify and screen close contacts of confirmed cases and those had a positive result by real-time reverse-transcription\u2013",
+            "polymerase-chain-reaction (RT-PCR) yet without symptoms were labeled as \u201cConfirmed cases without symptoms\u201d in the figure. It is notable that there shows a decline of cases after February 12, which is most likely attributed to the delay of reporting by the local hospital and laboratory confirmation.",
+            "Figure 3. Key time-to-event distributions.",
+            "(A) The time windows of exposure and onset points of symptoms for 93 cases (45 females, 48.38%; 48 males, 51.62%; median age 42, IQR: 27-55) that have detailed information of exposure and onset dates. Blue shaded regions indicate the exposure windows, and blue points represent the midpoint within the region. Exposures were defined as travel histories to Wuhan or close contact to other infectious individuals.",
+            "(B) The estimated incubation period distribution using a log-normal model with 1,000 times bootstrap resamples. The estimated median incubation period in Guizhou is 8.06 days (95% CI: 6.89 \u2013 9.36). It was estimated that approximately 2.5% of the individuals have symptoms in 2.45 days (95% CI: 1.71 \u2013 3.56) after the infection, and",
+            "97.5% of that show symptoms within 26.52 days (95% CI: 21.35 \u2013 31.77) after the infection. (C) The estimated serial interval distribution -- the duration between symptom onset of a primary case and symptom onset of its secondary cases -- fitted via the Weibull distribution, with a mean (\u00b1SD) of 6.37\u00b14.15 days.",
+            "Table 1. Demographic Characteristics of Cases with COVID-19 in Guizhou",
+            "Characteristics",
+            "Sample size",
+            "Cases with symptoms",
+            "Cases without symptoms",
+            "Median age (range) \u2014 yr",
+            "Age group \u2014 no. (%)",
+            "<15 yr, 15\u201344 yr, 45\u201364 yr,",
+            "\u226565 yr sex",
+            "Male",
+            "Female",
+            "Exposure info \u2014 no. (%)",
+            "Detailed exposure window",
+            "Only right bound of exposure window known exposure window unknown",
+            "Onset date unknow",
+            "Exposure in Wuhan or other districts outside Guizhou\u2014 no. (%)",
+            "Value (1 month - 89)",
+            "(9.88%)",
+            "(54.33%)",
+            "(28.39%)",
+            "(7.40%)",
+            "(50.62%)",
+            "(49.38%)",
+            "(58.02%)",
+            "(33.33%)",
+            "(2.47%)",
+            "(6.18%)",
+            "(51.85%)",
+            "Table 2. Percentiles of incubation period",
+            "P2.5",
+            "Estimates",
+            "95%CI Low",
+            "95%CI High",
+            "Standard Error",
+            "P5",
+            "P25",
+            "P50",
+            "P75",
+            "P95",
+            "P97.5",
+            "-2*Log Likelihood = 306.3",
+            "4.302",
+            "10.64",
+            "21.356",
+            "6.625",
+            "13.514",
+            "31.775",
+            "0.611",
+            "0.733",
+            "2.635"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "laboratory-confirmed cases",
+            "number": 162,
+            "context": "At the end of 2019, a coronavirus disease 2019 (COVID-19) outbroke in Wuhan, China, and spread to Guizhou province on January of 2020. <mark class=\"stats\">To acquire the epidemiologic characteristics of COVID-19 in Guizhou, China, we collected data on 162 laboratory-confirmed cases related to COVID-19</mark>. We described the demographic characteristics of the cases and estimated the incubation period, serial interval and basic reproduction number"
+        },
+        {
+            "participant": "representative case studies",
+            "number": 2,
+            "context": "We described the demographic characteristics of the cases and estimated the incubation period, serial interval and basic reproduction number. <mark class=\"stats\">We also presented two representative case studies in Guizhou province -- Case Study 1 was an example of asymptomatic carrier; and Case Study 2 was an example of a large and complex infection chain that involved four different districts spanning three provinces and eight families</mark>. With an estimation of 8 days incubation period and 6 days serial interval, our results indicate that there may exist infectiousness during the incubation period for 2019-nCoV"
+        },
+        {
+            "participant": "team members",
+            "number": 2,
+            "context": "All data from epidemiological reports were inputted into standardized forms from technical protocols designed by China CDC. <mark class=\"stats\">At least two team members independently review the full report of each case report to ensure that data is correctly input</mark>. Once a case was evaluated as suspected case, local CDC would finish an initial investigation report in 24 hours and collect respiratory specimens for centralized laboratory testing"
+        },
+        {
+            "participant": "laboratory-confirmed cases",
+            "number": 140,
+            "context": "After the confirmation, Guizhou CDC started to identify and screen every case with pneumonia. <mark class=\"stats\">Until February 16, over 140 laboratory-confirmed cases were officially reported by Guizhou Health Committee7</mark>. In this study, we analyzed the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19"
+        },
+        {
+            "participant": "team members",
+            "number": 2,
+            "context": "All data from epidemiological reports were inputted into standardized forms from technical protocols designed by China CDC. <mark class=\"stats\">At least two team members the author/funder, who has granted medRxiv a license to display the preprint in perpetuity</mark>. independently review the full report of each case report to ensure that data is correctly input"
+        },
+        {
+            "participant": "cases",
+            "number": 759,
+            "context": "the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. <mark class=\"stats\">There were 759 cases in total</mark>. Among all patients, 144 (18.97%) cases were confirmed cases with symptoms to 2019-nCOV, 18 (2.37% of all 759 cases, 11.11%"
+        },
+        {
+            "participant": "cases",
+            "number": 759,
+            "context": "There were 759 cases in total. <mark class=\"stats\">Among all patients, 144 (18.97%) cases were confirmed cases with symptoms to 2019-nCOV, 18 (2.37% of all 759 cases, 11.11%</mark>. of all 162 confirmed cases) cases were confirmed as cases without symptoms, 597 (78.65%) cases were diagnosed as other diseases after clinical diagnosing or laboratory testing, 34 (4.47%) cases were suspected cases that were pending for laboratory testing"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 162,
+            "context": "Among all patients, 144 (18.97%) cases were confirmed cases with symptoms to 2019-nCOV, 18 (2.37% of all 759 cases, 11.11%. <mark class=\"stats\">of all 162 confirmed cases) cases were confirmed as cases without symptoms, 597 (78.65%) cases were diagnosed as other diseases after clinical diagnosing or laboratory testing, 34 (4.47%) cases were suspected cases that were pending for laboratory testing</mark>. Figure 1 shows the geographic distribution of confirmed cases throughout China and Guizhou"
+        },
+        {
+            "participant": "confirmed cases with detailed exposure window and onset date information",
+            "number": 93,
+            "context": "It is notable that there was a decline of cases after February 7th, which is most likely attributed to the delay of reporting by the local hospital and laboratory confirmation. <mark class=\"stats\">We included 93 confirmed cases with detailed exposure window and onset date information to estimate the incubation period (Fig. 3 A-B)</mark>. The median incubation period was 8.06 days (95% confidence interval [CI]: 6.89 \u2013 9.36)"
+        },
+        {
+            "participant": "observations from cluster cases",
+            "number": 57,
+            "context": "on Table 2. <mark class=\"stats\">We obtained 57 observations from cluster cases and estimated the serial interval distribution (Fig. 3C) with the mean (\u00b1SD) of 6.37\u00b14.15 days</mark>. The estimated basic reproduction number (R0) was 1.09 (95% CI: 0.94 \u2013 1.26)"
+        },
+        {
+            "participant": "patients",
+            "number": 425,
+            "context": "In addition to the evidence of the human-to-human transmission, it is likely that there exists infectiousness to some extend during the incubation period, and the presence of \u201csuper-spreaders\u201d. <mark class=\"stats\">The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in our study, which is longer than a recent report of 425 patients (8.2 days vs. 5.2 days), this may be a results of recall bias, during epidemiological investigation, we found that some cases actually have had shown mild symptoms days before the date they reported so as to their ignorance</mark>. We estimated the R0 as 1.09 (95% CI: 1.9"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">His research interests include disease distributions, time series analysis, survival analysis, and machine learning</mark>",
+                "tests": [
+                    {
+                        "test": "time series analysis"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "Communicable disease",
+        "novel coronavirus",
+        "case study",
+        "world health",
+        "Novel Coronavirus Infected Pneumonia",
+        "coronavirus disease",
+        "epidemiologic characteristics",
+        "reproduction number",
+        "serial interval",
+        "interquartile range",
+        "95% percentile was 21.90 days",
+        "incubation period",
+        "pneumonia",
+        "World HealthOrganization",
+        "COVID-19",
+        "guizhou province"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.25,
+        "incubation period": 0.1911764706,
+        "95% percentile was 21.90 days": 0.1176470588,
+        "serial interval": 0.1029411765,
+        "reproduction number": 0.0735294118,
+        "pneumonia": 0.0588235294,
+        "epidemiologic characteristics": 0.0441176471,
+        "interquartile range": 0.0441176471,
+        "World HealthOrganization": 0.0441176471,
+        "Novel Coronavirus Infected Pneumonia": 0.0294117647,
+        "coronavirus disease": 0.0294117647,
+        "novel coronavirus": 0.0147058824,
+        "Communicable disease": 0.0,
+        "case study": 0.0,
+        "world health": 0.0,
+        "guizhou province": 0.0
+    },
+    "species": [],
+    "summary": [
+        "At the end of 2019, a Novel Coronavirus Infected Pneumonia (NCIP) outbroke in Wuhan, China.",
+        "Until February 16, over 140 laboratory-confirmed cases were officially reported by Guizhou Health Committee[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+        "The authors analyzed the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19.",
+        "Clinical characteristics of suspected case must fit at least 2 of 3 following criteria: the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+        "History of contacting with patient who has fever or symptoms in respiratory system from Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; Any person who has had a close contact with confirmed cases; cluster cases.\u201d[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] With a stricter definition, Guizhou Health Committee counted all cases that fit clinical characteristics criteria but not any criteria of epidemiologic histories described above as suspected cases.",
+        "The onset date was defined as the self-reported first date to have symptoms related to 2019-nCoV or the date of visiting to clinical facilities if it was unavailable to acquire the accurate onset date, and as the confirmation date for confirmed cases the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+        "The incubation period is defined as the delay from viral infection to the onset of illness[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], which was estimated by fitting a parametric accelerated failure time model with log-normal distribution of cases with detailed exposure window data, and standard errors of parameters was computed using a 1,000 times bootstrap routine, this was performed by R package coarseDataTools[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].",
+        "The authors included 93 confirmed cases with detailed exposure window and onset date information to estimate the incubation period (Fig. 3 A-B).",
+        "The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in the study, which is longer than a recent report of 425 patients (8.2 days vs 5.2 days), this may be a results of recall bias, during epidemiological investigation, the authors found that some cases have had shown mild symptoms days before the date they reported so as to their ignorance.",
+        "The authors could not collect all complete exposure and onset data from all confirmed cases, due to the recall bias and the lack of standardization on epidemiological investigation at the beginning of the incident.",
+        "Some key data from asymptomatic carrier, especially the onset date or onset window, and left bound of exposure window from cases of Wuhan residents were unavailable, other statistical model may be used to fit such kind of censored data to estimate serial interval and R0 more accurately."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "At the end of 2019, a Novel Coronavirus Infected Pneumonia (NCIP) outbroke in Wuhan, China.",
+            "Until February 16, over 140 laboratory-confirmed cases were officially reported by Guizhou Health Committee[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]."
+        ],
+        "Results": [
+            "The authors analyzed the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19.",
+            "Clinical characteristics of suspected case must fit at least 2 of 3 following criteria: the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "History of contacting with patient who has fever or symptoms in respiratory system from Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; Any person who has had a close contact with confirmed cases; cluster cases.\u201d[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] With a stricter definition, Guizhou Health Committee counted all cases that fit clinical characteristics criteria but not any criteria of epidemiologic histories described above as suspected cases.",
+            "The onset date was defined as the self-reported first date to have symptoms related to 2019-nCoV or the date of visiting to clinical facilities if it was unavailable to acquire the accurate onset date, and as the confirmation date for confirmed cases the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "The incubation period is defined as the delay from viral infection to the onset of illness[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], which was estimated by fitting a parametric accelerated failure time model with log-normal distribution of cases with detailed exposure window data, and standard errors of parameters was computed using a 1,000 times bootstrap routine, this was performed by R package coarseDataTools[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].",
+            "The authors included 93 confirmed cases with detailed exposure window and onset date information to estimate the incubation period (Fig. 3 A-B).",
+            "The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in the study, which is longer than a recent report of 425 patients (8.2 days vs 5.2 days), this may be a results of recall bias, during epidemiological investigation, the authors found that some cases have had shown mild symptoms days before the date they reported so as to their ignorance."
+        ],
+        "Conclusion": [
+            "The authors could not collect all complete exposure and onset data from all confirmed cases, due to the recall bias and the lack of standardization on epidemiological investigation at the beginning of the incident.",
+            "Some key data from asymptomatic carrier, especially the onset date or onset window, and left bound of exposure window from cases of Wuhan residents were unavailable, other statistical model may be used to fit such kind of censored data to estimate serial interval and R0 more accurately."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "1._0000_a",
+            "entry": "1. World Health Organization. Novel Coronavirus (2019-nCoV): situation report, [EB/OL]. World Health Organization. https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf.2020-02-11.",
+            "url": "https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf.2020-02-11"
+        },
+        {
+            "id": "2",
+            "alt_id": "Ryan_0000_a",
+            "entry": "2. Ryan R, Kerri B. Health officials to announce 'presumptive case' of coronavirus in Toronto [EB/OL]. Global News. https://globalnews.ca/news/6462626/coronavirus-toronto-hospital/.2020-01-25.",
+            "url": "https://globalnews.ca/news/6462626/coronavirus-toronto-hospital/.2020-01-25",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ryan%2C%20R.%20Kerri%2C%20B.%20Health%20officials%20to%20announce%20%27presumptive%20case%27",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ryan%2C%20R.%20Kerri%2C%20B.%20Health%20officials%20to%20announce%20%27presumptive%20case%27"
+        },
+        {
+            "id": "3",
+            "alt_id": "Lena_0000_a",
+            "entry": "3. Lena H. S, Lenny B. First U.S. case of potentially deadly Chinese coronavirus confirmed in Washington state [EB/OL]. The Washington Post. https://www.washingtonpost.com/health/2020/01/21/coronavirus-us-case/.",
+            "url": "https://www.washingtonpost.com/health/2020/01/21/coronavirus-us-case/",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=S%2C%20Lena%20H.%20S%2C%20Lenny%20B.First%20U.%20case%20of%20potentially%20deadly%20Chinese%20coronavirus%20confirmed%20in%20Washington%20state%20%5BEB/OL%5D",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=S%2C%20Lena%20H.%20S%2C%20Lenny%20B.First%20U.%20case%20of%20potentially%20deadly%20Chinese%20coronavirus%20confirmed%20in%20Washington%20state%20%5BEB/OL%5D"
+        },
+        {
+            "id": "[EB/OL]._0000_b",
+            "alt_id": "4",
+            "entry": "[EB/OL]. World Health Organization. http://www.who.int/csr/don/16-january-",
+            "url": "http://www.who.int/csr/don/16-january-"
+        },
+        {
+            "id": "2020-novel-coronavirus-japan-ex-china/en/._0000_c",
+            "alt_id": "5",
+            "entry": "2020-novel-coronavirus-japan-ex-china/en/. 2020-01-17.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=novelcoronavirusjapanexchinaen%2020200117"
+        },
+        {
+            "id": "5",
+            "alt_id": "Jacob_0000_a",
+            "entry": "5. Jacob E. Coronavirus: trois premiers cas confirm\u00e9s en France [EB/OL]. Le Figaro.fr (in French). https://www.lefigaro.fr/sciences/coronavirus-troispremiers-cas-confirmes-en-france-20200124.2020-01-24.",
+            "url": "https://www.lefigaro.fr/sciences/coronavirus-troispremiers-cas-confirmes-en-france-20200124.2020-01-24"
+        },
+        {
+            "id": "6",
+            "alt_id": "Xiang_et+al_2013_a",
+            "entry": "6. Xiang N, Havers F, Chen T, et al. Use of national pneumonia surveillance to describe influenza A(H7N9) virus epidemiology, China, 2004\u20132013. Emerg Infect Dis 2013; 19: 1784-90.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xiang%20N%20Havers%20F%20Chen%20T%20et%20al%20Use%20of%20national%20pneumonia%20surveillance%20to%20describe%20influenza%20AH7N9%20virus%20epidemiology%20China%2020042013%20Emerg%20Infect%20Dis%202013%2019%20178490",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xiang%20N%20Havers%20F%20Chen%20T%20et%20al%20Use%20of%20national%20pneumonia%20surveillance%20to%20describe%20influenza%20AH7N9%20virus%20epidemiology%20China%2020042013%20Emerg%20Infect%20Dis%202013%2019%20178490",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xiang%20N%20Havers%20F%20Chen%20T%20et%20al%20Use%20of%20national%20pneumonia%20surveillance%20to%20describe%20influenza%20AH7N9%20virus%20epidemiology%20China%2020042013%20Emerg%20Infect%20Dis%202013%2019%20178490"
+        },
+        {
+            "id": "7",
+            "alt_id": "Committee_2020_a",
+            "entry": "7. Guizhou Health Committee. COVID-19 condition in Guizhou province until 2020-02-14 [EB/OL]. Guizhou Health Committee.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guizhou%20Health%20Committee%20COVID19%20condition%20in%20Guizhou%20province%20until%2020200214%20EBOL%20Guizhou%20Health%20Committee"
+        },
+        {
+            "id": "_0000_d",
+            "alt_id": "9",
+            "entry": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203.",
+            "url": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202002/t20200215_49183203"
+        },
+        {
+            "id": "html._0000_e",
+            "alt_id": "10",
+            "entry": "html. 2020-02-15.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=html%2020200215"
+        },
+        {
+            "id": "8",
+            "alt_id": "Li_et+al_0000_a",
+            "entry": "8. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia[J]. New England Journal of",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus%E2%80%93Infected%20Pneumonia%5BJ%5D"
+        },
+        {
+            "id": "9",
+            "alt_id": "9._0000_f",
+            "entry": "9. World Health Organization. Laboratory diagnostics for novel coronavirus [EB/OL]. World Health Organization. https://www.who.int/healthtopics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.2020-02-12.",
+            "url": "https://www.who.int/healthtopics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.2020-02-12"
+        },
+        {
+            "id": "10",
+            "alt_id": "Vynnycky_2000_a",
+            "entry": "10. Vynnycky E, Fine PE. Lifetime risks, incubation period, and serial interval of tuberculosis. Am J Epidemiol. 2000;152(3): 247\u2013263.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Vynnycky%2C%20E.%20Fine%2C%20P.E.%20Lifetime%20risks%2C%20incubation%20period%2C%20and%20serial%20interval%20of%20tuberculosis%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Vynnycky%2C%20E.%20Fine%2C%20P.E.%20Lifetime%20risks%2C%20incubation%20period%2C%20and%20serial%20interval%20of%20tuberculosis%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Vynnycky%2C%20E.%20Fine%2C%20P.E.%20Lifetime%20risks%2C%20incubation%20period%2C%20and%20serial%20interval%20of%20tuberculosis%202000"
+        },
+        {
+            "id": "11",
+            "alt_id": "Reich_et+al_2009_a",
+            "entry": "11. Reich NG, Lessler J, Cummings DAT, Brookmeyer R. (2009). Estimating incubation periods with coarse data. Statistics in Medicine. 28(22):2769-- 2784.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Reich%2C%20N.G.%20Lessler%2C%20J.%20Cummings%2C%20D.A.T.%20Brookmeyer%2C%20R.%20Estimating%20incubation%20periods%20with%20coarse%20data%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Reich%2C%20N.G.%20Lessler%2C%20J.%20Cummings%2C%20D.A.T.%20Brookmeyer%2C%20R.%20Estimating%20incubation%20periods%20with%20coarse%20data%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Reich%2C%20N.G.%20Lessler%2C%20J.%20Cummings%2C%20D.A.T.%20Brookmeyer%2C%20R.%20Estimating%20incubation%20periods%20with%20coarse%20data%202009"
+        },
+        {
+            "id": "12",
+            "alt_id": "Obadia_et+al_2012_a",
+            "entry": "12. Obadia T, Haneef R, Bo\u00eblle P Y. The R0 package: a toolbox to estimate reproduction numbers for epidemic outbreaks. BMC medical informatics and decision making, 2012, 12(1): 147.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Obadia%2C%20T.%20Haneef%2C%20R.%20Y%2C%20Bo%C3%ABlle%20P.%20The%20R0%20package%3A%20a%20toolbox%20to%20estimate%20reproduction%20numbers%20for%20epidemic%20outbreaks%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Obadia%2C%20T.%20Haneef%2C%20R.%20Y%2C%20Bo%C3%ABlle%20P.%20The%20R0%20package%3A%20a%20toolbox%20to%20estimate%20reproduction%20numbers%20for%20epidemic%20outbreaks%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Obadia%2C%20T.%20Haneef%2C%20R.%20Y%2C%20Bo%C3%ABlle%20P.%20The%20R0%20package%3A%20a%20toolbox%20to%20estimate%20reproduction%20numbers%20for%20epidemic%20outbreaks%202012"
+        },
+        {
+            "id": "13",
+            "alt_id": "Rothe_2020_a",
+            "entry": "13. Rothe, Camilla, et al. \"Transmission of 2019-nCoV infection from an asymptomatic contact in Germany.\" New England Journal of Medicine (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rothe%20Camilla%20et%20al%20Transmission%20of%202019nCoV%20infection%20from%20an%20asymptomatic%20contact%20in%20Germany%20New%20England%20Journal%20of%20Medicine%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rothe%20Camilla%20et%20al%20Transmission%20of%202019nCoV%20infection%20from%20an%20asymptomatic%20contact%20in%20Germany%20New%20England%20Journal%20of%20Medicine%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rothe%20Camilla%20et%20al%20Transmission%20of%202019nCoV%20infection%20from%20an%20asymptomatic%20contact%20in%20Germany%20New%20England%20Journal%20of%20Medicine%202020"
+        },
+        {
+            "id": "14",
+            "alt_id": "14._2020_g",
+            "entry": "14. National Health Committee. COVID-19 condition in China until 2020-02-15 http://www.nhc.gov.cn/yjb/s7860/202002/4a1b1ec6c03548099de1c3aa935d04 fd.shtml.2020-02-16.",
+            "url": "http://www.nhc.gov.cn/yjb/s7860/202002/4a1b1ec6c03548099de1c3aa935d04"
+        },
+        {
+            "id": "15",
+            "alt_id": "Nishiura_2019_a",
+            "entry": "15. Nishiura, Hiroshi, et al. \"The Rate of Underascertainment of Novel Coronavirus (2019-nCoV) Infection: Estimation Using Japanese Passengers",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nishiura%2C%20Hiroshi%20%22The%20Rate%20of%20Underascertainment%20of%20Novel%20Coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nishiura%2C%20Hiroshi%20%22The%20Rate%20of%20Underascertainment%20of%20Novel%20Coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nishiura%2C%20Hiroshi%20%22The%20Rate%20of%20Underascertainment%20of%20Novel%20Coronavirus%202019"
+        },
+        {
+            "id": "Data_0000_h",
+            "alt_id": "19",
+            "entry": "Data on Evacuation Flights.\" (2020): 419.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Data%20on%20Evacuation%20Flights%202020%20419"
+        }
+    ],
+    "facts": [
+        "collected data on 162 laboratory-confirmed cases related to COVID-19",
+        "two representative case studies in Guizhou province -- Case Study 1 was an example of asymptomatic carrier",
+        "our results indicate that there may exist infectiousness during the incubation period",
+        "This coronavirus was named as 2019-Novel Coronavirus",
+        "this disease caused by the virus strain from 2019-nCoV acute respiratory disease",
+        "Guizhou province is in Southwest of China",
+        "suspected case of COVID-19 was defined as the combination of clinical characteristics",
+        "who has granted medRxiv a license to display the preprint in perpetuity",
+        "has confirmed cases reported within 14 days of symptom onset",
+        "Any person who has had a close contact with confirmed cases",
+        "A confirmed case was defined as a case with respiratory specimens",
+        "2019-nCoV. Asymptomatic carrier was not announced by Health Committee",
+        "Suspected case was screened by local hospital",
+        "the patient was identified as confirmed case by laboratory",
+        "18 cases were confirmed as cases without symptoms",
+        "597 cases were diagnosed as other diseases after clinical diagnosing or laboratory testing",
+        "34 cases were suspected cases that were pending for laboratory testing",
+        "Figure 1 shows the geographic distribution of confirmed cases throughout China",
+        "84 confirmed cases were exposed to Wuhan",
+        "the detailed demographic data are shown in Table 1",
+        "The first case was detected on January 21",
+        "over 140 laboratory-confirmed cases were officially reported by Guizhou Health Committee[7",
+        "the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19",
+        "The onset date was defined as the self-reported first date to have symptoms related to",
+        "The incubation period is defined as the delay from viral infection",
+        "which is longer than a recent report of 425 patients",
+        "This study provides an initial analysis among epidemiologic characteristics",
+        "which contribute to the further analysis"
+    ],
+    "claims": [
+        "We described the demographic characteristics of the cases and estimated the incubation period, serial interval and basic reproduction number",
+        "We also presented two representative case studies in Guizhou province -- Case Study 1 was an example of asymptomatic carrier; and Case Study 2 was an example of a large and complex infection chain that involved four different districts spanning three provinces and eight families",
+        "This study provides an initial analysis among epidemiologic characteristics and two typical transmission phenomena of COVID-19",
+        "Our findings provide more epidemiologic data to this incident of COVID-19, which contribute to the further analysis and the control of this disease",
+        "The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in our study, which is longer than a recent report of 425 patients (8.2 days vs. 5.2 days), this may be a results of recall bias, during epidemiological investigation, we found that some cases actually have had shown mild symptoms days before the date they reported so as to their ignorance"
+    ],
+    "findings": [
+        "The estimated basic reproduction number (R0) was 1.09 (95% CI: 0.94 \u2013 1.26)",
+        "The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in our study, which is longer than a recent report of 425 patients (8.2 days vs. 5.2 days), this may be a results of recall bias, during epidemiological investigation, we found that some cases actually have had shown mild symptoms days before the date they reported so as to their ignorance"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We analyzed the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19",
+        "History of contacting with patient who has fever or symptoms in respiratory system from Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; Any person who has had a close contact with confirmed cases; cluster cases.\u201d[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] With a stricter definition, Guizhou Health Committee counted all cases that fit clinical characteristics criteria but not any criteria of epidemiologic histories described above as suspected cases",
+        "The estimated basic reproduction number (R0) was 1.09 (95% CI: 0.94 \u2013 1.26)",
+        "This study provides an initial analysis among epidemiologic characteristics and two typical transmission phenomena of COVID-19",
+        "Our findings provide more epidemiologic data to this incident of COVID-19, which contribute to the further analysis and the control of this disease",
+        "The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in our study, which is longer than a recent report of 425 patients (8.2 days vs. 5.2 days), this may be a results of recall bias, during epidemiological investigation, we found that some cases have had shown mild symptoms days before the date they reported so as to their ignorance"
+    ],
+    "top_statements": [
+        "At the end of 2019, a Novel Coronavirus Infected Pneumonia (NCIP) outbroke in Wuhan, China",
+        "We analyzed the data on the laboratory-confirmed cases in Guizhou to demonstrate the epidemiologic characteristics of COVID-19",
+        "History of contacting with patient who has fever or symptoms in respiratory system from Hubei Province or other districts that has confirmed cases reported within 14 days of symptom onset; Any person who has had a close contact with confirmed cases; cluster cases.\u201d[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] With a stricter definition, Guizhou Health Committee counted all cases that fit clinical characteristics criteria but not any criteria of epidemiologic histories described above as suspected cases",
+        "The estimated basic reproduction number (R0) was 1.09 (95% CI: 0.94 \u2013 1.26)",
+        "This study provides an initial analysis among epidemiologic characteristics and two typical transmission phenomena of COVID-19",
+        "The median incubation period was 8.2 days (95% CI: 7.9 \u2013 9.5) in our study, which is longer than a recent report of 425 patients (8.2 days vs. 5.2 days), this may be a results of recall bias, during epidemiological investigation, we found that some cases have had shown mild symptoms days before the date they reported so as to their ignorance"
+    ],
+    "headline": "The median incubation period was 8.2 days in our study, which is longer than a recent report of 425 patients, this may be a results of recall bias, during epidemiological investigation, we found that some cases have had shown mild symptoms days before the date they reported so as to their ignorance",
+    "contexts": [],
+    "abbreviations": {
+        "NCIP": "Novel Coronavirus Infected Pneumonia",
+        "WHO": "World HealthOrganization",
+        "IQR": "interquartile range",
+        "95% CI": "95% percentile was 21.90 days"
+    }
+}

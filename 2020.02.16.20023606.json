@@ -1,0 +1,515 @@
+{
+    "filename": "2020.02.16.20023606.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 263435,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.02.16.20023606",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/02/28/2020.02.16.20023606.full.pdf"
+        },
+        "title": "Estimation of the final size of the coronavirus epidemic by the logistic model",
+        "author": "milan batista",
+        "date": 2020,
+        "affiliations": [
+            "Milan Batista University of Ljubljana, Slovenia milan.batista@fpp.uni-lj.si (Feb 2020)"
+        ],
+        "abstract": "In the note, the logistic growth regression model is used for the estimation of the final size and its peak time of the coronavirus epidemic. Based on available data estimation the final size will be about 90 000 cases and the peak time was on 10 Feb 2020.",
+        "references": "@misc{unknown-a,\n  title = {Data-Based Analysis, Modelling and Forecasting of the novel Coronavirus},\n  language = {}\n}\n@misc{unknown-b,\n  title = {nCoV) outbreak},\n  language = {}\n}\n@misc{unknown-c,\n  doi = {medRxiv: 2020.02.11.20022186. doi: 10.1101/2020.02.11.20022186}\n}\n@misc{bender1999a,\n  author = {Bender, Carl M. and Orszag, Steven A.},\n  date = {1999},\n  title = {Advanced mathematical methods for scientists and engineers I asymptotic methods and perturbation theory},\n  language = {},\n  address = {New}\n}\n@article{brauer2019a,\n  author = {Brauer, Fred},\n  date = {2019},\n  title = {Early estimates of epidemic final sizes.},\n  journal = {Journal of Biological},\n  language = {}\n}\n@article{unknown-d,\n  journal = {Dynamics},\n  volume = {13},\n  pages = {23\u201330},\n  doi = {doi: 10.1080/17513758.2018.1469792},\n  number = {1}\n}\n@misc{brauer2019b,\n  author = {Brauer, Fred},\n  date = {2019},\n  title = {\"The Final Size of a Serious Epidemic.\" Bulletin of mathematical biology 81},\n  volume = {3},\n  pages = {869\u2013877},\n  doi = {doi: 10.1007/s11538-018-00549-x},\n  language = {}\n}\n@misc{chowell2014a,\n  author = {Chowell, G. and Simonsen, L. and Viboud, C. and Kuang, Y.},\n  date = {2014},\n  title = {\"West Africa Approaching a},\n  language = {}\n}\n@incollection{unknown-e,\n  title = {Catastrophic Phase or is the 2014 Ebola Epidemic Slowing Down?},\n  source = {Different},\n  language = {}\n}\n@misc{unknown-f,\n  title = {Models Yield Different Answers for Liberia..\" PLOS Currents Outbreaks},\n  doi = {doi: 10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81},\n  language = {}\n}\n@book{danby1985a,\n  author = {Danby, J.M.A.},\n  date = {1985},\n  title = {Computing applications to differential equations modelling in the physical and social sciences},\n  publisher = {Reston Publishing Company},\n  language = {},\n  address = {Reston, Va}\n}\n@misc{fisman2014a,\n  author = {Fisman, D. and Khoo, E. and Tuite, A.},\n  date = {2014},\n  title = {\"Early Epidemic Dynamics of the West African},\n  language = {}\n}\n@misc{unknown-g,\n  title = {Ebola Outbreak: Estimates Derived with a Simple Two-Parameter Model},\n  language = {}\n}\n@misc{unknown-h,\n  doi = {doi: 10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571}\n}\n@book{haberman1998a,\n  author = {Haberman, Richard},\n  date = {1998},\n  title = {Mathematical models mechanical vibrations, population dynamics, and traffic flow an introduction to applied mathematics. Unabridged republication ed, Classics in applied mathematics},\n  publisher = {SIAM},\n  language = {},\n  address = {Philadelphia}\n}\n@article{hethcote2000a,\n  author = {Hethcote, Herbert W.},\n  date = {2000},\n  title = {The Mathematics of Infectious Diseases.},\n  journal = {SIAM Review},\n  language = {}\n}\n@misc{unknown-i,\n  doi = {doi: 10.1137/S0036144500371907}\n}\n@article{miller2012a,\n  author = {Miller, Joel C.},\n  date = {2012},\n  title = {A note on the derivation of epidemic final sizes.},\n  journal = {Bulletin},\n  publisher = {of mathematical biology 74},\n  doi = {9},\n  pages = {2125\u20132141},\n  unmatched-doi = {doi: 10.1007/s11538-012-9749-6.},\n  language = {}\n}\n@incollection{murray2002a,\n  author = {Murray, James Dickson},\n  date = {2002},\n  title = {Mathematical biology},\n  edition = {3rd ed},\n  publisher = {Springer},\n  source = {Interdisciplinary applied mathematics},\n  language = {},\n  address = {New York}\n}\n@misc{nesteruk-a,\n  author = {Nesteruk, Igor},\n  title = {2020. \"Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China},\n  language = {}\n}\n@misc{unknown-j,\n  doi = {medRxiv: 2020.02.12.20021931. doi: 10.1101/2020.02.12.20021931}\n}\n@incollection{pell2018a,\n  author = {Pell, Bruce and Kuang, Yang and Viboud, Cecile and Chowell, Gerardo},\n  date = {2018},\n  title = {Using phenomenological models for forecasting the 2015 Ebola challenge.},\n  source = {Epidemics},\n  language = {}\n}\n@misc{unknown-k,\n  doi = {doi},\n  url = {https://doi.org/10.1016/j.epidem.2016.11.002.}\n}\n@misc{chowell-a,\n  author = {Chowell, G.},\n  title = {2020. \"Short-term Forecasts of the COVID-19 Epidemic in},\n  language = {}\n}\n@article{guangdong-a,\n  author = {Guangdong and Zhejiang},\n  title = {China.\"},\n  journal = {Journal of Clinical Medicine},\n  volume = {9},\n  date = {( 2):},\n  pages = {596},\n  language = {}\n}\n@misc{shanks1955a,\n  author = {Shanks, Daniel},\n  date = {1955},\n  title = {\"Non-linear Transformations of Divergent and Slowly Convergent},\n  language = {}\n}\n@article{unknown-l,\n  title = {Sequences.\"},\n  journal = {Journal of Mathematics and Physics},\n  volume = {34},\n  date = {(},\n  pages = {1\u201342},\n  doi = {doi: 10.1002/sapm19553411},\n  unmatched-volume = {1-4):},\n  language = {}\n}\n@incollection{wu-a,\n  author = {Wu, Joseph T. and Leung, Kathy and Leung, Gabriel M.},\n  title = {2020. \"Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.\"},\n  source = {The Lancet.},\n  doi = {doi},\n  url = {https://doi.org/10.1016/S0140-6736},\n  language = {}\n}\n@misc{xiong-a,\n  author = {Xiong, Hao and Yan, Huili},\n  title = {2020. \"Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model},\n  language = {}\n}\n@misc{unknown-m,\n  doi = {medRxiv: 2020.02.10.20021519. doi: 10.1101/2020.02.10.20021519}\n}\n",
+        "links": [
+            "https://www.worldometers.info/coronavirus/"
+        ],
+        "emails": [
+            "milan.batista@fpp.uni-lj.si"
+        ],
+        "references_ris": "TY  - GEN\nTI  - Data-Based Analysis, Modelling and Forecasting of the novel Coronavirus\nLA  - \nER  - \n\nTY  - GEN\nTI  - nCoV) outbreak\nLA  - \nER  - \n\nTY  - GEN\nDO  - medRxiv: 2020.02.11.20022186. doi: 10.1101/2020.02.11.20022186\nER  - \n\nTY  - GEN\nAU  - Bender, Carl M.\nAU  - Orszag, Steven A.\nPY  - 1999\nDA  - 1999\nTI  - Advanced mathematical methods for scientists and engineers I asymptotic methods and perturbation theory\nLA  - \nCY  - New\nER  - \n\nTY  - JOUR\nAU  - Brauer, Fred\nPY  - 2019\nDA  - 2019\nTI  - Early estimates of epidemic final sizes.\nT2  - Journal of Biological\nLA  - \nER  - \n\nTY  - JOUR\nT2  - Dynamics\nVL  - 13\nSP  - 23\nEP  - 30\nDO  - 10.1080/17513758.2018.1469792\nIS  - 1\nER  - \n\nTY  - GEN\nAU  - Brauer, Fred\nPY  - 2019\nDA  - 2019\nTI  - \"The Final Size of a Serious Epidemic.\" Bulletin of mathematical biology 81\nVL  - 3\nSP  - 869\nEP  - 877\nDO  - 10.1007/s11538-018-00549-x\nLA  - \nER  - \n\nTY  - GEN\nAU  - Chowell, G.\nAU  - Simonsen, L.\nAU  - Viboud, C.\nAU  - Kuang, Y.\nPY  - 2014\nDA  - 2014\nTI  - \"West Africa Approaching a\nLA  - \nER  - \n\nTY  - CHAP\nTI  - Catastrophic Phase or is the 2014 Ebola Epidemic Slowing Down?\nT2  - Different\nLA  - \nER  - \n\nTY  - GEN\nTI  - Models Yield Different Answers for Liberia..\" PLOS Currents Outbreaks\nDO  - 10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Danby, J.M.A.\nPY  - 1985\nDA  - 1985\nTI  - Computing applications to differential equations modelling in the physical and social sciences\nPB  - Reston Publishing Company\nLA  - \nCY  - Reston, Va\nER  - \n\nTY  - GEN\nAU  - Fisman, D.\nAU  - Khoo, E.\nAU  - Tuite, A.\nPY  - 2014\nDA  - 2014\nTI  - \"Early Epidemic Dynamics of the West African\nLA  - \nER  - \n\nTY  - GEN\nTI  - Ebola Outbreak: Estimates Derived with a Simple Two-Parameter Model\nLA  - \nER  - \n\nTY  - GEN\nDO  - 10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571\nER  - \n\nTY  - BOOK\nAU  - Haberman, Richard\nPY  - 1998\nDA  - 1998\nTI  - Mathematical models mechanical vibrations, population dynamics, and traffic flow an introduction to applied mathematics. Unabridged republication ed, Classics in applied mathematics\nPB  - SIAM\nLA  - \nCY  - Philadelphia\nER  - \n\nTY  - JOUR\nAU  - Hethcote, Herbert W.\nPY  - 2000\nDA  - 2000\nTI  - The Mathematics of Infectious Diseases.\nT2  - SIAM Review\nLA  - \nER  - \n\nTY  - GEN\nDO  - 10.1137/S0036144500371907\nER  - \n\nTY  - JOUR\nAU  - Miller, Joel C.\nPY  - 2012\nDA  - 2012\nTI  - A note on the derivation of epidemic final sizes.\nT2  - Bulletin\nPB  - of mathematical biology 74\nDO  - 9\nSP  - 2125\nEP  - 2141\nC1  - doi: 10.1007/s11538-012-9749-6.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Murray, James Dickson\nPY  - 2002\nDA  - 2002\nTI  - Mathematical biology\nET  - 3rd ed\nPB  - Springer\nT2  - Interdisciplinary applied mathematics\nLA  - \nCY  - New York\nER  - \n\nTY  - GEN\nAU  - Nesteruk, Igor\nTI  - 2020. \"Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China\nLA  - \nER  - \n\nTY  - GEN\nDO  - medRxiv: 2020.02.12.20021931. doi: 10.1101/2020.02.12.20021931\nER  - \n\nTY  - CHAP\nAU  - Pell, Bruce\nAU  - Kuang, Yang\nAU  - Viboud, Cecile\nAU  - Chowell, Gerardo\nPY  - 2018\nDA  - 2018\nTI  - Using phenomenological models for forecasting the 2015 Ebola challenge.\nT2  - Epidemics\nLA  - \nER  - \n\nTY  - GEN\nDO  - doi\nUR  - https://doi.org/10.1016/j.epidem.2016.11.002.\nER  - \n\nTY  - GEN\nAU  - Chowell, G.\nTI  - 2020. \"Short-term Forecasts of the COVID-19 Epidemic in\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guangdong\nAU  - Zhejiang\nTI  - China.\"\nT2  - Journal of Clinical Medicine\nVL  - 9\nPY  - ( 2):\nDA  - ( 2):\nSP  - 596\nLA  - \nER  - \n\nTY  - GEN\nAU  - Shanks, Daniel\nPY  - 1955\nDA  - 1955\nTI  - \"Non-linear Transformations of Divergent and Slowly Convergent\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Sequences.\"\nT2  - Journal of Mathematics and Physics\nVL  - 34\nPY  - (\nDA  - (\nSP  - 1\nEP  - 42\nDO  - 10.1002/sapm19553411\nC1  - 1-4):\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Wu, Joseph T.\nAU  - Leung, Kathy\nAU  - Leung, Gabriel M.\nTI  - 2020. \"Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.\"\nT2  - The Lancet.\nDO  - doi\nUR  - https://doi.org/10.1016/S0140-6736\nLA  - \nER  - \n\nTY  - GEN\nAU  - Xiong, Hao\nAU  - Yan, Huili\nTI  - 2020. \"Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model\nLA  - \nER  - \n\nTY  - GEN\nDO  - medRxiv: 2020.02.10.20021519. doi: 10.1101/2020.02.10.20021519\nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Data and results of logistic regression (see Eqs. (2), (3), (4))"
+            },
+            {
+                "id": "2",
+                "caption": "Results of SIR simulations. After day 28, the method of data collection changes"
+            },
+            {
+                "id": "3",
+                "caption": "Estimated logistic model parameters for data until 25 Feb, 2020. Iterated Shanks transformation for logistic model day"
+            },
+            {
+                "id": "4",
+                "caption": "Iterated Shanks transformation for SIR model"
+            },
+            {
+                "id": "5",
+                "caption": "Short term forecasting with the logistic and linear model. The linear model predicts 873 new cases per day"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Evaluation of estimated final size of coronavirus epidemic (data until 20 Feb, 2020)"
+            },
+            {
+                "id": "2",
+                "caption": "Predicted evaluation of coronavirus epidemic (data until 20 Feb, 2020)"
+            },
+            {
+                "id": "3",
+                "caption": "Short-term forecasting from 20 Feb 2020"
+            }
+        ],
+        "tables_url": "https://sandbox-api.scholarcy.com/tables/2020.02.16.20023606.full.pdf_vmg95rc9_9pxs6tqv.xlsx",
+        "figure_urls": [
+            "https://sandbox-api.scholarcy.com/images/2020.02.16.20023606.full.pdf_vmg95rc9_images_solryyas/img-000.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.16.20023606.full.pdf_vmg95rc9_images_solryyas/img-002.png",
+            "https://sandbox-api.scholarcy.com/images/2020.02.16.20023606.full.pdf_vmg95rc9_images_solryyas/img-004.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "One of the common questions regarding an epidemic is its final size. To answer this question various models are used: analytical (<a class=\"ref-link\" id=\"cDanby_1985_a\" href=\"#rDanby_1985_a\">Danby 1985</a>, <a class=\"ref-link\" id=\"cBrauer_2019_a\" href=\"#rBrauer_2019_a\">Brauer 2019a</a>, b, <a class=\"ref-link\" id=\"cMurray_2002_a\" href=\"#rMurray_2002_a\">Murray 2002</a>), stochastic (<a class=\"ref-link\" id=\"cMiller_2012_a\" href=\"#rMiller_2012_a\">Miller 2012</a>), and phenomenological (Fisman D 2014, <a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\"><a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a></a>).<br/><br/>In this note, we attempt to estimate the final epidemic size using the phenomenological logistic growth model (<a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\"><a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a></a>, Chowell G 2014) and the classic susceptibleinfected-recovered (SIR) model (<a class=\"ref-link\" id=\"cHethcote_2000_a\" href=\"#rHethcote_2000_a\">Hethcote 2000</a>). With both the models, we obtain a series of daily predictions. The final sizes are then predicted using iterated Shanks transformation (<a class=\"ref-link\" id=\"cShanks_1955_a\" href=\"#rShanks_1955_a\">Shanks 1955</a>, <a class=\"ref-link\" id=\"cBender_1999_a\" href=\"#rBender_1999_a\">Bender and Orszag 1999</a>). The data used for the calculations are taken from worldmeters1."
+        ],
+        "results": [
+            "The results of logistic regression and the SIR model simulation are given in Tables 1 and 2, respectively. The comparison of the predicted final sizes is shown in the graph in Figure 1. We see that both methods converge and with more data, the discrepancy between the predicted values becomes less than 5%. From Table 1, we see that the peak of the epidemic was probably on 9 Feb, 2020.    data date day    C (cases)<br/><br/>Regression (cases) (1/day)    Peak    A day dCdt date    Day    RR    R 2    Estimate    SE"
+        ],
+        "conclusion": [
+            "On the basis of the available data, we can now predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700  1300<br/><br/>cases and that the peak of the epidemic was on 9 Feb 2020. A more optimistic final size of 83300 cases is obtained using the Shanks transformation. Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases. Naturally, the degree of accuracy of these estimates remains to be seen. In conclusion, qualitatively, both models show that the epidemic is moderating, but recent data show a linear upward trend. The next few days will, therefore, indicate in which direction the epidemic is heading. PS. Today it is more or less clear that the predictions of the article apply only to China. By February 20, 99% of the case was from China. The linear trend in data from Feb 20 onward meant a decreasing number of infected in China and increasing infected elsewhere in the world. In other words, in China, the epidemic is slowing down, 28.02.2020 09:27 however, it is now developing elsewhere in the world. We note that the forecasting methods used in this article are inapplicable in the early stages of an epidemic."
+        ]
+    },
+    "structured_content": {
+        "1 Introduction": [
+            "One of the common questions regarding an epidemic is its final size. To answer this question various models are used: analytical (<a class=\"ref-link\" id=\"cDanby_1985_a\" href=\"#rDanby_1985_a\">Danby 1985</a>, <a class=\"ref-link\" id=\"cBrauer_2019_a\" href=\"#rBrauer_2019_a\">Brauer 2019a</a>, b, <a class=\"ref-link\" id=\"cMurray_2002_a\" href=\"#rMurray_2002_a\">Murray 2002</a>), stochastic (<a class=\"ref-link\" id=\"cMiller_2012_a\" href=\"#rMiller_2012_a\">Miller 2012</a>), and phenomenological (Fisman D 2014, <a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a>).",
+            "In this note, we attempt to estimate the final epidemic size using the phenomenological logistic growth model (<a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a>, Chowell G 2014) and the classic susceptibleinfected-recovered (SIR) model (<a class=\"ref-link\" id=\"cHethcote_2000_a\" href=\"#rHethcote_2000_a\">Hethcote 2000</a>). With both the models, we obtain a series of daily predictions. The final sizes are then predicted using iterated Shanks transformation (<a class=\"ref-link\" id=\"cShanks_1955_a\" href=\"#rShanks_1955_a\">Shanks 1955</a>, <a class=\"ref-link\" id=\"cBender_1999_a\" href=\"#rBender_1999_a\">Bender and Orszag 1999</a>). The data used for the calculations are taken from worldmeters1.",
+            "Before proceeding, we note that the final size of the epidemic in its early stage was discussed by Wu et al (<a class=\"ref-link\" id=\"cWu_et+al_2020_a\" href=\"#rWu_et+al_2020_a\">Wu, Leung, and Leung 2020</a>) using the susceptible-exposedinfected-resistant model, by Xiong and Yan (<a class=\"ref-link\" id=\"cXiong_2020_a\" href=\"#rXiong_2020_a\">Xiong and Yan 2020</a>) using the exposedinfected-resistant model, by Nesteruk (<a class=\"ref-link\" id=\"cNesteruk_2020_a\" href=\"#rNesteruk_2020_a\">Nesteruk 2020</a>) using the SIR model, and by Anastassopoulou et al (Anastassopoulou et al 2020) using the SIR/death model. These early predictions range from 65000 to a million cases. Roosa et al recently gave shortterm forecasts of the epidemic (Roosa et al 2020)."
+        ],
+        "2 Logistic growth model": [
+            "The logistic growth model originates from population dynamics (<a class=\"ref-link\" id=\"cHaberman_1998_a\" href=\"#rHaberman_1998_a\">Haberman 1998</a>). The underlying assumption of the model is that the rate of change in the number of new cases per capita linearly decreases with the number of cases. Hence, if C is the number of cases, and t is the time, then the model is expressed as"
+        ],
+        "1 C dC dt": [
+            "where r is infection rate, and K is the final epidemic size. If C  0    C0 is the initial number of cases, then the solution of (1) is",
+            "C0 dt dt 2 this condition, we obtain that the growth rate peaks at time tp.",
+            "Now, if C1,C2, ,Cn are the number of cases at times t1,t2, ,tn , then the final size predictions of the epidemic based on these data are K1,K2, ,Kn . By using Shanks transformation, the predicted final epidemic size is",
+            "For the practical calculation of the parameters K and r, we use the MATLAB functions lsqcurvefit and fitnlm."
+        ],
+        "3 SIR model": [
+            "where R  is the final number of recovered persons. As the final number of infected people is zero, we have, using (4),",
+            "C  I  R.",
+            "We can estimate the parameters and initial values by minimizing the difference between the actual and predicted number of cases, i.e., by minimizing",
+            "Ct   C1,C2, ,Cn are the corresponding estimates calculated by the model. For practical calculation, we use the MATLAB function fminsearch. For the integration of the model equation, we use the MATLAB function ode45.",
+            "With a series of predicted final number of recovered persons, R ,1, R ,2, , R ,n , we can estimate the series limit by Shanks transformation."
+        ],
+        "4 Results": [
+            "The results of logistic regression and the SIR model simulation are given in Tables 1 and 2, respectively. The comparison of the predicted final sizes is shown in the graph in Figure 1. We see that both methods converge and with more data, the discrepancy between the predicted values becomes less than 5%. From Table 1, we see that the peak of the epidemic was probably on 9 Feb, 2020.",
+            "Number of observations: 41, Error degrees of freedom: 38 Root Mean Squared Error: 2.15e+03 R-Squared: 0.996, Adjusted R-Squared 0.995 F-statistic vs. zero model: 6.35e+03, p-value = 2.42e-51",
+            "In Figure 2, the time evaluation of the cases is shown, where we can see a good agreement between the models and the actual data. From Table 3, we see that the logistic regression model has a high coefficient of determination of 0.996, while the pvalue (< 0.000) indicates that all the regression parameters are statistically significant. In Tables 3 and 4, the iterated Shanks transformations for the predicted series of the final epidemic size are given. It appears that the predictions of the logistic model tend to the final size of 83231 cases, while the SIR model predictions converge to 83640 cases. Thus, the discrepancy is less than 0.5%."
+        ],
+        "5 Short term forecasting": [
+            "The models used are data-driven, so they are as reliable as data are. Namely, as can be seen from the graph in Figure 2 at the beginning, we have exponential growth. Then until 11 Feb, one can predict the final epidemic size of about 55000 cases. However, the collection of data changes and we have a jump of about 15000 new cases on 12. Feb. On 20 Feb we have another change in trend; the data begin to shows almost linear trend (See Fig 3). While the above models show that the epidemic is slow down, the linear trend predicts about 873 new cases per day (see Table 5).",
+            "Logistic Error Linear Error Actaul Predicted Day Actual model % model % cases/day cases/day"
+        ],
+        "6 Conclusion": [
+            "On the basis of the available data, we can now predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700  1300",
+            "cases and that the peak of the epidemic was on 9 Feb 2020. A more optimistic final size of 83300 cases is obtained using the Shanks transformation. Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases. Naturally, the degree of accuracy of these estimates remains to be seen. In conclusion, qualitatively, both models show that the epidemic is moderating, but recent data show a linear upward trend. The next few days will, therefore, indicate in which direction the epidemic is heading. PS. Today it is more or less clear that the predictions of the article apply only to China. By February 20, 99% of the case was from China. The linear trend in data from Feb 20 onward meant a decreasing number of infected in China and increasing infected elsewhere in the world. In other words, in China, the epidemic is slowing down, 28.02.2020 09:27 however, it is now developing elsewhere in the world. We note that the forecasting methods used in this article are inapplicable in the early stages of an epidemic."
+        ],
+        "References": [
+            "Anastassopoulou, Cleo, Lucia Russo, Athanasios Tsakris, and Constantinos Siettos.",
+            "2020. \"Data-Based Analysis, Modelling and Forecasting of the novel Coronavirus (2019-nCoV) outbreak.\"",
+            "medRxiv:2020.02.11.20022186. doi: 10.1101/2020.02.11.20022186.",
+            "Bender, Carl M., and Steven A. Orszag. 1999. Advanced mathematical methods for scientists and engineers I asymptotic methods and perturbation theory. New",
+            "York: Springer.",
+            "<a class=\"ref-link\" id=\"cBrauer_2019_a\" href=\"#rBrauer_2019_a\">Brauer, Fred. 2019a</a>. \"Early estimates of epidemic final sizes.\" Journal of Biological",
+            "Dynamics 13 (sup1):23-30. doi: 10.1080/17513758.2018.1469792.",
+            "<a class=\"ref-link\" id=\"cBrauer_2019_b\" href=\"#rBrauer_2019_b\">Brauer, Fred. 2019b</a>. \"The Final Size of a Serious Epidemic.\" Bulletin of mathematical biology 81 (3):869-877. doi: 10.1007/s11538-018-00549-x.",
+            "Chowell G, Simonsen L, Viboud C, Kuang Y. 2014. \"West Africa Approaching a",
+            "Catastrophic Phase or is the 2014 Ebola Epidemic Slowing Down? Different",
+            "Models Yield Different Answers for Liberia. .\" PLOS Currents Outbreaks. doi: 10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81.",
+            "<a class=\"ref-link\" id=\"cDanby_1985_a\" href=\"#rDanby_1985_a\">Danby, J. M. A. 1985</a>. Computing applications to differential equations modelling in the physical and social sciences. Reston, Va.: Reston Publishing Company.",
+            "Fisman D, Khoo E, Tuite A. . 2014. \"Early Epidemic Dynamics of the West African",
+            "2014 Ebola Outbreak: Estimates Derived with a Simple Two-Parameter Model.\"",
+            "PLOS",
+            "Currents",
+            "Outbreaks.",
+            "doi: 10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571.",
+            "<a class=\"ref-link\" id=\"cHaberman_1998_a\" href=\"#rHaberman_1998_a\">Haberman, Richard. 1998</a>. Mathematical models mechanical vibrations, population dynamics, and traffic flow an introduction to applied mathematics. Unabridged republication ed, Classics in applied mathematics. Philadelphia: SIAM.",
+            "<a class=\"ref-link\" id=\"cHethcote_2000_a\" href=\"#rHethcote_2000_a\">Hethcote, Herbert W. 2000</a>. \"The Mathematics of Infectious Diseases.\" SIAM Review",
+            "42 (4):599-653. doi: 10.1137/S0036144500371907.",
+            "<a class=\"ref-link\" id=\"cMiller_2012_a\" href=\"#rMiller_2012_a\">Miller, Joel C. 2012</a>. \"A note on the derivation of epidemic final sizes.\" Bulletin of mathematical biology 74 (9):2125-2141. doi: 10.1007/s11538-012-9749-6.",
+            "<a class=\"ref-link\" id=\"cMurray_2002_a\" href=\"#rMurray_2002_a\">Murray, James Dickson. 2002</a>. Mathematical biology. 3rd ed, Interdisciplinary applied mathematics. New York: Springer.",
+            "<a class=\"ref-link\" id=\"cNesteruk_2020_a\" href=\"#rNesteruk_2020_a\">Nesteruk, Igor. 2020</a>. \"Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China.\"",
+            "medRxiv:2020.02.12.20021931. doi: 10.1101/2020.02.12.20021931.",
+            "Pell, Bruce, Yang Kuang, Cecile Viboud, and Gerardo Chowell. 2018. \"Using phenomenological models for forecasting the 2015 Ebola challenge.\" Epidemics",
+            "22:62-70. doi: https://doi.org/10.1016/j.epidem.2016.11.002.",
+            "Roosa, K.;, Y.; Lee, R.; Luo, A.; Kirpich, R.; Rothenberg, J.M.; Hyman, P.; Yan, and",
+            "G. Chowell. 2020. \"Short-term Forecasts of the COVID-19 Epidemic in",
+            "Guangdong and Zhejiang, China.\" Journal of Clinical Medicine 9 (2):596.",
+            "<a class=\"ref-link\" id=\"cShanks_1955_a\" href=\"#rShanks_1955_a\">Shanks, Daniel. 1955</a>. \"Non-linear Transformations of Divergent and Slowly Convergent",
+            "Sequences.\" Journal of Mathematics and Physics 34 (1-4):1-42. doi: 10.1002/sapm19553411.",
+            "Wu, Joseph T., Kathy Leung, and Gabriel M. Leung. 2020. \"Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.\" The Lancet. doi: https://doi.org/10.1016/S0140-6736(20)30260-9.",
+            "Xiong, Hao, and Huili Yan. 2020. \"Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model.\"",
+            "medRxiv:2020.02.10.20021519. doi: 10.1101/2020.02.10.20021519."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 90000,
+            "context": "In the note, the logistic growth regression model is used for the estimation of the final size and its peak time of the coronavirus epidemic. <mark class=\"stats\">Based on available data estimation the final size will be about 90 000 cases and the peak time was on 10 Feb 2020</mark>. "
+        },
+        {
+            "participant": "cases",
+            "number": 90000,
+            "context": "In the note, the logistic growth regression model is used for the estimation of the final size and its peak time of the coronavirus epidemic. <mark class=\"stats\">Based on available data estimation the final size will be about 90 000 cases and the peak time was on 10 Feb 2020</mark>. In this note, we attempt to estimate the final epidemic size using the phenomenological logistic growth model (<a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a>, Chowell G 2014) and the classic susceptibleinfected-recovered (SIR) model (<a class=\"ref-link\" id=\"cHethcote_2000_a\" href=\"#rHethcote_2000_a\">Hethcote 2000</a>)"
+        },
+        {
+            "participant": "cases",
+            "number": 1000000,
+            "context": "Before proceeding, we note that the final size of the epidemic in its early stage was discussed by Wu et al (<a class=\"ref-link\" id=\"cWu_et+al_2020_a\" href=\"#rWu_et+al_2020_a\">Wu, Leung, and Leung 2020</a>) using the susceptible-exposedinfected-resistant model, by Xiong and Yan (<a class=\"ref-link\" id=\"cXiong_2020_a\" href=\"#rXiong_2020_a\">Xiong and Yan 2020</a>) using the exposedinfected-resistant model, by Nesteruk (<a class=\"ref-link\" id=\"cNesteruk_2020_a\" href=\"#rNesteruk_2020_a\">Nesteruk 2020</a>) using the SIR model, and by Anastassopoulou et al (Anastassopoulou et al 2020) using the SIR/death model. <mark class=\"stats\">These early predictions range from 65000 to a million cases</mark>. Roosa et al recently gave shortterm forecasts of the epidemic (Roosa et al 2020)"
+        },
+        {
+            "participant": "cases",
+            "number": 83231,
+            "context": "In Tables 3 and 4, the iterated Shanks transformations for the predicted series of the final epidemic size are given. <mark class=\"stats\">It appears that the predictions of the logistic model tend to the final size of 83231 cases, while the SIR model predictions converge to 83640 cases</mark>. Thus, the discrepancy is less than 0.5%"
+        },
+        {
+            "participant": "cases",
+            "number": 55000,
+            "context": "Namely, as can be seen from the graph in Figure 2 at the beginning, we have exponential growth. <mark class=\"stats\">Then until 11 Feb, one can predict the final epidemic size of about 55000 cases</mark>. However, the collection of data changes and we have a jump of about 15000 new cases on 12"
+        },
+        {
+            "participant": "new cases",
+            "number": 15000,
+            "context": "Then until 11 Feb, one can predict the final epidemic size of about 55000 cases. <mark class=\"stats\">However, the collection of data changes and we have a jump of about 15000 new cases on 12</mark>. Feb"
+        },
+        {
+            "participant": "new cases",
+            "number": 873,
+            "context": "On 20 Feb we have another change in trend; the data begin to shows almost linear trend (See Fig 3). <mark class=\"stats\">While the above models show that the epidemic is slow down, the linear trend predicts about 873 new cases per day (see Table 5)</mark>. Logistic Error Linear Error Actaul Predicted Day Actual model % model % cases/day cases/day"
+        },
+        {
+            "participant": "cases",
+            "number": 83300,
+            "context": "cases and that the peak of the epidemic was on 9 Feb 2020. <mark class=\"stats\">A more optimistic final size of 83300 cases is obtained using the Shanks transformation</mark>. Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases"
+        },
+        {
+            "participant": "cases",
+            "number": 83700,
+            "context": "A more optimistic final size of 83300 cases is obtained using the Shanks transformation. <mark class=\"stats\">Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases</mark>. Naturally, the degree of accuracy of these estimates remains to be seen"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Conclusion On the basis of the available data, we can now predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700  1300</mark>",
+                "tests": [
+                    {
+                        "test": "logistic model"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "available datum",
+        "mathematics",
+        "peak time",
+        "final size",
+        "coronavirus epidemic",
+        "logistic growth",
+        "logistic model",
+        "dynamics",
+        "shanks transformation",
+        "epidemic final size",
+        "biology"
+    ],
+    "keyword_relevance": {
+        "final size": 0.3823529412,
+        "coronavirus epidemic": 0.1176470588,
+        "logistic model": 0.1176470588,
+        "mathematics": 0.0882352941,
+        "logistic growth": 0.0882352941,
+        "biology": 0.0882352941,
+        "dynamics": 0.0588235294,
+        "epidemic final size": 0.0588235294,
+        "available datum": 0.0,
+        "peak time": 0.0,
+        "shanks transformation": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The authors attempt to estimate the final epidemic size using the phenomenological logistic growth model (<a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\"><a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a></a>, Chowell G 2014) and the classic susceptibleinfected-recovered (SIR) model (<a class=\"ref-link\" id=\"cHethcote_2000_a\" href=\"#rHethcote_2000_a\">Hethcote 2000</a>).",
+        "With both the models, the authors obtain a series of daily predictions.",
+        "The data used for the calculations are taken from worldmeters1",
+        "<h2 style=\"display: inline\">Results:</h2> The results of logistic regression and the SIR model simulation are given in Tables 1 and 2, respectively.",
+        "The comparison of the predicted final sizes is shown in the graph in Figure 1.",
+        "The authors see that both methods converge and with more data, the discrepancy between the predicted values becomes less than 5%.",
+        "From Table 1, the authors see that the peak of the epidemic was probably on 9 Feb, 2020.",
+        "Regression (1/day) Peak A day dCdt date Day RR R 2 Estimate SE",
+        "<h2 style=\"display: inline\">Conclusion:</h2> On the basis of the available data, the authors can predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700 1300<br/><br/>cases and that the peak of the epidemic was on 9 Feb 2020.",
+        "On the basis of the available data, the authors can predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700 1300.",
+        "Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases.",
+        "The degree of accuracy of these estimates remains to be seen",
+        "Qualitatively, both models show that the epidemic is moderating, but recent data show a linear upward trend.",
+        "The authors note that the forecasting methods used in this article are inapplicable in the early stages of an epidemic"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The authors attempt to estimate the final epidemic size using the phenomenological logistic growth model (<a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\"><a class=\"ref-link\" id=\"cPell_et+al_2018_a\" href=\"#rPell_et+al_2018_a\">Pell et al 2018</a></a>, Chowell G 2014) and the classic susceptibleinfected-recovered (SIR) model (<a class=\"ref-link\" id=\"cHethcote_2000_a\" href=\"#rHethcote_2000_a\">Hethcote 2000</a>).",
+            "With both the models, the authors obtain a series of daily predictions.",
+            "The data used for the calculations are taken from worldmeters1"
+        ],
+        "Results": [
+            "The results of logistic regression and the SIR model simulation are given in Tables 1 and 2, respectively.",
+            "The comparison of the predicted final sizes is shown in the graph in Figure 1.",
+            "The authors see that both methods converge and with more data, the discrepancy between the predicted values becomes less than 5%.",
+            "From Table 1, the authors see that the peak of the epidemic was probably on 9 Feb, 2020.",
+            "Regression (1/day) Peak A day dCdt date Day RR R 2 Estimate SE"
+        ],
+        "Conclusion": [
+            "On the basis of the available data, the authors can predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700 1300<br/><br/>cases and that the peak of the epidemic was on 9 Feb 2020.",
+            "On the basis of the available data, the authors can predict that the final size of the coronavirus epidemic using the logistic model will be approximately 83700 1300.",
+            "Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases.",
+            "The degree of accuracy of these estimates remains to be seen",
+            "Qualitatively, both models show that the epidemic is moderating, but recent data show a linear upward trend.",
+            "The authors note that the forecasting methods used in this article are inapplicable in the early stages of an epidemic"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "2020._0000_a",
+            "alt_id": "1",
+            "entry": "2020. \"Data-Based Analysis, Modelling and Forecasting of the novel Coronavirus",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=DataBased%20Analysis%20Modelling%20and%20Forecasting%20of%20the%20novel%20Coronavirus"
+        },
+        {
+            "id": "(2019-nCoV)_0000_b",
+            "alt_id": "2",
+            "entry": "(2019-nCoV) outbreak.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=nCoV%20outbreak"
+        },
+        {
+            "id": "medRxiv:2020.02.11.20022186._0000_c",
+            "alt_id": "3",
+            "entry": "medRxiv:2020.02.11.20022186. doi: 10.1101/2020.02.11.20022186.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.11.20022186",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.11.20022186"
+        },
+        {
+            "id": "Bender_1999_a",
+            "alt_id": "4",
+            "entry": "Bender, Carl M., and Steven A. Orszag. 1999. Advanced mathematical methods for scientists and engineers I asymptotic methods and perturbation theory. New",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bender%2C%20Carl%20M.%20Orszag%2C%20Steven%20A.%20Advanced%20mathematical%20methods%20for%20scientists%20and%20engineers%20I%20asymptotic%20methods%20and%20perturbation%20theory%201999"
+        },
+        {
+            "id": "Brauer_2019_a",
+            "alt_id": "5",
+            "entry": "Brauer, Fred. 2019a. \"Early estimates of epidemic final sizes.\" Journal of Biological",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Brauer%2C%20Fred%20Early%20estimates%20of%20epidemic%20final%20sizes.%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Brauer%2C%20Fred%20Early%20estimates%20of%20epidemic%20final%20sizes.%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Brauer%2C%20Fred%20Early%20estimates%20of%20epidemic%20final%20sizes.%202019"
+        },
+        {
+            "id": "Dynamics_0000_d",
+            "alt_id": "6",
+            "entry": "Dynamics 13 (sup1):23-30. doi: 10.1080/17513758.2018.1469792.",
+            "crossref": "https://dx.doi.org/10.1080/17513758.2018.1469792",
+            "scite": "https://scite.ai/reports/10.1080/17513758.2018.1469792",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1080/17513758.2018.1469792"
+        },
+        {
+            "id": "Brauer_2019_b",
+            "alt_id": "7",
+            "entry": "Brauer, Fred. 2019b. \"The Final Size of a Serious Epidemic.\" Bulletin of mathematical biology 81 (3):869-877. doi: 10.1007/s11538-018-00549-x.",
+            "crossref": "https://dx.doi.org/10.1007/s11538-018-00549-x",
+            "scite": "https://scite.ai/reports/10.1007/s11538-018-00549-x"
+        },
+        {
+            "id": "Chowell_et+al_2014_a",
+            "alt_id": "8",
+            "entry": "Chowell G, Simonsen L, Viboud C, Kuang Y. 2014. \"West Africa Approaching a",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chowell%2C%20G.%20Simonsen%2C%20L.%20Viboud%2C%20C.%20Kuang%2C%20Y.%20%22West%20Africa%20Approaching%20a%202014"
+        },
+        {
+            "id": "Catastrophic_2014_e",
+            "alt_id": "9",
+            "entry": "Catastrophic Phase or is the 2014 Ebola Epidemic Slowing Down? Different",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Catastrophic%20Phase%20or%20is%20the%202014%20Ebola%20Epidemic%20Slowing%20Down%20Different",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Catastrophic%20Phase%20or%20is%20the%202014%20Ebola%20Epidemic%20Slowing%20Down%20Different",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Catastrophic%20Phase%20or%20is%20the%202014%20Ebola%20Epidemic%20Slowing%20Down%20Different"
+        },
+        {
+            "id": "Models_0000_f",
+            "alt_id": "10",
+            "entry": "Models Yield Different Answers for Liberia..\" PLOS Currents Outbreaks. doi: 10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81.",
+            "crossref": "https://dx.doi.org/10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81",
+            "scite": "https://scite.ai/reports/10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81"
+        },
+        {
+            "id": "Danby_1985_a",
+            "alt_id": "11",
+            "entry": "Danby, J. M. A. 1985. Computing applications to differential equations modelling in the physical and social sciences. Reston, Va.: Reston Publishing Company.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Danby%2C%20J.M.A.%20Computing%20applications%20to%20differential%20equations%20modelling%20in%20the%20physical%20and%20social%20sciences%201985"
+        },
+        {
+            "id": "Fisman_et+al_2014_a",
+            "alt_id": "12",
+            "entry": "Fisman D, Khoo E, Tuite A.. 2014. \"Early Epidemic Dynamics of the West African",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fisman%2C%20D.%20Khoo%2C%20E.%20Tuite%2C%20A.%20%22Early%20Epidemic%20Dynamics%20of%20the%20West%20African%202014"
+        },
+        {
+            "id": "2014_0000_g",
+            "alt_id": "13",
+            "entry": "2014 Ebola Outbreak: Estimates Derived with a Simple Two-Parameter Model.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ebola%20Outbreak%20Estimates%20Derived%20with%20a%20Simple%20TwoParameter%20Model"
+        },
+        {
+            "id": "doi:_0000_h",
+            "alt_id": "14",
+            "entry": "doi: 10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571.",
+            "crossref": "https://dx.doi.org/10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571",
+            "scite": "https://scite.ai/reports/10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571"
+        },
+        {
+            "id": "Haberman_1998_a",
+            "alt_id": "15",
+            "entry": "Haberman, Richard. 1998. Mathematical models mechanical vibrations, population dynamics, and traffic flow an introduction to applied mathematics. Unabridged republication ed, Classics in applied mathematics. Philadelphia: SIAM.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Haberman%2C%20Richard%20Mathematical%20models%20mechanical%20vibrations%2C%20population%20dynamics%2C%20and%20traffic%20flow%20an%20introduction%20to%20applied%20mathematics.%20Unabridged%20republication%20ed%2C%20Classics%20in%20applied%20mathematics%201998"
+        },
+        {
+            "id": "Hethcote_2000_a",
+            "alt_id": "16",
+            "entry": "Hethcote, Herbert W. 2000. \"The Mathematics of Infectious Diseases.\" SIAM Review",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hethcote%2C%20Herbert%20W.%20The%20Mathematics%20of%20Infectious%20Diseases.%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hethcote%2C%20Herbert%20W.%20The%20Mathematics%20of%20Infectious%20Diseases.%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hethcote%2C%20Herbert%20W.%20The%20Mathematics%20of%20Infectious%20Diseases.%202000"
+        },
+        {
+            "id": "42",
+            "alt_id": "42_0000_i",
+            "entry": "42 (4):599-653. doi: 10.1137/S0036144500371907.",
+            "crossref": "https://dx.doi.org/10.1137/S0036144500371907",
+            "scite": "https://scite.ai/reports/10.1137/S0036144500371907"
+        },
+        {
+            "id": "Miller_2012_a",
+            "alt_id": "18",
+            "entry": "Miller, Joel C. 2012. \"A note on the derivation of epidemic final sizes.\" Bulletin of mathematical biology 74 (9):2125-2141. doi: 10.1007/s11538-012-9749-6.",
+            "crossref": "https://dx.doi.org/10.1007/s11538-012-9749-6",
+            "scite": "https://scite.ai/reports/10.1007/s11538-012-9749-6",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1007/s11538-012-9749-6"
+        },
+        {
+            "id": "Murray_2002_a",
+            "alt_id": "19",
+            "entry": "Murray, James Dickson. 2002. Mathematical biology. 3rd ed, Interdisciplinary applied mathematics. New York: Springer.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Murray%2C%20James%20Dickson%20Mathematical%20biology%202002",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Murray%2C%20James%20Dickson%20Mathematical%20biology%202002",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Murray%2C%20James%20Dickson%20Mathematical%20biology%202002"
+        },
+        {
+            "id": "Nesteruk_2020_a",
+            "alt_id": "20",
+            "entry": "Nesteruk, Igor. 2020. \"Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nesteruk%20Igor%202020%20Statistics%20based%20predictions%20of%20coronavirus%202019nCoV%20spreading%20in%20mainland%20China"
+        },
+        {
+            "id": "medRxiv:2020.02.12.20021931._0000_j",
+            "alt_id": "21",
+            "entry": "medRxiv:2020.02.12.20021931. doi: 10.1101/2020.02.12.20021931.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.12.20021931",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.12.20021931"
+        },
+        {
+            "id": "Pell_et+al_2018_a",
+            "alt_id": "22",
+            "entry": "Pell, Bruce, Yang Kuang, Cecile Viboud, and Gerardo Chowell. 2018. \"Using phenomenological models for forecasting the 2015 Ebola challenge.\" Epidemics",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Pell%20Bruce%20Yang%20Kuang%20Cecile%20Viboud%20and%20Gerardo%20Chowell%202018%20Using%20phenomenological%20models%20for%20forecasting%20the%202015%20Ebola%20challenge%20Epidemics",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Pell%20Bruce%20Yang%20Kuang%20Cecile%20Viboud%20and%20Gerardo%20Chowell%202018%20Using%20phenomenological%20models%20for%20forecasting%20the%202015%20Ebola%20challenge%20Epidemics",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Pell%20Bruce%20Yang%20Kuang%20Cecile%20Viboud%20and%20Gerardo%20Chowell%202018%20Using%20phenomenological%20models%20for%20forecasting%20the%202015%20Ebola%20challenge%20Epidemics"
+        },
+        {
+            "id": "22:62-70._0000_k",
+            "alt_id": "23",
+            "entry": "22:62-70. doi: https://doi.org/10.1016/j.epidem.2016.11.002.",
+            "crossref": "https://dx.doi.org/10.1016/j.epidem.2016.11.002",
+            "scite": "https://scite.ai/reports/10.1016/j.epidem.2016.11.002"
+        },
+        {
+            "id": "Chowell_2020_a",
+            "alt_id": "24",
+            "entry": "G. Chowell. 2020. \"Short-term Forecasts of the COVID-19 Epidemic in",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=G%20Chowell%202020%20Shortterm%20Forecasts%20of%20the%20COVID19%20Epidemic%20in"
+        },
+        {
+            "id": "Guangdong_( 2):_a",
+            "alt_id": "25",
+            "entry": "Guangdong and Zhejiang, China.\" Journal of Clinical Medicine 9 (2):596.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guangdong%20Zhejiang%20China.%22%20%28%202%29%3A",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guangdong%20Zhejiang%20China.%22%20%28%202%29%3A",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guangdong%20Zhejiang%20China.%22%20%28%202%29%3A"
+        },
+        {
+            "id": "Shanks_1955_a",
+            "alt_id": "26",
+            "entry": "Shanks, Daniel. 1955. \"Non-linear Transformations of Divergent and Slowly Convergent",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shanks%2C%20Daniel%20%22Non-linear%20Transformations%20of%20Divergent%20and%20Slowly%20Convergent%201955"
+        },
+        {
+            "id": "Sequences.\"_(_l",
+            "alt_id": "27",
+            "entry": "Sequences.\" Journal of Mathematics and Physics 34 (1-4):1-42. doi: 10.1002/sapm19553411.",
+            "crossref": "https://dx.doi.org/10.1002/sapm19553411",
+            "scite": "https://scite.ai/reports/10.1002/sapm19553411",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1002/sapm19553411"
+        },
+        {
+            "id": "Wu_et+al_2020_a",
+            "alt_id": "28",
+            "entry": "Wu, Joseph T., Kathy Leung, and Gabriel M. Leung. 2020. \"Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.\" The Lancet. doi: https://doi.org/10.1016/S0140-6736(20)30260-9.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30260-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30260-9",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930260-9"
+        },
+        {
+            "id": "Xiong_2020_a",
+            "alt_id": "29",
+            "entry": "Xiong, Hao, and Huili Yan. 2020. \"Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xiong%20Hao%20and%20Huili%20Yan%202020%20Simulating%20the%20infected%20population%20and%20spread%20trend%20of%202019nCov%20under%20different%20policy%20by%20EIR%20model"
+        },
+        {
+            "id": "medRxiv:2020.02.10.20021519._0000_m",
+            "alt_id": "30",
+            "entry": "medRxiv:2020.02.10.20021519. doi: 10.1101/2020.02.10.20021519.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.10.20021519",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.10.20021519"
+        }
+    ],
+    "facts": [
+        "The logistic growth regression model is used for the estimation of the final size",
+        "the peak time was on 10 Feb 2020",
+        "The data used for the calculations are taken from worldmeters1",
+        "the SIR model simulation are given in Tables 1",
+        "The comparison of the predicted final sizes is shown in the graph in Figure 1",
+        "the discrepancy between the predicted values becomes less than 5%",
+        "that the peak of the epidemic was on 9 Feb 2020",
+        "the Shanks transformation lowers this number to about 83700 cases",
+        "both models show that the epidemic is moderating",
+        "99% of the case was from China",
+        "that the forecasting methods used in this article are inapplicable in the early stages"
+    ],
+    "claims": [],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "The comparison of the predicted final sizes is shown in the graph in Figure 1",
+        "Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases"
+    ],
+    "top_statements": [
+        "One of the common questions regarding an epidemic is its final size",
+        "The comparison of the predicted final sizes is shown in the graph in Figure 1",
+        "Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases"
+    ],
+    "headline": "Similar figures are obtained using the SIR model, where the predicted size of the epidemic is approximately 84500, and the Shanks transformation lowers this number to about 83700 cases",
+    "contexts": [],
+    "abbreviations": {}
+}

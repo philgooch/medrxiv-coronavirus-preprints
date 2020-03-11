@@ -1,0 +1,434 @@
+{
+    "filename": "2020.03.01.20029801.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 6408056,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.01.20029801",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/06/2020.03.01.20029801.full.pdf"
+        },
+        "title": "Evaluation of the incidence of COVID-19 and of the efficacy of contention measures in Spain: a data-driven approach.",
+        "author": "Alberto Aleta, Yamir Moreno",
+        "date": 2020,
+        "affiliations": [
+            "Institute for Biocomputation and Physics of Complex Systems (BIFI), University of Zaragoza, 50018 Zaragoza, Spain",
+            "Department of Theoretical Physics, University of Zaragoza, 50018 Zaragoza, Spain"
+        ],
+        "abstract": "Our society is currently experiencing an unprecedented challenge, managing and containing an outbreak of a new coronavirus disease known as COVID-19. While China - were the outbreak started - seems to have been able to contain the growth of the epidemic, different outbreaks are nowadays being detected in multiple countries. Much is currently unknown about the natural history of the disease, such as a possible asymptomatic spreading or the role of age in both the susceptibility and mortality of the disease. Nonetheless, authorities have to take action and implement contention measures, even if not everything is known. To facilitate this task, we have studied the effect of different containment strategies that can be put into effect. Our work specifically refers to the situation in Spain as of February 28th, 2020, where a few dozens of cases have been detected. We implemented an SEIR-metapopulation model that allows tracing explicitly the spatial spread of the disease through data-driven stochastic simulations. Our results are in line with the most recent recommendations from the World Health Organization, namely, that the best strategy is the early detection and isolation of individuals with symptoms, followed by interventions and public recommendations aimed at reducing the transmissibility of the disease, which although not efficacious for disease eradication, would produce as a second-order effect a delay of several days in the raise of the number of infected cases",
+        "references": "@article{gostic2020a,\n  author = {Gostic, K. and Gomez, A.C.R. and Mummah, R.O. and Kucharski, A.J. and O, J.},\n  journal = {Lloyd-Smith},\n  volume = {eLife},\n  date = {2020}\n}\n@article{du2020a,\n  author = {Du, Z. and Wang, L. and Cauchemez, S. and Xu, X. and Wang, X. and Cowling, B.J. and A, L.},\n  journal = {Meyers},\n  volume = {medRxiv},\n  pages = {2020\u201301},\n  date = {2020}\n}\n@article{chinazzi2020a,\n  author = {Chinazzi, M. and Davis, J.T. and Ajelli, M. and Gioannini, C. and Litvinova, M. and Merler, S. and y. Piontti, A.P. and Rossi, L. and Sun, K. and C.},\n  journal = {Viboud, et al},\n  volume = {medRxiv},\n  pages = {2020\u201302},\n  date = {2020}\n}\n@article{cao2020a,\n  author = {Cao, Z. and Zhang, Q. and Lu, X. and Pfeiffer, D. and Wang, L. and Song, H. and Pei, T. and Jia, Z. and D, D.},\n  journal = {Zeng},\n  volume = {medRxiv},\n  pages = {2020\u201302},\n  date = {2020}\n}\n@misc{zhou2020a,\n  author = {Zhou, Y. and J.},\n  title = {Dong, medRxiv},\n  pages = {2020\u201302},\n  date = {2020},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, X. and Zhang, A. and Xu, S. and Jia, P. and Tan, X. and Tian, J. and Wei, T. and Quan, Z. and J.},\n  journal = {Yu},\n  volume = {medRxiv},\n  pages = {2020\u201302},\n  date = {2020}\n}\n@misc{li2020a,\n  author = {Li, X. and Zhao, X. and Sun, Y.},\n  date = {2020},\n  pages = {2020\u201302}\n}\n@misc{xiong2020a,\n  author = {Xiong, H. and Yan, H.},\n  title = {medRxiv},\n  pages = {2020\u201302},\n  date = {2020},\n  language = {}\n}\n@misc{unknown-a,\n  title = {Spanish air navigation manager, AENA ((acceseed 2020))},\n  url = {http://www.aena.es.},\n  language = {}\n}\n@article{iannelli2017a,\n  author = {Iannelli, F. and Koher, A. and Brockmann, D. and Hovel, P. and M, I.},\n  journal = {Sokolov, Phys. Rev. E 95},\n  volume = {12313},\n  date = {2017},\n  url = {URL https://link.}\n}\n@misc{unknown-b,\n  title = {Regions with cases of COVID19 as of 29/02 in Spain ((acceseed 2020))},\n  url = {https://elpais.com/sociedad/2020-02-28/},\n  language = {}\n}\n@misc{unknown-c,\n  title = {Spanish Statistical Office (in spanish) (accessed February 2020)},\n  url = {https://www.ine.es/.},\n  language = {}\n}\n",
+        "links": [
+            "https://www.who.int/docs/default-source/coronaviruse/",
+            "https://link",
+            "https://observatoriotransporte.mitma.gob.es/",
+            "https://elpais.com/sociedad/2020-02-28/",
+            "https://www.who.int/docs/default-source/coronaviruse/",
+            "https://www.ine.es/",
+            "http://www.aena.es"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Gostic, K.\nAU  - Gomez, A.C.R.\nAU  - Mummah, R.O.\nAU  - Kucharski, A.J.\nAU  - O, J.\nT2  - Lloyd-Smith\nVL  - eLife\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Du, Z.\nAU  - Wang, L.\nAU  - Cauchemez, S.\nAU  - Xu, X.\nAU  - Wang, X.\nAU  - Cowling, B.J.\nAU  - A, L.\nT2  - Meyers\nVL  - medRxiv\nSP  - 2020\nEP  - 01\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Chinazzi, M.\nAU  - Davis, J.T.\nAU  - Ajelli, M.\nAU  - Gioannini, C.\nAU  - Litvinova, M.\nAU  - Merler, S.\nAU  - y. Piontti, A.P.\nAU  - Rossi, L.\nAU  - Sun, K.\nAU  - C.\nT2  - Viboud, et al\nVL  - medRxiv\nSP  - 2020\nEP  - 02\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Cao, Z.\nAU  - Zhang, Q.\nAU  - Lu, X.\nAU  - Pfeiffer, D.\nAU  - Wang, L.\nAU  - Song, H.\nAU  - Pei, T.\nAU  - Jia, Z.\nAU  - D, D.\nT2  - Zeng\nVL  - medRxiv\nSP  - 2020\nEP  - 02\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - GEN\nAU  - Zhou, Y.\nAU  - J.\nTI  - Dong, medRxiv\nSP  - 2020\nEP  - 02\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, X.\nAU  - Zhang, A.\nAU  - Xu, S.\nAU  - Jia, P.\nAU  - Tan, X.\nAU  - Tian, J.\nAU  - Wei, T.\nAU  - Quan, Z.\nAU  - J.\nT2  - Yu\nVL  - medRxiv\nSP  - 2020\nEP  - 02\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - GEN\nAU  - Li, X.\nAU  - Zhao, X.\nAU  - Sun, Y.\nPY  - 2020\nDA  - 2020\nSP  - 2020\nEP  - 02\nER  - \n\nTY  - GEN\nAU  - Xiong, H.\nAU  - Yan, H.\nTI  - medRxiv\nSP  - 2020\nEP  - 02\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - GEN\nTI  - Spanish air navigation manager, AENA ((acceseed 2020))\nUR  - http://www.aena.es.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Iannelli, F.\nAU  - Koher, A.\nAU  - Brockmann, D.\nAU  - Hovel, P.\nAU  - M, I.\nT2  - Sokolov, Phys. Rev. E 95\nVL  - 12313\nPY  - 2017\nDA  - 2017\nUR  - URL https://link.\nER  - \n\nTY  - GEN\nTI  - Regions with cases of COVID19 as of 29/02 in Spain ((acceseed 2020))\nUR  - https://elpais.com/sociedad/2020-02-28/\nLA  - \nER  - \n\nTY  - GEN\nTI  - Spanish Statistical Office (in spanish) (accessed February 2020)\nUR  - https://www.ine.es/.\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Mobility dynamics for Spain. We use a dataset that includes all possible transportation means, from airplanes to cars. Panels (A) and (B) show the international fluxes to Spain, whereas (C) shows a breakdown of inter-province flows in Spain by transportation mode. The size of the nodes is proportional to the number of individuals leaving the province. Similarly, the width of the links is proportional to the number of individuals using that route. Note that for multimodal travels the associated mode is the one that corresponds to the largest part of the trip, which explains why there are links from the islands to provinces without ports in the matrix corresponding to maritime trips"
+            },
+            {
+                "id": "2",
+                "caption": "Number of operations (both passengers and cargo) in 2019 from any airport in China, South Korea and Italy to each Spanish airport. Only Madrid and Barcelona have direct passenger connections to China and South Korea, whereas Zaragoza only has freight connections to such locations. The destination provinces are ranked according to the likelihood of receiving an infected individual from each country, assuming the order is proportional to the total number of operations"
+            },
+            {
+                "id": "3",
+                "caption": "Comparison between the hitting time obtained after 103 simulations of the SEIR model in our metapopulation scheme, with 1 or 10 seeds initially placed in the province of Barcelona, and the theoretical distance in a SIR metapopulation model"
+            },
+            {
+                "id": "4",
+                "caption": "Time needed for an infected individual to arrive to each province if the disease starts with 10 infected individuals in Barcelona, Madrid, Illes Balears, Sevilla or Valencia. In the multiple provinces case, we introduced 5 in Madrid, 6 in Tenerife, 4 in Barcelona, 1 in Illes Balears, 1 in Zaragoza, 8 in Sevilla and 10 in Valencia . As indicated in each plot, we have simulated scenarios in which this number of infected individuals is seeded in five different major cities in Spain as well as for the case in which there are multiple places seeded at the same time"
+            },
+            {
+                "id": "5",
+                "caption": "Estimated cumulative number of infected individuals within each region when the disease starts with 10 infected individuals in the province of Barcelona. The reported values are the median over 103 simulations"
+            },
+            {
+                "id": "6",
+                "caption": "Evaluating the impact of mobility reduction. Panel (A) shows the fraction of individuals who where affected by the disease by the end of the epidemic, whereas panel (B) displays the time from the arrival of the first infected individual to the country until the peak of the epidemic, i.e., the day with the maximum number of infected individuals. In all cases the epidemic starts with 10 infected individuals places in Barcelona"
+            },
+            {
+                "id": "7",
+                "caption": "Size of the epidemic if (A) individuals are hospitalized or isolated after a given number of days from the onset of disease symptoms; and (B) a certain fraction of individuals is hospitalized or isolated one day after they experience the first symptoms. Each set of measures indicates when they were applied: since the beginning of the epidemic, and after 1,000, 10,000 and 100,000 cases are detected in the whole country. Note that individuals who escape isolation remain infectious until they recover, and thus they could be thought of as asymptomatic spreaders"
+            },
+            {
+                "id": "8",
+                "caption": "Effect of a reduction in transmission on the (A) outbreak size and (B) time for the disease to peak. The simulated reductions are as indicated in the legends and have been implemented either from the onset of the outbreak or when a certain number of cases in the whole country are detected. Once the transmissibility is reduced by 60% or more, the epidemic fades out. Note that reducing the transmissibility always delays the spreading, except in situations where the disease dies out, for which the peak occurs earlier"
+            },
+            {
+                "id": "9",
+                "caption": "Average flow in matrices in the last two weeks of October 2017"
+            },
+            {
+                "id": "10",
+                "caption": "Relationship between the hitting time in a simulation of SIR dynamics in our metapopulation and the theoretical one for different number of seeds"
+            }
+        ],
+        "figure_urls": []
+    },
+    "sections": {
+        "introduction": [
+            "The first report by the Chinese authorities of the COVID-19 outbreak appeared in December 31st, 2019. Ever since then, the World Health Organization (WHO) and national public health authorities have been tracing and reporting on the evolution of the outbreak. As initially feared, and despite contention measures adopted in China, with a big city like Wuhan being quarantined for weeks, the disease spread beyond mainland China. As of February 29th, 2020, there are 85,403 cases worldwide, of which 79,394 correspond to China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Additionally, 53 countries, including Spain, have reported at least one case of COVID-19. Two months into the outbreak, much is still unknown about the natural history of the disease and the pathogen. Important from the modeling perspective, for instance, it has been claimed that a large number of cases might have gone undetected by routinely screening passengers, due to the special characteristics of this disease [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Admmitedly, several studies predict that only between 10% and 20% of the cases have been detected and reported [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]."
+        ],
+        "results": [
+            "<strong>RESULTS AND DISCUSSIONS</strong><br/><br/>A. Quantifying the spatial and temporal evolution of the disease incidence.<br/><br/>One of the main characteristics of the COVID19 disease is its long latency times. Currently, the average incubation period has been reported to be 5.2 [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Thus, before proceeding with the evaluating the impact of the disease, we first compare the metapopulation model employed here with a classical SIR-metapopulation framework. To do so, we"
+        ],
+        "acknowledgments": [
+            "YM acknowledges partial support from the Government of Aragon, Spain through grant E36-17R (FENOL), and by MINECO and FEDER funds (FIS2017-87519-P). AA and YM acknowledge support from Intesa Sanpaolo Innovation Center. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of    No reduction    Days to the peak<br/><br/>Since the beginning Since the beginning the manuscript."
+        ],
+        "appendix": [
+            "<strong>Appendix A</strong><br/><br/>Movement data<br/><br/>The inter-province flow matrices include the number of individuals that move from province to province in Spain for several days of October 2017. The data also includes the main mode of transport used by those individuals, as well as other characteristics such as the period of the day when the travel started. In our case, we have collected the matrices from the last two weeks of October and averaged them. For a deeper discussion on the characteristics of these matrices we refer the reader to the original source (in spanish) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].",
+            "<strong>Appendix B</strong><br/><br/>Geographic and Demographic data<br/><br/>The upper level of administrative division in Spain is denominated Comunidad Autonoma. There are 15 of such \u201dautonomous communities\u201d in mainland Spain, one in the islands of the mediterranean sea (Balearic Islands) and one for the islands in the Atlantic Ocean (Canary Islands). Besides, there are two autonomous cities (ciudades autonomas) in the north of Africa, Ceuta and Melilla. The next administrative division is the province (provincia). There are 47 provinces in mainland Spain, 1 in the Balearic Islands and 2 in the Canary Islands, plus the two autonomous cities making up the 52 subpopulations considered in our model. The number of inhabitants of each province varies a lot, from over 5 millions in Madrid and Barcelona to less than 100,000 individuals in Ceuta and Melilla. We collected the number of inhabitants of each province from the data provided by the Spanish Statistical Office [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].",
+            "<strong>Appendix C</strong><br/><br/>Effective distances for epidemic spreading<br/><br/>To ensure that this quantity is able to predict correctly the spreading in our metapopulation, we first implement a SIR model and study the effect of using a different number of seeds, figure 10. Regardless on the number of seeds, the correlation between the obtained values and the theoretical ones is really large. However, the actual value depends on the number of initial seeds. Thus, without any modification this measure can help us determine the arrival order, i.e., to which provinces the disease should arrive first, but not the precise time. Nonetheless, depending on the number of seeds, a small correction has to be applied.<br/><br/>[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Tech. Rep., World Health Organization (2020), URL https://www.who.int/docs/default-source/coronaviruse/ situation-reports/20200229-sitrep-40-covid-19.pdf?sfvrsn=7203e653_2."
+        ],
+        "funding": [
+            "YM acknowledges partial support from the Government of Aragon, Spain through grant E36-17R (FENOL), and by MINECO and FEDER funds (FIS2017-87519-P)",
+            "AA and YM acknowledge support from Intesa Sanpaolo Innovation Center"
+        ],
+        "limitations": [
+            "Our model has several limitations and some of them could actually be overcome in the near future. Perhaps the most important one has to do with the inability of current large-scale epidemiological models to fully account for behavioral changes in the population when a disease is evolving. As it is the case for the spreading of COVID-19, the information \u2212and more often than desired, misinformation\u2212 travels faster than the disease. This produces undesired effects such as a collapse in the emergency rooms at hospitals, a proliferation of information sources that do not provide sensible advices in all cases, anticipated economic loses and, in general, uncoordinated responses. Therefore, it is a pressing challenge to develop more realistic ways to incorporate in models like the one employed here all these risk-averse responses and reactions. Another limitation of the current study includes the relatively low spatial resolution, which is essentially determined by the data availability. The results however indicate that the level of granularity used here is enough to capture mobility patterns and the effects of possible interventions. Finally, we have not considered the temporal and spatial variability of disease parameters, nor other potentially important characteristics of the host population such as the existence of super spreaders or the age structure, which seems to play a relevant role for this disease, at least in what concerns the case fatality rate. We plan to investigate on all these issues in the near future."
+        ]
+    },
+    "structured_content": {
+        "I. INTRODUCTION": [
+            "The first report by the Chinese authorities of the COVID-19 outbreak appeared in December 31st, 2019. Ever since then, the World Health Organization (WHO) and national public health authorities have been tracing and reporting on the evolution of the outbreak. As initially feared, and despite contention measures adopted in China, with a big city like Wuhan being quarantined for weeks, the disease spread beyond mainland China. As of February 29th, 2020, there are 85,403 cases worldwide, of which 79,394 correspond to China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Additionally, 53 countries, including Spain, have reported at least one case of COVID-19. Two months into the outbreak, much is still unknown about the natural history of the disease and the pathogen. Important from the modeling perspective, for instance, it has been claimed that a large number of cases might have gone undetected by routinely screening passengers, due to the special characteristics of this disease [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Admmitedly, several studies predict that only between 10% and 20% of the cases have been detected and reported [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].",
+            "As with any other novel disease, governments, public health services and the scientific community have been working towards stopping the spreading of COVID-19 as soon as possible and with the lowest possible impact on the population [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>\u2013<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. From a scientific point of view, there are two course of actions that can be followed. On the one hand, new vaccines and pharmaceutical interventions need to be developed. This usually requires months of work. Therefore, on the other hand, it is important to study the large-scale spatial spreading of the disease through mathematical and computational modeling, which allows evaluating \u201cin-silicon\u201d what-if-scenarios and potential contention measures to stop or delay the disease. This modeling effort is key, as it can contribute to maximize the effectiveness of any protection measures and gain time to develop new drugs or a vaccine to protect the population. Here, we follow the modeling path and analyze, through a data-driven stochastic SEIR-metapopulation model, the temporal and spatial transmission of the COVID-19 disease in Spain as well as the expected impact of possible and customary contention measures.",
+            "Our model allows to implement and quantify the impact of several conventional measures in Spain. These policies are mostly aimed at reducing the mobility of individuals, but we also include other plausible settings like a reduction in the time for case detection and isolation. Our findings agree with previous results in the literature that have reported that a reduction as large as 90% in traffic flow has a limited effect on the spreading of the disease. Important enough and at variance with such studies, the data-driven nature of this study and the available dataset allowed us to disentangle the impact of each transportation mode in several scenarios of mobility reduction in Spain. We found that while shutting down completely any transportation means does not lead to a significant reduction in the incidence of the disease, in some contexts the arrival of the peak of the disease is delayed by several days, which could eventually be advantageous. Altogether, we provide evidences supporting the adoption of a mixed strategy that combines some mobility restrictions with, mainly, the early identification of infected individuals and their isolation. These conclusions agree with the latest recommendations by the WHO [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. We also highlight that although this study has been made with data from Spain, our findings can also be valid for any other country given the ubiquity of mobility patterns worldwide.",
+            "Stochastic SEIR-metapopulation models are routinely used to study the temporal and spatial transmission of diseases like the COVID-19. Here, we made use of such class of models and implement a data-driven version that allows to obtain realistic estimates for the spatial incidence of the disease as well as its temporal dynamics. More specifically, in terms of time, we feed the model with the available data as of February 28th, 2020. Spatially, we consider that each province (there are 52 in Spain, see appendix B) is represented by a subpopulation. Furthermore, metapopulation models are composed by two types of dynamics: the disease dynamics governed by the chosen compartmental model, SEIR in our case, and the mobility of the individuals across the subpopulations that make up the whole metapopulation system. The latter ingredient, the mobility, connects the subpopulations and allows the disease to spread from one subpopulation to another. In what follows, we describe these two components of our model."
+        ],
+        "A. Mobility dynamics": [
+            "To model the mobility of individuals we use a data-driven approach. Data-driven modeling, at variance with more theoretically inspired methods, has the advantage that it allows to directly implement and evaluate realistic contention measures, thus producing scalable and actionable what-if-scenarios. To this end, we have obtained the inter-province mobility flows provided by the Ministry of Development of Spain [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Therefore, the minimal spatial unit in our system is a province. Using the information from the mobility matrices, that report the origin and destination (OD) of individual movements, at each time-step, we sample the number of individuals on the move from each province and distribute them across the country according to the information contained in these OD matrices. Important enough, this dataset not only includes the total number of individuals going from province to province, but it also distinguishes the main transportation means used by the individuals, see Figure 1. This will allow us to gauge the effect of travel restrictions on different transportation modes.",
+            "Furthermore, given that the epidemic started abroad, it is important to determine in which province the disease is more likely to be seeded first. Given the current global spread and incidence of the epidemic, we thus take into account that the three countries with more cases are China, South Korea and Italy and consider that the most plausible route for an infected individual to reach Spain is by plane. Thus, we collected the number of passengers coming from each country to each Spanish airport in 2019 from the Spanish air navigation manager AENA [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Then, we assigned each Spanish airport to its corresponding province and ranked them according to their total number of operations with each country, see figure 2. It is worth noticing that the information provided by AENA is already aggregated by country. Thus, this ranking cannot take into account which airports are mostly connected to locations where the outbreak is currently concentrated \u2212 e.g., north of Italy. Nevertheless, the ranking constitutes a valid proxy, and a good starting point, to seed the disease."
+        ],
+        "B. Disease dynamics": [
+            "The dynamics of the disease is governed by a SEIR compartmental model. In this model, individuals are classified according to their health status: susceptible (S) if they are susceptible to catch the disease; exposed (E) if they have been infected but are still asymptomatic and cannot infect other individuals; infected (I) once the incubation period is over and the individuals show symptoms and could infect others, and removed (R) when they are either recovered or deceased. Within each province, the transition between compartments results from the following rules, iterated at each time step, corresponding to 1 day: S\u2192E: Susceptible individuals in province i are infected with probability P (S \u2192 I) = 1 \u2212 (1 \u2212 R0/(TENi))Ii , where R0 is the reproduction number, TE is the mean incubation time, Ni stands for the number of individuals in region i and Ii accounts for the number of infected individuals in such region.",
+            "E\u2192I: Exposed individuals become infected at a rate inversely proportional to the mean latent period, TE.",
+            "I\u2192R: Infected individuals become removed at a rate inversely proportional to the mean infectious period, TI .",
+            "In what follows, we parameterize the model according to the latest estimates for the disease parameters [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>], namely, R0 = 2.5, and a generation time Tg = TE + TI = 10.3 resulting from considering TE = 5.2 and TE = 5.1. Note that we have not explicitly included in the model the possibility of asymptomatic transmission, which should not be mistaken by transmission from undetected or unreported cases. Asymptomatic spreading is still under scrutiny and the statistical evidences are scarce and not significant enough as to be taken by granted. In any case, including this possibility would be trivially possible in this kind of models."
+        ],
+        "III. RESULTS AND DISCUSSIONS": [
+            "A. Quantifying the spatial and temporal evolution of the disease incidence.",
+            "One of the main characteristics of the COVID19 disease is its long latency times. Currently, the average incubation period has been reported to be 5.2 [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Thus, before proceeding with the evaluating the impact of the disease, we first compare the metapopulation model employed here with a classical SIR-metapopulation framework. To do so, we",
+            "use the random-walk effective distance dRi(W j)(\u03b4) = \u2212 ln e\u03b4I(j|j) \u2212 P (j|j) \u22121 p(j) ,",
+            "where P (j|j) is the normalized flow matrix without row and column j, p(j) is the j-column of P with element j removed and \u03b4 is a dimensionless parameter that depends on the infection, recovery and mobility rates [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. This quantity, defined for SIR metapopulation models, gives us the expected time that it would take for the disease to reach each subpopulation of the system, also known as the hitting time. In Figure 3, we compare the hitting time obtained from stochastic simulations of the SEIR metapopulation model with the theoretical distances derived for the simplified SIR model. We can see that the correlation is nearly perfect, implying that the spreading itself is quite similar in both models. However, we find that the hitting times in the SEIR implementation are at least two times larger than the theoretical ones for the SIR scenario (on its turn, stochastic simulations of the SIR model agree very well with the theoretical expectations for the model, see appendix C). Thus, the addition of the latent state produces a substantial delay on the spreading of the epidemic. This is in line with the fact that the epidemic is thought to have started in mid-November or early December, however, a noticeable number of cases was only reported by early January.",
+            "Figure 4 shows the expected hitting time for each province when the disease starts from 5 different locations, as well as one case with seeds in multiple places, as obtained from the SEIR metapopulation model. As before, the hitting times might seem long, but this is due to the long latent periods of the disease, in agreement with the evolution of reported cases in mainland China. We also note that Spanish major cities are expected to be affected by the outbreak in no more than 40 days \u2212but often within 20 days\u2212 from the initial time in all the situations considered. Indeed, to mimic the situation in the country as of February 28th, 2020, and to make projections about the evolution of the disease into the future, we considered the scenario in which the model is initialized with infected individuals in the capital of each region where there are cases of COVID19: Madrid, Tenerife, Barcelona, Balearic Islands, Zaragoza, Seville and Valencia [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. The results show that the spreading is much faster (note that the outer circle in the 5 individual provinces represents 80 days while in this case it represents only 60 days) in such a situation.",
+            "Complementarily to Figure 4, we present in Figure 5 further results on the temporal and spatial evolution of the disease dynamics. Here we have computed, through stochastic simulations of the model, the cumulative number of infected individuals within each region assuming that the disease propagates from Barcelona by 10 initially infected individuals. The results align with the theoretical predictions, and highlight the close relationship that exists between the two biggest cities of Spain (Barcelona and Madrid), even though they are relatively far geographically (around 620 kilometers through the shortest path by car). Again, note that the relative slow speed of the epidemic agrees with what has been observed in China. Finally, it is worth remarking that all of these quantities have been obtained assuming that no control measures are taken, which is not the current case as (detected) infected individuals are being isolated and monitored by the authorities. Additionally, we also stress that it is difficult to assess whether this corresponds to a worst-case projection or not, given the many unknowns that can\u2019t be taken into account, such as inflow of infected subjects from abroad, the fraction of infectious individuals that have gone undetected, etc. However, Pearson correation = 0.99 y = 2.27x + 19.22 y = 2.24x + -2.95",
+            "as we show next, this data-driven modeling approach do allow to evaluate the effect of customary contention measures."
+        ],
+        "IV. CONTAINMENT OF THE EPIDEMIC": [
+            "Our data-driven model is particularly useful to get insights into mobility-mediated transmission dynamics and to evaluate possibly countermeasures. Next, we explore diverse containment measures that could be implemented aiming at stopping the large-scale spreading of the disease. First, we analyze the effect of imposing mobility restrictions by limiting traffic flow in the country. We consider six different scenarios that correspond to each transportation mode being shutdown plus another one in which a total reduction of 90% of the overall traffic is imposed. These measures are extreme and unless the situation gets really critical, would not be put into practice as they bear an economic cost that would be insurmountable. Nonetheless, as we show below, however drastic they appear to be, these measures are useless when it comes to completely stop the disease from propagating. Indeed, a significant reduction in the estimated incidence is only obtained when other actions are feasible.",
+            "Admittedly, in Figure 6A it is observed that the previous measures have no effect on the final size of the epidemic. On the other hand, if we look at the time for the peak of the epidemic to arrive, Figure 6B, we see some minor effects. In particular, although shutting down most modes of transportation have practically no effect, if all private cars were removed (i.e., they remain confined in their corresponding province), the peak of the epidemic would be delayed by about 7 days. The most effective of the above scenarios of mobility restriction corresponds to an unrealistic 90% reduction of the overall traffic, when the peak would be delayed over 20 days. This is in agreement with previous studies that have shown that the only sizable effect of travel restrictions is to delay the peak of the epidemic. For instance, it has been claimed that the travel restrictions in Wuhan only delayed the peak of the epidemic by 3 days [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "Another possibility, instead of limiting the mobility of the overall population, is to be extremely vigilant so as to make it possible to isolate all the cases that start to appear quickly enough. To check the impact of this policy, we have simulated a scenario in which the average number of days that an individual is able to go unnoticed and infect others is reduced from 5.1 to 4, 3, 2 and 1 days. In Figure 7A, we observe that this strategy is much more effective than traffic restrictions. In particular, if we were able to reduce the time since symptoms\u2019 onset to isolation below 3 days, the epidemic will disappear. As a matter of fact, it has been recently reported [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] that this average number of days went down in China from 4.4 days at the beginning of the outbreak to 2.6 days, which is one of the reasons invoked to explain why the epidemic has started to decline in mainland China.",
+            "It is also reasonable to assume that this strategy is not easy to implement in full, either because some individuals could purportedly try to avoid isolation or due to the fact that many infected subjects have mild symptoms similar to a common flu and neither go to the doctor nor report their state. Therefore, we have simulated a slightly different scenario in which individuals are isolated one day after their symptoms\u2019 onset (note that they are still able to spread the disease during a whole day) with a certain efficacy. That is, only a given percentage of the new cases is isolated, while the others are able to roam freely. This framework would also be compatible with having asymptomatic individuals who are able to spread the disease, something that is currently under debate and not yet statistically supported. The equivalence with such hypothetical natural history of the disease in our model is such because we do not apply the prescribed percentage to the total number of infected individuals, but only to those who had been infected on the previous day, thus, those that escape will remain infectious as if they were asymptomatic until they recover. In Figure 7B we show the effect that different percentages of new isolated cases would have on the size of the outbreak. Being able to hospitalize all individuals, on average, in 1 day enables to effectively stop the disease, see Figure 7A. Yet, the results also show that even if all infectious are not isolated, as long as more than 70% of the infected individuals are, the effect would be similar and the disease would be effectively eradicated.",
+            "Lastly, we analyzed the consequences of self-protection measures such as wearing masks, washing more frequently ones hands or avoiding crowded places. To mimic these contexts, we simply reduced the effectivity of the transmission by a certain fraction, and study the final size of the epidemic, see Figure 8A. The results show that a large reduction of at least 60% is needed to contain the disease. Interestingly, if we look at the time to the peak of the epidemic, represented in Figure 8B, we observe that decreasing the transmission not only reduces the size of the outbreak but also delays the peak. Hence, even if this strategy might not be sufficient to completely stop the propagation of the disease in all cases, it could certainly help for preparedness and other clinical responses by delaying the spreading. The exception is when the reduction is very large (in the figure, beyond 60%) as in these cases the peak occurs earlier because the disease dies out.",
+            "In concluding, it is apparent from all the results obtained for the different scenarios that we have considered that the most cost-effective strategy would be the isolation or quarantine of detected infectious cases, as long as the efficiency of such measure is over 70%. Important for the current debate about the natural history of the disease, this policy would also work if there is a fraction of asymptomatic but infectious individuals in the population. Our results also",
+            "show that from a practical point of view, a combination of all the analyzed contexts can have second order benefits. As already stressed, containment measures should not only be directed towards a full cutdown of the number of infected cases. Their efficacy is also given by other factors, such as delaying, even if only by a few days, the spreading of the disease. Such delays are always good for preparedness and to have more time for clinical research that can lead to new pharmacological treatments or vaccines. For instance, even if traffic restrictions are not effective on their own, they facilitate the control of the population and thus it would be easier to detect infected individuals and treat them. Similarly, self-protection measures and other social-distancing practices delay the spreading of the disease, freeing resources that would allow for a better management of the epidemic, in turn leading to an increase of the efficiency of",
+            "individual isolation. Closing public places would, in practice, reduce the transmission, which again will lower the total number of infections and thus make them more manageable for the public health system. This also highlights the importance of having a coordinated response system, since simply adopting central measures like imposing mobility restrictions and closing public places is not effective in the middle-to-long term.",
+            "Our model has several limitations and some of them could actually be overcome in the near future. Perhaps the most important one has to do with the inability of current large-scale epidemiological models to fully account for behavioral changes in the population when a disease is evolving. As it is the case for the spreading of COVID-19, the information \u2212and more often than desired, misinformation\u2212 travels faster than the disease. This produces undesired effects such as a collapse in the emergency rooms at hospitals, a proliferation of information sources that do not provide sensible advices in all cases, anticipated economic loses and, in general, uncoordinated responses. Therefore, it is a pressing challenge to develop more realistic ways to incorporate in models like the one employed here all these risk-averse responses and reactions. Another limitation of the current study includes the relatively low spatial resolution, which is essentially determined by the data availability. The results however indicate that the level of granularity used here is enough to capture mobility patterns and the effects of possible interventions. Finally, we have not considered the temporal and spatial variability of disease parameters, nor other potentially important characteristics of the host population such as the existence of super spreaders or the age structure, which seems to play a relevant role for this disease, at least in what concerns the case fatality rate. We plan to investigate on all these issues in the near future."
+        ],
+        "Acknowledgments": [
+            "YM acknowledges partial support from the Government of Aragon, Spain through grant E36-17R (FENOL), and by MINECO and FEDER funds (FIS2017-87519-P). AA and YM acknowledge support from Intesa Sanpaolo Innovation Center. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of",
+            "the manuscript."
+        ],
+        "Appendix A: Movement data": [
+            "The inter-province flow matrices include the number of individuals that move from province to province in Spain for several days of October 2017. The data also includes the main mode of transport used by those individuals, as well as other characteristics such as the period of the day when the travel started. In our case, we have collected the matrices from the last two weeks of October and averaged them. For a deeper discussion on the characteristics of these matrices we refer the reader to the original source (in spanish) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]."
+        ],
+        "Appendix B: Geographic and Demographic data": [
+            "The upper level of administrative division in Spain is denominated Comunidad Autonoma. There are 15 of such \u201dautonomous communities\u201d in mainland Spain, one in the islands of the mediterranean sea (Balearic Islands) and one for the islands in the Atlantic Ocean (Canary Islands). Besides, there are two autonomous cities (ciudades autonomas) in the north of Africa, Ceuta and Melilla. The next administrative division is the province (provincia). There are 47 provinces in mainland Spain, 1 in the Balearic Islands and 2 in the Canary Islands, plus the two autonomous cities making up the 52 subpopulations considered in our model. The number of inhabitants of each province varies a lot, from over 5 millions in Madrid and Barcelona to less than 100,000 individuals in Ceuta and Melilla. We collected the number of inhabitants of each province from the data provided by the Spanish Statistical Office [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].",
+            "There are 45 airports in Spain (including the heliports in Algeciras and Ceuta), although the majority of them only have connections to other Spanish airports or European airports. As with the provinces, the traffic in these airports",
+            "varies widely, from over 50 million passengers in Madrid and Barcelona to less than 2,000 in Albacete and Huesca. The information regarding Spanish airports is provided by the Spanish air navigation manager (AENA) [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]."
+        ],
+        "Appendix C: Effective distances for epidemic spreading": [
+            "To ensure that this quantity is able to predict correctly the spreading in our metapopulation, we first implement a SIR model and study the effect of using a different number of seeds, figure 10. Regardless on the number of seeds, the correlation between the obtained values and the theoretical ones is really large. However, the actual value depends on the number of initial seeds. Thus, without any modification this measure can help us determine the arrival order, i.e., to which provinces the disease should arrive first, but not the precise time. Nonetheless, depending on the number of seeds, a small correction has to be applied.",
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Tech. Rep., World Health Organization (2020), URL https://www.who.int/docs/default-source/coronaviruse/ situation-reports/20200229-sitrep-40-covid-19.pdf?sfvrsn=7203e653_2.",
+            "[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] K. Gostic, A. C. R. Gomez, R. O. Mummah, A. J. Kucharski, and J. O. Lloyd-Smith, eLife (2020). [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Z. Du, L. Wang, S. Cauchemez, X. Xu, X. Wang, B. J. Cowling, and L. A. Meyers, medRxiv p. 2020.01.28.20019299 (2020). [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] M. Chinazzi, J. T. Davis, M. Ajelli, C. Gioannini, M. Litvinova, S. Merler, A. P. y. Piontti, L. Rossi, K. Sun, C. Viboud, et al, medRxiv p. 2020.02.09.20021261 (2020). [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Z. Cao, Q. Zhang, X. Lu, D. Pfeiffer, L. Wang, H. Song, T. Pei, Z. Jia, and D. D. Zeng, medRxiv p. 2020.02.07.20021071",
+            "(2020). [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Y. Zhou and J. Dong, medRxiv p. 2020.02.10.20021774 (2020). [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] X. Zhu, A. Zhang, S. Xu, P. Jia, X. Tan, J. Tian, T. Wei, Z. Quan, and J. Yu, medRxiv p. 2020.02.09.20021360 (2020). [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] X. Li, X. Zhao, and Y. Sun, medRxiv p. 2020.02.09.20021477 (2020). [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] H. Xiong and H. Yan, medRxiv p. 2020.02.10.20021519 (2020). [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Tech. Rep., World Health Organization (2020), URL https://www.who.int/docs/default-source/coronaviruse/",
+            "who-china-joint-mission-on-covid-19-final-report.pdf. [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Tech. Rep., Ministry of Development of Spain (2019), URL https://observatoriotransporte.mitma.gob.es/",
+            "estudio-experimental. [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] Spanish air navigation manager, AENA ((acceseed 2020)), URL http://www.aena.es. [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] J. Zhang, M. Litvinova, W. Wang, Y. Wang, X. Deng, X. Chen, M. Li, W. Zheng, L. Yi, X. Chen, et al, medRxiv p.",
+            "2020.02.21.20026328 (2020). [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] F. Iannelli, A. Koher, D. Brockmann, P. Hovel, and I. M. Sokolov, Phys. Rev. E 95, 012313 (2017), URL https://link.",
+            "aps.org/doi/10.1103/PhysRevE.95.012313. [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Regions with cases of COVID19 as of 29/02 in Spain ((acceseed 2020)), URL https://elpais.com/sociedad/2020-02-28/",
+            "los-contagios-activos-por-coronavirus-se-elevan-a-30-en-espana.html. [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Spanish Statistical Office (in spanish) (accessed February 2020), https://www.ine.es/."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 85403,
+            "context": "As initially feared, and despite contention measures adopted in China, with a big city like Wuhan being quarantined for weeks, the disease spread beyond mainland China. <mark class=\"stats\">As of February 29th, 2020, there are 85,403 cases worldwide, of which 79,394 correspond to China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]</mark>. Additionally, 53 countries, including Spain, have reported at least one case of COVID-19"
+        },
+        {
+            "participant": "countries with more cases",
+            "number": 3,
+            "context": "Furthermore, given that the epidemic started abroad, it is important to determine in which province the disease is more likely to be seeded first. <mark class=\"stats\">Given the current global spread and incidence of the epidemic, we thus take into account that the three countries with more cases are China, South Korea and Italy and consider that the most plausible route for an infected individual to reach Spain is by plane</mark>. Thus, we collected the number of passengers coming from each country to each Spanish airport in 2019 from the Spanish air navigation manager AENA [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]"
+        },
+        {
+            "participant": "initially infected individuals",
+            "number": 10,
+            "context": "Complementarily to Figure 4, we present in Figure 5 further results on the temporal and spatial evolution of the disease dynamics. <mark class=\"stats\">Here we have computed, through stochastic simulations of the model, the cumulative number of infected individuals within each region assuming that the disease propagates from Barcelona by 10 initially infected individuals</mark>. The results align with the theoretical predictions, and highlight the close relationship that exists between the two biggest cities of Spain (Barcelona and Madrid), even though they are relatively far geographically (around 620 kilometers through the shortest path by car)"
+        },
+        {
+            "participant": "cases",
+            "number": 1000,
+            "context": "Since the beginning Detection efficiency. <mark class=\"stats\">After 1,000 cases</mark>. After 10,000 cases"
+        },
+        {
+            "participant": "cases",
+            "number": 10000,
+            "context": "After 1,000 cases. <mark class=\"stats\">After 10,000 cases</mark>. After 100,000 cases"
+        },
+        {
+            "participant": "cases",
+            "number": 100000,
+            "context": "After 10,000 cases. <mark class=\"stats\">After 100,000 cases</mark>. 0 Since the beginning"
+        },
+        {
+            "participant": "cases",
+            "number": 100,
+            "context": "0 Since the beginning. <mark class=\"stats\">After 100 cases individual isolation</mark>. Closing public places would, in practice, reduce the transmission, which again will lower the total number of infections and thus make them more manageable for the public health system"
+        },
+        {
+            "participant": "individuals",
+            "number": 100000,
+            "context": "There are 47 provinces in mainland Spain, 1 in the Balearic Islands and 2 in the Canary Islands, plus the two autonomous cities making up the 52 subpopulations considered in our model. <mark class=\"stats\">The number of inhabitants of each province varies a lot, from over 5 millions in Madrid and Barcelona to less than 100,000 individuals in Ceuta and Melilla</mark>. We collected the number of inhabitants of each province from the data provided by the Spanish Statistical Office [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]"
+        },
+        {
+            "participant": "passengers",
+            "number": 50000000,
+            "context": "Pearson correlation = 0.99 y = 1.07x + 9.47 y = 1.04x + 0.98 y = 0.93x + -5.63. <mark class=\"stats\">SIR Model seeds varies widely, from over 50 million passengers in Madrid and Barcelona to less than 2,000 in Albacete and Huesca</mark>. The information regarding Spanish airports is provided by the Spanish air navigation manager (AENA) [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">However, Pearson correation = 0.99 y = 2.27x + 19.22 y = 2.24x + -2.95</mark>",
+                "tests": [
+                    {
+                        "test": "Pearson",
+                        "value": "= 0.99"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Pearson correlation = 0.99 y = 1.07x + 9.47 y = 1.04x + 0.98 y = 0.93x + -5.63</mark>",
+                "tests": [
+                    {
+                        "test": "Pearson correlation",
+                        "value": "= 0.99"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "natural history",
+        "origin and destination",
+        "COVID-19",
+        "contention measure",
+        "World Health Organization"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.2666666667,
+        "contention measure": 0.2333333333,
+        "World Health Organization": 0.2,
+        "origin and destination": 0.1666666667,
+        "natural history": 0.1333333333
+    },
+    "species": [],
+    "summary": [
+        "The first report by the Chinese authorities of the COVID-19 outbreak appeared in December 31st, 2019.",
+        "The authors follow the modeling path and analyze, through a data-driven stochastic SEIR-metapopulation model, the temporal and spatial transmission of the COVID-19 disease in Spain as well as the expected impact of possible and customary contention measures.",
+        "These policies are mostly aimed at reducing the mobility of individuals, but the authors include other plausible settings like a reduction in the time for case detection and isolation.",
+        "The authors' findings agree with previous results in the literature that have reported that a reduction as large as 90% in traffic flow has a limited effect on the spreading of the disease.",
+        "Given the current global spread and incidence of the epidemic, the authors take into account that the three countries with more cases are China, South Korea and Italy and consider that the most plausible route for an infected individual to reach Spain is by plane.",
+        "Figure 4 shows the expected hitting time for each province when the disease starts from 5 different locations, as well as one case with seeds in multiple places, as obtained from the SEIR metapopulation model.",
+        "To mimic the situation in the country as of February 28th, 2020, and to make projections about the evolution of the disease into the future, the authors considered the scenario in which the model is initialized with infected individuals in the capital of each region where there are cases of COVID19: Madrid, Tenerife, Barcelona, Balearic Islands, Zaragoza, Seville and Valencia [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>].",
+        "The most effective of the above scenarios of mobility restriction corresponds to an unrealistic 90% reduction of the overall traffic, when the peak would be delayed over 20 days.",
+        "The equivalence with such hypothetical natural history of the disease in the model is such because the authors do not apply the prescribed percentage to the total number of infected individuals, but only to those who had been infected on the previous day, those that escape will remain infectious as if they were asymptomatic until they recover.",
+        "It is apparent from all the results obtained for the different scenarios that the authors have considered that the most cost-effective strategy would be the isolation or quarantine of detected infectious cases, as long as the efficiency of such measure is over 70%.",
+        "To ensure that this quantity is able to predict correctly the spreading in the metapopulation, the authors first implement a SIR model and study the effect of using a different number of seeds, figure 10."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The first report by the Chinese authorities of the COVID-19 outbreak appeared in December 31st, 2019.",
+            "The authors follow the modeling path and analyze, through a data-driven stochastic SEIR-metapopulation model, the temporal and spatial transmission of the COVID-19 disease in Spain as well as the expected impact of possible and customary contention measures."
+        ],
+        "Results": [
+            "These policies are mostly aimed at reducing the mobility of individuals, but the authors include other plausible settings like a reduction in the time for case detection and isolation.",
+            "The authors' findings agree with previous results in the literature that have reported that a reduction as large as 90% in traffic flow has a limited effect on the spreading of the disease.",
+            "Given the current global spread and incidence of the epidemic, the authors take into account that the three countries with more cases are China, South Korea and Italy and consider that the most plausible route for an infected individual to reach Spain is by plane.",
+            "Figure 4 shows the expected hitting time for each province when the disease starts from 5 different locations, as well as one case with seeds in multiple places, as obtained from the SEIR metapopulation model.",
+            "To mimic the situation in the country as of February 28th, 2020, and to make projections about the evolution of the disease into the future, the authors considered the scenario in which the model is initialized with infected individuals in the capital of each region where there are cases of COVID19: Madrid, Tenerife, Barcelona, Balearic Islands, Zaragoza, Seville and Valencia [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>].",
+            "The most effective of the above scenarios of mobility restriction corresponds to an unrealistic 90% reduction of the overall traffic, when the peak would be delayed over 20 days.",
+            "The equivalence with such hypothetical natural history of the disease in the model is such because the authors do not apply the prescribed percentage to the total number of infected individuals, but only to those who had been infected on the previous day, those that escape will remain infectious as if they were asymptomatic until they recover."
+        ],
+        "Conclusion": [
+            "It is apparent from all the results obtained for the different scenarios that the authors have considered that the most cost-effective strategy would be the isolation or quarantine of detected infectious cases, as long as the efficiency of such measure is over 70%.",
+            "To ensure that this quantity is able to predict correctly the spreading in the metapopulation, the authors first implement a SIR model and study the effect of using a different number of seeds, figure 10."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "2",
+            "alt_id": "Gostic_et+al_2020_a",
+            "entry": "[2] K. Gostic, A. C. R. Gomez, R. O. Mummah, A. J. Kucharski, and J. O. Lloyd-Smith, eLife (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=K%20Gostic%20A%20C%20R%20Gomez%20R%20O%20Mummah%20A%20J%20Kucharski%20and%20J%20O%20LloydSmith%20eLife%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=K%20Gostic%20A%20C%20R%20Gomez%20R%20O%20Mummah%20A%20J%20Kucharski%20and%20J%20O%20LloydSmith%20eLife%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=K%20Gostic%20A%20C%20R%20Gomez%20R%20O%20Mummah%20A%20J%20Kucharski%20and%20J%20O%20LloydSmith%20eLife%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Du_et+al_2020_a",
+            "entry": "[3] Z. Du, L. Wang, S. Cauchemez, X. Xu, X. Wang, B. J. Cowling, and L. A. Meyers, medRxiv p. 2020.01.28.20019299 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Z%20Du%20L%20Wang%20S%20Cauchemez%20X%20Xu%20X%20Wang%20B%20J%20Cowling%20and%20L%20A%20Meyers%20medRxiv%20p%202020012820019299%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Z%20Du%20L%20Wang%20S%20Cauchemez%20X%20Xu%20X%20Wang%20B%20J%20Cowling%20and%20L%20A%20Meyers%20medRxiv%20p%202020012820019299%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Z%20Du%20L%20Wang%20S%20Cauchemez%20X%20Xu%20X%20Wang%20B%20J%20Cowling%20and%20L%20A%20Meyers%20medRxiv%20p%202020012820019299%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Chinazzi_et+al_2020_a",
+            "entry": "[4] M. Chinazzi, J. T. Davis, M. Ajelli, C. Gioannini, M. Litvinova, S. Merler, A. P. y. Piontti, L. Rossi, K. Sun, C. Viboud, et al., medRxiv p. 2020.02.09.20021261 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=M%20Chinazzi%20J%20T%20Davis%20M%20Ajelli%20C%20Gioannini%20M%20Litvinova%20S%20Merler%20A%20P%20y%20Piontti%20L%20Rossi%20K%20Sun%20C%20Viboud%20et%20al%20medRxiv%20p%202020020920021261%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=M%20Chinazzi%20J%20T%20Davis%20M%20Ajelli%20C%20Gioannini%20M%20Litvinova%20S%20Merler%20A%20P%20y%20Piontti%20L%20Rossi%20K%20Sun%20C%20Viboud%20et%20al%20medRxiv%20p%202020020920021261%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=M%20Chinazzi%20J%20T%20Davis%20M%20Ajelli%20C%20Gioannini%20M%20Litvinova%20S%20Merler%20A%20P%20y%20Piontti%20L%20Rossi%20K%20Sun%20C%20Viboud%20et%20al%20medRxiv%20p%202020020920021261%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Cao_et+al_2020_a",
+            "entry": "[5] Z. Cao, Q. Zhang, X. Lu, D. Pfeiffer, L. Wang, H. Song, T. Pei, Z. Jia, and D. D. Zeng, medRxiv p. 2020.02.07.20021071 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Z%20Cao%20Q%20Zhang%20X%20Lu%20D%20Pfeiffer%20L%20Wang%20H%20Song%20T%20Pei%20Z%20Jia%20and%20D%20D%20Zeng%20medRxiv%20p%202020020720021071%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Z%20Cao%20Q%20Zhang%20X%20Lu%20D%20Pfeiffer%20L%20Wang%20H%20Song%20T%20Pei%20Z%20Jia%20and%20D%20D%20Zeng%20medRxiv%20p%202020020720021071%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Z%20Cao%20Q%20Zhang%20X%20Lu%20D%20Pfeiffer%20L%20Wang%20H%20Song%20T%20Pei%20Z%20Jia%20and%20D%20D%20Zeng%20medRxiv%20p%202020020720021071%202020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Zhou_2020_a",
+            "entry": "[6] Y. Zhou and J. Dong, medRxiv p. 2020.02.10.20021774 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20Y.%20J.%20Dong%2C%20medRxiv%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Zhu_et+al_2020_a",
+            "entry": "[7] X. Zhu, A. Zhang, S. Xu, P. Jia, X. Tan, J. Tian, T. Wei, Z. Quan, and J. Yu, medRxiv p. 2020.02.09.20021360 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=X%20Zhu%20A%20Zhang%20S%20Xu%20P%20Jia%20X%20Tan%20J%20Tian%20T%20Wei%20Z%20Quan%20and%20J%20Yu%20medRxiv%20p%202020020920021360%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=X%20Zhu%20A%20Zhang%20S%20Xu%20P%20Jia%20X%20Tan%20J%20Tian%20T%20Wei%20Z%20Quan%20and%20J%20Yu%20medRxiv%20p%202020020920021360%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=X%20Zhu%20A%20Zhang%20S%20Xu%20P%20Jia%20X%20Tan%20J%20Tian%20T%20Wei%20Z%20Quan%20and%20J%20Yu%20medRxiv%20p%202020020920021360%202020"
+        },
+        {
+            "id": "8",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "[8] X. Li, X. Zhao, and Y. Sun, medRxiv p. 2020.02.09.20021477 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=X%20Li%20X%20Zhao%20and%20Y%20Sun%20medRxiv%20p%202020020920021477%202020"
+        },
+        {
+            "id": "9",
+            "alt_id": "Xiong_2020_a",
+            "entry": "[9] H. Xiong and H. Yan, medRxiv p. 2020.02.10.20021519 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xiong%2C%20H.%20Yan%2C%20H.%20medRxiv%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "[12]_2020_a",
+            "entry": "[12] Spanish air navigation manager, AENA ((acceseed 2020)), URL http://www.aena.es.",
+            "url": "http://www.aena.es"
+        },
+        {
+            "id": "14",
+            "alt_id": "Iannelli_et+al_2017_a",
+            "entry": "[14] F. Iannelli, A. Koher, D. Brockmann, P. Hovel, and I. M. Sokolov, Phys. Rev. E 95, 012313 (2017), URL https://link.",
+            "url": "https://link",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=F%20Iannelli%20A%20Koher%20D%20Brockmann%20P%20Hovel%20and%20I%20M%20Sokolov%20Phys%20Rev%20E%2095%20012313%202017%20URL%20httpslink",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=F%20Iannelli%20A%20Koher%20D%20Brockmann%20P%20Hovel%20and%20I%20M%20Sokolov%20Phys%20Rev%20E%2095%20012313%202017%20URL%20httpslink"
+        },
+        {
+            "id": "15",
+            "alt_id": "[15]_2020_b",
+            "entry": "[15] Regions with cases of COVID19 as of 29/02 in Spain ((acceseed 2020)), URL https://elpais.com/sociedad/2020-02-28/",
+            "url": "https://elpais.com/sociedad/2020-02-28/"
+        },
+        {
+            "id": "16",
+            "alt_id": "[16]_2020_c",
+            "entry": "[16] Spanish Statistical Office (in spanish) (accessed February 2020), https://www.ine.es/.",
+            "url": "https://www.ine.es/"
+        }
+    ],
+    "facts": [
+        "an outbreak of a new coronavirus disease known as COVID-19",
+        "able to contain the growth of the epidemic",
+        "different outbreaks are nowadays being detected in multiple countries",
+        "Much is currently unknown about the natural history of the disease",
+        "the effect of different containment strategies that can be put into effect",
+        "Our work refers to the situation in Spain",
+        "Our results are in line",
+        "public recommendations aimed at reducing the transmissibility of the disease",
+        "The first report by the Chinese authorities of the COVID-19 outbreak appeared in December 31st",
+        "despite contention measures adopted in China",
+        "with a big city like Wuhan being quarantined for weeks",
+        "the disease spread beyond mainland China",
+        "much is still unknown about the natural history of the disease",
+        "that a large number of cases might have gone undetected by routinely screening passengers",
+        "These policies are mostly aimed at reducing the mobility of individuals",
+        "Our findings agree with previous results in the literature",
+        "that have reported that a reduction",
+        "large as 90% in traffic flow has a limited effect on the spreading of the disease",
+        "most plausible route for an infected individual to reach Spain is by plane",
+        "the disease starts from 5 different locations",
+        "the model is initialized with infected individuals in the capital",
+        "the peak would be delayed over 20 days",
+        "only to those who had been infected on the previous day",
+        "the results obtained for the different scenarios",
+        "long as the efficiency of such measure is over 70%",
+        "any transportation means does not lead to a significant reduction in the incidence",
+        "in some contexts the arrival of the peak of the disease is delayed by several days",
+        "provide evidences supporting the adoption of a mixed strategy",
+        "this data-driven modeling approach do allow to evaluate the effect of customary contention measures",
+        "the large-scale spreading of the disease",
+        "the effect that different percentages of new isolated cases would have on the size of the outbreak"
+    ],
+    "claims": [
+        "To facilitate this task, we have studied the effect of different containment strategies that can be put into effect",
+        "We found that while shutting down completely any transportation means does not lead to a significant reduction in the incidence of the disease, in some contexts the arrival of the peak of the disease is delayed by several days, which could eventually be advantageous",
+        "We provide evidences supporting the adoption of a mixed strategy that combines some mobility restrictions with, mainly, the early identification of infected individuals and their isolation",
+        "In what follows, we describe these two components of our model",
+        "We find that the hitting times in the SEIR implementation are at least two times larger than the theoretical ones for the SIR scenario (on its turn, stochastic simulations of the SIR model agree very well with the theoretical expectations for the model, see appendix C)",
+        "Indeed, to mimic the situation in the country as of February 28th, 2020, and to make projections about the evolution of the disease into the future, we considered the scenario in which the model is initialized with infected individuals in the capital of each region where there are cases of COVID19: Madrid, Tenerife, Barcelona, Balearic Islands, Zaragoza, Seville and Valencia [15]",
+        "To Figure 4, we present in Figure 5 further results on the temporal and spatial evolution of the disease dynamics",
+        "SIR Theoretical Distance as we show next, this data-driven modeling approach do allow to evaluate the effect of customary contention measures",
+        "We explore diverse containment measures that could be implemented aiming at stopping the large-scale spreading of the disease",
+        "As we show below, however drastic they appear to be, these measures are useless when it comes to completely stop the disease from propagating",
+        "In Figure 7B we show the effect that different percentages of new isolated cases would have on the size of the outbreak",
+        "To mimic these contexts, we simply reduced the effectivity of the transmission by a certain fraction, and study the final size of the epidemic, see Figure 8A",
+        "In concluding, it is apparent from all the results obtained for the different scenarios that we have considered that the most cost-effective strategy would be the isolation or quarantine of detected infectious cases, as long as the efficiency of such measure is over 70%"
+    ],
+    "findings": [
+        "Yet, the results also show that even if all infectious are not isolated, as long as more than 70% of the infected individuals are, the effect would be similar and the disease would be effectively eradicated"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Despite contention measures adopted in China, with a big city like Wuhan being quarantined for weeks, the disease spread beyond mainland China",
+        "To mimic the situation in the country as of February 28th, 2020, and to make projections about the evolution of the disease into the future, we considered the scenario in which the model is initialized with infected individuals in the capital of each region where there are cases of COVID19: Madrid, Tenerife, Barcelona, Balearic Islands, Zaragoza, Seville and Valencia [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "SIR Theoretical Distance as we show this data-driven modeling approach do allow to evaluate the effect of customary contention measures",
+        "Only a given percentage of the new cases is isolated, while the others are able to roam freely. This framework would be compatible with having asymptomatic individuals who are able to spread the disease, something that is currently under debate and not yet statistically supported. The equivalence with such hypothetical natural history of the disease in our model is such because we do not apply the prescribed percentage to the total number of infected individuals, but only to those who had been infected on the previous day, those that escape will remain infectious as if they were asymptomatic until they recover"
+    ],
+    "top_statements": [
+        "The first report by the Chinese authorities of the COVID-19 outbreak appeared in December 31st, 2019",
+        "Despite contention measures adopted in China, with a big city like Wuhan being quarantined for weeks, the disease spread beyond mainland China",
+        "To mimic the situation in the country as of February 28th, 2020, and to make projections about the evolution of the disease into the future, we considered the scenario in which the model is initialized with infected individuals in the capital of each region where there are cases of COVID19: Madrid, Tenerife, Barcelona, Balearic Islands, Zaragoza, Seville and Valencia [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "SIR Theoretical Distance as we show this data-driven modeling approach do allow to evaluate the effect of customary contention measures",
+        "Only a given percentage of the new cases is isolated, while the others are able to roam freely. This framework would be compatible with having asymptomatic individuals who are able to spread the disease, something that is currently under debate and not yet statistically supported. The equivalence with such hypothetical natural history of the disease in our model is such because we do not apply the prescribed percentage to the total number of infected individuals, but only to those who had been infected on the previous day, those that escape will remain infectious as if they were asymptomatic until they recover"
+    ],
+    "headline": "SIR Theoretical Distance as we show this data-driven modeling approach do allow to evaluate the effect of customary contention measures",
+    "contexts": [],
+    "abbreviations": {
+        "WHO": "World Health Organization",
+        "OD": "origin and destination"
+    }
+}
