@@ -1,6 +1,8 @@
 # medrxiv-coronavirus-preprints
 medRxiv coronavirus PDF preprints converted to JSON data using the Scholarcy API.
 
+You can also find a larger set of papers in this repo: https://github.com/philgooch/dimensions-coronavirus-publications
+
 # Where is the data from?
 
 The PDFs are from https://www.medrxiv.org/search/coronavirus. Each DOI was processed through the [Scholarcy API](https://sandbox-api.scholarcy.com/api/) which retrieves the PDF and converts it to JSON, structured according to the table below:
