@@ -1,0 +1,581 @@
+{
+    "filename": "2020.03.06.20032417.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 182642,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.06.20032417",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/10/2020.03.06.20032417.full.pdf"
+        },
+        "title": "Estimation of incubation period distribution of COVID-19 using disease onset forward time: a novel cross-sectional and forward follow-up study",
+        "author": "Qin Jing, Chong You, Qiushi Lin, Taojun Hu, Shicheng Yu, Xiao-Hua Zhou",
+        "date": 2020,
+        "affiliations": [
+            "Biostatistics Research Branch, National Institute of Allergy and Infectious Diseases, National Institute of Health, Rockville, Maryland, United States, 20852.",
+            "Beijing International Center for Mathematical Research, Peking University, China, 100871.",
+            "School of Mathematical Sciences, Peking University, China, 100871.",
+            "Department of Biostatistics, School of Public Health, Peking University, China, 100871.",
+            "Office for Epidemiology, Chinese Center for Disease Control and Prevention, China, 102206.",
+            "Center for Statistical Science, Peking University, China, 100871.",
+            "Corresponding author: azhou@math.pku.edu.cn",
+            "National Natural Science Foundation of China grant 8204100362 and Zhejiang University special scientific research fund for COVID-19 prevention and control."
+        ],
+        "abstract": "Background: \nThe current outbreak of coronavirus disease 2019 (COVID-19) has quickly spread across countries and become a global crisis. However, one of the most important clinical characteristics in epidemiology, the distribution of the incubation period, remains unclear. Different estimates of the incubation period of COVID-19 were reported in recent published studies, but all have their own limitations. In this study, we propose a novel low-cost and accurate method to estimate the incubation distribution. \n\nMethods:\nWe have conducted a cross-sectional and forward follow-up study by identifying those asymptomatic individuals at their time of departure from Wuhan and then following them until their symptoms developed. The renewal process is hence adopted by considering the incubation period as a renewal and the duration between departure and symptom onset as a forward recurrence time. Under mild assumptions, the observations of selected forward times can be used to consistently estimate the parameters in the distribution of the incubation period. Such a method enhances the accuracy of estimation by reducing recall bias and utilizing the abundant and readily available forward time data. \n\nFindings: \nThe estimated distribution of forward time fits the observations in the collected data well. The estimated median of incubation period is 8.13 days (95% confidence interval [CI]: 7.37-8.91), the mean is 8.62 days (95% CI: 8.02-9.28), the 90th percentile is 14.65 days (95% CI: 14.00-15.26), and the 99th percentile is 20.59 days (95% CI: 19.47, 21.62). Compared with results in other studies, the incubation period estimated in this study is longer.\n\nInterpretation:\nBased on the estimated incubation distribution in this study, about 10% of patients with COVID-19 would not develop symptoms until 14 days after infection. Further study of the incubation distribution is warranted to directly estimate the proportion with long incubation periods.",
+        "references": "@article{unknown2020a,\n  title = {the People's Republic of China},\n  journal = {National Health Commission update},\n  date = {2020-02-23},\n  medium = {Internet},\n  publisher = {CN: National Health Commission of the People's Republic of China},\n  url = {http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm},\n  language = {},\n  address = {Beijing},\n  urldate = {[cited 2020 Feb 27].},\n  organization = {National Health Commission of}\n}\n@Internet{unknown2020b,\n  title = {Epidemic update and risk assessment of 2019 Novel Coronavirus},\n  medium = {Internet},\n  publisher = {Chinese Center for Disease Control and Prevention},\n  date = {2020-01-28},\n  url = {http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11811/202001/P020200128523354919292.pdf.},\n  language = {},\n  address = {Beijing (CN},\n  urldate = {[cited 2020 Feb 27].},\n  organization = {Chinese Center for Disease Control and Prevention}\n}\n@article{li2020a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{w-j2020a,\n  author = {W-j, Guan and Z-y, Ni and Y, Hu},\n  title = {Clinical Characteristics of Coronavirus Disease 2019 in China},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{backer2019a,\n  author = {Backer, J.A. and Klinkenberg, D. and Wallinga, J.},\n  title = {Incubation period of 2019 novel coronavirus},\n  date = {2019},\n  journal = {Euro Surveill},\n  volume = {2020},\n  pages = {7},\n  unmatched-author = {Linton NM, Kobayashi T, Yang Y, et al.},\n  source = {infections among travellers from Wuhan, China, 20-28 January 2020},\n  unmatched-journal = {Statistical Analysis of Publicly Available Case Data. J Clin Med},\n  unmatched-volume = {2020; 9(2).},\n  number = {25},\n  language = {}\n}\n@article{lau2010a,\n  author = {Lau, E.H. and Hsiung, C.A. and Cowling, B.J.},\n  title = {A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan},\n  journal = {BMC Infect Dis},\n  date = {2010},\n  volume = {10},\n  pages = {50},\n  more-authors = {true},\n  language = {}\n}\n@article{leung2009a,\n  author = {Leung, G.M. and Ho, L.M. and Lam, T.H. and Hedley, A.J.},\n  title = {Epidemiology of SARS in the 2003 Hong Kong epidemic},\n  journal = {Hong Kong Med J},\n  date = {2009},\n  volume = {9},\n  pages = {12\u20136},\n  language = {}\n}\n@article{cai2006a,\n  author = {Cai, Q.C. and Xu, Q.F. and Xu, J.M.},\n  title = {Refined estimate of the incubation period of severe acute respiratory syndrome and related influencing factors},\n  journal = {Am J Epidemiol},\n  date = {2006},\n  volume = {163},\n  pages = {211\u20136},\n  more-authors = {true},\n  number = {3},\n  language = {}\n}\n@article{kuk2005a,\n  author = {Kuk, A.Y. and Ma, S.},\n  title = {The estimation of SARS incubation distribution from serial interval data using a convolution likelihood},\n  journal = {Stat Med},\n  date = {2005},\n  volume = {24},\n  pages = {2525\u201337},\n  number = {16},\n  language = {}\n}\n@article{donnelly2003a,\n  author = {Donnelly, C.A. and Ghani, A.C. and Leung, G.M.},\n  title = {Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong},\n  journal = {Lancet},\n  date = {2003},\n  volume = {361},\n  pages = {1761\u20136},\n  more-authors = {true},\n  number = {9371},\n  language = {}\n}\n@article{park2018a,\n  author = {Park, J.E. and Jung, S. and Kim, A. and Park, J.E.},\n  title = {MERS transmission and risk factors: a systematic review},\n  journal = {BMC Public Health},\n  date = {2018},\n  volume = {18},\n  pages = {574},\n  number = {1},\n  language = {}\n}\n@article{virlogeux2016a,\n  author = {Virlogeux, V. and Fang, V.J. and Park, M. and Wu, J.T. and Cowling, B.J.},\n  title = {Comparison of incubation period distribution of human infections with MERS-CoV in South Korea and Saudi Arabia},\n  journal = {Sci Rep},\n  date = {2016},\n  volume = {6},\n  pages = {35839},\n  language = {}\n}\n@incollection{cowling2015a,\n  author = {Cowling, B.J. and Park, M. and Fang, V.J. and Wu, P. and Leung, G.M. and Wu, J.T.},\n  title = {Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to},\n  date = {2015-06},\n  source = {Euro Surveill},\n  volume = {20},\n  pages = {7\u201313},\n  number = {25},\n  language = {}\n}\n@article{meltzer2004a,\n  author = {Meltzer, M.I.},\n  title = {Multiple contact dates and SARS incubation periods},\n  journal = {Emerg Infect Dis},\n  date = {2004},\n  volume = {10},\n  pages = {207\u20139},\n  number = {2},\n  language = {}\n}\n@article{assiri2013a,\n  author = {Assiri, A. and McGeer, A. and Perl, T.M.},\n  title = {Hospital outbreak of Middle East respiratory syndrome coronavirus},\n  journal = {N Engl J Med},\n  date = {2013},\n  volume = {369},\n  pages = {407\u201316},\n  more-authors = {true},\n  number = {5},\n  language = {}\n}\n@incollection{park2015a,\n  author = {Park, H.Y. and Lee, E.J. and Ryu, Y.W.},\n  title = {Epidemiological investigation of MERS-CoV spread in a single hospital in South Korea, May to},\n  date = {2015-06},\n  source = {Euro Surveill},\n  volume = {20},\n  pages = {1\u20136},\n  more-authors = {true},\n  number = {25},\n  language = {}\n}\n@book{feller1968a,\n  author = {Feller, W.},\n  title = {An introduction to probability theory and its applications},\n  edition = {3rd ed},\n  publisher = {Wiley},\n  date = {1968},\n  language = {},\n  address = {New York}\n}\n@book{qin2017a,\n  author = {Qin, J.},\n  title = {Biased Sampling, Over-identified Parameter Problems and Beyond},\n  publisher = {Springer Singapore},\n  date = {2017},\n  language = {},\n  address = {Singapore}\n}\n@Internet{unknown2020c,\n  title = {China declares lockdown in Wuhan on Thursday due to coronavirus outbreak},\n  source = {TASS},\n  medium = {Internet},\n  date = {2020-01-22},\n  url = {https://tass.com/world/1111981.},\n  language = {},\n  urldate = {[cited 2020 Feb 27].}\n}\n@Internet{unknown-a,\n  title = {Daily updates of COVID-19 in Yibin},\n  source = {YBWJW},\n  medium = {Internet},\n  url = {http://ybwjw.yibin.gov.cn/gzdt/202002/t20200212_1220372.html.},\n  language = {},\n  urldate = {2020 Feb 11 [cited 2020 Feb 27].}\n}\n",
+        "emails": [
+            "azhou@math.pku.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nTI  - the People's Republic of China\nT2  - National Health Commission update\nPY  - 2020\nDA  - 2020/02/23\nC1  - Internet\nPB  - CN: National Health Commission of the People's Republic of China\nUR  - http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm\nLA  - \nCY  - Beijing\nC1  - [cited 2020 Feb 27].\nC1  - National Health Commission of\nER  - \n\nTY  - GEN\nTI  - Epidemic update and risk assessment of 2019 Novel Coronavirus\nC1  - Internet\nPB  - Chinese Center for Disease Control and Prevention\nPY  - 2020\nDA  - 2020/01/28\nUR  - http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11811/202001/P020200128523354919292.pdf.\nLA  - \nCY  - Beijing (CN\nC1  - [cited 2020 Feb 27].\nC1  - Chinese Center for Disease Control and Prevention\nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - W-j, Guan\nAU  - Z-y, Ni\nAU  - Y, Hu\nTI  - Clinical Characteristics of Coronavirus Disease 2019 in China\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Backer, J.A.\nAU  - Klinkenberg, D.\nAU  - Wallinga, J.\nTI  - Incubation period of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Euro Surveill\nVL  - 2020\nSP  - 7\nC1  - Linton NM, Kobayashi T, Yang Y, et al.\nT2  - infections among travellers from Wuhan, China, 20-28 January 2020\nC1  - Statistical Analysis of Publicly Available Case Data. J Clin Med\nC1  - 2020; 9(2).\nIS  - 25\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lau, E.H.\nAU  - Hsiung, C.A.\nAU  - Cowling, B.J.\nTI  - A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan\nT2  - BMC Infect Dis\nPY  - 2010\nDA  - 2010\nVL  - 10\nSP  - 50\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Leung, G.M.\nAU  - Ho, L.M.\nAU  - Lam, T.H.\nAU  - Hedley, A.J.\nTI  - Epidemiology of SARS in the 2003 Hong Kong epidemic\nT2  - Hong Kong Med J\nPY  - 2009\nDA  - 2009\nVL  - 9\nSP  - 12\nEP  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cai, Q.C.\nAU  - Xu, Q.F.\nAU  - Xu, J.M.\nTI  - Refined estimate of the incubation period of severe acute respiratory syndrome and related influencing factors\nT2  - Am J Epidemiol\nPY  - 2006\nDA  - 2006\nVL  - 163\nSP  - 211\nEP  - 6\nC1  - true\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kuk, A.Y.\nAU  - Ma, S.\nTI  - The estimation of SARS incubation distribution from serial interval data using a convolution likelihood\nT2  - Stat Med\nPY  - 2005\nDA  - 2005\nVL  - 24\nSP  - 2525\nEP  - 37\nIS  - 16\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Donnelly, C.A.\nAU  - Ghani, A.C.\nAU  - Leung, G.M.\nTI  - Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong\nT2  - Lancet\nPY  - 2003\nDA  - 2003\nVL  - 361\nSP  - 1761\nEP  - 6\nC1  - true\nIS  - 9371\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Park, J.E.\nAU  - Jung, S.\nAU  - Kim, A.\nAU  - Park, J.E.\nTI  - MERS transmission and risk factors: a systematic review\nT2  - BMC Public Health\nPY  - 2018\nDA  - 2018\nVL  - 18\nSP  - 574\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Virlogeux, V.\nAU  - Fang, V.J.\nAU  - Park, M.\nAU  - Wu, J.T.\nAU  - Cowling, B.J.\nTI  - Comparison of incubation period distribution of human infections with MERS-CoV in South Korea and Saudi Arabia\nT2  - Sci Rep\nPY  - 2016\nDA  - 2016\nVL  - 6\nSP  - 35839\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Cowling, B.J.\nAU  - Park, M.\nAU  - Fang, V.J.\nAU  - Wu, P.\nAU  - Leung, G.M.\nAU  - Wu, J.T.\nTI  - Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to\nPY  - 2015\nDA  - 2015/06\nT2  - Euro Surveill\nVL  - 20\nSP  - 7\nEP  - 13\nIS  - 25\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Meltzer, M.I.\nTI  - Multiple contact dates and SARS incubation periods\nT2  - Emerg Infect Dis\nPY  - 2004\nDA  - 2004\nVL  - 10\nSP  - 207\nEP  - 9\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Assiri, A.\nAU  - McGeer, A.\nAU  - Perl, T.M.\nTI  - Hospital outbreak of Middle East respiratory syndrome coronavirus\nT2  - N Engl J Med\nPY  - 2013\nDA  - 2013\nVL  - 369\nSP  - 407\nEP  - 16\nC1  - true\nIS  - 5\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Park, H.Y.\nAU  - Lee, E.J.\nAU  - Ryu, Y.W.\nTI  - Epidemiological investigation of MERS-CoV spread in a single hospital in South Korea, May to\nPY  - 2015\nDA  - 2015/06\nT2  - Euro Surveill\nVL  - 20\nSP  - 1\nEP  - 6\nC1  - true\nIS  - 25\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Feller, W.\nTI  - An introduction to probability theory and its applications\nET  - 3rd ed\nPB  - Wiley\nPY  - 1968\nDA  - 1968\nLA  - \nCY  - New York\nER  - \n\nTY  - BOOK\nAU  - Qin, J.\nTI  - Biased Sampling, Over-identified Parameter Problems and Beyond\nPB  - Springer Singapore\nPY  - 2017\nDA  - 2017\nLA  - \nCY  - Singapore\nER  - \n\nTY  - GEN\nTI  - China declares lockdown in Wuhan on Thursday due to coronavirus outbreak\nT2  - TASS\nC1  - Internet\nPY  - 2020\nDA  - 2020/01/22\nUR  - https://tass.com/world/1111981.\nLA  - \nC1  - [cited 2020 Feb 27].\nER  - \n\nTY  - GEN\nTI  - Daily updates of COVID-19 in Yibin\nT2  - YBWJW\nC1  - Internet\nUR  - http://ybwjw.yibin.gov.cn/gzdt/202002/t20200212_1220372.html.\nLA  - \nC1  - 2020 Feb 11 [cited 2020 Feb 27].\nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Estimates for the incubation periods of SARS, MERS, and COVID-19"
+            },
+            {
+                "id": "2",
+                "caption": "Comparison between the demographic characteristics of patients with COVID-19 in the Wuhan departure cohort and all cases collected as of February 15, 2020"
+            },
+            {
+                "id": "3",
+                "caption": "Results of our model based on different choices of"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Illustration of our cross-sectional and forward follow-up study. Backward and incubation periods are not observed, while Wuhan departure and forward time are observed"
+            },
+            {
+                "id": "2",
+                "caption": "Histogram and estimated probability density functions for the time from Wuhan departure to symptoms onset, i.e., forward time"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.06.20032417.full.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.20032417.full/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.20032417.full/img-001.png"
+        ]
+    },
+    "sections": {
+        "summary": [
+            "<strong>Summary Background</strong><br/><br/>The current outbreak of coronavirus disease 2019 (COVID-19) has quickly spread across countries and become a global crisis. However, one of the most important clinical characteristics in epidemiology, the distribution of the incubation period, remains unclear. Different estimates of the incubation period of COVID-19 were reported in recent published studies, but all have their own limitations. In this study, we propose a novel low-cost and accurate method to estimate the incubation distribution."
+        ],
+        "findings": [
+            "The estimated distribution of forward time fits the observations in the collected data well. The estimated median of incubation period is 8\u00b713 days (95% confidence interval [CI]: 7\u00b737-8\u00b791), the mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b747, 21\u00b762). Compared with results in other studies, the incubation period estimated in this study is longer.<br/><br/>Interpretation: Based on the estimated incubation distribution in this study, about 10% of patients with COVID-19 would not develop symptoms until 14 days after infection. Further study of the incubation distribution is warranted to directly estimate the proportion with long incubation periods."
+        ],
+        "funding": [
+            "This research is supported by National Natural Science Foundation of China grant 8204100362 and Zhejiang University special scientific research fund for COVID-19 prevention and control. Research in context Evidence before this study Before the current outbreak of coronavirus disease (COVID-19) in China, there were two other coronaviruses that have caused major global epidemics over the last two decades. Severe acute respiratory syndrome (SARS) spread to 37 countries and caused 8424 cases and 919 deaths in 2002-03, while Middle East respiratory syndrome (MERS) spread to 27 countries, causing 2494 cases and 858 deaths worldwide to date. Precise knowledge of the incubation period is crucial for the prevention and control of these diseases. We have searched PubMed and preprint archives for articles published as of February 22, 2020, which contain information about these diseases by using the key words of \u201cCOVID-19\u201d, \u201cSARS\u201d, \u201cMERS\u201d, \u201c2019-nCoV\u201d, \u201ccoronavirus\u201d, and \u201cincubation\u201d. We have found 15 studies that estimated the distribution of the incubation period. There are four articles focused on COVID-19, five on MERS, and six on SARS. Most of these studies had limited sample sizes and were potentially influenced by recall bias. The estimates for mean, median, and percentiles of the incubation period from these articles are summarized in Table 1."
+        ],
+        "introduction": [
+            "The Center for Disease Control and Prevention (CDC) of China and World Health Organization (WHO) are closely monitoring the current outbreak of coronavirus disease 2019 (COVID-19). It was first identified in Wuhan, Hubei province, China, and has quickly spread across countries and become a global crisis. As of February 22, 2020, the National Health Commission (NHC) of China had confirmed a total of 76 936 cases of COVID-19 in mainland China, including 2442 fatalities and 22 888 recoveries.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Various containment measures, including travel restrictions, isolation, and quarantine have been implemented in China with the aim to minimize virus transmission via human-to-human contact.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]<br/><br/>Quarantine of individuals with exposure to infectious pathogens has always been an effective approach for containing contagious diseases in the past. One of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period, and this has been lacking for COVID-19."
+        ],
+        "methods": [
+            "Motivations As described in the previous section, the distribution of the incubation period in most of the literature is either described through a parametric model or its empirical distribution based on the observed incubation period from the contact-tracing data. However, the contact-tracing data are challenging and expensive to obtain, and their accuracy can be highly influenced by recall bias. Hence, a low-cost and high-accuracy method to estimate the incubation distribution is needed.<br/><br/>Based on the COVID-19 daily updates from provincial and municipal health commissions in China, we notice that there is an abundance of cases who asymptomatically left Wuhan, the epicenter of COVID-19, and developed symptoms outside Wuhan. Assuming that these cases were infected before their departure from Wuhan, the time differences between departure and symptoms onset is the censored observations of their incubation periods. Hence, we conducted a cross-sectional and forward follow-up study by assuming to catch those asymptomatic individuals at their departure time and followed them until their symptoms developed. Using the language of renewal processes, we can treat the development of the disease starting from infection by a pathogen as a stochastic process that could be observed from a specific time point in chronological order. In this study, the specific time point refers to the time of departure from Wuhan. For each prevalent case, the complete process from the infection to the onset of symptoms can be considered as a renewal process. As illustrated in Figure 1, the backward recurrence time is hence defined as the time between infection and departure from Wuhan, and the forward recurrence time is the time between departure from Wuhan and symptom onset. Clearly, the forward time is observable and the corresponding observations are with good veracity, while the backward time is either unable to be observed or the corresponding observations are with large uncertainty due to recall bias. Note that for each infected individual, the backward time and forward time do not have to be same. However, when the renewal process reaches its equilibrium status, it becomes reversible, that is, the statistical properties of this process is the same as the one for time-reversed data in a same process. Hence, at equilibrium, the backward time can be treated as the forward time if time periods are reversed.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]"
+        ],
+        "results": [
+            "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-<br/><br/>0\u00b7111) in our reference scenario. The estimated 5th, 25th, 50th, 75th, 90th, 95th, 99th, and 99\u00b79th percentiles of the incubation period are 2\u00b727 (95% CI: 1\u00b773-2\u00b786), 5\u00b728 (95% CI: 4\u00b753-6\u00b706), 8\u00b713 (95% CI: 7\u00b737-8\u00b791), 11\u00b742 (95% CI: 10\u00b774-12\u00b711), 14\u00b765 (95% CI: 14\u00b700-15\u00b726), 16\u00b767 (95% CI: 15\u00b794-17\u00b732), 20\u00b759 (95% CI: 19\u00b747-21\u00b762), and 25\u00b712 (95% CI: 23\u00b735-26\u00b787) days, respectively. The mean incubation period is 8\u00b762 (95% CI: 8\u00b702-9\u00b728) days. The average time from leaving Wuhan to symptom onset is 5\u00b744 days, the sample median is 5 days, and the maximum is 21 days. Figure 2 visualizes the fitted density function (3) in a solid line onto the histogram of observed forward times, and the dashed line is the Weibull probability density function (2) for incubation period distribution. Note that (3) is a monotonically decreasing function, which fits the observed forward times well, suggesting that our model is reasonable and the results are therefore trustworthy."
+        ],
+        "discussion": [
+            "A sound estimate of the distribution of the incubation period plays a vital role in epidemiology. Its application includes decisions regarding the length of quarantine for prevention and control, dynamic models that accurately predict the disease process, and determining the contaminated source in foodborne outbreaks. In this paper, we propose a novel method to estimate the incubation distribution which only requires information on travel histories and dates of symptoms onset. This method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time data. In addition, this is the first article to consider the incubation period for COVID-19 virus as a renewal process which is a well-studied methodology and has a solid theoretical foundation. The estimated incubation period has a median of 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), a mean of 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b74721\u00b762). Compared with the results published in Li et al, Guan et al, Backer et al, and Linton et al, the incubation period estimated in our study is significantly longer.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Below is some evidence that may potentially support our findings of the long incubation period: 1. In the study of Guan et al on behalf of China Medical Treatment Expert Group for COVID-19, the incubation period had a reported median of 4 days, the first quartile of 2 days and the third quartile of 7 days. 4 By fitting a commonly used Weibull distribution to such quartiles, we can obtain \u07d9\u0ddc = 1.24 and \u07e3\u1218 \u0d4c 0.186 defined in Equation (2). As a consequence, the estimated 90%, 95%"
+        ],
+        "acknowledgement": [
+            "We thank Dr. Dean Follmann from National Institute of Allergy and Infectious Diseases for comments that greatly improved the manuscript and Dr. Weigong Zhou from U.S Centers for Disease Control and Prevention (CDC) for many helpful comments and suggestions. We also thank Benjamin Snow, ELS, from Leidos Biomedical Research, Inc for providing a technical review of the manuscript. This research is supported by National Natural Science Foundation of China grant 8204100362 and Zhejiang University special scientific research fund for COVID-19 prevention and control.<br/><br/>Contributors Jing Qin: study design, writing, data interpretation Chong You: writing, literature search, data interpretation Qiushi Lin: writing, data analysis, data collection Taojun Hu: data analysis, data collection Shicheng Yu: data interpretation Xiao-Hua Zhou: study design, writing, data interpretation"
+        ],
+        "disclosures": [
+            "<strong>Declaration of interests We declare no competing interests</strong><br/><br/>Data sharing Data are submitted."
+        ]
+    },
+    "structured_content": {
+        "Methods": [
+            "Motivations As described in the previous section, the distribution of the incubation period in most of the literature is either described through a parametric model or its empirical distribution based on the observed incubation period from the contact-tracing data. However, the contact-tracing data are challenging and expensive to obtain, and their accuracy can be highly influenced by recall bias. Hence, a low-cost and high-accuracy method to estimate the incubation distribution is needed.",
+            "Based on the COVID-19 daily updates from provincial and municipal health commissions in China, we notice that there is an abundance of cases who asymptomatically left Wuhan, the epicenter of COVID-19, and developed symptoms outside Wuhan. Assuming that these cases were infected before their departure from Wuhan, the time differences between departure and symptoms onset is the censored observations of their incubation periods. Hence, we conducted a cross-sectional and forward follow-up study by assuming to catch those asymptomatic individuals at their departure time and followed them until their symptoms developed. Using the language of renewal processes, we can treat the development of the disease starting from infection by a pathogen as a stochastic process that could be observed from a specific time point in chronological order. In this study, the specific time point refers to the time of departure from Wuhan. For each prevalent case, the complete process from the infection to the onset of symptoms can be considered as a renewal process. As illustrated in Figure 1, the backward recurrence time is hence defined as the time between infection and departure from Wuhan, and the forward recurrence time is the time between departure from Wuhan and symptom onset. Clearly, the forward time is observable and the corresponding observations are with good veracity, while the backward time is either unable to be observed or the corresponding observations are with large uncertainty due to recall bias. Note that for each infected individual, the backward time and forward time do not have to be same. However, when the renewal process reaches its equilibrium status, it becomes reversible, that is, the statistical properties of this process is the same as the one for time-reversed data in a same process. Hence, at equilibrium, the backward time can be treated as the forward time if time periods are reversed.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]",
+            "In order to model incubation using the renewal process properly, the following assumptions are established: (A1). The renewal process has reached its equilibrium status;",
+            "(A2). The distribution of the incubation period is continuous; (A3). The distribution of the incubation period has a finite first moment; (A4). The incubation period for each case is independent and identically distributed; (A5). The cases included in the analysis were infected at Wuhan and developed their symptoms outside Wuhan.",
+            "In this study, it is reasonable to assume (A1) is satisfied between January 19, 2020, and January 23, 2020, because there are over eleven million residents in the Wuhan metropolitan area and nearby neighborhoods and the daily travel volume in and out of Wuhan exceeded million before January 23, 2020. We justify the use of data between January 19 and January 23 below. With adequate long run, the renewal process would reach the equilibrium status. The assumptions (A2) to (A4) are standard. In fact, we may assume that the incubation period is a continuous variable with range \u123a0, \u202b\u072f\u202c\u123b for some finite number \u202b\u072f\u202c. It is well known that the first moment exists for a bounded random variable. The justification for assumption (A5) is below. Therefore, the probability renewal process theory can be applied with confidence, and thus we can avoid the challenging mission of ascertaining the backward time.",
+            "Data collection and justification Publicly available data were retrieved from provincial and municipal health commissions in China and the ministries of health in other countries, including 12 963 confirmed cases outside Hubei province as of February 15, 2020. Detailed information on confirmed cases includes region, gender, age, date of symptom onset, date of confirmation, history of travel or residency in Wuhan, and date of departure from Wuhan. The date of symptoms onset in these data refers to the date reported by the patient on which the clinical symptoms first appeared, where the clinical symptoms include fever, cough, nausea, vomiting, diarrhea, and others. Among 12 963 confirmed cases, 6345 cases had their dates of symptom onset collected; 3169 cases had histories of travel or residency in Wuhan; 2514 cases had their dates of departure recorded; and 1922 cases had records of both dates of departure from Wuhan and dates of symptoms onset.",
+            "However, not all 1922 cases should be taken in the analysis. We have to ensure that (1) assumption (A5) is satisfied, and (2) the follow-up time is long enough. To make sure that the assumption (A5) is being satisfied as much as possible, we (1) exclude cases whose first symptoms appeared before departure, and (2) exclude cases who left Wuhan before January 19, 2020. This date was used because before January 19, the Chinese public was not aware of the severity of this epidemic, and those who left Wuhan might still have had close contact with other infected cases from Wuhan and hence actually got infected outside",
+            "Wuhan. However, starting January 19, the China CDC began issuing test reagents to all provinces, confirmed cases were reported outside Hubei province in mainland China, the severity of COVID-19 was widely noted by the public, and various strict containment measures were implemented to minimize human-to-human transmission.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] Thus, it is unlikely that confirmed cases who left Wuhan after January 19, 2020, were infected outside Wuhan and assumption (A5) is supported. To ensure that the follow-up time is long enough such that no additional biased sampling occurred in this study, we excluded all cases who left Wuhan after January 23, 2020, which leaves an average follow-up time of 25 days (from date of departure to February 15, which is the end of this study). A 25-day follow-up period should be long enough based on the various studies on the incubation period of COVID-19.3-6 Note that those who left Wuhan after January 23 might not have enough time to develop symptoms before the end of the followup period. Including these cases in the cohort might lead to a downward bias on the incubation period. Note that the latest date of symptom onset in our cohort is February 12, 2020, which is ten days before the end of the follow-up period. This period should be long enough for a case to develop symptoms. Furthermore, there were only 49 cases who left Wuhan after the lockdown of Wuhan city on January 23, 2020.20 After examining the collected data, there were a total of 1211 cases that meet the criteria and were followed forwardly.",
+            "Figure 1 shows the design of the cross-sectional and forward follow-up study. The dot on the left end of each segment is a date of infection, while the square on the right end is a date of symptoms onset. The date of departure from Wuhan cuts the line segment in between. Note that only solid lines were followed in our cohort, while dashed lines are not in the cohort because the date of departure from Wuhan is not between January 19, 2020, and January 23, 2020.",
+            "Among the 1209 cases with gender information in the study, 533 (44\u00b709%) are female. The mean age of patients was 41\u00b731 and the median age was 40. Over 80% of the cases were between 20 and 60. The youngest confirmed case in our cohort was six months-old while the oldest was 86 years-old. Table 2 shows the demographic characteristics of patients with COVID-19 in the Wuhan departure cohort and the entire data collected as of February 15, 2020. We can see that there was no significant difference, which means the selected cases present the population well.",
+            "Let \u073b be the incubation period of an infected case with probability density function \u0742\u123a\u202b\u0755\u202c\u123b where \u202b \u0755\u202c\u0d50 0. Let \u0738 denote the duration between departure from Wuhan and onset of symptoms, which can be considered as the forward time in a renewal process. Let \u202b \u0723\u202cbe the time between the infection and departure from Wuhan, which can be considered as the backward time. Clearly, \u202b \u0723\u202cis not observable. It is known that in the cross-sectional sampling, \u202b \u0723\u202c\u0d45 \u0738 is a length-biased version of the incubation period \u073b, as it is easier to observe \u0738 if \u202b \u0723\u202c\u0d45 \u0738 is longer. The joint density of \u202b \u0723\u202cand \u0738 is",
+            "\u073d, \u202b \u0752\u202c\u0d52 0, where \u07e4 \u0d4c \u202b\u05ec\u202c\u0b34\u0bb6 \u0742\u123a\u202b\u0755\u202c\u123b \u0740\u202b \u0755\u202cis the mean incubation period, \u073d and \u202b \u0752\u202care the realizations of \u202b \u0723\u202cand \u0738. Marginally,",
+            "\u202b \u0752\u202c\u0d52 0, \u123a1\u123b where \u202b\u0728\u202c\u0d24\u123a\u00b7\u123b is the survival function corresponding to \u0742\u123a\u00b7\u123b. It is worth noting that \u202b \u0723\u202c\u0d45 \u0738 is a length-biased version of \u073b, as with a longer observed \u073b, the corresponding \u0738 is easier to be observed. Hence the mean value E\u123a\u202b \u0723\u202c\u0d45 \u0738\u123b is longer than the mean incubation period \u07e4.",
+            "In our cohort of COVID-19 cases, we assume the incubation period is a Weibull random variable with probability density function",
+            "\u0742\u123a\u202b\u0755\u202c\u123b \u0d4c \u07d9\u07e3\u123a\u202b\u07e3\u0755\u202c\u123b\u0c08\u0b3f\u0b35\u0741\u202b\u074c\u0754\u202c\u123c\u0d46\u123a\u202b\u07e3\u0755\u202c\u123b\u0c08\u123d, \u202b \u0755\u202c\u0d52 0.",
+            "Using equations (1) and (2), it can be shown that the forward time has the density function as follows",
+            "\u202b \u0752\u202c\u0d52 0.",
+            "Let \u202b\u0752\u202c\u0bdc be the observed forward times, \u0745 \u0d4c 1,2, ... , \u202b\u072b\u202c, where \u202b \u072b\u202c\u0d4c 1211 in the study, the estimates \u07d9\u0ddc and \u07e3\u1218 can be obtained by maximizing the likelihood function",
+            "\u07d9 \u0d50 0, \u07e3 \u0d50 0.",
+            "The mean and percentiles of the incubation period can be calculated from the parametric Weibull distribution. The confidence intervals in this study are obtained using bootstrap method with B \u0d4c 1000 resamples.",
+            "Sensitivity analysis It is arguable that people who left Wuhan might also be infected at the day of departure since they had a higher chance to be exposed to this highly contagious, human-to-human\u2013transmitted virus in a crowded environment as cases were increasing. In such case, the duration between departure from Wuhan and onset of symptoms is no longer only the forward time, but a mixture of the incubation period and the forward time. Unfortunately, it is unclear who got infected before departure and who got infected at the event of departure. Hence, a mixture sensitivity forward time model is proposed, that is,",
+            "\u0744\u123a\u202b\u0752\u202c\u123b \u0d4c \u123a1 \u0d46 \u03c0\u123b\u0743\u123a\u202b\u0752\u202c\u123b \u0d45 \u03c0\u0742\u123a\u202b\u0752\u202c\u123b, where \u03c0 is the proportion of people who contracted disease at the event of departure. Without additional auxiliary information, in general, it is impossible to identify this model nonparametrically. Even in some fully parametric cases, \u03c0 is not identifiable. For example, if \u073b~\u0741\u202b\u074c\u0754\u202c\u123a\u07e3\u123b, that is \u0742\u123a\u202b\u0755\u202c\u123b \u0d4c \u07e3\u0741\u202b\u074c\u0754\u202c\u123a\u0d46\u202b\u07e3\u0755\u202c\u123b, \u202b \u0755\u202c\u0d50 0, it can be shown that \u0738 also follows an exponential distribution with \u0743\u123a\u202b\u0752\u202c\u123b \u0d4c \u07e3\u0741\u202b\u074c\u0754\u202c\u123a\u0d46\u202b\u07e3\u0752\u202c\u123b, \u202b \u0752\u202c\u0d50 0. In such a case, \u03c0 is not identifiable. However, in this study, with the Weibull distribution assumption, we have",
+            "\u0744\u123a\u202b\u0752\u202c\u123b \u0d4c \u07d9\u07e3\u123c\u03c0\u123a\u202b\u07e3\u0752\u202c\u123b\u0c08\u0b3f\u0b35 \u0d45 \u123a1 \u0d46 \u03c0\u123b/\u0393\u123a1/\u07d9\u123b\u123d\u0741\u202b\u074c\u0754\u202c\u123a\u0d46\u123a\u202b\u07e3\u0752\u202c\u123b\u0c08\u123b, \u202b \u0752\u202c\u0d52 0. If \u07d9 \u0d4d 1, it is possible to identify all underlying parameters. We explore the sensitivity of estimates of incubation period by assuming a range of \u03c0, that is \u03c0 \u0d4c 0, 0.05, 0.1, and 0.2, where \u03c0 \u0d4c 0 is the reference, and estimate \u07d9 and \u07e3 by maximizing the product of likelihoods, \u220f\u0bc2\u0bdc\u0b40\u0b35 \u0744\u123a\u202b\u0752\u202c\u0bdc\u123b, with respect to \u07d9 and \u07e3.",
+            "Role of the funding source The funder of the study had no role in study design, data collection, modelling analysis, results interpretation, or writing of this article. The corresponding authors had full access to all the data in the study and had final responsibility for the decision to submit for publication."
+        ],
+        "Introduction": [
+            "The Center for Disease Control and Prevention (CDC) of China and World Health Organization (WHO) are closely monitoring the current outbreak of coronavirus disease 2019 (COVID-19). It was first identified in Wuhan, Hubei province, China, and has quickly spread across countries and become a global crisis. As of February 22, 2020, the National Health Commission (NHC) of China had confirmed a total of 76 936 cases of COVID-19 in mainland China, including 2442 fatalities and 22 888 recoveries.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Various containment measures, including travel restrictions, isolation, and quarantine have been implemented in China with the aim to minimize virus transmission via human-to-human contact.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+            "Quarantine of individuals with exposure to infectious pathogens has always been an effective approach for containing contagious diseases in the past. One of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period, and this has been lacking for COVID-19.",
+            "The incubation period of an infectious disease is the time elapsed between infection and appearance of the first symptoms and signs. Precise knowledge of the incubation period would help to provide an optimal length of quarantine period for disease control purpose, and also is essential in the investigation of the mechanism of transmission and development of treatment. For example, the distribution of the incubation period is used to estimate the reproductive number \u0734, that is, the average number of secondary infections produced by a primary case. The reproductive number is a key quantity that impacts the potential size of an epidemic. Despite the importance of the incubation period, it is often poorly estimated based on limited data.",
+            "To the best of our knowledge, there is only a handful of studies estimating the incubation period of COVID-19. Among them are Li et al (2020), Guan et al (2020), Backer et al (2020), and Linton et al (2020).[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] In Li et al, the first 425 lab-confirmed cases, reported as of January 22, 2020, were included in the study, while only ten cases could be identified with the exact dates of exposure.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] The distribution of the incubation period was subsequently approximated by fitting a lognormal distribution to these ten data points, resulting in a mean incubation period of 5\u00b72 days (95% CI: 4\u00b71-7\u00b70), and the 95th percentile is 12\u00b75 days. However, given the limited sample size, it is challenging to make a solid inference on the distribution of the incubation period. A different result was reported by Guan et al, based on 291 patients who had clear information regarding the specific date of exposure as of January 29, 2020, stating that the median incubation period was 4\u00b70 days (interquartile range, 2 to 7).[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] However, such study of the incubation period can be highly influenced by the individuals\u2019 recall bias or interviewers\u2019 judgement on the possible dates of exposure rather than the actual dates of exposure that, in turn, might not be accurately monitored and determined, thus leading to a high percentage of error. In Backer et al, 88 confirmed cases detected outside Wuhan were used to estimate the distribution of the incubation period.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] For each selected case, a censored interval for the incubation period can be obtained by travel history and symptoms onset. The distribution of the incubation period can then be estimated by fitting a Weibull, gamma, or lognormal distribution with censored data. However, this method contained two types of sampling biases: (1) with the longer incubation period, the patients who resided at Wuhan but developed symptoms outside Wuhan were easier to be observed and hence lead to an overestimation; (2) if the follow-up time (from infection to the end of the study) is short, only the shorter incubation period would be observed and hence lead to an underestimation. Linton et al proposed a similar approach to estimate the incubation period of Backer et al, but corrected the aforementioned second sampling bias.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] However, the first problem in regard to sampling bias is still an unsolved issue. The estimates of the incubation period from these four studies, together with other results of two other coronavirus disease, SARS and MERS, are listed in Table 1.",
+            "Hong Kong:7 4\u00b74 (4\u00b76); Beijing:7 5\u00b77 (9\u00b77); Taiwan:7 6\u00b79 (6\u00b71); Hong Kong:8 4\u00b76 (15\u00b79); Mainland China:9 5\u00b729 (12\u00b733); Singapore:10 4\u00b783 (4\u00b737-5\u00b729); Hong Kong:11 6\u00b737 (5\u00b729-7\u00b775) Hong Kong, Canada, & USA:[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a> <a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+            "Mainland China, 90%:9 10\u00b77; Hong Kong, Canada, & USA, 90%:12 12; Singapore, 95%:10 9.66 (0\u00b75); Mainland China, 95%:9 13\u00b791; Hong Kong, 95%:11 14\u00b722; Mainland China, 99%:9 20\u00b708",
+            "MERS Saudi Arabia:13 5.0 (4\u00b70-6\u00b76); South Korea:13 6\u00b79 (6\u00b73-7\u00b75); South Korea:14 6\u00b79 (6\u00b73-7\u00b75); Saudi Arabia:14 5\u00b70 (4\u00b74-6\u00b76); South Korea:14 6\u00b77 (6\u00b71-7\u00b73)",
+            "South Korea:15 6\u00b70 (4\u00b70-7\u00b70); Middle East:16 5\u00b72 (1\u00b79-14\u00b77); South Korea:17 6\u00b73 (5\u00b77-6\u00b78)",
+            "COVID-19 Wuhan:3 5\u00b72 (4\u00b71-7\u00b70); Mainland China:5 5\u00b78 (4\u00b76-7\u00b79); Global:6 5\u00b76 (5\u00b70-6\u00b73)",
+            "COVID-19=coronavirus disease 2019. MERS=Middle East respiratory syndrome. SARS=severe acute respiratory syndrome.",
+            "To overcome the aforementioned problems, we propose a novel method to estimate the incubation period of COVID-19 by using the well-known renewal theory in probability.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Such a method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time with a large sample size of 1211. To the best of our knowledge, this paper is a study of the distribution of the incubation period involving the largest number of samples to date. We find the estimated median of the incubation period is 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), and mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759",
+            "days (95% CI: 19\u00b747- 21\u00b762). Our estimated incubation period of COVID-19 is longer than the those given by previous researches on SARS, MERS, and COVID-19 in Table 1."
+        ],
+        "Results": [
+            "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-",
+            "0\u00b7111) in our reference scenario. The estimated 5th, 25th, 50th, 75th, 90th, 95th, 99th, and 99\u00b79th percentiles of the incubation period are 2\u00b727 (95% CI: 1\u00b773-2\u00b786), 5\u00b728 (95% CI: 4\u00b753-6\u00b706), 8\u00b713 (95% CI: 7\u00b737-8\u00b791), 11\u00b742 (95% CI: 10\u00b774-12\u00b711), 14\u00b765 (95% CI: 14\u00b700-15\u00b726), 16\u00b767 (95% CI: 15\u00b794-17\u00b732), 20\u00b759 (95% CI: 19\u00b747-21\u00b762), and 25\u00b712 (95% CI: 23\u00b735-26\u00b787) days, respectively. The mean incubation period is 8\u00b762 (95% CI: 8\u00b702-9\u00b728) days. The average time from leaving Wuhan to symptom onset is 5\u00b744 days, the sample median is 5 days, and the maximum is 21 days. Figure 2 visualizes the fitted density function (3) in a solid line onto the histogram of observed forward times, and the dashed line is the Weibull probability density function (2) for incubation period distribution. Note that (3) is a monotonically decreasing function, which fits the observed forward times well, suggesting that our model is reasonable and the results are therefore trustworthy.",
+            "8\u00b762 (8\u00b702, 9\u00b728) 2\u00b727 (1\u00b773, 2\u00b786) 5\u00b728 (4\u00b753, 6\u00b706) 8\u00b713 (7\u00b737, 8\u00b791) 11\u00b742 (10\u00b774, 12\u00b711) 14\u00b765 (14\u00b700, 15\u00b726) 16\u00b767 (15\u00b794, 17\u00b732) 20\u00b759 (19\u00b747, 21\u00b762)",
+            "8\u00b732 (7\u00b772, 8\u00b789) 2\u00b711 (1\u00b767, 2\u00b762) 5\u00b702 (4\u00b735, 5\u00b769) 7\u00b781 (7\u00b709, 8\u00b750) 11\u00b706 (10\u00b741, 11\u00b766) 14\u00b727 (13\u00b767, 14\u00b785) 16\u00b728 (15\u00b762, 16\u00b791) 20\u00b721 (19\u00b723, 21\u00b726)",
+            "8\u00b704 (7\u00b755, 8\u00b755) 1\u00b797 (1\u00b760, 2\u00b742) 4\u00b778 (4\u00b723, 5\u00b736) 7\u00b751 (6\u00b794, 8\u00b711) 10\u00b773 (10\u00b715, 11\u00b727) 13\u00b793 (13\u00b736, 14\u00b745) 15\u00b794 (15\u00b726, 16\u00b760) 19\u00b789 (18\u00b785, 20\u00b787)",
+            "7\u00b757 (7\u00b714, 7\u00b799) 1\u00b773 (1\u00b742, 2\u00b709) 4\u00b736 (3\u00b790, 4\u00b786) 7\u00b700 (6\u00b749, 7\u00b750) 10\u00b716 (9\u00b764, 10\u00b762) 13\u00b734 (12\u00b781, 13\u00b787) 15\u00b737 (14\u00b775, 16\u00b701) 19\u00b736 (18\u00b736, 20\u00b737)",
+            "25\u00b712 (23\u00b735, 26\u00b787) 24\u00b777 (23\u00b722, 26\u00b743) 24\u00b750 (22\u00b784, 26\u00b711) 24\u00b708 (22\u00b744, 25\u00b771)",
+            "Table 3 summaries the estimates of parameters, and the mean and percentiles of incubation period. We can see that the estimates for mean and percentiles decrease as the proportion of people who got infected at the event of departure, \u03c0, increases. However, the results are not shifted significantly. Variation of the results from \u03c0 \u0d4c 0 to 0.2 is only about one day."
+        ],
+        "Discussion": [
+            "A sound estimate of the distribution of the incubation period plays a vital role in epidemiology. Its application includes decisions regarding the length of quarantine for prevention and control, dynamic models that accurately predict the disease process, and determining the contaminated source in foodborne outbreaks. In this paper, we propose a novel method to estimate the incubation distribution which only requires information on travel histories and dates of symptoms onset. This method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time data. In addition, this is the first article to consider the incubation period for COVID-19 virus as a renewal process which is a well-studied methodology and has a solid theoretical foundation. The estimated incubation period has a median of 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), a mean of 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b74721\u00b762). Compared with the results published in Li et al, Guan et al, Backer et al, and Linton et al, the incubation period estimated in our study is significantly longer.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Below is some evidence that may potentially support our findings of the long incubation period: 1. In the study of Guan et al on behalf of China Medical Treatment Expert Group for COVID-19, the incubation period had a reported median of 4 days, the first quartile of 2 days and the third quartile of 7 days. 4 By fitting a commonly used Weibull distribution to such quartiles, we can obtain \u07d9\u0ddc = 1.24 and \u07e3\u1218 \u0d4c 0.186 defined in Equation (2). As a consequence, the estimated 90%, 95%",
+            "and 99% percentiles are, respectively, 10\u00b754, 13\u00b704 and 18\u00b745 days, which indicates that some patients may have extended incubation periods.",
+            "2. One particular case reported by Yinbin municipal health commissions in China stated that a 64year-old female was diagnosed with COVID-19 on February 11, 2020 at Yinbin, Sichuan province 20 days after returning from Wuhan. This patient was under self-quarantine at home with the family for 18 days, from January 23 to February 9. On February 8, the patient developed mild symptoms of cough with sputum production.[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]",
+            "Based on the estimated incubation distribution in this study, about 10% of patients with COVID-19 would not develop symptoms until 14 days after infection Our approach does require that certain assumptions be met, which we detail below.",
+            "1. The collection of forward time depends on the follow-up time, that is, if the follow-up time is not long enough, we would only be able to include those with a shorter incubation period in the Wuhan departure cohort. This may lead to an underestimation of the incubation period. The same limitation also applies to Backer et al and Linton et al.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] However, as explained earlier, we only included cases who left Wuhan before January 23 in this study, which leaves an average followup time of 25 days. Hence it is less likely we missed those patients with longer incubation periods based on the largest incubation period of 24 days reported in Guan et al.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] Note that the 24-day incubation period was reported as an outlier in Guan et al.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+            "2. We assume that the individuals included in our cohort were either infected in Wuhan or on the way to their destination from Wuhan, violation of such assumption lead to an overestimation of incubation period. The same limitation also applies to Backer et al and Linton et al.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] However, with a carefully selected cohort justified in the section of Method, the chance for an individual in the Wuhan departure cohort getting infected outside Wuhan should be relatively small. Nonetheless, we acknowledge this possibility exists, for example, a family member could be uninfected by the time of departing Wuhan but got infected by other family members or outside contacts after leaving Wuhan. A sensitivity analysis was also conducted by removing all cases who left Wuhan with their families in the Wuhan departure cohort, and we found it only resulted in a small change of the estimated distribution of the incubation period.",
+            "3. Individuals in our selected cohort were those who got infected in the early days of the outbreak. They were likely the first- or second-generation cases. Our results do not apply to higher generation cases if the virus mutates."
+        ],
+        "Acknowledgement": [
+            "We thank Dr. Dean Follmann from National Institute of Allergy and Infectious Diseases for comments that greatly improved the manuscript and Dr. Weigong Zhou from U.S Centers for Disease Control and Prevention (CDC) for many helpful comments and suggestions. We also thank Benjamin Snow, ELS, from Leidos Biomedical Research, Inc for providing a technical review of the manuscript. This research is supported by National Natural Science Foundation of China grant 8204100362 and Zhejiang University special scientific research fund for COVID-19 prevention and control.",
+            "Contributors Jing Qin: study design, writing, data interpretation Chong You: writing, literature search, data interpretation Qiushi Lin: writing, data analysis, data collection Taojun Hu: data analysis, data collection Shicheng Yu: data interpretation Xiao-Hua Zhou: study design, writing, data interpretation",
+            "Declaration of interests We declare no competing interests.",
+            "Data sharing Data are submitted."
+        ],
+        "References": [
+            "1. National Health Commission of the People's Republic of China. National Health Commission update on February 23, 2020 [Internet]. Beijing, CN: National Health Commission of the People's Republic of China; 2020 Feb [cited 2020 Feb 27]. Available from: http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm#NHCFeb23. 2. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel Coronavirus [Internet]. Beijing (CN): Chinese Center for Disease Control and Prevention; 2020 Jan 28 [cited 2020 Feb 27]. Available from: http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11811/202001/P020200128523354919292.pdf. 3. Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020. 4. Guan W-j, Ni Z-y, Hu Y, et al Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med 2020. 5. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020. Euro Surveill 2020; 25(5). 6. Linton NM, Kobayashi T, Yang Y, et al Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data. J Clin Med 2020; 9(2). 7. Lau EH, Hsiung CA, Cowling BJ, et al A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan. BMC Infect Dis 2010; 10: 50. 8. Leung GM, Ho LM, Lam TH, Hedley AJ. Epidemiology of SARS in the 2003 Hong Kong epidemic. Hong Kong Med J 2009; 15 Suppl 9: 12\u20136.",
+            "9. Cai QC, Xu QF, Xu JM, et al Refined estimate of the incubation period of severe acute respiratory syndrome and related influencing factors. Am J Epidemiol 2006; 163(3): 211\u20136. 10. Kuk AY, Ma S. The estimation of SARS incubation distribution from serial interval data using a convolution likelihood. Stat Med 2005; 24(16): 2525\u201337. 11. Donnelly CA, Ghani AC, Leung GM, et al Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong. Lancet 2003; 361(9371): 1761\u20136. 12. Park JE, Jung S, Kim A, Park JE. MERS transmission and risk factors: a systematic review. BMC Public Health 2018; 18(1): 574. 13. Virlogeux V, Fang VJ, Park M, Wu JT, Cowling BJ. Comparison of incubation period distribution of human infections with MERS-CoV in South Korea and Saudi Arabia. Sci Rep 2016; 6: 35839. 14. Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT. Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015. Euro Surveill 2015; 20(25): 7\u201313. 15. Meltzer MI. Multiple contact dates and SARS incubation periods. Emerg Infect Dis 2004; 10(2): 207\u20139. 16. Assiri A, McGeer A, Perl TM, et al Hospital outbreak of Middle East respiratory syndrome coronavirus. N Engl J Med 2013; 369(5): 407\u201316. 17. Park HY, Lee EJ, Ryu YW, et al Epidemiological investigation of MERS-CoV spread in a single hospital in South Korea, May to June 2015. Euro Surveill 2015; 20(25): 1\u20136. 18. Feller W. An introduction to probability theory and its applications. 3rd ed. New York: Wiley; 1968. 19. Qin J. Biased Sampling, Over-identified Parameter Problems and Beyond. Singapore: Springer Singapore; 2017. 20. China declares lockdown in Wuhan on Thursday due to coronavirus outbreak. TASS [Internet]. 2020 Jan 22 [cited 2020 Feb 27]. Available from: https://tass.com/world/1111981. 21. Daily updates of COVID-19 in Yibin. YBWJW [Internet]. 2020 Feb 11 [cited 2020 Feb 27]. Available from: http://ybwjw.yibin.gov.cn/gzdt/202002/t20200212_1220372.html."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "residents",
+            "number": 11000000,
+            "context": "The cases included in the analysis were infected at Wuhan and developed their symptoms outside Wuhan. <mark class=\"stats\">In this study, it is reasonable to assume (A1) is satisfied between January 19, 2020, and January 23, 2020, because there are over eleven million residents in the Wuhan metropolitan area and nearby neighborhoods and the daily travel volume in and out of Wuhan exceeded million before January 23, 2020</mark>. We justify the use of data between January 19 and January 23 below"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 12963,
+            "context": "Therefore, the probability renewal process theory can be applied with confidence, and thus we can avoid the challenging mission of ascertaining the backward time. <mark class=\"stats\">Data collection and justification Publicly available data were retrieved from provincial and municipal health commissions in China and the ministries of health in other countries, including 12 963 confirmed cases outside Hubei province as of February 15, 2020</mark>. Detailed information on confirmed cases includes region, gender, age, date of symptom onset, date of confirmation, history of travel or residency in Wuhan, and date of departure from Wuhan"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 12963,
+            "context": "The date of symptoms onset in these data refers to the date reported by the patient on which the clinical symptoms first appeared, where the clinical symptoms include fever, cough, nausea, vomiting, diarrhea, and others. <mark class=\"stats\">Among 12 963 confirmed cases, 6345 cases had their dates of symptom onset collected; 3169 cases had histories of travel or residency in Wuhan; 2514 cases had their dates of departure recorded; and 1922 cases had records of both dates of departure from Wuhan and dates of symptoms onset</mark>. However, not all 1922 cases should be taken in the analysis"
+        },
+        {
+            "participant": "cases",
+            "number": 1922,
+            "context": "Among 12 963 confirmed cases, 6345 cases had their dates of symptom onset collected; 3169 cases had histories of travel or residency in Wuhan; 2514 cases had their dates of departure recorded; and 1922 cases had records of both dates of departure from Wuhan and dates of symptoms onset. <mark class=\"stats\">However, not all 1922 cases should be taken in the analysis</mark>. We have to ensure that (1) assumption (A5) is satisfied, and (2) the follow-up time is long enough"
+        },
+        {
+            "participant": "cases",
+            "number": 49,
+            "context": "This period should be long enough for a case to develop symptoms. <mark class=\"stats\">Furthermore, there were only 49 cases who left Wuhan after the lockdown of Wuhan city on January 23, 2020.20 After examining the collected data, there were a total of 1211 cases that meet the criteria and were followed forwardly</mark>. Figure 1 shows the design of the cross-sectional and forward follow-up study"
+        },
+        {
+            "participant": "cases with gender information in the study",
+            "number": 1209,
+            "context": "Note that only solid lines were followed in our cohort, while dashed lines are not in the cohort because the date of departure from Wuhan is not between January 19, 2020, and January 23, 2020. <mark class=\"stats\">Among the 1209 cases with gender information in the study, 533 (44\u00b709%) are female</mark>. The mean age of patients was 41\u00b731 and the median age was 40"
+        },
+        {
+            "participant": "cases",
+            "number": 8424,
+            "context": "Research in context Evidence before this study Before the current outbreak of coronavirus disease (COVID-19) in China, there were two other coronaviruses that have caused major global epidemics over the last two decades. <mark class=\"stats\">Severe acute respiratory syndrome (SARS) spread to 37 countries and caused 8424 cases and 919 deaths in 2002-03, while Middle East respiratory syndrome (MERS) spread to 27 countries, causing 2494 cases and 858 deaths worldwide to date</mark>. Precise knowledge of the incubation period is crucial for the prevention and control of these diseases"
+        },
+        {
+            "participant": "studies",
+            "number": 15,
+            "context": "We have searched PubMed and preprint archives for articles published as of February 22, 2020, which contain information about these diseases by using the key words of \u201cCOVID-19\u201d, \u201cSARS\u201d, \u201cMERS\u201d, \u201c2019-nCoV\u201d, \u201ccoronavirus\u201d, and \u201cincubation\u201d. <mark class=\"stats\">We have found 15 studies that estimated the distribution of the incubation period</mark>. There are four articles focused on COVID-19, five on MERS, and six on SARS"
+        },
+        {
+            "participant": "articles",
+            "number": 4,
+            "context": "We have found 15 studies that estimated the distribution of the incubation period. <mark class=\"stats\">There are four articles focused on COVID-19, five on MERS, and six on SARS</mark>. Most of these studies had limited sample sizes and were potentially influenced by recall bias"
+        },
+        {
+            "participant": "cases",
+            "number": 1000,
+            "context": "Added value of this study In the absence of complete and robust contact-tracing data, we have inferred the distribution of the incubation period of COVID-19 from the durations between departure from Wuhan and symptom onset for the confirmed cases. <mark class=\"stats\">More than 1000 cases were collected from publicly available data</mark>. The proposed approach has a solid theoretical foundation and enhances the accuracy of estimation by reducing recall bias and utilizing a large pool of samples"
+        },
+        {
+            "participant": "cases",
+            "number": 76936,
+            "context": "It was first identified in Wuhan, Hubei province, China, and has quickly spread across countries and become a global crisis. <mark class=\"stats\">As of February 22, 2020, the National Health Commission (NHC) of China had confirmed a total of 76 936 cases of COVID-19 in mainland China, including 2442 fatalities and 22 888 recoveries.1</mark>. Various containment measures, including travel restrictions, isolation, and quarantine have been implemented in China with the aim to minimize virus transmission via human-to-human contact.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]"
+        },
+        {
+            "participant": "cases",
+            "number": 10,
+            "context": "Among them are Li et al (2020), Guan et al (2020), Backer et al (2020), and Linton et al (2020).3\u20136. <mark class=\"stats\">In Li et al, the first 425 lab-confirmed cases, reported as of January 22, 2020, were included in the study, while only ten cases could be identified with the exact dates of exposure.3</mark>. The distribution of the incubation period was subsequently approximated by fitting a lognormal distribution to these ten data points, resulting in a mean incubation period of 5\u00b72 days (95% CI: 4\u00b71-7\u00b70), and the 95th percentile is 12\u00b75 days"
+        },
+        {
+            "participant": "patients",
+            "number": 291,
+            "context": "However, given the limited sample size, it is challenging to make a solid inference on the distribution of the incubation period. <mark class=\"stats\">A different result was reported by Guan et al, based on 291 patients who had clear information regarding the specific date of exposure as of January 29, 2020, stating that the median incubation period was 4\u00b70 days (interquartile range, 2 to 7).4</mark>. However, such study of the incubation period can be highly influenced by the individuals\u2019 recall bias or interviewers\u2019 judgement on the possible dates of exposure rather than the actual dates of exposure that, in turn, might not be accurately monitored and determined, thus leading to a high percentage of error"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 88,
+            "context": "However, such study of the incubation period can be highly influenced by the individuals\u2019 recall bias or interviewers\u2019 judgement on the possible dates of exposure rather than the actual dates of exposure that, in turn, might not be accurately monitored and determined, thus leading to a high percentage of error. <mark class=\"stats\">In Backer et al, 88 confirmed cases detected outside Wuhan were used to estimate the distribution of the incubation period.5</mark>. For each selected case, a censored interval for the incubation period can be obtained by travel history and symptoms onset"
+        },
+        {
+            "participant": "studies",
+            "number": 4,
+            "context": "However, the first problem in regard to sampling bias is still an unsolved issue. <mark class=\"stats\">The estimates of the incubation period from these four studies, together with other results of two other coronavirus disease, SARS and MERS, are listed in Table 1</mark>. Incubation distribution metric"
+        },
+        {
+            "participant": "cases with gender information in the study",
+            "number": 1209,
+            "context": "The percentages do not take missing data into account. <mark class=\"stats\">Among the 1209 cases with gender information in the study, 533 (44\u00b709%) are female</mark>. The mean age of patients was 41\u00b731 and the median age was 40"
+        },
+        {
+            "participant": "cases",
+            "number": 1211,
+            "context": "The corresponding authors had full access to all the data in the study and had final responsibility for the decision to submit for publication. <mark class=\"stats\">By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-</mark>. 0\u00b7111) in our reference scenario"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood estimates",
+                        "value": "2.04"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "World Health Organization",
+        "clinical characteristics",
+        "incubation distribution",
+        "asymptomatic individuals",
+        "incubation period",
+        "epidemiology",
+        "Severe acute respiratory syndrome",
+        "current outbreak",
+        "Middle East respiratory syndrome",
+        "global crisis",
+        "Coronavirus disease",
+        "COVID-19",
+        "forward time",
+        "Center for Disease Control and Prevention",
+        "National Health Commission"
+    ],
+    "keyword_relevance": {
+        "incubation period": 0.3958333333333333,
+        "COVID-19": 0.17708333333333334,
+        "forward time": 0.109375,
+        "Middle East respiratory syndrome": 0.078125,
+        "Severe acute respiratory syndrome": 0.06770833333333333,
+        "incubation distribution": 0.036458333333333336,
+        "Center for Disease Control and Prevention": 0.036458333333333336,
+        "National Health Commission": 0.03125,
+        "asymptomatic individuals": 0.015625,
+        "current outbreak": 0.015625,
+        "World Health Organization": 0.010416666666666666,
+        "epidemiology": 0.010416666666666666,
+        "global crisis": 0.010416666666666666,
+        "clinical characteristics": 0.005208333333333333,
+        "Coronavirus disease": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The Center for Disease Control and Prevention (CDC) of China and World Health Organization (WHO) are closely monitoring the current outbreak of coronavirus disease 2019 (COVID-19).",
+        "It was first identified in Wuhan, Hubei province, China, and has quickly spread across countries and become a global crisis.",
+        "One of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period, and this has been lacking for COVID-19",
+        "<h2 style=\"display: inline\">Methods:</h2> Motivations As described in the previous section, the distribution of the incubation period in most of the literature is either described through a parametric model or its empirical distribution based on the observed incubation period from the contact-tracing data.",
+        "Based on the COVID-19 daily updates from provincial and municipal health commissions in China, the authors notice that there is an abundance of cases who asymptomatically left Wuhan, the epicenter of COVID-19, and developed symptoms outside Wuhan",
+        "Assuming that these cases were infected before their departure from Wuhan, the time differences between departure and symptoms onset is the censored observations of their incubation periods.",
+        "At equilibrium, the backward time can be treated as the forward time if time periods are reversed.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]",
+        "<h2 style=\"display: inline\">Results:</h2> By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in the cohort to the likelihood function (4), the authors find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-<br/><br/>0\u00b7111) in the reference scenario.",
+        "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in the cohort to the likelihood function (4), the authors find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-.",
+        "Figure 2 visualizes the fitted density function (3) in a solid line onto the histogram of observed forward times, and the dashed line is the Weibull probability density function (2) for incubation period distribution.",
+        "Note that (3) is a monotonically decreasing function, which fits the observed forward times well, suggesting that the model is reasonable and the results are trustworthy",
+        "<h2 style=\"display: inline\">Conclusion:</h2> A sound estimate of the distribution of the incubation period plays a vital role in epidemiology.",
+        "The authors propose a novel method to estimate the incubation distribution which only requires information on travel histories and dates of symptoms onset.",
+        "This method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time data.",
+        "The authors propose a novel low-cost and accurate method to estimate the incubation distribution"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The Center for Disease Control and Prevention (CDC) of China and World Health Organization (WHO) are closely monitoring the current outbreak of coronavirus disease 2019 (COVID-19).",
+            "It was first identified in Wuhan, Hubei province, China, and has quickly spread across countries and become a global crisis.",
+            "One of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period, and this has been lacking for COVID-19"
+        ],
+        "Methods": [
+            "Motivations As described in the previous section, the distribution of the incubation period in most of the literature is either described through a parametric model or its empirical distribution based on the observed incubation period from the contact-tracing data.",
+            "Based on the COVID-19 daily updates from provincial and municipal health commissions in China, the authors notice that there is an abundance of cases who asymptomatically left Wuhan, the epicenter of COVID-19, and developed symptoms outside Wuhan",
+            "Assuming that these cases were infected before their departure from Wuhan, the time differences between departure and symptoms onset is the censored observations of their incubation periods.",
+            "At equilibrium, the backward time can be treated as the forward time if time periods are reversed.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]"
+        ],
+        "Results": [
+            "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in the cohort to the likelihood function (4), the authors find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-<br/><br/>0\u00b7111) in the reference scenario.",
+            "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in the cohort to the likelihood function (4), the authors find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-.",
+            "Figure 2 visualizes the fitted density function (3) in a solid line onto the histogram of observed forward times, and the dashed line is the Weibull probability density function (2) for incubation period distribution.",
+            "Note that (3) is a monotonically decreasing function, which fits the observed forward times well, suggesting that the model is reasonable and the results are trustworthy"
+        ],
+        "Conclusion": [
+            "A sound estimate of the distribution of the incubation period plays a vital role in epidemiology.",
+            "The authors propose a novel method to estimate the incubation distribution which only requires information on travel histories and dates of symptoms onset.",
+            "This method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time data.",
+            "The authors propose a novel low-cost and accurate method to estimate the incubation distribution"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "1._2020_a",
+            "entry": "1. National Health Commission of the People's Republic of China. National Health Commission update on February 23, 2020 [Internet]. Beijing, CN: National Health Commission of the People's Republic of China; 2020 Feb [cited 2020 Feb 27]. Available from: http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm#NHCFeb23.",
+            "url": "http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm#NHCFeb23",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=National%20Health%20Commission%20of%20the%20Peoples%20Republic%20of%20China%20National%20Health%20Commission%20update%20on%20February%2023%202020%20Internet%20Beijing%20CN%20National%20Health%20Commission%20of%20the%20Peoples%20Republic%20of%20China%202020%20Feb%20cited%202020%20Feb%2027%20Available%20from%20httpweeklychinacdccnnewsTrackingtheEpidemichtmNHCFeb23",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=National%20Health%20Commission%20of%20the%20Peoples%20Republic%20of%20China%20National%20Health%20Commission%20update%20on%20February%2023%202020%20Internet%20Beijing%20CN%20National%20Health%20Commission%20of%20the%20Peoples%20Republic%20of%20China%202020%20Feb%20cited%202020%20Feb%2027%20Available%20from%20httpweeklychinacdccnnewsTrackingtheEpidemichtmNHCFeb23"
+        },
+        {
+            "id": "2",
+            "alt_id": "2._2020_b",
+            "entry": "2. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel Coronavirus [Internet]. Beijing (CN): Chinese Center for Disease Control and Prevention; 2020 Jan 28 [cited 2020 Feb 27]. Available from: http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11811/202001/P020200128523354919292.pdf.",
+            "url": "http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11811/202001/P020200128523354919292.pdf"
+        },
+        {
+            "id": "3",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "3. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "W-J_et+al_2020_a",
+            "entry": "4. Guan W-j, Ni Z-y, Hu Y, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China%20N%20Engl%20J%20Med%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China%20N%20Engl%20J%20Med%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China%20N%20Engl%20J%20Med%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Backer_et+al_2019_a",
+            "entry": "5. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020. Euro Surveill 2020; 25(5). 6. Linton NM, Kobayashi T, Yang Y, et al. Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data. J Clin Med 2020; 9(2). 7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Backer%20JA%20Klinkenberg%20D%20Wallinga%20J%20Incubation%20period%20of%202019%20novel%20coronavirus%202019nCoV%20infections%20among%20travellers%20from%20Wuhan%20China%202028%20January%202020%20Euro%20Surveill%202020%20255%206%20Linton%20NM%20Kobayashi%20T%20Yang%20Y%20et%20al%20Incubation%20Period%20and%20Other%20Epidemiological%20Characteristics%20of%202019%20Novel%20Coronavirus%20Infections%20with%20Right%20Truncation%20A%20Statistical%20Analysis%20of%20Publicly%20Available%20Case%20Data%20J%20Clin%20Med%202020%2092%207",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Backer%20JA%20Klinkenberg%20D%20Wallinga%20J%20Incubation%20period%20of%202019%20novel%20coronavirus%202019nCoV%20infections%20among%20travellers%20from%20Wuhan%20China%202028%20January%202020%20Euro%20Surveill%202020%20255%206%20Linton%20NM%20Kobayashi%20T%20Yang%20Y%20et%20al%20Incubation%20Period%20and%20Other%20Epidemiological%20Characteristics%20of%202019%20Novel%20Coronavirus%20Infections%20with%20Right%20Truncation%20A%20Statistical%20Analysis%20of%20Publicly%20Available%20Case%20Data%20J%20Clin%20Med%202020%2092%207",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Backer%20JA%20Klinkenberg%20D%20Wallinga%20J%20Incubation%20period%20of%202019%20novel%20coronavirus%202019nCoV%20infections%20among%20travellers%20from%20Wuhan%20China%202028%20January%202020%20Euro%20Surveill%202020%20255%206%20Linton%20NM%20Kobayashi%20T%20Yang%20Y%20et%20al%20Incubation%20Period%20and%20Other%20Epidemiological%20Characteristics%20of%202019%20Novel%20Coronavirus%20Infections%20with%20Right%20Truncation%20A%20Statistical%20Analysis%20of%20Publicly%20Available%20Case%20Data%20J%20Clin%20Med%202020%2092%207"
+        },
+        {
+            "id": "Lau_et+al_2010_a",
+            "alt_id": "6",
+            "entry": "Lau EH, Hsiung CA, Cowling BJ, et al. A comparative epidemiologic analysis of SARS in Hong Kong, Beijing and Taiwan. BMC Infect Dis 2010; 10: 50.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20E.H.%20Hsiung%2C%20C.A.%20Cowling%2C%20B.J.%20A%20comparative%20epidemiologic%20analysis%20of%20SARS%20in%20Hong%20Kong%2C%20Beijing%20and%20Taiwan%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20E.H.%20Hsiung%2C%20C.A.%20Cowling%2C%20B.J.%20A%20comparative%20epidemiologic%20analysis%20of%20SARS%20in%20Hong%20Kong%2C%20Beijing%20and%20Taiwan%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20E.H.%20Hsiung%2C%20C.A.%20Cowling%2C%20B.J.%20A%20comparative%20epidemiologic%20analysis%20of%20SARS%20in%20Hong%20Kong%2C%20Beijing%20and%20Taiwan%202010"
+        },
+        {
+            "id": "8",
+            "alt_id": "Leung_et+al_2009_a",
+            "entry": "8. Leung GM, Ho LM, Lam TH, Hedley AJ. Epidemiology of SARS in the 2003 Hong Kong epidemic. Hong Kong Med J 2009; 15 Suppl 9: 12\u20136.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Leung%20GM%20Ho%20LM%20Lam%20TH%20Hedley%20AJ%20Epidemiology%20of%20SARS%20in%20the%202003%20Hong%20Kong%20epidemic%20Hong%20Kong%20Med%20J%202009%2015%20Suppl%209%20126",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Leung%20GM%20Ho%20LM%20Lam%20TH%20Hedley%20AJ%20Epidemiology%20of%20SARS%20in%20the%202003%20Hong%20Kong%20epidemic%20Hong%20Kong%20Med%20J%202009%2015%20Suppl%209%20126",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Leung%20GM%20Ho%20LM%20Lam%20TH%20Hedley%20AJ%20Epidemiology%20of%20SARS%20in%20the%202003%20Hong%20Kong%20epidemic%20Hong%20Kong%20Med%20J%202009%2015%20Suppl%209%20126"
+        },
+        {
+            "id": "9",
+            "alt_id": "Cai_et+al_2006_a",
+            "entry": "9. Cai QC, Xu QF, Xu JM, et al. Refined estimate of the incubation period of severe acute respiratory syndrome and related influencing factors. Am J Epidemiol 2006; 163(3): 211\u20136.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cai%2C%20Q.C.%20Xu%2C%20Q.F.%20Xu%2C%20J.M.%20Refined%20estimate%20of%20the%20incubation%20period%20of%20severe%20acute%20respiratory%20syndrome%20and%20related%20influencing%20factors%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cai%2C%20Q.C.%20Xu%2C%20Q.F.%20Xu%2C%20J.M.%20Refined%20estimate%20of%20the%20incubation%20period%20of%20severe%20acute%20respiratory%20syndrome%20and%20related%20influencing%20factors%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cai%2C%20Q.C.%20Xu%2C%20Q.F.%20Xu%2C%20J.M.%20Refined%20estimate%20of%20the%20incubation%20period%20of%20severe%20acute%20respiratory%20syndrome%20and%20related%20influencing%20factors%202006"
+        },
+        {
+            "id": "10",
+            "alt_id": "Kuk_2005_a",
+            "entry": "10. Kuk AY, Ma S. The estimation of SARS incubation distribution from serial interval data using a convolution likelihood. Stat Med 2005; 24(16): 2525\u201337.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kuk%2C%20A.Y.%20Ma%2C%20S.%20The%20estimation%20of%20SARS%20incubation%20distribution%20from%20serial%20interval%20data%20using%20a%20convolution%20likelihood%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kuk%2C%20A.Y.%20Ma%2C%20S.%20The%20estimation%20of%20SARS%20incubation%20distribution%20from%20serial%20interval%20data%20using%20a%20convolution%20likelihood%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kuk%2C%20A.Y.%20Ma%2C%20S.%20The%20estimation%20of%20SARS%20incubation%20distribution%20from%20serial%20interval%20data%20using%20a%20convolution%20likelihood%202005"
+        },
+        {
+            "id": "11",
+            "alt_id": "Donnelly_et+al_2003_a",
+            "entry": "11. Donnelly CA, Ghani AC, Leung GM, et al. Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong. Lancet 2003; 361(9371): 1761\u20136.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Donnelly%2C%20C.A.%20Ghani%2C%20A.C.%20Leung%2C%20G.M.%20Epidemiological%20determinants%20of%20spread%20of%20causal%20agent%20of%20severe%20acute%20respiratory%20syndrome%20in%20Hong%20Kong%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Donnelly%2C%20C.A.%20Ghani%2C%20A.C.%20Leung%2C%20G.M.%20Epidemiological%20determinants%20of%20spread%20of%20causal%20agent%20of%20severe%20acute%20respiratory%20syndrome%20in%20Hong%20Kong%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Donnelly%2C%20C.A.%20Ghani%2C%20A.C.%20Leung%2C%20G.M.%20Epidemiological%20determinants%20of%20spread%20of%20causal%20agent%20of%20severe%20acute%20respiratory%20syndrome%20in%20Hong%20Kong%202003"
+        },
+        {
+            "id": "12",
+            "alt_id": "Park_et+al_2018_a",
+            "entry": "12. Park JE, Jung S, Kim A, Park JE. MERS transmission and risk factors: a systematic review. BMC Public Health 2018; 18(1): 574.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Park%2C%20J.E.%20Jung%2C%20S.%20Kim%2C%20A.%20Park%2C%20J.E.%20MERS%20transmission%20and%20risk%20factors%3A%20a%20systematic%20review%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Park%2C%20J.E.%20Jung%2C%20S.%20Kim%2C%20A.%20Park%2C%20J.E.%20MERS%20transmission%20and%20risk%20factors%3A%20a%20systematic%20review%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Park%2C%20J.E.%20Jung%2C%20S.%20Kim%2C%20A.%20Park%2C%20J.E.%20MERS%20transmission%20and%20risk%20factors%3A%20a%20systematic%20review%202018"
+        },
+        {
+            "id": "13",
+            "alt_id": "Virlogeux_et+al_2016_a",
+            "entry": "13. Virlogeux V, Fang VJ, Park M, Wu JT, Cowling BJ. Comparison of incubation period distribution of human infections with MERS-CoV in South Korea and Saudi Arabia. Sci Rep 2016; 6: 35839.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Virlogeux%2C%20V.%20Fang%2C%20V.J.%20Park%2C%20M.%20Wu%2C%20J.T.%20Comparison%20of%20incubation%20period%20distribution%20of%20human%20infections%20with%20MERS-CoV%20in%20South%20Korea%20and%20Saudi%20Arabia%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Virlogeux%2C%20V.%20Fang%2C%20V.J.%20Park%2C%20M.%20Wu%2C%20J.T.%20Comparison%20of%20incubation%20period%20distribution%20of%20human%20infections%20with%20MERS-CoV%20in%20South%20Korea%20and%20Saudi%20Arabia%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Virlogeux%2C%20V.%20Fang%2C%20V.J.%20Park%2C%20M.%20Wu%2C%20J.T.%20Comparison%20of%20incubation%20period%20distribution%20of%20human%20infections%20with%20MERS-CoV%20in%20South%20Korea%20and%20Saudi%20Arabia%202016"
+        },
+        {
+            "id": "14",
+            "alt_id": "Cowling_et+al_2015_a",
+            "entry": "14. Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT. Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015. Euro Surveill 2015; 20(25): 7\u201313.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cowling%2C%20B.J.%20Park%2C%20M.%20Fang%2C%20V.J.%20Wu%2C%20P.%20Preliminary%20epidemiological%20assessment%20of%20MERS-CoV%20outbreak%20in%20South%20Korea%2C%20May%20to%202015-06",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cowling%2C%20B.J.%20Park%2C%20M.%20Fang%2C%20V.J.%20Wu%2C%20P.%20Preliminary%20epidemiological%20assessment%20of%20MERS-CoV%20outbreak%20in%20South%20Korea%2C%20May%20to%202015-06",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cowling%2C%20B.J.%20Park%2C%20M.%20Fang%2C%20V.J.%20Wu%2C%20P.%20Preliminary%20epidemiological%20assessment%20of%20MERS-CoV%20outbreak%20in%20South%20Korea%2C%20May%20to%202015-06"
+        },
+        {
+            "id": "15",
+            "alt_id": "Meltzer_2004_a",
+            "entry": "15. Meltzer MI. Multiple contact dates and SARS incubation periods. Emerg Infect Dis 2004; 10(2): 207\u20139.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Meltzer%2C%20M.I.%20Multiple%20contact%20dates%20and%20SARS%20incubation%20periods%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Meltzer%2C%20M.I.%20Multiple%20contact%20dates%20and%20SARS%20incubation%20periods%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Meltzer%2C%20M.I.%20Multiple%20contact%20dates%20and%20SARS%20incubation%20periods%202004"
+        },
+        {
+            "id": "16",
+            "alt_id": "Assiri_et+al_2013_a",
+            "entry": "16. Assiri A, McGeer A, Perl TM, et al. Hospital outbreak of Middle East respiratory syndrome coronavirus. N Engl J Med 2013; 369(5): 407\u201316.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Assiri%2C%20A.%20McGeer%2C%20A.%20Perl%2C%20T.M.%20Hospital%20outbreak%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Assiri%2C%20A.%20McGeer%2C%20A.%20Perl%2C%20T.M.%20Hospital%20outbreak%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Assiri%2C%20A.%20McGeer%2C%20A.%20Perl%2C%20T.M.%20Hospital%20outbreak%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%202013"
+        },
+        {
+            "id": "17",
+            "alt_id": "Park_et+al_2015_a",
+            "entry": "17. Park HY, Lee EJ, Ryu YW, et al. Epidemiological investigation of MERS-CoV spread in a single hospital in South Korea, May to June 2015. Euro Surveill 2015; 20(25): 1\u20136.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Park%2C%20H.Y.%20Lee%2C%20E.J.%20Ryu%2C%20Y.W.%20Epidemiological%20investigation%20of%20MERS-CoV%20spread%20in%20a%20single%20hospital%20in%20South%20Korea%2C%20May%20to%202015-06",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Park%2C%20H.Y.%20Lee%2C%20E.J.%20Ryu%2C%20Y.W.%20Epidemiological%20investigation%20of%20MERS-CoV%20spread%20in%20a%20single%20hospital%20in%20South%20Korea%2C%20May%20to%202015-06",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Park%2C%20H.Y.%20Lee%2C%20E.J.%20Ryu%2C%20Y.W.%20Epidemiological%20investigation%20of%20MERS-CoV%20spread%20in%20a%20single%20hospital%20in%20South%20Korea%2C%20May%20to%202015-06"
+        },
+        {
+            "id": "18",
+            "alt_id": "Feller_1968_a",
+            "entry": "18. Feller W. An introduction to probability theory and its applications. 3rd ed. New York: Wiley; 1968.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Feller%2C%20W.%20An%20introduction%20to%20probability%20theory%20and%20its%20applications%201968"
+        },
+        {
+            "id": "19",
+            "alt_id": "Qin_2017_a",
+            "entry": "19. Qin J. Biased Sampling, Over-identified Parameter Problems and Beyond. Singapore: Springer Singapore; 2017.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Qin%2C%20J.%20Biased%20Sampling%2C%20Over-identified%20Parameter%20Problems%20and%20Beyond%202017"
+        },
+        {
+            "id": "20",
+            "alt_id": "20._2020_c",
+            "entry": "20. China declares lockdown in Wuhan on Thursday due to coronavirus outbreak. TASS [Internet]. 2020 Jan 22 [cited 2020 Feb 27]. Available from: https://tass.com/world/1111981.",
+            "url": "https://tass.com/world/1111981"
+        },
+        {
+            "id": "21",
+            "alt_id": "21._0000_a",
+            "entry": "21. Daily updates of COVID-19 in Yibin. YBWJW [Internet]. 2020 Feb 11 [cited 2020 Feb 27]. Available from: http://ybwjw.yibin.gov.cn/gzdt/202002/t20200212_1220372.html. ",
+            "url": "http://ybwjw.yibin.gov.cn/gzdt/202002/t20200212_1220372.html"
+        }
+    ],
+    "facts": [
+        "The current outbreak of coronavirus disease 2019 has quickly spread across countries",
+        "a method enhances the accuracy of estimation by reducing recall bias",
+        "The estimated distribution of forward time fits the observations in the collected data",
+        "the incubation period estimated in this study is longer",
+        "the National Health Commission of China had confirmed a total of 76 936 cases of COVID-19",
+        "quarantine have been implemented in China with the aim to minimize virus transmission",
+        "Quarantine of individuals with exposure to infectious pathogens has always been an effective approach for containing contagious diseases in the past",
+        "of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period",
+        "its empirical distribution based on the observed incubation period from the contact-tracing data",
+        "their accuracy can be highly influenced by recall bias",
+        "that these cases were infected before their departure from Wuhan",
+        "the development of the disease starting from infection by a pathogen",
+        "as a stochastic process that could be observed from a specific time point in chronological order",
+        "the specific time point refers to the time of departure",
+        "the complete process from the infection to the onset of symptoms can be considered as a renewal process",
+        "the backward recurrence time is defined as the time between infection and departure",
+        "the forward recurrence time is the time between departure from Wuhan and symptom onset",
+        "the corresponding observations are with good veracity",
+        "the corresponding observations are with large uncertainty",
+        "the backward time can be treated as the forward time if time periods are reversed.[19",
+        "A sound estimate of the distribution of the incubation period plays a vital role in epidemiology",
+        "Its application includes decisions regarding the length of quarantine for prevention and control",
+        "This method enhances the accuracy of estimation by reducing recall bias",
+        "The estimated incubation period has a median of 8\u00b713 days",
+        "with the results published in Li et al",
+        "the incubation period estimated in our study is significantly longer.[3\u20136",
+        "\u07e3\u1218 \u0d4c 0.186 defined in Equation",
+        "15 studies that estimated the distribution of the incubation period"
+    ],
+    "claims": [
+        "In this study, we propose a novel low-cost and accurate method to estimate the incubation distribution",
+        "We have found 15 studies that estimated the distribution of the incubation period",
+        "To overcome the aforementioned problems, we propose a novel method to estimate the incubation period of COVID-19 by using the well-known renewal theory in probability.18",
+        "We find the estimated median of the incubation period is 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), and mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759",
+        "We explore the sensitivity of estimates of incubation period by assuming a range of \u03c0, that is \u03c0 \u0d4c 0, 0.05, 0.1, and 0.2, where \u03c0 \u0d4c 0 is the reference, and estimate \u07d9 and \u07e3 by maximizing the product of likelihoods, \u220f\u0bc2\u0bdc\u0b40\u0b35 \u0744\u123a\u202b\u0752\u202c\u0bdc\u123b, with respect to \u07d9 and \u07e3",
+        "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-",
+        "In this paper, we propose a novel method to estimate the incubation distribution which only requires information on travel histories and dates of symptoms onset",
+        "A sensitivity analysis was also conducted by removing all cases who left Wuhan with their families in the Wuhan departure cohort, and we found it only resulted in a small change of the estimated distribution of the incubation period"
+    ],
+    "findings": [
+        "The estimated median of incubation period is 8.13 days (95% confidence interval [CI]: 7.37-8.91), the mean is 8.62 days (95% CI: 8.02-9.28), the 90th percentile is 14.65 days (95% CI: 14.00-15.26), and the 99th percentile is 20.59 days (95% CI: 19.47, 21.62)",
+        "The estimated median of incubation period is 8\u00b713 days (95% confidence interval [CI]: 7\u00b737-8\u00b791), the mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b747, 21\u00b762)",
+        "The distribution of the incubation period was subsequently approximated by fitting a lognormal distribution to these ten data points, resulting in a mean incubation period of 5\u00b72 days (95% CI: 4\u00b71-7\u00b70), and the 95th percentile is 12\u00b75 days",
+        "We find the estimated median of the incubation period is 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), and mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759",
+        "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-",
+        "The estimated 5th, 25th, 50th, 75th, 90th, 95th, 99th, and 99\u00b79th percentiles of the incubation period are 2\u00b727 (95% CI: 1\u00b773-2\u00b786), 5\u00b728 (95% CI: 4\u00b753-6\u00b706), 8\u00b713 (95% CI: 7\u00b737-8\u00b791), 11\u00b742 (95% CI: 10\u00b774-12\u00b711), 14\u00b765 (95% CI: 14\u00b700-15\u00b726), 16\u00b767 (95% CI: 15\u00b794-17\u00b732), 20\u00b759 (95% CI: 19\u00b747-21\u00b762), and 25\u00b712 (95% CI: 23\u00b735-26\u00b787) days, respectively",
+        "The mean incubation period is 8\u00b762 (95% CI: 8\u00b702-9\u00b728) days",
+        "The estimated incubation period has a median of 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), a mean of 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b74721\u00b762)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We propose a novel low-cost and accurate method to estimate the incubation distribution",
+        "The observations of selected forward times can be used to consistently estimate the parameters in the distribution of the incubation period. Such a method enhances the accuracy of estimation by reducing recall bias and utilizing the abundant and readily available forward time data",
+        "Findings: The estimated distribution of forward time fits the observations in the collected data well",
+        "Compared with results in other studies, the incubation period estimated in this study is longer",
+        "We have found 15 studies that estimated the distribution of the incubation period",
+        "One of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period, and this has been lacking for COVID-19",
+        "To overcome the aforementioned problems, we propose a novel method to estimate the incubation period of COVID-19 by using the well-known renewal theory in probability.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]",
+        "Such a method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time with a large sample size of 1211",
+        "We find the estimated median of the incubation period is 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), and mean is 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759",
+        "Motivations As described in the previous section, the distribution of the incubation period in most of the literature is either described through a parametric model or its empirical distribution based on the observed incubation period from the contact-tracing data",
+        "Based on the COVID-19 daily updates from provincial and municipal health commissions in China, we notice that there is an abundance of cases who asymptomatically left Wuhan, the epicenter of COVID-19, and developed symptoms outside Wuhan. Assuming that these cases were infected before their departure from Wuhan, the time differences between departure and symptoms onset is the censored observations of their incubation periods",
+        "Using the language of renewal processes, we can treat the development of the disease starting from infection by a pathogen as a stochastic process that could be observed from a specific time point in chronological order",
+        "The forward time is observable and the corresponding observations are with good veracity, while the backward time is either unable to be observed or the corresponding observations are with large uncertainty due to recall bias",
+        "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-",
+        "The estimated 5th, 25th, 50th, 75th, 90th, 95th, 99th, and 99\u00b79th percentiles of the incubation period are 2\u00b727 (95% CI: 1\u00b773-2\u00b786), 5\u00b728 (95% CI: 4\u00b753-6\u00b706), 8\u00b713 (95% CI: 7\u00b737-8\u00b791), 11\u00b742 (95% CI: 10\u00b774-12\u00b711), 14\u00b765 (95% CI: 14\u00b700-15\u00b726), 16\u00b767 (95% CI: 15\u00b794-17\u00b732), 20\u00b759 (95% CI: 19\u00b747-21\u00b762), and 25\u00b712 (95% CI: 23\u00b735-26\u00b787) days, respectively",
+        "The mean incubation period is 8\u00b762 (95% CI: 8\u00b702-9\u00b728) days",
+        "A sound estimate of the distribution of the incubation period plays a vital role in epidemiology",
+        "This method enhances the accuracy of estimation by reducing recall bias and utilizing abundance of the readily available forward time data",
+        "The estimated incubation period has a median of 8\u00b713 days (95% CI: 7\u00b737-8\u00b791), a mean of 8\u00b762 days (95% CI: 8\u00b702-9\u00b728), the 90th percentile is 14\u00b765 days (95% CI: 14\u00b700-15\u00b726), and the 99th percentile is 20\u00b759 days (95% CI: 19\u00b74721\u00b762)",
+        "Compared with the results published in Li et al, Guan et al, Backer et al, and Linton et al, the incubation period estimated in our study is significantly longer.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "A sensitivity analysis was conducted by removing all cases who left Wuhan with their families in the Wuhan departure cohort, and we found it only resulted in a small change of the estimated distribution of the incubation period"
+    ],
+    "top_statements": [
+        "The Center for Disease Control and Prevention (CDC) of China and World Health Organization (WHO) are closely monitoring the current outbreak of coronavirus disease 2019 (COVID-19)",
+        "We propose a novel low-cost and accurate method to estimate the incubation distribution",
+        "One of the critical factors to determine the optimal quarantine of asymptomatic individuals is a good understanding of the incubation period, and this has been lacking for COVID-19",
+        "The forward time is observable and the corresponding observations are with good veracity, while the backward time is either unable to be observed or the corresponding observations are with large uncertainty due to recall bias",
+        "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function (4), we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 (95% CI: 1\u00b780-2\u00b732) and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-",
+        "The estimated 5th, 25th, 50th, 75th, 90th, 95th, 99th, and 99\u00b79th percentiles of the incubation period are 2\u00b727 (95% CI: 1\u00b773-2\u00b786), 5\u00b728 (95% CI: 4\u00b753-6\u00b706), 8\u00b713 (95% CI: 7\u00b737-8\u00b791), 11\u00b742 (95% CI: 10\u00b774-12\u00b711), 14\u00b765 (95% CI: 14\u00b700-15\u00b726), 16\u00b767 (95% CI: 15\u00b794-17\u00b732), 20\u00b759 (95% CI: 19\u00b747-21\u00b762), and 25\u00b712 (95% CI: 23\u00b735-26\u00b787) days, respectively"
+    ],
+    "headline": "By fitting the observed forward times \u202b\u0752\u202c\u0bdc of the 1211 cases in our cohort to the likelihood function, we find the maximum likelihood estimates \u07d9\u0ddc \u0d4c 2.04 and \u07e3\u1218 \u0d4c 0.103 (95% CI: 0\u00b7096-",
+    "contexts": [],
+    "abbreviations": {
+        "CDC": "Center for Disease Control and Prevention",
+        "WHO": "World Health Organization",
+        "NHC": "National Health Commission",
+        "SARS": "Severe acute respiratory syndrome",
+        "MERS": "Middle East respiratory syndrome"
+    }
+}

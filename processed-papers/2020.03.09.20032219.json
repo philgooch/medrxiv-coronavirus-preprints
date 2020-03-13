@@ -1,0 +1,276 @@
+{
+    "filename": "2020.03.09.20032219.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 51340,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.09.20032219",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/10/2020.03.09.20032219.full.pdf"
+        },
+        "title": "Data-driven discovery of clinical routes for severity detection in COVID-19 pediatric cases",
+        "author": "Hui Yu, Jianbo Shao, Yuqi Guo, Yun Xiang, Chuan Sun, Hai-Tao Zhang, Ye Yuan",
+        "date": 2020,
+        "affiliations": [
+            "Hospital, Tongji Medical School, Huazhong University of Science and Technology, Wuhan 430010, P. R. China",
+            "School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan 430074, P. R. China",
+            "Hai-Tao Zhang, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan, China. Email: {yye,zht}@hust.edu.cn"
+        ],
+        "abstract": "The outbreak of COVID-19 epidemic has caused worldwide health concerns since Nov., 2019. A previous study described the demographic, epidemiologic, and clinical features for infected infants. However, compared with adult cases, little attention has been paid to the infected pediatric cases. Severity detection is challenging for children since most of children patients have mild symptoms no matter they are moderately or critically ill therein.",
+        "references": "@article{chen2020a,\n  author = {Chen, N. and Zhou, M. and Dong, X.},\n  title = {Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study},\n  journal = {The Lancet},\n  volume = {395},\n  pages = {513},\n  date = {2020},\n  more-authors = {true},\n  number = {507},\n  language = {}\n}\n@misc{wang-a,\n  author = {Wang, D. and Hu, B. and Hu, C.},\n  title = {Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in},\n  more-authors = {true},\n  language = {}\n}\n@article{guan-a,\n  author = {Guan, W.J. and Ni, Z.Y. and Hu, Y.},\n  title = {Clinical characteristics of 2019 novel coronavirus infection in China},\n  journal = {New England Journal of},\n  more-authors = {true},\n  language = {}\n}\n",
+        "emails": [
+            "yye@hust.edu.cn",
+            "zht@hust.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Chen, N.\nAU  - Zhou, M.\nAU  - Dong, X.\nTI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study\nT2  - The Lancet\nVL  - 395\nSP  - 513\nPY  - 2020\nDA  - 2020\nC1  - true\nIS  - 507\nLA  - \nER  - \n\nTY  - GEN\nAU  - Wang, D.\nAU  - Hu, B.\nAU  - Hu, C.\nTI  - Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guan, W.J.\nAU  - Ni, Z.Y.\nAU  - Hu, Y.\nTI  - Clinical characteristics of 2019 novel coronavirus infection in China\nT2  - New England Journal of\nC1  - true\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "a) A diagram showing identification of severe cases using the discovered clinical route. These two features are automatically selected from over 300 features from the proposed classification algorithm. (b) Visualization of mild and severe patients over the selected features"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.20032219.full/img-000.png"
+        ]
+    },
+    "sections": {
+        "methods": [
+            "For this retrospective study, we identified 105 infected children admitted to Wuhan    Children\u2019s<br/><br/>Hospital, the sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020.<br/><br/>The epidemiological, clinical laboratory, and outcome data were extracted from the medical records of these patients. The study was approved by Wuhan Children\u2019s Hospital Ethics    Committee.<br/><br/>Throat-swab, anal-swab or urine specimens were taken at admission for real-time RT-PCR, which was performed by Wuhan Huada Gene Biology. Symptoms on admission were collected together with laboratory results, chest radiography and CT findings, treatment received for COVID-19 and clinical outcomes.<br/><br/>Severe patients are generally manually detected according to the guideline from National Health Commission, China, using clinical symptoms including shortness of breath, assisted respiration, apnea, cyanosis, dehydration, and progressive increase of lactate, etc."
+        ],
+        "results": [
+            "105 children aged 1-16, including 64 males and 41 females, were infected with COVID-19, of which 8 were critically ill. The youngest was 1 day after birth, and the oldest was 15year-old. Male infection rate (60.95%) is higher than that of the female (39.05%). This is opposite to a previous report [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Children over 6-year-old have the highest infection rate (60.95%). All the children lived in Wuhan."
+        ],
+        "discussion": [
+            "Due to the scantiness of clinical data from confirmed COVID-19 children cases, especially for severe ones, it is an urgent yet challenging mission to promptly distinguish the severe ones from the mild cases for early diagnosis and intervention. To this end, with the assistance of machine learning methods, we identified that DBIL and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases. Although the increase of DBIL and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].<br/><br/>The study was limited to a small number of patients from a single center in Wuhan. Further studies from multiple centers in a larger cohort would be beneficial to the validation of the proposed route as well as understanding of the disease.<br/><br/>Word count of the manuscript text: 598"
+        ],
+        "disclosures": [
+            "<strong>Conflict of Interest Disclosures</strong><br/><br/>None reported."
+        ],
+        "ethical_compliance": [
+            "The study was approved by Wuhan Children\u2019s Hospital Ethics"
+        ],
+        "introduction": []
+    },
+    "structured_content": {
+        "Methods": [
+            "For this retrospective study, we identified 105 infected children admitted to Wuhan",
+            "Hospital, the sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020.",
+            "The epidemiological, clinical laboratory, and outcome data were extracted from the medical records of these patients. The study was approved by Wuhan Children\u2019s Hospital Ethics",
+            "Committee.",
+            "Throat-swab, anal-swab or urine specimens were taken at admission for real-time RT-PCR, which was performed by Wuhan Huada Gene Biology. Symptoms on admission were collected together with laboratory results, chest radiography and CT findings, treatment received for COVID-19 and clinical outcomes.",
+            "Severe patients are generally manually detected according to the guideline from National Health Commission, China, using clinical symptoms including shortness of breath, assisted respiration, apnea, cyanosis, dehydration, and progressive increase of lactate, etc.",
+            "In this study, a supervised decision-tree classifier was developed. All clinical measurements from the last available date were used as features and set \u2018mild\u2019 and \u2018severe\u2019 as labels. \u201c-1\u201d was used to complement the incomplete clinical measures to avoid bias. We used standard F1-score [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] to evaluate the performance of the classifier. We started from one feature and increased the number of features in the clinical route, until the F1-score converges. We picked the classifier with less incomplete measurements for all the patients, when two classifiers with the same number of features performed the same."
+        ],
+        "Results": [
+            "105 children aged 1-16, including 64 males and 41 females, were infected with COVID-19, of which 8 were critically ill. The youngest was 1 day after birth, and the oldest was 15year-old. Male infection rate (60.95%) is higher than that of the female (39.05%). This is opposite to a previous report [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Children over 6-year-old have the highest infection rate (60.95%). All the children lived in Wuhan.",
+            "Based on the current available clinical data, we discovered a clinical route that can achieve 100% F1 score (shown in Figure 1a). Figure 1b depicts the mild and severe children patients over the proposed two-feature based clinical route. As a result, we have extracted merely two features, i.e., Direct Bilirubin (DBIL) and alaninetransaminase (ALT), by which 8 critically ill pediatric cases can be precisely identified from other 97 mild patients."
+        ],
+        "Discussion": [
+            "Due to the scantiness of clinical data from confirmed COVID-19 children cases, especially for severe ones, it is an urgent yet challenging",
+            "mission to promptly distinguish the severe ones from the mild cases for early diagnosis and intervention. To this end, with the assistance of machine learning methods, we identified that DBIL and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases. Although the increase of DBIL and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "The study was limited to a small number of patients from a single center in Wuhan. Further studies from multiple centers in a larger cohort would be beneficial to the validation of the proposed route as well as understanding of the disease.",
+            "Reference 1. Paules CI, Marston HD, Fauci AS.",
+            "Coronavirus infections more than just the common cold. JAMA, doi:10.1001/jama. 2020.0757 2. Wei M, Yuan J, Liu Y, Fu T, Yu X, Zhang Z-J, Novel Coronavirus Infection in",
+            "China.",
+            "JAMA, doi:10.1001/jama.2020.2131.",
+            "3. Chen N, Zhou M, Dong X., et al., Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China:",
+            "4. Yan L, Zhang H-T, Xiao Y, et al, Prediction of survival for severe Covid-19 patients with three clinical features: development of a machine learning-based prognostic model with clinical data in",
+            "Wuhan, medRxiv, doi: 10.1101/2020.02.27.20028027.",
+            "5. Wang D, Hu B, Hu C, et al Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in",
+            "6. Guan WJ, Ni ZY, Hu Y, et al Clinical characteristics of 2019 novel coronavirus infection in China. New England Journal of",
+            "Medicine, doi: 10.1056/NEJMoa2002032."
+        ],
+        "Author Contributions": [
+            "H. Yu designed the clinical study; Y. Yuan conceptualized the idea; H. Yu, J. Shao, H.-T. Zhang and Y. Yuan collected and statistically analyzed the data; H. Yu, H.-T. Zhang and Y.",
+            "Yuan wrote the letter; H. Yu carried out the clinical laboratory inspection; Y. Yuan and Y. Guo discovered the clinical features and routes.",
+            "Conflict of Interest Disclosures: None reported."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "infected children",
+            "number": 105,
+            "context": "Severity detection is challenging for children since most of children patients have mild symptoms no matter they are moderately or critically ill therein. <mark class=\"stats\">For this retrospective study, we identified 105 infected children admitted to Wuhan    Children\u2019s<br/><br/>Hospital, the sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020.<br/><br/>The epidemiological, clinical laboratory, and outcome data were extracted from the medical records of these patients</mark>. The study was approved by Wuhan Children\u2019s Hospital Ethics    Committee.<br/><br/>Throat-swab, anal-swab or urine specimens were taken at admission for real-time RT-PCR, which was performed by Wuhan Huada Gene Biology"
+        },
+        {
+            "participant": "infected children",
+            "number": 105,
+            "context": "The study was approved by Wuhan Children\u2019s Hospital Ethics    Committee.<br/><br/>Throat-swab, anal-swab or urine specimens were taken at admission for real-time RT-PCR, which was performed by Wuhan Huada Gene Biology. <mark class=\"stats\">Symptoms on admission were collected together with laboratory results, chest radiography and CT findings, treatment received for COVID-19 and clinical outcomes.<br/><br/>Severe patients are generally manually detected according to the guideline from National Health Commission, China, using clinical symptoms including shortness of breath, assisted respiration, apnea, cyanosis, dehydration, and progressive increase of lactate, etc.For this retrospective study, we identified 105 infected children admitted to Wuhan</mark>. Hospital, the sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020"
+        },
+        {
+            "participant": "infected children",
+            "number": 105,
+            "context": "Severity detection is challenging for children since most of children patients have mild symptoms [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] no matter they are moderately or critically ill therein. <mark class=\"stats\">For this retrospective study, we identified 105 infected children admitted to Wuhan</mark>. Hospital, the sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020"
+        },
+        {
+            "participant": "children aged 1-16",
+            "number": 105,
+            "context": "We picked the classifier with less incomplete measurements for all the patients, when two classifiers with the same number of features performed the same. <mark class=\"stats\">Results 105 children aged 1-16, including 64 males and 41 females, were infected with COVID-19, of which 8 were critically ill</mark>. The youngest was 1 day after birth, and the oldest was 15year-old"
+        },
+        {
+            "participant": "critically ill pediatric cases",
+            "number": 8,
+            "context": "Figure 1b depicts the mild and severe children patients over the proposed two-feature based clinical route. <mark class=\"stats\">As a result, we have extracted merely two features, i.e., Direct Bilirubin (DBIL) and alaninetransaminase (ALT), by which 8 critically ill pediatric cases can be precisely identified from other 97 mild patients</mark>. Discussion Due to the scantiness of clinical data from confirmed COVID-19 children cases, especially for severe ones, it is an urgent yet challenging medRxiv preprint doi: https://doi.org/10.1101/2020.03.09.20032219"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "clinical feature",
+        "coronavirus",
+        "severity detection",
+        "infected pediatric",
+        "clinical route",
+        "pediatric case",
+        "previous study",
+        "child patient",
+        "pneumonia",
+        "worldwide health",
+        "adult case",
+        "Direct Bilirubin",
+        "clinical characteristic",
+        "health concern",
+        "little attention",
+        "novel coronavirus",
+        "severe one",
+        "COVID-19",
+        "infected infant"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.1590909090909091,
+        "clinical route": 0.13636363636363635,
+        "clinical feature": 0.09090909090909091,
+        "pediatric case": 0.09090909090909091,
+        "Direct Bilirubin": 0.09090909090909091,
+        "coronavirus": 0.06818181818181818,
+        "novel coronavirus": 0.06818181818181818,
+        "pneumonia": 0.045454545454545456,
+        "severe one": 0.045454545454545456,
+        "severity detection": 0.022727272727272728,
+        "infected pediatric": 0.022727272727272728,
+        "previous study": 0.022727272727272728,
+        "worldwide health": 0.022727272727272728,
+        "adult case": 0.022727272727272728,
+        "clinical characteristic": 0.022727272727272728,
+        "health concern": 0.022727272727272728,
+        "little attention": 0.022727272727272728,
+        "infected infant": 0.022727272727272728,
+        "child patient": 0.0
+    },
+    "species": [],
+    "summary": [
+        "Severity detection is challenging for children since most of children patients have mild symptoms [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] no matter they are moderately or critically ill therein.",
+        "The authors identified 105 infected children admitted to Wuhan",
+        "The sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020.",
+        "The epidemiological, clinical laboratory, and outcome data were extracted from the medical records of these patients.",
+        "Symptoms on admission were collected together with laboratory results, chest radiography and CT findings, treatment received for COVID-19 and clinical outcomes.",
+        "Severe patients are generally manually detected according to the guideline from National Health Commission, China, using clinical symptoms including shortness of breath, assisted respiration, apnea, cyanosis, dehydration, and progressive increase of lactate, etc.",
+        "The authors started from one feature and increased the number of features in the clinical route, until the F1-score converges.",
+        "The authors picked the classifier with less incomplete measurements for all the patients, when two classifiers with the same number of features performed the same.",
+        "Results 105 children aged 1-16, including 64 males and 41 females, were infected with COVID-19, of which 8 were critically ill.",
+        "Children over 6-year-old have the highest infection rate (60.95%).",
+        "Based on the current available clinical data, the authors discovered a clinical route that can achieve 100% F1 score.",
+        "Figure 1b depicts the mild and severe children patients over the proposed two-feature based clinical route.",
+        "The authors have extracted merely two features, i.e., Direct Bilirubin (DBIL) and alaninetransaminase (ALT), by which 8 critically ill pediatric cases can be precisely identified from other 97 mild patients.",
+        "Discussion Due to the scantiness of clinical data from confirmed COVID-19 children cases, especially for severe ones, it is an urgent yet challenging medRxiv preprint doi: https://doi.org/10.1101/2020.03.09.20032219.",
+        "With the assistance of machine learning methods, the authors identified that DBIL and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases.",
+        "The increase of DBIL and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+        "The study was limited to a small number of patients from a single center in Wuhan."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Severity detection is challenging for children since most of children patients have mild symptoms [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] no matter they are moderately or critically ill therein.",
+            "The authors identified 105 infected children admitted to Wuhan",
+            "The sole designated hospital in Wuhan for COVID-19 children patients, from Feb. 1 to Mar. 3, 2020."
+        ],
+        "Results": [
+            "The epidemiological, clinical laboratory, and outcome data were extracted from the medical records of these patients.",
+            "Symptoms on admission were collected together with laboratory results, chest radiography and CT findings, treatment received for COVID-19 and clinical outcomes.",
+            "Severe patients are generally manually detected according to the guideline from National Health Commission, China, using clinical symptoms including shortness of breath, assisted respiration, apnea, cyanosis, dehydration, and progressive increase of lactate, etc.",
+            "The authors started from one feature and increased the number of features in the clinical route, until the F1-score converges.",
+            "The authors picked the classifier with less incomplete measurements for all the patients, when two classifiers with the same number of features performed the same.",
+            "Results 105 children aged 1-16, including 64 males and 41 females, were infected with COVID-19, of which 8 were critically ill.",
+            "Children over 6-year-old have the highest infection rate (60.95%).",
+            "Based on the current available clinical data, the authors discovered a clinical route that can achieve 100% F1 score.",
+            "Figure 1b depicts the mild and severe children patients over the proposed two-feature based clinical route.",
+            "The authors have extracted merely two features, i.e., Direct Bilirubin (DBIL) and alaninetransaminase (ALT), by which 8 critically ill pediatric cases can be precisely identified from other 97 mild patients.",
+            "Discussion Due to the scantiness of clinical data from confirmed COVID-19 children cases, especially for severe ones, it is an urgent yet challenging medRxiv preprint doi: https://doi.org/10.1101/2020.03.09.20032219."
+        ],
+        "Conclusion": [
+            "With the assistance of machine learning methods, the authors identified that DBIL and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases.",
+            "The increase of DBIL and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "The study was limited to a small number of patients from a single center in Wuhan."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "3",
+            "alt_id": "Chen_et+al_2020_a",
+            "entry": "3. Chen N, Zhou M, Dong X., et al., Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet, 395: 507- 513, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%20N%20Zhou%20M%20Dong%20X%20et%20al%20Epidemiological%20and%20clinical%20characteristics%20of%2099%20cases%20of%202019%20novel%20coronavirus%20pneumonia%20in%20Wuhan%20China%20a%20descriptive%20study%20The%20Lancet%20395%20507%20513%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%20N%20Zhou%20M%20Dong%20X%20et%20al%20Epidemiological%20and%20clinical%20characteristics%20of%2099%20cases%20of%202019%20novel%20coronavirus%20pneumonia%20in%20Wuhan%20China%20a%20descriptive%20study%20The%20Lancet%20395%20507%20513%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%20N%20Zhou%20M%20Dong%20X%20et%20al%20Epidemiological%20and%20clinical%20characteristics%20of%2099%20cases%20of%202019%20novel%20coronavirus%20pneumonia%20in%20Wuhan%20China%20a%20descriptive%20study%20The%20Lancet%20395%20507%20513%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Wang_et+al_2019_a",
+            "entry": "5. Wang D, Hu B, Hu C, et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20Hu%20B%20Hu%20C%20et%20al%20Clinical%20characteristics%20of%20138%20hospitalized%20patients%20with%202019%20novel%20coronavirusinfected%20pneumonia%20in"
+        },
+        {
+            "id": "6",
+            "alt_id": "Guan_et+al_2019_a",
+            "entry": "6. Guan WJ, Ni ZY, Hu Y, et al. Clinical characteristics of 2019 novel coronavirus infection in China. New England Journal of",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guan%20WJ%20Ni%20ZY%20Hu%20Y%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20New%20England%20Journal%20of",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guan%20WJ%20Ni%20ZY%20Hu%20Y%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20New%20England%20Journal%20of",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guan%20WJ%20Ni%20ZY%20Hu%20Y%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20New%20England%20Journal%20of"
+        }
+    ],
+    "facts": [
+        "little attention has been paid to the infected pediatric cases",
+        "Severity detection is challenging for children",
+        "105 infected children admitted to Wuhan Children's",
+        "outcome data were extracted from the medical records of these patients",
+        "The study was approved by Wuhan Children's Hospital Ethics Committee",
+        "anal-swab or urine specimens were taken at admission for real-time RT-PCR",
+        "which was performed by Wuhan Huada Gene Biology",
+        "Severe patients are generally manually detected according to the guideline from National Health Commission",
+        "the children lived in Wuhan",
+        "yet challenging mission to promptly distinguish the severe ones from the mild cases for early diagnosis and intervention",
+        "able to serve as a combination index to screen",
+        "their combination is revealed as a precise indicator for the severity",
+        "which is quite different from the discovered clinical route for adult",
+        "The study was limited to a small number of patients",
+        "Further studies from multiple centers in a larger cohort would be beneficial to the validation of the proposed route",
+        "105 infected children admitted to Wuhan"
+    ],
+    "claims": [
+        "For this retrospective study, we identified 105 infected children admitted to Wuhan",
+        "We used standard F1-score [4] to evaluate the performance of the classifier",
+        "Based on the current available clinical data, we discovered a clinical route that can achieve 100% F1 score (shown in Figure 1a)",
+        "To this end, with the assistance of machine learning methods, we identified that DBIL and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases"
+    ],
+    "findings": [
+        "We used standard F1-score [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] to evaluate the performance of the classifier",
+        "Based on the current available clinical data, we discovered a clinical route that can achieve 100% F1 score (shown in Figure 1a)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Severity detection is challenging for children since most of children patients have mild symptoms [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] no matter they are moderately or critically ill therein",
+        "Based on the current available clinical data, we discovered a clinical route that can achieve 100% F1 score",
+        "With the assistance of machine learning methods, we identified that Direct Bilirubin and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases",
+        "The increase of Direct Bilirubin and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+    ],
+    "top_statements": [
+        "Severity detection is challenging for children since most of children patients have mild symptoms [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] no matter they are moderately or critically ill therein",
+        "Based on the current available clinical data, we discovered a clinical route that can achieve 100% F1 score",
+        "With the assistance of machine learning methods, we identified that Direct Bilirubin and ALT, surfacing from over 300 clinical features, were able to serve as a combination index to screen out all the critically ill cases",
+        "The increase of Direct Bilirubin and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+    ],
+    "headline": "The increase of Direct Bilirubin and ALT has been reported to reflect tissue destruction or injury, for the first time, their combination is revealed as a precise indicator for the severity of COVID-19 pediatric cases, which is quite different from the discovered clinical route for adult",
+    "contexts": [],
+    "abbreviations": {
+        "DBIL": "Direct Bilirubin"
+    }
+}

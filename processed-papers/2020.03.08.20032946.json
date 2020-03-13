@@ -1,0 +1,542 @@
+{
+    "filename": "2020.03.08.20032946.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 939613,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.08.20032946",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/12/2020.03.08.20032946.full.pdf"
+        },
+        "title": "Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing",
+        "date": 2020,
+        "author": "Luca Ferretti, Chris Wymant, Michelle Kendall, Lele Zhao, Anel Nurtay, David G Bonsall, Christophe Fraser",
+        "affiliations": [
+            "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK",
+            "Oxford University NHS Trust, University of Oxford, UK",
+            "Wellcome Centre for Human Genetics, University of Oxford, UK"
+        ],
+        "abstract": "Mobile phone apps implementing algorithmic contact tracing can speed up the process of tracing newly diagnosed individuals, spreading information instantaneously back through a past contact network to inform them that they are at risk of being infected, and thus allow them to take appropriate social distancing and testing measures. The aim of non-pharmaceutical infection prevention is to move a population towards herd protection, a state where a population maintains R\u200b0&lt;[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], thus making it impossible for a pathogen to cause an epidemic. Here, we address epidemiological issues that affect the feasibility of an algorithmic approach to instantaneous contact tracing; ethical and implementation issues are addressed separately. First we quantify the parameters of COVID-19 in a framework that is consistent with the renewal equation formulation of epidemic spread. Second, we use an analytical solution to application of first-degree contact tracing in the renewal equation model to explore combinations of efficacy that can induce herd protection (R\u200b0&lt;[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]). With the emergence of the novel viral pathogen SARS-CoV-2, of clear potential for a global pandemic with high fatality rates and incapacitated health systems, the question of prevention has critical priority. We come to the conclusion that isolating symptomatic cases and tracing their contacts in a classical manner is not sufficiently fast to stop the spread of the epidemic and needs to be accompanied by measures of social distancing that are disruptive to a wide number of people. We show that first-degree instantaneous contact tracing, informing users when they can move safely or when to seek medical help and avoid vulnerable individuals, has the potential to stop the spread of the epidemic if used by a sufficiently large number of people with reasonable fidelity.",
+        "references": "@article{li2005a,\n  author = {Li, Y. and Huang, X. and Yu, I.T.S. and Wong, T.W. and Qian, H.},\n  title = {Role of air distribution in SARS transmission during the largest nosocomial outbreak in Hong Kong},\n  journal = {Indoor Air},\n  volume = {15},\n  date = {2005},\n  pages = {83\u201395},\n  language = {}\n}\n@article{otter2016a,\n  author = {Otter, J.A. and Donskey, C. and Yezli, S. and Douthwaite, S. and Goldenberg, S.D. and Weber, D.J.},\n  title = {Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination},\n  journal = {J. Hosp. Infect},\n  volume = {92},\n  pages = {235\u2013250},\n  date = {2016},\n  language = {}\n}\n@article{fraser2004a,\n  author = {Fraser, C. and Riley, S. and Anderson, R.M. and Ferguson, N.M.},\n  title = {Factors that make an infectious disease outbreak controllable},\n  journal = {Proc. Natl. Acad. Sci. U. S. A},\n  volume = {101},\n  pages = {6146\u20136151},\n  date = {2004},\n  language = {}\n}\n@article{peak2017a,\n  author = {Peak, C.M. and Childs, L.M. and Grad, Y.H. and Buckee, C.O.},\n  title = {Comparing nonpharmaceutical interventions for containing emerging epidemics},\n  journal = {Proceedings of the National Academy of Sciences},\n  volume = {114},\n  date = {2017},\n  pages = {4023\u20134028},\n  language = {}\n}\n@incollection{hellewell-a,\n  author = {Hellewell, J. and Abbott, S. and Gimma, A. and Bosse, N.I. and Jarvis, C.I. and Russell, T.W. and Munday, J.D. and Kucharski, A.J. and Edmunds, W.J.},\n  title = {Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group},\n  editor = {Funk, S. and Eggo, R.M.},\n  publisher = {Lancet Glob Health(2020},\n  doi = {doi: 10.1016/S2214-109X(20)30074-7},\n  source = {Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts},\n  language = {}\n}\n@article{tong2020a,\n  author = {Tong, Z.-D. and Tang, A. and Li, K.-F. and Li, P. and Wang, H.-L. and Yi, J.-P. and Zhang, Y.-L. and Yan, J.-B.},\n  title = {Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020},\n  journal = {Emerg. Infect. Dis},\n  volume = {26},\n  date = {2020},\n  doi = {doi: 10.3201/eid2605.200198},\n  language = {}\n}\n@book{bai-a,\n  author = {Bai, Y. and Yao, L. and Wei, T. and Tian, F. and Jin, D.-Y. and Chen, L. and Wang, M.},\n  title = {Presumed Asymptomatic Carrier Transmission},\n  publisher = {of COVID-19. JAMA(2020},\n  doi = {doi: 10.1001/jama.2020.2565},\n  language = {}\n}\n@book{lauer-a,\n  author = {Lauer, S.A. and Grantz, K.H. and Bi, Q. and Jones, F.K. and Zheng, Q. and Meredith, H. and Azman, A.S. and Reich, N.G. and Lessler, J.},\n  title = {The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application},\n  publisher = {medRxiv(2020},\n  doi = {doi: 10.1101/2020.02.02.20020016},\n  language = {}\n}\n@incollection{nishiura2019a,\n  author = {Nishiura, H. and Linton, N.M. and Akhmetzhanov, A.R.},\n  title = {Serial interval of novel coronavirus},\n  date = {2019},\n  doi = {doi: 10.1101/2020.02.03.20019497},\n  source = {infections},\n  language = {}\n}\n@article{grassly2008a,\n  author = {Grassly, N.C. and Fraser, C.},\n  title = {Mathematical models of infectious disease transmission},\n  journal = {Nature Reviews Microbiology},\n  volume = {6},\n  date = {2008},\n  pages = {477\u2013487},\n  language = {}\n}\n@article{kampf2020a,\n  author = {Kampf, G. and Todt, D. and Pfaender, S. and Steinmann, E.},\n  title = {Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents},\n  journal = {Journal of Hospital Infection},\n  volume = {104},\n  date = {2020},\n  pages = {246\u2013251},\n  language = {}\n}\n@misc{dorigatti-a,\n  author = {Dorigatti, I. and Okell, L. and Cori, A. and Imai, N. and Baguelin, M. and Bhatia, S. and Boonyasiri, A. and Cucunub\u00e1, Z. and Cuomo-Dannenburg, G. and FitzJohn, R. and Fu, H. and Gaythorpe, K. and Hamlet, A. and Hinsley, W. and Hong, N. and Kwun, M. and Laydon, D. and Nedjati-Gilani, G. and Riley, S. and van Elsland, S. and Volz, E. and Wang, H. and Wang, R. and Walters, C. and Xi, X. and Donnelly, C. and Ghani, A. and Ferguson, N.},\n  title = {Report 4: Severity of 2019-novel coronavirus (nCoV). online report(available},\n  url = {https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-Coll},\n  language = {}\n}\n@article{zhao2019a,\n  author = {Zhao, S. and Lin, Q. and Ran, J. and Musa, S.S. and Yang, G. and Wang, W. and Lou, Y. and Gao, D. and Yang, L. and He, D. and Wang, M.H.},\n  title = {Preliminary estimation of the basic reproduction number of novel coronavirus},\n  date = {2019},\n  journal = {Int. J. Infect. Dis},\n  volume = {92},\n  pages = {214\u2013217},\n  source = {in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak},\n  language = {}\n}\n@article{zhou2020a,\n  author = {Zhou, T. and Liu, Q. and Yang, Z. and Liao, J. and Yang, K. and Bai, W. and Lu, X. and Zhang, W.},\n  title = {Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV},\n  journal = {J. Evid. Based Med},\n  volume = {13},\n  pages = {3\u20137},\n  date = {2020},\n  language = {}\n}\n@article{leung2004a,\n  author = {Leung, G.M. and Chung, P.-H. and Tsang, T. and Lim, W. and Chan, S.K.K. and Chau, P. and Donnelly, C.A. and Ghani, A.C. and Fraser, C. and Riley, S. and Ferguson, N.M. and Anderson, R.M. and Law, Y.-L. and Mok, T. and Ng, T. and Fu, A. and Leung, P.-Y. and Peiris, J.S.M. and Lam, T.-H. and Hedley, A.J.},\n  title = {SARS-CoV antibody prevalence in all Hong Kong patient contacts},\n  journal = {Emerg. Infect. Dis},\n  volume = {10},\n  pages = {1653\u20131656},\n  date = {2004},\n  language = {}\n}\n@misc{kam-a,\n  author = {Kam, K.-Q. and Yung, C.F. and Cui, L. and Pin, R.Lin Tzer and Mak, T.M. and Maiwald, M. and Li, J. and Chong, C.Y. and Nadua, K. and Tan, N.W.H. and Thoon, K.C.},\n  title = {A Well Infant with Coronavirus Disease 2019},\n  unknown = {COVID-19) with},\n  language = {}\n}\n@misc{klinkenberg2006a,\n  author = {Klinkenberg, D. and Fraser, C. and Heesterbeek, H.},\n  title = {The Effectiveness of Contact Tracing in Emerging Epidemics. PLoS ONE},\n  date = {2006},\n  pages = {12},\n  language = {}\n}\n@article{phan2020a,\n  author = {Phan, L.T. and Nguyen, T.V. and Luong, Q.C. and Nguyen, T.V. and Nguyen, H.T. and Le, H.Q. and Nguyen, T.T. and Cao, T.M. and Pham, Q.D.},\n  title = {Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam},\n  journal = {N. Engl. J. Med},\n  volume = {382},\n  pages = {872\u2013874},\n  date = {2020},\n  language = {}\n}\n@incollection{ki2019a,\n  author = {Ki, M.},\n  title = {Task Force for 2019-nCoV, Epidemiologic characteristics of early cases with 2019 novel coronavirus},\n  date = {2019},\n  publisher = {Epidemiology and Health(2020},\n  doi = {doi: 10.4178/epih.e2020007},\n  source = {disease in Republic of Korea},\n  language = {}\n}\n@book{rothe-a,\n  author = {Rothe, C. and Schunk, M. and Sothmann, P. and Bretzel, G. and Froeschl, G. and Wallrauch, C. and Zimmer, T. and Thiel, V. and Janke, C. and Guggemos, W. and Seilmaier, M. and Drosten, C. and Vollmar, P. and Zwirglmaier, K. and Zange, S. and W\u00f6lfel, R. and Hoelscher, M.},\n  title = {Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany},\n  publisher = {Journal of Medicine(2020},\n  doi = {doi: 10.1056/nejmc2001468},\n  language = {},\n  address = {New England}\n}\n",
+        "links": [
+            "http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020/356\u200b",
+            "https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysi",
+            "https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html?cid=FBcna",
+            "http://2019ncov.chinacdc.cn/2019-nCoV/",
+            "https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes"
+        ],
+        "emails": [
+            "christophe.fraser@bdi.ox.ac.uk"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Li, Y.\nAU  - Huang, X.\nAU  - Yu, I.T.S.\nAU  - Wong, T.W.\nAU  - Qian, H.\nTI  - Role of air distribution in SARS transmission during the largest nosocomial outbreak in Hong Kong\nT2  - Indoor Air\nVL  - 15\nPY  - 2005\nDA  - 2005\nSP  - 83\nEP  - 95\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Otter, J.A.\nAU  - Donskey, C.\nAU  - Yezli, S.\nAU  - Douthwaite, S.\nAU  - Goldenberg, S.D.\nAU  - Weber, D.J.\nTI  - Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination\nT2  - J. Hosp. Infect\nVL  - 92\nSP  - 235\nEP  - 250\nPY  - 2016\nDA  - 2016\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fraser, C.\nAU  - Riley, S.\nAU  - Anderson, R.M.\nAU  - Ferguson, N.M.\nTI  - Factors that make an infectious disease outbreak controllable\nT2  - Proc. Natl. Acad. Sci. U. S. A\nVL  - 101\nSP  - 6146\nEP  - 6151\nPY  - 2004\nDA  - 2004\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peak, C.M.\nAU  - Childs, L.M.\nAU  - Grad, Y.H.\nAU  - Buckee, C.O.\nTI  - Comparing nonpharmaceutical interventions for containing emerging epidemics\nT2  - Proceedings of the National Academy of Sciences\nVL  - 114\nPY  - 2017\nDA  - 2017\nSP  - 4023\nEP  - 4028\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Hellewell, J.\nAU  - Abbott, S.\nAU  - Gimma, A.\nAU  - Bosse, N.I.\nAU  - Jarvis, C.I.\nAU  - Russell, T.W.\nAU  - Munday, J.D.\nAU  - Kucharski, A.J.\nAU  - Edmunds, W.J.\nTI  - Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group\nA2  - Funk, S.\nA2  - Eggo, R.M.\nPB  - Lancet Glob Health(2020\nDO  - 10.1016/S2214-109X(20)30074-7\nT2  - Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tong, Z.-D.\nAU  - Tang, A.\nAU  - Li, K.-F.\nAU  - Li, P.\nAU  - Wang, H.-L.\nAU  - Yi, J.-P.\nAU  - Zhang, Y.-L.\nAU  - Yan, J.-B.\nTI  - Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020\nT2  - Emerg. Infect. Dis\nVL  - 26\nPY  - 2020\nDA  - 2020\nDO  - 10.3201/eid2605.200198\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Bai, Y.\nAU  - Yao, L.\nAU  - Wei, T.\nAU  - Tian, F.\nAU  - Jin, D.-Y.\nAU  - Chen, L.\nAU  - Wang, M.\nTI  - Presumed Asymptomatic Carrier Transmission\nPB  - of COVID-19. JAMA(2020\nDO  - 10.1001/jama.2020.2565\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Lauer, S.A.\nAU  - Grantz, K.H.\nAU  - Bi, Q.\nAU  - Jones, F.K.\nAU  - Zheng, Q.\nAU  - Meredith, H.\nAU  - Azman, A.S.\nAU  - Reich, N.G.\nAU  - Lessler, J.\nTI  - The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application\nPB  - medRxiv(2020\nDO  - 10.1101/2020.02.02.20020016\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Nishiura, H.\nAU  - Linton, N.M.\nAU  - Akhmetzhanov, A.R.\nTI  - Serial interval of novel coronavirus\nPY  - 2019\nDA  - 2019\nDO  - 10.1101/2020.02.03.20019497\nT2  - infections\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Grassly, N.C.\nAU  - Fraser, C.\nTI  - Mathematical models of infectious disease transmission\nT2  - Nature Reviews Microbiology\nVL  - 6\nPY  - 2008\nDA  - 2008\nSP  - 477\nEP  - 487\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kampf, G.\nAU  - Todt, D.\nAU  - Pfaender, S.\nAU  - Steinmann, E.\nTI  - Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents\nT2  - Journal of Hospital Infection\nVL  - 104\nPY  - 2020\nDA  - 2020\nSP  - 246\nEP  - 251\nLA  - \nER  - \n\nTY  - GEN\nAU  - Dorigatti, I.\nAU  - Okell, L.\nAU  - Cori, A.\nAU  - Imai, N.\nAU  - Baguelin, M.\nAU  - Bhatia, S.\nAU  - Boonyasiri, A.\nAU  - Cucunub\u00e1, Z.\nAU  - Cuomo-Dannenburg, G.\nAU  - FitzJohn, R.\nAU  - Fu, H.\nAU  - Gaythorpe, K.\nAU  - Hamlet, A.\nAU  - Hinsley, W.\nAU  - Hong, N.\nAU  - Kwun, M.\nAU  - Laydon, D.\nAU  - Nedjati-Gilani, G.\nAU  - Riley, S.\nAU  - van Elsland, S.\nAU  - Volz, E.\nAU  - Wang, H.\nAU  - Wang, R.\nAU  - Walters, C.\nAU  - Xi, X.\nAU  - Donnelly, C.\nAU  - Ghani, A.\nAU  - Ferguson, N.\nTI  - Report 4: Severity of 2019-novel coronavirus (nCoV). online report(available\nUR  - https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-Coll\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhao, S.\nAU  - Lin, Q.\nAU  - Ran, J.\nAU  - Musa, S.S.\nAU  - Yang, G.\nAU  - Wang, W.\nAU  - Lou, Y.\nAU  - Gao, D.\nAU  - Yang, L.\nAU  - He, D.\nAU  - Wang, M.H.\nTI  - Preliminary estimation of the basic reproduction number of novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Int. J. Infect. Dis\nVL  - 92\nSP  - 214\nEP  - 217\nT2  - in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, T.\nAU  - Liu, Q.\nAU  - Yang, Z.\nAU  - Liao, J.\nAU  - Yang, K.\nAU  - Bai, W.\nAU  - Lu, X.\nAU  - Zhang, W.\nTI  - Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV\nT2  - J. Evid. Based Med\nVL  - 13\nSP  - 3\nEP  - 7\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Leung, G.M.\nAU  - Chung, P.-H.\nAU  - Tsang, T.\nAU  - Lim, W.\nAU  - Chan, S.K.K.\nAU  - Chau, P.\nAU  - Donnelly, C.A.\nAU  - Ghani, A.C.\nAU  - Fraser, C.\nAU  - Riley, S.\nAU  - Ferguson, N.M.\nAU  - Anderson, R.M.\nAU  - Law, Y.-L.\nAU  - Mok, T.\nAU  - Ng, T.\nAU  - Fu, A.\nAU  - Leung, P.-Y.\nAU  - Peiris, J.S.M.\nAU  - Lam, T.-H.\nAU  - Hedley, A.J.\nTI  - SARS-CoV antibody prevalence in all Hong Kong patient contacts\nT2  - Emerg. Infect. Dis\nVL  - 10\nSP  - 1653\nEP  - 1656\nPY  - 2004\nDA  - 2004\nLA  - \nER  - \n\nTY  - GEN\nAU  - Kam, K.-Q.\nAU  - Yung, C.F.\nAU  - Cui, L.\nAU  - Pin, R.Lin Tzer\nAU  - Mak, T.M.\nAU  - Maiwald, M.\nAU  - Li, J.\nAU  - Chong, C.Y.\nAU  - Nadua, K.\nAU  - Tan, N.W.H.\nAU  - Thoon, K.C.\nTI  - A Well Infant with Coronavirus Disease 2019\nC1  - COVID-19) with\nLA  - \nER  - \n\nTY  - GEN\nAU  - Klinkenberg, D.\nAU  - Fraser, C.\nAU  - Heesterbeek, H.\nTI  - The Effectiveness of Contact Tracing in Emerging Epidemics. PLoS ONE\nPY  - 2006\nDA  - 2006\nSP  - 12\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Phan, L.T.\nAU  - Nguyen, T.V.\nAU  - Luong, Q.C.\nAU  - Nguyen, T.V.\nAU  - Nguyen, H.T.\nAU  - Le, H.Q.\nAU  - Nguyen, T.T.\nAU  - Cao, T.M.\nAU  - Pham, Q.D.\nTI  - Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam\nT2  - N. Engl. J. Med\nVL  - 382\nSP  - 872\nEP  - 874\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Ki, M.\nTI  - Task Force for 2019-nCoV, Epidemiologic characteristics of early cases with 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nPB  - Epidemiology and Health(2020\nDO  - 10.4178/epih.e2020007\nT2  - disease in Republic of Korea\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Rothe, C.\nAU  - Schunk, M.\nAU  - Sothmann, P.\nAU  - Bretzel, G.\nAU  - Froeschl, G.\nAU  - Wallrauch, C.\nAU  - Zimmer, T.\nAU  - Thiel, V.\nAU  - Janke, C.\nAU  - Guggemos, W.\nAU  - Seilmaier, M.\nAU  - Drosten, C.\nAU  - Vollmar, P.\nAU  - Zwirglmaier, K.\nAU  - Zange, S.\nAU  - W\u00f6lfel, R.\nAU  - Hoelscher, M.\nTI  - Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany\nPB  - Journal of Medicine(2020\nDO  - 10.1056/nejmc2001468\nLA  - \nCY  - New England\nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Parameters of the infectiousness model"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.08.20032946.full.xlsx"
+    },
+    "sections": {
+        "introduction": [
+            "The new viral pathogen SARS-CoV-2 emerged in late 2019, leading to exponential rise of new cases and causing tens of thousands of documented cases of COVID-19 disease to date. Human-to-human transmission was initially focused in the Hubei province of China, but has now seeded growing epidemics around the world. The virus is likely of bat origin, with a possible intermediate animal host, and most of the first documented cases were linked to environmental exposure in the Huanan Seafood Wholesale Market in early December 2019. The virus is sufficiently genetically similar to the 2003 SARS-CoV-1<br/><br/>virus that it is reasonable to expect some aspects of epidemiology to be similar, and then update these views as new data emerge. So far, new analyses indicate that SARS-CoV-2 is more infectious and less virulent than SARS-CoV-1, and could have greater epidemic potential due to greater difficulties in tracing mild or asymptomatic infections. No treatment is currently available, and while the development of a vaccine is proceeding as fast as possible, the need to test any candidates for safety in humans means that vaccines will not be available for several months at the earliest. The only tools that we currently have to stop the epidemic are those of classical epidemic control, like contact tracing, social distancing and quarantine. The aim of this paper is to explore the feasibility of achieving herd protection (R\u200b0\u200b<1) using isolation coupled to classical contact tracing by questionnaires and people versus algorithmic instantaneous contact tracing assisted by a phone app."
+        ],
+        "results": [
+            "Exponential doubling time, T\u200b2\u200b. We calculated the exponential growth rate of the epidemic, r, from the early stages of the epidemic in China, such that the effect of control measures discussed later will be relative to the early stages of an outbreak, exemplified by baseline contact patterns and environmental conditions in Hubei during that period. We note that this assumption is implicit in many estimates of R\u200b0\u200b. The epidemic doubling time T\u200b2\u200b, equal to loge(2) / r, was previously estimated as 7.4 days (95% confidence interval (CI) 4.2 to 14) from data on the first 425 cases in Wuhan (\u200b8\u200b), and independently as 7.2 days (95% credible interval 4.7 to 16.3) by phylodynamic analysis of 86 whole SARS-CoV-2 genomes (http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020/356\u200b). We analysed the former data source together with the China Centre for Disease Control counts of daily confirmed cases (http://2019ncov.chinacdc.cn/2019-nCoV/), visually identified two periods of consistent early exponential growth, and obtained a more precise combined estimate of T\u200b2\u200b = 5.0 days (95% CI 4.3 to 6.2). See Figure 1."
+        ],
+        "methods": [
+            "Generation time distribution. The distribution of generation times was inferred by Maximum Composite Likelihood (see Supplementary Information) from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms. Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table). The best fit among tested two-parameter distributions (lognormal, gamma, Weibull) was selected using the Akaike Information Criterion.<br/><br/>Probability of pre-symptomatic infection.The probability that infection occurred before onset of symptoms for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit for the generation time distribution (see Supplementary Information). This estimate assumes independence between generation time and incubation period, but takes into account the available information on period of exposure and onset of symptoms for each case."
+        ],
+        "acknowledgments": [
+            "We thank Will Probert, Lucie Abeler-D\u00f6rner, Andrei Akhmetzhanov, Alice Ledda, Ben Cowling and Gabriel Leung for helpful comments. This work was funded by the Li Ka Shing Foundation. The funder played no role in study conception or execution.<br/><br/>1. I. T. S. Yu, J. J. Y. Sung, The epidemiology of the outbreak of severe acute respiratory syndrome (SARS) in Hong Kong \u2013 what we do know and what we don\u2019t. Epidemiology and Infection.\u200b132 (2004), pp. 781\u2013786."
+        ],
+        "funding": [
+            "This work was funded by the Li Ka Shing Foundation"
+        ],
+        "data_availability": [
+            "https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysi"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [
+                "Supplementary Information"
+            ],
+            "supplementary_figure_references": [
+                "Supplementary Figure 5",
+                "Supplementary Figure 3.",
+                "Supplementary Figures 6-7",
+                "Supplementary Figure 8",
+                "Supplementary Figures 9",
+                "Supplementary Table"
+            ]
+        }
+    },
+    "structured_content": {
+        "Introduction": [
+            "The new viral pathogen SARS-CoV-2 emerged in late 2019, leading to exponential rise of new cases and causing tens of thousands of documented cases of COVID-19 disease to date. Human-to-human transmission was initially focused in the Hubei province of China, but has now seeded growing epidemics around the world. The virus is likely of bat origin, with a possible intermediate animal host, and most of the first documented cases were linked to environmental exposure in the Huanan Seafood Wholesale Market in early December 2019. The virus is sufficiently genetically similar to the 2003 SARS-CoV-1",
+            "virus that it is reasonable to expect some aspects of epidemiology to be similar, and then update these views as new data emerge. So far, new analyses indicate that SARS-CoV-2 is more infectious and less virulent than SARS-CoV-1, and could have greater epidemic potential due to greater difficulties in tracing mild or asymptomatic infections. No treatment is currently available, and while the development of a vaccine is proceeding as fast as possible, the need to test any candidates for safety in humans means that vaccines will not be available for several months at the earliest. The only tools that we currently have to stop the epidemic are those of classical epidemic control, like contact tracing, social distancing and quarantine. The aim of this paper is to explore the feasibility of achieving herd protection (R\u200b0\u200b<1) using isolation coupled to classical contact tracing by questionnaires and people versus algorithmic instantaneous contact tracing assisted by a phone app.",
+            "The biomechanics of transmission of betacoronaviruses are well understood in general terms: the virus can pass from one individual to another through exhaled droplets (\u200b1\u200b), aerosol (\u200b2\u200b), contamination of surfaces (\u200b3), and possibly through fecal-oral contamination (\u200b4\u200b). Rather than comparing transmission through these different physical routes, here we compare different transmission routes that are more closely aligned to their implications for prevention. Specifically we propose four categories. \u200b1. Symptomatic transmission: direct transmission from a symptomatic individual, through a contact that can be readily recalled by the recipient. \u200b2. Pre-symptomatic transmission: direct transmission from an individual that occurs before the source individual experiences noticeable symptoms. (Note that this definition may be context specific, for example based on whether it is the source or the recipient who is asked whether the symptoms were noticeable.) \u200b3. Asymptomatic transmission: direct transmission from individuals who never experience noticeable symptoms. This can only be established by follow-up, as single time-point observation cannot fully distinguish asymptomatic from pre-symptomatic individuals. \u200b4. Environmental transmission: transmission via contamination, and specifically in a way that would not typically be attributable to contact with the source in a contact survey (i.e. we exclude from this transmission pairs who were in extended close contact, but for whom in reality the infectious dose passed via the environment instead of more directly). These could be identified in an analysis of spatial movements. We acknowledge that boundaries between these categories may be blurred, but these broadly have different implications for prevention. These will be spelled out in future work on modelling different prevention approaches, and may be mapped to other modelling studies, some old and general (\u200b5\u200b)(\u200b6)and one more specific to COVID-19 (\u200b7\u200b).",
+            "Evidence exists that each of these routes of transmission is possible: symptomatic (\u200b8\u200b), pre-symptomatic (\u200b9\u200b); asymptomatic (\u200b10\u200b); and environmental (\u200b8\u200b). For prevention, the crucial information is the relative frequency of different routes of transmission: finite resources must be divided between different intervention strategies.",
+            "Li et al (\u200b8\u200b)presented self-reported data on exposure for the first 425 cases in Wuhan. Some of these reported visiting the Huanan Seafood Wholesale Market; the generalisability of transmission in that setting to other settings is highly uncertain, as this large-scale event seeded the epidemic in the absence of any knowledge about the disease. After closure of the Huanan Seafood Wholesale Market on January 1st, of 240 cases with no exposure to any wet market, 200 individuals (83%) reported no exposure to an",
+            "individual with respiratory symptoms. Inaccurate recall may explain some responses, but unlikely as much as 83% of them.",
+            "The situation in Singapore at first glance appears quite different. As of March 5th, 2020, there have been 117 cases, of which 25 were imported. By devoting considerable resources including police investigation, 75 of the 92 cases of local transmission have been traced back to their presumed exposure, either to a known case or to a location linked to spread (https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html?cid=FBcna). However, linking two cases generally includes the possibility that one infected the other pre-symptomatically and only later became symptomatic; furthermore, linking cases via a location generally includes the possibility of environmentally mediated transmission. Therefore the large fraction of traceabletransmission here does not contradict the large fraction without symptomatic exposure in Wuhan. A conservative reading of the Singapore data serves only as evidence against a large role of asymptomatic transmission.",
+            "The most accurate and robust quantification of the relative frequency of routes of transmission would be a well-designed prospective cohort study with detailed journal and phylogenetic investigations. However, the current global emergency requires timely estimates using imperfect data sources. We performed a detailed analysis of the timing of events in defined transmission pairs, derived the generation time distribution, and attributed a probability for each pair that transmission was pre-symptomatic. We also fit a mathematical model of infectiousness, through the four routes discussed above, over the course of infection. This allowed us to calculate the R\u200b0\u200b, estimate the proportion of transmission from different routes, and make predictions about whether contact tracing and isolation of known cases is sufficient to prevent a large-scale spread of the epidemic."
+        ],
+        "Results": [
+            "Exponential doubling time, T\u200b2\u200b. We calculated the exponential growth rate of the epidemic, r, from the early stages of the epidemic in China, such that the effect of control measures discussed later will be relative to the early stages of an outbreak, exemplified by baseline contact patterns and environmental conditions in Hubei during that period. We note that this assumption is implicit in many estimates of R\u200b0\u200b. The epidemic doubling time T\u200b2\u200b, equal to loge(2) / r, was previously estimated as 7.4 days (95% confidence interval (CI) 4.2 to 14) from data on the first 425 cases in Wuhan (\u200b8\u200b), and independently as 7.2 days (95% credible interval 4.7 to 16.3) by phylodynamic analysis of 86 whole SARS-CoV-2 genomes (http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020/356\u200b). We analysed the former data source together with the China Centre for Disease Control counts of daily confirmed cases (http://2019ncov.chinacdc.cn/2019-nCoV/), visually identified two periods of consistent early exponential growth, and obtained a more precise combined estimate of T\u200b2\u200b = 5.0 days (95% CI 4.3 to 6.2). See Figure 1.",
+            "Figure 1:daily counts from two sources. Numbers of people later reporting symptoms beginning that day, from the first 425 cases analysed by (\u200b8\u200b),are shown for those reporting exposure to a wet market (red circles) and those reporting no exposure to any wet market (blue triangles). Also shown are numbers of people confirmed as cases each day (green squares) and number of deaths each day (purple plus signs) from China Centre for Disease Control data. Five visually identified periods of exponential growth have the best-fit linear model shown with a coloured line and 95% confidence intervals in grey shading. Two of these fits (blue and first green) were merged into a single best estimate of the epidemic exponential growth rate r(grey box). Counts of zero are shown on the x axis (log(0) being undefined). Incubation period distribution. The incubation period is defined as the time between infection and onset of symptoms. It is estimated as the time between exposure and report of noticeable symptoms.We used the incubation period distribution calculated by (\u200b11\u200b). The distribution is lognormal with mean 5.5 days, median 5.2 days and standard deviation 2.1 days, and is included with our results in Figure 2. Generation time distribution. The generation time is defined for source-recipient transmission pairs as the time between the infection of the source and the infection of the recipient. Because time of infection is generally not known, the generation time is often approximated by the (clinical onset) serial interval, which is defined as the time between the onset of symptoms of the source and the onset of symptoms of the recipient. We did not take that approach here: we directly estimated the generation time distribution from 40 source-recipient pairs for whom direct transmission is suspected, and where time of onset of symptoms is known for both source and recipient. We combined dates of symptom onset with intervals of exposure for both source and recipient (when available) and the above distribution of incubation times, and inferred the distribution of generation times. The distribution is best described by a Weibull distribution with mean and median equal to 5.0 days and standard deviation of 1.9 days, shown in Figure 2. We also show the results of sensitivity analysis to different functional forms, and compare to two previously published serial interval distributions - those of (\u200b12)and (\u200b8\u200b). Our distribution is robust with respect to the choice of transmission events (Supplementary Figure 5). The distribution of serial intervals for these pairs is shown in Supplementary Figure 3.",
+            "Figure 2: our inferred generation time distributions, in black. Thicker lines denote higher support for the corresponding functional form, with the Weibull distribution being the best fit. For comparison we also include the serial interval distributions previously reported by (\u200b8)(in light blue) and (1\u200b 2\u200b)(in grey), and the incubation period distribution we used here from (\u200b11).",
+            "The proportion of transmissions from before symptoms develop. For each of the 40 transmission pairs we estimated the posterior probability that transmission was pre-symptomatic, i.e. occurred before the onset of symptoms in the infector. We used a Bayesian approach with an uninformative prior (transmission before or after symptoms equally likely). The 40 probabilities inferred are shown in Figure 3; the mean probability is 37% (95% CI: 27.5% - 45%), which can be interpreted as the fraction of pre-symptomatic transmission events out of pre-symptomatic plus symptomatic transmission events. This value does not depend significantly on the choice for the functional form of the distribution of generation times (Supplementary Figures 6-7), or on the choice of transmission events (Supplementary Figure 8).",
+            "Parameters with Bayesian priors informed by anecdotal reports or indirect evidence",
+            "0.1 infectiousness of asymptomatic individuals to infectiousness of symptomatic individuals",
+            "Box function (0,n) days, Prior for n = Gamma(shape = 4, rate =1) Mode = 3 Mean = 4 close contacts once detailed tracing is completed.",
+            "(\u200b14)- variety of values for many different surfaces.",
+            "Figure 4\u200b: the average infectiousness (rate of infecting others),  , as a function of the amount of time one has been infected,  . The contributions of four routes of transmission are shown in colours, stacked on top of one another, so that the total area of one colour is the average number of transmissions via that route over the whole course of infection. Values are rounded to one decimal place. The total area from all colours is the basic reproduction number R\u200b0\u200b. Stopping disease spread requires reduction of R\u200b0\u200b to less than 1: blocking transmission, from whatever combination of colours and values of   we can achieve, such that the total area is halved.",
+            "Uncertainty analysis for the mathematical model of infectiousness.By drawing input parameter sets from the uncertainties shown in Table 1, we quantified our uncertainty in R\u200b0\u200b and its four contributions. The resulting values are shown in Table 2 and their underlying distributions are shown in Figure 5.",
+            "Table 2\u200b: R\u200b0\u200b and its components.",
+            "Figure 5\u200b: the probability density for output parameters of the infectiousness model, from sampling the uncertainty distributions of the input parameters. The top panels show absolute reproduction numbers: the four contributors to R\u200b0\u200b (from pre-symptomatic, symptomatic, asymptomatic and environmental transmission respectively, with the bin at 1.8 containing overflow) and R\u200b0\u200b itself. The bottom panels show the fractions of R\u200b0\u200b that each contribution represents.",
+            "For comparison with our analysis of pre-symptomatic transmission just within the 40 transmission pairs, the estimate of RP/(RP+RS)obtained by this method is 0.55 (0.36 - 0.72).",
+            "We developed our mathematical model of infectiousness into a web application where users can test the effect of alternative parameter combinations: https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes",
+            "Interventions. Finally, we determined the combined impact of two interventions: (i) isolation of symptomatic individuals, and (ii) tracing the contacts of symptomatic cases and quarantining them. These interventions aim to stop the spread of the virus by reducing the number of transmissions from symptomatic individuals and from their contacts, while minimising the impact on the larger population. In practice, both these interventions are successful or possible only for a fraction of cases. The success rate of these interventions determines the long-term evolution of the epidemic. If the success rates are high enough, the combination of isolation and contact tracing/quarantining could bring R\u200b0\u200b below 1 and therefore effectively control the epidemic.",
+            "For classical contact tracing, results previously derived in (\u200b5\u200b)show that with any realistic implementation of contact tracing, epidemic control is not feasible. An algorithmic approach, embedded in a phone App or operating system, can make the contact tracing and notification instantaneous, and enables information to be spread to contacts whether recalled or not. This approach is mathematically solved analytically in Supplement Information for the case of algorithmic instantaneous contact tracing of first-degree (i.e. tracing and quarantining only contacts, not contacts of contacts).",
+            "The success rates of this isolation and instantaneous contact tracing in achieving herd protection from SARS-CoV-2 epidemic is shown in Figure 6 for different values of R\u200b0\u200b. The red line corresponds to a central estimate of R\u200b0\u200b=2; any successful intervention requires success rates above the red line. These values depend on the incubation period and generation time. We also estimated the growth rate of the epidemic as a function of the success rates of the interventions and of the value of R\u200b0\u200b prior to the interventions (Supplementary Figures 9 - 15).",
+            "The calculation shown in Figure 6 used our inference of the generation time interval, which is limited so far by the early availability of data on known transmission pairs with known timings. However the position of the epidemic control threshold (red line) should prove relatively robust to future data on the generation time interval, assuming that the estimates on the growth rate of the epidemic, r,do not increase. For example, shifts to shorter generation times would mean earlier intervention is required in each individual\u2019s infection, but for fixed rthis would also imply a smaller value of R\u200b0\u200b and therefore a smaller fractional reduction would be needed.",
+            "Inevitable delays in isolating individuals after they show symptoms reduce the effectiveness of the intervention, moving the boundary for epidemic control (the red line in Figure 6) out to larger values. The same is true of delays in quarantining contacts, however delays from confirming a case to finding their contacts are not inevitable. Specifically, this delay can be reduced to zero through the use of spatial information coupled to case detection, in the form of a simple app: see Discussion.",
+            "Figure 6\u200b: heat map plot showing the maximum possible R\u200b0\u200b that could be contained (by reduction to less than 1) for a pathogen with the same generation time distribution that we have inferred for SARS-CoV-2, as a function of the success rate of instant isolation of symptomatic cases (x axis) and the success rate of instant contact tracing (y axis). Contours of constant R\u200b0\u200b on this plot show the different combinations of the two success rates that would be able to control the epidemic for an R\u200b0\u200b of that value. The solid red line is such a contour for our central estimate of R\u200b0\u200b for SARS-CoV-2, with the associated CIs in dashed red lines; these therefore show our best estimate of the required efficacy of case isolation and contact tracing. Discussion In this study, we estimate key parameters of the epidemic and use an analytically solvable model of the exponential phase of SARS-CoV-2. Our results suggest that a large fraction of all transmissions occur before individuals develop symptoms. Isolating symptomatic cases and tracking their contacts through classical epidemiological methods is therefore likely to be too slow and resource-intensive to achieve epidemic control. We suggest that a simple algorithm for first degree instantaneous contact tracing in the form of a mobile phone app could dramatically reduce onwards transmission from contacts, to a level that is sufficient to reach herd protection and so stop the virus from spreading in a population.",
+            "Our estimate of R\u200b0\u200b is lower than most previous published estimates, for example (\u200b16)(\u200b17)(\u200b8), which have assumed SARS-like generation times; emerging evidence for shorter generation times for COVID-19 results in a smaller R\u200b0\u200b. This means a smaller fraction of transmissions need to be blocked for herd protection, but there is a smaller window of time for each infected individual to prevent their onward transmission.",
+            "We provide estimates of key quantities intended to help inform intervention strategies. We provide two approaches suggesting that between a third and a half of transmissions occur from pre-symptomatic individuals. Our infectiousness model suggests that the total contribution to R0 from pre-symptomatics is 0.9 (0.2 - 1.1). For SARS, the corresponding estimate was almost zero (\u200b5\u200b), immediately telling us that different containment strategies will be needed for COVID-19. While preparing this manuscript, results supporting a large role for pre-symptomatic submission were shared: Tindale et al found that serial intervals in Tianjin and Singapore were on average 2-3 days shorter than incubation periods (https://github.com/carolinecolijn/ClustersCOVID19/blob/master/COVID_19_Singapore_Tianjin_analysi sSUPP-joined.pdf), consistent with our estimate of a shorter generation time.",
+            "Cleaning and decontamination are being deployed to varying levels in different settings, and improved estimates would help inform this as a priority. For SARS, there were seemingly almost no asymptomatic infections (\u200b18\u200b), whereas asymptomatic infection has been widely reported for COVID-19, e.g. (\u200b10\u200b). We argue that the reports from Singapore imply that even if asymptomatic infections are common, onward transmission from this state is probably uncommon, since forensic reconstruction of the transmission networks has closed down most missing links. There is an important caveat to this: the Singapore outbreak to date is small, and has not implicated children. There is widespread speculation that children could be frequent asymptomatic carriers and potential sources of SARS-CoV-2 (\u200b19), a finding that is being urgently explored.",
+            "Our model shows that the epidemic is highly unlikely to be contained by solely isolating symptomatic individuals. Published models (\u200b5)(\u200b20\u200b)(\u200b6\u200b)(\u200b7)suggest that in practice manual contact tracing can only improve on this to a limited extent.",
+            "We have developed a web interface to explore the uncertainty in our modelling assumptions https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes. This will also serve as an ongoing resource as new data becomes available and as the epidemic evolves.",
+            "To control SARS-CoV-2 we need to reduce R\u200b0\u200b below 1; we do not need to stop all transmissions. Figure 4, and its interactive web-interface, show the preventative potential of targeting different routes of transmission and different stages of the infection. Blocking transmission from individuals at early stages of their infection is generally more challenging. Contact tracing is made more effective by responding rapidly to an individual\u2019s first signs of symptoms, by instantaneously tracking down contacts of confirmed cases, and by general preventative population measures such as enhanced hand and respiratory hygiene, decontamination, and social distancing.",
+            "Digital contact tracing and quarantining could play a critical role both in reducing these delays and increasing success rates. Further modelling is required to compare the number of people disrupted under different scenarios consistent with herd protection. We do not agree with the assessment that a pandemic is inevitable, and recommend urgent exploration of means to reverse the current phase of exponential spread."
+        ],
+        "Methods": [
+            "Generation time distribution. The distribution of generation times was inferred by Maximum Composite Likelihood (see Supplementary Information) from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms. Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table). The best fit among tested two-parameter distributions (lognormal, gamma, Weibull) was selected using the Akaike Information Criterion.",
+            "Probability of pre-symptomatic infection.The probability that infection occurred before onset of symptoms for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit for the generation time distribution (see Supplementary Information). This estimate assumes independence between generation time and incubation period, but takes into account the available information on period of exposure and onset of symptoms for each case.",
+            "Exponential growth rate. We identified the dates following consistent early exponential growth as December 28th - January 8th inclusive for Li et al.\u2019s dates of symptom onset for cases not linked with any wet market, and January 18th - 26th inclusive for the Chinese CDC dates of case confirmation, as illustrated with the blue and earliest green line in Figure 1. We fit a single linear model to log(case counts) from both of these periods, constraining both sets of counts to have the same gradient (but different intercept, due to the delay between onset of symptoms and case confirmation).",
+            "Infectiousness model. Our model for infectiousness  ( ) was solved first by fitting the shape of the pre-symptomatic + symptomatic contributions to our inferred generation time interval: these functions are proportional to each other when the transmission pairs analysed for the generation time distribution represent pre-symptomatic and symptomatic exposure in the proportion representative of overall epidemic spread. We make that assumption here. This assumption would be violated by biased selection of transmission pairs for sampling. For example if the infector being in a later, symptomatic stage of infection makes identification of the pair more likely, then a data set of identified pairs will be undersampled for pre-symptomatic exposure and will overestimate the typical generation time. The next step in solving the model was calculating the relative scaling constant of the environmental contribution to  ( ) to give the required RE/R\u200b0\u200b, and finally the overall scaling constant of  ( ) is determined to reproduce the observed exponential growth rate (see Supplementary Information).",
+            "Infectiousness model uncertainty.We drew 10,000 input parameter sets from the uncertainties shown in Table 2. For the data-driven parameters, these uncertainties are likelihoods, which can be interpreted as posteriors if one\u2019s prior is an improper uniform distribution; we fit lognormal distributions to the 95% CIs and central estimates in order to obtain the full distribution. For the other parameters, the uncertainty distributions are pure priors.",
+            "Impact of interventions.To calculate the impact of contact tracing and isolation, we followed the mathematical treatment of (\u200b5\u200b), explained in detail in the Supplementary Information. Specifically, we solved for the epidemic dynamics of the quantity Y(t,  ,  \u2019): the number of individuals at time t who were infected at a time t -   by individuals who were in turn infected at time t -  \u2019, subject to case isolation and contact tracing interventions. Both interventions are assumed to be immediate upon individuals showing symptoms, but both have efficacies that can vary continuously between 0 and 1."
+        ],
+        "Acknowledgments": [
+            "We thank Will Probert, Lucie Abeler-D\u00f6rner, Andrei Akhmetzhanov, Alice Ledda, Ben Cowling and Gabriel Leung for helpful comments. This work was funded by the Li Ka Shing Foundation. The funder played no role in study conception or execution.",
+            "1. I. T. S. Yu, J. J. Y. Sung, The epidemiology of the outbreak of severe acute respiratory syndrome (SARS) in Hong Kong \u2013 what we do know and what we don\u2019t. Epidemiology and Infection.\u200b132 (2004), pp. 781\u2013786.",
+            "2. Y. Li, X. Huang, I. T. S. Yu, T. W. Wong, H. Qian, Role of air distribution in SARS transmission during the largest nosocomial outbreak in Hong Kong. Indoor Air.\u200b15\u200b (2005), pp. 83\u201395.",
+            "3. J. A. Otter, C. Donskey, S. Yezli, S. Douthwaite, S. D. Goldenberg, D. J. Weber, Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination. J. Hosp. Infect.[92\u200b, 235\u2013250] (2016).",
+            "4. S. W. X. Ong, Y. K. Tan, P. Y. Chia, T. H. Lee, O. T. Ng, M. S. Y. Wong, K. Marimuthu, Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient. JAMA(2020), doi:\u200b10.1001/jama.2020.3227\u200b.",
+            "5. C. Fraser, S. Riley, R. M. Anderson, N. M. Ferguson, Factors that make an infectious disease outbreak controllable. Proc. Natl. Acad. Sci. U. S. A.\u200b101\u200b, 6146\u20136151 (2004).",
+            "6. C. M. Peak, L. M. Childs, Y. H. Grad, C. O. Buckee, Comparing nonpharmaceutical interventions for containing emerging epidemics. Proceedings of the National Academy of Sciences.[114\u200b] (2017), pp. 4023\u20134028.",
+            "7. J. Hellewell, S. Abbott, A. Gimma, N. I. Bosse, C. I. Jarvis, T. W. Russell, J. D. Munday, A. J. Kucharski, W. J. Edmunds, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, S. Funk, R. M. Eggo, Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. Lancet Glob Health(2020), doi:\u200b10.1016/S2214-109X(20)30074-7\u200b.",
+            "8. Q. Li, X. Guan, P. Wu, X. Wang, L. Zhou, Y. Tong, R. Ren, K. S. M. Leung, E. H. Y. Lau, J. Y.",
+            "Wong, X. Xing, N. Xiang, Y. Wu, C. Li, Q. Chen, D. Li, T. Liu, J. Zhao, M. Li, W. Tu, C. Chen, L. Jin, R. Yang, Q. Wang, S. Zhou, R. Wang, H. Liu, Y. Luo, Y. Liu, G. Shao, H. Li, Z. Tao, Y. Yang, Z. Deng, B. Liu, Z. Ma, Y. Zhang, G. Shi, T. T. Y. Lam, J. T. K. Wu, G. F. Gao, B. J. Cowling, B. Yang, G. M. Leung, Z. Feng, Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N. Engl. J. Med.(2020), doi:\u200b10.1056/NEJMoa2001316\u200b.",
+            "9. Z.-D. Tong, A. Tang, K.-F. Li, P. Li, H.-L. Wang, J.-P. Yi, Y.-L. Zhang, J.-B. Yan, Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020. Emerg. Infect. Dis. 26\u200b (2020), doi:\u200b10.3201/eid2605.200198\u200b.",
+            "10. Y. Bai, L. Yao, T. Wei, F. Tian, D.-Y. Jin, L. Chen, M. Wang, Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA(2020), doi:\u200b10.1001/jama.2020.2565.",
+            "11. S. A. Lauer, K. H. Grantz, Q. Bi, F. K. Jones, Q. Zheng, H. Meredith, A. S. Azman, N. G. Reich, J. Lessler, The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv(2020), doi:\u200b10.1101/2020.02.02.20020016\u200b.",
+            "12. H. Nishiura, N. M. Linton, A. R. Akhmetzhanov, Serial interval of novel coronavirus (2019-nCoV) infections, , doi:\u200b10.1101/2020.02.03.20019497\u200b.",
+            "13. N. C. Grassly, C. Fraser, Mathematical models of infectious disease transmission. Nature Reviews Microbiology.\u200b6\u200b (2008), pp. 477\u2013487.",
+            "14. G. Kampf, D. Todt, S. Pfaender, E. Steinmann, Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents. Journal of Hospital Infection. \u200b104\u200b (2020), pp. 246\u2013251.",
+            "15. I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri, Z. Cucunub\u00e1, G. Cuomo-Dannenburg, R. FitzJohn, H. Fu, K. Gaythorpe, A. Hamlet, W. Hinsley, N. Hong, M. Kwun, D. Laydon, G. Nedjati-Gilani, S. Riley, S. van Elsland, E. Volz, H. Wang, R. Wang, C. Walters, X. Xi, C. Donnelly, A. Ghani, N. Ferguson, Report 4: Severity of 2019-novel coronavirus (nCoV). online report(available at https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-Coll ege-2019-nCoV-severity-10-02-2020.pdf).",
+            "16. S. Zhao, Q. Lin, J. Ran, S. S. Musa, G. Yang, W. Wang, Y. Lou, D. Gao, L. Yang, D. He, M. H. Wang, Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int. J. Infect. Dis.[92\u200b, 214\u2013217] (2020).",
+            "17. T. Zhou, Q. Liu, Z. Yang, J. Liao, K. Yang, W. Bai, X. Lu, W. Zhang, Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV. J. Evid. Based Med.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>\u200b, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>\u2013<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] (2020).",
+            "18. G. M. Leung, P.-H. Chung, T. Tsang, W. Lim, S. K. K. Chan, P. Chau, C. A. Donnelly, A. C. Ghani, C. Fraser, S. Riley, N. M. Ferguson, R. M. Anderson, Y.-L. Law, T. Mok, T. Ng, A. Fu, P.-Y. Leung, J. S. M. Peiris, T.-H. Lam, A. J. Hedley, SARS-CoV antibody prevalence in all Hong Kong patient contacts. Emerg. Infect. Dis.\u200b10\u200b, 1653\u20131656 (2004).",
+            "19. K.-Q. Kam, C. F. Yung, L. Cui, R. Lin Tzer Pin, T. M. Mak, M. Maiwald, J. Li, C. Y. Chong, K. Nadua, N. W. H. Tan, K. C. Thoon, A Well Infant with Coronavirus Disease 2019 (COVID-19) with",
+            "High Viral Load. Clin. Infect. Dis.(2020), doi:\u200b10.1093/cid/ciaa201\u200b.",
+            "20. D. Klinkenberg, C. Fraser, H. Heesterbeek, The Effectiveness of Contact Tracing in Emerging Epidemics. PLoS ONE.\u200b1\u200b (2006), p. e12.",
+            "21. L. T. Phan, T. V. Nguyen, Q. C. Luong, T. V. Nguyen, H. T. Nguyen, H. Q. Le, T. T. Nguyen, T. M. Cao, Q. D. Pham, Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam. N. Engl. J. Med.[382\u200b, 872\u2013874] (2020).",
+            "22. M. Ki, Task Force for 2019-nCoV, Epidemiologic characteristics of early cases with 2019 novel coronavirus (2019-nCoV) disease in Republic of Korea. Epidemiology and Health(2020), , doi:\u200b10.4178/epih.e2020007\u200b.",
+            "23. C. Rothe, M. Schunk, P. Sothmann, G. Bretzel, G. Froeschl, C. Wallrauch, T. Zimmer, V. Thiel, C. Janke, W. Guggemos, M. Seilmaier, C. Drosten, P. Vollmar, K. Zwirglmaier, S. Zange, R. W\u00f6lfel, M. Hoelscher, Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. New England Journal of Medicine(2020), , doi:\u200b10.1056/nejmc2001468\u200b."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "transmission pairs with known dates of onset of symptoms",
+            "number": 40,
+            "context": "Generation time distribution. <mark class=\"stats\">The distribution of generation times was inferred by Maximum Composite Likelihood (see Supplementary Information) from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms</mark>. Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table)"
+        },
+        {
+            "participant": "transmission pairs",
+            "number": 40,
+            "context": "The distribution of generation times was inferred by Maximum Composite Likelihood (see Supplementary Information) from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms. <mark class=\"stats\">Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table)</mark>. The best fit among tested two-parameter distributions (lognormal, gamma, Weibull) was selected using the Akaike Information Criterion.<br/><br/>Probability of pre-symptomatic infection.The probability that infection occurred before onset of symptoms for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit for the generation time distribution (see Supplementary Information)"
+        },
+        {
+            "participant": "transmission pairs with known dates of onset of symptoms",
+            "number": 40,
+            "context": "This estimate assumes independence between generation time and incubation period, but takes into account the available information on period of exposure and onset of symptoms for each case.Generation time distribution. <mark class=\"stats\">The distribution of generation times was inferred by Maximum Composite Likelihood (see Supplementary Information) from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms</mark>. Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table)"
+        },
+        {
+            "participant": "transmission pairs",
+            "number": 40,
+            "context": "The distribution of generation times was inferred by Maximum Composite Likelihood (see Supplementary Information) from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms. <mark class=\"stats\">Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table)</mark>. The best fit among tested two-parameter distributions (lognormal, gamma, Weibull) was selected using the Akaike Information Criterion"
+        },
+        {
+            "participant": "cases",
+            "number": 425,
+            "context": "For prevention, the crucial information is the relative frequency of different routes of transmission: finite resources must be divided between different intervention strategies. <mark class=\"stats\">Li et al (\u200b8\u200b)presented self-reported data on exposure for the first 425 cases in Wuhan</mark>. Some of these reported visiting the Huanan Seafood Wholesale Market; the generalisability of transmission in that setting to other settings is highly uncertain, as this large-scale event seeded the epidemic in the absence of any knowledge about the disease"
+        },
+        {
+            "participant": "cases with no exposure to any wet market",
+            "number": 240,
+            "context": "Some of these reported visiting the Huanan Seafood Wholesale Market; the generalisability of transmission in that setting to other settings is highly uncertain, as this large-scale event seeded the epidemic in the absence of any knowledge about the disease. <mark class=\"stats\">After closure of the Huanan Seafood Wholesale Market on January 1st, of 240 cases with no exposure to any wet market, 200 individuals (83%) reported no exposure to an individual with respiratory symptoms</mark>. Inaccurate recall may explain some responses, but unlikely as much as 83% of them"
+        },
+        {
+            "participant": "cases",
+            "number": 117,
+            "context": "The situation in Singapore at first glance appears quite different. <mark class=\"stats\">As of March 5th, 2020, there have been 117 cases, of which 25 were imported</mark>. By devoting considerable resources including police investigation, 75 of the 92 cases of local transmission have been traced back to their presumed exposure, either to a known case or to a location linked to spread (https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html?cid=FBcna)"
+        },
+        {
+            "participant": "cases",
+            "number": 92,
+            "context": "As of March 5th, 2020, there have been 117 cases, of which 25 were imported. <mark class=\"stats\">By devoting considerable resources including police investigation, 75 of the 92 cases of local transmission have been traced back to their presumed exposure, either to a known case or to a location linked to spread (https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html?cid=FBcna)</mark>. However, linking two cases generally includes the possibility that one infected the other pre-symptomatically and only later became symptomatic; furthermore, linking cases via a location generally includes the possibility of environmentally mediated transmission"
+        },
+        {
+            "participant": "cases",
+            "number": 2,
+            "context": "By devoting considerable resources including police investigation, 75 of the 92 cases of local transmission have been traced back to their presumed exposure, either to a known case or to a location linked to spread (https://infographics.channelnewsasia.com/covid-19/coronavirus-singapore-clusters.html?cid=FBcna). <mark class=\"stats\">However, linking two cases generally includes the possibility that one infected the other pre-symptomatically and only later became symptomatic; furthermore, linking cases via a location generally includes the possibility of environmentally mediated transmission</mark>. Therefore the large fraction of traceabletransmission here does not contradict the large fraction without symptomatic exposure in Wuhan"
+        },
+        {
+            "participant": "cases",
+            "number": 425,
+            "context": "We note that this assumption is implicit in many estimates of R\u200b0\u200b. <mark class=\"stats\">The epidemic doubling time T\u200b2\u200b, equal to loge(2) / r, was previously estimated as 7.4 days (95% confidence interval (CI) 4.2 to 14) from data on the first 425 cases in Wuhan (\u200b8\u200b), and independently as 7.2 days (95% credible interval 4.7 to 16.3) by phylodynamic analysis of 86 whole SARS-CoV-2 genomes (http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020/356\u200b)</mark>. We analysed the former data source together with the China Centre for Disease Control counts of daily confirmed cases (http://2019ncov.chinacdc.cn/2019-nCoV/), visually identified two periods of consistent early exponential growth, and obtained a more precise combined estimate of T\u200b2\u200b = 5.0 days (95% CI 4.3 to 6.2)"
+        },
+        {
+            "participant": "cases",
+            "number": 425,
+            "context": "Figure 1:daily counts from two sources. <mark class=\"stats\">Numbers of people later reporting symptoms beginning that day, from the first 425 cases analysed by (\u200b8\u200b),are shown for those reporting exposure to a wet market (red circles) and those reporting no exposure to any wet market (blue triangles)</mark>. Also shown are numbers of people confirmed as cases each day (green squares) and number of deaths each day (purple plus signs) from China Centre for Disease Control data"
+        },
+        {
+            "participant": "source-recipient pairs",
+            "number": 40,
+            "context": "Because time of infection is generally not known, the generation time is often approximated by the (clinical onset) serial interval, which is defined as the time between the onset of symptoms of the source and the onset of symptoms of the recipient. <mark class=\"stats\">We did not take that approach here: we directly estimated the generation time distribution from 40 source-recipient pairs for whom direct transmission is suspected, and where time of onset of symptoms is known for both source and recipient</mark>. We combined dates of symptom onset with intervals of exposure for both source and recipient (when available) and the above distribution of incubation times, and inferred the distribution of generation times"
+        },
+        {
+            "participant": "transmission pairs",
+            "number": 40,
+            "context": "The proportion of transmissions from before symptoms develop. <mark class=\"stats\">For each of the 40 transmission pairs we estimated the posterior probability that transmission was pre-symptomatic, i.e. occurred before the onset of symptoms in the infector</mark>. We used a Bayesian approach with an uninformative prior (transmission before or after symptoms equally likely)"
+        },
+        {
+            "participant": "transmission pairs",
+            "number": 40,
+            "context": "This value does not depend significantly on the choice for the functional form of the distribution of generation times (Supplementary Figures 6-7), or on the choice of transmission events (Supplementary Figure 8). <mark class=\"stats\">Figure 3: distribution of the posterior probability of pre-symptomatic transmission among all 40 transmission pairs studied here</mark>. The red line indicates the mean probability of transmission occurring before the onset of symptoms in the infector"
+        },
+        {
+            "participant": "transmission pairs",
+            "number": 40,
+            "context": "The bottom panels show the fractions of R\u200b0\u200b that each contribution represents. <mark class=\"stats\">For comparison with our analysis of pre-symptomatic transmission just within the 40 transmission pairs, the estimate of RP/(RP+RS)obtained by this method is 0.55 (0.36 - 0.72)</mark>. We define   as the fraction of all transmissions that do not come from direct contact with a symptomatic individual: 1 \u2212 RS /R0"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Five visually identified periods of exponential growth have the best-fit linear model shown with a coloured line and 95% confidence intervals in grey shading</mark>",
+                "tests": [
+                    {
+                        "test": "linear model"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "social distancing",
+        "sars cov",
+        "coronavirus",
+        "instantaneous contact",
+        "viral pathogen sars cov",
+        "epidemics",
+        "basic reproduction",
+        "phone app",
+        "epidemic control",
+        "herd protection",
+        "human transmission",
+        "severe acute respiratory syndrome",
+        "renewal equation",
+        "novel coronavirus",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "severe acute respiratory syndrome": 0.27710843373493976,
+        "COVID-19": 0.13253012048192772,
+        "coronavirus": 0.10843373493975904,
+        "herd protection": 0.08433734939759036,
+        "instantaneous contact": 0.07228915662650602,
+        "epidemic control": 0.07228915662650602,
+        "novel coronavirus": 0.060240963855421686,
+        "social distancing": 0.04819277108433735,
+        "basic reproduction": 0.03614457831325301,
+        "phone app": 0.03614457831325301,
+        "renewal equation": 0.03614457831325301,
+        "epidemics": 0.024096385542168676,
+        "human transmission": 0.012048192771084338,
+        "sars cov": 0.0,
+        "viral pathogen sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "The new viral pathogen SARS-CoV-2 emerged in late 2019, leading to exponential rise of new cases and causing tens of thousands of documented cases of COVID-19 disease to date.",
+        "This allowed them to calculate the R\u200b0\u200b, estimate the proportion of transmission from different routes, and make predictions about whether contact tracing and isolation of known cases is sufficient to prevent a large-scale spread of the epidemic.",
+        "The value of observed during an exponentially growing epidemic will be distorted when the timing of the different contributions to transmission occur at different stages of the infection, due to over-representation of recently infected individuals.",
+        "The success rates of this isolation and instantaneous contact tracing in achieving herd protection from SARS-CoV-2 epidemic is shown in Figure 6 for different values of R\u200b0\u200b.",
+        "The calculation shown in Figure 6 used the inference of the generation time interval, which is limited so far by the early availability of data on known transmission pairs with known timings.",
+        "Shifts to shorter generation times would mean earlier intervention is required in each individual\u2019s infection, but for fixed rthis would imply a smaller value of R\u200b0\u200b and a smaller fractional reduction would be needed.",
+        "Figure 6\u200b: heat map plot showing the maximum possible R\u200b0\u200b that could be contained for a pathogen with the same generation time distribution that the authors have inferred for SARS-CoV-2, as a function of the success rate of instant isolation of symptomatic cases (x axis) and the success rate of instant contact tracing (y axis).",
+        "Results supporting a large role for pre-symptomatic submission were shared: Tindale et al found that serial intervals in Tianjin and Singapore were on average 2-3 days shorter than incubation periods, consistent with the estimate of a shorter generation time.",
+        "The distribution of generation times was inferred by Maximum Composite Likelihood from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms.",
+        "Probability of pre-symptomatic infection.The probability that infection occurred before onset of symptoms for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit for the generation time distribution.",
+        "The authors' model for infectiousness ( ) was solved first by fitting the shape of the pre-symptomatic + symptomatic contributions to the inferred generation time interval: these functions are proportional to each other when the transmission pairs analysed for the generation time distribution represent pre-symptomatic and symptomatic exposure in the proportion representative of overall epidemic spread."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The new viral pathogen SARS-CoV-2 emerged in late 2019, leading to exponential rise of new cases and causing tens of thousands of documented cases of COVID-19 disease to date.",
+            "This allowed them to calculate the R\u200b0\u200b, estimate the proportion of transmission from different routes, and make predictions about whether contact tracing and isolation of known cases is sufficient to prevent a large-scale spread of the epidemic."
+        ],
+        "Results": [
+            "The value of observed during an exponentially growing epidemic will be distorted when the timing of the different contributions to transmission occur at different stages of the infection, due to over-representation of recently infected individuals.",
+            "The success rates of this isolation and instantaneous contact tracing in achieving herd protection from SARS-CoV-2 epidemic is shown in Figure 6 for different values of R\u200b0\u200b.",
+            "The calculation shown in Figure 6 used the inference of the generation time interval, which is limited so far by the early availability of data on known transmission pairs with known timings.",
+            "Shifts to shorter generation times would mean earlier intervention is required in each individual\u2019s infection, but for fixed rthis would imply a smaller value of R\u200b0\u200b and a smaller fractional reduction would be needed.",
+            "Figure 6\u200b: heat map plot showing the maximum possible R\u200b0\u200b that could be contained for a pathogen with the same generation time distribution that the authors have inferred for SARS-CoV-2, as a function of the success rate of instant isolation of symptomatic cases (x axis) and the success rate of instant contact tracing (y axis).",
+            "Results supporting a large role for pre-symptomatic submission were shared: Tindale et al found that serial intervals in Tianjin and Singapore were on average 2-3 days shorter than incubation periods, consistent with the estimate of a shorter generation time.",
+            "The distribution of generation times was inferred by Maximum Composite Likelihood from serial intervals and exposure periods of 40 transmission pairs with known dates of onset of symptoms."
+        ],
+        "Conclusion": [
+            "Probability of pre-symptomatic infection.The probability that infection occurred before onset of symptoms for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit for the generation time distribution.",
+            "The authors' model for infectiousness ( ) was solved first by fitting the shape of the pre-symptomatic + symptomatic contributions to the inferred generation time interval: these functions are proportional to each other when the transmission pairs analysed for the generation time distribution represent pre-symptomatic and symptomatic exposure in the proportion representative of overall epidemic spread."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "2",
+            "alt_id": "Li_et+al_2005_a",
+            "entry": "2. Y. Li, X. Huang, I. T. S. Yu, T. W. Wong, H. Qian, Role of air distribution in SARS transmission during the largest nosocomial outbreak in Hong Kong. Indoor Air. 15 (2005), pp. 83\u201395.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Y.%20Huang%2C%20X.%20Yu%2C%20I.T.S.%20Wong%2C%20T.W.%20Role%20of%20air%20distribution%20in%20SARS%20transmission%20during%20the%20largest%20nosocomial%20outbreak%20in%20Hong%20Kong%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Y.%20Huang%2C%20X.%20Yu%2C%20I.T.S.%20Wong%2C%20T.W.%20Role%20of%20air%20distribution%20in%20SARS%20transmission%20during%20the%20largest%20nosocomial%20outbreak%20in%20Hong%20Kong%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Y.%20Huang%2C%20X.%20Yu%2C%20I.T.S.%20Wong%2C%20T.W.%20Role%20of%20air%20distribution%20in%20SARS%20transmission%20during%20the%20largest%20nosocomial%20outbreak%20in%20Hong%20Kong%202005"
+        },
+        {
+            "id": "3",
+            "alt_id": "Otter_et+al_2016_a",
+            "entry": "3. J. A. Otter, C. Donskey, S. Yezli, S. Douthwaite, S. D. Goldenberg, D. J. Weber, Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination. J. Hosp. Infect. 92, 235\u2013250 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Otter%2C%20J.A.%20Donskey%2C%20C.%20Yezli%2C%20S.%20Douthwaite%2C%20S.%20Transmission%20of%20SARS%20and%20MERS%20coronaviruses%20and%20influenza%20virus%20in%20healthcare%20settings%3A%20the%20possible%20role%20of%20dry%20surface%20contamination%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Otter%2C%20J.A.%20Donskey%2C%20C.%20Yezli%2C%20S.%20Douthwaite%2C%20S.%20Transmission%20of%20SARS%20and%20MERS%20coronaviruses%20and%20influenza%20virus%20in%20healthcare%20settings%3A%20the%20possible%20role%20of%20dry%20surface%20contamination%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Otter%2C%20J.A.%20Donskey%2C%20C.%20Yezli%2C%20S.%20Douthwaite%2C%20S.%20Transmission%20of%20SARS%20and%20MERS%20coronaviruses%20and%20influenza%20virus%20in%20healthcare%20settings%3A%20the%20possible%20role%20of%20dry%20surface%20contamination%202016"
+        },
+        {
+            "id": "5",
+            "alt_id": "Fraser_et+al_2004_a",
+            "entry": "5. C. Fraser, S. Riley, R. M. Anderson, N. M. Ferguson, Factors that make an infectious disease outbreak controllable. Proc. Natl. Acad. Sci. U. S. A. 101, 6146\u20136151 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004"
+        },
+        {
+            "id": "6",
+            "alt_id": "Peak_et+al_2017_a",
+            "entry": "6. C. M. Peak, L. M. Childs, Y. H. Grad, C. O. Buckee, Comparing nonpharmaceutical interventions for containing emerging epidemics. Proceedings of the National Academy of Sciences. 114 (2017), pp. 4023\u20134028.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Peak%2C%20C.M.%20Childs%2C%20L.M.%20Grad%2C%20Y.H.%20Buckee%2C%20C.O.%20Comparing%20nonpharmaceutical%20interventions%20for%20containing%20emerging%20epidemics%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Peak%2C%20C.M.%20Childs%2C%20L.M.%20Grad%2C%20Y.H.%20Buckee%2C%20C.O.%20Comparing%20nonpharmaceutical%20interventions%20for%20containing%20emerging%20epidemics%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Peak%2C%20C.M.%20Childs%2C%20L.M.%20Grad%2C%20Y.H.%20Buckee%2C%20C.O.%20Comparing%20nonpharmaceutical%20interventions%20for%20containing%20emerging%20epidemics%202017"
+        },
+        {
+            "id": "7",
+            "alt_id": "Hellewell_et+al_0000_a",
+            "entry": "7. J. Hellewell, S. Abbott, A. Gimma, N. I. Bosse, C. I. Jarvis, T. W. Russell, J. D. Munday, A. J. Kucharski, W. J. Edmunds, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, S. Funk, R. M. Eggo, Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts. Lancet Glob Health(2020), doi: 10.1016/S2214-109X(20)30074-7.",
+            "crossref": "https://dx.doi.org/10.1016/S2214-109X(20)30074-7",
+            "scite": "https://scite.ai/reports/10.1016/S2214-109X(20)30074-7",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S2214-109X%2820%2930074-7"
+        },
+        {
+            "id": "9",
+            "alt_id": "Tong_et+al_2020_a",
+            "entry": "9. Z.-D. Tong, A. Tang, K.-F. Li, P. Li, H.-L. Wang, J.-P. Yi, Y.-L. Zhang, J.-B. Yan, Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020. Emerg. Infect. Dis. 26 (2020), doi: 10.3201/eid2605.200198.",
+            "crossref": "https://dx.doi.org/10.3201/eid2605.200198",
+            "scite": "https://scite.ai/reports/10.3201/eid2605.200198",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.3201/eid2605.200198"
+        },
+        {
+            "id": "10",
+            "alt_id": "Bai_et+al_0000_a",
+            "entry": "10. Y. Bai, L. Yao, T. Wei, F. Tian, D.-Y. Jin, L. Chen, M. Wang, Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA(2020), doi: 10.1001/jama.2020.2565.",
+            "crossref": "https://dx.doi.org/10.1001/jama.2020.2565",
+            "scite": "https://scite.ai/reports/10.1001/jama.2020.2565"
+        },
+        {
+            "id": "11",
+            "alt_id": "Lauer_et+al_2019_a",
+            "entry": "11. S. A. Lauer, K. H. Grantz, Q. Bi, F. K. Jones, Q. Zheng, H. Meredith, A. S. Azman, N. G. Reich, J. Lessler, The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application. medRxiv(2020), doi: 10.1101/2020.02.02.20020016.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.02.20020016",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.02.20020016"
+        },
+        {
+            "id": "12",
+            "alt_id": "Nishiura_et+al_2019_a",
+            "entry": "12. H. Nishiura, N. M. Linton, A. R. Akhmetzhanov, Serial interval of novel coronavirus (2019-nCoV) infections,, doi: 10.1101/2020.02.03.20019497.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.03.20019497",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.03.20019497",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1101/2020.02.03.20019497"
+        },
+        {
+            "id": "13",
+            "alt_id": "Grassly_2008_a",
+            "entry": "13. N. C. Grassly, C. Fraser, Mathematical models of infectious disease transmission. Nature Reviews Microbiology. 6 (2008), pp. 477\u2013487.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Grassly%2C%20N.C.%20Fraser%2C%20C.%20Mathematical%20models%20of%20infectious%20disease%20transmission%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Grassly%2C%20N.C.%20Fraser%2C%20C.%20Mathematical%20models%20of%20infectious%20disease%20transmission%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Grassly%2C%20N.C.%20Fraser%2C%20C.%20Mathematical%20models%20of%20infectious%20disease%20transmission%202008"
+        },
+        {
+            "id": "14",
+            "alt_id": "Kampf_et+al_2020_a",
+            "entry": "14. G. Kampf, D. Todt, S. Pfaender, E. Steinmann, Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents. Journal of Hospital Infection. 104 (2020), pp. 246\u2013251.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kampf%2C%20G.%20Todt%2C%20D.%20Pfaender%2C%20S.%20Steinmann%2C%20E.%20Persistence%20of%20coronaviruses%20on%20inanimate%20surfaces%20and%20their%20inactivation%20with%20biocidal%20agents%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kampf%2C%20G.%20Todt%2C%20D.%20Pfaender%2C%20S.%20Steinmann%2C%20E.%20Persistence%20of%20coronaviruses%20on%20inanimate%20surfaces%20and%20their%20inactivation%20with%20biocidal%20agents%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kampf%2C%20G.%20Todt%2C%20D.%20Pfaender%2C%20S.%20Steinmann%2C%20E.%20Persistence%20of%20coronaviruses%20on%20inanimate%20surfaces%20and%20their%20inactivation%20with%20biocidal%20agents%202020"
+        },
+        {
+            "id": "15",
+            "alt_id": "Dorigatti_et+al_2019_a",
+            "entry": "15. I. Dorigatti, L. Okell, A. Cori, N. Imai, M. Baguelin, S. Bhatia, A. Boonyasiri, Z. Cucunub\u00e1, G. Cuomo-Dannenburg, R. FitzJohn, H. Fu, K. Gaythorpe, A. Hamlet, W. Hinsley, N. Hong, M. Kwun, D. Laydon, G. Nedjati-Gilani, S. Riley, S. van Elsland, E. Volz, H. Wang, R. Wang, C. Walters, X. Xi, C. Donnelly, A. Ghani, N. Ferguson, Report 4: Severity of 2019-novel coronavirus (nCoV). online report(available at https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-Coll ege-2019-nCoV-severity-10-02-2020.pdf).",
+            "url": "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-Coll"
+        },
+        {
+            "id": "16",
+            "alt_id": "Zhao_et+al_2019_a",
+            "entry": "16. S. Zhao, Q. Lin, J. Ran, S. S. Musa, G. Yang, W. Wang, Y. Lou, D. Gao, L. Yang, D. He, M. H. Wang, Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int. J. Infect. Dis. 92, 214\u2013217 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhao%2C%20S.%20Lin%2C%20Q.%20Ran%2C%20J.%20Musa%2C%20S.S.%20Preliminary%20estimation%20of%20the%20basic%20reproduction%20number%20of%20novel%20coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhao%2C%20S.%20Lin%2C%20Q.%20Ran%2C%20J.%20Musa%2C%20S.S.%20Preliminary%20estimation%20of%20the%20basic%20reproduction%20number%20of%20novel%20coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhao%2C%20S.%20Lin%2C%20Q.%20Ran%2C%20J.%20Musa%2C%20S.S.%20Preliminary%20estimation%20of%20the%20basic%20reproduction%20number%20of%20novel%20coronavirus%202019"
+        },
+        {
+            "id": "17",
+            "alt_id": "Zhou_et+al_2020_a",
+            "entry": "17. T. Zhou, Q. Liu, Z. Yang, J. Liao, K. Yang, W. Bai, X. Lu, W. Zhang, Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV. J. Evid. Based Med. 13, 3\u20137 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=T%20Zhou%20Q%20Liu%20Z%20Yang%20J%20Liao%20K%20Yang%20W%20Bai%20X%20Lu%20W%20Zhang%20Preliminary%20prediction%20of%20the%20basic%20reproduction%20number%20of%20the%20Wuhan%20novel%20coronavirus%202019nCoV%20J%20Evid%20Based%20Med%2013%2037%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=T%20Zhou%20Q%20Liu%20Z%20Yang%20J%20Liao%20K%20Yang%20W%20Bai%20X%20Lu%20W%20Zhang%20Preliminary%20prediction%20of%20the%20basic%20reproduction%20number%20of%20the%20Wuhan%20novel%20coronavirus%202019nCoV%20J%20Evid%20Based%20Med%2013%2037%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=T%20Zhou%20Q%20Liu%20Z%20Yang%20J%20Liao%20K%20Yang%20W%20Bai%20X%20Lu%20W%20Zhang%20Preliminary%20prediction%20of%20the%20basic%20reproduction%20number%20of%20the%20Wuhan%20novel%20coronavirus%202019nCoV%20J%20Evid%20Based%20Med%2013%2037%202020"
+        },
+        {
+            "id": "18",
+            "alt_id": "Leung_et+al_2004_a",
+            "entry": "18. G. M. Leung, P.-H. Chung, T. Tsang, W. Lim, S. K. K. Chan, P. Chau, C. A. Donnelly, A. C. Ghani, C. Fraser, S. Riley, N. M. Ferguson, R. M. Anderson, Y.-L. Law, T. Mok, T. Ng, A. Fu, P.-Y. Leung, J. S. M. Peiris, T.-H. Lam, A. J. Hedley, SARS-CoV antibody prevalence in all Hong Kong patient contacts. Emerg. Infect. Dis. 10, 1653\u20131656 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Leung%2C%20G.M.%20Chung%2C%20P.-H.%20Tsang%2C%20T.%20Lim%2C%20W.%20SARS-CoV%20antibody%20prevalence%20in%20all%20Hong%20Kong%20patient%20contacts%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Leung%2C%20G.M.%20Chung%2C%20P.-H.%20Tsang%2C%20T.%20Lim%2C%20W.%20SARS-CoV%20antibody%20prevalence%20in%20all%20Hong%20Kong%20patient%20contacts%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Leung%2C%20G.M.%20Chung%2C%20P.-H.%20Tsang%2C%20T.%20Lim%2C%20W.%20SARS-CoV%20antibody%20prevalence%20in%20all%20Hong%20Kong%20patient%20contacts%202004"
+        },
+        {
+            "id": "19",
+            "alt_id": "Kam_et+al_2019_a",
+            "entry": "19. K.-Q. Kam, C. F. Yung, L. Cui, R. Lin Tzer Pin, T. M. Mak, M. Maiwald, J. Li, C. Y. Chong, K. Nadua, N. W. H. Tan, K. C. Thoon, A Well Infant with Coronavirus Disease 2019 (COVID-19) with",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=KQ%20Kam%20C%20F%20Yung%20L%20Cui%20R%20Lin%20Tzer%20Pin%20T%20M%20Mak%20M%20Maiwald%20J%20Li%20C%20Y%20Chong%20K%20Nadua%20N%20W%20H%20Tan%20K%20C%20Thoon%20A%20Well%20Infant%20with%20Coronavirus%20Disease%202019%20COVID19%20with"
+        },
+        {
+            "id": "20",
+            "alt_id": "Klinkenberg_et+al_2006_a",
+            "entry": "20. D. Klinkenberg, C. Fraser, H. Heesterbeek, The Effectiveness of Contact Tracing in Emerging Epidemics. PLoS ONE. 1 (2006), p. e12.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Klinkenberg%2C%20D.%20Fraser%2C%20C.%20Heesterbeek%2C%20H.%20The%20Effectiveness%20of%20Contact%20Tracing%20in%20Emerging%20Epidemics.%20PLoS%20ONE%202006"
+        },
+        {
+            "id": "21",
+            "alt_id": "Phan_et+al_2020_a",
+            "entry": "21. L. T. Phan, T. V. Nguyen, Q. C. Luong, T. V. Nguyen, H. T. Nguyen, H. Q. Le, T. T. Nguyen, T. M. Cao, Q. D. Pham, Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam. N. Engl. J. Med. 382, 872\u2013874 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Phan%2C%20L.T.%20Nguyen%2C%20T.V.%20Luong%2C%20Q.C.%20Nguyen%2C%20T.V.%20Importation%20and%20Human-to-Human%20Transmission%20of%20a%20Novel%20Coronavirus%20in%20Vietnam%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Phan%2C%20L.T.%20Nguyen%2C%20T.V.%20Luong%2C%20Q.C.%20Nguyen%2C%20T.V.%20Importation%20and%20Human-to-Human%20Transmission%20of%20a%20Novel%20Coronavirus%20in%20Vietnam%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Phan%2C%20L.T.%20Nguyen%2C%20T.V.%20Luong%2C%20Q.C.%20Nguyen%2C%20T.V.%20Importation%20and%20Human-to-Human%20Transmission%20of%20a%20Novel%20Coronavirus%20in%20Vietnam%202020"
+        },
+        {
+            "id": "22",
+            "alt_id": "Ki_2019_a",
+            "entry": "22. M. Ki, Task Force for 2019-nCoV, Epidemiologic characteristics of early cases with 2019 novel coronavirus (2019-nCoV) disease in Republic of Korea. Epidemiology and Health(2020),, doi: 10.4178/epih.e2020007.",
+            "crossref": "https://dx.doi.org/10.4178/epih.e2020007",
+            "scite": "https://scite.ai/reports/10.4178/epih.e2020007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.4178/epih.e2020007"
+        },
+        {
+            "id": "23",
+            "alt_id": "Rothe_et+al_2019_a",
+            "entry": "23. C. Rothe, M. Schunk, P. Sothmann, G. Bretzel, G. Froeschl, C. Wallrauch, T. Zimmer, V. Thiel, C. Janke, W. Guggemos, M. Seilmaier, C. Drosten, P. Vollmar, K. Zwirglmaier, S. Zange, R. W\u00f6lfel, M. Hoelscher, Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. New England Journal of Medicine(2020),, doi: 10.1056/nejmc2001468.",
+            "crossref": "https://dx.doi.org/10.1056/nejmc2001468",
+            "scite": "https://scite.ai/reports/10.1056/nejmc2001468"
+        }
+    ],
+    "facts": [
+        "The aim of non-pharmaceutical infection prevention is to move a population towards herd protection",
+        "address epidemiological issues that affect the feasibility of an algorithmic approach to instantaneous contact tracing",
+        "the parameters of COVID-19 in a framework that is consistent with the renewal equation formulation of epidemic spread",
+        "an analytical solution to application of first-degree contact tracing in the renewal equation model to explore combinations of efficacy",
+        "the potential to stop the spread of the epidemic",
+        "Human-to-human transmission was initially focused in the Hubei province of China",
+        "The virus is likely of bat origin",
+        "documented cases were linked to environmental exposure in the Huanan Seafood Wholesale Market",
+        "reasonable to expect some aspects of epidemiology to be similar",
+        "new analyses indicate that SARS-CoV-2 is more infectious",
+        "the need to test any candidates for safety in humans means that vaccines will not be available for several months",
+        "The aim of this paper is to explore the feasibility of achieving herd protection using isolation coupled to classical contact tracing by questionnaires",
+        "people versus algorithmic instantaneous contact tracing assisted by a phone app",
+        "The distribution of generation times was inferred by Maximum Composite Likelihood from serial intervals and exposure periods",
+        "Some of the 40 transmission pairs were taken from references,,,;some taken from a previous estimate",
+        "The probability that infection occurred before onset of symptoms",
+        "for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit",
+        "such that the effect of control measures discussed later will be relative to the early stages of an outbreak",
+        "that this assumption is implicit in many estimates of R\u200b0\u200b. The epidemic doubling time T\u200b2\u200b",
+        "sufficient to prevent a large-scale spread of the epidemic",
+        "the timing of the different contributions to transmission occur at different stages of the infection",
+        "instantaneous contact tracing in achieving herd protection from SARS-CoV-2 epidemic is shown in",
+        "The calculation shown in Figure 6 used our inference of the generation time interval",
+        "Shifts to shorter generation times would mean earlier intervention is required in each individual's infection",
+        "for fixed rthis would imply a smaller value of R\u200b0\u200b",
+        "the maximum possible R\u200b0\u200b that could be contained for a pathogen with the same generation time distribution",
+        "Results supporting a large role for pre-symptomatic submission were shared",
+        "Tindale et al found that serial intervals in Tianjin",
+        "the transmission pairs analysed for the generation time distribution represent pre-symptomatic",
+        "developed our mathematical model of infectiousness into a web application where users can test the effect of alternative parameter combinations",
+        "a half of transmissions occur from pre-symptomatic individuals",
+        "a web interface to explore the uncertainty in our modelling assumptions https://bdi-pathogens.shinyapps.io",
+        "dates of symptom onset for cases not linked with any wet market"
+    ],
+    "claims": [
+        "We address epidemiological issues that affect the feasibility of an algorithmic approach to instantaneous contact tracing; ethical and implementation issues are addressed separately",
+        "We show that first-degree instantaneous contact tracing, informing users when they can move safely or when to seek medical help and avoid vulnerable individuals, has the potential to stop the spread of the epidemic if used by a sufficiently large number of people with reasonable fidelity",
+        "The aim of this paper is to explore the feasibility of achieving herd protection (R\u200b0\u200b<1) using isolation coupled to classical contact tracing by questionnaires and people versus algorithmic instantaneous contact tracing assisted by a phone app",
+        "We propose four categories. \u200b1",
+        "We also show the results of sensitivity analysis to different functional forms, and compare to two previously published serial interval distributions - those of (\u200b12)and (\u200b8\u200b)",
+        "We developed our mathematical model of infectiousness into a web application where users can test the effect of alternative parameter combinations: https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes",
+        "We provide estimates of key quantities intended to help inform intervention strategies",
+        "We provide two approaches suggesting that between a third and a half of transmissions occur from pre-symptomatic individuals",
+        "We argue that the reports from Singapore imply that even if asymptomatic infections are common, onward transmission from this state is probably uncommon, since forensic reconstruction of the transmission networks has closed down most missing links",
+        "We have developed a web interface to explore the uncertainty in our modelling assumptions https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes",
+        "Some of the 40 transmission pairs were taken from references (\u200b21), (\u200b22\u200b), (\u200b23),(\u200b8);some taken from a previous estimate of serial intervals (1\u200b 2\u200b); some we identified from other reports (see Supplementary Table)",
+        "We identified the dates following consistent early exponential growth as December 28th - January 8th inclusive for Li et al.\u2019s dates of symptom onset for cases not linked with any wet market, and January 18th - 26th inclusive for the Chinese CDC dates of case confirmation, as illustrated with the blue and earliest green line in Figure 1"
+    ],
+    "findings": [
+        "The epidemic doubling time T\u200b2\u200b, equal to loge(2) / r, was previously estimated as 7.4 days (95% confidence interval (CI) 4.2 to 14) from data on the first 425 cases in Wuhan (\u200b8\u200b), and independently as 7.2 days (95% credible interval 4.7 to 16.3) by phylodynamic analysis of 86 whole SARS-CoV-2 genomes (http://virological.org/t/phylodynamic-analysis-129-genomes-24-feb-2020/356\u200b). We analysed the former data source together with the China Centre for Disease Control counts of daily confirmed cases (http://2019ncov.chinacdc.cn/2019-nCoV/), visually identified two periods of consistent early exponential growth, and obtained a more precise combined estimate of T\u200b2\u200b = 5.0 days (95% CI 4.3 to 6.2)",
+        "The 40 probabilities inferred are shown in Figure 3; the mean probability is 37% (95% CI: 27.5% - 45%), which can be interpreted as the fraction of pre-symptomatic transmission events out of pre-symptomatic plus symptomatic transmission events"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Human-to-human transmission was initially focused in the Hubei province of China, but has seeded growing epidemics around the world",
+        "The virus is likely of bat origin, with a possible intermediate animal host, and most of the first documented cases were linked to environmental exposure in the Huanan Seafood Wholesale Market in early December 2019",
+        "New analyses indicate that severe acute respiratory syndrome-CoV-2 is more infectious and less virulent than severe acute respiratory syndrome-CoV-1, and could have greater epidemic potential due to greater difficulties in tracing mild or asymptomatic infections",
+        "The aim of this paper is to explore the feasibility of achieving herd protection (R\u200b0\u200b<1) using isolation coupled to classical contact tracing by questionnaires and people versus algorithmic instantaneous contact tracing assisted by a phone app",
+        "We fit a mathematical model of infectiousness, through the four routes discussed above, over the course of infection. This allowed us to calculate the R\u200b0\u200b, estimate the proportion of transmission from different routes, and make predictions about whether contact tracing and isolation of known cases is sufficient to prevent a large-scale spread of the epidemic",
+        "We calculated the exponential growth rate of the epidemic, r, from the early stages of the epidemic in China, such that the effect of control measures discussed later will be relative to the early stages of an outbreak, exemplified by baseline contact patterns and environmental conditions in Hubei during that period",
+        "We developed our mathematical model of infectiousness into a web application where users can test the effect of alternative parameter combinations: https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes",
+        "The success rates of this isolation and instantaneous contact tracing in achieving herd protection from severe acute respiratory syndrome-CoV-2 epidemic is shown in Figure 6 for different values of R\u200b0\u200b",
+        "We have developed a web interface to explore the uncertainty in our modelling assumptions https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes",
+        "Probability of pre-symptomatic infection.The probability that infection occurred before onset of symptoms for the infector was estimated for each transmission pair using a Bayesian approach based on the best fit for the generation time distribution",
+        "We identified the dates following consistent early exponential growth as December 28th - January 8th inclusive for Li et al.\u2019s dates of symptom onset for cases not linked with any wet market, and January 18th - 26th inclusive for the Chinese CDC dates of case confirmation, as illustrated with the blue and earliest green line in Figure 1",
+        "Our model for infectiousness ( ) was solved first by fitting the shape of the pre-symptomatic + symptomatic contributions to our inferred generation time interval: these functions are proportional to each other when the transmission pairs analysed for the generation time distribution represent pre-symptomatic and symptomatic exposure in the proportion representative of overall epidemic spread"
+    ],
+    "top_statements": [
+        "The new viral pathogen severe acute respiratory syndrome-CoV-2 emerged in late 2019, leading to exponential rise of new cases and causing tens of thousands of documented cases of COVID-19 disease to date",
+        "Human-to-human transmission was initially focused in the Hubei province of China, but has seeded growing epidemics around the world",
+        "The aim of this paper is to explore the feasibility of achieving herd protection (R\u200b0\u200b<1) using isolation coupled to classical contact tracing by questionnaires and people versus algorithmic instantaneous contact tracing assisted by a phone app",
+        "We calculated the exponential growth rate of the epidemic, r, from the early stages of the epidemic in China, such that the effect of control measures discussed later will be relative to the early stages of an outbreak, exemplified by baseline contact patterns and environmental conditions in Hubei during that period",
+        "We developed our mathematical model of infectiousness into a web application where users can test the effect of alternative parameter combinations: https://bdi-pathogens.shinyapps.io/covid-19-transmission-routes",
+        "The 40 probabilities inferred are shown in Figure 3; the mean probability is 37% (95% CI: 27.5% - 45%), which can be interpreted as the fraction of pre-symptomatic transmission events out of pre-symptomatic plus symptomatic transmission events",
+        "The success rates of this isolation and instantaneous contact tracing in achieving herd protection from severe acute respiratory syndrome-CoV-2 epidemic is shown in Figure 6 for different values of R\u200b0\u200b"
+    ],
+    "headline": "The aim of this paper is to explore the feasibility of achieving herd protection using isolation coupled to classical contact tracing by questionnaires and people versus algorithmic instantaneous contact tracing assisted by a phone app",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "severe acute respiratory syndrome"
+    }
+}

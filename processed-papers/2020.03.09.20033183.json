@@ -1,0 +1,318 @@
+{
+    "filename": "2020.03.09.20033183.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 142483,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.09.20033183",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/10/2020.03.09.20033183.full.pdf"
+        },
+        "title": "Ascertainment rate of novel coronavirus disease (COVID-19) in Japan",
+        "author": "Ryosuke Omori, Kenji Mizumoto, Hiroshi Nishiura",
+        "date": 2020,
+        "affiliations": [
+            "Research Center for Zoonosis Control, Hokkaido University, Kita-ku, Sapporo8 shi, Hokkaido 001-0020, Japan; 9",
+            "Graduate School of Advanced Integrated Studies in Human Survivability,",
+            "Kyoto University Yoshida-Nakaadachi-cho, Sakyo-ku, Kyoto, Japan 11",
+            "Hakubi Center for Advanced Research, Kyoto University, Yoshidahonmachi,",
+            "Sakyo-ku,Kyoto, Japan; 13",
+            "Graduate School of Medicine, Hokkaido University, Kita 15 Jo Nishi",
+            "Kita-ku, Sapporo-shi, Hokkaido 060-8638, Japan; 15",
+            "Core Research for Evolutional Science and Technology (CREST), Japan",
+            "Science and Technology Agency, Honcho 4-1-8, Kawaguchi, Saitama 332-0012,"
+        ],
+        "abstract": "We analyzed the epidemiological dataset of confirmed cases with COVID-19 in Japan as of 28 February 2020 and estimated the number of severe and non-severe cases, accounting for under-ascertainment. The ascertainment rate of non-severe cases was estimated at 0.44 (95% confidence interval: 0.37, 0.50), indicating that unbiased number of non-cases would be more than twice the reported count. Severe cases are twice more likely diagnosed and reported than other cases.",
+        "keywords": [
+            "coronavirus",
+            "outbreak",
+            "diagnosis",
+            "reporting",
+            "statistical model"
+        ],
+        "references": "@article{w-j2020a,\n  author = {W-j, Guan and Z-y, Ni and Y, Hu and W-h, Liang and C-q, Ou and J-x, He},\n  title = {Clinical Characteristics of Coronavirus Disease 2019 in China},\n  journal = {New England Journal of Medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@incollection{nishiura2019a,\n  author = {Nishiura, H. and Kobayashi, T. and Yang, Y. and Hayashi, K. and Miyama, T. and Kinoshita, R.},\n  title = {The rate of underascertainment of novel coronavirus},\n  date = {2019},\n  publisher = {Multidisciplinary Digital Publishing Institute},\n  more-authors = {true},\n  source = {infection: Estimation using Japanese passengers data on evacuation flights},\n  language = {}\n}\n@misc{cpere2020a,\n  author = {CPERE, Novel},\n  title = {The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi},\n  date = {2020},\n  volume = {41},\n  pages = {145},\n  number = {2},\n  language = {}\n}\n@misc{w-a,\n  author = {W.H.O.},\n  title = {Coronavirus disease 2019 (COVID-19) Situation Report \u2013 41; 2020},\n  url = {https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200301-sitrep-41-covid-},\n  language = {}\n}\n@misc{pdf-a,\n  author = {pdf?sfvrsn=6768306d_2},\n  urldate = {[2nd March 2020].}\n}\n",
+        "emails": [
+            "nishiurah@med.hokudai.ac.jp"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - W-j, Guan\nAU  - Z-y, Ni\nAU  - Y, Hu\nAU  - W-h, Liang\nAU  - C-q, Ou\nAU  - J-x, He\nTI  - Clinical Characteristics of Coronavirus Disease 2019 in China\nT2  - New England Journal of Medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Nishiura, H.\nAU  - Kobayashi, T.\nAU  - Yang, Y.\nAU  - Hayashi, K.\nAU  - Miyama, T.\nAU  - Kinoshita, R.\nTI  - The rate of underascertainment of novel coronavirus\nPY  - 2019\nDA  - 2019\nPB  - Multidisciplinary Digital Publishing Institute\nC1  - true\nT2  - infection: Estimation using Japanese passengers data on evacuation flights\nLA  - \nER  - \n\nTY  - GEN\nAU  - CPERE, Novel\nTI  - The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi\nPY  - 2020\nDA  - 2020\nVL  - 41\nSP  - 145\nIS  - 2\nLA  - \nER  - \n\nTY  - GEN\nAU  - W.H.O.\nTI  - Coronavirus disease 2019 (COVID-19) Situation Report \u2013 41; 2020\nUR  - https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200301-sitrep-41-covid-\nLA  - \nER  - \n\nTY  - GEN\nAU  - pdf?sfvrsn=6768306d_2\nC1  - [2nd March 2020].\nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Age-specific number of novel coronavirus disease (COVID-19) 4 cases by age group and severity 5 Top: non severe cases, middle: severe cases, and bottom: total cases. x-marks 6 represent observed counts, while unfilled circles show estimated cases. Whiskers 7 extend to lower and upper 95% confidence intervals, derived from profile 8 likelihood. 9"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.20033183.full/img-000.png"
+        ]
+    },
+    "sections": {
+        "objective": [
+            "To estimate the ascertainment rate of novel coronavirus (COVID-19)."
+        ],
+        "methods": [
+            "We analyzed the epidemiological dataset of confirmed cases with<br/><br/>COVID-19 in Japan as of 28 February 2020. A statistical model was constructed to describe the heterogeneity of reporting rate by age and severity. We estimated the number of severe and non-severe cases, accounting for under-ascertainment.",
+            "We analyzed the epidemiological dataset of confirmed cases with<br/><br/>COVID-19 in Japan as of 28 February 2020. The confirmatory diagnosis was made by means of reverse transcriptase polymerase chain reaction (RT-PCR).<br/><br/>The present study specifically analyzed cases by (i) prefecture, (ii) age, and (iii) severity. Severe case was defined as (i) severe dyspnea that required oxygen support plus pneumonia or intubation or (ii) case that required management in intensive care unit.<br/><br/>We estimated the number of severe and non-severe cases using the ratio of non-severe to severe reported cases (Guan et al, 2020, Novel, 2020). We estimated the ascertainment rate among non-severe cases by 1/k, describing data generating process of both severe and non-severe generated from Poisson process with probabilities px,a for severe cases and kfapx,a for non-severe cases in age group a and prefecture x, respectively. Here fa denotes the ratio of non-severe to severe reported case of age group a, as estimated from age-specific severity and incidence rate ratio in China (Guan et al, 2020, Novel, 2020). We estimate k and px,a using the loglikelihood function: ln exp"
+        ],
+        "results": [
+            "The ascertainment rate of non-severe cases was estimated at 0.44 (95%<br/><br/>confidence interval: 0.37, 0.50), indicating that unbiased number of non-cases would be more than twice the reported count.",
+            "The ascertainment rate of non-severe cases, k, was estimated at 0.44 (95%<br/><br/>confidence interval (CI): 0.37, 0.50). Resulting estimate of non-severe cases is shown in Figure 1A, showing along with reasonably good fit to severe case data in Figure 1B. Age-specific pattern of estimated non-severe cases was similar to that among severe cases. The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively. Such adjustment gives adjusted estimate of the total cases by age group."
+        ],
+        "conclusions": [
+            "Severe cases are twice more likely diagnosed and reported than other cases. Considering that reported cases are usually dominated by non-severe cases, the adjusted total number of cases is also about a double of observed count.<br/><br/>Our finding is critical in interpreting the reported data, and it is advised to interpret mild case data of COVID-19 as always under-ascertained.<br/><br/>Keywords: coronavirus; outbreak; diagnosis; reporting; statistical model; epidemiology; viruses    Highlights<br/><br/>Epidemiological dataset of COVID-19 in Japan was analyzed.<br/><br/>The ascertainment rate of non-severe cases was estimated at 0.44 (95%<br/><br/>confidence interval: 0.37, 0.50).<br/><br/>Severe cases are twice more likely diagnosed and reported than other cases."
+        ],
+        "introduction": [
+            "As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020). To attain appropriate countermeasures, it is vital to understand current epidemiological situations of the COVID-19 epidemic.<br/><br/>The majority of COVID-19 cases exhibit limited severity; 81% of reported cases in China has been mild and only 16% are severe (Guan et al., 2020). It is natural that the ascertainment rate would be different between severe and non-severe cases. The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model."
+        ],
+        "discussion": [
+            "The present study estimated the ascertainment-adjusted number of cases in<br/><br/>Japan, using age-specific severe fraction of cases. We assumed that the ratio of severe to non-severe cases in a given age group is a constant and that the ageindependent gap is explained by the under-diagnosis and under-reporting, estimating the ascertainment rate among non-severe cases to be 0.44.<br/><br/>As a take home, it must be remembered that severe cases are twice more likely diagnosed and reported than other cases. Reported cases are usually dominated by non-severe cases, and the adjusted total number of cases is about a double of observed count. Our finding is critical in interpreting the reported data, and it is advised to regard the mild case data as always under-ascertained.<br/><br/>In addition to the proposed adjustment, it should be noted that the ascertainment rate of severe cases needs to be additionally estimated, and such estimation requires direct measurement of the total number of cases or infected individuals by means of seroepidemiological study or other testing methods of all samples (Nishiura et al, 2020). That is, the actual total number of cases is greater than what it was adjusted in the present study. Using seroepidemiological datasets, we plan to address relevant issues in the future. Other limitations include that (i) we did not explore detailed natural history, e.g. dynamically changing symptoms over the course of infection, and underlying comorbidities,"
+        ],
+        "disclosures": [
+            "The authors declare no conflicts of interest."
+        ],
+        "funding": [
+            "Funding source H.N. received funding support from Japan Agency for Medical Research and Development [grant number: JP18fk0108050] the Japan Society for the Promotion of Science (JSPS) Grants-in-Aid for Scientific Research (KAKENHI in Japanese abbreviation) grant nos. 17H04701, 17H05808, 18H04895 and 19H01074, and the Japan Science and Technology Agency (JST) Core Research for Evolutional Science and Technology (CREST) program [grant number: JPMJCR1413]. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+        ],
+        "ethical_compliance": [
+            "This study was based on publicly available data and did not require ethical approval."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "Objective: To estimate the ascertainment rate of novel coronavirus (COVID-19)."
+        ],
+        "Methods": [
+            "COVID-19 in Japan as of 28 February 2020. The confirmatory diagnosis was made by means of reverse transcriptase polymerase chain reaction (RT-PCR).",
+            "The present study specifically analyzed cases by (i) prefecture, (ii) age, and (iii) severity. Severe case was defined as (i) severe dyspnea that required oxygen support plus pneumonia or intubation or (ii) case that required management in intensive care unit.",
+            "We estimated the number of severe and non-severe cases using the ratio of non-severe to severe reported cases (Guan et al, 2020, Novel, 2020). We estimated the ascertainment rate among non-severe cases by 1/k, describing data generating process of both severe and non-severe generated from Poisson process with probabilities px,a for severe cases and kfapx,a for non-severe cases in age group a and prefecture x, respectively. Here fa denotes the ratio of non-severe to severe reported case of age group a, as estimated from age-specific severity and incidence rate ratio in China (Guan et al, 2020, Novel, 2020). We estimate k and px,a using the loglikelihood function: ln",
+            "where Nx,a , Dns,x,a and Ds,x,a represent the population size, the observed counts of non-severe and severe cases of age group a in prefecture x, respectively.",
+            "and the profile likelihood-based confidence intervals were computed."
+        ],
+        "Results": [
+            "confidence interval (CI): 0.37, 0.50). Resulting estimate of non-severe cases is shown in Figure 1A, showing along with reasonably good fit to severe case data in Figure 1B. Age-specific pattern of estimated non-severe cases was similar to that among severe cases. The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively. Such adjustment gives adjusted estimate of the total cases by age group."
+        ],
+        "Conclusions": [
+            "Severe cases are twice more likely diagnosed and reported than other cases. Considering that reported cases are usually dominated by non-severe cases, the adjusted total number of cases is also about a double of observed count.",
+            "Our finding is critical in interpreting the reported data, and it is advised to interpret mild case data of COVID-19 as always under-ascertained.",
+            "Keywords: coronavirus; outbreak; diagnosis; reporting; statistical model; epidemiology; viruses",
+            "Epidemiological dataset of COVID-19 in Japan was analyzed.",
+            "confidence interval: 0.37, 0.50).",
+            "Severe cases are twice more likely diagnosed and reported than other cases.",
+            "Mild cases of COVID-19 are under-ascertained.",
+            "author/funder, who has granted medRxiv a license to display the preprint in perpetuity."
+        ],
+        "Introduction": [
+            "As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020). To attain appropriate countermeasures, it is vital to understand current epidemiological situations of the COVID-19 epidemic.",
+            "The majority of COVID-19 cases exhibit limited severity; 81% of reported cases in China has been mild and only 16% are severe (Guan et al., 2020). It is natural that the ascertainment rate would be different between severe and non-severe cases. The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model."
+        ],
+        "Discussion": [
+            "Japan, using age-specific severe fraction of cases. We assumed that the ratio of severe to non-severe cases in a given age group is a constant and that the ageindependent gap is explained by the under-diagnosis and under-reporting, estimating the ascertainment rate among non-severe cases to be 0.44.",
+            "As a take home, it must be remembered that severe cases are twice more likely diagnosed and reported than other cases. Reported cases are usually dominated by non-severe cases, and the adjusted total number of cases is about a double of observed count. Our finding is critical in interpreting the reported data, and it is advised to regard the mild case data as always under-ascertained.",
+            "In addition to the proposed adjustment, it should be noted that the ascertainment rate of severe cases needs to be additionally estimated, and such estimation requires direct measurement of the total number of cases or infected individuals by means of seroepidemiological study or other testing methods of all samples (Nishiura et al, 2020). That is, the actual total number of cases is greater than what it was adjusted in the present study. Using seroepidemiological datasets, we plan to address relevant issues in the future. Other limitations include that (i) we did not explore detailed natural history, e.g. dynamically changing symptoms over the course of infection, and underlying comorbidities,",
+            "(ii) we ignored right-censored data, e.g. the time delay from illness onset to severe manifestations, for simplicity. The latter led us to underestimate the ascertainment rate. (iii) it is worth noting that the data of age dependent severity employed in our analysis is only based on the observed data in China.",
+            "Considering the possibility of underreporting or biased age distribution, the nature of this age distribution may lead to underestimation.",
+            "Despite multiple future tasks, we believe that the present study successfully demonstrated that the ascertainment rate can be partly adjusted by examining age-dependent number of cases including severe cases. The proposed adjustment should be practiced in other country settings and also for other diseases."
+        ],
+        "Conflict of interest": [
+            "The authors declare no conflicts of interest."
+        ],
+        "Funding source": [
+            "Promotion of Science (JSPS) Grants-in-Aid for Scientific Research (KAKENHI in Japanese abbreviation) grant nos. 17H04701, 17H05808, 18H04895 and",
+            "19H01074, and the Japan Science and Technology Agency (JST) Core Research for Evolutional Science and Technology (CREST) program [grant number: JPMJCR1413]. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+        ],
+        "Ethical approval": [
+            "This study was based on publicly available data and did not require ethical approval."
+        ],
+        "References": [
+            "1. Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He J-x, et al Clinical",
+            "Characteristics of Coronavirus Disease 2019 in China. New England Journal of Medicine 2020.",
+            "2. Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, et al.",
+            "The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights.",
+            "Multidisciplinary Digital Publishing Institute; 2020.",
+            "3. Novel CPERE. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi 2020;41(2):145.",
+            "4. WHO. Coronavirus disease 2019 (COVID-19) Situation Report \u2013 41; 2020.",
+            "Available from: https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200301-sitrep-41-covid19.pdf?sfvrsn=6768306d_2. [Accessed 2nd March 2020].",
+            "Figure Legends",
+            "Figure 1. Age-specific number of novel coronavirus disease (COVID-19)",
+            "cases by age group and severity",
+            "Top: non severe cases, middle: severe cases, and bottom: total cases. x-marks represent observed counts, while unfilled circles show estimated cases. Whiskers extend to lower and upper 95% confidence intervals, derived from profile likelihood."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "persons",
+            "number": 2977,
+            "context": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity. <mark class=\"stats\">As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020)</mark>. To attain appropriate countermeasures, it is vital to understand current epidemiological situations of the COVID-19 epidemic"
+        },
+        {
+            "participant": "cases",
+            "number": 4,
+            "context": ". <mark class=\"stats\">Age-specific number of novel coronavirus disease (COVID-19) 4 cases by age group and severity 5 Top: non severe cases, middle: severe cases, and bottom: total cases. x-marks 6 represent observed counts, while unfilled circles show estimated cases. Whiskers 7 extend to lower and upper 95% confidence intervals, derived from profile 8 likelihood. 9</mark>. "
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "ascertainment rate",
+        "coronavirus",
+        "present study",
+        "novel coronavirus disease",
+        "reverse transcriptase polymerase chain reaction",
+        "Japan Science and Technology Agency",
+        "reporting",
+        "non severe case",
+        "statistical model",
+        "total number",
+        "severe case",
+        "outbreak",
+        "Core Research for Evolutional Science and Technology",
+        "mild case datum",
+        "COVID-19",
+        "Coronavirus disease"
+    ],
+    "keyword_relevance": {
+        "severe case": 0.2840909090909091,
+        "COVID-19": 0.13636363636363635,
+        "ascertainment rate": 0.125,
+        "coronavirus": 0.09090909090909091,
+        "present study": 0.056818181818181816,
+        "novel coronavirus disease": 0.045454545454545456,
+        "reporting": 0.045454545454545456,
+        "total number": 0.045454545454545456,
+        "Core Research for Evolutional Science and Technology": 0.045454545454545456,
+        "statistical model": 0.03409090909090909,
+        "reverse transcriptase polymerase chain reaction": 0.022727272727272728,
+        "Japan Science and Technology Agency": 0.022727272727272728,
+        "outbreak": 0.022727272727272728,
+        "non severe case": 0.011363636363636364,
+        "Coronavirus disease": 0.011363636363636364,
+        "mild case datum": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020).",
+        "The majority of COVID-19 cases exhibit limited severity; 81% of reported cases in China has been mild and only 16% are severe (Guan et al., 2020).",
+        "It is natural that the ascertainment rate would be different between severe and non-severe cases.",
+        "The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model",
+        "<h2 style=\"display: inline\">Methods:</h2> The authors analyzed the epidemiological dataset of confirmed cases with<br/><br/>COVID-19 in Japan as of 28 February 2020.",
+        "The authors estimated the number of severe and non-severe cases, accounting for under-ascertainment.",
+        "The present study analyzed cases by (i) prefecture, age, and severity.",
+        "The authors estimated the number of severe and non-severe cases using the ratio of non-severe to severe reported cases (Guan et al, 2020, Novel, 2020).",
+        "Fa denotes the ratio of non-severe to severe reported case of age group a, as estimated from age-specific severity and incidence rate ratio in China (Guan et al, 2020, Novel, 2020).",
+        "The authors estimate k and px,a using the loglikelihood function: ln exp",
+        "<h2 style=\"display: inline\">Results:</h2> Confidence interval: 0.37, 0.50), indicating that unbiased number of non-cases would be more than twice the reported count.",
+        "The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively.",
+        "Such adjustment gives adjusted estimate of the total cases by age group",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The present study estimated the ascertainment-adjusted number of cases in<br/><br/>Japan, using age-specific severe fraction of cases.",
+        "Reported cases are usually dominated by non-severe cases, and the adjusted total number of cases is about a double of observed count.",
+        "In addition to the proposed adjustment, it should be noted that the ascertainment rate of severe cases needs to be estimated, and such estimation requires direct measurement of the total number of cases or infected individuals by means of seroepidemiological study or other testing methods of all samples (Nishiura et al, 2020).",
+        "Considering that reported cases are usually dominated by non-severe cases, the adjusted total number of cases is about a double of observed count."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020).",
+            "The majority of COVID-19 cases exhibit limited severity; 81% of reported cases in China has been mild and only 16% are severe (Guan et al., 2020).",
+            "It is natural that the ascertainment rate would be different between severe and non-severe cases.",
+            "The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model"
+        ],
+        "Methods": [
+            "The authors analyzed the epidemiological dataset of confirmed cases with<br/><br/>COVID-19 in Japan as of 28 February 2020.",
+            "The authors estimated the number of severe and non-severe cases, accounting for under-ascertainment.",
+            "The present study analyzed cases by (i) prefecture, age, and severity.",
+            "The authors estimated the number of severe and non-severe cases using the ratio of non-severe to severe reported cases (Guan et al, 2020, Novel, 2020).",
+            "Fa denotes the ratio of non-severe to severe reported case of age group a, as estimated from age-specific severity and incidence rate ratio in China (Guan et al, 2020, Novel, 2020).",
+            "The authors estimate k and px,a using the loglikelihood function: ln exp"
+        ],
+        "Results": [
+            "Confidence interval: 0.37, 0.50), indicating that unbiased number of non-cases would be more than twice the reported count.",
+            "The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively.",
+            "Such adjustment gives adjusted estimate of the total cases by age group"
+        ],
+        "Conclusion": [
+            "The present study estimated the ascertainment-adjusted number of cases in<br/><br/>Japan, using age-specific severe fraction of cases.",
+            "Reported cases are usually dominated by non-severe cases, and the adjusted total number of cases is about a double of observed count.",
+            "In addition to the proposed adjustment, it should be noted that the ascertainment rate of severe cases needs to be estimated, and such estimation requires direct measurement of the total number of cases or infected individuals by means of seroepidemiological study or other testing methods of all samples (Nishiura et al, 2020).",
+            "Considering that reported cases are usually dominated by non-severe cases, the adjusted total number of cases is about a double of observed count."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "W-J_et+al_2020_a",
+            "entry": "1. Guan W-j, Ni Z-y, Hu Y, Liang W-h, Ou C-q, He J-x, et al. Clinical Characteristics of Coronavirus Disease 2019 in China. New England Journal of Medicine 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20Liang%20Wh%20Ou%20Cq%20He%20Jx%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China%20New%20England%20Journal%20of%20Medicine%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20Liang%20Wh%20Ou%20Cq%20He%20Jx%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China%20New%20England%20Journal%20of%20Medicine%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20Liang%20Wh%20Ou%20Cq%20He%20Jx%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China%20New%20England%20Journal%20of%20Medicine%202020"
+        },
+        {
+            "id": "2",
+            "alt_id": "Nishiura_et+al_2019_a",
+            "entry": "2. Nishiura H, Kobayashi T, Yang Y, Hayashi K, Miyama T, Kinoshita R, et al. The rate of underascertainment of novel coronavirus (2019-nCoV) infection: Estimation using Japanese passengers data on evacuation flights. Multidisciplinary Digital Publishing Institute; 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nishiura%2C%20H.%20Kobayashi%2C%20T.%20Yang%2C%20Y.%20Hayashi%2C%20K.%20The%20rate%20of%20underascertainment%20of%20novel%20coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nishiura%2C%20H.%20Kobayashi%2C%20T.%20Yang%2C%20Y.%20Hayashi%2C%20K.%20The%20rate%20of%20underascertainment%20of%20novel%20coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nishiura%2C%20H.%20Kobayashi%2C%20T.%20Yang%2C%20Y.%20Hayashi%2C%20K.%20The%20rate%20of%20underascertainment%20of%20novel%20coronavirus%202019"
+        },
+        {
+            "id": "3",
+            "alt_id": "Cpere_2020_a",
+            "entry": "3. Novel CPERE. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Zhonghua liu xing bing xue za zhi= Zhonghua liuxingbingxue zazhi 2020;41(2):145.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Novel%20CPERE%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19%20in%20China%20Zhonghua%20liu%20xing%20bing%20xue%20za%20zhi%20Zhonghua%20liuxingbingxue%20zazhi%202020412145"
+        },
+        {
+            "id": "4",
+            "alt_id": "W_2019_a",
+            "entry": "4. WHO. Coronavirus disease 2019 (COVID-19) Situation Report \u2013 41; 2020. Available from: https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200301-sitrep-41-covid-",
+            "url": "https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200301-sitrep-41-covid-"
+        },
+        {
+            "id": "19",
+            "alt_id": "pdf?sfvrsn=6768306d_2_0000_a",
+            "entry": "19.pdf?sfvrsn=6768306d_2. [Accessed 2nd March 2020].",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=pdfsfvrsn6768306d2%20Accessed%202nd%20March%202020"
+        }
+    ],
+    "facts": [
+        "a total of 58 countries reported at least one confirmed case of novel coronavirus disease",
+        "The present study aims to estimate the ascertainment rate of non-severe cases",
+        "A statistical model was constructed to describe the heterogeneity of reporting rate by age and severity",
+        "The confirmatory diagnosis was made by means of reverse transcriptase polymerase chain reaction",
+        "Severe case was defined as severe dyspnea",
+        "Resulting estimate of non-severe cases is shown in Figure 1A",
+        "that the ageindependent gap is explained by the under-diagnosis",
+        "Reported cases are usually dominated by non-severe cases",
+        "the actual total number of cases is greater than what",
+        "that reported cases are usually dominated by non-severe cases",
+        "that the present study successfully demonstrated that the ascertainment rate can be partly adjusted by examining age-dependent number"
+    ],
+    "claims": [
+        "The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model",
+        "Despite multiple future tasks, we believe that the present study successfully demonstrated that the ascertainment rate can be partly adjusted by examining age-dependent number of cases including severe cases"
+    ],
+    "findings": [
+        "The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively"
+    ],
+    "processes": [],
+    "key_statements": [
+        "As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020)",
+        "The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model",
+        "Resulting estimate of non-severe cases is shown in Figure 1A, showing along with reasonably good fit to severe case data in Figure 1B",
+        "We assumed that the ratio of severe to non-severe cases in a given age group is a constant and that the ageindependent gap is explained by the under-diagnosis and under-reporting, estimating the ascertainment rate among non-severe cases to be 0.44",
+        "The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively",
+        "We believe that the present study successfully demonstrated that the ascertainment rate can be partly adjusted by examining age-dependent number of cases including severe cases"
+    ],
+    "top_statements": [
+        "As of 1 March 2020, a total of 58 countries reported at least one confirmed case of novel coronavirus disease (COVID-19), and the cumulative number of deaths reached 2977 persons across the world (WHO, 2020)",
+        "The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model",
+        "Resulting estimate of non-severe cases is shown in Figure 1A, showing along with reasonably good fit to severe case data in Figure 1B",
+        "We assumed that the ratio of severe to non-severe cases in a given age group is a constant and that the ageindependent gap is explained by the under-diagnosis and under-reporting, estimating the ascertainment rate among non-severe cases to be 0.44",
+        "The largest estimated number of non-severe cases was cases (95% CI: 63, 98) among those aged [50-59] years and 78 (95% CI: 61, 95) among cases aged [60-69] years, respectively",
+        "We believe that the present study successfully demonstrated that the ascertainment rate can be partly adjusted by examining age-dependent number of cases including severe cases"
+    ],
+    "headline": "The present study aims to estimate the ascertainment rate of non-severe cases, employing a statistical model",
+    "contexts": [],
+    "abbreviations": {
+        "RT-PCR": "reverse transcriptase polymerase chain reaction",
+        "JST": "Japan Science and Technology Agency",
+        "CREST": "Core Research for Evolutional Science and Technology"
+    }
+}

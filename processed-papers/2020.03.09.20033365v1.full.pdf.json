@@ -1,0 +1,640 @@
+{
+    "filename": "2020.03.09.20033365v1.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 382248,
+    "metadata": {
+        "title": "Genomic epidemiology of a densely sampled COVID19 outbreak in China",
+        "author": "Erik M Volz, Han Fu, Haowei Wang, Xiaoyue Xi, Wei Chen, Dehui Liu, 5 Yingying Chen, Mengmeng Tian, Wei Tan, Junjie Zai, Wanying Sun, Jiandong 6 Li, Junhua Li, Xingguang Li, Qing Nie,\u2020\u00a7",
+        "date": 2020,
+        "affiliations": [
+            "Weifang Center for Disease Control and Prevention, 12",
+            "Hubei Engineering Research Center of 14"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.09.20033365",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.09.20033365v1.full.pdf"
+        },
+        "abstract": "Analysis of genetic sequence data from the pandemic SARS Coronavirus 2 can provide insights into epidemic origins, worldwide dispersal, and epidemiological history. With few exceptions, genomic epidemiological analysis has focused on geographically distributed data sets with few isolates in any given location. Here we report an analysis of 20 whole SARS-CoV 2 genomes from a single relatively small and geographically constrained outbreak in Weifang, People\u2019s Republic of China. Using Bayesian model-based phylodynamic methods, we estimate the reproduction number for the outbreak to be 1.99(95% CI:1.48-3.14). We further estimate the number of infections through time and compare these estimates to confirmed diagnoses by the Weifang Centers for Disease Control. We find that these estimates are consistent with reported cases and there is unlikely to be a large undiagnosed burden of infection over the period we studied.",
+        "references": "@article{bedford-a,\n  author = {Bedford, T.},\n  title = {Cryptic transmission of novel coronavirus revealed by genomic epidemiology; 2020},\n  journal = {Accessed},\n  volume = {215},\n  pages = {2020\u20133},\n  url = {https://bedford.io/blog/ncov-cryptic-transmission/.},\n  language = {}\n}\n@misc{bouckaert2019a,\n  author = {},\n  title = {BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS 218 computational biology},\n  date = {2019},\n  volume = {15},\n  pages = {1006650},\n  more-authors = {true},\n  number = {4},\n  language = {}\n}\n@misc{dudas2018a,\n  author = {Dudas, G. and Carvalho, L.M. and Rambaut, A. and Bedford, T.},\n  title = {MERS-CoV spillover at the camel-human interface. Elife},\n  date = {2018},\n  language = {}\n}\n@misc{challenges2017a,\n  author = {Challenges, Global},\n  date = {2017},\n  volume = {1},\n  pages = {33\u201346},\n  number = {1}\n}\n@article{gire2014a,\n  author = {},\n  journal = {et al},\n  volume = {225},\n  title = {Genomic surveillance elucidates Ebola virus origin and transmission during the 2014 outbreak},\n  date = {2014-09},\n  pages = {1369\u20131372},\n  unmatched-journal = {Science.},\n  unmatched-volume = {345(6202):},\n  language = {}\n}\n@article{grantz-a,\n  author = {Grantz, K. and Metcalf, J. and Lessler, J.},\n  title = {Dispersion vs},\n  journal = {Control},\n  language = {},\n  urldate = {[Internet].[cited 2020 Feb 12];.}\n}\n@article{guan2019a,\n  author = {},\n  journal = {et al. Clinical Characteristics of Coronavirus Disease},\n  date = {2019},\n  title = {in China},\n  language = {}\n}\n@misc{med2020a,\n  author = {Med, N.Engl J.},\n  date = {2020-02}\n}\n@article{katoh2013a,\n  author = {Katoh, K. and Standley, D.M.},\n  title = {MAFFT multiple sequence alignment software version 7: improvements in performance 232 and usability},\n  journal = {Molecular biology and evolution},\n  date = {2013},\n  volume = {30},\n  pages = {772\u2013780},\n  number = {4},\n  language = {}\n}\n@book{keeling2011a,\n  author = {Keeling, M.J. and Rohani, P.},\n  title = {Modeling Infectious Diseases in Humans and Animals},\n  publisher = {Princeton University Press},\n  date = {2011},\n  language = {}\n}\n@article{li2017a,\n  author = {Li, L.M. and Grassly, N.C. and Fraser, C.},\n  title = {Quantifying Transmission Heterogeneity Using Both Pathogen Phylogenies and 235 Incidence Time Series},\n  journal = {Mol Biol Evol},\n  date = {2017-11},\n  volume = {34},\n  pages = {2982\u20132995},\n  number = {11},\n  language = {}\n}\n@article{unknown-a,\n  title = {medRxiv p},\n  doi = {doi},\n  url = {https://doi.org/10.1101/2020.03.09.20033365.},\n  journal = {Nature.2005},\n  date = {Nov;},\n  volume = {438},\n  pages = {355\u2013359},\n  source = {The copyright holder for this preprint (which was not peer-reviewed)is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made aSvuaiblambleittuenddemr aanCuCs-BcrYip-Nt. CN-NoDt 4p.e0eInrtreernvaietiwoneadl l.icense.236 Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on 237 disease emergence},\n  edition = {reprint},\n  number = {7066},\n  language = {}\n}\n@incollection{mao2020a,\n  author = {Mao, H.},\n  title = {Weifang City announces fever clinics. Weifang News Network},\n  date = {2020-01},\n  volume = {239},\n  unmatched-author = {Minh BQ, Schmidt H, Chernomor O, Schrempf D, Woodhams M, von Haeseler A, Lanfear R.},\n  source = {IQ-TREE 2: New 240 models and efficient methods for phylogenetic inference in the genomic era},\n  language = {}\n}\n@article{stadler-a,\n  author = {Stadler, T.},\n  title = {Phylodynamic Analyses based on 11 genomes from the Italian outbreak; 2020},\n  journal = {Accessed},\n  volume = {2020},\n  url = {http://virological.org/t/phylodynamic-analyses-based-on-11-genomes-from-the-italian-outbreak/426.},\n  number = {3-8},\n  language = {}\n}\n@incollection{volz2017a,\n  author = {Volz, E.M. and Frost, S.D.W.},\n  title = {Scalable relaxed clock phylogenetic dating. Virus Evol},\n  date = {2017-07},\n  volume = {3},\n  booktitle = {248 abd Okell, Riley S, van Elsland S, et al. Report 5: Phylogenetic analysis of SARS-CoV-2},\n  unmatched-author = {Volz E, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunub\u00e1 Z, Cuomo-Dannenburg G, Donnelly CA, Dorigatti 247 I, Fitzjohn R, Fu H, Gaythorpe K, Ghani A, Hamlet A, Hinsley W, Imai N, Laydon D,},\n  source = {Nedjati-Gilani L Gemma},\n  number = {2},\n  language = {}\n}\n@article{volz2018a,\n  author = {Volz, E.M. and Siveroni, I.},\n  title = {Bayesian phylodynamic inference with complex models},\n  journal = {PLoS Comput Biol},\n  date = {2018-11},\n  volume = {250},\n  pages = {1006546},\n  number = {14},\n  language = {}\n}\n@article{yu2017a,\n  author = {Yu, G. and Smith, D.K. and Zhu, H. and Guan, Y. and Lam, T.T.Y.},\n  title = {ggtree: an R package for visualization and annotation of phylogenetic 252 trees with their covariates and other associated data},\n  journal = {Methods Ecol Evol},\n  date = {2017-01},\n  volume = {8},\n  pages = {28\u201336},\n  number = {1},\n  language = {}\n}\n@article{zhou2020a,\n  author = {},\n  title = {A pneumonia outbreak associated with a new 255 coronavirus of probable bat origin},\n  journal = {Nature},\n  date = {2020-02},\n  more-authors = {true},\n  language = {}\n}\n",
+        "links": [
+            "https://github.com/"
+        ],
+        "emails": [
+            "xingguanglee@hotmail.com",
+            "nieqing0454@163.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Bedford, T.\nTI  - Cryptic transmission of novel coronavirus revealed by genomic epidemiology; 2020\nT2  - Accessed\nVL  - 215\nSP  - 2020\nEP  - 3\nUR  - https://bedford.io/blog/ncov-cryptic-transmission/.\nLA  - \nER  - \n\nTY  - GEN\nTI  - BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS 218 computational biology\nPY  - 2019\nDA  - 2019\nVL  - 15\nSP  - 1006650\nC1  - true\nIS  - 4\nLA  - \nER  - \n\nTY  - GEN\nAU  - Dudas, G.\nAU  - Carvalho, L.M.\nAU  - Rambaut, A.\nAU  - Bedford, T.\nTI  - MERS-CoV spillover at the camel-human interface. Elife\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - GEN\nAU  - Challenges, Global\nPY  - 2017\nDA  - 2017\nVL  - 1\nSP  - 33\nEP  - 46\nIS  - 1\nER  - \n\nTY  - JOUR\nT2  - et al\nVL  - 225\nTI  - Genomic surveillance elucidates Ebola virus origin and transmission during the 2014 outbreak\nPY  - 2014\nDA  - 2014/09\nSP  - 1369\nEP  - 1372\nC1  - Science.\nC1  - 345(6202):\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Grantz, K.\nAU  - Metcalf, J.\nAU  - Lessler, J.\nTI  - Dispersion vs\nT2  - Control\nLA  - \nC1  - [Internet].[cited 2020 Feb 12];.\nER  - \n\nTY  - JOUR\nT2  - et al. Clinical Characteristics of Coronavirus Disease\nPY  - 2019\nDA  - 2019\nTI  - in China\nLA  - \nER  - \n\nTY  - GEN\nAU  - Med, N.Engl J.\nPY  - 2020\nDA  - 2020/02\nER  - \n\nTY  - JOUR\nAU  - Katoh, K.\nAU  - Standley, D.M.\nTI  - MAFFT multiple sequence alignment software version 7: improvements in performance 232 and usability\nT2  - Molecular biology and evolution\nPY  - 2013\nDA  - 2013\nVL  - 30\nSP  - 772\nEP  - 780\nIS  - 4\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Keeling, M.J.\nAU  - Rohani, P.\nTI  - Modeling Infectious Diseases in Humans and Animals\nPB  - Princeton University Press\nPY  - 2011\nDA  - 2011\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, L.M.\nAU  - Grassly, N.C.\nAU  - Fraser, C.\nTI  - Quantifying Transmission Heterogeneity Using Both Pathogen Phylogenies and 235 Incidence Time Series\nT2  - Mol Biol Evol\nPY  - 2017\nDA  - 2017/11\nVL  - 34\nSP  - 2982\nEP  - 2995\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nTI  - medRxiv p\nDO  - doi\nUR  - https://doi.org/10.1101/2020.03.09.20033365.\nT2  - Nature.2005\nPY  - Nov;\nDA  - Nov;\nVL  - 438\nSP  - 355\nEP  - 359\nT2  - The copyright holder for this preprint (which was not peer-reviewed)is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made aSvuaiblambleittuenddemr aanCuCs-BcrYip-Nt. CN-NoDt 4p.e0eInrtreernvaietiwoneadl l.icense.236 Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on 237 disease emergence\nET  - reprint\nIS  - 7066\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Mao, H.\nTI  - Weifang City announces fever clinics. Weifang News Network\nPY  - 2020\nDA  - 2020/01\nVL  - 239\nC1  - Minh BQ, Schmidt H, Chernomor O, Schrempf D, Woodhams M, von Haeseler A, Lanfear R.\nT2  - IQ-TREE 2: New 240 models and efficient methods for phylogenetic inference in the genomic era\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Stadler, T.\nTI  - Phylodynamic Analyses based on 11 genomes from the Italian outbreak; 2020\nT2  - Accessed\nVL  - 2020\nUR  - http://virological.org/t/phylodynamic-analyses-based-on-11-genomes-from-the-italian-outbreak/426.\nIS  - 3-8\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Volz, E.M.\nAU  - Frost, S.D.W.\nTI  - Scalable relaxed clock phylogenetic dating. Virus Evol\nPY  - 2017\nDA  - 2017/07\nVL  - 3\nT2  - 248 abd Okell, Riley S, van Elsland S, et al. Report 5: Phylogenetic analysis of SARS-CoV-2\nC1  - Volz E, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunub\u00e1 Z, Cuomo-Dannenburg G, Donnelly CA, Dorigatti 247 I, Fitzjohn R, Fu H, Gaythorpe K, Ghani A, Hamlet A, Hinsley W, Imai N, Laydon D,\nT2  - Nedjati-Gilani L Gemma\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Volz, E.M.\nAU  - Siveroni, I.\nTI  - Bayesian phylodynamic inference with complex models\nT2  - PLoS Comput Biol\nPY  - 2018\nDA  - 2018/11\nVL  - 250\nSP  - 1006546\nIS  - 14\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yu, G.\nAU  - Smith, D.K.\nAU  - Zhu, H.\nAU  - Guan, Y.\nAU  - Lam, T.T.Y.\nTI  - ggtree: an R package for visualization and annotation of phylogenetic 252 trees with their covariates and other associated data\nT2  - Methods Ecol Evol\nPY  - 2017\nDA  - 2017/01\nVL  - 8\nSP  - 28\nEP  - 36\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nTI  - A pneumonia outbreak associated with a new 255 coronavirus of probable bat origin\nT2  - Nature\nPY  - 2020\nDA  - 2020/02\nC1  - true\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Summary of primary epidemiological and evolutionary parameters, including Bayesian prior distributions and estimated posteriors. Posterior uncertainty is summerized using a 95% highest posterior density interval"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Phylodynamic estimates and epidemiological model. A. A time scaled phylogeny co-estimated with epidemiological parameters. The colour of tips corresponds to location sampling. Red tips were sampled from Weifang, China. The credible interval of TMRCA is shown as a blue bar for all nodes with more than 50% posterior support. B. A diagram representing the structure of the epidemiological SEIR model which was fitted in tandem with the time scaled phylogeny. Colours correspond to the state of individuals sampled and represented in the tree (A). Note that infected and infectious individuals may occupy a low transmission state (I) or a high transmission rate state (J) to account for high dispersion of the reproduction number. C. Cumulative estimated infections through time produced by fitting the SEIR model and the cumulative confirmed cases (points) reported by Weifan CDC. The shaded region shows the 95% HPD and the line shows the posterior median. D. A root to tip regression showing approximately linear increase in diversity with time of sampling. Figure supplement 1. Maximum likelihood time tree. Figure supplement 2. Tree posterior density plot. Figure supplement 3. Tree posterior density plot. Figure supplement 1. A time scaled phylogeny estimated using IQTree and treedater and using the same data as used for the Bayesian analysis. Figure supplement 2. A tree density plot based on the posterior distribution of trees computed in BEAST2. Figure supplement 3. The estimated posterior TMRCA among all Weifang lineages"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.09.20033365v1.full.xlsx",
+        "figure_urls": []
+    },
+    "sections": {
+        "introduction": [
+            "We report a genomic epidemiological analysis of one of the first geographically concentrated community transmission samples of SARS-CoV 2 genetic sequences collected outside of the initial outbreak in Wuhan, China. These data comprise 20 whole genome sequences from confirmed<br/><br/>COVID19 infections in Weifang, Shandong Province, People\u2019s Republic of China. The data were collected over the course of several weeks up to February 10, 2020 and overlap with a period of intensifying public health and social distancing measures. Phylodynamic analysis allows us to evaluate epidemiological trends after seeding events which took place in mid to late January, 2020.<br/><br/>The objective of our analysis is to evaluate epidemiological trends based on national surveillance and response efforts by Weifang Centers for Disease Control (CDC). This analysis provides an estimate of the initial rate of spread and reproduction number in Weifang City. In contrast to the early spread of COVID19 in Hubei Province of China, most community transmissions within Weifang took place after public health interventions and social distancing measures were put in place. We therefore hypothesize that genetic data should reflect a lower growth rate and reproduction number than was observed in Wuhan. A secondary aim is to estimate the total numbers infected and to evaluate the possibility that there is a large unmeasured burden of infection due to imperfect case ascertainment and a large proportion of infections with mild or asymptomatic illness."
+        ],
+        "results": [
+            "Despite an initial rapid increase in confirmed cases in Weifang in late January and early February, the number of confirmed cases by Weifang CDC show that outbreak peaked quite early and maximum number of cases ocurred on February 5. Phylodynamic analysis supports the interpretation that control efforts reduced epidemic growth rates and contributed to eventual control. Figure 1A shows the estimated time scaled phylogeny (maximum clade credibility) including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally.<br/><br/>Figure 1B illustrates the phylodynamic model which was co-estimated with the phylogeny which provides estimates of epidemiological parameters summarized in Table 1.<br/><br/>The estimated number of infections is shown Figure 1C. The time series of confirmed cases should lag the estimated number of infected because of delays from infection to appearance of symptoms and delays from symptoms to diagnosis. We also expect that an unknown proportion of infections will be missed by the surveillance system due very mild, subclinical, or asymptomatic infection. Our estimates do not support the hypothesis that there was a very large hidden burden of infection in Weifang over the period that the sequence data were sampled. Indeed, our central estimate for the number infected on 10th February is 53, which is only slightly in excess of the 44 cumulative confirmed cases at the end of February."
+        ],
+        "discussion": [
+            "Our analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city. Surveillance of COVID19 is rendered difficult by high proportions of illness with mild severity and an unknown proportion of asymptomatic infection(Guan et al, 2020). The extent of under-reporting and case ascertainment rates has been widely debated. Analysis of genetic sequence data provides an alternative source of information about epidemic size which can be more robust to imperfect case ascertainment. We do not find evidence for a large hidden burden of infection within Weifang. The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January."
+        ],
+        "methods": [
+            "<strong>Methods and Materials</strong><br/><br/>Epidemiological investigation, sampling, and genetic sequencing. As of 10 February 2020, 136 suspected cases, and 214 close contacts were diagnosed by Weifang Center for Disease Control and<br/><br/>Prevention. 28 cases were detected positive with SARS-CoV-2. Viral RNA was extracted using Maxwell<br/><br/>Viral Total Nucleic Acid Purification Kit (Promega AS1150) by magnetic bead method and RNeasy<br/><br/>Mini Kit (QIAGEN 74104) by column method. RT-qPCR was carried out using 2019 novel coronavirus nucleic acid detection kit (BioGerm, Shanghai, China) to confirm the presence of SARS-CoV-2 viral<br/><br/>RNA with cycle threshold (Ct) values range from 17 to 37, targeting the high conservative region (ORF1ab/N gene) in SARS-CoV-2 genome. Metagenomic sequencing: The concentration of RNA samples was measurement by Qubit RNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA).<br/><br/>DNase was used to remove host DNA. The remaining RNA was used to construct the single-stranded circular DNA library with MGIEasy RNA Library preparation reagent set (MGI, Shenzhen, China)."
+        ],
+        "funding": [
+            "This work was supported by Centre funding from the UK Medical Research Council under a concordat with the UK Department for International Development. NIHR. J-IDEA. This work was also supported by a grant from the Special Project for Prevention and Control of Pneumonia of New Coronavirus Infection in Weifang Science and Technology Development Plan in 2020 (2020YQFK015) to Associate Senior Technologist Qing Nie. Role of the Funders: All funders of the study had no role in study design, data analysis, data interpretation, or writing of the report."
+        ],
+        "acknowledgements": [
+            "We gratefully acknowledge China National GeneBank at Shenzhen, China for the sequencing strategy and capacity support. We also gratefully acknowledge the laboratories that have contributed publicly available genomes via GISAID: Shanghai Public Health Clinical Center & School of Public<br/><br/>Health, Fudan University, Shanghai, China, at the National Institute for Viral Disease Control and<br/><br/>Prevention, China CDC, Beijing, China, at the Institute of Pathogen Biology, Chinese Academy of<br/><br/>Medical Sciences & Peking Union Medical College, Beijing, China, at the Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China, at the Department of Microbiology, Zhejiang Provincial<br/><br/>Center for Disease Control and Prevention, Hangzhou, China, at the Guangdong Provincial Center for Diseases Control and Prevention at the Department of Medical Sciences, at the Shenzhen Key<br/><br/>Laboratory of Pathogen and Immunity, Shenzhen, China, at the Hangzhou Center for Disease and<br/><br/>Control Microbiology Lab, Zhejiang, China, at the National Institute of Health, Nonthaburi, Thailand, at the National Institute of Infectious Diseases, Tokyo, Japan, at the Korea Centers for Disease<br/><br/>Control & Prevention, Cheongju, Korea, at the National Public Health Laboratory, Singapore, at the<br/><br/>US Centers for Disease Control and Prevention, Atlanta, USA, at the Institut Pasteur, Paris, France, at the Respiratory Virus Unit, Microbiology Services Colindale, Public Health England, and at the<br/><br/>Department of Virology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland, and at the University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, Australia, at the Victorian Infectious Disease Reference Laboratory, Melbourne, Australia, at the<br/><br/>Public Health Virology Laboratory, Brisbane, Australia and at the Institute of Clinical Pathology and"
+        ],
+        "data_availability": [
+            "Code to replicate this analysis and and BEAST XML files can be found at https://github.com/"
+        ]
+    },
+    "structured_content": {
+        "Introduction": [
+            "We report a genomic epidemiological analysis of one of the first geographically concentrated community transmission samples of SARS-CoV 2 genetic sequences collected outside of the initial outbreak in Wuhan, China. These data comprise 20 whole genome sequences from confirmed",
+            "COVID19 infections in Weifang, Shandong Province, People\u2019s Republic of China. The data were collected over the course of several weeks up to February 10, 2020 and overlap with a period of intensifying public health and social distancing measures. Phylodynamic analysis allows us to evaluate epidemiological trends after seeding events which took place in mid to late January, 2020.",
+            "The objective of our analysis is to evaluate epidemiological trends based on national surveillance and response efforts by Weifang Centers for Disease Control (CDC). This analysis provides an estimate of the initial rate of spread and reproduction number in Weifang City. In contrast to the early spread of COVID19 in Hubei Province of China, most community transmissions within Weifang took place after public health interventions and social distancing measures were put in place. We therefore hypothesize that genetic data should reflect a lower growth rate and reproduction number than was observed in Wuhan. A secondary aim is to estimate the total numbers infected and to evaluate the possibility that there is a large unmeasured burden of infection due to imperfect case ascertainment and a large proportion of infections with mild or asymptomatic illness.",
+            "To analyze the Weifang sequences, we have adapted model-based phylodynamic methods which were previously used to estimate growth rates and reproduction numbers using sequence data from Wuhan and exported international cases(Volz et al, 2020). This analysis has several constraints and requirements: Importation of lineages from Wuhan. The outbreak in Weifang was seeded by multiple lineages imported at various times from the rest of China. We use a phylodynamic model that accounts for location of sampling. Migration is modeled as a bi-directional process with rates proportional to epidemic size in Weifang. The larger international reservoir of COVID19 cases serves as a source of new infections and is assumed to be growing exponentially over this period of time.",
+            "Nonlinear epidemiological dynamics in Weifang. The maximum number of daily confirmed COVID19 cases occurred on February 5, but it is unknown when the maximum prevalence of infection occurred. We use a susceptible-exposed-infectious-recovered (SEIR) model(<a class=\"ref-link\" id=\"cKeeling_2011_a\" href=\"#rKeeling_2011_a\">Keeling and Rohani, 2011</a>)",
+            "for epidemic dynamics in Weifang. The model accounts for a realistic distribution of generation times and can potentially capture a nonlinear decrease in cases following epidemic peak.",
+            "Variance in transmission rates(Lloyd-Smith et al, 2005).To estimate total numbers infected, the phylodynamic model must account for epidemiological variables which are known to significantly influence genetic diversity. Foremost among these is the variance in offspring distribution (number of transmissions per primary case). We draw on previous evidence based on the previous SARS epidemic which indicates that the offspring distribution is highly over-dispersed. High variance of transmission rates will reduce genetic diversity of a sample and failure to account for this factor will lead to highly biased estimates of epidemic size(<a class=\"ref-link\" id=\"cLi_et+al_2017_a\" href=\"#rLi_et+al_2017_a\">Li et al, 2017</a>). Recent analyses of sequence data drawn primarily from Wuhan has found that high over-dispersion was required for estimated cases to be consistent with the epidemiological record(Volz et al, 2020). Models assuming low variance in transmission rates between people would generate estimates of cases that are lower than the known number of confirmed cases. Separately, Grantz et al(Grantz et al, ????) have author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "found that high over-dispersion is required to reconcile estimated reproduction numbers with the observed frequency of international outbreaks. In this study, we elaborate the SEIR model to include a compartment(J ) with higher transmission rates. The variance of the implied offspring distribution is calibrated to give similar overdispersion from the SARS epidemic."
+        ],
+        "Results": [
+            "Despite an initial rapid increase in confirmed cases in Weifang in late January and early February, the number of confirmed cases by Weifang CDC show that outbreak peaked quite early and maximum number of cases ocurred on February 5. Phylodynamic analysis supports the interpretation that control efforts reduced epidemic growth rates and contributed to eventual control. Figure 1A shows the estimated time scaled phylogeny (maximum clade credibility) including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally.",
+            "Figure 1B illustrates the phylodynamic model which was co-estimated with the phylogeny which provides estimates of epidemiological parameters summarized in Table 1.",
+            "The estimated number of infections is shown Figure 1C. The time series of confirmed cases should lag the estimated number of infected because of delays from infection to appearance of symptoms and delays from symptoms to diagnosis. We also expect that an unknown proportion of infections will be missed by the surveillance system due very mild, subclinical, or asymptomatic infection. Our estimates do not support the hypothesis that there was a very large hidden burden of infection in Weifang over the period that the sequence data were sampled. Indeed, our central estimate for the number infected on 10th February is 53, which is only slightly in excess of the 44 cumulative confirmed cases at the end of February.",
+            "Units: Migrations per lineage per year.",
+            "Units: Substitutions per site per year.",
+            "While we do not have sufficient data to detect a large decrease in epidemic growth rates as the epidemic progressed, we do find that the growth rates are somewhat lower than estimated in other settings and during the early epidemic in Wuhan. We estimate R0 = 1.99 (95% HPD:1.48-3.14) and the growth rate in cases was approximately 6% per day. The relatively low value of R0 corresponds to growth during a period when Weifang was implementing a variety of public health interventions",
+            "and contact tracing to limit epidemic spread. These interventions included public health messaging, establishing phone hotlines, encouraging home isolation for recent vitors from Wuhan (January",
+            "23-26), optimizing triage of suspected cases in hospitals (January 24), travel restrictions(January 26), extending school closures, and establishing \u2018fever clinics\u2019 for consulatation and diagnosis(January",
+            "27)(<a class=\"ref-link\" id=\"cMao_2020_a\" href=\"#rMao_2020_a\">Mao, 2020</a>).",
+            "As well as providing novel epidemiological estimates, our results point to the significance of realistic modeling for fidelity of phylogenetic inference. The use of a model-based structured coalescent prior had large influence over estimated molecular clock rates and inferred TMRCAs. Figure",
+            "Supplement 1 shows that maximum likelihood inference of time-scaled phylogenies produces a distribution of TMRCAs which are substantially different than the Bayesian model-based analysis.",
+            "Choice of population genetic prior will have a large influence on phylogenetic inference based on sparse or poorly informative genetic sequence data. Among the 20 Weifang sequences included in this analysis, there is mean pairwise difference of only three single nucleotide polymorphisms and only approximately twice as much diversity observed among the remainder of the sequences we studied. There is correspondingly low confidence in tree topology (Figure Supplement 2), and only three clades had greater than 50% posterior support including one clade which had a monophyletic compoisition of 13 Weifang lineages. The earliest Weifang sequence was sampled on January 25 from a patient who showed first symptoms on January 16. These dates cover a similar range as the posterior TMRCA of all Weifang sequences (Figure Supplement 3)."
+        ],
+        "Discussion": [
+            "Our analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city. Surveillance of COVID19 is rendered difficult by high proportions of illness with mild severity and an unknown proportion of asymptomatic infection(Guan et al, 2020). The extent of under-reporting and case ascertainment rates has been widely debated. Analysis of genetic sequence data provides an alternative source of information about epidemic size which can be more robust to imperfect case ascertainment. We do not find evidence for a large hidden burden of infection within Weifang. The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January.",
+            "While the value of pathogen genomic analyses is widely recognized for estimating dates of emergence(Verity Hill, 2020; Gire et al, 2014) and identifying animal reservoirs(Zhou et al, 2020; <a class=\"ref-link\" id=\"cDudas_et+al_2018_a\" href=\"#rDudas_et+al_2018_a\">Dudas et al, 2018</a>), analysis of pathogen sequences also has potential to inform epidemic surveillance and intervention efforts. With few exceptions (<a class=\"ref-link\" id=\"cStadler_2020_a\" href=\"#rStadler_2020_a\">Stadler, 2020</a>; <a class=\"ref-link\" id=\"cBedford_2020_a\" href=\"#rBedford_2020_a\">Bedford, 2020</a>), this potential is currently not being realized for the international response to COVID19. It is worth noting that the analysis described in this report was accomplished in approximately 48 hours and drew on previously developed models and packages for BEAST2(Bouckaert et al, 2019; <a class=\"ref-link\" id=\"cVolz_2018_a\" href=\"#rVolz_2018_a\">Volz and Siveroni, 2018</a>). It is therefore feasible for phylodynamic analysis to provide a rapid supplement to epidemiological surveillance, however this requires rapid sequencing and timely sharing of data as well as randomized concentrated sampling of the epidemic within localities such as individual cities."
+        ],
+        "Methods and Materials": [
+            "Epidemiological investigation, sampling, and genetic sequencing. As of 10 February 2020, 136 suspected cases, and 214 close contacts were diagnosed by Weifang Center for Disease Control and",
+            "Prevention. 28 cases were detected positive with SARS-CoV-2. Viral RNA was extracted using Maxwell",
+            "Viral Total Nucleic Acid Purification Kit (Promega AS1150) by magnetic bead method and RNeasy",
+            "Mini Kit (QIAGEN 74104) by column method. RT-qPCR was carried out using 2019 novel coronavirus nucleic acid detection kit (BioGerm, Shanghai, China) to confirm the presence of SARS-CoV-2 viral",
+            "RNA with cycle threshold (Ct) values range from 17 to 37, targeting the high conservative region (ORF1ab/N gene) in SARS-CoV-2 genome. Metagenomic sequencing: The concentration of RNA samples was measurement by Qubit RNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA).",
+            "DNase was used to remove host DNA. The remaining RNA was used to construct the single-stranded circular DNA library with MGIEasy RNA Library preparation reagent set (MGI, Shenzhen, China).",
+            "Purified RNA was then fragmented. Using these short fragments as templates, random hexamers were used to synthesize the first-strand cDNA, followed by the second strand synthesis. Using the short double-strand DNA, a DNA library was constructed through end repair, adaptor ligation, and PCR amplification. PCR products were transformed into a single strand circular DNA library through DNA-denaturation and circularization. DNA nanoballs (DNBs) were generated with the single-stranded circular DNA library by rolling circle replication (RCR). The DNBs were loaded into the flow cell and pair-end 100bp sequencing on the DNBSEQ-T7 platform 8 (MGI, Shenzhen, China).",
+            "genomes were assembled with length from 26,840 to 29,882 nucleotides. The median age of patients was 36 (range:6-75). Two of twenty patients suffered severe or critical illness. Weifang sequences were combined with a diverse selection of sequences from China outside of Weifang and other countries provided by GISAIDElbe and Buckland-Merrett (2017). The new Weifang sequences are deposited in GISAID (XXXX-XXXX).",
+            "Mathematical model. The phylodynamic model is designed to account for nonlinear epidemic dynamics in Weifang, a realistic course of infection (incubation and infectious periods), migration of lineages in and out of Weifang, and variance in transmission rates which can influence epidemic size estimates. The model of epidemic dynamics within Weifang is based on a susceptible-exposedinfectious-recovered (SEIR) model. We elaborate the model with with an additional compartment",
+            "J which has a higher transmission rate (\u03c4-fold higher) than the I compartment. Upon leaving the incubation period individuals progress to the J compartment with probability ph , or otherwise to I.",
+            "We also model an exponentially growing reservoir Y (t) for imported lineages in to Weifang. The equation governing this population is",
+            "\u1e8e (t) = (\u03c1 \u2212 \u03bc)Y (t).",
+            "Migration is modeled as a bidirectional process which only depends on the size of variables in the Weifang compartment and thus migration does not influence epidemic dynamics; it will only influence the inferred probability that a lineage resides within Weifang. For a compartment X (E,I, or J), \u03b7 is the per lineage rate of migration out of Weifang and the total rate of migration in and out of Weifang is \u03b7X.",
+            "During phylodynamic model fitting \u03b2 and \u03c1 are estimated. Additionally, we estimate initial sizes of Y , E, and S. Other parameters are fixed based on prior information. We fix 1\u2215\u03b30 = 4.1days and",
+            "1\u2215\u03b31 = 3.8 days. We set ph = 0.20 and \u03c4 = 74 which yields a dispersion of the reproduction number that matches a negative binomial distribution with k = 0.22 if R0 = 2, similar to values estimated for the 2003 SARS epidemic (Lloyd-Smith et al, 2005).",
+            "Phylogenetic analysis. We aligned the 20 Weifang sequences using MAFFT(<a class=\"ref-link\" id=\"cKatoh_2013_a\" href=\"#rKatoh_2013_a\">Katoh and Standley, 2013</a>) with a previous aligment of 35 SARS-CoV 2 sequences from outside of Weifang(Volz et al., 2020). Maximum likelihood analysis was carried using IQTree(Minh et al, 2019) with a HKY+G4 substitution model and a time-scaled tree was estimated using treedater 0.5.0(<a class=\"ref-link\" id=\"cVolz_2017_a\" href=\"#rVolz_2017_a\">Volz and Frost, 2017</a>).",
+            "Two outliers according to the molecular clock model were identified and removed using \u2018treedater\u2019",
+            "which was also used to compute the root to tip regression.",
+            "Bayesian phylogenetic analysis was carried out using BEAST 2.6.1(Bouckaert et al, 2019) using a",
+            "HKY+G4 substitution model and a strict molecular clock. The phylodynamic model was implemented using the PhyDyn package(<a class=\"ref-link\" id=\"cVolz_2018_a\" href=\"#rVolz_2018_a\">Volz and Siveroni, 2018</a>) using the QL likelihood approximation and the",
+            "RK ODE solver. The model was fitted by running 8 MCMC chains in parallel and combining chains after removing 50% burn-in.",
+            "The ggtree package was used for all phylogeny visualizations(<a class=\"ref-link\" id=\"cYu_et+al_2017_a\" href=\"#rYu_et+al_2017_a\">Yu et al, 2017</a>).",
+            "Code to replicate this analysis and and BEAST XML files can be found at https://github.com/",
+            "emvolz/weifang-sarscov2."
+        ],
+        "Funding": [
+            "This work was supported by Centre funding from the UK Medical Research Council under a concordat with the UK Department for International Development. NIHR. J-IDEA. This work was also supported by a grant from the Special Project for Prevention and Control of Pneumonia of New",
+            "Coronavirus Infection in Weifang Science and Technology Development Plan in 2020 (2020YQFK015)",
+            "to Associate Senior Technologist Qing Nie. Role of the Funders: All funders of the study had no role in study design, data analysis, data interpretation, or writing of the report."
+        ],
+        "Acknowledgements": [
+            "We gratefully acknowledge China National GeneBank at Shenzhen, China for the sequencing strategy and capacity support. We also gratefully acknowledge the laboratories that have contributed publicly available genomes via GISAID: Shanghai Public Health Clinical Center & School of Public",
+            "Health, Fudan University, Shanghai, China, at the National Institute for Viral Disease Control and",
+            "Prevention, China CDC, Beijing, China, at the Institute of Pathogen Biology, Chinese Academy of",
+            "Medical Sciences & Peking Union Medical College, Beijing, China, at the Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China, at the Department of Microbiology, Zhejiang Provincial",
+            "Center for Disease Control and Prevention, Hangzhou, China, at the Guangdong Provincial Center for Diseases Control and Prevention at the Department of Medical Sciences, at the Shenzhen Key",
+            "Laboratory of Pathogen and Immunity, Shenzhen, China, at the Hangzhou Center for Disease and",
+            "Control Microbiology Lab, Zhejiang, China, at the National Institute of Health, Nonthaburi, Thailand, at the National Institute of Infectious Diseases, Tokyo, Japan, at the Korea Centers for Disease",
+            "Control & Prevention, Cheongju, Korea, at the National Public Health Laboratory, Singapore, at the",
+            "US Centers for Disease Control and Prevention, Atlanta, USA, at the Institut Pasteur, Paris, France, at the Respiratory Virus Unit, Microbiology Services Colindale, Public Health England, and at the",
+            "Department of Virology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland, and at the University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, Australia, at the Victorian Infectious Disease Reference Laboratory, Melbourne, Australia, at the",
+            "Public Health Virology Laboratory, Brisbane, Australia and at the Institute of Clinical Pathology and",
+            "Medical Research, University of Sydney, Westmead, Australia."
+        ],
+        "References": [
+            "Bedford T, Cryptic transmission of novel coronavirus revealed by genomic epidemiology; 2020. Accessed: 2020-3-8. https://bedford.io/blog/ncov-cryptic-transmission/.",
+            "Bouckaert R, Vaughan TG, Barido-Sottani J, Duch\u00eane S, Fourment M, Gavryushkina A, Heled J, Jones G, K\u00fchnert",
+            "D, De Maio N, et al BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS computational biology. 2019; 15(4):e1006650.",
+            "Dudas G, Carvalho LM, Rambaut A, Bedford T. MERS-CoV spillover at the camel-human interface. Elife. 2018",
+            "Apr; 7.",
+            "Elbe S, Buckland-Merrett G. Data, disease and diplomacy: GISAID\u2019s innovative contribution to global health.",
+            "Global Challenges. 2017; 1(1):33\u201346.",
+            "Gire SK, Goba A, Andersen KG, Sealfon RSG, Park DJ, Kanneh L, Jalloh S, Momoh M, Fullah M, Dudas G, Wohl S, Moses LM, Yozwiak NL, Winnicki S, Matranga CB, Malboeuf CM, Qu J, Gladden AD, Schaffner SF, Yang X, et al.",
+            "Genomic surveillance elucidates Ebola virus origin and transmission during the 2014 outbreak. Science. 2014",
+            "Sep; 345(6202):1369\u20131372.",
+            "Grantz K, Metcalf J, Lessler J, Dispersion vs. Control [Internet].[cited 2020 Feb 12];.",
+            "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen",
+            "RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, et al Clinical Characteristics of Coronavirus Disease 2019 in China.",
+            "N Engl J Med. 2020 Feb; .",
+            "Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Molecular biology and evolution. 2013; 30(4):772\u2013780.",
+            "Keeling MJ, Rohani P. Modeling Infectious Diseases in Humans and Animals. Princeton University Press; 2011.",
+            "Li LM, Grassly NC, Fraser C. Quantifying Transmission Heterogeneity Using Both Pathogen Phylogenies and",
+            "Incidence Time Series. Mol Biol Evol. 2017 Nov; 34(11):2982\u20132995.",
+            "Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on disease emergence. Nature. 2005 Nov; 438(7066):355\u2013359.",
+            "Mao H. Weifang City announces fever clinics. Weifang News Network. 2020 Jan; .",
+            "Minh BQ, Schmidt H, Chernomor O, Schrempf D, Woodhams M, von Haeseler A, Lanfear R. IQ-TREE 2: New models and efficient methods for phylogenetic inference in the genomic era; 2019.",
+            "Stadler T, Phylodynamic Analyses based on 11 genomes from the Italian outbreak; 2020. Accessed: 2020-3-8.",
+            "http://virological.org/t/phylodynamic-analyses-based-on-11-genomes-from-the-italian-outbreak/426.",
+            "Verity Hill AR, Phylodynamic analysis of SARS-CoV-2 | Update 2020-03-06; 2020. Accessed: 2020-3-8. http:",
+            "//virological.org/t/phylodynamic-analysis-of-sars-cov-2-update-2020-03-06/420.",
+            "Volz EM, Frost SDW. Scalable relaxed clock phylogenetic dating. Virus Evol. 2017 Jul; 3(2).",
+            "Volz E, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunub\u00e1 Z, Cuomo-Dannenburg G, Donnelly CA, Dorigatti",
+            "I, Fitzjohn R, Fu H, Gaythorpe K, Ghani A, Hamlet A, Hinsley W, Imai N, Laydon D, Nedjati-Gilani L Gemma abd Okell, Riley S, van Elsland S, et al Report 5: Phylogenetic analysis of SARS-CoV-2; 2020.",
+            "Volz EM, Siveroni I. Bayesian phylodynamic inference with complex models. PLoS Comput Biol. 2018 Nov; 14(11):e1006546.",
+            "Yu G, Smith DK, Zhu H, Guan Y, Lam TTY. ggtree : an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data. Methods Ecol Evol. 2017 Jan; 8(1):28\u201336.",
+            "Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Feb; .",
+            "\u25cf",
+            "2019.95",
+            "2020.05",
+            "Figure 1\u2013Figure supplement 1. A time scaled phylogeny estimated using IQTree and treedater and using the same data as used for the Bayesian analysis.",
+            "Wuhan/IPBCAMS\u2212WH\u221201/2019",
+            "Wuhan/WH01/2019",
+            "Wuhan\u2212Hu\u22121/2019",
+            "Wuhan/IVDC\u2212HB\u221201/2019",
+            "Wuhan/IPBCAMS\u2212WH\u221204/2019",
+            "Wuhan/IPBCAMS\u2212WH\u221202/2019",
+            "Wuhan/IVDC\u2212HB\u221205/2019",
+            "Wuhan/IPBCAMS\u2212WH\u221203/2019",
+            "Wuhan/HBCDC\u2212HB\u221201/2019",
+            "Wuhan/IVDC\u2212HB\u221204/2020",
+            "Wuhan/WH04/2020",
+            "Nonthaburi/61/2020",
+            "Nonthaburi/74/2020",
+            "Guangdong/20SF012/2020",
+            "Shenzhen/SZTH\u2212003/2020",
+            "Guangdong/20SF014/2020",
+            "Guangdong/20SF040/2020",
+            "USA\u2212WA1/2020",
+            "USA/CA2/2020",
+            "USA/AZ1/2020",
+            "USA/IL1/2020",
+            "Australia/VIC01/2020",
+            "USA/CA1/2020",
+            "Guangzhou/20SF206/2020",
+            "Foshan/20SF207/2020",
+            "Foshan/20SF210/2020",
+            "Japan/AI/I\u2212004/2020",
+            "Singapore/1/2020",
+            "France/IDF0373/2020",
+            "WFCDC0002",
+            "Taiwan/2/2020",
+            "WFCDC0001",
+            "Guangdong/20SF201/2020",
+            "WFCDC0004",
+            "WFCDC0003",
+            "WFCDC0006",
+            "Germany/BavPat1/2020",
+            "WFCDC0009",
+            "WFCDC0024",
+            "Finland/1/2020",
+            "WFCDC0012",
+            "WFCDC0021",
+            "WFCDC0015",
+            "WFCDC0026",
+            "WFCDC0023",
+            "WFCDC0029",
+            "WFCDC0016",
+            "WFCDC0018",
+            "WFCDC0020",
+            "WFCDC0019",
+            "WFCDC0017",
+            "WFCDC0014",
+            "WFCDC0028",
+            "0.10",
+            "Figure 1\u2013Figure supplement 2. A tree density plot based on the posterior distribution of trees computed in BEAST2.",
+            "1.5e\u221206",
+            "1.0e\u221206",
+            "5.0e\u221207",
+            "0.0e+00",
+            "Jan 06",
+            "Weifang TMRCA",
+            "Figure 1\u2013Figure supplement 3. The estimated posterior TMRCA among all Weifang lineages."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "genomes",
+            "number": 2,
+            "context": "With few exceptions, genomic epidemiological analysis has focused on geographically distributed data sets with few isolates in any given location. <mark class=\"stats\">Here we report an analysis of 20 whole SARS-CoV 2 genomes from a single relatively small and geographically constrained outbreak in Weifang, People\u2019s Republic of China</mark>. Using Bayesian model-based phylodynamic methods, we estimate the reproduction number for the outbreak to be 1.99(95% CI:1.48-3.14)"
+        },
+        {
+            "participant": "suspected cases",
+            "number": 136,
+            "context": "<strong>Methods and Materials</strong><br/><br/>Epidemiological investigation, sampling, and genetic sequencing. <mark class=\"stats\">As of 10 February 2020, 136 suspected cases, and 214 close contacts were diagnosed by Weifang Center for Disease Control and<br/><br/>Prevention. 28 cases were detected positive with SARS-CoV-2</mark>. Viral RNA was extracted using Maxwell<br/><br/>Viral Total Nucleic Acid Purification Kit (Promega AS1150) by magnetic bead method and RNeasy<br/><br/>Mini Kit (QIAGEN 74104) by column method"
+        },
+        {
+            "participant": "suspected cases",
+            "number": 136,
+            "context": "The remaining RNA was used to construct the single-stranded circular DNA library with MGIEasy RNA Library preparation reagent set (MGI, Shenzhen, China).Epidemiological investigation, sampling, and genetic sequencing. <mark class=\"stats\">As of 10 February 2020, 136 suspected cases, and 214 close contacts were diagnosed by Weifang Center for Disease Control and</mark>. Prevention. 28 cases were detected positive with SARS-CoV-2"
+        },
+        {
+            "participant": "cases",
+            "number": 28,
+            "context": "As of 10 February 2020, 136 suspected cases, and 214 close contacts were diagnosed by Weifang Center for Disease Control and. <mark class=\"stats\">Prevention. 28 cases were detected positive with SARS-CoV-2</mark>. Viral RNA was extracted using Maxwell"
+        },
+        {
+            "participant": "genomes",
+            "number": 33,
+            "context": "Figure 1A. <mark class=\"stats\">shows the estimated time scaled phylogeny (maximum clade credibility) including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally</mark>. Figure 1B illustrates the phylodynamic model which was co-estimated with the phylogeny which provides estimates of epidemiological parameters summarized in Table 1"
+        },
+        {
+            "participant": "cumulative confirmed cases",
+            "number": 44,
+            "context": "Our estimates do not support the hypothesis that there was a very large hidden burden of infection in Weifang over the period that the sequence data were sampled. <mark class=\"stats\">Indeed, our central estimate for the number infected on 10th February is 53, which is only slightly in excess of the 44 cumulative confirmed cases at the end of February</mark>. Log-normal(mean log=6, sd log=1)"
+        },
+        {
+            "participant": "genomes",
+            "number": 2,
+            "context": "These dates cover a similar range as the posterior TMRCA of all Weifang sequences (Figure Supplement 3). <mark class=\"stats\">Our analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city</mark>. Surveillance of COVID19 is rendered difficult by high proportions of illness with mild severity and an unknown proportion of asymptomatic infection(Guan et al, 2020)"
+        },
+        {
+            "participant": "suspected cases",
+            "number": 136,
+            "context": "Epidemiological investigation, sampling, and genetic sequencing. <mark class=\"stats\">As of 10 February 2020, 136 suspected cases, and 214 close contacts were diagnosed by Weifang Center for Disease Control and</mark>. Prevention. 28 cases were detected positive with SARS-CoV-2"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Using Bayesian model-based phylodynamic methods, we estimate the reproduction number for the outbreak to be 1.99(95% CI:1.48-3.14)</mark>",
+                "tests": [
+                    {
+                        "test": "Using Bayesian model"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Maximum likelihood analysis was carried using IQTree(Minh et al, 2019) with a HKY+G4 substitution model and a time-scaled tree was estimated using treedater 0.5.0(<a class=\"ref-link\" id=\"cVolz_2017_a\" href=\"#rVolz_2017_a\">Volz and Frost, 2017</a>)</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum likelihood"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">shows the estimated time scaled phylogeny (maximum clade credibility) including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally</mark>",
+                "tests": [
+                    {
+                        "test": "maximum clade credibility"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Supplement 1 shows that maximum likelihood inference of time-scaled phylogenies produces a distribution of TMRCAs which are substantially different than the Bayesian model-based analysis</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood"
+                    },
+                    {
+                        "test": "Bayesian model"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Maximum likelihood analysis was carried using IQTree(Minh et al, 2019) with a HKY+G4 substitution model and a time-scaled tree was estimated using treedater 0.5.0(Volz and Frost, 2017)</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum likelihood"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "Centers for Disease Control",
+        "rolling circle replication",
+        "community transmission",
+        "reproduction number",
+        "weifang centers",
+        "peoples republic",
+        "social distancing measure",
+        "cycle threshold",
+        "epidemiology",
+        "genomic epidemiology",
+        "weifang city",
+        "genomic epidemiological analysis",
+        "public health",
+        "coronavirus",
+        "DNA nanoballs",
+        "late january",
+        "disease control",
+        "genetic sequence datum",
+        "SARS",
+        "sars cov",
+        "case ascertainment",
+        "epidemiological trend"
+    ],
+    "keyword_relevance": {
+        "Centers for Disease Control": 0.36363636363636365,
+        "SARS": 0.16883116883116883,
+        "reproduction number": 0.09090909090909091,
+        "public health": 0.05194805194805195,
+        "DNA nanoballs": 0.05194805194805195,
+        "coronavirus": 0.03896103896103896,
+        "case ascertainment": 0.03896103896103896,
+        "rolling circle replication": 0.025974025974025976,
+        "community transmission": 0.025974025974025976,
+        "social distancing measure": 0.025974025974025976,
+        "cycle threshold": 0.025974025974025976,
+        "epidemiology": 0.025974025974025976,
+        "genomic epidemiological analysis": 0.025974025974025976,
+        "epidemiological trend": 0.025974025974025976,
+        "genomic epidemiology": 0.012987012987012988,
+        "weifang centers": 0.0,
+        "peoples republic": 0.0,
+        "weifang city": 0.0,
+        "late january": 0.0,
+        "disease control": 0.0,
+        "genetic sequence datum": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The authors report a genomic epidemiological analysis of one of the first geographically concentrated community transmission samples of SARS-CoV 2 genetic sequences collected outside of the initial outbreak in Wuhan, China",
+        "These data comprise 20 whole genome sequences from confirmed.",
+        "The objective of the analysis is to evaluate epidemiological trends based on national surveillance and response efforts by Weifang Centers for Disease Control (CDC)",
+        "This analysis provides an estimate of the initial rate of spread and reproduction number in Weifang City.",
+        "A secondary aim is to estimate the total numbers infected and to evaluate the possibility that there is a large unmeasured burden of infection due to imperfect case ascertainment and a large proportion of infections with mild or asymptomatic illness",
+        "<h2 style=\"display: inline\">Methods:</h2> <strong>Methods and Materials</strong><br/><br/>Epidemiological investigation, sampling, and genetic sequencing.",
+        "28 cases were detected positive with SARS-CoV-2.",
+        "Viral Total Nucleic Acid Purification Kit (Promega AS1150) by magnetic bead method and RNeasy.",
+        "RT-qPCR was carried out using 2019 novel coronavirus nucleic acid detection kit (BioGerm, Shanghai, China) to confirm the presence of SARS-CoV-2 viral.",
+        "RNA with cycle threshold (Ct) values range from 17 to 37, targeting the high conservative region (ORF1ab/N gene) in SARS-CoV-2 genome.",
+        "Metagenomic sequencing: The concentration of RNA samples was measurement by Qubit RNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA).",
+        "The remaining RNA was used to construct the single-stranded circular DNA library with MGIEasy RNA Library preparation reagent set (MGI, Shenzhen, China)",
+        "<h2 style=\"display: inline\">Results:</h2> Despite an initial rapid increase in confirmed cases in Weifang in late January and early February, the number of confirmed cases by Weifang CDC show that outbreak peaked quite early and maximum number of cases ocurred on February 5.",
+        "Figure 1A shows the estimated time scaled phylogeny including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally.",
+        "The estimated number of infections is shown Figure 1C.",
+        "The time series of confirmed cases should lag the estimated number of infected because of delays from infection to appearance of symptoms and delays from symptoms to diagnosis.",
+        "The authors' central estimate for the number infected on 10th February is 53, which is only slightly in excess of the 44 cumulative confirmed cases at the end of February",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors' analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city.",
+        "The extent of under-reporting and case ascertainment rates has been widely debated.",
+        "Analysis of genetic sequence data provides an alternative source of information about epidemic size which can be more robust to imperfect case ascertainment.",
+        "The authors do not find evidence for a large hidden burden of infection within Weifang.",
+        "The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The authors report a genomic epidemiological analysis of one of the first geographically concentrated community transmission samples of SARS-CoV 2 genetic sequences collected outside of the initial outbreak in Wuhan, China",
+            "These data comprise 20 whole genome sequences from confirmed.",
+            "The objective of the analysis is to evaluate epidemiological trends based on national surveillance and response efforts by Weifang Centers for Disease Control (CDC)",
+            "This analysis provides an estimate of the initial rate of spread and reproduction number in Weifang City.",
+            "A secondary aim is to estimate the total numbers infected and to evaluate the possibility that there is a large unmeasured burden of infection due to imperfect case ascertainment and a large proportion of infections with mild or asymptomatic illness"
+        ],
+        "Methods": [
+            "<strong>Methods and Materials</strong><br/><br/>Epidemiological investigation, sampling, and genetic sequencing.",
+            "28 cases were detected positive with SARS-CoV-2.",
+            "Viral Total Nucleic Acid Purification Kit (Promega AS1150) by magnetic bead method and RNeasy.",
+            "RT-qPCR was carried out using 2019 novel coronavirus nucleic acid detection kit (BioGerm, Shanghai, China) to confirm the presence of SARS-CoV-2 viral.",
+            "RNA with cycle threshold (Ct) values range from 17 to 37, targeting the high conservative region (ORF1ab/N gene) in SARS-CoV-2 genome.",
+            "Metagenomic sequencing: The concentration of RNA samples was measurement by Qubit RNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA).",
+            "The remaining RNA was used to construct the single-stranded circular DNA library with MGIEasy RNA Library preparation reagent set (MGI, Shenzhen, China)"
+        ],
+        "Results": [
+            "Despite an initial rapid increase in confirmed cases in Weifang in late January and early February, the number of confirmed cases by Weifang CDC show that outbreak peaked quite early and maximum number of cases ocurred on February 5.",
+            "Figure 1A shows the estimated time scaled phylogeny including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally.",
+            "The estimated number of infections is shown Figure 1C.",
+            "The time series of confirmed cases should lag the estimated number of infected because of delays from infection to appearance of symptoms and delays from symptoms to diagnosis.",
+            "The authors' central estimate for the number infected on 10th February is 53, which is only slightly in excess of the 44 cumulative confirmed cases at the end of February"
+        ],
+        "Conclusion": [
+            "The authors' analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city.",
+            "The extent of under-reporting and case ascertainment rates has been widely debated.",
+            "Analysis of genetic sequence data provides an alternative source of information about epidemic size which can be more robust to imperfect case ascertainment.",
+            "The authors do not find evidence for a large hidden burden of infection within Weifang.",
+            "The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "Bedford_2020_a",
+            "alt_id": "1",
+            "entry": "Bedford T, Cryptic transmission of novel coronavirus revealed by genomic epidemiology; 2020. Accessed: 215 2020-3-8. https://bedford.io/blog/ncov-cryptic-transmission/.",
+            "url": "https://bedford.io/blog/ncov-cryptic-transmission/",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bedford%20T%20Cryptic%20transmission%20of%20novel%20coronavirus%20revealed%20by%20genomic%20epidemiology%202020%20Accessed%20215%20202038%20httpsbedfordioblogncovcryptictransmission",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bedford%20T%20Cryptic%20transmission%20of%20novel%20coronavirus%20revealed%20by%20genomic%20epidemiology%202020%20Accessed%20215%20202038%20httpsbedfordioblogncovcryptictransmission"
+        },
+        {
+            "id": "Bouckaert_2019_a",
+            "alt_id": "2",
+            "entry": "Bouckaert R, Vaughan TG, Barido-Sottani J, Duch\u00eane S, Fourment M, Gavryushkina A, Heled J, Jones G, K\u00fchnert 217 D, De Maio N, et al. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS 218 computational biology. 2019; 15(4):e1006650.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bouckaert%20R%20Vaughan%20TG%20BaridoSottani%20J%20Duch%C3%AAne%20S%20Fourment%20M%20Gavryushkina%20A%20Heled%20J%20Jones%20G%20K%C3%BChnert%20217%20D%20De%20Maio%20N%20et%20al%20BEAST%2025%20An%20advanced%20software%20platform%20for%20Bayesian%20evolutionary%20analysis%20PLoS%20218%20computational%20biology%202019%20154e1006650"
+        },
+        {
+            "id": "Dudas_et+al_2018_a",
+            "alt_id": "3",
+            "entry": "Dudas G, Carvalho LM, Rambaut A, Bedford T. MERS-CoV spillover at the camel-human interface. Elife. 2018",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Dudas%2C%20G.%20Carvalho%2C%20L.M.%20Rambaut%2C%20A.%20Bedford%2C%20T.%20MERS-CoV%20spillover%20at%20the%20camel-human%20interface.%20Elife%202018"
+        },
+        {
+            "id": "222",
+            "alt_id": "Challenges_2017_a",
+            "entry": "222 Global Challenges. 2017; 1(1):33\u201346.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Global%20Challenges%202017%20113346"
+        },
+        {
+            "id": "Gire_2014_a",
+            "alt_id": "5",
+            "entry": "Gire SK, Goba A, Andersen KG, Sealfon RSG, Park DJ, Kanneh L, Jalloh S, Momoh M, Fullah M, Dudas G, Wohl S, 224 Moses LM, Yozwiak NL, Winnicki S, Matranga CB, Malboeuf CM, Qu J, Gladden AD, Schaffner SF, Yang X, et al. 225 Genomic surveillance elucidates Ebola virus origin and transmission during the 2014 outbreak. Science. 2014 226 Sep; 345(6202):1369\u20131372.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gire%20SK%20Goba%20A%20Andersen%20KG%20Sealfon%20RSG%20Park%20DJ%20Kanneh%20L%20Jalloh%20S%20Momoh%20M%20Fullah%20M%20Dudas%20G%20Wohl%20S%20224%20Moses%20LM%20Yozwiak%20NL%20Winnicki%20S%20Matranga%20CB%20Malboeuf%20CM%20Qu%20J%20Gladden%20AD%20Schaffner%20SF%20Yang%20X%20et%20al%20225%20Genomic%20surveillance%20elucidates%20Ebola%20virus%20origin%20and%20transmission%20during%20the%202014%20outbreak%20Science%202014%20226%20Sep%20345620213691372",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gire%20SK%20Goba%20A%20Andersen%20KG%20Sealfon%20RSG%20Park%20DJ%20Kanneh%20L%20Jalloh%20S%20Momoh%20M%20Fullah%20M%20Dudas%20G%20Wohl%20S%20224%20Moses%20LM%20Yozwiak%20NL%20Winnicki%20S%20Matranga%20CB%20Malboeuf%20CM%20Qu%20J%20Gladden%20AD%20Schaffner%20SF%20Yang%20X%20et%20al%20225%20Genomic%20surveillance%20elucidates%20Ebola%20virus%20origin%20and%20transmission%20during%20the%202014%20outbreak%20Science%202014%20226%20Sep%20345620213691372",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gire%20SK%20Goba%20A%20Andersen%20KG%20Sealfon%20RSG%20Park%20DJ%20Kanneh%20L%20Jalloh%20S%20Momoh%20M%20Fullah%20M%20Dudas%20G%20Wohl%20S%20224%20Moses%20LM%20Yozwiak%20NL%20Winnicki%20S%20Matranga%20CB%20Malboeuf%20CM%20Qu%20J%20Gladden%20AD%20Schaffner%20SF%20Yang%20X%20et%20al%20225%20Genomic%20surveillance%20elucidates%20Ebola%20virus%20origin%20and%20transmission%20during%20the%202014%20outbreak%20Science%202014%20226%20Sep%20345620213691372"
+        },
+        {
+            "id": "Grantz_et+al_0000_a",
+            "alt_id": "6",
+            "entry": "Grantz K, Metcalf J, Lessler J, Dispersion vs. Control [Internet].[cited 2020 Feb 12];.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Grantz%2C%20K.%20Metcalf%2C%20J.%20Lessler%2C%20J.%20Dispersion%20vs",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Grantz%2C%20K.%20Metcalf%2C%20J.%20Lessler%2C%20J.%20Dispersion%20vs",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Grantz%2C%20K.%20Metcalf%2C%20J.%20Lessler%2C%20J.%20Dispersion%20vs"
+        },
+        {
+            "id": "Guan_2019_a",
+            "alt_id": "7",
+            "entry": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen 229 RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, et al. Clinical Characteristics of Coronavirus Disease 2019 in China.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guan%20WJ%20Ni%20ZY%20Hu%20Y%20Liang%20WH%20Ou%20CQ%20He%20JX%20Liu%20L%20Shan%20H%20Lei%20CL%20Hui%20DSC%20Du%20B%20Li%20LJ%20Zeng%20G%20Yuen%20KY%20Chen%20229%20RC%20Tang%20CL%20Wang%20T%20Chen%20PY%20Xiang%20J%20Li%20SY%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guan%20WJ%20Ni%20ZY%20Hu%20Y%20Liang%20WH%20Ou%20CQ%20He%20JX%20Liu%20L%20Shan%20H%20Lei%20CL%20Hui%20DSC%20Du%20B%20Li%20LJ%20Zeng%20G%20Yuen%20KY%20Chen%20229%20RC%20Tang%20CL%20Wang%20T%20Chen%20PY%20Xiang%20J%20Li%20SY%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guan%20WJ%20Ni%20ZY%20Hu%20Y%20Liang%20WH%20Ou%20CQ%20He%20JX%20Liu%20L%20Shan%20H%20Lei%20CL%20Hui%20DSC%20Du%20B%20Li%20LJ%20Zeng%20G%20Yuen%20KY%20Chen%20229%20RC%20Tang%20CL%20Wang%20T%20Chen%20PY%20Xiang%20J%20Li%20SY%20et%20al%20Clinical%20Characteristics%20of%20Coronavirus%20Disease%202019%20in%20China"
+        },
+        {
+            "id": "230",
+            "alt_id": "Med_2020_a",
+            "entry": "230 N Engl J Med. 2020 Feb;.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=N%20Engl%20J%20Med%202020%20Feb"
+        },
+        {
+            "id": "Katoh_2013_a",
+            "alt_id": "9",
+            "entry": "Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance 232 and usability. Molecular biology and evolution. 2013; 30(4):772\u2013780.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Katoh%2C%20K.%20Standley%2C%20D.M.%20MAFFT%20multiple%20sequence%20alignment%20software%20version%207%3A%20improvements%20in%20performance%20232%20and%20usability%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Katoh%2C%20K.%20Standley%2C%20D.M.%20MAFFT%20multiple%20sequence%20alignment%20software%20version%207%3A%20improvements%20in%20performance%20232%20and%20usability%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Katoh%2C%20K.%20Standley%2C%20D.M.%20MAFFT%20multiple%20sequence%20alignment%20software%20version%207%3A%20improvements%20in%20performance%20232%20and%20usability%202013"
+        },
+        {
+            "id": "Keeling_2011_a",
+            "alt_id": "10",
+            "entry": "Keeling MJ, Rohani P. Modeling Infectious Diseases in Humans and Animals. Princeton University Press; 2011.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Keeling%2C%20M.J.%20Rohani%2C%20P.%20Modeling%20Infectious%20Diseases%20in%20Humans%20and%20Animals%202011"
+        },
+        {
+            "id": "Li_et+al_2017_a",
+            "alt_id": "11",
+            "entry": "Li LM, Grassly NC, Fraser C. Quantifying Transmission Heterogeneity Using Both Pathogen Phylogenies and 235 Incidence Time Series. Mol Biol Evol. 2017 Nov; 34(11):2982\u20132995.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20L.M.%20Grassly%2C%20N.C.%20Fraser%2C%20C.%20Quantifying%20Transmission%20Heterogeneity%20Using%20Both%20Pathogen%20Phylogenies%20and%20235%20Incidence%20Time%20Series%202017-11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20L.M.%20Grassly%2C%20N.C.%20Fraser%2C%20C.%20Quantifying%20Transmission%20Heterogeneity%20Using%20Both%20Pathogen%20Phylogenies%20and%20235%20Incidence%20Time%20Series%202017-11",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20L.M.%20Grassly%2C%20N.C.%20Fraser%2C%20C.%20Quantifying%20Transmission%20Heterogeneity%20Using%20Both%20Pathogen%20Phylogenies%20and%20235%20Incidence%20Time%20Series%202017-11"
+        },
+        {
+            "id": "medRxiv_Nov;_a",
+            "alt_id": "12",
+            "entry": "medRxiv preprint doi: https://doi.org/10.1101/2020.03.09.20033365. The copyright holder for this preprint (which was not peer-reviewed)is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made aSvuaiblambleittuenddemr aanCuCs-BcrYip-Nt.CN-NoDt 4p.e0eInrtreernvaietiwoneadl l.icense.236 Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on 237 disease emergence. Nature.2005 Nov; 438(7066):355\u2013359.",
+            "crossref": "https://dx.doi.org/10.1101/2020.03.09.20033365",
+            "scite": "https://scite.ai/reports/10.1101/2020.03.09.20033365",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1101/2020.03.09.20033365"
+        },
+        {
+            "id": "238",
+            "alt_id": "Mao_2020_a",
+            "entry": "238 Mao H. Weifang City announces fever clinics. Weifang News Network. 2020 Jan;. 239 Minh BQ, Schmidt H, Chernomor O, Schrempf D, Woodhams M, von Haeseler A, Lanfear R. IQ-TREE 2: New 240 models and efficient methods for phylogenetic inference in the genomic era; 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mao%2C%20H.%20Weifang%20City%20announces%20fever%20clinics.%20Weifang%20News%20Network%202020-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Mao%2C%20H.%20Weifang%20City%20announces%20fever%20clinics.%20Weifang%20News%20Network%202020-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Mao%2C%20H.%20Weifang%20City%20announces%20fever%20clinics.%20Weifang%20News%20Network%202020-01"
+        },
+        {
+            "id": "241",
+            "alt_id": "Stadler_2020_a",
+            "entry": "241 Stadler T, Phylodynamic Analyses based on 11 genomes from the Italian outbreak; 2020. Accessed: 2020-3-8. 242 http://virological.org/t/phylodynamic-analyses-based-on-11-genomes-from-the-italian-outbreak/426.",
+            "url": "http://virological.org/t/phylodynamic-analyses-based-on-11-genomes-from-the-italian-outbreak/426",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Stadler%20T%20Phylodynamic%20Analyses%20based%20on%2011%20genomes%20from%20the%20Italian%20outbreak%202020%20Accessed%20202038%20242%20httpvirologicalorgtphylodynamicanalysesbasedon11genomesfromtheitalianoutbreak426",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Stadler%20T%20Phylodynamic%20Analyses%20based%20on%2011%20genomes%20from%20the%20Italian%20outbreak%202020%20Accessed%20202038%20242%20httpvirologicalorgtphylodynamicanalysesbasedon11genomesfromtheitalianoutbreak426"
+        },
+        {
+            "id": "245",
+            "alt_id": "Volz_2017_a",
+            "entry": "245 Volz EM, Frost SDW. Scalable relaxed clock phylogenetic dating. Virus Evol. 2017 Jul; 3(2). 246 Volz E, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunub\u00e1 Z, Cuomo-Dannenburg G, Donnelly CA, Dorigatti 247 I, Fitzjohn R, Fu H, Gaythorpe K, Ghani A, Hamlet A, Hinsley W, Imai N, Laydon D, Nedjati-Gilani L Gemma 248 abd Okell, Riley S, van Elsland S, et al. Report 5: Phylogenetic analysis of SARS-CoV-2; 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Volz%2C%20E.M.%20Frost%2C%20S.D.W.%20Scalable%20relaxed%20clock%20phylogenetic%20dating.%20Virus%20Evol%202017-07",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Volz%2C%20E.M.%20Frost%2C%20S.D.W.%20Scalable%20relaxed%20clock%20phylogenetic%20dating.%20Virus%20Evol%202017-07",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Volz%2C%20E.M.%20Frost%2C%20S.D.W.%20Scalable%20relaxed%20clock%20phylogenetic%20dating.%20Virus%20Evol%202017-07"
+        },
+        {
+            "id": "249",
+            "alt_id": "Volz_2018_a",
+            "entry": "249 Volz EM, Siveroni I. Bayesian phylodynamic inference with complex models. PLoS Comput Biol. 2018 Nov; 250 14(11):e1006546.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Volz%2C%20E.M.%20Siveroni%2C%20I.%20Bayesian%20phylodynamic%20inference%20with%20complex%20models%202018-11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Volz%2C%20E.M.%20Siveroni%2C%20I.%20Bayesian%20phylodynamic%20inference%20with%20complex%20models%202018-11",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Volz%2C%20E.M.%20Siveroni%2C%20I.%20Bayesian%20phylodynamic%20inference%20with%20complex%20models%202018-11"
+        },
+        {
+            "id": "251",
+            "alt_id": "Yu_et+al_2017_a",
+            "entry": "251 Yu G, Smith DK, Zhu H, Guan Y, Lam TTY. ggtree: an R package for visualization and annotation of phylogenetic 252 trees with their covariates and other associated data. Methods Ecol Evol. 2017 Jan; 8(1):28\u201336.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yu%2C%20G.%20Smith%2C%20D.K.%20Zhu%2C%20H.%20Guan%2C%20Y.%20ggtree%3A%20an%20R%20package%20for%20visualization%20and%20annotation%20of%20phylogenetic%20252%20trees%20with%20their%20covariates%20and%20other%20associated%20data%202017-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yu%2C%20G.%20Smith%2C%20D.K.%20Zhu%2C%20H.%20Guan%2C%20Y.%20ggtree%3A%20an%20R%20package%20for%20visualization%20and%20annotation%20of%20phylogenetic%20252%20trees%20with%20their%20covariates%20and%20other%20associated%20data%202017-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yu%2C%20G.%20Smith%2C%20D.K.%20Zhu%2C%20H.%20Guan%2C%20Y.%20ggtree%3A%20an%20R%20package%20for%20visualization%20and%20annotation%20of%20phylogenetic%20252%20trees%20with%20their%20covariates%20and%20other%20associated%20data%202017-01"
+        },
+        {
+            "id": "253",
+            "alt_id": "Zhou_2020_a",
+            "entry": "253 Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, 254 Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, et al. A pneumonia outbreak associated with a new 255 coronavirus of probable bat origin. Nature. 2020 Feb;.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%20P%20Yang%20XL%20Wang%20XG%20Hu%20B%20Zhang%20L%20Zhang%20W%20Si%20HR%20Zhu%20Y%20Li%20B%20Huang%20CL%20Chen%20HD%20Chen%20J%20Luo%20Y%20Guo%20H%20254%20Jiang%20RD%20Liu%20MQ%20Chen%20Y%20Shen%20XR%20Wang%20X%20Zheng%20XS%20et%20al%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20255%20coronavirus%20of%20probable%20bat%20origin%20Nature%202020%20Feb",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%20P%20Yang%20XL%20Wang%20XG%20Hu%20B%20Zhang%20L%20Zhang%20W%20Si%20HR%20Zhu%20Y%20Li%20B%20Huang%20CL%20Chen%20HD%20Chen%20J%20Luo%20Y%20Guo%20H%20254%20Jiang%20RD%20Liu%20MQ%20Chen%20Y%20Shen%20XR%20Wang%20X%20Zheng%20XS%20et%20al%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20255%20coronavirus%20of%20probable%20bat%20origin%20Nature%202020%20Feb",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%20P%20Yang%20XL%20Wang%20XG%20Hu%20B%20Zhang%20L%20Zhang%20W%20Si%20HR%20Zhu%20Y%20Li%20B%20Huang%20CL%20Chen%20HD%20Chen%20J%20Luo%20Y%20Guo%20H%20254%20Jiang%20RD%20Liu%20MQ%20Chen%20Y%20Shen%20XR%20Wang%20X%20Zheng%20XS%20et%20al%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20255%20coronavirus%20of%20probable%20bat%20origin%20Nature%202020%20Feb"
+        }
+    ],
+    "facts": [
+        "genomic epidemiological analysis has focused on geographically distributed data sets with few isolates",
+        "that these estimates are consistent with reported cases",
+        "The data were collected over the course of several weeks",
+        "evaluate epidemiological trends based on national surveillance and response efforts by Weifang Centers",
+        "This analysis provides an estimate of the initial rate of spread and reproduction number",
+        "social distancing measures were put in place",
+        "214 close contacts were diagnosed by Weifang Center for Disease Control",
+        "28 cases were detected positive with SARS-CoV-2",
+        "2019 novel coronavirus nucleic acid detection kit to confirm the presence of SARS-CoV-2",
+        "maximum number of cases ocurred on February 5",
+        "20 lineages sampled from distinct patients in Weifang",
+        "33 genomes sampled from Wuhan",
+        "the phylodynamic model which was co-estimated with the phylogeny",
+        "provides estimates of epidemiological parameters summarized in Table 1",
+        "that an unknown proportion of infections will be missed by the surveillance system",
+        "our central estimate for the number infected on 10th February is",
+        "China has confirmed independent observations regarding the rate of spread and burden of infection",
+        "Surveillance of COVID19 is rendered difficult by high proportions of illness",
+        "Analysis of genetic sequence data provides an alternative source of information about epidemic size",
+        "relatively low estimate of R0 is consistent with a slower rate of spread",
+        "effective control strategies implemented in late January",
+        "2019 novel coronavirus nucleic acid detection kit to confirm the presence of SARS-CoV-2 viral",
+        "Our central estimate for the number infected on 10th February is"
+    ],
+    "claims": [
+        "We report an analysis of 20 whole SARS-CoV 2 genomes from a single relatively small and geographically constrained outbreak in Weifang, People\u2019s Republic of China",
+        "We find that these estimates are consistent with reported cases and there is unlikely to be a large undiagnosed burden of infection over the period we studied",
+        "We also model an exponentially growing reservoir Y (t) for imported lineages in to Weifang"
+    ],
+    "findings": [
+        "Using Bayesian model-based phylodynamic methods, we estimate the reproduction number for the outbreak to be 1.99(95% CI:1.48-3.14)",
+        "There is correspondingly low confidence in tree topology (Figure Supplement 2), and only three clades had greater than 50% posterior support including one clade which had a monophyletic compoisition of 13 Weifang lineages"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Despite an initial rapid increase in confirmed cases in Weifang in late January and early February, the number of confirmed cases by Weifang Centers for Disease Control show that outbreak peaked quite early and maximum number of cases ocurred on February 5",
+        "Shows the estimated time scaled phylogeny including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally",
+        "Our central estimate for the number infected on 10th February is 53, which is only slightly in excess of the 44 cumulative confirmed cases at the end of February",
+        "Our analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city",
+        "Analysis of genetic sequence data provides an alternative source of information about epidemic size which can be more robust to imperfect case ascertainment",
+        "The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January"
+    ],
+    "top_statements": [
+        "We report a genomic epidemiological analysis of one of the first geographically concentrated community transmission samples of SARS-CoV 2 genetic sequences collected outside of the initial outbreak in Wuhan, China",
+        "Despite an initial rapid increase in confirmed cases in Weifang in late January and early February, the number of confirmed cases by Weifang Centers for Disease Control show that outbreak peaked quite early and maximum number of cases ocurred on February 5",
+        "Shows the estimated time scaled phylogeny including 20 lineages sampled from distinct patients in Weifang and 33 genomes sampled from Wuhan and internationally",
+        "Our analysis of 20 SARS-CoV 2 genomes from Weifang, China has confirmed independent observations regarding the rate of spread and burden of infection in the city",
+        "Analysis of genetic sequence data provides an alternative source of information about epidemic size which can be more robust to imperfect case ascertainment",
+        "The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January"
+    ],
+    "headline": "The relatively low estimate of R0 is consistent with a slower rate of spread outside of Wuhan and effective control strategies implemented in late January",
+    "contexts": [],
+    "abbreviations": {
+        "CDC": "Centers for Disease Control",
+        "Ct": "cycle threshold",
+        "DNBs": "DNA nanoballs",
+        "RCR": "rolling circle replication"
+    }
+}

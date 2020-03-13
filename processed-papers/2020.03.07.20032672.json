@@ -1,0 +1,450 @@
+{
+    "filename": "2020.03.07.20032672.full.pdf",
+    "content_type": "application/pdf",
+    "file_size": 332294,
+    "metadata": {
+        "identifiers": {
+            "doi": "10.1101/2020.03.07.20032672",
+            "url": "https://www.medrxiv.org/content/medrxiv/early/2020/03/10/2020.03.07.20032672.full.pdf"
+        },
+        "title": "Clinical outcomes of 402 patients with COVID-2019 from a single center in Wuhan, China",
+        "author": "Yingjie Wu, Wei Guo, Huan Liu, Bei Qi, Ke Liang, Bo Xu, Zhiyong Peng, Shu-Yuan Xiao",
+        "date": 2020,
+        "affiliations": [
+            "Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan, China",
+            "Department of Infectious Diseases, Zhongnan Hospital of Wuhan University,",
+            "Department of Radiology, Zhongnan Hospital of Wuhan University, Wuhan,",
+            "Department of Critical Care Medicine, Zhongnan Hospital of Wuhan University,",
+            "Department of Pathology, University of Chicago Medicine, Chicago, IL 60637"
+        ],
+        "abstract": "The SARS-CoV-2 outbreak is causing widespread infections and significant mortality. Previous studies describing clinical characteristics of the disease contained small cohorts from individual centers or larger series consisting of mixed cases from different hospitals. We report analyses of mortality and disease severity among 402 patients from a single hospital. The cohort included 297 patients with confirmed and 105 with suspected diagnosis. The latter group met the criteria for clinical diagnosis but nucleic acid tests results were initially interpreted as suspicious. Data were compared between genders and among different age groups. The overall case fatality is 5.2%. However, patients 70 years of age or older suffered a significantly higher mortality (17.8%), associated with more patients having severe or critical illness (57.5%). Patients 50 years of age or older had a mortality of 8.0%, and those younger than 50 years, 1.2%. Male patients had a mortality of 7.6% versus 2.9% in females.",
+        "keywords": [
+            "Coronavirus",
+            "fatality",
+            "mortality",
+            "COVID-19",
+            "SARS-CoV-2",
+            "diagnosis",
+            "epidemiology"
+        ],
+        "references": "@misc{wang-a,\n  author = {Wang, D. and Hu, B. and Hu, C.},\n  title = {Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N. and Zhang, D. and Wang, W.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {The New England journal of medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{chan-a,\n  author = {Chan, J.F.-W. and Kok, K.-H. and Zhu, Z.},\n  title = {Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan},\n  journal = {Emerging Microbes & Infections},\n  volume = {2020},\n  pages = {221\u201336},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{chan-b,\n  author = {Chan, J.F. and Yuan, S. and Kok, K.H.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {514\u201323},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@incollection{li2020a,\n  author = {Li, J. and Ye, Guangming and Chen, liangjun and Wang, jiajun and Li, Yirong},\n  title = {Analysis of false-negative results for 2019 novel coronavirus nucleic acid test and related countermeasures},\n  date = {2020},\n  volume = {43},\n  pages = {6},\n  unmatched-author = {Huang C, Wang Y, Li X, et al.},\n  source = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020},\n  number = {0},\n  language = {}\n}\n@misc{w-j-a,\n  author = {W-j, Guan and Z-y, Ni and Y, Hu},\n  title = {Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020: 2020.02.06.20020974},\n  more-authors = {true},\n  language = {}\n}\n@book{s-f-a,\n  author = {S-f, Tian and W, Hu and L, Niu},\n  title = {Pulmonary Pathology of Early Phase SARS-COV-2 Pneumonia},\n  publisher = {Preprints 2020, 2020020220},\n  doi = {doi: 10.20944/preprints202002.0220.v1},\n  more-authors = {true},\n  language = {}\n}\n@article{xu2020a,\n  author = {Xu, Z. and Shi, L. and Wang, Y.},\n  title = {Pathological findings of COVID-19 associated with acute respiratory distress syndrome},\n  journal = {The Lancet Respiratory Medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{so2002a,\n  author = {SO, Raghvendra K.Dubey and Imthurn, Bruno and Jackson, Edwin K.},\n  title = {Sex hormones and hypertension},\n  journal = {cardiovascular research},\n  date = {2002},\n  volume = {53},\n  pages = {688\u2013708},\n  number = {3},\n  language = {}\n}\n@article{kmmckm2018a,\n  author = {KMMCKM, Denton},\n  title = {Sex-specific differences in hypertension and associated cardiovascular disease},\n  journal = {nature reviews nephrology},\n  date = {2018},\n  volume = {14},\n  pages = {185\u2013201},\n  number = {3},\n  language = {}\n}\n@misc{zhao2019a,\n  author = {Zhao, Y. and Zhao, Z. and Wang, Y. and Zhou, Y. and Ma, Y. and Zuo, W.},\n  title = {Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan},\n  date = {2019},\n  language = {}\n}\n@article{channappanavar2017a,\n  author = {Channappanavar, R. and Fett, C. and Mack, M. and Ten Eyck, P.P. and Meyerholz, D.K. and Perlman, S.},\n  title = {Sex-Based Differences in Susceptibility to Severe Acute Respiratory Syndrome Coronavirus Infection},\n  journal = {The Journal of Immunology},\n  date = {2017},\n  volume = {198},\n  pages = {4046\u201353},\n  number = {10},\n  language = {}\n}\n@article{xiao2020a,\n  author = {Xiao, S.-Y. and Wu, Y. and Liu, H.},\n  title = {Evolving status of the 2019 novel coronavirus infection: Proposal of conventional serologic assays for disease diagnosis and infection monitoring},\n  journal = {J Med Virol},\n  date = {2020},\n  language = {}\n}\n",
+        "emails": [
+            "syxiao@uchicago.edu"
+        ],
+        "references_ris": "TY  - GEN\nAU  - Wang, D.\nAU  - Hu, B.\nAU  - Hu, C.\nTI  - Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - The New England journal of medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.-W.\nAU  - Kok, K.-H.\nAU  - Zhu, Z.\nTI  - Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan\nT2  - Emerging Microbes & Infections\nVL  - 2020\nSP  - 221\nEP  - 36\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nAU  - Yuan, S.\nAU  - Kok, K.H.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster\nT2  - Lancet\nVL  - 2020\nSP  - 514\nEP  - 23\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Li, J.\nAU  - Ye, Guangming\nAU  - Chen, liangjun\nAU  - Wang, jiajun\nAU  - Li, Yirong\nTI  - Analysis of false-negative results for 2019 novel coronavirus nucleic acid test and related countermeasures\nPY  - 2020\nDA  - 2020\nVL  - 43\nSP  - 6\nC1  - Huang C, Wang Y, Li X, et al.\nT2  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020\nIS  - 0\nLA  - \nER  - \n\nTY  - GEN\nAU  - W-j, Guan\nAU  - Z-y, Ni\nAU  - Y, Hu\nTI  - Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020: 2020.02.06.20020974\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - S-f, Tian\nAU  - W, Hu\nAU  - L, Niu\nTI  - Pulmonary Pathology of Early Phase SARS-COV-2 Pneumonia\nPB  - Preprints 2020, 2020020220\nDO  - 10.20944/preprints202002.0220.v1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, Z.\nAU  - Shi, L.\nAU  - Wang, Y.\nTI  - Pathological findings of COVID-19 associated with acute respiratory distress syndrome\nT2  - The Lancet Respiratory Medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - SO, Raghvendra K.Dubey\nAU  - Imthurn, Bruno\nAU  - Jackson, Edwin K.\nTI  - Sex hormones and hypertension\nT2  - cardiovascular research\nPY  - 2002\nDA  - 2002\nVL  - 53\nSP  - 688\nEP  - 708\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - KMMCKM, Denton\nTI  - Sex-specific differences in hypertension and associated cardiovascular disease\nT2  - nature reviews nephrology\nPY  - 2018\nDA  - 2018\nVL  - 14\nSP  - 185\nEP  - 201\nIS  - 3\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zhao, Y.\nAU  - Zhao, Z.\nAU  - Wang, Y.\nAU  - Zhou, Y.\nAU  - Ma, Y.\nAU  - Zuo, W.\nTI  - Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Channappanavar, R.\nAU  - Fett, C.\nAU  - Mack, M.\nAU  - Ten Eyck, P.P.\nAU  - Meyerholz, D.K.\nAU  - Perlman, S.\nTI  - Sex-Based Differences in Susceptibility to Severe Acute Respiratory Syndrome Coronavirus Infection\nT2  - The Journal of Immunology\nPY  - 2017\nDA  - 2017\nVL  - 198\nSP  - 4046\nEP  - 53\nIS  - 10\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xiao, S.-Y.\nAU  - Wu, Y.\nAU  - Liu, H.\nTI  - Evolving status of the 2019 novel coronavirus infection: Proposal of conventional serologic assays for disease diagnosis and infection monitoring\nT2  - J Med Virol\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In conclusion, analysis of a cohort of 402 COVID-19 patients from a single center revealed an overall mortality of 5.2% and 17.8% mortality in patients 70 years of age or older. Male patients had a mortality 3 times that of female. No death occurred to patients age younger than 30. Causes for difference between male and female are currently unknown."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Case fatalities by age and gender among patients with suspected and confirmed diagnosis for"
+            },
+            {
+                "id": "2",
+                "caption": "Portion of severe and critical cases by gender and age among patients with suspected and confirmed diagnosis of SARS-COV-2 infection"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Case fatality analysis of SARS-CoV-2 patients. (A) Fatality of confirmed or suspected cases. (B) Male versus female patients among all suspected and confirmed patients. (C) Male versus female patients, confirmed cases only. (D) Fatality by age groups among suspected and confirmed patients. (E) Fatality by age group among confirmed patients. *P<0.05; ***P<0.001"
+            },
+            {
+                "id": "2",
+                "caption": "Clinical severity classification among SARS-CoV-2 patients by gender and age groups. (A) Overall severity classification in all cases versus confirmed cases. (B) Severity classification in male versus female patients among all patients. (C) Severity classification in male versus female patients among confirmed patients. (D) Severity classification by age groups among all patients. (E) Severity classification by age among confirmed patients. ns. no significance; *P<0.05, **P<0.01"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.07.20032672.full.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032672.full/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032672.full/img-001.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "In December 2019, a cluster of \u201catypical\u201d pneumonia cases with then unknown causes occurred in several hospitals in Wuhan, Hubei Province, China[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Most of the initial patients had fever, fatigue and non-productive cough, and showed a characteristic ground glass shadow on chest CT imaging of the lungs. Some of these patients could be linked to a local fresh seafood market, Huanan Seafood Market, although others could not. A coronavirus was subsequently isolated and genomically sequenced. It was found that the viruses share nucleotide sequence homology of 79.5% to SARS-CoV and 85-96% to bat SARS-like coronavirus bat-SL-CoVZC45 at the whole genome level[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The virus was initially named 2019-novel coronavirus (2019-nCoV) on January 12, and subsequently, SARS-CoV-2 on February 11. Disease caused by the infection is now designated coronavirus infected disease 2019, or COVID-19. The outbreak thus represents a new emerging viral disease due to species \u201cjumping\u201d of an animal virus to humans. Currently, human-to-human transmissions of the virus have reached an unprecedent magnitude, in community, healthcare facilities, and at homes[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and spread to entire China and some parts of the world."
+        ],
+        "methods": [
+            "Patients<br/><br/>Patients presented to our hospital and had nucleic acid tests showing \u201cpositive\u201d or \u201csuspicious\u201d results from December 2019 to February 2, 2020 were included in this study. Electronic medical charts were reviewed. Patients demographics, status of nucleic acid tests, time of presentation and or illness, length of symptoms, and so on, were recorded. The clinical severity status (ie, common/mild, severe, or critical) and death were monitored up to February 2, 2020, the final date of follow-up.<br/><br/>All patients met the criteria for clinical diagnosis given by The National Health Commission of China (NHCC) Guidelines on novel coronavirus pneumonia for diagnosis and disease severity triage (5th Edition). Briefly, diagnosis was based on epidemic exposure, plus two of the following clinical findings: fever, radiographic features, normal or lowered white blood cells (WBC) or reduced lymphocyte count."
+        ],
+        "results": [
+            "Case fatality analysis of SARS-CoV-2 infected patients As showed in Table 1 and Figure 1A, the fatality of all confirmed and suspected COVID-19 patients was 5.2%, while fatality of confirmed cases was 5.7%. Male patients had higher fatality (7.6%) than females (2.9%) among all patients (P=0.04) (Figure 1B), while in confirmed cases, fatality in males was 8.8% and female 2.7% (P=0.03) (Figure 1C). The classification of case fatalities among different age groups were shown in Table 1 and Figure 1D and E. Fatalities in patients younger than 30 years of age, 30 to 49, 50 to 69, 70 and older were 0, 1.5%, 3.6% and 17.8% respectively among all suspected and confirmed patients (Figure 1D). The fatalities of patients under 30, from 30 to 49, from 49 to 69, 70 and older, were 0, 1.0%, 4.2% and 20.0%, respectively, among confirmed patients (Figure 1E). Taking years old as a cutoff in confirmed cases, the mortality in patients over 50 years old was 14.3% in males and 4.5% in females (Table 1)."
+        ],
+        "discussion": [
+            "From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed. The symptoms of this disease include but are not limited to fever, cough, myalgia, diarrhea, dyspnea[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Pathologically the lungs exhibit marked proteinaceous exudation and macrophages in alveolar spaces, as well as fibrin plugs in early phase [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], and hyaline membrane formation, reactive hyperplasia desquamation of alveolar epithelium [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] . In addition to pneumonia, patients may also suffer injuries in the heart, liver and kidneys. Up till February 2, the mortality of this disease in Wuhan is 5.5%, and in Hubei is 3.2%, while in the region outside of Hubei is 0.1% (China National Health Commission official website).<br/><br/>This study included COVID-2019 patients from Zhongnan Hospital, one of the largest tertiary teaching hospitals in Wuhan, Hubei province. From late December, 2019 to early January, 2020, before large scale isolation measures were implemented, many departments in the hospital experienced cross-infection among patients and to the medical staff, due to unrecognized infectious patients and lack of proper protection. Many patients in incubation period came to the hospital for illnesses other than respiratory symptoms or fever[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. After being designated as the specialized hospital, special isolation wards were built in each department[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. The period from which we collected the clinical data was before the prevention was in full implementation. Indeed, the overall mortality and the rate of severe cases in the study are higher than the national figures. There may be several causes for the higher mortality in Wuhan compared to other cities. First, the rapid transmission of the virus and increase of patient volume quickly overwhelmed medical resources in Wuhan, leaving many patients to receive care later in the clinical course. Secondly, there were a large number of patients who had mild or transient symptoms who never received diagnosis nor nucleic acid tests, and were not counted as COVID-19 patients, making the denominator of mortality smaller than real."
+        ],
+        "ethical_compliance": [
+            "This study was approved by the Ethics Board of Zhongnan Hospital of Wuhan University (No.2020012)"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "The SARS-CoV-2 outbreak is causing widespread infections and significant mortality. Previous studies describing clinical characteristics of the disease contained small cohorts from individual centers or larger series consisting of mixed cases from different hospitals. We report analyses of mortality and disease severity among 402 patients from a single hospital. The cohort included 297 patients with confirmed and 105 with suspected diagnosis. The latter group met the criteria for clinical diagnosis but nucleic acid tests results were initially interpreted as suspicious. Data were compared between genders and among different age groups. The overall case fatality is 5.2%. However, patients 70 years of age or older suffered a significantly higher mortality (17.8%), associated with more patients having severe or critical illness (57.5%). Patients 50 years of age or older had a mortality of 8.0%, and those younger than 50 years, 1.2%. Male patients had a mortality of 7.6% versus 2.9% in females."
+        ],
+        "Introduction": [
+            "In December 2019, a cluster of \u201catypical\u201d pneumonia cases with then unknown causes occurred in several hospitals in Wuhan, Hubei Province, China[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Most of the initial patients had fever, fatigue and non-productive cough, and showed a characteristic ground glass shadow on chest CT imaging of the lungs. Some of these",
+            "patients could be linked to a local fresh seafood market, Huanan Seafood Market, although others could not. A coronavirus was subsequently isolated and genomically sequenced. It was found that the viruses share nucleotide sequence homology of 79.5% to SARS-CoV and 85-96% to bat SARS-like coronavirus bat-SL-CoVZC45 at the whole genome level[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The virus was initially named 2019-novel coronavirus (2019-nCoV) on January 12, and subsequently, SARS-CoV-2 on February 11. Disease caused by the infection is now designated coronavirus infected disease 2019, or COVID-19. The outbreak thus represents a new emerging viral disease due to species \u201cjumping\u201d of an animal virus to humans. Currently, human-to-human transmissions of the virus have reached an unprecedent magnitude, in community, healthcare facilities, and at homes[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and spread to entire China and some parts of the world.",
+            "Initially, recognition and diagnosis of the disease, namely COVID-19, were based on the characteristic clinical, laboratory and radiological findings, with exclusion of other known respiratory agents. Soon after, definitive diagnosis required the detection of viral sequence by a nucleic acid test, reverse-transcriptase polymerase chain reaction (RT-PCR). Most previous reports on clinical case studies were based on this definition. However, it became evident that a significant portion of cases showed negative viral detections in pharyngeal swab specimens, although tested repeatedly, but clinically fit the diagnosis. The possible causes of this discrepancy are several, including but not limited to (1) not all patients with the lower respiratory tract involvement shed virus from the upper respiratory tracts, at least early on; (2) there might be insufficient consistency in sampling; (3) the sensitivity and specificity of the nucleic acid tests had not been sufficiently investigated[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Strictly following this criterium had prevented many patients from receiving timely care, particularly early on when availability of enough test kits could not meet the demand of the large number of symptomatic patients. The clinicians and authorities recognized these problems and made prompt changes to the diagnostic guidelines, so that patients meeting the criteria for clinical diagnosis in Hubei Province were treated as COVID-19 patients. In the updated version of the guidelines for clinical diagnosis and management of COVID-19 by the National Health Commission of China, definition for clinical diagnosis does not require a nucleic acid test result.",
+            "There have been several studies describing the clinical characteristics of SARS-CoV-2 infected patients[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], including symptoms, lab tests and radiographic features. These were smaller series, from 41[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] to 138 confirmed cases[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Some of the larger series consisted of mixed cases submitted from hospitals of varying sizes and settings[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Analysis of larger series with cases from a single center and expanding a longer period of time should offer more accurate information about the overall clinical outcomes, mortality and morbidity, because these cases would have followed more or less uniform diagnostic algorithms and had received more consistent treatment regimens. The results should have less interference from uncontrollable factors such as inconsistency in reporting from individual hospitals. In addition, patients included in these prior studies all had diagnosis confirmed by the nucleic acid tests for pharyngeal swab specimens. For the reasons described above, some patients not included due to suspicious nucleic acid test results may represent more mild illness, thus causing bias in clinical outcome analysis. Therefore, it is important to include cases with typical clinical presentations and course, even though \u201csuspicious\u201d result on nucleic acid tests, in studies of clinical outcomes and disease characteristics. In the current study, we analyzed data on 402 patients from a single hospital from December 2019 to February 2, 2020, with emphasis on mortality in these patients, in hope to understand characteristics related to clinical outcome in a more uniform clinical setting."
+        ],
+        "Material and Methods": [
+            "Patients presented to our hospital and had nucleic acid tests showing \u201cpositive\u201d or \u201csuspicious\u201d results from December 2019 to February 2, 2020 were included in this study. Electronic medical charts were reviewed. Patients demographics, status of nucleic acid tests, time of presentation and or illness, length of symptoms, and so on, were recorded. The clinical severity status (ie, common/mild, severe, or critical) and death were monitored up to February 2, 2020, the final date of follow-up.",
+            "All patients met the criteria for clinical diagnosis given by The National Health Commission of China (NHCC) Guidelines on novel coronavirus pneumonia for diagnosis and disease severity triage (5th Edition). Briefly, diagnosis was based on epidemic exposure, plus two of the following clinical findings: fever, radiographic features, normal or lowered white blood cells (WBC) or reduced lymphocyte count.",
+            "The real-time Reverse Transcription Polymerase Chain Reaction using the laryngeal swabs were performed as reported previously[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Initially, results of \u201cpositive\u201d nucleic acid tests were defined as 2 amplification sites in quantitative RT-PCR, while the \u201csuspicious\u201d results were defined as one of the two sites had a positive signal. Along with accumulating experience and knowledges about this disease and the test, both scenarios were considered as \u201cpositive\u201d subsequently. Therefore, all cases in this study that had been classified as \u201csuspicious\u201d were in fact positive cases. In addition, they all met the criterial for clinical diagnosis. In the following analysis, we keep the label of \u201csuspicious\u201d but also analyzed the initially confirmed cases in a separate group, side-by-side. Severity Group Designation",
+            "The common (mild) cases were those only had fever, respiratory symptoms, and pneumonia on chest radiography. Severe cases need to meet one of the following criteria: (1) respiratory distress, RR>=30/min; (2) resting blood oxygen saturation =< 93%; or (3) arterial blood oxygen partial pressure (PaO2)/FiO2 =<300 mmHg. Critical cases meet one of the following: (1) respiratory failure needing mechanical oxygenation; (2) shock; or (3) development of other organ failure, requiring intensive care unit (ICU) care. Around 70-80% of patients were mild, and 20-30% were severe or critical.",
+            "Statistical Analysis Categorical variables were described as frequency rates and percentages.",
+            "Proportions for categorical variables were compared using the \u03c72 test. All statistical analyses were performed using GraphPad Prism (GraphPad Company, San Diego, CA, USA) version 6.0 software. P-value \u201c< 0.05\u201d was considered with statistical significance.",
+            "This study was approved by the Ethics Board of Zhongnan Hospital of Wuhan University (No.2020012)."
+        ],
+        "Results": [
+            "Case fatality analysis of SARS-CoV-2 infected patients As showed in Table 1 and Figure 1A, the fatality of all confirmed and suspected COVID-19 patients was 5.2%, while fatality of confirmed cases was 5.7%. Male patients had higher fatality (7.6%) than females (2.9%) among all patients (P=0.04) (Figure 1B), while in confirmed cases, fatality in males was 8.8% and female 2.7% (P=0.03) (Figure 1C). The classification of case fatalities among different age groups were shown in Table 1 and Figure 1D and E. Fatalities in patients younger than 30 years of age, 30 to 49, 50 to 69, 70 and older were 0, 1.5%, 3.6% and 17.8% respectively among all suspected and confirmed patients (Figure 1D). The fatalities of patients under 30, from 30 to 49, from 49 to 69, 70 and older, were 0, 1.0%, 4.2% and 20.0%, respectively, among confirmed patients (Figure 1E). Taking years old as a cutoff in confirmed cases, the mortality in patients over 50 years old was 14.3% in males and 4.5% in females (Table 1).",
+            "Severity of illness among gender and age groups As showed in Table 2 and Figure 2, the overall severity rate (proportion of severe and critical severe cases, or SR) of confirmed and suspected cases was 35.1%, while the SR of confirmed cases was 27.3%. Male patients had a higher SR (38.9%) than female (31.4%) among suspected and confirmed patients, but the difference was not statistically significant (Figure 2B). In confirmed cases, male patients also had a higher SR than females without statistical significance (Figure 2C). The SR for patients under the age of 2 years, from 2 to 29, from 30 to 49, from 50 to 69 and over 70 was 0, 10.3%, 26.3%, 37.0% and 57.5% respectively, among all suspected and confirmed patients (Figure 2D). Which indicate that elder patients have higher severity rate than younger patients among all suspected and confirmed patients. The severity rate of patients under 2, from 2 to 29, from 30 to 49, from 50 to 69, 70 and over was 0, 11.1%, 17.3%, 28.8% and 52.7% respectively among all confirmed patients (Figure 2E). These results indicated that elder patients had higher severity rate than younger patients among all confirmed patients."
+        ],
+        "Discussion": [
+            "From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed. The symptoms of this disease include but are not limited to fever, cough, myalgia, diarrhea, dyspnea[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Pathologically the lungs exhibit marked proteinaceous exudation and macrophages in alveolar spaces, as well as fibrin plugs in early phase [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], and hyaline membrane formation, reactive hyperplasia desquamation of alveolar epithelium [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>, <a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] . In addition to pneumonia, patients may also suffer injuries in the heart, liver and kidneys. Up till February 2, the mortality of this disease in Wuhan is 5.5%, and in Hubei is 3.2%, while in the region outside of Hubei is 0.1% (China National Health Commission official website).",
+            "This study included COVID-2019 patients from Zhongnan Hospital, one of the largest tertiary teaching hospitals in Wuhan, Hubei province. From late December, 2019 to early January, 2020, before large scale isolation measures were implemented, many departments in the hospital experienced cross-infection among patients and to the medical staff, due to unrecognized infectious patients and lack of proper protection. Many patients in incubation period came to the hospital for illnesses other than respiratory symptoms or fever[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. After being designated as the specialized hospital, special isolation wards were built in each department[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. The period from which we collected the clinical data was before the prevention was in full implementation. Indeed, the overall mortality and the rate of severe cases in the study are higher than the national figures. There may be several causes for the higher mortality in Wuhan compared to other cities. First, the rapid transmission of the virus and increase of patient volume quickly overwhelmed medical resources in Wuhan, leaving many patients to receive care later in the clinical course. Secondly, there were a large number of patients who had mild or transient symptoms who never received diagnosis nor nucleic acid tests, and were not counted as COVID-19 patients, making the denominator of mortality smaller than real.",
+            "We analyzed the mortality and proportion of the severe cases in gender and different age groups. Our cohort of 402 cases included patients of all ages, the youngest were a 1-month old girl and 6-month old boy, the oldest were a 94-year-old woman and a 96-year-old man. Most patients were between 30 and 80 years (87%) old, the median and average ages were 54 and 53 years, respectively. The highlights of findings are: (1) most deaths occurred in patients 70 years of age or older; (2) male patients had a mortality significantly higher than females (3 times); (3) no death occurred in patients 30 years of age or younger. It was shown that the higher mortality coincided with higher proportion in older age group having severe or critical illness. Patients with ages over 50 years were more susceptible to develop severe illness, particularly those in their 7th decades. This is likely related to the fact that the majority of them had preexisting systemic illness. This finding is similar to that of influenza and SARS.",
+            "The difference in mortality between male and female genders is unknown. There appears that the severity distribution is equal between male and female groups. However, further analysis showed that mortality in severely ill male patients is higher than severely ill female patients. Some investigators reported that some chronic diseases are more common in males, such as hypertension[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], atherosclerosis, and chronic heart diseases[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. But prevalence of these chronic diseases seems to be related to estrogen and equalize when women undergo menopause. Another possibility is that, expression of ACE2, the major receptor for the SARS-Cov-2, is higher expressed in males than in females[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. But the study only included 8 individuals, with only 2 males (one Asian). Therefore, it is still a puzzle what roles ACE2 played in the pathogenesis of this catastrophic viral disease. Whether there is difference in viral load in males and in females, or whether more severe organ injury occurred in males, is still unknown. All these possibilities need further pathological and pathogenesis study. In addition, in a mouse models, it was found that males were more susceptible for SARS-CoV infection, although the result turned out that estrogen may have played a role[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].",
+            "Of note, we presented data in two different groups, one including the confirmed and suspected, and the other just the confirmed cases. As we know, during the outbreak case definitions had been changed, and application and interpretation of nucleic acid tests were not uniform for some period of time [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. We believe it is best to see both the overall (including both confirmed and suspected) and confirmed group. Other than the individual figures in the results, the final conclusion remains the same in terms of comparisons between genders, and among different age groups. We strongly believe that all the suspected cases represent real COVID-19 patients, as they met the criteria for clinical diagnosis. Furthermore, as described in Methods, the interpretation of nucleic acid test subsequently removed the suspect category.",
+            "In conclusion, analysis of a cohort of 402 COVID-19 patients from a single center revealed an overall mortality of 5.2% and 17.8% mortality in patients 70 years of age or older. Male patients had a mortality 3 times that of female. No death occurred to patients age younger than 30. Causes for difference between male and female are currently unknown."
+        ],
+        "References": [
+            "1. Wang D, Hu B, Hu C, et al Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020. 2. Zhu N, Zhang D, Wang W, et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 2020. 3. Chan JF-W, Kok K-H, Zhu Z, et al Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerging Microbes & Infections 2020; 9(1): 221-36. 4. Chan JF, Yuan S, Kok KH, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020; 395(10223): 514-23. 5. Li J, Ye, Guangming, Chen, liangjun, Wang, jiajun, Li, Yirong. Analysis of false-negative results for 2019 novel coronavirus nucleic acid test and related countermeasures. 2020; 43(00): E006-E. 6. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020. 7. Guan W-j, Ni Z-y, Hu Y, et al Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020: 2020.02.06.20020974. 8. Tian S-f, Hu W, Niu L, et al Pulmonary Pathology of Early Phase SARS-COV-2",
+            "Pneumonia. Preprints 2020, 2020020220 doi: 10.20944/preprints202002.0220.v1. 9. Xu Z, Shi L, Wang Y, et al Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine 2020. 10. Raghvendra K. Dubey SO, Bruno Imthurn, Edwin K. Jackson. Sex hormones and hypertension. cardiovascular research 2002; 53(3): 688-708. 11. Denton KMMCKM. Sex-specific differences in hypertension and associated cardiovascular disease. nature reviews nephrology 2018; 14(3): 185-201. 12. Zhao Y, Zhao Z, Wang Y, Zhou Y, Ma Y, Zuo W. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. 2020. 13. Channappanavar R, Fett C, Mack M, Ten Eyck PP, Meyerholz DK, Perlman S. Sex-Based Differences in Susceptibility to Severe Acute Respiratory Syndrome Coronavirus Infection. The Journal of Immunology 2017; 198(10): 4046-53. 14. Xiao S-Y, Wu Y, Liu H. Evolving status of the 2019 novel coronavirus infection: Proposal of conventional serologic assays for disease diagnosis and infection monitoring. J Med Virol 2020.",
+            "Figure 1. Case fatality analysis of SARS-CoV-2 patients. (A) Fatality of confirmed or suspected cases. (B) Male versus female patients among all suspected and confirmed patients. (C) Male versus female patients, confirmed cases only. (D) Fatality by age groups among suspected and confirmed patients. (E) Fatality by age group among confirmed patients. *P<0.05; ***P<0.001.",
+            "Figure 2. Clinical severity classification among SARS-CoV-2 patients by gender and age groups. (A) Overall severity classification in all cases versus confirmed cases. (B) Severity classification in male versus female patients among all patients. (C) Severity classification in male versus female patients among confirmed patients. (D) Severity classification by age groups among all patients. (E) Severity classification by age among confirmed patients. ns. no significance; *P<0.05, **P<0.01.",
+            "Table 1. Case fatalities by age and gender among patients with suspected and confirmed diagnosis for",
+            "SARS-CoV-2 infection",
+            "Gender and Age",
+            "Confirmed and suspected",
+            "Confirmed groups",
+            "No of patients Death Fatality (%) No of patients Death Fatality (%)",
+            "Gender",
+            "Male",
+            "8.8",
+            "Female",
+            "2.7",
+            "Total",
+            "Age (\u226550 years)",
+            "12.2",
+            "4.1",
+            "Age (years)",
+            "\u2264 2",
+            ">2 <30",
+            "< \u226530 50",
+            "< \u226550 70",
+            "1.0",
+            "\u226570",
+            ": Fatality rate (%) The proportion of died patients.",
+            "Table 2. Portion of severe and critical cases by gender and age among patients with suspected and confirmed diagnosis of SARS-COV-2 infection.",
+            "Characteristics",
+            "Confirmed",
+            "No of patients Severe*",
+            "%",
+            "28.8",
+            "26.8",
+            "26.3",
+            "11.1",
+            "57.5",
+            "*Include severe and critical cases."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 402,
+            "context": "Previous studies describing clinical characteristics of the disease contained small cohorts from individual centers or larger series consisting of mixed cases from different hospitals. <mark class=\"stats\">We report analyses of mortality and disease severity among 402 patients from a single hospital</mark>. The cohort included 297 patients with confirmed and 105 with suspected diagnosis"
+        },
+        {
+            "participant": "patients with confirmed and 105 with suspected diagnosis",
+            "number": 297,
+            "context": "We report analyses of mortality and disease severity among 402 patients from a single hospital. <mark class=\"stats\">The cohort included 297 patients with confirmed and 105 with suspected diagnosis</mark>. The latter group met the criteria for clinical diagnosis but nucleic acid tests results were initially interpreted as suspicious"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 138,
+            "context": "There have been several studies describing the clinical characteristics of SARS-CoV-2 infected patients[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], including symptoms, lab tests and radiographic features. <mark class=\"stats\">These were smaller series, from 41[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] to 138 confirmed cases[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]</mark>. Some of the larger series consisted of mixed cases submitted from hospitals of varying sizes and settings[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 402,
+            "context": "Therefore, it is important to include cases with typical clinical presentations and course, even though \u201csuspicious\u201d result on nucleic acid tests, in studies of clinical outcomes and disease characteristics. <mark class=\"stats\">In the current study, we analyzed data on 402 patients from a single hospital from December 2019 to February 2, 2020, with emphasis on mortality in these patients, in hope to understand characteristics related to clinical outcome in a more uniform clinical setting</mark>. Material and Methods"
+        },
+        {
+            "participant": "cases included patients",
+            "number": 402,
+            "context": "We analyzed the mortality and proportion of the severe cases in gender and different age groups. <mark class=\"stats\">Our cohort of 402 cases included patients of all ages, the youngest were a 1-month old girl and 6-month old boy, the oldest were a 94-year-old woman and a 96-year-old man</mark>. Most patients were between 30 and 80 years (87%) old, the median and average ages were 54 and 53 years, respectively"
+        },
+        {
+            "participant": "individuals",
+            "number": 8,
+            "context": "Another possibility is that, expression of ACE2, the major receptor for the SARS-Cov-2, is higher expressed in males than in females[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. <mark class=\"stats\">But the study only included 8 individuals, with only 2 males (one Asian)</mark>. Therefore, it is still a puzzle what roles ACE2 played in the pathogenesis of this catastrophic viral disease"
+        },
+        {
+            "participant": "times",
+            "number": 3,
+            "context": "In conclusion, analysis of a cohort of 402 COVID-19 patients from a single center revealed an overall mortality of 5.2% and 17.8% mortality in patients 70 years of age or older. <mark class=\"stats\">Male patients had a mortality 3 times that of female</mark>. No death occurred to patients age younger than 30"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Proportions for categorical variables were compared using the \u03c72 test</mark>",
+                "tests": [
+                    {
+                        "test": "\u03c72 test"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P=0.04",
+            "context": "Case fatality analysis of SARS-CoV-2 infected patients As showed in Table 1 and Figure 1A, the fatality of all confirmed and suspected COVID-19 patients was 5.2%, while fatality of confirmed cases was 5.7%. <mark class=\"stats\">Male patients had higher fatality (7.6%) than females (2.9%) among all patients (P=0.04) (Figure 1B), while in confirmed cases, fatality in males was 8.8% and female 2.7% (P=0.03) (Figure 1C)</mark>. The classification of case fatalities among different age groups were shown in Table 1 and Figure 1D and E"
+        }
+    ],
+    "keywords": [
+        "intensive care unit",
+        "seafood market",
+        "coronavirus infection",
+        "SARS-CoV-2",
+        "nucleic acid test",
+        "SARS",
+        "National Health Commission of China",
+        "COVID-19",
+        "epidemiology",
+        "acid test",
+        "high mortality",
+        "late december",
+        "white blood cells",
+        "Acute Respiratory syndrome",
+        "sars cov",
+        "novel coronavirus infection",
+        "pneumonia",
+        "Coronavirus",
+        "clinical characteristics",
+        "fatality",
+        "hubei province",
+        "mortality"
+    ],
+    "keyword_relevance": {
+        "mortality": 0.1794871794871795,
+        "SARS": 0.13675213675213677,
+        "nucleic acid test": 0.11965811965811966,
+        "acid test": 0.11965811965811966,
+        "COVID-19": 0.08547008547008547,
+        "SARS-CoV-2": 0.07692307692307693,
+        "fatality": 0.06837606837606838,
+        "pneumonia": 0.05128205128205128,
+        "Coronavirus": 0.03418803418803419,
+        "National Health Commission of China": 0.02564102564102564,
+        "intensive care unit": 0.017094017094017096,
+        "coronavirus infection": 0.017094017094017096,
+        "white blood cells": 0.017094017094017096,
+        "novel coronavirus infection": 0.017094017094017096,
+        "clinical characteristics": 0.017094017094017096,
+        "seafood market": 0.008547008547008548,
+        "epidemiology": 0.008547008547008548,
+        "high mortality": 0.0,
+        "late december": 0.0,
+        "Acute Respiratory syndrome": 0.0,
+        "sars cov": 0.0,
+        "hubei province": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> In December 2019, a cluster of \u201catypical\u201d pneumonia cases with unknown causes occurred in several hospitals in Wuhan, Hubei Province, China[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+        "Most of the initial patients had fever, fatigue and non-productive cough, and showed a characteristic ground glass shadow on chest CT imaging of the lungs.",
+        "Some of these patients could be linked to a local fresh seafood market, Huanan Seafood Market, others could not.",
+        "The virus was initially named 2019-novel coronavirus (2019-nCoV) on January 12, and subsequently, SARS-CoV-2 on February 11.",
+        "Human-to-human transmissions of the virus have reached an unprecedent magnitude, in community, healthcare facilities, and at homes[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and spread to entire China and some parts of the world",
+        "<h2 style=\"display: inline\">Methods:</h2> Patients presented to the hospital and had nucleic acid tests showing \u201cpositive\u201d or \u201csuspicious\u201d results from December 2019 to February 2, 2020 were included in this study.",
+        "Status of nucleic acid tests, time of presentation and or illness, length of symptoms, and so on, were recorded.",
+        "The clinical severity status and death were monitored up to February 2, 2020, the final date of follow-up.",
+        "Diagnosis was based on epidemic exposure, plus two of the following clinical findings: fever, radiographic features, normal or lowered white blood cells (WBC) or reduced lymphocyte count",
+        "<h2 style=\"display: inline\">Results:</h2> Case fatality analysis of SARS-CoV-2 infected patients As showed in Table 1 and Figure 1A, the fatality of all confirmed and suspected COVID-19 patients was 5.2%, while fatality of confirmed cases was 5.7%.",
+        "Fatalities in patients younger than 30 years of age, 30 to 49, 50 to 69, 70 and older were 0, 1.5%, 3.6% and 17.8% respectively among all suspected and confirmed patients (Figure 1D).",
+        "The fatalities of patients under 30, from 30 to 49, from 49 to 69, 70 and older, were 0, 1.0%, 4.2% and 20.0%, respectively, among confirmed patients (Figure 1E).",
+        "Taking years old as a cutoff in confirmed cases, the mortality in patients over 50 years old was 14.3% in males and 4.5% in females (Table 1)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed.",
+        "The symptoms of this disease include but are not limited to fever, cough, myalgia, diarrhea, dyspnea[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].",
+        "From late December, 2019 to early January, 2020, before large scale isolation measures were implemented, many departments in the hospital experienced cross-infection among patients and to the medical staff, due to unrecognized infectious patients and lack of proper protection.",
+        "There were a large number of patients who had mild or transient symptoms who never received diagnosis nor nucleic acid tests, and were not counted as COVID-19 patients, making the denominator of mortality smaller than real"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "In December 2019, a cluster of \u201catypical\u201d pneumonia cases with unknown causes occurred in several hospitals in Wuhan, Hubei Province, China[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "Most of the initial patients had fever, fatigue and non-productive cough, and showed a characteristic ground glass shadow on chest CT imaging of the lungs.",
+            "Some of these patients could be linked to a local fresh seafood market, Huanan Seafood Market, others could not.",
+            "The virus was initially named 2019-novel coronavirus (2019-nCoV) on January 12, and subsequently, SARS-CoV-2 on February 11.",
+            "Human-to-human transmissions of the virus have reached an unprecedent magnitude, in community, healthcare facilities, and at homes[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and spread to entire China and some parts of the world"
+        ],
+        "Methods": [
+            "Patients presented to the hospital and had nucleic acid tests showing \u201cpositive\u201d or \u201csuspicious\u201d results from December 2019 to February 2, 2020 were included in this study.",
+            "Status of nucleic acid tests, time of presentation and or illness, length of symptoms, and so on, were recorded.",
+            "The clinical severity status and death were monitored up to February 2, 2020, the final date of follow-up.",
+            "Diagnosis was based on epidemic exposure, plus two of the following clinical findings: fever, radiographic features, normal or lowered white blood cells (WBC) or reduced lymphocyte count"
+        ],
+        "Results": [
+            "Case fatality analysis of SARS-CoV-2 infected patients As showed in Table 1 and Figure 1A, the fatality of all confirmed and suspected COVID-19 patients was 5.2%, while fatality of confirmed cases was 5.7%.",
+            "Fatalities in patients younger than 30 years of age, 30 to 49, 50 to 69, 70 and older were 0, 1.5%, 3.6% and 17.8% respectively among all suspected and confirmed patients (Figure 1D).",
+            "The fatalities of patients under 30, from 30 to 49, from 49 to 69, 70 and older, were 0, 1.0%, 4.2% and 20.0%, respectively, among confirmed patients (Figure 1E).",
+            "Taking years old as a cutoff in confirmed cases, the mortality in patients over 50 years old was 14.3% in males and 4.5% in females (Table 1)"
+        ],
+        "Conclusion": [
+            "From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed.",
+            "The symptoms of this disease include but are not limited to fever, cough, myalgia, diarrhea, dyspnea[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].",
+            "From late December, 2019 to early January, 2020, before large scale isolation measures were implemented, many departments in the hospital experienced cross-infection among patients and to the medical staff, due to unrecognized infectious patients and lack of proper protection.",
+            "There were a large number of patients who had mild or transient symptoms who never received diagnosis nor nucleic acid tests, and were not counted as COVID-19 patients, making the denominator of mortality smaller than real"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Wang_et+al_2019_a",
+            "entry": "1. Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20Hu%20B%20Hu%20C%20et%20al%20Clinical%20Characteristics%20of%20138%20Hospitalized%20Patients%20With%202019%20Novel%20CoronavirusInfected%20Pneumonia%20in%20Wuhan%20China%20Jama%202020"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhu_et+al_2020_a",
+            "entry": "2. Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20The%20New%20England%20journal%20of%20medicine%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20The%20New%20England%20journal%20of%20medicine%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20The%20New%20England%20journal%20of%20medicine%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Chan_et+al_2019_a",
+            "entry": "3. Chan JF-W, Kok K-H, Zhu Z, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerging Microbes & Infections 2020; 9(1): 221-36.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JFW%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerging%20Microbes%20%20Infections%202020%2091%2022136",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%20JFW%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerging%20Microbes%20%20Infections%202020%2091%2022136",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%20JFW%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerging%20Microbes%20%20Infections%202020%2091%2022136"
+        },
+        {
+            "id": "4",
+            "alt_id": "Chan_et+al_2019_b",
+            "entry": "4. Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020; 395(10223): 514-23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020%2039510223%2051423",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020%2039510223%2051423",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%20JF%20Yuan%20S%20Kok%20KH%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%202020%2039510223%2051423"
+        },
+        {
+            "id": "5",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "5. Li J, Ye, Guangming, Chen, liangjun, Wang, jiajun, Li, Yirong. Analysis of false-negative results for 2019 novel coronavirus nucleic acid test and related countermeasures. 2020; 43(00): E006-E. 6. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%20J%20Ye%20Guangming%20Chen%20liangjun%20Wang%20jiajun%20Li%20Yirong%20Analysis%20of%20falsenegative%20results%20for%202019%20novel%20coronavirus%20nucleic%20acid%20test%20and%20related%20countermeasures%202020%204300%20E006E%206%20Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%20J%20Ye%20Guangming%20Chen%20liangjun%20Wang%20jiajun%20Li%20Yirong%20Analysis%20of%20falsenegative%20results%20for%202019%20novel%20coronavirus%20nucleic%20acid%20test%20and%20related%20countermeasures%202020%204300%20E006E%206%20Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%20J%20Ye%20Guangming%20Chen%20liangjun%20Wang%20jiajun%20Li%20Yirong%20Analysis%20of%20falsenegative%20results%20for%202019%20novel%20coronavirus%20nucleic%20acid%20test%20and%20related%20countermeasures%202020%204300%20E006E%206%20Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "W-J_et+al_2019_a",
+            "entry": "7. Guan W-j, Ni Z-y, Hu Y, et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020: 2020.02.06.20020974.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guan%20Wj%20Ni%20Zy%20Hu%20Y%20et%20al%20Clinical%20characteristics%20of%202019%20novel%20coronavirus%20infection%20in%20China%20medRxiv%202020%202020020620020974"
+        },
+        {
+            "id": "8",
+            "alt_id": "S-F_et+al_0000_a",
+            "entry": "8. Tian S-f, Hu W, Niu L, et al. Pulmonary Pathology of Early Phase SARS-COV-2 Pneumonia. Preprints 2020, 2020020220 doi: 10.20944/preprints202002.0220.v1.",
+            "crossref": "https://dx.doi.org/10.20944/preprints202002.0220.v1",
+            "scite": "https://scite.ai/reports/10.20944/preprints202002.0220.v1"
+        },
+        {
+            "id": "9",
+            "alt_id": "Xu_et+al_2020_a",
+            "entry": "9. Xu Z, Shi L, Wang Y, et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xu%2C%20Z.%20Shi%2C%20L.%20Wang%2C%20Y.%20Pathological%20findings%20of%20COVID-19%20associated%20with%20acute%20respiratory%20distress%20syndrome%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xu%2C%20Z.%20Shi%2C%20L.%20Wang%2C%20Y.%20Pathological%20findings%20of%20COVID-19%20associated%20with%20acute%20respiratory%20distress%20syndrome%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xu%2C%20Z.%20Shi%2C%20L.%20Wang%2C%20Y.%20Pathological%20findings%20of%20COVID-19%20associated%20with%20acute%20respiratory%20distress%20syndrome%202020"
+        },
+        {
+            "id": "10",
+            "alt_id": "Raghvendra_et+al_2002_a",
+            "entry": "10. Raghvendra K. Dubey SO, Bruno Imthurn, Edwin K. Jackson. Sex hormones and hypertension. cardiovascular research 2002; 53(3): 688-708.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=SO%2C%20Raghvendra%20K.Dubey%20Imthurn%2C%20Bruno%20Jackson%2C%20Edwin%20K.%20Sex%20hormones%20and%20hypertension%202002",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=SO%2C%20Raghvendra%20K.Dubey%20Imthurn%2C%20Bruno%20Jackson%2C%20Edwin%20K.%20Sex%20hormones%20and%20hypertension%202002",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=SO%2C%20Raghvendra%20K.Dubey%20Imthurn%2C%20Bruno%20Jackson%2C%20Edwin%20K.%20Sex%20hormones%20and%20hypertension%202002"
+        },
+        {
+            "id": "11",
+            "alt_id": "Kmmckm_2018_a",
+            "entry": "11. Denton KMMCKM. Sex-specific differences in hypertension and associated cardiovascular disease. nature reviews nephrology 2018; 14(3): 185-201.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=KMMCKM%2C%20Denton%20Sex-specific%20differences%20in%20hypertension%20and%20associated%20cardiovascular%20disease%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=KMMCKM%2C%20Denton%20Sex-specific%20differences%20in%20hypertension%20and%20associated%20cardiovascular%20disease%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=KMMCKM%2C%20Denton%20Sex-specific%20differences%20in%20hypertension%20and%20associated%20cardiovascular%20disease%202018"
+        },
+        {
+            "id": "12",
+            "alt_id": "Zhao_et+al_2019_a",
+            "entry": "12. Zhao Y, Zhao Z, Wang Y, Zhou Y, Ma Y, Zuo W. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhao%2C%20Y.%20Zhao%2C%20Z.%20Wang%2C%20Y.%20Zhou%2C%20Y.%20Single-cell%20RNA%20expression%20profiling%20of%20ACE2%2C%20the%20putative%20receptor%20of%20Wuhan%202019"
+        },
+        {
+            "id": "13",
+            "alt_id": "Channappanavar_et+al_2017_a",
+            "entry": "13. Channappanavar R, Fett C, Mack M, Ten Eyck PP, Meyerholz DK, Perlman S. Sex-Based Differences in Susceptibility to Severe Acute Respiratory Syndrome Coronavirus Infection. The Journal of Immunology 2017; 198(10): 4046-53.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Channappanavar%2C%20R.%20Fett%2C%20C.%20Mack%2C%20M.%20Ten%20Eyck%2C%20P.P.%20Sex-Based%20Differences%20in%20Susceptibility%20to%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%20Infection%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Channappanavar%2C%20R.%20Fett%2C%20C.%20Mack%2C%20M.%20Ten%20Eyck%2C%20P.P.%20Sex-Based%20Differences%20in%20Susceptibility%20to%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%20Infection%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Channappanavar%2C%20R.%20Fett%2C%20C.%20Mack%2C%20M.%20Ten%20Eyck%2C%20P.P.%20Sex-Based%20Differences%20in%20Susceptibility%20to%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%20Infection%202017"
+        },
+        {
+            "id": "14",
+            "alt_id": "Xiao_et+al_2020_a",
+            "entry": "14. Xiao S-Y, Wu Y, Liu H. Evolving status of the 2019 novel coronavirus infection: Proposal of conventional serologic assays for disease diagnosis and infection monitoring. J Med Virol 2020. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xiao%20SY%20Wu%20Y%20Liu%20H%20Evolving%20status%20of%20the%202019%20novel%20coronavirus%20infection%20Proposal%20of%20conventional%20serologic%20assays%20for%20disease%20diagnosis%20and%20infection%20monitoring%20J%20Med%20Virol%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xiao%20SY%20Wu%20Y%20Liu%20H%20Evolving%20status%20of%20the%202019%20novel%20coronavirus%20infection%20Proposal%20of%20conventional%20serologic%20assays%20for%20disease%20diagnosis%20and%20infection%20monitoring%20J%20Med%20Virol%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xiao%20SY%20Wu%20Y%20Liu%20H%20Evolving%20status%20of%20the%202019%20novel%20coronavirus%20infection%20Proposal%20of%20conventional%20serologic%20assays%20for%20disease%20diagnosis%20and%20infection%20monitoring%20J%20Med%20Virol%202020"
+        }
+    ],
+    "facts": [
+        "larger series consisting of mixed cases from different hospitals",
+        "The latter group met the criteria for clinical diagnosis",
+        "nucleic acid tests results were initially interpreted as suspicious. Data were compared between genders",
+        "older had a mortality of 8.0%",
+        "Male patients had a mortality of 7.6% versus 2.9%",
+        "atypical\u201d pneumonia cases with unknown causes occurred in several hospitals in Wuhan",
+        "Some of these patients could be linked to a local fresh seafood market",
+        "Disease caused by the infection is designated coronavirus infected disease 2019",
+        "Patients presented to our hospital",
+        "All patients met the criteria for clinical diagnosis given by The",
+        "diagnosis was based on epidemic exposure",
+        "The classification of case fatalities among different age groups were shown in Table 1",
+        "the number of COVID-2019 patients is increasing in an astonishing speed",
+        "Many patients in incubation period came to the hospital for illnesses",
+        "special isolation wards were built in each department[7",
+        "the clinical data was before the prevention was in full implementation",
+        "the rate of severe cases in the study are higher than the national figures",
+        "There may be several causes for the higher mortality in Wuhan compared to other cities",
+        "Diagnosis was based on epidemic exposure"
+    ],
+    "claims": [
+        "We report analyses of mortality and disease severity among 402 patients from a single hospital",
+        "Of note, we presented data in two different groups, one including the confirmed and suspected, and the other just the confirmed cases"
+    ],
+    "findings": [
+        "Male patients had higher fatality (7.6%) than females (2.9%) among all patients (P=0.04) (Figure 1B), while in confirmed cases, fatality in males was 8.8% and female 2.7% (P=0.03) (Figure 1C)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "All patients met the criteria for clinical diagnosis given by The National Health Commission of China (NHCC) Guidelines on novel coronavirus pneumonia for diagnosis and disease severity triage (5th Edition)",
+        "From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed",
+        "The overall mortality and the rate of severe cases in the study are higher than the national figures",
+        "There may be several causes for the higher mortality in Wuhan compared to other cities"
+    ],
+    "top_statements": [
+        "In December 2019, a cluster of \u201catypical\u201d pneumonia cases with then unknown causes occurred in several hospitals in Wuhan, Hubei Province, China[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "All patients met the criteria for clinical diagnosis given by The National Health Commission of China (NHCC) Guidelines on novel coronavirus pneumonia for diagnosis and disease severity triage (5th Edition)",
+        "From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed",
+        "The overall mortality and the rate of severe cases in the study are higher than the national figures",
+        "There may be several causes for the higher mortality in Wuhan compared to other cities"
+    ],
+    "headline": "From late December, 2019 to February, 2020, the number of COVID-2019 patients is increasing in an astonishing speed",
+    "contexts": [],
+    "abbreviations": {
+        "NHCC": "National Health Commission of China",
+        "WBC": "white blood cells",
+        "ICU": "intensive care unit"
+    }
+}
