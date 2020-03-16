@@ -1,0 +1,1143 @@
+{
+    "filename": "2020.03.04.975995v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 2608234,
+    "metadata": {
+        "title": "Strong evolutionary convergence of receptor-binding protein spike between COVID-19 and SARS-related coronaviruses",
+        "author": "Yonghua Wu",
+        "date": 2020,
+        "affiliations": [
+            "School of Life Sciences, Northeast Normal University, 5268 Renmin Street, Changchun, 130024, China"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.04.975995",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.04.975995v1.pdf"
+        },
+        "abstract": "Coronavirus Disease 2019 (COVID-19) and severe acute respiratory syndrome (SARS)-related coronaviruses (e.g., 2019-nCoV and SARS-CoV) are phylogenetically distantly related, but both are capable of infecting human hosts via the same receptor, angiotensin-converting enzyme 2, and cause similar clinical and pathological features, suggesting their phenotypic convergence. Yet, the molecular basis that underlies their phenotypic convergence remains unknown. Here, we used a recently developed molecular phyloecological approach to examine the molecular basis leading to their phenotypic convergence. Our genome-level analyses show that the spike protein, which is responsible for receptor binding, has undergone significant Darwinian selection along the branches related to 2019nCoV and SARS-CoV. Further examination shows an unusually high proportion of evolutionary convergent amino acid sites in the receptor binding domain (RBD) of the spike protein between COVID19 and SARS-related CoV clades, leading to the phylogenetic uniting of their RBD protein sequences. In addition to the spike protein, we also find the evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence. Our results demonstrate a strong adaptive evolutionary convergence between COVID-19 and SARS-related CoV, possibly facilitating their adaptation to similar or identical receptors. Finally, it should be noted that many observed bat SARS-like CoVs that have an evolutionary convergent RBD sequence with 2019-nCoV and SARS-CoV may be preadapted to human host receptor ACE2, and hence would be potential new coronavirus sources to infect humans in the future.",
+        "references": "@misc{guan2020a,\n  author = {Guan, W.-j},\n  title = {Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv},\n  doi = {doi:https://doi.org/10.1101/2020.02.06.20020974},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{wan2020a,\n  author = {Wan, Y. and Shang, J. and Graham, R. and Baric, R.S. and Li, F.},\n  title = {Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS},\n  journal = {Journal of Virology},\n  doi = {doi: 10.1128/JVI.00127-20},\n  date = {2020},\n  language = {}\n}\n@article{xu-a,\n  author = {Xu, Z.},\n  title = {Pathological findings of COVID-19 associated with acute respiratory distress syndrome},\n  journal = {The Lancet Respiratory Medicine},\n  doi = {doi:https://doi.org/10.1016/S2213-2600(20)30076},\n  more-authors = {true},\n  language = {}\n}\n@article{yang2016a,\n  author = {Yang, X.-L.},\n  title = {Isolation and characterization of a novel bat coronavirus closely related to the direct progenitor of severe acute respiratory syndrome coronavirus},\n  journal = {Journal of Virology},\n  volume = {90},\n  pages = {3253\u20133256},\n  date = {2016},\n  more-authors = {true},\n  language = {}\n}\n@misc{nature2020a,\n  author = {Nature},\n  doi = {doi: 10.1038/s41586-020-2012-7},\n  date = {2020}\n}\n@article{lu2020a,\n  author = {Lu, R.},\n  title = {Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding},\n  journal = {The Lancet},\n  volume = {395},\n  pages = {565\u2013574},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{wu2020a,\n  author = {Wu, F.},\n  title = {A new coronavirus associated with human respiratory disease in China},\n  journal = {Nature},\n  volume = {1},\n  pages = {10\u20131038},\n  date = {2020},\n  more-authors = {true},\n  number = {5},\n  language = {}\n}\n@article{zhu-a,\n  author = {Zhu, N.},\n  title = {A novel coronavirus from patients with pneumonia in China, 2019},\n  journal = {New England Journal of Medicine},\n  volume = {382},\n  pages = {727\u2013733},\n  doi = {doi: 10.1056/NEJMoa2001017 (2020},\n  more-authors = {true},\n  language = {}\n}\n@article{hoffmann2019a,\n  author = {Hoffmann, M.},\n  journal = {et al. The novel coronavirus},\n  date = {2019},\n  title = {uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. bioRxiv},\n  doi = {doi:https://doi.org/10.1101/2020.01.31.929042},\n  language = {}\n}\n@article{wrapp2020a,\n  author = {Wrapp, D.},\n  title = {Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation},\n  journal = {Science},\n  volume = {2507},\n  doi = {doi: 10.1126/science.abb2507},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{lan-a,\n  author = {Lan, J.},\n  title = {Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the},\n  more-authors = {true},\n  language = {}\n}\n@misc{receptor2020a,\n  author = {receptor, ACE2},\n  volume = {bioRxiv,},\n  doi = {doi:https://doi.org/10.1101/2020.02.19.956235},\n  date = {2020}\n}\n@article{du2009a,\n  author = {Du, L.},\n  title = {The spike protein of SARS-CoV\u2014a target for vaccine and therapeutic development},\n  journal = {Nature Reviews Microbiology},\n  volume = {7},\n  pages = {226\u2013236},\n  date = {2009},\n  more-authors = {true},\n  language = {}\n}\n@article{li2005a,\n  author = {Li, F. and Li, W. and Farzan, M. and Harrison, S.C.},\n  title = {Structure of SARS coronavirus spike receptor-binding domain complexed with receptor},\n  journal = {Science},\n  volume = {309},\n  pages = {1864\u20131868},\n  date = {2005},\n  language = {}\n}\n@article{wu2018a,\n  author = {Wu, Y. and Wang, H.},\n  title = {Convergent evolution of bird-mammal shared characteristics for adapting to nocturnality},\n  journal = {Proceedings of the Royal Society B: Biological Sciences},\n  volume = {286},\n  date = {2018},\n  doi = {doi: 10.1098/rspb.2018.2185},\n  language = {}\n}\n@article{wu2017a,\n  author = {Wu, Y. and Wang, H. and Hadly, E.A.},\n  title = {Invasion of ancestral mammals into dim-light environments inferred from adaptive evolution of the phototransduction genes},\n  journal = {Scientific Reports},\n  volume = {7},\n  doi = {doi:https://doi.org/10.1038/srep46542},\n  date = {2017},\n  number = {46542},\n  language = {}\n}\n@article{wu2017b,\n  author = {Wu, Y. and Wang, H. and Wang, H. and Hadly, E.A.},\n  title = {Rethinking the origin of primates by reconstructing their diel activity patterns using genetics and morphology},\n  journal = {Scientific Reports},\n  volume = {7},\n  doi = {doi: 10.1038/s41598-017-12090-3},\n  date = {2017},\n  number = {11837},\n  language = {}\n}\n@article{yang2007a,\n  author = {Yang, Z.},\n  title = {PAML 4: phylogenetic analysis by maximum likelihood},\n  journal = {Molecular Biology and Evolution},\n  volume = {24},\n  pages = {1586\u20131591},\n  date = {2007},\n  language = {}\n}\n@article{mcbride2012a,\n  author = {McBride, R. and Fielding, B.C.},\n  title = {The role of severe acute respiratory syndrome (SARS)-coronavirus accessory proteins in virus pathogenesis},\n  journal = {Viruses},\n  volume = {4},\n  pages = {2902\u20132923},\n  date = {2012},\n  language = {}\n}\n@article{wertheim2015a,\n  author = {Wertheim, J.O. and Murrell, B. and Smith, M.D. and Kosakovsky Pond, S.L. and Scheffler, K.},\n  title = {RELAX: detecting relaxed selection in a phylogenetic framework},\n  journal = {Molecular Biology and Evolution},\n  volume = {32},\n  pages = {820\u2013832},\n  date = {2015},\n  language = {}\n}\n@article{hu2017a,\n  author = {Hu, Y.},\n  title = {Comparative genomics reveals convergent evolution between the bamboo-eating giant and red pandas},\n  journal = {Proceedings of the National Academy of Sciences of the United States of America},\n  volume = {114},\n  pages = {1081\u20131086},\n  date = {2017},\n  more-authors = {true},\n  language = {}\n}\n@misc{unknown2010a,\n  title = {Current Biology 20, R55-R56},\n  date = {2010},\n  language = {}\n}\n@article{tanganyika2011a,\n  author = {Tanganyika},\n  journal = {Molecular Biology and Evolution},\n  volume = {28},\n  pages = {1769\u20131776},\n  date = {2011}\n}\n@article{shen2012a,\n  author = {Shen, Y.-Y. and Liang, L. and Li, G.-S. and Murphy, R.W. and Zhang, Y.-P.},\n  title = {Parallel evolution of auditory genes for echolocation in bats and toothed whales},\n  journal = {PLoS Genetics},\n  volume = {8},\n  pages = {1002788},\n  doi = {doi: 10.1371/journal.pgen.1002788},\n  date = {2012},\n  language = {}\n}\n@article{ujvari2015a,\n  author = {Ujvari, B.},\n  title = {Widespread convergence in toxin resistance by predictable molecular evolution},\n  journal = {Proceedings of the National Academy of Sciences of the United States of America},\n  volume = {112},\n  pages = {1191111916},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@article{zhang2006a,\n  author = {Zhang, J.},\n  title = {Parallel adaptive origins of digestive RNases in Asian and African leaf monkeys},\n  journal = {Nature genetics},\n  volume = {38},\n  pages = {819\u2013823},\n  date = {2006},\n  language = {}\n}\n@article{zhen2012a,\n  author = {Zhen, Y. and Aardema, M.L. and Medina, E.M. and Schumer, M. and Andolfatto, P.},\n  title = {Parallel molecular evolution in an herbivore community},\n  journal = {Science},\n  volume = {337},\n  pages = {1634\u20131637},\n  date = {2012},\n  language = {}\n}\n@misc{xiao2020a,\n  author = {Xiao, K.},\n  title = {Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins. bioRxiv},\n  doi = {doi:https://doi.org/10.1101/2020.02.17.951335},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{tan2005a,\n  author = {Tan, Y.-J.},\n  title = {The Severe Acute Respiratory Syndrome (SARS)-coronavirus 3a protein may function as a modulator of the trafficking properties of the spike protein},\n  journal = {Virology Journal},\n  volume = {2},\n  doi = {doi: 10.1186/1743-422X-2-5},\n  date = {2005},\n  number = {5},\n  language = {}\n}\n@article{yount2005a,\n  author = {Yount, B.},\n  title = {Severe acute respiratory syndrome coronavirus group-specific open reading frames encode nonessential functions for replication in cell cultures and mice},\n  journal = {Journal of Virology},\n  volume = {79},\n  pages = {14909\u201314922},\n  date = {2005},\n  more-authors = {true},\n  language = {}\n}\n@article{zeng2004a,\n  author = {Zeng, R.},\n  title = {Characterization of the 3a protein of SARS-associated coronavirus in infected vero E6 cells and SARS patients},\n  journal = {Journal of Molecular Biology},\n  volume = {341},\n  pages = {271\u2013279},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{zhang1997a,\n  author = {Zhang, J. and Kumar, S.},\n  title = {Detection of convergent and parallel evolution at the amino acid sequence level},\n  journal = {Molecular Biology and Evolution},\n  volume = {14},\n  pages = {527\u2013536},\n  date = {1997},\n  language = {}\n}\n@article{li2008a,\n  author = {Li, G.},\n  title = {The hearing gene Prestin reunites echolocating bats},\n  journal = {Proceedings of the National Academy of Sciences of the United States of America},\n  volume = {105},\n  pages = {13959\u201313964},\n  date = {2008},\n  more-authors = {true},\n  language = {}\n}\n@article{stewart1987a,\n  author = {Stewart, C.-B. and Schilling, J.W. and Wilson, A.C.},\n  title = {Adaptive evolution in the stomach lysozymes of foregut fermenters},\n  journal = {Nature},\n  volume = {330},\n  pages = {401\u2013404},\n  date = {1987},\n  language = {}\n}\n@article{ji2020a,\n  author = {Ji, W. and Wang, W. and Zhao, X. and Zai, J. and Li, X.},\n  title = {Cros-species transmission of the newly identified coronavirus 2019-nCoV},\n  journal = {Journal of Medical Virology},\n  volume = {92},\n  pages = {433\u2013440},\n  date = {2020},\n  language = {}\n}\n@misc{patino-galindo2020a,\n  author = {Patino-Galindo, J.A. and Filip, I. and AlQuraishi, M. and Rabadan, R.},\n  title = {Recombination and convergent evolution led to the emergence of 2019 Wuhan coronavirus. bioRxiv},\n  doi = {doi:https://doi.org/10.1101/2020.02.10.942748},\n  date = {2020},\n  language = {}\n}\n@article{han2019a,\n  author = {Han, Y.},\n  title = {Identification of diverse bat alphacoronaviruses and betacoronaviruses in China provides new insights into the evolution and origin of coronavirus-related diseases},\n  journal = {Frontiers in Microbiology},\n  volume = {10},\n  doi = {doi: 10.3389/fmicb.2019.01900},\n  date = {2019},\n  more-authors = {true},\n  number = {1900},\n  language = {}\n}\n@article{hu2017b,\n  author = {Hu, B.},\n  title = {Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus},\n  journal = {PLoS Pathogens},\n  volume = {13},\n  pages = {1006698},\n  doi = {doi: 1371/journal.ppat.1006698},\n  date = {2017},\n  more-authors = {true},\n  language = {}\n}\n@article{loeytynoja-a,\n  author = {L\u00f6ytynoja, A. and Goldman, N.},\n  title = {webPRANK: a phylogeny-aware multiple sequence aligner with interactive alignment browser},\n  journal = {BMC Bioinformatics},\n  volume = {11},\n  pages = {579},\n  doi = {doi: 10.1186/1471-2105-11-579 (2010},\n  language = {}\n}\n@article{fletcher2010a,\n  author = {Fletcher, W. and Yang, Z.},\n  title = {The effect of insertions, deletions, and alignment errors on the branchsite test of positive selection},\n  journal = {Molecular Biology and Evolution},\n  volume = {27},\n  pages = {2257\u20132267},\n  date = {2010},\n  language = {}\n}\n@article{kumar2018a,\n  author = {Kumar, S. and Stecher, G. and Li, M. and Knyaz, C. and Tamura, K.},\n  title = {MEGA X: molecular evolutionary genetics analysis across computing platforms},\n  journal = {Molecular Biology and Evolution},\n  volume = {35},\n  pages = {1547\u20131549},\n  date = {2018},\n  language = {}\n}\n@article{thompson1994a,\n  author = {Thompson, J.D. and Higgins, D.G. and Gibson, T.J.},\n  title = {CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice},\n  journal = {Nucleic Acids Research},\n  volume = {22},\n  pages = {4673\u20134680},\n  date = {1994},\n  language = {}\n}\n",
+        "links": [
+            "https://mafft.cbrc.jp/alignment/server/",
+            "http://test.datamonkey.org/relax",
+            "http://www.ebi.ac.uk/goldman-srv/webprank/"
+        ],
+        "emails": [
+            "wuyh442@nenu.edu.cn"
+        ],
+        "references_ris": "TY  - GEN\nAU  - Guan, W.-j\nTI  - Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv\nDO  - https://doi.org/10.1101/2020.02.06.20020974\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wan, Y.\nAU  - Shang, J.\nAU  - Graham, R.\nAU  - Baric, R.S.\nAU  - Li, F.\nTI  - Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS\nT2  - Journal of Virology\nDO  - 10.1128/JVI.00127-20\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, Z.\nTI  - Pathological findings of COVID-19 associated with acute respiratory distress syndrome\nT2  - The Lancet Respiratory Medicine\nDO  - https://doi.org/10.1016/S2213-2600(20)30076\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, X.-L.\nTI  - Isolation and characterization of a novel bat coronavirus closely related to the direct progenitor of severe acute respiratory syndrome coronavirus\nT2  - Journal of Virology\nVL  - 90\nSP  - 3253\nEP  - 3256\nPY  - 2016\nDA  - 2016\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Nature\nDO  - 10.1038/s41586-020-2012-7\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Lu, R.\nTI  - Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding\nT2  - The Lancet\nVL  - 395\nSP  - 565\nEP  - 574\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, F.\nTI  - A new coronavirus associated with human respiratory disease in China\nT2  - Nature\nVL  - 1\nSP  - 10\nEP  - 1038\nPY  - 2020\nDA  - 2020\nC1  - true\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A novel coronavirus from patients with pneumonia in China, 2019\nT2  - New England Journal of Medicine\nVL  - 382\nSP  - 727\nEP  - 733\nDO  - 10.1056/NEJMoa2001017 (2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hoffmann, M.\nT2  - et al. The novel coronavirus\nPY  - 2019\nDA  - 2019\nTI  - uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. bioRxiv\nDO  - https://doi.org/10.1101/2020.01.31.929042\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wrapp, D.\nTI  - Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation\nT2  - Science\nVL  - 2507\nDO  - 10.1126/science.abb2507\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Lan, J.\nTI  - Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - receptor, ACE2\nVL  - bioRxiv,\nDO  - https://doi.org/10.1101/2020.02.19.956235\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Du, L.\nTI  - The spike protein of SARS-CoV\u2014a target for vaccine and therapeutic development\nT2  - Nature Reviews Microbiology\nVL  - 7\nSP  - 226\nEP  - 236\nPY  - 2009\nDA  - 2009\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, F.\nAU  - Li, W.\nAU  - Farzan, M.\nAU  - Harrison, S.C.\nTI  - Structure of SARS coronavirus spike receptor-binding domain complexed with receptor\nT2  - Science\nVL  - 309\nSP  - 1864\nEP  - 1868\nPY  - 2005\nDA  - 2005\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Y.\nAU  - Wang, H.\nTI  - Convergent evolution of bird-mammal shared characteristics for adapting to nocturnality\nT2  - Proceedings of the Royal Society B: Biological Sciences\nVL  - 286\nPY  - 2018\nDA  - 2018\nDO  - 10.1098/rspb.2018.2185\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Y.\nAU  - Wang, H.\nAU  - Hadly, E.A.\nTI  - Invasion of ancestral mammals into dim-light environments inferred from adaptive evolution of the phototransduction genes\nT2  - Scientific Reports\nVL  - 7\nDO  - https://doi.org/10.1038/srep46542\nPY  - 2017\nDA  - 2017\nIS  - 46542\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Y.\nAU  - Wang, H.\nAU  - Wang, H.\nAU  - Hadly, E.A.\nTI  - Rethinking the origin of primates by reconstructing their diel activity patterns using genetics and morphology\nT2  - Scientific Reports\nVL  - 7\nDO  - 10.1038/s41598-017-12090-3\nPY  - 2017\nDA  - 2017\nIS  - 11837\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, Z.\nTI  - PAML 4: phylogenetic analysis by maximum likelihood\nT2  - Molecular Biology and Evolution\nVL  - 24\nSP  - 1586\nEP  - 1591\nPY  - 2007\nDA  - 2007\nLA  - \nER  - \n\nTY  - JOUR\nAU  - McBride, R.\nAU  - Fielding, B.C.\nTI  - The role of severe acute respiratory syndrome (SARS)-coronavirus accessory proteins in virus pathogenesis\nT2  - Viruses\nVL  - 4\nSP  - 2902\nEP  - 2923\nPY  - 2012\nDA  - 2012\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wertheim, J.O.\nAU  - Murrell, B.\nAU  - Smith, M.D.\nAU  - Kosakovsky Pond, S.L.\nAU  - Scheffler, K.\nTI  - RELAX: detecting relaxed selection in a phylogenetic framework\nT2  - Molecular Biology and Evolution\nVL  - 32\nSP  - 820\nEP  - 832\nPY  - 2015\nDA  - 2015\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hu, Y.\nTI  - Comparative genomics reveals convergent evolution between the bamboo-eating giant and red pandas\nT2  - Proceedings of the National Academy of Sciences of the United States of America\nVL  - 114\nSP  - 1081\nEP  - 1086\nPY  - 2017\nDA  - 2017\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nTI  - Current Biology 20, R55-R56\nPY  - 2010\nDA  - 2010\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tanganyika\nT2  - Molecular Biology and Evolution\nVL  - 28\nSP  - 1769\nEP  - 1776\nPY  - 2011\nDA  - 2011\nER  - \n\nTY  - JOUR\nAU  - Shen, Y.-Y.\nAU  - Liang, L.\nAU  - Li, G.-S.\nAU  - Murphy, R.W.\nAU  - Zhang, Y.-P.\nTI  - Parallel evolution of auditory genes for echolocation in bats and toothed whales\nT2  - PLoS Genetics\nVL  - 8\nSP  - 1002788\nDO  - 10.1371/journal.pgen.1002788\nPY  - 2012\nDA  - 2012\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ujvari, B.\nTI  - Widespread convergence in toxin resistance by predictable molecular evolution\nT2  - Proceedings of the National Academy of Sciences of the United States of America\nVL  - 112\nSP  - 1191111916\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, J.\nTI  - Parallel adaptive origins of digestive RNases in Asian and African leaf monkeys\nT2  - Nature genetics\nVL  - 38\nSP  - 819\nEP  - 823\nPY  - 2006\nDA  - 2006\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhen, Y.\nAU  - Aardema, M.L.\nAU  - Medina, E.M.\nAU  - Schumer, M.\nAU  - Andolfatto, P.\nTI  - Parallel molecular evolution in an herbivore community\nT2  - Science\nVL  - 337\nSP  - 1634\nEP  - 1637\nPY  - 2012\nDA  - 2012\nLA  - \nER  - \n\nTY  - GEN\nAU  - Xiao, K.\nTI  - Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins. bioRxiv\nDO  - https://doi.org/10.1101/2020.02.17.951335\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tan, Y.-J.\nTI  - The Severe Acute Respiratory Syndrome (SARS)-coronavirus 3a protein may function as a modulator of the trafficking properties of the spike protein\nT2  - Virology Journal\nVL  - 2\nDO  - 10.1186/1743-422X-2-5\nPY  - 2005\nDA  - 2005\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yount, B.\nTI  - Severe acute respiratory syndrome coronavirus group-specific open reading frames encode nonessential functions for replication in cell cultures and mice\nT2  - Journal of Virology\nVL  - 79\nSP  - 14909\nEP  - 14922\nPY  - 2005\nDA  - 2005\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zeng, R.\nTI  - Characterization of the 3a protein of SARS-associated coronavirus in infected vero E6 cells and SARS patients\nT2  - Journal of Molecular Biology\nVL  - 341\nSP  - 271\nEP  - 279\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, J.\nAU  - Kumar, S.\nTI  - Detection of convergent and parallel evolution at the amino acid sequence level\nT2  - Molecular Biology and Evolution\nVL  - 14\nSP  - 527\nEP  - 536\nPY  - 1997\nDA  - 1997\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, G.\nTI  - The hearing gene Prestin reunites echolocating bats\nT2  - Proceedings of the National Academy of Sciences of the United States of America\nVL  - 105\nSP  - 13959\nEP  - 13964\nPY  - 2008\nDA  - 2008\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Stewart, C.-B.\nAU  - Schilling, J.W.\nAU  - Wilson, A.C.\nTI  - Adaptive evolution in the stomach lysozymes of foregut fermenters\nT2  - Nature\nVL  - 330\nSP  - 401\nEP  - 404\nPY  - 1987\nDA  - 1987\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ji, W.\nAU  - Wang, W.\nAU  - Zhao, X.\nAU  - Zai, J.\nAU  - Li, X.\nTI  - Cros-species transmission of the newly identified coronavirus 2019-nCoV\nT2  - Journal of Medical Virology\nVL  - 92\nSP  - 433\nEP  - 440\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - Patino-Galindo, J.A.\nAU  - Filip, I.\nAU  - AlQuraishi, M.\nAU  - Rabadan, R.\nTI  - Recombination and convergent evolution led to the emergence of 2019 Wuhan coronavirus. bioRxiv\nDO  - https://doi.org/10.1101/2020.02.10.942748\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Han, Y.\nTI  - Identification of diverse bat alphacoronaviruses and betacoronaviruses in China provides new insights into the evolution and origin of coronavirus-related diseases\nT2  - Frontiers in Microbiology\nVL  - 10\nDO  - 10.3389/fmicb.2019.01900\nPY  - 2019\nDA  - 2019\nC1  - true\nIS  - 1900\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hu, B.\nTI  - Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus\nT2  - PLoS Pathogens\nVL  - 13\nSP  - 1006698\nDO  - 1371/journal.ppat.1006698\nPY  - 2017\nDA  - 2017\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - L\u00f6ytynoja, A.\nAU  - Goldman, N.\nTI  - webPRANK: a phylogeny-aware multiple sequence aligner with interactive alignment browser\nT2  - BMC Bioinformatics\nVL  - 11\nSP  - 579\nDO  - 10.1186/1471-2105-11-579 (2010\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fletcher, W.\nAU  - Yang, Z.\nTI  - The effect of insertions, deletions, and alignment errors on the branchsite test of positive selection\nT2  - Molecular Biology and Evolution\nVL  - 27\nSP  - 2257\nEP  - 2267\nPY  - 2010\nDA  - 2010\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kumar, S.\nAU  - Stecher, G.\nAU  - Li, M.\nAU  - Knyaz, C.\nAU  - Tamura, K.\nTI  - MEGA X: molecular evolutionary genetics analysis across computing platforms\nT2  - Molecular Biology and Evolution\nVL  - 35\nSP  - 1547\nEP  - 1549\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Thompson, J.D.\nAU  - Higgins, D.G.\nAU  - Gibson, T.J.\nTI  - CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice\nT2  - Nucleic Acids Research\nVL  - 22\nSP  - 4673\nEP  - 4680\nPY  - 1994\nDA  - 1994\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Positively selected genes identified based on the branch-site model. Only the \u03c9 values of the foreground branches are shown. Positive selection sites located in subunit 1 of gene S are shown in grey. Underlining shows positive selected sites located within RBD. Dashes (-) shows alignment gaps in the reference sequence"
+            },
+            {
+                "id": "S1",
+                "caption": "Selection intensity change of 11 genes along the 2019-nCoV branch (test branch) relative to the common ancestral branch (reference branch) of 2019-nCoV and RaTG13"
+            },
+            {
+                "id": "S2",
+                "caption": "Selection intensity change of 11 genes along the SARS-CoV branch (test branch) relative to the common ancestral branch (reference branch) of SARS-CoV and its sister taxa (WIV16 and Rs4231)"
+            },
+            {
+                "id": "S3",
+                "caption": "Branches under the positive selection of the S gene. Positive selections are analyzed using branch-site model. For convenience, only the \u03c9 values of the foreground branches are shown. Positive selection sites located in subunit 1 of the S gene are shown in grey. Underlining shows positive selected sites located in the RBD"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The phylogeny of subgenus Sarbecovirus and 11 genes used in this study. The coronavirus phylogeny follows two published studies 5,6. 2019-nCoV, 2019 novel coronavirus; SARS-CoV, severe acute respiratory syndrome coronavirus; Bat-SL-CoV, bat-derived severe acute respiratory syndrome (SARS)-like coronaviruses. Genomic organization and the 11 genes annotated in the reference genome of 2019-nCoV (NC_045512) are shown. Red dots represent the numbers of identical or nearly identical amino acid sites found in genes, S and ORF3a, which are shared between SARS-related CoV and COVID19-related CoV, but are completely or nearly completely distinct from those of their phylogenetic intermediates. The spike (S) protein structure follows one previous study 12, and its receptor-binding domain (RBD) and receptor-binding motif (RBM) are highlighted. * above branches and their corresponding capital letters (A-L) denote the branches with positive selection signals found in the S gene. Two branches (bold) indicate two evolutionary convergent branches with three convergent amino acid substitutions (blue) and 32 shared parallel amino acid substitutions of spike protein"
+            },
+            {
+                "id": "2",
+                "caption": "The identical or nearly identical RBM amino acid sites (rectangle) shared between SARS-related CoV and COVID-19-related CoV. These shared amino acids are distinct from that of their phylogenetic intermediates. The phylogeny is the same as in Fig. 1"
+            },
+            {
+                "id": "3",
+                "caption": "Maximum likelihood tree of the full-length amino acid sequence of RBD. The WAG+G amino acid substitution model is used. The tree has the highest log likelihood (-3406.88). The node supports are shown in number. Hibecovirus and Nobecovirus are used as outgroups"
+            },
+            {
+                "id": "S1",
+                "caption": "Selection intensity changes of gene S along the 2019- nCoV branch (test branch) compared with the common ancestral branch (reference branch) of 2019 n-CoV and RaTG13. The result shows that the \u03c9 categories of the test branch are apparently away from neutrality (\u03c9 = 1), indicating an intensified selection along the 2019- nCoV branch"
+            },
+            {
+                "id": "S2",
+                "caption": "Amino acid variations of full-length spike protein sequences of 2019-nCoV and RaTG13. RBD, receptor-binding domain; RBM, receptor-binding motif"
+            },
+            {
+                "id": "S3",
+                "caption": "Twenty-eight identical or nearly identical RBD amino acid sites (arrows) shared between SARSrelated CoV and COVID-19-related CoV. These shared amino acids are completely or nearly completely distinct from those of their phylogenetic intermediates. The phylogeny is the same as in Fig. 1"
+            },
+            {
+                "id": "S4",
+                "caption": "Neighbor-joining tree based on full-length amino acid sequence of RBD. The JTT+G model is used. The node supports are shown in numbers. Hibecovirus and Nobecovirus are used as outgroups"
+            },
+            {
+                "id": "S5",
+                "caption": "Convergent (bold italic) and parallel amino acid substitutions of genes S and ORF3a. The phylogeny is the same as in Fig. 1"
+            },
+            {
+                "id": "S6",
+                "caption": "One parallel amino acid substitution of ORF3a protein shared by two ancestral branches (bold) leading to SARS-related CoV and COVID-19-related CoV. This parallel amino acid substitution is only supported as Poisson model was used. Eight identical amino acid sites of ORF3a protein shared between SARS-related CoV and COVID-19-related CoV are also shown. These shared amino acids are completely distinct from those of their phylogenetic intermediates. The phylogeny is the same as in Fig. 1"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.04.975995v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-003.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-005.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-006.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-007.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.975995v1/img-008.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "The 2019 novel coronavirus (2019-nCoV, also called severe acute respiratory syndrome (SARS)-CoV-2) has caused the current outbreak of coronavirus disease (COVID-19), which has emerged as a serious public health concern. The clinical and pathological features caused by 2019-nCoV resemble those seen in SARS [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], which is caused by SARS coronavirus (SARS-CoV). Both 2019-nCoV and SARS-CoV have been determined to be of bat origin, with possible intermediate hosts prior to infecting humans [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>,<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Phylogenetic studies have shown that 2019-nCoV and SARS-CoV belong to the subgenus Sarbecovirus, but they are distantly related [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], with a sequence identity of 79.6% at the whole-genome level 5. One recent study showed that 2019-nCoV is more similar to a bat coronavirus (RaTG13), with a sequence identity of 96.2% at the whole-genome level, than many other coronaviruses from different hosts, suggesting a phylogenetic affinity of 2019-nCoV to bat coronavirus compared with SARS-CoV 5. Despite their relatively distant phylogenetic relationships, 2019-nCoV and SARS-CoV are both known to be capable of infecting humans using the same cell receptor, angiotensin-converting enzyme 2 (ACE2) 5,6,9,10, and their protein structures of receptor-binding protein spike (S) are found to be highly similar to each other [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>,<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>], suggesting their phenotypic convergence. The spike protein is responsible for receptor binding and membrane fusion, and it is important for host tropism and transmission capacity 6. The spike protein of coronaviruses comprises two subunits, S1 and S2. The S1 subunit contains a receptorbinding domain (RBD), which harbors a receptor-binding motif (RBM) to make complete contact with the receptor (i.e., ACE2) 12,13.<br/><br/>Considering that 2019-nCoV and SARS-CoV are distantly related, but show high similarity in the RBD protein structure and can use the same cell receptor, ACE2 5-11, an evolutionary convergence may have occurred between them. In the present study, we employ a recently developed molecular phyloecological approach [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], which uses a comparative phylogenetic analysis of functional gene sequences to determine the genetic basis of phenotypic evolution, and we examine the possible molecular basis underlying the phenotypic convergence between 2019-nCoV and SARS-CoV. Our results reveal positive selection signals and evolutionary convergent amino acid sites of the spike protein in both 2019-nCoV and SARS-CoV and their related coronaviruses, providing new insights into understanding the evolutionary origin of their phenotypic convergence."
+        ],
+        "results": [
+            "<strong>Results and discussion</strong><br/><br/>We used likelihood ratio tests based on the branch and branch-site models implemented in the codeml program of PAML 17 to examine the possible Darwinian selection of all 11 genes annotated in the 2019nCoV genome (NC_045512). Positively selected genes (PSGs) were found by the branch-site model (Table 1), independent of the initial value variation of parameters (kappa and \u03c9). Specifically, for the branches leading to 2019-nCoV and SARS-CoV, no PSGs were found, nor were PSGs found along the branches leading to their sister coronaviruses. However, we detected PSGs along the ancestral branch (branch C) of 2019-nCoV and its sister taxon, RaTG13, as well as along the ancestral branch (branch K) of SARS-CoV and its sister taxa, WIV16 and Rs4231 (Table 1, Fig. 1). For branch C, three PSGs (S, Orf1ab and N) were found, and for branch K, only one gene (S) was found to be under positive selection (Table 1). Orf1ab encodes replicase and N encodes nucleocapsid 18. Intriguingly, the S gene was subject to Darwinian selection in both branches, C and K. This gene encodes the spike protein, which mediates receptor binding and membrane fusion 6. The finding of Darwinian selection on the spike protein may suggest its adaptive evolution to the host receptors. To further examine the possible adaptive evolution of 2019-nCoV and SARS-CoV to a human host, we used RELAX 19 to analyze the relative selection intensity change of the 11 genes along the branches leading to 2019-nCoV and SARS-CoV compared with their most recent ancestors, branches C and K, respectively (Tables S1-2). Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs. We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs. For the selectively intensified gene S along the 2019-nCoV branch, 0.46% of the amino acid sites (about five amino acids) were under positive selection, while most sites (86.63%) were under purification selection (Table S1). This may suggest that 2019-nCoV was subject to an adaptive evolution during its adaption to possible intermediate and/or human hosts.<br/><br/>Given the positive selection of the S gene in both branches, C and K, we further examined its positive selection signals using branch-site model along all other main branches (Fig. 1) to test whether the positive selection uniquely occurred along the branches related to 2019-nCoV and SARS-CoV. Our results showed positive selection signals along 10 out of 45 branches examined (Fig. 1, Table S3). This may suggest that the S gene was widely subject to Darwinian selection in different coronavirus strains, indicating that it may be crucial for the successful survival of coronaviruses. Further analyses of positive selection sites showed that most positive selection sites among all 12 branches under positive selection were located within subunit 1 of S gene (Table 1, Table S3), which is used for receptor binding. This may suggest that there are strong selection pressures of different coronavirus strains for their own receptor binding.<br/><br/>Given the selection intensification of S gene in 2019-nCoV since its evolutionary divergence from RaTG13, we conducted comparative sequence analyses between the two. We found that there were more than 20 amino acid differences between them, and most of them were located within RBD, especially RBM (Fig. S2), suggesting a high variability of RBM. Given the importance of RBM for receptor binding, we further conducted a comparative sequence analysis among all the coronavirus strains studied to examine its variability. The results showed high sequence variability, with insertion and/or deletion and amino acid substitutions among the coronavirus strains studied (Fig. 2). Despite the high variability of RBM, strikingly, we found that SARS-CoV and its phylogenetic relatives\u2014including WIV16 (KT444582), Rs4231 (KY417146), Rs7327 (KY417151), Rs9401 (KY417152), and BtRs-BetaCoV/YN2018B (MK211376), called SARS-related CoV here, shared many identical or nearly identical amino acids with their phylogenetically distant coronavirus strains, including 2019-nCoV and RaTG13, which we called COVID-19-related CoV (Fig. 2). These shared amino acids were clearly distinct from bat SARS-like CoV that were phylogenetic intermediates between them (Fig. 2). Further analyses showed that such identical amino acids shared between SARS-related CoV and COVID-19-related CoV were not restricted to RBM, but rather, they were scattered throughout the spike protein, with a total of 32 such sites, which were centered on RBD (28 sites in total, Fig. S3). To further examine whether such similarity occurred in other proteins, we analyzed all 11 genes studied among these coronaviruses, and we found that one additional gene, ORF3a, contained eight such sites (Fig. 1). The existence of these shared amino acids between SARS-related CoV and COVID-19-related CoV may suggest their high sequence similarity. In support of this, we reconstructed maximum likelihood and neighbor-joining phylogenies using full-length RBD protein sequences, and both showed that SARS-related CoV and COVID-19-related CoV were grouped in the same clade, with relatively high support, which is consistent with two previous studies [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], at the same time, their phylogenetic intermediates were clustered in distinct clades (Fig. 3, Fig. S4). The phylogenetic uniting of SARS-related CoV and COVID-19-related CoV provide evidence of their high similarity of RBD protein sequences.<br/><br/>Given their genome-level phylogenetic disparity, the high similarity of RBD protein sequences between SARS-related CoV and COVID-19-related CoV may suggest their evolutionary convergence in the spike protein. To test this possibility, we used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and our results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, respectively (Fig. 1). It should be noted that the 35 evolutionary convergent sites of spike protein were apparently underestimated, since those amino acid sites with alignment gaps were not considered by the approach used. Still, these 35 sites represented an unusually high incidence of evolutionary convergence sites, which have rarely been found in previous studies related to molecular convergent evolution [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>-<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. This suggests a strong evolutionary convergence between SARS-related CoV and COVID-19-related CoV. On completion of our data analyses, one of the most recent studies showed that the RBD of the spike protein of Pangolin-CoV is nearly identical to that of 2019-nCoV, with only one amino acid difference 27, suggesting that Pangolin-CoV also belongs to the clade of COVID-19-related CoV. It should be noted that the RBD sequences of two other coronavirus strains, BM48-31 (GU190215) and BtKY72 (KY352407), were grouped with SARS-related CoV and COVID-19-related CoV (Fig. 3, Fig. S4), suggesting an evolutionary convergence among them. In addition to these evolutionarily convergent coronavirus strains, intriguingly, we found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5). These results suggest that the spike protein may have been subjected to a successive evolutionary convergence among ancestral coronavirus strains leading to SARS-related CoV, COVID-19related CoV and CoVZC45 and CoVZXC21.<br/><br/>Previous studies show that spike protein interacts tightly with a related protein ORF3a and they likely coevolved [<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>-<a class=\"ref-link\" id=\"c30\" href=\"#r30\">30</a>]. If their coevolution does occur, we may expect that the evolutionary convergence of the spike protein found may have led to the occurrence of the evolutionary convergence of ORF3a as well. To test this, we reconstructed ancestral amino acid sequences of ORF3a along internal nodes, and our results revealed 6 parallel amino acid substitutions shared between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21) (Fig. S5). And we also detected a parallel amino acid substitution of ORF3a between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV (Fig. S6). Considering that these evolutionary convergent branches of ORF3a also showed evolutionary convergence in spike protein as mentioned above (Fig. 1, Fig. S5), it may suggest that spike protein and its partner protein ORF3a may have been subjected to a co-evolutionary convergence.<br/><br/>Evolutionary convergence may occur by chance or by Darwinian selection. Our results showed that the evolutionary convergent sites found in this study were mainly restricted to two genes (S and ORF3a, Fig. 1), and in particular, they were centered within the RBD of the S gene. This biased distribution of evolutionary convergent sites is difficult to explain according to chance; rather, Darwinian selection would be favored as a plausible explanation. In support of this, we used CONVERG2 31 to evaluate the probability of the occurrence of our observed convergent sites of spike protein between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used. This result apparently rejects chance or neutral evolution as a possible explanation; rather, it indicates a predominately strong Darwinian selection. Moreover, we observed an apparently accelerated evolution of RBD of SARS-related CoV and COVID-19-related CoV related to their phylogenetic intermediates (Fig. 3), and we detected a significant Darwinian selection of the S gene along two branches (branches C and K) of SARS-related CoV and COVID-19-related CoV (Fig. 1, Table 1). These lines of evidence may strongly support the evolutionary convergence found in this study as a result of adaptive evolution. Regarding the possible adaptive evolutionary convergence, previously proposed causes, such as gene duplication and horizontal gene transfer [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>,<a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>], are less likely because only single-copy S genes were found in all 35 genomes examined and evolutionary convergent sites presented an apparently biased distribution pattern. Parallel and/convergent evolution, which occur through point mutation, could contribute to our observed evolutionary convergence, but it could not account for the unusually high incidence of convergent sites observed in this study, representing a rare finding in previous studies [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>-<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. Recent studies have shown a relatively high likelihood of occurrence of homologous recombination in spike protein 7,34,35 , and especially, it is considered that the RBD of 2019-nCov may be derived from a recombination event between that of human SARS-CoV and another (unsampled) SARS-like CoV 35. If this is the case, the homologous recombination, if any, may have occurred between the ancestors (branches C and K) of SARS-related CoV and COVID-19-related CoV, accounting for their unusually high incidence of convergent sites observed in this study.<br/><br/>Given the strong evolutionary convergence of RBD of spike protein between the two clades, COVID-19related CoV and SARS-related CoV, the coronaviruses of the two clades may have more likely adapted to similar or the same receptor. To date, 2019-nCoV and SARS-CoV have been known to be capable of using the ACE2 receptor in human host [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], but the receptors of their phylogenetic relatives from the two clades, COVID-19-related CoV and SARS-related CoV, are less clear [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>,<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>,<a class=\"ref-link\" id=\"c37\" href=\"#r37\">37</a>]. Regarding the bat SARSlike CoV, Rs4231 and Rs7327 are known to be able to use human ACE2 receptor 37, while WIV16 is capable of using the ACE2 receptor from humans, civets and Chinese horseshoe bats (Rhinolophus sinicus) 4. The receptors of Rs9401, BtRs-BetaCoV/YN2018B, and BatCoV RaTG13 remain to be explored. Further studies on the receptors of these bat SARS-like CoVs in their natural reservoirs are badly needed to determine whether ACE2 or other candidates, if any, represent their shared cell receptor, leading to their strong evolutionary convergence of spike protein.<br/><br/>Our molecular phyloecological study demonstrates that spike protein shows significant Darwinian selection along two ancestral branches related to SARS-CoV and 2019-nCoV, suggesting their adaptive evolution to recognizing their own cell receptors. Comparative sequence and phylogenetic analyses indicate a high similarity of RBD sequences of spike protein between SARS-related CoV and COVID-19related CoV. Subsequent ancestral sequence reconstruction and convergent evolution analyses reveal an unusually high incidence of parallel and convergent amino acid substitutions between them, suggesting an extremely strong adaptive evolutionary convergence in spike protein. In addition to spike protein, we also found evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence. Finally, considering that SARS-CoV and 2019-nCoV have posed serious concerns to public health and safety, it should be noted that many other bat SARS-like CoV strains that were evolutionarily convergent with SARS-CoV and 2019-nCoV recognized in this study may be potential novel coronaviruses to infect humans in the future."
+        ],
+        "method": [
+            "Taxa and sequences We used 35 coronavirus strain genomes of the subgenus Sarbecovirus based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], including 2019-nCoV, SARS-CoV, and their phylogenetic relative, bat SARS-like CoV (please see Fig. 1 for details). For all these coronavirus strains, we downloaded their full-length genome sequences from GenBank except for five 2019-nCoV and RaTG13 strains, which were downloaded from GISAID. We aligned these genome sequences using MAFFT (https://mafft.cbrc.jp/alignment/server/). The coding sequences of 11 genes (Fig. 1) annotated in the genome of 2019-nCoV (NC_045512) were used as a reference sequence to obtain the homologous gene sequences of the 35 coronavirus strains. We aligned these homologous gene sequences using the online software webPRANK (http://www.ebi.ac.uk/goldman-srv/webprank/) 38, which is considered to create a more reliable alignment to decrease false-positive results in positive selection analyses 39.<br/><br/>Adaptive evolution analyses We employed the branch and branch-site models implemented in the codeml program of PAML 17 to examine the adaptive evolution of our focal genes. For this, a codon-based maximum-likelihood method was used to estimate the ratio of non-synonymous to synonymous substitutions per site (dN/dS or \u03c9), and likelihood ratio tests (LRTs) were used to calculate statistical significance. A statistically significant value of \u03c9 > 1 suggests positive selection. Upon analysis, an unrooted taxon tree (Fig. 1) was constructed based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. For branch model analysis, we used a two-rate branch model, and our focal branches were labelled as foreground branches, while others were treated as background branches. The two-rate branch model was compared with the one-rate branch model, which assumes a single \u03c9 value across the tree, to determine statistical significance. If a statistically significant value of \u03c9 > 1 in a foreground branch was detected, the two-ratio branch model was then compared with the two-ratio branch model with a constraint of \u03c9 = 1 to further determine whether the \u03c9 > 1 of the foreground branch was statistically significant. In addition to the branch model, we also used a branchsite model (Test 2) to detect positively selected sites for a particular branch. Test 2 compares a modified model A with its corresponding null model with a constraint of \u03c9 = 1 to determine the statistical significance. Positively selected sites were found using an empirical Bayes method. For result robustness, we evaluated the dependence of the signal of positive selection on parameter variation. For this, we used two different initial values of kappa (kappa = 0.5, 3.0) and of omega (\u03c9 = 0.5, 2.0), and eventually, several independent runs were conducted for each of the positively selected genes found.<br/><br/>Selection intensity analyses We analyzed relative selection intensity using the RELAX 19 program, available from the Datamonkey webserver (http://test.datamonkey.org/relax). RELAX is a hypothesis testing framework, and it can be used to test whether selection strength has been relaxed or intensified along a certain branch or lineage. For analyses, RELAX calculates a selection intensity parameter value (k), and k > 1 shows an intensified selection, while k < 1 indicates a relaxed selection, assuming a priori partitioning of the test branches and reference branches. We would expect that an intensified selection shows \u03c9 categories away from neutrality (\u03c9 = 1), while a relaxed selection is expected to show \u03c9 categories converging to neutrality (\u03c9 = 1). Statistical significance was evaluated by LRT by comparing an alternative model with a null model. The null model assumes k = 1 and the same \u03c9 distribution for both test and reference branches, while the alternative model assumes that k is a free parameter, and the test and reference branches may have different \u03c9 distributions.<br/><br/>Phylogenetic analyses We reconstructed an maximum likelihood (ML) tree and neighbor-joining (NJ) tree using MEGA X 40. For ML analyses, the WAG+ G model was selected as the best amino acid substitution model according to the Bayesian information criterion. All amino acid sites with an alignment gap were included for analyses. For NJ analyses, JTT+G was selected as the best model. For the ML and NJ analyses, the bootstrap value was set to 1, 000. Other parameters were used as defaults in the program.<br/><br/>Ancestral sequence reconstruction We used the amino acid-based marginal reconstruction implemented in the empirical Bayes approach in PAML 17 for ancestral sequence reconstruction. In the analyses, the character was assigned to a single interior node and the character with the highest posterior probability was used as the best reconstruction. We used two different amino acid substitution models, JTT and Poisson, to examine the consistency of our results. The JTT model assumes different substitution rates of different amino acids, while the Poisson model assumes the same substitution rate of all amino acids. For the analyses, we obtained the full-length spike protein sequences of our focal coronavirus strains and used their phylogeny, as given in Fig. 1. The amino acid substitutions along our focal branches were analyzed. The results based on the JTT and Poisson models were generally identical; for convenience, only the results based on the JTT model are shown.<br/><br/>Convergent evolution analyses We used the CONVERG2 31 program to evaluate the probabilities that the observed convergent and parallel substitutions were due to random chance. A statistical significant p-value may suggest the observed evolutionary convergent sites are less likely attributable to random chance, but instead, favor Darwinian selection as a possible explanation. For the analyses, two different amino acid substitution models, JTT and Poisson, were used. The RBD amino acid sequences of our focal 35 coronavirus genomes were abstracted and aligned using CLUSTAL W 41 program. The phylogenetic relationships among the coronavirus strains studied are given in Fig. 1."
+        ],
+        "acknowledgements": [
+            "We thank Hui Wang for helping with the convergent evolution analyses. This research was supported by the National Natural Science Foundation of China (grant number, 31770401) and the Fundamental Research Funds for the Central Universities."
+        ],
+        "funding": [
+            "This research was supported by the National Natural Science Foundation of China (grant number, 31770401) and the Fundamental Research Funds for the Central Universities"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Tables S1",
+                "Table S1",
+                "Fig. S1",
+                "Table S2",
+                "Table S3",
+                "Fig. S2",
+                "Fig. S3",
+                "Fig. S4",
+                "Fig. S5",
+                "Fig. S6"
+            ]
+        }
+    },
+    "structured_content": {
+        "Abstract": [
+            "Coronavirus Disease 2019 (COVID-19) and severe acute respiratory syndrome (SARS)-related coronaviruses (e.g., 2019-nCoV and SARS-CoV) are phylogenetically distantly related, but both are capable of infecting human hosts via the same receptor, angiotensin-converting enzyme 2, and cause similar clinical and pathological features, suggesting their phenotypic convergence. Yet, the molecular basis that underlies their phenotypic convergence remains unknown. Here, we used a recently developed molecular phyloecological approach to examine the molecular basis leading to their phenotypic convergence. Our genome-level analyses show that the spike protein, which is responsible for receptor binding, has undergone significant Darwinian selection along the branches related to 2019nCoV and SARS-CoV. Further examination shows an unusually high proportion of evolutionary convergent amino acid sites in the receptor binding domain (RBD) of the spike protein between COVID19 and SARS-related CoV clades, leading to the phylogenetic uniting of their RBD protein sequences. In addition to the spike protein, we also find the evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence. Our results demonstrate a strong adaptive evolutionary convergence between COVID-19 and SARS-related CoV, possibly facilitating their adaptation to similar or identical receptors. Finally, it should be noted that many observed bat SARS-like CoVs that have an evolutionary convergent RBD sequence with 2019-nCoV and SARS-CoV may be preadapted to human host receptor ACE2, and hence would be potential new coronavirus sources to infect humans in the future."
+        ],
+        "Introduction": [
+            "The 2019 novel coronavirus (2019-nCoV, also called severe acute respiratory syndrome (SARS)-CoV-2) has caused the current outbreak of coronavirus disease (COVID-19), which has emerged as a serious public health concern. The clinical and pathological features caused by 2019-nCoV resemble those seen in SARS [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], which is caused by SARS coronavirus (SARS-CoV). Both 2019-nCoV and SARS-CoV have been determined to be of bat origin, with possible intermediate hosts prior to infecting humans [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>,<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Phylogenetic studies have shown that 2019-nCoV and SARS-CoV belong to the subgenus Sarbecovirus, but they are distantly related [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], with a sequence identity of 79.6% at the whole-genome level 5. One recent study showed that 2019-nCoV is more similar to a bat coronavirus (RaTG13), with a sequence identity of 96.2% at the whole-genome level, than many other coronaviruses from different hosts, suggesting a phylogenetic affinity of 2019-nCoV to bat coronavirus compared with SARS-CoV 5. Despite their relatively distant phylogenetic relationships, 2019-nCoV and SARS-CoV are both known to be capable of infecting humans using the same cell receptor, angiotensin-converting enzyme 2 (ACE2) 5,6,9,10, and their protein structures of receptor-binding protein spike (S) are found to be highly similar to each other [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>,<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>], suggesting their phenotypic convergence. The spike protein is responsible for receptor binding and membrane fusion, and it is important for host tropism and transmission capacity 6. The spike protein of coronaviruses comprises two subunits, S1 and S2. The S1 subunit contains a receptorbinding domain (RBD), which harbors a receptor-binding motif (RBM) to make complete contact with the receptor (i.e., ACE2) 12,13.",
+            "Considering that 2019-nCoV and SARS-CoV are distantly related, but show high similarity in the RBD protein structure and can use the same cell receptor, ACE2 5-11, an evolutionary convergence may have occurred between them. In the present study, we employ a recently developed molecular phyloecological approach [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], which uses a comparative phylogenetic analysis of functional gene sequences to determine the genetic basis of phenotypic evolution, and we examine the possible molecular basis underlying the phenotypic convergence between 2019-nCoV and SARS-CoV. Our results reveal positive selection signals and evolutionary convergent amino acid sites of the spike protein in both 2019-nCoV and SARS-CoV and their related coronaviruses, providing new insights into understanding the evolutionary origin of their phenotypic convergence."
+        ],
+        "Results and discussion": [
+            "We used likelihood ratio tests based on the branch and branch-site models implemented in the codeml program of PAML 17 to examine the possible Darwinian selection of all 11 genes annotated in the 2019nCoV genome (NC_045512). Positively selected genes (PSGs) were found by the branch-site model (Table 1), independent of the initial value variation of parameters (kappa and \u03c9). Specifically, for the branches leading to 2019-nCoV and SARS-CoV, no PSGs were found, nor were PSGs found along the branches leading to their sister coronaviruses. However, we detected PSGs along the ancestral branch (branch C) of 2019-nCoV and its sister taxon, RaTG13, as well as along the ancestral branch (branch K) of SARS-CoV and its sister taxa, WIV16 and Rs4231 (Table 1, Fig. 1). For branch C, three PSGs (S, Orf1ab and N) were found, and for branch K, only one gene (S) was found to be under positive selection (Table 1). Orf1ab encodes replicase and N encodes nucleocapsid 18. Intriguingly, the S gene was subject to Darwinian selection in both branches, C and K. This gene encodes the spike protein, which mediates receptor binding and membrane fusion 6. The finding of Darwinian selection on the spike protein may suggest its adaptive evolution to the host receptors. To further examine the possible adaptive evolution of 2019-nCoV and SARS-CoV to a human host, we used RELAX 19 to analyze the relative selection intensity change of the 11 genes along the branches leading to 2019-nCoV and SARS-CoV compared with their most recent ancestors, branches C and K, respectively (Tables S1-2). Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs. We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs. For the selectively intensified gene S along the 2019-nCoV branch, 0.46% of the amino acid sites (about five amino acids) were under positive selection, while most sites (86.63%) were under purification selection",
+            "(Table S1). This may suggest that 2019-nCoV was subject to an adaptive evolution during its adaption to possible intermediate and/or human hosts.",
+            "Given the positive selection of the S gene in both branches, C and K, we further examined its positive selection signals using branch-site model along all other main branches (Fig. 1) to test whether the positive selection uniquely occurred along the branches related to 2019-nCoV and SARS-CoV. Our results showed positive selection signals along 10 out of 45 branches examined (Fig. 1, Table S3). This may suggest that the S gene was widely subject to Darwinian selection in different coronavirus strains, indicating that it may be crucial for the successful survival of coronaviruses. Further analyses of positive selection sites showed that most positive selection sites among all 12 branches under positive selection were located within subunit 1 of S gene (Table 1, Table S3), which is used for receptor binding. This may suggest that there are strong selection pressures of different coronavirus strains for their own receptor binding.",
+            "Given the selection intensification of S gene in 2019-nCoV since its evolutionary divergence from RaTG13, we conducted comparative sequence analyses between the two. We found that there were more than 20 amino acid differences between them, and most of them were located within RBD, especially RBM (Fig. S2), suggesting a high variability of RBM. Given the importance of RBM for receptor binding, we further conducted a comparative sequence analysis among all the coronavirus strains studied to examine its variability. The results showed high sequence variability, with insertion and/or deletion and amino acid substitutions among the coronavirus strains studied (Fig. 2). Despite the high variability of RBM, strikingly, we found that SARS-CoV and its phylogenetic relatives\u2014including WIV16 (KT444582), Rs4231 (KY417146), Rs7327 (KY417151), Rs9401 (KY417152), and BtRs-BetaCoV/YN2018B (MK211376), called SARS-related CoV here, shared many identical or nearly identical amino acids with their phylogenetically distant coronavirus strains, including 2019-nCoV and RaTG13, which we called COVID-19-related CoV (Fig. 2). These shared amino acids were clearly distinct from bat SARS-like CoV that were phylogenetic intermediates between them (Fig. 2). Further analyses showed that such identical amino acids shared between SARS-related CoV and COVID-19-related CoV were not restricted to RBM, but rather, they were scattered throughout the spike protein, with a total of 32 such sites, which were centered on RBD (28 sites in total, Fig. S3). To further examine whether such similarity occurred in other proteins, we analyzed all 11 genes studied among these coronaviruses, and we found that one additional gene, ORF3a, contained eight such sites (Fig. 1). The existence of these shared amino acids between SARS-related CoV and COVID-19-related CoV may suggest their high sequence similarity. In support of this, we reconstructed maximum likelihood and neighbor-joining phylogenies using full-length RBD protein sequences, and both showed that SARS-related CoV and COVID-19-related CoV were grouped in the same clade, with relatively high support, which is consistent with two previous studies [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], at the same time, their phylogenetic intermediates were clustered in distinct clades (Fig. 3, Fig. S4). The phylogenetic uniting of SARS-related CoV and COVID-19-related CoV provide evidence of their high similarity of RBD protein sequences.",
+            "Given their genome-level phylogenetic disparity, the high similarity of RBD protein sequences between SARS-related CoV and COVID-19-related CoV may suggest their evolutionary convergence in the spike protein. To test this possibility, we used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and our results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, respectively (Fig. 1). It should be noted that the 35 evolutionary convergent sites of spike protein were apparently underestimated, since those amino acid sites with alignment gaps were not considered by the approach used. Still, these 35 sites represented an unusually high incidence of evolutionary convergence sites, which have rarely been found in previous studies related to molecular convergent evolution [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>-<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. This suggests a strong evolutionary convergence between SARS-related CoV and COVID-19-related CoV. On completion of our data analyses, one of the most recent studies showed that the RBD of the spike protein of Pangolin-CoV is nearly identical to that of 2019-nCoV, with only one amino acid difference 27, suggesting that Pangolin-CoV also belongs to the clade of COVID-19-related CoV. It should be noted that the RBD sequences of two other coronavirus strains, BM48-31 (GU190215) and BtKY72 (KY352407), were grouped with SARS-related CoV and COVID-19-related CoV (Fig. 3, Fig. S4), suggesting an evolutionary convergence among them. In addition to these evolutionarily convergent coronavirus strains, intriguingly, we found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5). These results suggest that the spike protein may have been subjected to a successive evolutionary convergence among ancestral coronavirus strains leading to SARS-related CoV, COVID-19related CoV and CoVZC45 and CoVZXC21.",
+            "Previous studies show that spike protein interacts tightly with a related protein ORF3a and they likely coevolved [<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>-<a class=\"ref-link\" id=\"c30\" href=\"#r30\">30</a>]. If their coevolution does occur, we may expect that the evolutionary convergence of the spike protein found may have led to the occurrence of the evolutionary convergence of ORF3a as well. To test this, we reconstructed ancestral amino acid sequences of ORF3a along internal nodes, and our results revealed 6 parallel amino acid substitutions shared between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21) (Fig. S5). And we also detected a parallel amino acid substitution of ORF3a between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV (Fig. S6). Considering that these evolutionary convergent branches of ORF3a also showed evolutionary convergence in spike protein as mentioned above (Fig. 1, Fig. S5), it may suggest that spike protein and its partner protein ORF3a may have been subjected to a co-evolutionary convergence.",
+            "Evolutionary convergence may occur by chance or by Darwinian selection. Our results showed that the evolutionary convergent sites found in this study were mainly restricted to two genes (S and ORF3a, Fig. 1), and in particular, they were centered within the RBD of the S gene. This biased distribution of evolutionary convergent sites is difficult to explain according to chance; rather, Darwinian selection would be favored as a plausible explanation. In support of this, we used CONVERG2 31 to evaluate the probability of the occurrence of our observed convergent sites of spike protein between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used. This result apparently rejects chance or neutral evolution as a possible explanation; rather, it indicates a predominately strong Darwinian selection. Moreover, we observed an apparently accelerated evolution of RBD of SARS-related CoV and COVID-19-related CoV related to their phylogenetic intermediates (Fig. 3), and we detected a significant Darwinian selection of the S gene along two branches (branches C and K) of SARS-related CoV and COVID-19-related CoV (Fig. 1, Table 1). These lines of evidence may strongly support the evolutionary convergence found in this study as a result of adaptive evolution. Regarding the possible adaptive evolutionary convergence, previously proposed causes, such as gene duplication and horizontal gene transfer [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>,<a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>], are less likely because only single-copy S genes were found in all 35 genomes examined and evolutionary convergent sites presented an apparently biased distribution pattern. Parallel and/convergent evolution, which occur through point mutation, could contribute to our observed evolutionary convergence, but it could not account for the unusually high incidence of convergent sites observed in this study, representing a rare finding in previous studies [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>-<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. Recent studies have shown a relatively high likelihood of occurrence of homologous recombination in spike protein 7,34,35 , and especially, it is considered that the RBD of 2019-nCov may be derived from a recombination event between that of human SARS-CoV and another (unsampled) SARS-like CoV 35. If this is the case, the homologous recombination, if any, may have occurred between the ancestors (branches C and K) of SARS-related CoV and COVID-19-related CoV, accounting for their unusually high incidence of convergent sites observed in this study.",
+            "Given the strong evolutionary convergence of RBD of spike protein between the two clades, COVID-19related CoV and SARS-related CoV, the coronaviruses of the two clades may have more likely adapted to similar or the same receptor. To date, 2019-nCoV and SARS-CoV have been known to be capable of using the ACE2 receptor in human host [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], but the receptors of their phylogenetic relatives from the two clades, COVID-19-related CoV and SARS-related CoV, are less clear [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>,<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c36\" href=\"#r36\">36</a>,<a class=\"ref-link\" id=\"c37\" href=\"#r37\">37</a>]. Regarding the bat SARSlike CoV, Rs4231 and Rs7327 are known to be able to use human ACE2 receptor 37, while WIV16 is capable of using the ACE2 receptor from humans, civets and Chinese horseshoe bats (Rhinolophus sinicus) 4. The receptors of Rs9401, BtRs-BetaCoV/YN2018B, and BatCoV RaTG13 remain to be explored. Further studies on the receptors of these bat SARS-like CoVs in their natural reservoirs are badly needed to determine whether ACE2 or other candidates, if any, represent their shared cell receptor, leading to their strong evolutionary convergence of spike protein.",
+            "Our molecular phyloecological study demonstrates that spike protein shows significant Darwinian selection along two ancestral branches related to SARS-CoV and 2019-nCoV, suggesting their adaptive evolution to recognizing their own cell receptors. Comparative sequence and phylogenetic analyses indicate a high similarity of RBD sequences of spike protein between SARS-related CoV and COVID-19related CoV. Subsequent ancestral sequence reconstruction and convergent evolution analyses reveal an unusually high incidence of parallel and convergent amino acid substitutions between them, suggesting an extremely strong adaptive evolutionary convergence in spike protein. In addition to spike protein, we also found evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence. Finally, considering that SARS-CoV and 2019-nCoV have posed serious concerns to public health and safety, it should be noted that many other bat SARS-like CoV strains that were evolutionarily convergent with SARS-CoV and 2019-nCoV recognized in this study may be potential novel coronaviruses to infect humans in the future."
+        ],
+        "Materials and method": [
+            "Taxa and sequences We used 35 coronavirus strain genomes of the subgenus Sarbecovirus based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], including 2019-nCoV, SARS-CoV, and their phylogenetic relative, bat SARS-like CoV (please see Fig. 1 for details). For all these coronavirus strains, we downloaded their full-length genome sequences from GenBank except for five 2019-nCoV and RaTG13 strains, which were downloaded from GISAID. We aligned these genome sequences using MAFFT (https://mafft.cbrc.jp/alignment/server/). The coding sequences of 11 genes (Fig. 1) annotated in the genome of 2019-nCoV (NC_045512) were used as a reference sequence to obtain the homologous gene sequences of the 35 coronavirus strains. We aligned these homologous gene sequences using the online software webPRANK (http://www.ebi.ac.uk/goldman-srv/webprank/) 38, which is considered to create a more reliable alignment to decrease false-positive results in positive selection analyses 39.",
+            "Adaptive evolution analyses We employed the branch and branch-site models implemented in the codeml program of PAML 17 to examine the adaptive evolution of our focal genes. For this, a codon-based maximum-likelihood method was used to estimate the ratio of non-synonymous to synonymous substitutions per site (dN/dS or \u03c9), and likelihood ratio tests (LRTs) were used to calculate statistical significance. A statistically significant value of \u03c9 > 1 suggests positive selection. Upon analysis, an unrooted taxon tree (Fig. 1) was constructed based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. For branch model analysis, we used a two-rate branch model, and our focal branches were labelled as foreground branches, while others were treated as background branches. The two-rate branch model was compared with the one-rate branch model, which assumes a single \u03c9 value across the tree, to determine statistical significance. If a statistically significant value of \u03c9 > 1 in a foreground branch was detected, the two-ratio branch model was then compared with the two-ratio branch model with a constraint of \u03c9 = 1 to further determine whether the \u03c9 > 1 of the foreground branch was statistically significant. In addition to the branch model, we also used a branchsite model (Test 2) to detect positively selected sites for a particular branch. Test 2 compares a modified model A with its corresponding null model with a constraint of \u03c9 = 1 to determine the statistical significance. Positively selected sites were found using an empirical Bayes method. For result robustness, we evaluated the dependence of the signal of positive selection on parameter variation. For this, we used two different initial values of kappa (kappa = 0.5, 3.0) and of omega (\u03c9 = 0.5, 2.0), and eventually, several independent runs were conducted for each of the positively selected genes found.",
+            "Selection intensity analyses We analyzed relative selection intensity using the RELAX 19 program, available from the Datamonkey webserver (http://test.datamonkey.org/relax). RELAX is a hypothesis testing framework, and it can be used to test whether selection strength has been relaxed or intensified along a certain branch or lineage. For analyses, RELAX calculates a selection intensity parameter value (k), and k > 1 shows an intensified selection, while k < 1 indicates a relaxed selection, assuming a priori partitioning of the test branches and reference branches. We would expect that an intensified selection shows \u03c9 categories away from neutrality (\u03c9 = 1), while a relaxed selection is expected to show \u03c9 categories converging to neutrality (\u03c9 = 1). Statistical significance was evaluated by LRT by comparing an alternative model with a null model. The null model assumes k = 1 and the same \u03c9 distribution for both test and reference branches, while the alternative model assumes that k is a free parameter, and the test and reference branches may have different \u03c9 distributions.",
+            "Phylogenetic analyses We reconstructed an maximum likelihood (ML) tree and neighbor-joining (NJ) tree using MEGA X 40. For ML analyses, the WAG+ G model was selected as the best amino acid substitution model according to the Bayesian information criterion. All amino acid sites with an alignment gap were included for analyses. For NJ analyses, JTT+G was selected as the best model. For the ML and NJ analyses, the bootstrap value was set to 1, 000. Other parameters were used as defaults in the program.",
+            "Ancestral sequence reconstruction We used the amino acid-based marginal reconstruction implemented in the empirical Bayes approach in PAML 17 for ancestral sequence reconstruction. In the analyses, the character was assigned to a single interior node and the character with the highest posterior probability was used as the best reconstruction. We used two different amino acid substitution models, JTT and Poisson, to examine the consistency of our results. The JTT model assumes different substitution rates of different amino acids, while the Poisson model assumes the same substitution rate of all amino acids. For the analyses, we obtained the full-length spike protein sequences of our focal coronavirus strains and used their phylogeny, as given in Fig. 1. The amino acid substitutions along our focal branches were analyzed. The results based on the JTT and Poisson models were generally identical; for convenience, only the results based on the JTT model are shown.",
+            "Convergent evolution analyses We used the CONVERG2 31 program to evaluate the probabilities that the observed convergent and parallel substitutions were due to random chance. A statistical significant p-value may suggest the observed evolutionary convergent sites are less likely attributable to random chance, but instead, favor Darwinian selection as a possible explanation. For the analyses, two different amino acid substitution models, JTT and Poisson, were used. The RBD amino acid sequences of our focal 35 coronavirus genomes were abstracted and aligned using CLUSTAL W 41 program. The phylogenetic relationships among the coronavirus strains studied are given in Fig. 1."
+        ],
+        "Acknowledgements": [
+            "We thank Hui Wang for helping with the convergent evolution analyses. This research was supported by the National Natural Science Foundation of China (grant number, 31770401) and the Fundamental Research Funds for the Central Universities."
+        ],
+        "References": [
+            "Guan, W.-j. et al Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv, doi:https://doi.org/10.1101/2020.02.06.20020974 (2020).",
+            "Wan, Y., Shang, J., Graham, R., Baric, R. S. & Li, F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. Journal of Virology, doi:10.1128/JVI.00127-20 (2020).",
+            "Xu, Z. et al Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine, doi:https://doi.org/10.1016/S2213-2600(20)30076-",
+            "X (2020).",
+            "Yang, X.-L. et al Isolation and characterization of a novel bat coronavirus closely related to the direct progenitor of severe acute respiratory syndrome coronavirus. Journal of Virology 90, 3253-3256 (2016).",
+            "Zhou, P. et al A pneumonia outbreak associated with a new coronavirus of probable bat origin.",
+            "Nature, doi:10.1038/s41586-020-2012-7 (2020).",
+            "Lu, R. et al Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet 395, 565-574 (2020).",
+            "Wu, F. et al A new coronavirus associated with human respiratory disease in China. Nature, 1-5, doi:https://doi.org/10.1038/s41586-020-2008-3 (2020).",
+            "Zhu, N. et al A novel coronavirus from patients with pneumonia in China, 2019. New England",
+            "Journal of Medicine 382, 727-733, doi:10.1056/NEJMoa2001017 (2020).",
+            "Hoffmann, M. et al The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. bioRxiv, doi:https://doi.org/10.1101/2020.01.31.929042 (2020).",
+            "10 Wrapp, D. et al Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation.",
+            "Science, eabb2507, doi:10.1126/science.abb2507 (2020).",
+            "11 Lan, J. et al Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the",
+            "ACE2 receptor. bioRxiv, doi:https://doi.org/10.1101/2020.02.19.956235 (2020).",
+            "12 Du, L. et al The spike protein of SARS-CoV\u2014a target for vaccine and therapeutic development.",
+            "Nature Reviews Microbiology 7, 226-236 (2009).",
+            "13 Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike receptor-binding domain complexed with receptor. Science 309, 1864-1868 (2005).",
+            "14 Wu, Y. & Wang, H. Convergent evolution of bird-mammal shared characteristics for adapting to nocturnality. Proceedings of the Royal Society B: Biological Sciences 286, 20182185, doi:10.1098/rspb.2018.2185 (2019).",
+            "15 Wu, Y., Wang, H. & Hadly, E. A. Invasion of ancestral mammals into dim-light environments inferred from adaptive evolution of the phototransduction genes. Scientific Reports 7, 46542, doi:https://doi.org/10.1038/srep46542 (2017).",
+            "16 Wu, Y., Wang, H., Wang, H. & Hadly, E. A. Rethinking the origin of primates by reconstructing their diel activity patterns using genetics and morphology. Scientific Reports 7, 11837, doi:10.1038/s41598-017-12090-3 (2017).",
+            "17 Yang, Z. PAML 4: phylogenetic analysis by maximum likelihood. Molecular Biology and Evolution",
+            "24, 1586-1591 (2007).",
+            "18 McBride, R. & Fielding, B. C. The role of severe acute respiratory syndrome (SARS)-coronavirus accessory proteins in virus pathogenesis. Viruses 4, 2902-2923 (2012).",
+            "19 Wertheim, J. O., Murrell, B., Smith, M. D., Kosakovsky Pond, S. L. & Scheffler, K. RELAX: detecting relaxed selection in a phylogenetic framework. Molecular Biology and Evolution 32, 820-832",
+            "(2015).",
+            "20 Hu, Y. et al Comparative genomics reveals convergent evolution between the bamboo-eating giant and red pandas. Proceedings of the National Academy of Sciences of the United States of",
+            "America 114, 1081-1086 (2017).",
+            "21 Li, Y., Liu, Z., Shi, P. & Zhang, J. The hearing gene Prestin unites echolocating bats and whales.",
+            "Current Biology 20, R55-R56 (2010).",
+            "22 Nagai, H. et al Reverse evolution in RH1 for adaptation of cichlids to water depth in Lake",
+            "Tanganyika. Molecular Biology and Evolution 28, 1769-1776 (2011).",
+            "23 Shen, Y.-Y., Liang, L., Li, G.-S., Murphy, R. W. & Zhang, Y.-P. Parallel evolution of auditory genes for echolocation in bats and toothed whales. PLoS Genetics 8, e1002788, doi:10.1371/journal.pgen.1002788 (2012).",
+            "24 Ujvari, B. et al Widespread convergence in toxin resistance by predictable molecular evolution. Proceedings of the National Academy of Sciences of the United States of America 112, 1191111916 (2015).",
+            "25 Zhang, J. Parallel adaptive origins of digestive RNases in Asian and African leaf monkeys. Nature genetics 38, 819-823 (2006).",
+            "26 Zhen, Y., Aardema, M. L., Medina, E. M., Schumer, M. & Andolfatto, P. Parallel molecular evolution in an herbivore community. Science 337, 1634-1637 (2012).",
+            "27 Xiao, K. et al Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins. bioRxiv, doi:https://doi.org/10.1101/2020.02.17.951335 (2020).",
+            "28 Tan, Y.-J. The Severe Acute Respiratory Syndrome (SARS)-coronavirus 3a protein may function as a modulator of the trafficking properties of the spike protein. Virology Journal 2, 5, doi:10.1186/1743-422X-2-5 (2005).",
+            "29 Yount, B. et al Severe acute respiratory syndrome coronavirus group-specific open reading frames encode nonessential functions for replication in cell cultures and mice. Journal of Virology 79, 14909-14922 (2005).",
+            "30 Zeng, R. et al Characterization of the 3a protein of SARS-associated coronavirus in infected vero E6 cells and SARS patients. Journal of Molecular Biology 341, 271-279 (2004).",
+            "31 Zhang, J. & Kumar, S. Detection of convergent and parallel evolution at the amino acid sequence level. Molecular Biology and Evolution 14, 527-536 (1997).",
+            "32 Li, G. et al The hearing gene Prestin reunites echolocating bats. Proceedings of the National Academy of Sciences of the United States of America 105, 13959-13964 (2008).",
+            "33 Stewart, C.-B., Schilling, J. W. & Wilson, A. C. Adaptive evolution in the stomach lysozymes of foregut fermenters. Nature 330, 401-404 (1987).",
+            "34 Ji, W., Wang, W., Zhao, X., Zai, J. & Li, X. Cros-species transmission of the newly identified coronavirus 2019-nCoV. Journal of Medical Virology 92, 433-440 (2020).",
+            "35 Patino-Galindo, J. A., Filip, I., AlQuraishi, M. & Rabadan, R. Recombination and convergent evolution led to the emergence of 2019 Wuhan coronavirus. bioRxiv, doi:https://doi.org/10.1101/2020.02.10.942748 (2020).",
+            "36 Han, Y. et al Identification of diverse bat alphacoronaviruses and betacoronaviruses in China provides new insights into the evolution and origin of coronavirus-related diseases. Frontiers in Microbiology 10, 1900, doi:10.3389/fmicb.2019.01900 (2019).",
+            "37 Hu, B. et al Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathogens 13, e1006698, doi:1371/journal.ppat.1006698 (2017).",
+            "38 L\u00f6ytynoja, A. & Goldman, N. webPRANK: a phylogeny-aware multiple sequence aligner with interactive alignment browser. BMC Bioinformatics 11, 579, doi:10.1186/1471-2105-11-579 (2010).",
+            "39 Fletcher, W. & Yang, Z. The effect of insertions, deletions, and alignment errors on the branchsite test of positive selection. Molecular Biology and Evolution 27, 2257-2267 (2010).",
+            "40 Kumar, S., Stecher, G., Li, M., Knyaz, C. & Tamura, K. MEGA X: molecular evolutionary genetics analysis across computing platforms. Molecular Biology and Evolution 35, 1547-1549 (2018).",
+            "41 Thompson, J. D., Higgins, D. G. & Gibson, T. J. CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice. Nucleic Acids Research 22, 4673-4680 (1994).",
+            "Fig. 1 The phylogeny of subgenus Sarbecovirus and 11 genes used in this study. The coronavirus phylogeny follows two published studies 5,6. 2019-nCoV, 2019 novel coronavirus; SARS-CoV, severe acute respiratory syndrome coronavirus; Bat-SL-CoV, bat-derived severe acute respiratory syndrome (SARS)-like coronaviruses. Genomic organization and the 11 genes annotated in the reference genome of 2019-nCoV (NC_045512) are shown. Red dots represent the numbers of identical or nearly identical amino acid sites found in genes, S and ORF3a, which are shared between SARS-related CoV and COVID19-related CoV, but are completely or nearly completely distinct from those of their phylogenetic intermediates. The spike (S) protein structure follows one previous study 12, and its receptor-binding domain (RBD) and receptor-binding motif (RBM) are highlighted. * above branches and their corresponding capital letters (A-L) denote the branches with positive selection signals found in the S gene. Two branches (bold) indicate two evolutionary convergent branches with three convergent amino acid substitutions (blue) and 32 shared parallel amino acid substitutions of spike protein.",
+            "Fig. 2 The identical or nearly identical RBM amino acid sites (rectangle) shared between SARS-related CoV and COVID-19-related CoV. These shared amino acids are distinct from that of their phylogenetic intermediates. The phylogeny is the same as in Fig. 1.",
+            "Fig. 3 Maximum likelihood tree of the full-length amino acid sequence of RBD. The WAG+G amino acid substitution model is used. The tree has the highest log likelihood (-3406.88). The node supports are shown in number. Hibecovirus and Nobecovirus are used as outgroups.",
+            "Table 1 Positively selected genes identified based on the branch-site model. Only the \u03c9 values of the foreground branches are shown. Positive selection sites located in subunit 1 of gene S are shown in grey. Underlining shows positive selected sites located within RBD. Dashes (-) shows alignment gaps in the reference sequence.",
+            "Branch/Gene Branch C /S Genes",
+            "Parameter estimates p0= 0.899 p1= 0.067 p2a= 0.030 p2b= 0.002",
+            "2\u2206L df p-value Positive selection sites",
+            "18.76 1 1.475E-05 19Y,67N,90N,187K,210M,289E,294S,351V \u03c90= 0.029 \u03c91= 1.000 \u03c92a= 27.064 \u03c92b= 27.064",
+            "393G,399Y,420K,447T,463F,513T,539Q 551T,570-,577Q,615L,760A,770A",
+            "Orf1ab p0= 0.944 p1= 0.050 p2a= 0.004 p2b= 0.000 \u03c90= 0.029 \u03c91= 1.000 \u03c92a = 206.003 \u03c92b = 206.003",
+            "5.756E-14",
+            "154I,1756G,3909G,3918N,4019H,4222M,4228S 4287L,4298L,4319V,4446V,4478I,4486L,4502C 4864S,4960H,5882S,5930N,6128H,6191S,6323I",
+            "6396A,6428S,6436K,6488S",
+            "N p0= 0.914 p1= 0.080 p2a= 0.005 p2b= 0.000",
+            "26D,104E,129E,219T,236V,336H,347N,415G \u03c90= 0.037 \u03c91= 1.000 \u03c92a = 122.692 \u03c92b = 122.692",
+            "Branch K",
+            "S p0= 0.924 p1= 0.069 p2a= 0.004 p2b= 0.000",
+            "11D,19Y,150N,390P \u03c90= 0.030 \u03c91= 1.000 \u03c92a = 999.000 \u03c92b = 999.000",
+            "2\u2206L: twice difference of likelihood values between two nested models; df: degrees of freedom; proportion of sites and their corresponding \u03c9 values in four site classes (p0, p1, p2a and p2b) are shown.",
+            "Fig. S1 Selection intensity changes of gene S along the 2019- nCoV branch (test branch) compared with the common ancestral branch (reference branch) of 2019 n-CoV and RaTG13. The result shows that the \u03c9 categories of the test branch are apparently away from neutrality (\u03c9 = 1), indicating an intensified selection along the 2019- nCoV branch.",
+            "Fig. S2 Amino acid variations of full-length spike protein sequences of 2019-nCoV and RaTG13. RBD, receptor-binding domain; RBM, receptor-binding motif.",
+            "Fig. S3 Twenty-eight identical or nearly identical RBD amino acid sites (arrows) shared between SARSrelated CoV and COVID-19-related CoV. These shared amino acids are completely or nearly completely distinct from those of their phylogenetic intermediates. The phylogeny is the same as in Fig. 1.",
+            "Fig. S4 Neighbor-joining tree based on full-length amino acid sequence of RBD. The JTT+G model is used. The node supports are shown in numbers. Hibecovirus and Nobecovirus are used as outgroups.",
+            "Fig. S5 Convergent (bold italic) and parallel amino acid substitutions of genes S and ORF3a. The phylogeny is the same as in Fig. 1.",
+            "Fig. S6 One parallel amino acid substitution of ORF3a protein shared by two ancestral branches (bold) leading to SARS-related CoV and COVID-19-related CoV. This parallel amino acid substitution is only supported as Poisson model was used. Eight identical amino acid sites of ORF3a protein shared between SARS-related CoV and COVID-19-related CoV are also shown. These shared amino acids are completely distinct from those of their phylogenetic intermediates. The phylogeny is the same as in Fig. 1.",
+            "Table S1 Selection intensity change of 11 genes along the 2019-nCoV branch (test branch) relative to the common ancestral branch (reference branch) of 2019-nCoV and RaTG13.",
+            "Gene Model log L",
+            "# par. Branch set \u03c91",
+            "\u03c92",
+            "\u03c93",
+            "Alternative E",
+            "Null",
+            "-719.0",
+            "Test branch",
+            "0.00 (100.00%) 3.26 (0.00%)",
+            "Reference branch",
+            "0.01 (100.00%) 1.12 (0.00%)",
+            "0.00 (100.00%) 1.13 (0.00%)",
+            "K",
+            "P-value",
+            "0.989",
+            "Alternative",
+            "-3454.2",
+            "0.00 (64.66%) 0.00 (35.34%)",
+            "M",
+            "0.00 (68.22%) 0.00 (31.78%)",
+            "-5824.2",
+            "0.03 (88.84%) 0.03 (10.35%)",
+            "0.07 (88.84%) 0.07 (10.35%)",
+            "-5824.7",
+            "0.00 (10.17%) 0.07 (88.99%)",
+            "-",
+            "0.00 (94.12%) 0.88 (5.36%)",
+            "Orf1ab Null",
+            "0.00 (94.12%) 0.40 (5.36%)",
+            "0.01 (96.92%) 0.30 (2.48%)",
+            "1.07 (0.00%) 1.08 (0.00%) 0.90 1.13 (0.00%) 1.13 (0.00%)",
+            "119.34 (0.81%) 39.22 (0.81%) 1.30 65.17 (0.84%) 65.17 (0.84%)",
+            "1.74 (0.53%) 60.91 (0.53%) 0.13",
+            "6.76 (0.60%) 6.76 (0.60%)",
+            "0.000***",
+            "-5474.6",
+            "0.07 (100.00%) 0.09 (0.00%)",
+            "ORF3a",
+            "0.03 (100.00%) 0.05 (0.00%)",
+            "1.00 (0.00%) 1.00 (0.00%)",
+            "-5474.9",
+            "0.01 (0.00%)",
+            "0.05 (100.00%)",
+            "1.01 (0.00%) 0.79",
+            "1.01 (0.00%)",
+            "ORF6",
+            "Alternative Null",
+            "-974.5",
+            "0.12 (100.00%) 0.14 (0.00%)",
+            "0.10 (100.00%) 0.12 (0.00%)",
+            "-974.7",
+            "0.10 (34.17%) 0.10 (65.83%)",
+            "1.06 (0.00%) 1.06 (0.00%) 1.13 (0.00%) 0.91 1.13 (0.00%)",
+            "-2320.2",
+            "0.00 (73.38%) 0.04 (26.62%)",
+            "ORF7a",
+            "0.00 (73.38%) 0.94 (26.62%)",
+            "-2321.6",
+            "0.00 (92.16%) 1.00 (0.64%)",
+            "1.06 (0.00%) 1.00 (0.00%) 2.03 (7.20%) 2.03 (7.20%)",
+            "0.092",
+            "ORF7b",
+            "-669.0",
+            "0.00 (17.28%) 40.06 (82.72%)",
+            "0.00 (17.28%) 2.56 (82.72%)",
+            "0.892",
+            "1.00 (0.00%)",
+            "30.99 (100.00%)",
+            "-2536.6",
+            "0.61 (80.84%) 0.62 (16.75%) 1.04 (2.40%)",
+            "ORF8",
+            "0.00 (80.84%) 0.00 (16.75%) 2.48 (2.40%)",
+            "0.169",
+            "-2537.6",
+            "0.00 (25.76%) 0.00 (71.48%) 24.15 (2.75%)",
+            "ORF10",
+            "-227.7",
+            "0.62 (0.06%)",
+            "1.10 (99.94%)",
+            "0.59 (0.06%)",
+            "1.12 (99.94%)",
+            "0.54 (0.06%)",
+            "1.13 (99.94%)",
+            "Alternative -27508.8",
+            "0.00 (86.63%) 0.04 (12.91%) 6.46e+55 (0.46%)",
+            "0.00 (86.63%) 0.90 (12.91%) 67.18 (0.46%)",
+            "-27528.3",
+            "0.00 (85.80%) 0.42 (13.32%) 1567.50 (0.89%)",
+            "***P < 0.001",
+            "Table S2 Selection intensity change of 11 genes along the SARS-CoV branch (test branch) relative to the common ancestral branch (reference branch) of SARS-CoV and its sister taxa (WIV16 and Rs4231).",
+            "Null log L -719.4 -719.4",
+            "0.26 (81.92%) 0.33 (9.36%)",
+            "Reference branch 0.23 (81.92%) 0.30 (9.36%)",
+            "0.21 (75.40%) 0.27 (8.54%)",
+            "Reference branch 0.21 (75.40%) 0.27 (8.54%)",
+            "4.06 (8.73%) 4.66 (8.73%) 3.02 (16.06%) 3.02 (16.06%)",
+            "Alternative M",
+            "-3455.2 -3455.3",
+            "0.00 (96.31%) 0.00 (2.62%)",
+            "Reference branch 0.00 (96.31%) 0.00 (2.62%)",
+            "0.00 (4.06%)",
+            "0.00 (94.89%)",
+            "Reference branch 0.00 (4.06%)",
+            "23.90 (1.06%)",
+            "23.47 (1.06%)",
+            "24.22 (1.06%)",
+            "0.607",
+            "Alternative N",
+            "-5823.0 -5823.0",
+            "0.00 (100.00%) 0.63 (0.00%)",
+            "Reference branch 0.00 (100.00%) 0.59 (0.00%)",
+            "0.00 (5.09%)",
+            "0.00 (94.91%)",
+            "Reference branch 0.00 (5.09%)",
+            "1.07 (0.00%) 1.08 (0.00%) 1.12 (0.00%) 1.12 (0.00%)",
+            "0.902",
+            "Alternative Orf1ab",
+            "-119093.0",
+            "-119093.3",
+            "0.02 (2.04%)",
+            "0.04 (97.96%)",
+            "Reference branch 0.01 (2.04%)",
+            "0.02 (97.96%)",
+            "0.02 (6.80%)",
+            "0.04 (93.20%)",
+            "Reference branch 0.02 (6.80%)",
+            "1.00 (0.00%) 1.00 (0.00%) 1.10 (0.00%) 1.10 (0.00%)",
+            "0.435",
+            "Alternative ORF3a",
+            "-5477.9 -5479.1",
+            "1.00 (27.44%) 1.00 (54.72%)",
+            "Reference branch 1.00 (27.44%) 1.00 (54.72%)",
+            "1.00 (12.16%) 1.00 (60.29%)",
+            "Reference branch 1.00 (12.16%) 1.00 (60.29%)",
+            "2.40 (17.84%)",
+            "10.18 (17.84%)",
+            "2.10 (27.55%)",
+            "0.117",
+            "-973.7 -993.7",
+            "0.00 (98.27%) 138560.78 (1.73%)",
+            "Reference branch 0.00 (98.27%) 698.81 (1.73%)",
+            "0.00 (98.26%) 26981896.49 (1.74%)",
+            "Reference branch 0.00 (98.26%) 26981896.49 (1.74%)",
+            "Alternative ORF7a",
+            "-2322.0 -2322.0",
+            "0.15 (14.72%) 0.15 (85.28%)",
+            "Reference branch 0.14 (14.72%) 0.14 (85.28%)",
+            "0.14 (0.00%)",
+            "0.15 (100.00%)",
+            "Reference branch 0.14 (0.00%)",
+            "1.00 (0.00%) 1.00 (0.00%) 1.13 (0.00%) 1.13 (0.00%)",
+            "0.965",
+            "0.62 (100.00%) 0.89 (0.00%)",
+            "1.08 (0.00%)",
+            "ORF7b Null",
+            "-2537.8 -2537.8",
+            "Alternative ORF10",
+            "-227.5 -227.5",
+            "Alternative -27527.7 S",
+            "-27529.5",
+            "***p < 0.001",
+            "Reference branch 0.61 (100.00%) 0.89 (0.00%)",
+            "0.62 (100.00%) 0.84 (0.00%)",
+            "Reference branch 0.62 (100.00%) 0.84 (0.00%)",
+            "1.08 (0.00%) 1.09 (0.00%) 1.09 (0.00%)",
+            "0.863",
+            "0.12 (70.24%) 0.61 (0.00%)",
+            "Reference branch 0.12 (70.24%) 0.61 (0.00%)",
+            "0.12 (70.22%) 0.54 (0.00%)",
+            "Reference branch 0.12 (70.22%) 0.54 (0.00%)",
+            "1.95 (29.76%)",
+            "1.94 (29.76%)",
+            "0.993",
+            "1.94 (29.78%) 1.94 (29.78%)",
+            "0.58 (0.00%)",
+            "53.08 (100.00%)",
+            "Reference branch 0.60 (0.00%)",
+            "40.22 (100.00%)",
+            "40.24 (100.00%)",
+            "Reference branch 0.58 (0.00%)",
+            "0.945",
+            "0.00 (94.72%) 1.00 (1.29%)",
+            "Reference branch 0.00 (94.72%) 1.00 (1.29%)",
+            "0.01 (96.78%) 1.00 (1.10%)",
+            "Reference branch 0.01 (96.78%) 1.00 (1.10%)",
+            "1.00 (3.99%) 4.61 (3.99%) 2.59 (2.12%) 2.59 (2.12%)",
+            "0.053",
+            "Table S3 Branches under the positive selection of the S gene. Positive selections are analyzed using branch-site model. For convenience, only the \u03c9 values of the foreground branches are shown. Positive selection sites located in subunit 1 of the S gene are shown in grey. Underlining shows positive selected sites located in the RBD.",
+            "Branch Parameter estimates",
+            "/AGenes p0= 0.901 p1= 0.069 p2a= 0.027 p2b= 0.002",
+            "9F,292R,335Y,376H,393G,399Y,514M \u03c90= 0.030 \u03c91=1.000 \u03c92a= 23.705 \u03c92b= 23.705",
+            "529F,591Q,607S,673T,675S,774Y,820S,845V 529F,591Q,607S,673T,675S,774Y,820S,845V",
+            "B p0= 0.902 p1= 0.071 p2a= 0.024 p2b= 0.001",
+            "32.59 1 1.139E-08 9F,11D,27L,63S,72A,110M,133F,174I \u03c90= 0.029 \u03c91=1.000 \u03c92a= 49.941 \u03c92b= 49.941",
+            "190V,192M,227S,228Q,234L,238T,240S",
+            "260E,458R,701S,733N, 810Q,999S,1135M",
+            "D p0= 0.917 p1= 0.066 p2a= 0.014 p2b= 0.001",
+            "14R,25S,27L,39I,52R,68T,69T,85V \u03c90= 0.030 \u03c91=1.000 \u03c92a= 657.736 \u03c92b= 657.736",
+            "87N,125H,138H,176K, 216E",
+            "E p0= 0.922 p1= 0.067 p2a= 0.009 p2b= 0.000",
+            "25S,27L,37P,52R,93F,149*",
+            "\u03c90= 0.030 \u03c91= 1.000 \u03c92a= 123.522 \u03c92b= 123.522",
+            "176K,,216E,438T,473F",
+            "F p0= 0.919 p1= 0.067 p2a= 0.011 p2b= 0.000",
+            "29.62 1 5.267E-08 9F,27L,40P,56I,65L,110M,125H \u03c90= 0.030 \u03c91= 1.000 \u03c92a= 108.595 \u03c92b= 108.595",
+            "139N,143V,161S,194L,224V,227S,376H",
+            "G p0= 0.925 p1= 0.069 p2a= 0.004 p2b= 0.000",
+            "136V,144D,174I,181L,222D, 229D,376H \u03c90= 0.030 \u03c91= 1.000 \u03c92a= 226.266 \u03c92b= 226.266",
+            "733N,756D",
+            "H p0= 0.915 p1= 0.069 p2a= 0.013 p2b= 0.001",
+            "25.31 1 4.882E-07 55V,67N,69T,75F,128R,144D,161S \u03c90= 0.030 \u03c91= 1.000 \u03c92a= 193.715 \u03c92b= 193.715",
+            "171L,177L,216E,276V,358K,408L",
+            "I p0= 0.917 p1= 0.069 p2a= 0.011 p2b= 0.000",
+            "2S,48A,63S,73V,160F,209*,240S \u03c90= 0.030 \u03c91= 1.000 \u03c92a= 998.996 \u03c92b= 998.996",
+            "259T,270L",
+            "J p0= 0.922 p1= 0.070 p2a= 0.005 p2b= 0.000",
+            "75F,84I,112A, 128R,190V,191I \u03c90= 0.030 \u03c91= 1.000 \u03c92a= 999.000 \u03c92b= 999.000",
+            "L p0= 0.926 p1= 0.071 p2a= 0.001 p2b= 0.000",
+            "364T,380K,382Y,732I,955Y \u03c90= 0.030 \u03c91= 1.000 \u03c92a= 31.578 \u03c92b= 31.578",
+            "2\u2206L: twice difference of likelihood values between two nested models; df: degrees of freedom; proportion of sites and their corresponding \u03c9 values in four site classes (p0, p1, p2a and p2b) are shown. * represents alignment gap in reference sequence."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "published studies",
+            "number": 2,
+            "context": "Finally, it should be noted that many observed bat SARS-like CoVs that have an evolutionary convergent RBD sequence with 2019-nCoV and SARS-CoV may be preadapted to human host receptor ACE2, and hence would be potential new coronavirus sources to infect humans in the future. <mark class=\"stats\">Taxa and sequences We used 35 coronavirus strain genomes of the subgenus Sarbecovirus based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], including 2019-nCoV, SARS-CoV, and their phylogenetic relative, bat SARS-like CoV (please see Fig. 1 for details)</mark>. For all these coronavirus strains, we downloaded their full-length genome sequences from GenBank except for five 2019-nCoV and RaTG13 strains, which were downloaded from GISAID"
+        },
+        {
+            "participant": "genes",
+            "number": 11,
+            "context": "We aligned these genome sequences using MAFFT (https://mafft.cbrc.jp/alignment/server/). <mark class=\"stats\">The coding sequences of 11 genes (Fig. 1) annotated in the genome of 2019-nCoV (NC_045512) were used as a reference sequence to obtain the homologous gene sequences of the 35 coronavirus strains</mark>. We aligned these homologous gene sequences using the online software webPRANK (http://www.ebi.ac.uk/goldman-srv/webprank/) 38, which is considered to create a more reliable alignment to decrease false-positive results in positive selection analyses 39.<br/><br/>Adaptive evolution analyses We employed the branch and branch-site models implemented in the codeml program of PAML 17 to examine the adaptive evolution of our focal genes"
+        },
+        {
+            "participant": "published studies",
+            "number": 2,
+            "context": "A statistically significant value of \u03c9 > 1 suggests positive selection. <mark class=\"stats\">Upon analysis, an unrooted taxon tree (Fig. 1) was constructed based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]</mark>. For branch model analysis, we used a two-rate branch model, and our focal branches were labelled as foreground branches, while others were treated as background branches"
+        },
+        {
+            "participant": "coronavirus genomes",
+            "number": 35,
+            "context": "For the analyses, two different amino acid substitution models, JTT and Poisson, were used. <mark class=\"stats\">The RBD amino acid sequences of our focal 35 coronavirus genomes were abstracted and aligned using CLUSTAL W 41 program</mark>. The phylogenetic relationships among the coronavirus strains studied are given in Fig. 1"
+        },
+        {
+            "participant": "genes",
+            "number": 11,
+            "context": "Results and discussion. <mark class=\"stats\">We used likelihood ratio tests based on the branch and branch-site models implemented in the codeml program of PAML 17 to examine the possible Darwinian selection of all 11 genes annotated in the 2019nCoV genome (NC_045512)</mark>. Positively selected genes (PSGs) were found by the branch-site model (Table 1), independent of the initial value variation of parameters (kappa and \u03c9)"
+        },
+        {
+            "participant": "genes",
+            "number": 11,
+            "context": "The finding of Darwinian selection on the spike protein may suggest its adaptive evolution to the host receptors. <mark class=\"stats\">To further examine the possible adaptive evolution of 2019-nCoV and SARS-CoV to a human host, we used RELAX 19 to analyze the relative selection intensity change of the 11 genes along the branches leading to 2019-nCoV and SARS-CoV compared with their most recent ancestors, branches C and K, respectively (Tables S1-2)</mark>. Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs"
+        },
+        {
+            "participant": "genes",
+            "number": 11,
+            "context": "To further examine the possible adaptive evolution of 2019-nCoV and SARS-CoV to a human host, we used RELAX 19 to analyze the relative selection intensity change of the 11 genes along the branches leading to 2019-nCoV and SARS-CoV compared with their most recent ancestors, branches C and K, respectively (Tables S1-2). <mark class=\"stats\">Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs</mark>. We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs"
+        },
+        {
+            "participant": "genes",
+            "number": 11,
+            "context": "Further analyses showed that such identical amino acids shared between SARS-related CoV and COVID-19-related CoV were not restricted to RBM, but rather, they were scattered throughout the spike protein, with a total of 32 such sites, which were centered on RBD (28 sites in total, Fig. S3). <mark class=\"stats\">To further examine whether such similarity occurred in other proteins, we analyzed all 11 genes studied among these coronaviruses, and we found that one additional gene, ORF3a, contained eight such sites (Fig. 1)</mark>. The existence of these shared amino acids between SARS-related CoV and COVID-19-related CoV may suggest their high sequence similarity"
+        },
+        {
+            "participant": "previous studies",
+            "number": 2,
+            "context": "The existence of these shared amino acids between SARS-related CoV and COVID-19-related CoV may suggest their high sequence similarity. <mark class=\"stats\">In support of this, we reconstructed maximum likelihood and neighbor-joining phylogenies using full-length RBD protein sequences, and both showed that SARS-related CoV and COVID-19-related CoV were grouped in the same clade, with relatively high support, which is consistent with two previous studies [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], at the same time, their phylogenetic intermediates were clustered in distinct clades (Fig. 3, Fig. S4)</mark>. The phylogenetic uniting of SARS-related CoV and COVID-19-related CoV provide evidence of their high similarity of RBD protein sequences"
+        },
+        {
+            "participant": "genes",
+            "number": 2,
+            "context": "Evolutionary convergence may occur by chance or by Darwinian selection. <mark class=\"stats\">Our results showed that the evolutionary convergent sites found in this study were mainly restricted to two genes (S and ORF3a, Fig. 1), and in particular, they were centered within the RBD of the S gene</mark>. This biased distribution of evolutionary convergent sites is difficult to explain according to chance; rather, Darwinian selection would be favored as a plausible explanation"
+        },
+        {
+            "participant": "genomes",
+            "number": 35,
+            "context": "These lines of evidence may strongly support the evolutionary convergence found in this study as a result of adaptive evolution. <mark class=\"stats\">Regarding the possible adaptive evolutionary convergence, previously proposed causes, such as gene duplication and horizontal gene transfer [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>,<a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>], are less likely because only single-copy S genes were found in all 35 genomes examined and evolutionary convergent sites presented an apparently biased distribution pattern</mark>. Parallel and/convergent evolution, which occur through point mutation, could contribute to our observed evolutionary convergence, but it could not account for the unusually high incidence of convergent sites observed in this study, representing a rare finding in previous studies [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>-<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]"
+        },
+        {
+            "participant": "published studies",
+            "number": 2,
+            "context": "Materials and method. <mark class=\"stats\">Taxa and sequences We used 35 coronavirus strain genomes of the subgenus Sarbecovirus based on two published studies [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], including 2019-nCoV, SARS-CoV, and their phylogenetic relative, bat SARS-like CoV (please see Fig. 1 for details)</mark>. For all these coronavirus strains, we downloaded their full-length genome sequences from GenBank except for five 2019-nCoV and RaTG13 strains, which were downloaded from GISAID"
+        },
+        {
+            "participant": "genes",
+            "number": 11,
+            "context": "We aligned these genome sequences using MAFFT (https://mafft.cbrc.jp/alignment/server/). <mark class=\"stats\">The coding sequences of 11 genes (Fig. 1) annotated in the genome of 2019-nCoV (NC_045512) were used as a reference sequence to obtain the homologous gene sequences of the 35 coronavirus strains</mark>. We aligned these homologous gene sequences using the online software webPRANK (http://www.ebi.ac.uk/goldman-srv/webprank/) 38, which is considered to create a more reliable alignment to decrease false-positive results in positive selection analyses 39"
+        },
+        {
+            "participant": "published studies",
+            "number": 2,
+            "context": "A statistically significant value of \u03c9 > 1 suggests positive selection. <mark class=\"stats\">Upon analysis, an unrooted taxon tree (Fig. 1) was constructed based on two published studies 5,6</mark>. For branch model analysis, we used a two-rate branch model, and our focal branches were labelled as foreground branches, while others were treated as background branches"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Positively selected sites were found using an empirical Bayes method</mark>",
+                "tests": [
+                    {
+                        "test": "Bayes method"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p = 0.000",
+            "context": "To further examine the possible adaptive evolution of 2019-nCoV and SARS-CoV to a human host, we used RELAX 19 to analyze the relative selection intensity change of the 11 genes along the branches leading to 2019-nCoV and SARS-CoV compared with their most recent ancestors, branches C and K, respectively (Tables S1-2). <mark class=\"stats\">Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs</mark>. We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs"
+        },
+        {
+            "p_value": "p = 0.000",
+            "context": "Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs. <mark class=\"stats\">We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs</mark>. For the selectively intensified gene S along the 2019-nCoV branch, 0.46% of the amino acid sites (about five amino acids) were under positive selection, while most sites (86.63%) were under purification selection"
+        },
+        {
+            "p_value": "p = 0.000000",
+            "context": "This biased distribution of evolutionary convergent sites is difficult to explain according to chance; rather, Darwinian selection would be favored as a plausible explanation. <mark class=\"stats\">In support of this, we used CONVERG2 31 to evaluate the probability of the occurrence of our observed convergent sites of spike protein between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used</mark>. This result apparently rejects chance or neutral evolution as a possible explanation; rather, it indicates a predominately strong Darwinian selection",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Poisson model"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P < 0.001",
+            "context": "0.00 (86.63%) 0.04 (12.91%) 6.46e+55 (0.46%). <mark class=\"stats\">***P < 0.001</mark>. Null log L -719.4 -719.4"
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "Alternative -27527.7 S. <mark class=\"stats\">***p < 0.001</mark>. Reference branch 0.61 (100.00%) 0.89 (0.00%)"
+        }
+    ],
+    "keywords": [
+        "genetics",
+        "severe acute respiratory syndrome",
+        "molecular evolution",
+        "receptor-binding motif",
+        "maximum likelihood",
+        "coronavirus",
+        "spike protein",
+        "receptorbinding domain",
+        "phenotypic convergence",
+        "phylogenetic analysis",
+        "likelihood ratio tests",
+        "COVID-19",
+        "evolutionary convergent",
+        "Positively selected genes",
+        "molecular phyloecological",
+        "amino acid",
+        "Rhinolophus sinicus",
+        "novel coronavirus",
+        "Acute Respiratory syndrome",
+        "sars cov",
+        "sars coronavirus",
+        "genome level",
+        "evolutionary convergence",
+        "angiotensin-converting enzyme 2",
+        "molecular basis"
+    ],
+    "keyword_relevance": {
+        "severe acute respiratory syndrome": 0.21727748691099477,
+        "coronavirus": 0.14659685863874344,
+        "amino acid": 0.11518324607329843,
+        "spike protein": 0.08115183246073299,
+        "COVID-19": 0.07853403141361257,
+        "receptorbinding domain": 0.06806282722513089,
+        "evolutionary convergence": 0.060209424083769635,
+        "receptor-binding motif": 0.031413612565445025,
+        "evolutionary convergent": 0.031413612565445025,
+        "angiotensin-converting enzyme 2": 0.031413612565445025,
+        "maximum likelihood": 0.028795811518324606,
+        "novel coronavirus": 0.020942408376963352,
+        "Positively selected genes": 0.01832460732984293,
+        "phenotypic convergence": 0.015706806282722512,
+        "likelihood ratio tests": 0.010471204188481676,
+        "genetics": 0.007853403141361256,
+        "molecular evolution": 0.007853403141361256,
+        "molecular phyloecological": 0.007853403141361256,
+        "molecular basis": 0.007853403141361256,
+        "phylogenetic analysis": 0.005235602094240838,
+        "genome level": 0.005235602094240838,
+        "Rhinolophus sinicus": 0.002617801047120419,
+        "Acute Respiratory syndrome": 0.0,
+        "sars cov": 0.0,
+        "sars coronavirus": 0.0
+    },
+    "species": [
+        "Rhinolophus sinicus"
+    ],
+    "summary": [
+        "The 2019 novel coronavirus (2019-nCoV, called severe acute respiratory syndrome (SARS)-CoV-2) has caused the current outbreak of coronavirus disease (COVID-19), which has emerged as a serious public health concern.",
+        "The authors' results reveal positive selection signals and evolutionary convergent amino acid sites of the spike protein in both 2019-nCoV and SARS-CoV and their related coronaviruses, providing new insights into understanding the evolutionary origin of their phenotypic convergence.",
+        "Given their genome-level phylogenetic disparity, the high similarity of RBD protein sequences between SARS-related CoV and COVID-19-related CoV may suggest their evolutionary convergence in the spike protein.",
+        "The authors used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and the results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, respectively (Fig. 1).",
+        "In addition to these evolutionarily convergent coronavirus strains, intriguingly, the authors found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5).",
+        "These results suggest that the spike protein may have been subjected to a successive evolutionary convergence among ancestral coronavirus strains leading to SARS-related CoV, COVID-19related CoV and CoVZC45 and CoVZXC21.",
+        "The authors used CONVERG2 31 to evaluate the probability of the occurrence of the observed convergent sites of spike protein between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used.",
+        "Given the strong evolutionary convergence of RBD of spike protein between the two clades, COVID-19related CoV and SARS-related CoV, the coronaviruses of the two clades may have more likely adapted to similar or the same receptor.",
+        "Further studies on the receptors of these bat SARS-like CoVs in their natural reservoirs are badly needed to determine whether ACE2 or other candidates, if any, represent their shared cell receptor, leading to their strong evolutionary convergence of spike protein.",
+        "The authors' molecular phyloecological study demonstrates that spike protein shows significant Darwinian selection along two ancestral branches related to SARS-CoV and 2019-nCoV, suggesting their adaptive evolution to recognizing their own cell receptors.",
+        "Subsequent ancestral sequence reconstruction and convergent evolution analyses reveal an unusually high incidence of parallel and convergent amino acid substitutions between them, suggesting an extremely strong adaptive evolutionary convergence in spike protein."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The 2019 novel coronavirus (2019-nCoV, called severe acute respiratory syndrome (SARS)-CoV-2) has caused the current outbreak of coronavirus disease (COVID-19), which has emerged as a serious public health concern.",
+            "The authors' results reveal positive selection signals and evolutionary convergent amino acid sites of the spike protein in both 2019-nCoV and SARS-CoV and their related coronaviruses, providing new insights into understanding the evolutionary origin of their phenotypic convergence."
+        ],
+        "Results": [
+            "Given their genome-level phylogenetic disparity, the high similarity of RBD protein sequences between SARS-related CoV and COVID-19-related CoV may suggest their evolutionary convergence in the spike protein.",
+            "The authors used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and the results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, respectively (Fig. 1).",
+            "In addition to these evolutionarily convergent coronavirus strains, intriguingly, the authors found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5).",
+            "These results suggest that the spike protein may have been subjected to a successive evolutionary convergence among ancestral coronavirus strains leading to SARS-related CoV, COVID-19related CoV and CoVZC45 and CoVZXC21.",
+            "The authors used CONVERG2 31 to evaluate the probability of the occurrence of the observed convergent sites of spike protein between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used.",
+            "Given the strong evolutionary convergence of RBD of spike protein between the two clades, COVID-19related CoV and SARS-related CoV, the coronaviruses of the two clades may have more likely adapted to similar or the same receptor.",
+            "Further studies on the receptors of these bat SARS-like CoVs in their natural reservoirs are badly needed to determine whether ACE2 or other candidates, if any, represent their shared cell receptor, leading to their strong evolutionary convergence of spike protein."
+        ],
+        "Conclusion": [
+            "The authors' molecular phyloecological study demonstrates that spike protein shows significant Darwinian selection along two ancestral branches related to SARS-CoV and 2019-nCoV, suggesting their adaptive evolution to recognizing their own cell receptors.",
+            "Subsequent ancestral sequence reconstruction and convergent evolution analyses reveal an unusually high incidence of parallel and convergent amino acid substitutions between them, suggesting an extremely strong adaptive evolutionary convergence in spike protein."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "Guan_2020_a",
+            "alt_id": "1",
+            "entry": "Guan, W.-j. et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv, doi:https://doi.org/10.1101/2020.02.06.20020974 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.06.20020974",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.06.20020974"
+        },
+        {
+            "id": "Wan_et+al_2020_a",
+            "alt_id": "2",
+            "entry": "Wan, Y., Shang, J., Graham, R., Baric, R. S. & Li, F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. Journal of Virology, doi:10.1128/JVI.00127-20 (2020).",
+            "crossref": "https://dx.doi.org/10.1128/JVI.00127-20",
+            "scite": "https://scite.ai/reports/10.1128/JVI.00127-20",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/JVI.00127-20"
+        },
+        {
+            "id": "Xu_0000_a",
+            "alt_id": "3",
+            "entry": "Xu, Z. et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine, doi:https://doi.org/10.1016/S2213-2600(20)30076-",
+            "crossref": "https://dx.doi.org/10.1016/S2213-2600(20)30076-",
+            "scite": "https://scite.ai/reports/10.1016/S2213-2600(20)30076-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S2213-2600%2820%2930076-"
+        },
+        {
+            "id": "Yang_2016_a",
+            "alt_id": "4",
+            "entry": "Yang, X.-L. et al. Isolation and characterization of a novel bat coronavirus closely related to the direct progenitor of severe acute respiratory syndrome coronavirus. Journal of Virology 90, 3253-3256 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20X.-L.%20Isolation%20and%20characterization%20of%20a%20novel%20bat%20coronavirus%20closely%20related%20to%20the%20direct%20progenitor%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20X.-L.%20Isolation%20and%20characterization%20of%20a%20novel%20bat%20coronavirus%20closely%20related%20to%20the%20direct%20progenitor%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20X.-L.%20Isolation%20and%20characterization%20of%20a%20novel%20bat%20coronavirus%20closely%20related%20to%20the%20direct%20progenitor%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202016"
+        },
+        {
+            "id": "Nature_2020_a",
+            "alt_id": "5",
+            "entry": "Nature, doi:10.1038/s41586-020-2012-7 (2020).",
+            "crossref": "https://dx.doi.org/10.1038/s41586-020-2012-7",
+            "scite": "https://scite.ai/reports/10.1038/s41586-020-2012-7"
+        },
+        {
+            "id": "Lu_2020_a",
+            "alt_id": "6",
+            "entry": "Lu, R. et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet 395, 565-574 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lu%20R%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20The%20Lancet%20395%20565574%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lu%20R%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20The%20Lancet%20395%20565574%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lu%20R%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20The%20Lancet%20395%20565574%202020"
+        },
+        {
+            "id": "Wu_2020_a",
+            "alt_id": "7",
+            "entry": "Wu, F. et al. A new coronavirus associated with human respiratory disease in China. Nature, 1-5, doi:https://doi.org/10.1038/s41586-020-2008-3 (2020).",
+            "crossref": "https://dx.doi.org/10.1038/s41586-020-2008-3",
+            "scite": "https://scite.ai/reports/10.1038/s41586-020-2008-3",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/s41586-020-2008-3"
+        },
+        {
+            "id": "Zhu_2019_a",
+            "alt_id": "8",
+            "entry": "Zhu, N. et al. A novel coronavirus from patients with pneumonia in China, 2019. New England Journal of Medicine 382, 727-733, doi:10.1056/NEJMoa2001017 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "Hoffmann_2019_a",
+            "alt_id": "9",
+            "entry": "Hoffmann, M. et al. The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. bioRxiv, doi:https://doi.org/10.1101/2020.01.31.929042 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.31.929042",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.31.929042",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1101/2020.01.31.929042"
+        },
+        {
+            "id": "10",
+            "alt_id": "Wrapp_2020_a",
+            "entry": "10 Wrapp, D. et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, eabb2507, doi:10.1126/science.abb2507 (2020).",
+            "crossref": "https://dx.doi.org/10.1126/science.abb2507",
+            "scite": "https://scite.ai/reports/10.1126/science.abb2507",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1126/science.abb2507"
+        },
+        {
+            "id": "11",
+            "alt_id": "Lan_2019_a",
+            "entry": "11 Lan, J. et al. Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lan%20J%20et%20al%20Crystal%20structure%20of%20the%202019nCoV%20spike%20receptorbinding%20domain%20bound%20with%20the"
+        },
+        {
+            "id": "Receptor_2020_a",
+            "alt_id": "12",
+            "entry": "ACE2 receptor. bioRxiv, doi:https://doi.org/10.1101/2020.02.19.956235 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.19.956235",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.19.956235"
+        },
+        {
+            "id": "12",
+            "alt_id": "Du_2009_a",
+            "entry": "12 Du, L. et al. The spike protein of SARS-CoV\u2014a target for vaccine and therapeutic development. Nature Reviews Microbiology 7, 226-236 (2009).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Du%2C%20L.%20The%20spike%20protein%20of%20SARS-CoV%E2%80%94a%20target%20for%20vaccine%20and%20therapeutic%20development%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Du%2C%20L.%20The%20spike%20protein%20of%20SARS-CoV%E2%80%94a%20target%20for%20vaccine%20and%20therapeutic%20development%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Du%2C%20L.%20The%20spike%20protein%20of%20SARS-CoV%E2%80%94a%20target%20for%20vaccine%20and%20therapeutic%20development%202009"
+        },
+        {
+            "id": "13",
+            "alt_id": "Li_et+al_2005_a",
+            "entry": "13 Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike receptor-binding domain complexed with receptor. Science 309, 1864-1868 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20F.%20Li%2C%20W.%20Farzan%2C%20M.%20Harrison%2C%20S.C.%20Structure%20of%20SARS%20coronavirus%20spike%20receptor-binding%20domain%20complexed%20with%20receptor%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20F.%20Li%2C%20W.%20Farzan%2C%20M.%20Harrison%2C%20S.C.%20Structure%20of%20SARS%20coronavirus%20spike%20receptor-binding%20domain%20complexed%20with%20receptor%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20F.%20Li%2C%20W.%20Farzan%2C%20M.%20Harrison%2C%20S.C.%20Structure%20of%20SARS%20coronavirus%20spike%20receptor-binding%20domain%20complexed%20with%20receptor%202005"
+        },
+        {
+            "id": "14",
+            "alt_id": "Wu_2018_a",
+            "entry": "14 Wu, Y. & Wang, H. Convergent evolution of bird-mammal shared characteristics for adapting to nocturnality. Proceedings of the Royal Society B: Biological Sciences 286, 20182185, doi:10.1098/rspb.2018.2185 (2019).",
+            "crossref": "https://dx.doi.org/10.1098/rspb.2018.2185",
+            "scite": "https://scite.ai/reports/10.1098/rspb.2018.2185",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rspb.2018.2185"
+        },
+        {
+            "id": "15",
+            "alt_id": "Wu_et+al_2017_a",
+            "entry": "15 Wu, Y., Wang, H. & Hadly, E. A. Invasion of ancestral mammals into dim-light environments inferred from adaptive evolution of the phototransduction genes. Scientific Reports 7, 46542, doi:https://doi.org/10.1038/srep46542 (2017).",
+            "crossref": "https://dx.doi.org/10.1038/srep46542",
+            "scite": "https://scite.ai/reports/10.1038/srep46542",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/srep46542"
+        },
+        {
+            "id": "16",
+            "alt_id": "Wu_et+al_2017_b",
+            "entry": "16 Wu, Y., Wang, H., Wang, H. & Hadly, E. A. Rethinking the origin of primates by reconstructing their diel activity patterns using genetics and morphology. Scientific Reports 7, 11837, doi:10.1038/s41598-017-12090-3 (2017).",
+            "crossref": "https://dx.doi.org/10.1038/s41598-017-12090-3",
+            "scite": "https://scite.ai/reports/10.1038/s41598-017-12090-3",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/s41598-017-12090-3"
+        },
+        {
+            "id": "17",
+            "alt_id": "Yang_2007_a",
+            "entry": "17 Yang, Z. PAML 4: phylogenetic analysis by maximum likelihood. Molecular Biology and Evolution 24, 1586-1591 (2007).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20Z.%20PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20Z.%20PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20Z.%20PAML%204%3A%20phylogenetic%20analysis%20by%20maximum%20likelihood%202007"
+        },
+        {
+            "id": "18",
+            "alt_id": "Mcbride_2012_a",
+            "entry": "18 McBride, R. & Fielding, B. C. The role of severe acute respiratory syndrome (SARS)-coronavirus accessory proteins in virus pathogenesis. Viruses 4, 2902-2923 (2012).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=McBride%2C%20R.%20Fielding%2C%20B.C.%20The%20role%20of%20severe%20acute%20respiratory%20syndrome%20%28SARS%29-coronavirus%20accessory%20proteins%20in%20virus%20pathogenesis%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=McBride%2C%20R.%20Fielding%2C%20B.C.%20The%20role%20of%20severe%20acute%20respiratory%20syndrome%20%28SARS%29-coronavirus%20accessory%20proteins%20in%20virus%20pathogenesis%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=McBride%2C%20R.%20Fielding%2C%20B.C.%20The%20role%20of%20severe%20acute%20respiratory%20syndrome%20%28SARS%29-coronavirus%20accessory%20proteins%20in%20virus%20pathogenesis%202012"
+        },
+        {
+            "id": "19",
+            "alt_id": "Wertheim_et+al_2015_a",
+            "entry": "19 Wertheim, J. O., Murrell, B., Smith, M. D., Kosakovsky Pond, S. L. & Scheffler, K. RELAX: detecting relaxed selection in a phylogenetic framework. Molecular Biology and Evolution 32, 820-832 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wertheim%2C%20J.O.%20Murrell%2C%20B.%20Smith%2C%20M.D.%20Kosakovsky%20Pond%2C%20S.L.%20RELAX%3A%20detecting%20relaxed%20selection%20in%20a%20phylogenetic%20framework%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wertheim%2C%20J.O.%20Murrell%2C%20B.%20Smith%2C%20M.D.%20Kosakovsky%20Pond%2C%20S.L.%20RELAX%3A%20detecting%20relaxed%20selection%20in%20a%20phylogenetic%20framework%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wertheim%2C%20J.O.%20Murrell%2C%20B.%20Smith%2C%20M.D.%20Kosakovsky%20Pond%2C%20S.L.%20RELAX%3A%20detecting%20relaxed%20selection%20in%20a%20phylogenetic%20framework%202015"
+        },
+        {
+            "id": "20",
+            "alt_id": "Hu_2017_a",
+            "entry": "20 Hu, Y. et al. Comparative genomics reveals convergent evolution between the bamboo-eating giant and red pandas. Proceedings of the National Academy of Sciences of the United States of America 114, 1081-1086 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hu%2C%20Y.%20Comparative%20genomics%20reveals%20convergent%20evolution%20between%20the%20bamboo-eating%20giant%20and%20red%20pandas%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hu%2C%20Y.%20Comparative%20genomics%20reveals%20convergent%20evolution%20between%20the%20bamboo-eating%20giant%20and%20red%20pandas%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hu%2C%20Y.%20Comparative%20genomics%20reveals%20convergent%20evolution%20between%20the%20bamboo-eating%20giant%20and%20red%20pandas%202017"
+        },
+        {
+            "id": "Current_2010_a",
+            "alt_id": "22",
+            "entry": "Current Biology 20, R55-R56 (2010).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Current%20Biology%2020%20R55R56%202010"
+        },
+        {
+            "id": "Tanganyika_2011_a",
+            "alt_id": "23",
+            "entry": "Tanganyika. Molecular Biology and Evolution 28, 1769-1776 (2011).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tanganyika%20Molecular%20Biology%20and%20Evolution%2028%2017691776%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tanganyika%20Molecular%20Biology%20and%20Evolution%2028%2017691776%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tanganyika%20Molecular%20Biology%20and%20Evolution%2028%2017691776%202011"
+        },
+        {
+            "id": "23",
+            "alt_id": "Shen_et+al_2012_a",
+            "entry": "23 Shen, Y.-Y., Liang, L., Li, G.-S., Murphy, R. W. & Zhang, Y.-P. Parallel evolution of auditory genes for echolocation in bats and toothed whales. PLoS Genetics 8, e1002788, doi:10.1371/journal.pgen.1002788 (2012).",
+            "crossref": "https://dx.doi.org/10.1371/journal.pgen.1002788",
+            "scite": "https://scite.ai/reports/10.1371/journal.pgen.1002788",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pgen.1002788"
+        },
+        {
+            "id": "24",
+            "alt_id": "Ujvari_2015_a",
+            "entry": "24 Ujvari, B. et al. Widespread convergence in toxin resistance by predictable molecular evolution. Proceedings of the National Academy of Sciences of the United States of America 112, 1191111916 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ujvari%2C%20B.%20Widespread%20convergence%20in%20toxin%20resistance%20by%20predictable%20molecular%20evolution%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ujvari%2C%20B.%20Widespread%20convergence%20in%20toxin%20resistance%20by%20predictable%20molecular%20evolution%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ujvari%2C%20B.%20Widespread%20convergence%20in%20toxin%20resistance%20by%20predictable%20molecular%20evolution%202015"
+        },
+        {
+            "id": "25",
+            "alt_id": "Zhang_2006_a",
+            "entry": "25 Zhang, J. Parallel adaptive origins of digestive RNases in Asian and African leaf monkeys. Nature genetics 38, 819-823 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhang%2C%20J.%20Parallel%20adaptive%20origins%20of%20digestive%20RNases%20in%20Asian%20and%20African%20leaf%20monkeys%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhang%2C%20J.%20Parallel%20adaptive%20origins%20of%20digestive%20RNases%20in%20Asian%20and%20African%20leaf%20monkeys%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhang%2C%20J.%20Parallel%20adaptive%20origins%20of%20digestive%20RNases%20in%20Asian%20and%20African%20leaf%20monkeys%202006"
+        },
+        {
+            "id": "26",
+            "alt_id": "Zhen_et+al_2012_a",
+            "entry": "26 Zhen, Y., Aardema, M. L., Medina, E. M., Schumer, M. & Andolfatto, P. Parallel molecular evolution in an herbivore community. Science 337, 1634-1637 (2012).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhen%2C%20Y.%20Aardema%2C%20M.L.%20Medina%2C%20E.M.%20Schumer%2C%20M.%20Parallel%20molecular%20evolution%20in%20an%20herbivore%20community%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhen%2C%20Y.%20Aardema%2C%20M.L.%20Medina%2C%20E.M.%20Schumer%2C%20M.%20Parallel%20molecular%20evolution%20in%20an%20herbivore%20community%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhen%2C%20Y.%20Aardema%2C%20M.L.%20Medina%2C%20E.M.%20Schumer%2C%20M.%20Parallel%20molecular%20evolution%20in%20an%20herbivore%20community%202012"
+        },
+        {
+            "id": "27",
+            "alt_id": "Xiao_2020_a",
+            "entry": "27 Xiao, K. et al. Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins. bioRxiv, doi:https://doi.org/10.1101/2020.02.17.951335 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.17.951335",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.17.951335"
+        },
+        {
+            "id": "28",
+            "alt_id": "Tan_2005_a",
+            "entry": "28 Tan, Y.-J. The Severe Acute Respiratory Syndrome (SARS)-coronavirus 3a protein may function as a modulator of the trafficking properties of the spike protein. Virology Journal 2, 5, doi:10.1186/1743-422X-2-5 (2005).",
+            "crossref": "https://dx.doi.org/10.1186/1743-422X-2-5",
+            "scite": "https://scite.ai/reports/10.1186/1743-422X-2-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1186/1743-422X-2-5"
+        },
+        {
+            "id": "29",
+            "alt_id": "Yount_2005_a",
+            "entry": "29 Yount, B. et al. Severe acute respiratory syndrome coronavirus group-specific open reading frames encode nonessential functions for replication in cell cultures and mice. Journal of Virology 79, 14909-14922 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yount%2C%20B.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20group-specific%20open%20reading%20frames%20encode%20nonessential%20functions%20for%20replication%20in%20cell%20cultures%20and%20mice%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yount%2C%20B.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20group-specific%20open%20reading%20frames%20encode%20nonessential%20functions%20for%20replication%20in%20cell%20cultures%20and%20mice%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yount%2C%20B.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20group-specific%20open%20reading%20frames%20encode%20nonessential%20functions%20for%20replication%20in%20cell%20cultures%20and%20mice%202005"
+        },
+        {
+            "id": "30",
+            "alt_id": "Zeng_2004_a",
+            "entry": "30 Zeng, R. et al. Characterization of the 3a protein of SARS-associated coronavirus in infected vero E6 cells and SARS patients. Journal of Molecular Biology 341, 271-279 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zeng%2C%20R.%20Characterization%20of%20the%203a%20protein%20of%20SARS-associated%20coronavirus%20in%20infected%20vero%20E6%20cells%20and%20SARS%20patients%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zeng%2C%20R.%20Characterization%20of%20the%203a%20protein%20of%20SARS-associated%20coronavirus%20in%20infected%20vero%20E6%20cells%20and%20SARS%20patients%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zeng%2C%20R.%20Characterization%20of%20the%203a%20protein%20of%20SARS-associated%20coronavirus%20in%20infected%20vero%20E6%20cells%20and%20SARS%20patients%202004"
+        },
+        {
+            "id": "31",
+            "alt_id": "Zhang_1997_a",
+            "entry": "31 Zhang, J. & Kumar, S. Detection of convergent and parallel evolution at the amino acid sequence level. Molecular Biology and Evolution 14, 527-536 (1997).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhang%2C%20J.%20Kumar%2C%20S.%20Detection%20of%20convergent%20and%20parallel%20evolution%20at%20the%20amino%20acid%20sequence%20level%201997",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhang%2C%20J.%20Kumar%2C%20S.%20Detection%20of%20convergent%20and%20parallel%20evolution%20at%20the%20amino%20acid%20sequence%20level%201997",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhang%2C%20J.%20Kumar%2C%20S.%20Detection%20of%20convergent%20and%20parallel%20evolution%20at%20the%20amino%20acid%20sequence%20level%201997"
+        },
+        {
+            "id": "32",
+            "alt_id": "Li_2008_a",
+            "entry": "32 Li, G. et al. The hearing gene Prestin reunites echolocating bats. Proceedings of the National Academy of Sciences of the United States of America 105, 13959-13964 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20G.%20The%20hearing%20gene%20Prestin%20reunites%20echolocating%20bats%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20G.%20The%20hearing%20gene%20Prestin%20reunites%20echolocating%20bats%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20G.%20The%20hearing%20gene%20Prestin%20reunites%20echolocating%20bats%202008"
+        },
+        {
+            "id": "33",
+            "alt_id": "Stewart_et+al_1987_a",
+            "entry": "33 Stewart, C.-B., Schilling, J. W. & Wilson, A. C. Adaptive evolution in the stomach lysozymes of foregut fermenters. Nature 330, 401-404 (1987).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Stewart%2C%20C.-B.%20Schilling%2C%20J.W.%20Wilson%2C%20A.C.%20Adaptive%20evolution%20in%20the%20stomach%20lysozymes%20of%20foregut%20fermenters%201987",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Stewart%2C%20C.-B.%20Schilling%2C%20J.W.%20Wilson%2C%20A.C.%20Adaptive%20evolution%20in%20the%20stomach%20lysozymes%20of%20foregut%20fermenters%201987",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Stewart%2C%20C.-B.%20Schilling%2C%20J.W.%20Wilson%2C%20A.C.%20Adaptive%20evolution%20in%20the%20stomach%20lysozymes%20of%20foregut%20fermenters%201987"
+        },
+        {
+            "id": "34",
+            "alt_id": "Ji_et+al_2020_a",
+            "entry": "34 Ji, W., Wang, W., Zhao, X., Zai, J. & Li, X. Cros-species transmission of the newly identified coronavirus 2019-nCoV. Journal of Medical Virology 92, 433-440 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ji%20W%20Wang%20W%20Zhao%20X%20Zai%20J%20%20Li%20X%20Crosspecies%20transmission%20of%20the%20newly%20identified%20coronavirus%202019nCoV%20Journal%20of%20Medical%20Virology%2092%20433440%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ji%20W%20Wang%20W%20Zhao%20X%20Zai%20J%20%20Li%20X%20Crosspecies%20transmission%20of%20the%20newly%20identified%20coronavirus%202019nCoV%20Journal%20of%20Medical%20Virology%2092%20433440%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ji%20W%20Wang%20W%20Zhao%20X%20Zai%20J%20%20Li%20X%20Crosspecies%20transmission%20of%20the%20newly%20identified%20coronavirus%202019nCoV%20Journal%20of%20Medical%20Virology%2092%20433440%202020"
+        },
+        {
+            "id": "35",
+            "alt_id": "Patino-Galindo_et+al_2020_a",
+            "entry": "35 Patino-Galindo, J. A., Filip, I., AlQuraishi, M. & Rabadan, R. Recombination and convergent evolution led to the emergence of 2019 Wuhan coronavirus. bioRxiv, doi:https://doi.org/10.1101/2020.02.10.942748 (2020).",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.10.942748",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.10.942748"
+        },
+        {
+            "id": "36",
+            "alt_id": "Han_2019_a",
+            "entry": "36 Han, Y. et al. Identification of diverse bat alphacoronaviruses and betacoronaviruses in China provides new insights into the evolution and origin of coronavirus-related diseases. Frontiers in Microbiology 10, 1900, doi:10.3389/fmicb.2019.01900 (2019).",
+            "crossref": "https://dx.doi.org/10.3389/fmicb.2019.01900",
+            "scite": "https://scite.ai/reports/10.3389/fmicb.2019.01900",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.3389/fmicb.2019.01900"
+        },
+        {
+            "id": "37",
+            "alt_id": "Hu_2017_b",
+            "entry": "37 Hu, B. et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathogens 13, e1006698, doi:1371/journal.ppat.1006698 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hu%2C%20B.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hu%2C%20B.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hu%2C%20B.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017"
+        },
+        {
+            "id": "38",
+            "alt_id": "Loeytynoja_0000_a",
+            "entry": "38 L\u00f6ytynoja, A. & Goldman, N. webPRANK: a phylogeny-aware multiple sequence aligner with interactive alignment browser. BMC Bioinformatics 11, 579, doi:10.1186/1471-2105-11-579 (2010).",
+            "crossref": "https://dx.doi.org/10.1186/1471-2105-11-579",
+            "scite": "https://scite.ai/reports/10.1186/1471-2105-11-579",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1186/1471-2105-11-579"
+        },
+        {
+            "id": "39",
+            "alt_id": "Fletcher_2010_a",
+            "entry": "39 Fletcher, W. & Yang, Z. The effect of insertions, deletions, and alignment errors on the branchsite test of positive selection. Molecular Biology and Evolution 27, 2257-2267 (2010).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fletcher%2C%20W.%20Yang%2C%20Z.%20The%20effect%20of%20insertions%2C%20deletions%2C%20and%20alignment%20errors%20on%20the%20branchsite%20test%20of%20positive%20selection%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fletcher%2C%20W.%20Yang%2C%20Z.%20The%20effect%20of%20insertions%2C%20deletions%2C%20and%20alignment%20errors%20on%20the%20branchsite%20test%20of%20positive%20selection%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fletcher%2C%20W.%20Yang%2C%20Z.%20The%20effect%20of%20insertions%2C%20deletions%2C%20and%20alignment%20errors%20on%20the%20branchsite%20test%20of%20positive%20selection%202010"
+        },
+        {
+            "id": "40",
+            "alt_id": "Kumar_et+al_2018_a",
+            "entry": "40 Kumar, S., Stecher, G., Li, M., Knyaz, C. & Tamura, K. MEGA X: molecular evolutionary genetics analysis across computing platforms. Molecular Biology and Evolution 35, 1547-1549 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kumar%2C%20S.%20Stecher%2C%20G.%20Li%2C%20M.%20Knyaz%2C%20C.%20MEGA%20X%3A%20molecular%20evolutionary%20genetics%20analysis%20across%20computing%20platforms%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kumar%2C%20S.%20Stecher%2C%20G.%20Li%2C%20M.%20Knyaz%2C%20C.%20MEGA%20X%3A%20molecular%20evolutionary%20genetics%20analysis%20across%20computing%20platforms%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kumar%2C%20S.%20Stecher%2C%20G.%20Li%2C%20M.%20Knyaz%2C%20C.%20MEGA%20X%3A%20molecular%20evolutionary%20genetics%20analysis%20across%20computing%20platforms%202018"
+        },
+        {
+            "id": "41",
+            "alt_id": "Thompson_et+al_1994_a",
+            "entry": "41 Thompson, J. D., Higgins, D. G. & Gibson, T. J. CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice. Nucleic Acids Research 22, 4673-4680 (1994).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Thompson%2C%20J.D.%20Higgins%2C%20D.G.%20Gibson%2C%20T.J.%20CLUSTAL%20W%3A%20improving%20the%20sensitivity%20of%20progressive%20multiple%20sequence%20alignment%20through%20sequence%20weighting%2C%20position-specific%20gap%20penalties%20and%20weight%20matrix%20choice%201994",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Thompson%2C%20J.D.%20Higgins%2C%20D.G.%20Gibson%2C%20T.J.%20CLUSTAL%20W%3A%20improving%20the%20sensitivity%20of%20progressive%20multiple%20sequence%20alignment%20through%20sequence%20weighting%2C%20position-specific%20gap%20penalties%20and%20weight%20matrix%20choice%201994",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Thompson%2C%20J.D.%20Higgins%2C%20D.G.%20Gibson%2C%20T.J.%20CLUSTAL%20W%3A%20improving%20the%20sensitivity%20of%20progressive%20multiple%20sequence%20alignment%20through%20sequence%20weighting%2C%20position-specific%20gap%20penalties%20and%20weight%20matrix%20choice%201994"
+        }
+    ],
+    "facts": [
+        "the molecular basis leading to their phenotypic convergence",
+        "Our genome-level analyses show that the spike protein",
+        "which is responsible for receptor binding",
+        "SARS-CoV may be preadapted to human host receptor ACE2",
+        "which has emerged as a serious public health concern",
+        "pathological features caused by 2019-nCoV resemble those seen in",
+        "which is caused by SARS coronavirus",
+        "Both 2019-nCoV and SARS-CoV have been determined to be of bat origin",
+        "SARS-CoV belong to the subgenus Sarbecovirus",
+        "bat coronavirus compared with SARS-CoV 5",
+        "The spike protein is responsible for receptor",
+        "a comparative phylogenetic analysis of functional gene sequences to determine the genetic basis of phenotypic evolution",
+        "35 coronavirus strain genomes of the subgenus Sarbecovirus based on two published studies",
+        "which were downloaded from GISAID",
+        "The coding sequences of 11 genes annotated in the genome",
+        "branch-site models implemented in the codeml program of PAML 17 to examine the adaptive evolution of our focal genes",
+        "an unrooted taxon tree was constructed based on two published studies",
+        "our focal branches were labelled as foreground branches",
+        "while others were treated as background branches",
+        "The two-rate branch model was compared with the one-rate branch model",
+        "the two-ratio branch model was compared with the two-ratio branch model with a constraint",
+        "used likelihood ratio tests based on the branch",
+        "branch-site models implemented in the codeml program of PAML 17 to examine the possible Darwinian selection",
+        "of all 11 genes annotated in the 2019nCoV genome",
+        "Positively selected genes were found by the branch-site model",
+        "were PSGs found along the branches leading to their sister coronaviruses",
+        "only one gene was found to be under positive selection",
+        "the S gene was subject to Darwinian selection in both branches",
+        "0.46% of the amino acid sites were under positive selection",
+        "while most sites were under purification selection",
+        "further examined its positive selection signals using branch-site model along all other main branches to test whether the positive selection uniquely occurred along the branches related to",
+        "that the S gene was widely subject to Darwinian selection in different coronavirus strains",
+        "Further analyses of positive selection sites showed that most positive selection sites among all 12 branches",
+        "under positive selection were located within subunit 1 of S gene",
+        "which is used for receptor binding",
+        "that there are strong selection pressures of different coronavirus strains for their own receptor binding",
+        "called COVID-19-related CoV. These shared amino acids were clearly distinct from bat SARS-like CoV",
+        "Further analyses showed that such identical amino acids shared between SARS-related CoV",
+        "COVID-19-related CoV were not restricted to RBM",
+        "which were centered on RBD",
+        "whether such similarity occurred in other proteins",
+        "all 11 genes studied among these coronaviruses",
+        "COVID-19-related CoV were grouped in the same clade",
+        "which is consistent with two previous studies",
+        "their phylogenetic intermediates were clustered in distinct clades",
+        "the high similarity of RBD protein sequences between SARS-related CoV",
+        "an empirical Bayes approach in PAML 17 to reconstruct ancestral amino",
+        "32 parallel amino acid substitutions that were shared by two ancestral branches leading to SARS-related CoV",
+        "since those amino acid sites with alignment gaps were not considered by the approach used",
+        "which have rarely been found in previous studies related to molecular convergent evolution",
+        "most recent studies showed that the RBD of the spike protein",
+        "the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to SARS-related CoV",
+        "These results suggest that the spike protein may have been subjected to a successive evolutionary convergence",
+        "among ancestral coronavirus strains leading to SARS-related CoV",
+        "Previous studies show that spike protein interacts",
+        "that the evolutionary convergence of the spike protein found may have led to the occurrence of the evolutionary convergence",
+        "6 parallel amino acid substitutions shared between the ancestral branch leading to SARS-related CoV",
+        "a parallel amino acid substitution of ORF3a between the two ancestral branches leading to SARS-related CoV",
+        "COVID-19-related CoV. Considering that these evolutionary convergent branches of ORF3a showed evolutionary convergence",
+        "its partner protein ORF3a may have been subjected to a co-evolutionary convergence",
+        "Evolutionary convergence may occur by chance",
+        "Our results showed that the evolutionary convergent sites found in this study were mainly restricted to",
+        "difficult to explain according to chance",
+        "Darwinian selection would be favored as a plausible explanation",
+        "used CONVERG2 31 to evaluate the probability of the occurrence of our observed convergent sites",
+        "of spike protein between the two ancestral branches leading to SARS-related CoV",
+        "COVID-19-related CoV related to their phylogenetic intermediates",
+        "the evolutionary convergence found in this study as a result",
+        "likely because only single-copy S genes were found in all 35 genomes examined",
+        "which occur through point mutation",
+        "unusually high incidence of convergent sites observed in this study",
+        "Further studies on the receptors of these bat SARS-like CoVs in their natural reservoirs are badly needed to determine whether ACE2",
+        "Our molecular phyloecological study demonstrates that spike protein shows significant Darwinian selection along two ancestral branches related to SARS-CoV",
+        "phylogenetic analyses indicate a high similarity of RBD sequences of spike protein",
+        "that were evolutionarily convergent with SARS-CoV"
+    ],
+    "claims": [
+        "In addition to the spike protein, we also find the evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence",
+        "Our results demonstrate a strong adaptive evolutionary convergence between COVID-19 and SARS-related CoV, possibly facilitating their adaptation to similar or identical receptors",
+        "In the present study, we employ a recently developed molecular phyloecological approach 14-16, which uses a comparative phylogenetic analysis of functional gene sequences to determine the genetic basis of phenotypic evolution, and we examine the possible molecular basis underlying the phenotypic convergence between 2019-nCoV and SARS-CoV",
+        "Our results reveal positive selection signals and evolutionary convergent amino acid sites of the spike protein in both 2019-nCoV and SARS-CoV and their related coronaviruses, providing new insights into understanding the evolutionary origin of their phenotypic convergence",
+        "We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs",
+        "Given the positive selection of the S gene in both branches, C and K, we further examined its positive selection signals using branch-site model along all other main branches (Fig. 1) to test whether the positive selection uniquely occurred along the branches related to 2019-nCoV and SARS-CoV",
+        "Our results showed positive selection signals along 10 out of 45 branches examined (Fig. 1, Table S3)",
+        "We found that there were more than 20 amino acid differences between them, and most of them were located within RBD, especially RBM (Fig. S2), suggesting a high variability of RBM",
+        "Despite the high variability of RBM, strikingly, we found that SARS-CoV and its phylogenetic relatives\u2014including WIV16 (KT444582), Rs4231 (KY417146), Rs7327 (KY417151), Rs9401 (KY417152), and BtRs-BetaCoV/YN2018B (MK211376), called SARS-related CoV here, shared many identical or nearly identical amino acids with their phylogenetically distant coronavirus strains, including 2019-nCoV and RaTG13, which we called COVID-19-related CoV (Fig. 2)",
+        "To further examine whether such similarity occurred in other proteins, we analyzed all 11 genes studied among these coronaviruses, and we found that one additional gene, ORF3a, contained eight such sites (Fig. 1)",
+        "To test this possibility, we used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and our results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, respectively (Fig. 1)",
+        "In addition to these evolutionarily convergent coronavirus strains, intriguingly, we found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5)",
+        "To test this, we reconstructed ancestral amino acid sequences of ORF3a along internal nodes, and our results revealed 6 parallel amino acid substitutions shared between the ancestral branch leading to SARS-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21) (Fig. S5)",
+        "Our results showed that the evolutionary convergent sites found in this study were mainly restricted to two genes (S and ORF3a, Fig. 1), and in particular, they were centered within the RBD of the S gene",
+        "In addition to spike protein, we also found evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence",
+        "For result robustness, we evaluated the dependence of the signal of positive selection on parameter variation"
+    ],
+    "findings": [
+        "Among the 11 genes examined, gene S along the 2019-nCoV branch exhibited a significant selection intensification signal (K = 30.54, p = 0.000, Table S1, Fig. S1), and this remained robust in four independent runs",
+        "We also found that the ORF6 gene showed slight selection intensification (K = 1.81, p = 0.000) along the SARS-CoV branch (Table S2), while its statistical significance only received two supports among five independent runs",
+        "In support of this, we used CONVERG2 31 to evaluate the probability of the occurrence of our observed convergent sites of spike protein between the two ancestral branches leading to SARS-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We employ a recently developed molecular phyloecological approach [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], which uses a comparative phylogenetic analysis of functional gene sequences to determine the genetic basis of phenotypic evolution, and we examine the possible molecular basis underlying the phenotypic convergence between 2019-nCoV and severe acute respiratory syndrome-CoV",
+        "We used likelihood ratio tests based on the branch and branch-site models implemented in the codeml program of PAML 17 to examine the possible Darwinian selection of all 11 genes annotated in the 2019nCoV genome (NC_045512)",
+        "For the branches leading to 2019-nCoV and severe acute respiratory syndrome-CoV, no Positively selected genes were found, nor were Positively selected genes found along the branches leading to their sister coronaviruses",
+        "We found that there were more than 20 amino acid differences between them, and most of them were located within receptorbinding domain, especially receptor-binding motif (Fig. S2), suggesting a high variability of receptor-binding motif",
+        "Despite the high variability of receptor-binding motif, strikingly, we found that severe acute respiratory syndrome-CoV and its phylogenetic relatives\u2014including WIV16 (KT444582), Rs4231 (KY417146), Rs7327 (KY417151), Rs9401 (KY417152), and BtRs-BetaCoV/YN2018B (MK211376), called severe acute respiratory syndrome-related CoV here, shared many identical or nearly identical amino acids with their phylogenetically distant coronavirus strains, including 2019-nCoV and RaTG13, which we called COVID-19-related CoV (Fig. 2)",
+        "Further analyses showed that such identical amino acids shared between severe acute respiratory syndrome-related CoV and COVID-19-related CoV were not restricted to receptor-binding motif, but rather, they were scattered throughout the spike protein, with a total of 32 such sites, which were centered on receptorbinding domain (28 sites in total, Fig. S3)",
+        "To further examine whether such similarity occurred in other proteins, we analyzed all 11 genes studied among these coronaviruses, and we found that one additional gene, ORF3a, contained eight such sites (Fig. 1)",
+        "We reconstructed maximum likelihood and neighbor-joining phylogenies using full-length receptorbinding domain protein sequences, and both showed that severe acute respiratory syndrome-related CoV and COVID-19-related CoV were grouped in the same clade, with relatively high support, which is consistent with two previous studies [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], at the same time, their phylogenetic intermediates were clustered in distinct clades (Fig. 3, Fig. S4)",
+        "The phylogenetic uniting of severe acute respiratory syndrome-related CoV and COVID-19-related CoV provide evidence of their high similarity of receptorbinding domain protein sequences. Given their genome-level phylogenetic disparity, the high similarity of receptorbinding domain protein sequences between severe acute respiratory syndrome-related CoV and COVID-19-related CoV may suggest their evolutionary convergence in the spike protein",
+        "We used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and our results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to severe acute respiratory syndrome-related CoV and COVID-19-related CoV, respectively (Fig. 1)",
+        "It should be noted that the 35 evolutionary convergent sites of spike protein were apparently underestimated, since those amino acid sites with alignment gaps were not considered by the approach used",
+        "On completion of our data analyses, one of the most recent studies showed that the receptorbinding domain of the spike protein of Pangolin-CoV is nearly identical to that of 2019-nCoV, with only one amino acid difference 27, suggesting that Pangolin-CoV belongs to the clade of COVID-19-related CoV",
+        "It should be noted that the receptorbinding domain sequences of two other coronavirus strains, BM48-31 (GU190215) and BtKY72 (KY352407), were grouped with severe acute respiratory syndrome-related CoV and COVID-19-related CoV (Fig. 3, Fig. S4), suggesting an evolutionary convergence among them. In addition to these evolutionarily convergent coronavirus strains, intriguingly, we found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to severe acute respiratory syndrome-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5)",
+        "It should be noted that the receptorbinding domain sequences of two other coronavirus strains, BM48-31 (GU190215) and BtKY72 (KY352407), were grouped with severe acute respiratory syndrome-related CoV and COVID-19-related CoV (Fig. 3, Fig. S4), suggesting an evolutionary convergence among them. In addition to these evolutionarily convergent coronavirus strains, intriguingly, we found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to severe acute respiratory syndrome-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5). These results suggest that the spike protein may have been subjected to a successive evolutionary convergence among ancestral coronavirus strains leading to severe acute respiratory syndrome-related CoV, COVID-19related CoV and CoVZC45 and CoVZXC21",
+        "If their coevolution does occur, we may expect that the evolutionary convergence of the spike protein found may have led to the occurrence of the evolutionary convergence of ORF3a as well",
+        "We reconstructed ancestral amino acid sequences of ORF3a along internal nodes, and our results revealed 6 parallel amino acid substitutions shared between the ancestral branch leading to severe acute respiratory syndrome-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21) (Fig. S5)",
+        "We detected a parallel amino acid substitution of ORF3a between the two ancestral branches leading to severe acute respiratory syndrome-related CoV and COVID-19-related CoV (Fig. S6)",
+        "Considering that these evolutionary convergent branches of ORF3a showed evolutionary convergence in spike protein as mentioned above (Fig. 1, Fig. S5), it may suggest that spike protein and its partner protein ORF3a may have been subjected to a co-evolutionary convergence",
+        "Our results showed that the evolutionary convergent sites found in this study were mainly restricted to two genes (S and ORF3a, Fig. 1), and in particular, they were centered within the receptorbinding domain of the S gene",
+        "This biased distribution of evolutionary convergent sites is difficult to explain according to chance; rather, Darwinian selection would be favored as a plausible explanation",
+        "We used CONVERG2 31 to evaluate the probability of the occurrence of our observed convergent sites of spike protein between the two ancestral branches leading to severe acute respiratory syndrome-related CoV and COVID-19-related CoV, and the results showed high statistical significance (p = 0.000000), regardless of whether the JTT model or Poisson model was used",
+        "We observed an apparently accelerated evolution of receptorbinding domain of severe acute respiratory syndrome-related CoV and COVID-19-related CoV related to their phylogenetic intermediates (Fig. 3), and we detected a significant Darwinian selection of the S gene along two branches of severe acute respiratory syndrome-related CoV and COVID-19-related CoV (Fig. 1, Table 1)",
+        "Regarding the possible adaptive evolutionary convergence, previously proposed causes, such as gene duplication and horizontal gene transfer [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>,<a class=\"ref-link\" id=\"c32\" href=\"#r32\">32</a>,<a class=\"ref-link\" id=\"c33\" href=\"#r33\">33</a>], are less likely because only single-copy S genes were found in all 35 genomes examined and evolutionary convergent sites presented an apparently biased distribution pattern",
+        "Parallel and/convergent evolution, which occur through point mutation, could contribute to our observed evolutionary convergence, but it could not account for the unusually high incidence of convergent sites observed in this study, representing a rare finding in previous studies [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>-<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]",
+        "Further studies on the receptors of these bat severe acute respiratory syndrome-like CoVs in their natural reservoirs are badly needed to determine whether angiotensin-converting enzyme 2 or other candidates, if any, represent their shared cell receptor, leading to their strong evolutionary convergence of spike protein",
+        "Our molecular phyloecological study demonstrates that spike protein shows significant Darwinian selection along two ancestral branches related to severe acute respiratory syndrome-CoV and 2019-nCoV, suggesting their adaptive evolution to recognizing their own cell receptors",
+        "Comparative sequence and phylogenetic analyses indicate a high similarity of receptorbinding domain sequences of spike protein between severe acute respiratory syndrome-related CoV and COVID-19related CoV",
+        "In addition to spike protein, we found evolutionary convergence of its partner protein, ORF3a, suggesting their possible co-evolutionary convergence",
+        "Considering that severe acute respiratory syndrome-CoV and 2019-nCoV have posed serious concerns to public health and safety, it should be noted that many other bat severe acute respiratory syndrome-like CoV strains that were evolutionarily convergent with severe acute respiratory syndrome-CoV and 2019-nCoV recognized in this study may be potential novel coronaviruses to infect humans in the future"
+    ],
+    "top_statements": [
+        "The 2019 novel coronavirus (2019-nCoV, also called severe acute respiratory syndrome (SARS)-CoV-2) has caused the current outbreak of coronavirus disease (COVID-19), which has emerged as a serious public health concern",
+        "Further analyses showed that such identical amino acids shared between severe acute respiratory syndrome-related CoV and COVID-19-related CoV were not restricted to receptor-binding motif, but rather, they were scattered throughout the spike protein, with a total of 32 such sites, which were centered on receptorbinding domain (28 sites in total, Fig. S3)",
+        "We reconstructed maximum likelihood and neighbor-joining phylogenies using full-length receptorbinding domain protein sequences, and both showed that severe acute respiratory syndrome-related CoV and COVID-19-related CoV were grouped in the same clade, with relatively high support, which is consistent with two previous studies [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>,<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], at the same time, their phylogenetic intermediates were clustered in distinct clades (Fig. 3, Fig. S4)",
+        "We used an empirical Bayes approach in PAML 17 to reconstruct ancestral amino acid sequences along internal nodes, and our results showed there were up to 35 evolutionary convergent sites, including 3 convergent and 32 parallel amino acid substitutions that were shared by two ancestral branches leading to severe acute respiratory syndrome-related CoV and COVID-19-related CoV, respectively (Fig. 1)",
+        "It should be noted that the receptorbinding domain sequences of two other coronavirus strains, BM48-31 (GU190215) and BtKY72 (KY352407), were grouped with severe acute respiratory syndrome-related CoV and COVID-19-related CoV (Fig. 3, Fig. S4), suggesting an evolutionary convergence among them. In addition to these evolutionarily convergent coronavirus strains, intriguingly, we found the evidence of evolutionary convergence of the spike protein between the ancestral branch leading to severe acute respiratory syndrome-related CoV and the ancestral branch of COVID-19-related CoV and its sister strains (CoVZC45 and CoVZXC21), which harbored 9 evolutionary convergent amino acid sites (Fig. S5)",
+        "These results suggest that the spike protein may have been subjected to a successive evolutionary convergence among ancestral coronavirus strains leading to severe acute respiratory syndrome-related CoV, COVID-19related CoV and CoVZC45 and CoVZXC21"
+    ],
+    "headline": "Further analyses showed that such identical amino acids shared between severe acute respiratory syndrome-related CoV and COVID-19-related CoV were not restricted to receptor-binding motif, but rather, they were scattered throughout the spike protein, with a total of 32 such sites, which were centered on receptorbinding domain",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "severe acute respiratory syndrome",
+        "RBD": "receptorbinding domain",
+        "ACE2": "angiotensin-converting enzyme 2",
+        "RBM": "receptor-binding motif",
+        "PSGs": "Positively selected genes",
+        "LRTs": "likelihood ratio tests",
+        "ML": "maximum likelihood"
+    }
+}

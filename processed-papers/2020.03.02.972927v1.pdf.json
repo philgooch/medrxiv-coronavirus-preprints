@@ -1,0 +1,535 @@
+{
+    "filename": "2020.03.02.972927v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 4471574,
+    "metadata": {
+        "title": "Viral Architecture of SARS-CoV-2 with Post-Fusion Spike Revealed by Cryo-EM",
+        "author": "Chuang Liu, Yang Yang, Yuanzhu Gao, Chenguang Shen, Bin Ju, Congcong Liu, Xian Tang, Jinli Wei, Xiaomin Ma, Weilong Liu, Shuman Xu, Yingxia Liu, Jing Yuan, Jing Wu, Zheng Liu, Zheng Zhang, Peiyi Wang, Lei Liu",
+        "date": 2020,
+        "affiliations": [
+            "Department of Biology, Southern University of Science and Technology, Shenzhen 518055, Guangdong Province, China",
+            "Institute for Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen Third People\u2019s Hospital, Shenzhen 518112, Guangdong Province, China",
+            "Cryo-EM Centre, Southern University of Science and Technology, Shenzhen 518055, Guangdong Province, China",
+            "Department for Infectious Diseases, Shenzhen Third People\u2019s Hospital, Shenzhen, Guangdong Province 518112, China",
+            "The Second Affiliated Hospital, School of Medicine, Southern University of Science and Technology, Shenzhen 518055, Guangdong Province, China."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.02.972927",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.02.972927v1.pdf"
+        },
+        "abstract": "Since December 2019, the outbreak of Coronavirus Disease 2019 (COVID-19) spread from Wuhan, China to the world, it has caused more than 87,000 diagnosed cases and more than 3,000 deaths globally. To fight against COVID-19, we carried out research for the near native SARS-CoV-2 and report here our preliminary results obtained. The pathogen of the COVID-19, the native SARS-CoV-2, was isolated, amplified and purified in a BSL-3 laboratory. The whole viral architecture of SARS-CoV-2 was examined by transmission electron microscopy (both negative staining and cryo-EM). We observed that the virion particles are roughly spherical or moderately pleiomorphic. Spikes have nail-like shape towards outside with a long body embedded in the envelope. The morphology of virion observed in our result indicates that the S protein of SARSCoV-2 is in post-fusion state, with S1 disassociated. This state revealed by cryo-EM first time could provide an important information for the identification and relevant clinical research of this new coronavirus.",
+        "references": "@article{perlman2009a,\n  author = {Perlman, S. and Netland, J.},\n  title = {Coronaviruses post-SARS: update on replication and pathogenesis},\n  journal = {Nature Reviews Microbiology},\n  volume = {7},\n  date = {2009},\n  pages = {439\u2013450},\n  language = {}\n}\n@article{yang2013a,\n  author = {Yang, Y. and Zhang, L. and Geng, H. and Deng, Y. and Huang, B. and Guo, Y. and Zhao, Z. and Tan, W.},\n  title = {The structural and accessory proteins M, ORF 4a, ORF 4b, and ORF 5 of Middle East respiratory syndrome coronavirus (MERS-CoV) are potent interferon antagonists, Protein &},\n  journal = {Cell},\n  volume = {4},\n  date = {2013},\n  pages = {951\u2013961},\n  language = {}\n}\n@article{yuan2020a,\n  author = {Yuan, Y. and Qi, J. and Peng, R. and Li, C. and Lu, G. and Yan, J. and Wang, Q. and Gao, G.F.},\n  title = {Molecular basis of binding between Middle East Respiratory Syndrome Coronavirus and CD26 from seven bat species},\n  journal = {Journal of Virology},\n  volume = {94},\n  date = {2020},\n  pages = {01387\u201319},\n  language = {}\n}\n@article{yuan2017a,\n  author = {Yuan, Y. and Cao, D. and Zhang, Y. and Ma, J. and Qi, J. and Wang, Q. and Lu, G. and Wu, Y. and Yan, J. and Shi, Y. and Zhang, X. and Gao, G.F.},\n  title = {Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains},\n  journal = {Nature Communications},\n  volume = {8},\n  date = {2017},\n  pages = {15092},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N. and Zhang, D. and Wang, W. and Li, X. and Yang, B. and Song, J. and Zhao, X. and Huang, B. and Shi, W. and Lu, R. and Niu, P. and Zhan, F. and Ma, X. and Wang, D. and Xu, W. and Wu, G. and Gao, G.F. and Tan, W.},\n  title = {A novel coronavirus from patients with pneumonia in China, 2019, The New England},\n  journal = {Journal of Medicine},\n  volume = {382},\n  date = {2020},\n  pages = {727\u2013733},\n  language = {}\n}\n@misc{gorbalenya-a,\n  author = {Gorbalenya, A.E. and Baker, S.C. and Baric, R.S. and de Groot, R.J. and Drosten, C. and Gulyaeva, A.A. and Haagmans, B.L. and Lauber, C. and Leontovich, A.M. and Neuman, B.W. and Penzar, D. and Perlman, S. and Poon, L.L.M. and Samborskiy, D. and Sidorov, I.A. and Sola, I. and Ziebuhr, J.},\n  title = {Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group, bioRxiv 2020.02.07.937862},\n  language = {}\n}\n@article{wang2020a,\n  author = {Wang, C. and Horby, P.W. and Hayden, F.G. and Gao, G.F.},\n  title = {A novel coronavirus outbreak of global health concern},\n  journal = {The Lancet},\n  volume = {395},\n  date = {2020},\n  pages = {470\u2013473},\n  language = {}\n}\n@book{masters2006a,\n  author = {Masters, P.S.},\n  title = {The molecular biology of coronaviruses, in: Advances in virus research},\n  publisher = {Academic Press},\n  date = {2006},\n  pages = {193\u2013292},\n  language = {}\n}\n@incollection{yan2018a,\n  author = {Yan, L. and Meng, B. and Xiang, J. and Wilson, I.A. and Yang, B.},\n  title = {Crystal structure of the post-fusion core of the Human coronavirus 229E spike protein},\n  url = {at},\n  booktitle = {1.86 A resolution, Acta Crystallographica Section D},\n  volume = {74},\n  date = {2018},\n  pages = {841\u2013851},\n  language = {}\n}\n@misc{wrapp2020a,\n  author = {Wrapp, D. and Wang, N. and Corbett, K.S. and Goldsmith, J.A. and Hsieh, C.-L. and Abiona, O. and Graham, B.S. and McLellan, J.S.},\n  title = {Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation, Science},\n  date = {2020},\n  pages = {2507},\n  language = {}\n}\n@misc{yan-a,\n  author = {Yan, R. and Zhang, Y. and Guo, Y. and Xia, L. and Zhou, Q.},\n  title = {Structural basis for the recognition of the 2019-nCoV by human ACE2, bioRxiv 2020.02.19.956946},\n  language = {}\n}\n@misc{lan-a,\n  author = {Lan, J. and Ge, J. and Yu, J. and Shan, S. and Zhou, H. and Fan, S. and Zhang, Q. and Shi, X. and Wang, Q. and Zhang, L. and Wang, X.},\n  title = {Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the ACE2 receptor, bioRxiv 2020.02.19.956235},\n  language = {}\n}\n@article{walls2019a,\n  author = {Walls, A.C. and Xiong, X. and Park, Y.-J. and Tortorici, M.A. and Snijder, J. and Quispe, J. and Cameroni, E. and Gopal, R. and Dai, M. and Lanzavecchia, A. and Zambon, M. and Rey, F.A. and Corti, D. and Veesler, D.},\n  title = {Unexpected receptor functional mimicry elucidates activation of coronavirus fusion},\n  journal = {Cell},\n  volume = {176},\n  date = {2019},\n  pages = {1026\u20131039},\n  language = {}\n}\n@article{walls2017a,\n  author = {Walls, A.C. and Tortorici, M.A. and Snijder, J. and Xiong, X. and Bosch, B.-J. and Rey, F.A. and Veesler, D.},\n  title = {Tectonic conformational changes of a coronavirus spike glycoprotein promote membrane fusion},\n  journal = {PNAS},\n  volume = {114},\n  date = {2017},\n  pages = {11157\u201311162},\n  language = {}\n}\n@article{song2018a,\n  author = {Song, W. and Gui, M. and Wang, X. and Xiang, Y.},\n  title = {Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2, PLOS},\n  journal = {Pathogens},\n  volume = {14},\n  date = {2018},\n  pages = {1007236},\n  language = {}\n}\n@article{liu2020a,\n  author = {Liu, Y. and Yang, Y. and Zhang, C. and Huang, F. and Wang, F. and Yuan, J. and Wang, Z. and Li, J. and Li, J. and Feng, C. and Zhang, Z. and Wang, L. and Peng, L. and Chen, L. and Qin, Y. and Zhao, D. and Tan, S. and Yin, L. and Xu, J. and Zhou, C. and Jiang, C. and Liu, L.},\n  title = {Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury, Science China Life},\n  journal = {Sciences},\n  date = {2020},\n  language = {}\n}\n@article{yang2015a,\n  author = {Yang, Y. and Ye, F. and Zhu, N. and Wang, W. and Deng, Y. and Zhao, Z. and Tan, W.},\n  title = {Middle East respiratory syndrome coronavirus ORF4b protein inhibits type I interferon production through both cytoplasmic and nuclear targets},\n  journal = {Scientific Reports},\n  volume = {5},\n  date = {2015},\n  pages = {17554},\n  language = {}\n}\n@article{yang2019a,\n  author = {Yang, Y. and Shen, C. and Li, J. and Zou, R. and Wong, G. and Peng, L. and Yang, L. and Fang, S. and Li, J. and Li, X. and Wu, W. and Jiang, X. and Zeng, L. and Lan, J. and Bi, Y. and Gao, G.F. and Yuan, J. and Liu, Y.},\n  title = {Clinical and virological characteristics of human infections with H7N9 avian influenza virus in Shenzhen, China, 2013\u20132017},\n  journal = {Journal of Infection},\n  volume = {79},\n  date = {2019},\n  pages = {389\u2013399},\n  language = {}\n}\n",
+        "emails": [
+            "liulei3322@aliyun.com",
+            "wangpy@sustech.edu.cn",
+            "zhangzheng1975@aliyun.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Perlman, S.\nAU  - Netland, J.\nTI  - Coronaviruses post-SARS: update on replication and pathogenesis\nT2  - Nature Reviews Microbiology\nVL  - 7\nPY  - 2009\nDA  - 2009\nSP  - 439\nEP  - 450\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, Y.\nAU  - Zhang, L.\nAU  - Geng, H.\nAU  - Deng, Y.\nAU  - Huang, B.\nAU  - Guo, Y.\nAU  - Zhao, Z.\nAU  - Tan, W.\nTI  - The structural and accessory proteins M, ORF 4a, ORF 4b, and ORF 5 of Middle East respiratory syndrome coronavirus (MERS-CoV) are potent interferon antagonists, Protein &\nT2  - Cell\nVL  - 4\nPY  - 2013\nDA  - 2013\nSP  - 951\nEP  - 961\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yuan, Y.\nAU  - Qi, J.\nAU  - Peng, R.\nAU  - Li, C.\nAU  - Lu, G.\nAU  - Yan, J.\nAU  - Wang, Q.\nAU  - Gao, G.F.\nTI  - Molecular basis of binding between Middle East Respiratory Syndrome Coronavirus and CD26 from seven bat species\nT2  - Journal of Virology\nVL  - 94\nPY  - 2020\nDA  - 2020\nSP  - 01387\nEP  - 19\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yuan, Y.\nAU  - Cao, D.\nAU  - Zhang, Y.\nAU  - Ma, J.\nAU  - Qi, J.\nAU  - Wang, Q.\nAU  - Lu, G.\nAU  - Wu, Y.\nAU  - Yan, J.\nAU  - Shi, Y.\nAU  - Zhang, X.\nAU  - Gao, G.F.\nTI  - Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains\nT2  - Nature Communications\nVL  - 8\nPY  - 2017\nDA  - 2017\nSP  - 15092\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nAU  - Li, X.\nAU  - Yang, B.\nAU  - Song, J.\nAU  - Zhao, X.\nAU  - Huang, B.\nAU  - Shi, W.\nAU  - Lu, R.\nAU  - Niu, P.\nAU  - Zhan, F.\nAU  - Ma, X.\nAU  - Wang, D.\nAU  - Xu, W.\nAU  - Wu, G.\nAU  - Gao, G.F.\nAU  - Tan, W.\nTI  - A novel coronavirus from patients with pneumonia in China, 2019, The New England\nT2  - Journal of Medicine\nVL  - 382\nPY  - 2020\nDA  - 2020\nSP  - 727\nEP  - 733\nLA  - \nER  - \n\nTY  - GEN\nAU  - Gorbalenya, A.E.\nAU  - Baker, S.C.\nAU  - Baric, R.S.\nAU  - de Groot, R.J.\nAU  - Drosten, C.\nAU  - Gulyaeva, A.A.\nAU  - Haagmans, B.L.\nAU  - Lauber, C.\nAU  - Leontovich, A.M.\nAU  - Neuman, B.W.\nAU  - Penzar, D.\nAU  - Perlman, S.\nAU  - Poon, L.L.M.\nAU  - Samborskiy, D.\nAU  - Sidorov, I.A.\nAU  - Sola, I.\nAU  - Ziebuhr, J.\nTI  - Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group, bioRxiv 2020.02.07.937862\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, C.\nAU  - Horby, P.W.\nAU  - Hayden, F.G.\nAU  - Gao, G.F.\nTI  - A novel coronavirus outbreak of global health concern\nT2  - The Lancet\nVL  - 395\nPY  - 2020\nDA  - 2020\nSP  - 470\nEP  - 473\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Masters, P.S.\nTI  - The molecular biology of coronaviruses, in: Advances in virus research\nPB  - Academic Press\nPY  - 2006\nDA  - 2006\nSP  - 193\nEP  - 292\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Yan, L.\nAU  - Meng, B.\nAU  - Xiang, J.\nAU  - Wilson, I.A.\nAU  - Yang, B.\nTI  - Crystal structure of the post-fusion core of the Human coronavirus 229E spike protein\nUR  - at\nT2  - 1.86 A resolution, Acta Crystallographica Section D\nVL  - 74\nPY  - 2018\nDA  - 2018\nSP  - 841\nEP  - 851\nLA  - \nER  - \n\nTY  - GEN\nAU  - Wrapp, D.\nAU  - Wang, N.\nAU  - Corbett, K.S.\nAU  - Goldsmith, J.A.\nAU  - Hsieh, C.-L.\nAU  - Abiona, O.\nAU  - Graham, B.S.\nAU  - McLellan, J.S.\nTI  - Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation, Science\nPY  - 2020\nDA  - 2020\nSP  - 2507\nLA  - \nER  - \n\nTY  - GEN\nAU  - Yan, R.\nAU  - Zhang, Y.\nAU  - Guo, Y.\nAU  - Xia, L.\nAU  - Zhou, Q.\nTI  - Structural basis for the recognition of the 2019-nCoV by human ACE2, bioRxiv 2020.02.19.956946\nLA  - \nER  - \n\nTY  - GEN\nAU  - Lan, J.\nAU  - Ge, J.\nAU  - Yu, J.\nAU  - Shan, S.\nAU  - Zhou, H.\nAU  - Fan, S.\nAU  - Zhang, Q.\nAU  - Shi, X.\nAU  - Wang, Q.\nAU  - Zhang, L.\nAU  - Wang, X.\nTI  - Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the ACE2 receptor, bioRxiv 2020.02.19.956235\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Walls, A.C.\nAU  - Xiong, X.\nAU  - Park, Y.-J.\nAU  - Tortorici, M.A.\nAU  - Snijder, J.\nAU  - Quispe, J.\nAU  - Cameroni, E.\nAU  - Gopal, R.\nAU  - Dai, M.\nAU  - Lanzavecchia, A.\nAU  - Zambon, M.\nAU  - Rey, F.A.\nAU  - Corti, D.\nAU  - Veesler, D.\nTI  - Unexpected receptor functional mimicry elucidates activation of coronavirus fusion\nT2  - Cell\nVL  - 176\nPY  - 2019\nDA  - 2019\nSP  - 1026\nEP  - 1039\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Walls, A.C.\nAU  - Tortorici, M.A.\nAU  - Snijder, J.\nAU  - Xiong, X.\nAU  - Bosch, B.-J.\nAU  - Rey, F.A.\nAU  - Veesler, D.\nTI  - Tectonic conformational changes of a coronavirus spike glycoprotein promote membrane fusion\nT2  - PNAS\nVL  - 114\nPY  - 2017\nDA  - 2017\nSP  - 11157\nEP  - 11162\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Song, W.\nAU  - Gui, M.\nAU  - Wang, X.\nAU  - Xiang, Y.\nTI  - Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2, PLOS\nT2  - Pathogens\nVL  - 14\nPY  - 2018\nDA  - 2018\nSP  - 1007236\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Liu, Y.\nAU  - Yang, Y.\nAU  - Zhang, C.\nAU  - Huang, F.\nAU  - Wang, F.\nAU  - Yuan, J.\nAU  - Wang, Z.\nAU  - Li, J.\nAU  - Li, J.\nAU  - Feng, C.\nAU  - Zhang, Z.\nAU  - Wang, L.\nAU  - Peng, L.\nAU  - Chen, L.\nAU  - Qin, Y.\nAU  - Zhao, D.\nAU  - Tan, S.\nAU  - Yin, L.\nAU  - Xu, J.\nAU  - Zhou, C.\nAU  - Jiang, C.\nAU  - Liu, L.\nTI  - Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury, Science China Life\nT2  - Sciences\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, Y.\nAU  - Ye, F.\nAU  - Zhu, N.\nAU  - Wang, W.\nAU  - Deng, Y.\nAU  - Zhao, Z.\nAU  - Tan, W.\nTI  - Middle East respiratory syndrome coronavirus ORF4b protein inhibits type I interferon production through both cytoplasmic and nuclear targets\nT2  - Scientific Reports\nVL  - 5\nPY  - 2015\nDA  - 2015\nSP  - 17554\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, Y.\nAU  - Shen, C.\nAU  - Li, J.\nAU  - Zou, R.\nAU  - Wong, G.\nAU  - Peng, L.\nAU  - Yang, L.\nAU  - Fang, S.\nAU  - Li, J.\nAU  - Li, X.\nAU  - Wu, W.\nAU  - Jiang, X.\nAU  - Zeng, L.\nAU  - Lan, J.\nAU  - Bi, Y.\nAU  - Gao, G.F.\nAU  - Yuan, J.\nAU  - Liu, Y.\nTI  - Clinical and virological characteristics of human infections with H7N9 avian influenza virus in Shenzhen, China, 2013\u20132017\nT2  - Journal of Infection\nVL  - 79\nPY  - 2019\nDA  - 2019\nSP  - 389\nEP  - 399\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "S1",
+                "caption": "The clinical information of the enrolled patient"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Isolation and identification of the SARS-CoV-2 virus. (A) Vero cell was inoculated with BALF sample, and the CPEs were observed at 4-dpi. (B) RNAs were extracted from the cell culture supernatant, and detected using a commercial kit targeting the ORF 1ab (red) and N (blue) genes of SARS-CoV-2. Testing the convalescent plasma IgG antibody (C) and SARA-CoV-2-RBD specific human monoclonal antibodies (D) using the purified SARS-CoV-2 particles. The control plasmas 1 and 2 were obtained from a patient recovered from influenza A virus infection and a healthy volunteer, respectively. The control monoclonal antibody is a human monoclonal antibody specific to influenza A virus generated by our laboratory. The PBS control was serum-free. (E) Viruses were detected by IFA using the patient\u2019s plasma, and plasma from a healthy control was used as negative control. Scale bar, 100 \u03bcm. (F) Phylogenetic characteristics of BetaCoV/Shenzhen/SZTH-003/2020, and this isolate was indicated with a triangle. Figure S1"
+            },
+            {
+                "id": "2",
+                "caption": "Negative stain EM results of SARS-CoV-2. (A). Image of negative stained SARS-CoV-2. Nail-like spikes can be clearly seen. (B). Enlarged view of virion boxed in (A). (C) Zoom-in view of a spike boxed in (B). The shape is depicted by red dot line. Length, the diameter of stem and spike\u2019s head are 23nm, 4nm and 7nm, respectively. (D). Three-dimensional surface of post-fusion state S2 protein (EMDB code: 9597) [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. (E). Projection of post-fusion state S2 protein [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]"
+            },
+            {
+                "id": "3",
+                "caption": "Cryo-EM results of SARS-CoV-2. (A) and (B). Cryo-EM images of SARSCoV-2. (C). Zoom-in view of the virion showed in (A). Envelope and nucleocapsid are indicated by green and blue respectively, remarkable spikes are indicated by red triangles. (D). Zoom-in views of the two virions showed in (B), remarkable spikes are indicated by red triangles. (E). Zoom-in view of the spike indicated by yellow triangle in (C). The shape is depicted by yellow dot lines. (F). Zoom-in view of the spike indicated by yellow triangle in (D). The shape is depicted by yellow dot lines"
+            },
+            {
+                "id": "S1",
+                "caption": "The representative CT scans of the patient at 7, 16, 26 and 39 day after illness onset (d.a.o)"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.02.972927v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.972927v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.972927v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.972927v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.972927v1/img-003.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "Coronaviruses (CoV) are a large family of zoonotic viruses that could be transmitted from animals to humans and cause illness ranging from common cold to severe diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], for instance, Middle East Respiratory Syndrome (MERS) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and Severe Acute Respiratory Syndrome (SARS) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] in human being. Since the early December 2019, the outbreak of an unknown epidemic pneumonia in Wuhan, a city in Hubei Province of China, is identified to be caused by a novel coronavirus [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], named as SARS-CoV-2 by the International Committee on Taxonomy of Viruses (ICTV) and the disease was named as Coronavirus Disease 2019 (COVID-19) by The World Health Organization (WHO) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Up to now, nearly 80,000 confirmed cases and more than 2,800 deaths in China have been reported (from WHO website). Rapid increasing number of cases also has been reported by many other countries around the world. The globe is now facing a big threat of COVID-19 [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. While the world are jointing efforts to develop diagnostics, therapeutics, and vaccines to fight against COVID-19, information about cultivation, purification and super molecular structure of SARS-CoV-2 in their native state is in need urgently.<br/><br/>CoV are enveloped single-stranded positive-RNA viruses. General knowledges of the super molecular structure of the virions have been advanced by determining several kinds of CoV using electron microscope and X-ray crystallography in the past decades. Coronaviruses have a spherical or moderately pleiomorphic virions. The virion\u2019s diameter ranges from 80 nm to 120 nm. Nucleic acid and nucleocapsid protein of coronaviruses are tightly packed in virion. Surface of virion is lipid bilayer hijacked from host cell, on which are located several important structure proteins, including spike (S) protein, envelope (E) protein and membrane (M) protein [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. S protein, including S1 subunit and S2 subunit, is considered as the most important protein in CoV. The S1 subunit facilitates attachment to the host cells and the S2 subunit is involved in subsequent fusion of the virus and host membrane [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Several recent studies considering the structure of SARS-CoV-2 were all focused on the S protein. Wrapp et al [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] reported a structure at 3.5 \u00c5 resolution of SARS-CoV-2 S protein. Yan et al [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] reported the complex structure of SARS-CoV-2 S protein with human host cell binding receptor angiotensin-converting enzyme 2 (ACE2). Lan et al [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] reported crystal structure of SARS-CoV-2 S protein\u2019s receptor binding domain (RBD) region binding with ACE2. However, all proteins mentioned above are engineered in laboratory by recombinant expression system, not from real virus and the structure as whole of virion is thus still lacking.<br/><br/>Furthermore, safety is one of the major factors that restricts virus study of SARS-CoV2 due to a high risk of possible transmission, live viruses must be operated in Biosafety Level 3 (BSL-3) laboratory or above. Here we report the successful isolation and purification of SARS-CoV-2 in BSL-3 laboratory and revealed the whole viral architecture of SARS-CoV-2 by transmission electron microscopy (both negative staining and cryo-EM). It is the first time to image the near native SARS-CoV-2, the pathogen of COVID-19, by cryo-EM."
+        ],
+        "results": [
+            "<strong>Results and Discussion</strong><br/><br/>A 62-year-old male was admitted to our hospital on 15 January, 2020 with pneumonia, and was further diagnosed as COVID-19. An epidemiological investigation also confirmed a Wuhan travel history between 1 January and 14 January of this patient, and the symptoms started on 11 January, 2020, including fever and cough. Common respiratory viruses including influenza A virus, influenza B virus, adenoviruses, human parainfluenza virus and other human coronaviruses were tested to be negative. Lymphopenia, elevated CRP and IL-6 were found upon admission (Table S1). CT scans showed multiple ground-glass opacities and in bilateral lungs at the early stage, and lung consolidation occurred during hospitalization (Figure S1).<br/><br/>The bronchoalveolar lavage fluid (BALF) sample was collected and subjected to nextgeneration sequencing and virus isolation was performed in the BSL-3 (Biosafety level 3) laboratory. Typical cytopathic effects (CPE) were observed at 4 days post inoculation (dpi) in Vero cell, including cell rounding, shrinkage, lysis, and detachment throughout the cell monolayers (Figure 1A). Viral RNAs could be detected in the cell culture supernatant using a CFDA approved commercial kit with low Ct values (Figure 1B). The purified SARS-CoV-2 particles showed specific reaction activity to convalescent plasmas from SARS-CoV-2-infected patients (Figure 1C) and the specific human monoclonal antibodies against the RBD of the S protein using ELISA assay (Figure 1D). Meanwhile, the virus could also be detected by immunofluorescence using the patient\u2019s plasma (Figure 1E). The genome sequence of this virus has been submitted to the Global Initiative on Sharing Avian Flu Data (GISAID) with an access number of EPI_ISL_406594, and designated as \u201cBetaCoV/Shenzhen/SZTH-003/2020\u201d. Phylogenetic analyses showed that the viruses possessed high homology with the other isolates, and two closest isolates are BetaCoV/Wuhan/IPBCAMS-WH-04/2019 from Wuhan and SARS-CoV-2/NTU01/2020/TWN from Taiwan (Figure 1F).<br/><br/>In Figure 2 and Figure 3 we present the EM observations of SARS-CoV-2, both by negative staining (Figure 2A-2E) and cryo-EM (Figure 3A-3F). The virion particles are roughly spherical or moderately pleiomorphic, with diameters range from 80nm-160nm. For majority of the virions, the periphery is well defined and enveloped by lipid bilayer, which could be clearly seen in cryo-EM image. Tightly underneath the lipid bilayer is the condensed density formed by nucleic acid and nucleocapsid protein of SARS-CoV2. Though lots of the particles lost spike during purification or deactivation, 20%-30% percent virions still have spikes around the envelope.<br/><br/>Different with spikes reported in previous study [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] , spikes in our images are much thinner both in negative staining image (Figure 2) or cryo-EM image (Figure 3). Spikes here have nail-like shape with a long body embedded in the envelope. Width of spike\u2019s head is around 7 nm. The length of whole spike is around 23nm. S protein of coronavirus consisted of S1 and S2 subunits. When S1 subunit is disassociated, S2 undergoes a conformation change, extending itself from compressed form to a nail-like shape, termed as post-fusion state. The nail-like shape was also observed by other researchers [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Work done by Song et al [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] gave a detailed structure analysis of S2 protein using recombinant protein. Not only they reported the morphology of S2 protein at post-fusion state, they also reconstructed a 3D map. The 2D average image (Figure 2E) and 3D map (Figure 2D) reported in their paper [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], have a consistent result with our observation both in negative staining or Cryo-EM images (shown in Figure 2C and Figure 3E,3F)."
+        ],
+        "methods": [
+            "Sample Collection and Virus Isolation The BALF was collected from the patient at 1 day after admission. Vero, LLC-MK2 and Huh-7 cells were used for the virus isolation in the biosafety level 3 (BSL-3)<br/><br/>laboratory. BALF sample was centrifuged at 5, 000 rpm at 4\u00b0C for 5 minutes, and then 200 \u03bcl of the supernatant was added to the monolayer of cell and incubated at 37\u00b0C and 5% CO2 for 1 hour. Then the cells were washed with PBS for 3 times, and the fresh DMEM containing 2% fetal bovine serum (FBS) and 1% penicillin streptomycin (PS) was added to the cell culture. Cells were maintained at 37\u00b0C and 5% CO2, and CPEs were monitored daily with light microscopy. Meanwhile viral RNAs were detected at 3 and 5 dpi using RT-PCR to monitor the replication of virus.<br/><br/>Quantitative Reverse Transcription Polymerase Chain Reaction(qRT-PCR) Viral RNAs from BALF and cell culture supernatant were extracted using the QIAamp RNA Viral Kit (Qiagen, Heiden, Germany). Then quantitative reverse transcription polymerase chain reaction (qRT-PCR) was performed using a commercial kit specific for 2019-nCoV detection (GeneoDX Co., Ltd., Shanghai, China) as reported previously[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].<br/><br/>Indirect immunofluorescence assay (IFA) IFA was done as described previously[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. In brief, vero cells were fixed in 4% formaldehyde at 48 hours post infection. Then cells were permeabilized in 0.5% Triton X-100, blocked in 5% BSA in PBS, and then probed with the plasma of this patient or healthy control at a dilution of 1:500 for 1 h at room temperature. The cells were washed three times with PBS and then incubated with either goat anti-human IgG conjugated with Alexa fluor 488 at a dilution of 1:500 for 1 h (Invitrogen, Carlsbad, CA). The cells were then washed and stained with hoechest-33342 (Invitrogen, Carlsbad, CA) to detect nuclei. Fluorescence images were obtained and analyzed using EVOS FL Auto Imaging System (Invitrogen, Carlsbad, CA).<br/><br/>Enzyme Linked Immunosorbent Assay (ELISA) Microtiter plates (Sangon Biotech) were coated overnight at 4\u00b0C with 2.5 \u00d7 103 TCID50/well/100 \u03bcl purified and inactivated SARS-CoV-2 particles. The plates were washed twice with PBS containing 0.1% v/v Tween-20 (PBST) and blocked with blocking solution (PBS containing 2% w/v non-fat dry milk) for 2 hours at 37\u00b0C. The plates were then washed with PBST. The plasma were diluted to 1000-fold and human monoclonal antibody specific to SARS-CoV-2-RBD generated by our laboratory were diluted to 200 \u03bcg/ml into PBS as initial concentration, and serial 3-fold dilutions of sera was added to the wells and incubated at 37\u00b0C for 60 minutes. After three washes, 100 \u03bcl of horseradish peroxidase (HRP)-conjugated goat anti-human IgG antibody solution (Sangon Biotech) was added to each well and incubated at 37\u00b0C for 60 minutes. After washing, 100 \u03bcl of tetramethylbenzidine (TMB) substrate (Sangon Biotech) was added at room temperature in the dark. After 15 minutes, the reaction was stopped with a 2M H2SO4 solution. The absorbance was measured at 450 nm. All samples were run in triplicate. The ELISA titers were determined by endpoint dilution.<br/><br/>Virus Preparation Virus was amplified in Vero cell in an incubator at 37\u00b0C and 5% CO2 for 96 hours and the viral load was determined by qPCR assay. The harvested 400ml virus supernatant with a virus titer of about 1.08 \u00d7 105 TCID50/ml (genome equivalent) was firstly inactivated by adding 0.05% (v/v) \u03b2-propiolactone and incubating at 4\u00b0C for 36 hours. Then the inactivated viruses were pelleted by centrifugation at 85,000 g, 4\u00b0C using a SW28 rotor. The pellet was dissolved at 4\u00b0C overnight in buffered saline (0.15M NaCl, 20mM HEPES, pH 6.8). The 3 ml of the suspended virus was layered on top of linear gradient of 40% (w/w) potassium tartrate, 20mM HEPES, pH 7.4 (bottom) to 15% (w/w) glycerol, 20mM HEPES, pH 7.4 (top) and subjected to isopycnic centrifugation in a SW40 rotor at 85,000 g, 4\u00b0C for 3 hours. The resulting milky band of virus was diluted with buffered saline and pelleted by centrifugation using an SW40 rotor at 85,000, 4\u00b0C for another 3 hours. Finally, the pellet was allowed to dissolve at 4\u00b0C overnight in 50 \u03bcl of buffered saline.<br/><br/>Viral Genome Sequence and Phylogenetic Analyses The extracted viral RNAs were subjected for next generation sequencing using the Illumina sequencing platform. The assembled sequence was further analyzed together with other genomes of SARS-CoV-2 downloaded from National Center for Biotechnology Information (NCBI) database. The phylogenetic analyses were done as previously reported [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].<br/><br/>Negative stain EM imaging The amount of 3\u03bcl purified samples were applied to glow-discharged grid with a continuous carbon layer (Electron microscopy China, China) for 1min. The grid was blotted by filter paper to absorb the excrescent sample. The grid was then stained with 3%(w/w) phosphotungstic acid for 1min. Redundant liquid was absorbed using filter paper. The grid was transferred to a Talos 120C transmission electron microscope (Thermo Fisher Scientific) performed at the 120 kV in low dose mode and imaged with a Ceta 16M CMOS detector (Thermo Fisher Scientific). Data were collected at a nominal magnification of 45000 x, corresponding to a pixel size of 3.5 \u00c5/pixel.<br/><br/>Cryo-EM imaging For cryo-EM sample preparation, 3\u03bcl of the sample was placed on a glow-discharged<br/><br/>Quantifoil grid (R1.2/1.3). The grid was blotted and plunged into liquid ethane cooling by liquid nitrogen to frozen sample using a Vitrobot Mark IV (Thermo Fisher Scientific). Frozen grid was transferred to a Titan Krios transmission electron microscope (Thermo Fisher Scientific) performed at the 300 kV and images were recorded by a Falcon III direct electron detector (Thermo Fisher Scientific). Image stacks with 16 frames were collected in linear mode by EPU at a nominal magnification of 59000 x, corresponding to a pixel size of 1.14 \u00c5/pixel. Total dose was estimated at about 60 e-/\u00c52."
+        ],
+        "acknowledgments": [
+            "We acknowledge the work and contribution of all the health providers from Shenzhen Third People's Hospital. We sincerely thank both Cryo-EM centre and BSL-3 laboratory of the Second Affiliated Hospital, School of Medicine, in South University of Science and Technology to provide the facilities and technical supports. We also thank Professors Dongfeng Gu and Mingzhao Xing for their valuable advices and read the manuscript.<br/><br/>This study received approval from the Research Ethics Committee of Shenzhen Third People's Hospital, China (approval number: 2020-038). The Research Ethics Committee waived the requirement informed consent before the study started because of the urgent need to collect epidemiological and clinical data. We analyzed all the data anonymously."
+        ],
+        "ethical_compliance": [
+            "This study received approval from the Research Ethics Committee of Shenzhen Third People's Hospital, China (approval number: 2020-038)"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Figure S1"
+            ]
+        }
+    },
+    "structured_content": {
+        "Introduction": [
+            "Coronaviruses (CoV) are a large family of zoonotic viruses that could be transmitted from animals to humans and cause illness ranging from common cold to severe diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], for instance, Middle East Respiratory Syndrome (MERS) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and Severe Acute Respiratory Syndrome (SARS) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] in human being. Since the early December 2019, the outbreak of an unknown epidemic pneumonia in Wuhan, a city in Hubei Province of China, is identified to be caused by a novel coronavirus [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], named as SARS-CoV-2 by the International Committee on Taxonomy of Viruses (ICTV) and the disease was named as Coronavirus Disease 2019 (COVID-19) by The World Health Organization (WHO) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Up to now, nearly 80,000 confirmed cases and more than 2,800 deaths in China have been reported (from WHO website). Rapid increasing number of cases also has been reported by many other countries around the world. The globe is now facing a big threat of COVID-19 [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. While the world are jointing efforts to develop diagnostics, therapeutics, and vaccines to fight against COVID-19, information about cultivation, purification and super molecular structure of SARS-CoV-2 in their native state is in need urgently.",
+            "CoV are enveloped single-stranded positive-RNA viruses. General knowledges of the super molecular structure of the virions have been advanced by determining several kinds of CoV using electron microscope and X-ray crystallography in the past decades. Coronaviruses have a spherical or moderately pleiomorphic virions. The virion\u2019s diameter ranges from 80 nm to 120 nm. Nucleic acid and nucleocapsid protein of coronaviruses are tightly packed in virion. Surface of virion is lipid bilayer hijacked from host cell, on which are located several important structure proteins, including spike (S) protein, envelope (E) protein and membrane (M) protein [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. S protein, including S1 subunit and S2 subunit, is considered as the most important protein in CoV. The S1 subunit facilitates attachment to the host cells and the S2 subunit is involved in subsequent fusion of the virus and host membrane [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Several recent studies considering the structure of SARS-CoV-2 were all focused on the S protein. Wrapp et al [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] reported a structure at 3.5 \u00c5 resolution of SARS-CoV-2 S protein. Yan et al [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] reported the complex structure of SARS-CoV-2 S protein with human host cell binding receptor angiotensin-converting enzyme 2 (ACE2). Lan et al [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] reported crystal structure of SARS-CoV-2 S protein\u2019s receptor binding domain (RBD) region binding with ACE2. However, all proteins mentioned above are engineered in laboratory by recombinant expression system, not from real virus and the structure as whole of virion is thus still lacking.",
+            "Furthermore, safety is one of the major factors that restricts virus study of SARS-CoV2 due to a high risk of possible transmission, live viruses must be operated in Biosafety Level 3 (BSL-3) laboratory or above. Here we report the successful isolation and purification of SARS-CoV-2 in BSL-3 laboratory and revealed the whole viral architecture of SARS-CoV-2 by transmission electron microscopy (both negative staining and cryo-EM). It is the first time to image the near native SARS-CoV-2, the pathogen of COVID-19, by cryo-EM."
+        ],
+        "Results and Discussion": [
+            "A 62-year-old male was admitted to our hospital on 15 January, 2020 with pneumonia, and was further diagnosed as COVID-19. An epidemiological investigation also confirmed a Wuhan travel history between 1 January and 14 January of this patient, and the symptoms started on 11 January, 2020, including fever and cough. Common respiratory viruses including influenza A virus, influenza B virus, adenoviruses, human parainfluenza virus and other human coronaviruses were tested to be negative. Lymphopenia, elevated CRP and IL-6 were found upon admission (Table S1). CT scans showed multiple ground-glass opacities and in bilateral lungs at the early stage, and lung consolidation occurred during hospitalization (Figure S1).",
+            "The bronchoalveolar lavage fluid (BALF) sample was collected and subjected to nextgeneration sequencing and virus isolation was performed in the BSL-3 (Biosafety level 3) laboratory. Typical cytopathic effects (CPE) were observed at 4 days post inoculation (dpi) in Vero cell, including cell rounding, shrinkage, lysis, and detachment throughout the cell monolayers (Figure 1A). Viral RNAs could be detected in the cell culture supernatant using a CFDA approved commercial kit with low Ct values (Figure 1B). The purified SARS-CoV-2 particles showed specific reaction activity to convalescent plasmas from SARS-CoV-2-infected patients (Figure 1C) and the specific human monoclonal antibodies against the RBD of the S protein using ELISA assay (Figure 1D). Meanwhile, the virus could also be detected by immunofluorescence using the patient\u2019s plasma (Figure 1E). The genome sequence of this virus has been submitted to the Global Initiative on Sharing Avian Flu Data (GISAID) with an access number of EPI_ISL_406594, and designated as \u201cBetaCoV/Shenzhen/SZTH-003/2020\u201d. Phylogenetic analyses showed that the viruses possessed high homology with the other isolates, and two closest isolates are BetaCoV/Wuhan/IPBCAMS-WH-04/2019 from Wuhan and SARS-CoV-2/NTU01/2020/TWN from Taiwan (Figure 1F).",
+            "In Figure 2 and Figure 3 we present the EM observations of SARS-CoV-2, both by negative staining (Figure 2A-2E) and cryo-EM (Figure 3A-3F). The virion particles are roughly spherical or moderately pleiomorphic, with diameters range from 80nm-160nm. For majority of the virions, the periphery is well defined and enveloped by lipid bilayer, which could be clearly seen in cryo-EM image. Tightly underneath the lipid bilayer is the condensed density formed by nucleic acid and nucleocapsid protein of SARS-CoV2. Though lots of the particles lost spike during purification or deactivation, 20%-30% percent virions still have spikes around the envelope.",
+            "Different with spikes reported in previous study [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] , spikes in our images are much thinner both in negative staining image (Figure 2) or cryo-EM image (Figure 3). Spikes here have nail-like shape with a long body embedded in the envelope. Width of spike\u2019s head is around 7 nm. The length of whole spike is around 23nm. S protein of coronavirus consisted of S1 and S2 subunits. When S1 subunit is disassociated, S2 undergoes a conformation change, extending itself from compressed form to a nail-like shape, termed as post-fusion state. The nail-like shape was also observed by other researchers [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Work done by Song et al [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] gave a detailed structure analysis of S2 protein using recombinant protein. Not only they reported the morphology of S2 protein at post-fusion state, they also reconstructed a 3D map. The 2D average image (Figure 2E) and 3D map (Figure 2D) reported in their paper [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], have a consistent result with our observation both in negative staining or Cryo-EM images (shown in Figure 2C and Figure 3E,3F)."
+        ],
+        "Methods": [
+            "Sample Collection and Virus Isolation The BALF was collected from the patient at 1 day after admission. Vero, LLC-MK2 and Huh-7 cells were used for the virus isolation in the biosafety level 3 (BSL-3)",
+            "laboratory. BALF sample was centrifuged at 5, 000 rpm at 4\u00b0C for 5 minutes, and then 200 \u03bcl of the supernatant was added to the monolayer of cell and incubated at 37\u00b0C and 5% CO2 for 1 hour. Then the cells were washed with PBS for 3 times, and the fresh DMEM containing 2% fetal bovine serum (FBS) and 1% penicillin streptomycin (PS) was added to the cell culture. Cells were maintained at 37\u00b0C and 5% CO2, and CPEs were monitored daily with light microscopy. Meanwhile viral RNAs were detected at 3 and 5 dpi using RT-PCR to monitor the replication of virus.",
+            "Quantitative Reverse Transcription Polymerase Chain Reaction(qRT-PCR) Viral RNAs from BALF and cell culture supernatant were extracted using the QIAamp RNA Viral Kit (Qiagen, Heiden, Germany). Then quantitative reverse transcription polymerase chain reaction (qRT-PCR) was performed using a commercial kit specific for 2019-nCoV detection (GeneoDX Co., Ltd., Shanghai, China) as reported previously[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].",
+            "Indirect immunofluorescence assay (IFA) IFA was done as described previously[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. In brief, vero cells were fixed in 4% formaldehyde at 48 hours post infection. Then cells were permeabilized in 0.5% Triton X-100, blocked in 5% BSA in PBS, and then probed with the plasma of this patient or healthy control at a dilution of 1:500 for 1 h at room temperature. The cells were washed three times with PBS and then incubated with either goat anti-human IgG conjugated with Alexa fluor 488 at a dilution of 1:500 for 1 h (Invitrogen, Carlsbad, CA). The cells were then washed and stained with hoechest-33342 (Invitrogen, Carlsbad, CA) to detect nuclei. Fluorescence images were obtained and analyzed using EVOS FL Auto Imaging System (Invitrogen, Carlsbad, CA).",
+            "Enzyme Linked Immunosorbent Assay (ELISA) Microtiter plates (Sangon Biotech) were coated overnight at 4\u00b0C with 2.5 \u00d7 103 TCID50/well/100 \u03bcl purified and inactivated SARS-CoV-2 particles. The plates were washed twice with PBS containing 0.1% v/v Tween-20 (PBST) and blocked with blocking solution (PBS containing 2% w/v non-fat dry milk) for 2 hours at 37\u00b0C. The plates were then washed with PBST. The plasma were diluted to 1000-fold and human monoclonal antibody specific to SARS-CoV-2-RBD generated by our laboratory were diluted to 200 \u03bcg/ml into PBS as initial concentration, and serial 3-fold dilutions of sera was added to the wells and incubated at 37\u00b0C for 60 minutes. After three washes, 100 \u03bcl of horseradish peroxidase (HRP)-conjugated goat anti-human IgG antibody solution (Sangon Biotech) was added to each well and incubated at 37\u00b0C for 60 minutes. After washing, 100 \u03bcl of tetramethylbenzidine (TMB) substrate (Sangon Biotech) was added at room temperature in the dark. After 15 minutes, the reaction was stopped with a 2M H2SO4 solution. The absorbance was measured at 450 nm. All samples were run in triplicate. The ELISA titers were determined by endpoint dilution.",
+            "Virus Preparation Virus was amplified in Vero cell in an incubator at 37\u00b0C and 5% CO2 for 96 hours and the viral load was determined by qPCR assay. The harvested 400ml virus supernatant with a virus titer of about 1.08 \u00d7 105 TCID50/ml (genome equivalent) was firstly inactivated by adding 0.05% (v/v) \u03b2-propiolactone and incubating at 4\u00b0C for 36 hours. Then the inactivated viruses were pelleted by centrifugation at 85,000 g, 4\u00b0C using a SW28 rotor. The pellet was dissolved at 4\u00b0C overnight in buffered saline (0.15M NaCl, 20mM HEPES, pH 6.8). The 3 ml of the suspended virus was layered on top of linear gradient of 40% (w/w) potassium tartrate, 20mM HEPES, pH 7.4 (bottom) to 15% (w/w) glycerol, 20mM HEPES, pH 7.4 (top) and subjected to isopycnic centrifugation in a SW40 rotor at 85,000 g, 4\u00b0C for 3 hours. The resulting milky band of virus was diluted with buffered saline and pelleted by centrifugation using an SW40 rotor at 85,000, 4\u00b0C for another 3 hours. Finally, the pellet was allowed to dissolve at 4\u00b0C overnight in 50 \u03bcl of buffered saline.",
+            "Viral Genome Sequence and Phylogenetic Analyses The extracted viral RNAs were subjected for next generation sequencing using the Illumina sequencing platform. The assembled sequence was further analyzed together with other genomes of SARS-CoV-2 downloaded from National Center for Biotechnology Information (NCBI) database. The phylogenetic analyses were done as previously reported [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].",
+            "Negative stain EM imaging The amount of 3\u03bcl purified samples were applied to glow-discharged grid with a continuous carbon layer (Electron microscopy China, China) for 1min. The grid was blotted by filter paper to absorb the excrescent sample. The grid was then stained with 3%(w/w) phosphotungstic acid for 1min. Redundant liquid was absorbed using filter paper. The grid was transferred to a Talos 120C transmission electron microscope (Thermo Fisher Scientific) performed at the 120 kV in low dose mode and imaged with a Ceta 16M CMOS detector (Thermo Fisher Scientific). Data were collected at a nominal magnification of 45000 x, corresponding to a pixel size of 3.5 \u00c5/pixel.",
+            "Cryo-EM imaging For cryo-EM sample preparation, 3\u03bcl of the sample was placed on a glow-discharged",
+            "Quantifoil grid (R1.2/1.3). The grid was blotted and plunged into liquid ethane cooling by liquid nitrogen to frozen sample using a Vitrobot Mark IV (Thermo Fisher Scientific). Frozen grid was transferred to a Titan Krios transmission electron microscope (Thermo Fisher Scientific) performed at the 300 kV and images were recorded by a Falcon III direct electron detector (Thermo Fisher Scientific). Image stacks with 16 frames were collected in linear mode by EPU at a nominal magnification of 59000 x, corresponding to a pixel size of 1.14 \u00c5/pixel. Total dose was estimated at about 60 e-/\u00c52."
+        ],
+        "Acknowledgments": [
+            "We acknowledge the work and contribution of all the health providers from Shenzhen Third People's Hospital. We sincerely thank both Cryo-EM centre and BSL-3 laboratory of the Second Affiliated Hospital, School of Medicine, in South University of Science and Technology to provide the facilities and technical supports. We also thank Professors Dongfeng Gu and Mingzhao Xing for their valuable advices and read the manuscript.",
+            "This study received approval from the Research Ethics Committee of Shenzhen Third People's Hospital, China (approval number: 2020-038). The Research Ethics Committee waived the requirement informed consent before the study started because of the urgent need to collect epidemiological and clinical data. We analyzed all the data anonymously."
+        ],
+        "References": [
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] S. Perlman, J. Netland, Coronaviruses post-SARS: update on replication and pathogenesis, Nature Reviews Microbiology, 7 (2009) 439-450. [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] Y. Yang, L. Zhang, H. Geng, Y. Deng, B. Huang, Y. Guo, Z. Zhao, W. Tan, The structural and accessory proteins M, ORF 4a, ORF 4b, and ORF 5 of Middle East respiratory syndrome coronavirus (MERS-CoV) are potent interferon antagonists, Protein & Cell, 4 (2013) 951-961. [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Y. Yuan, J. Qi, R. Peng, C. Li, G. Lu, J. Yan, Q. Wang, G.F. Gao, Molecular basis of binding between Middle East Respiratory Syndrome Coronavirus and CD26 from seven bat species, Journal of Virology, 94 (2020) e01387-19. [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] Y. Yuan, D. Cao, Y. Zhang, J. Ma, J. Qi, Q. Wang, G. Lu, Y. Wu, J. Yan, Y. Shi, X. Zhang, G.F. Gao, Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains, Nature Communications, 8 (2017) 15092. [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] N. Zhu, D. Zhang, W. Wang, X. Li, B. Yang, J. Song, X. Zhao, B. Huang, W. Shi, R. Lu, P. Niu, F. Zhan, X. Ma, D. Wang, W. Xu, G. Wu, G.F. Gao, W. Tan, A novel coronavirus from patients with pneumonia in China, 2019, The New England Journal of Medicine, 382 (2020) 727-733. [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] A.E. Gorbalenya, S.C. Baker, R.S. Baric, R.J. de Groot, C. Drosten, A.A. Gulyaeva, B.L. Haagmans, C. Lauber, A.M. Leontovich, B.W. Neuman, D. Penzar, S. Perlman, L.L.M. Poon, D. Samborskiy, I.A. Sidorov, I. Sola, J. Ziebuhr, Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group, bioRxiv 2020.02.07.937862. [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] C. Wang, P.W. Horby, F.G. Hayden, G.F. Gao, A novel coronavirus outbreak of global health concern, The Lancet, 395 (2020) 470-473. [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] P.S. Masters, The molecular biology of coronaviruses, in: Advances in virus research, Academic Press, 2006, pp. 193-292. [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] L. Yan, B. Meng, J. Xiang, I.A. Wilson, B. Yang, Crystal structure of the post-fusion core of the Human coronavirus 229E spike protein at 1.86 A resolution, Acta Crystallographica Section D, 74 (2018) 841-851. [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] D. Wrapp, N. Wang, K.S. Corbett, J.A. Goldsmith, C.-L. Hsieh, O. Abiona, B.S. Graham, J.S. McLellan, Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation, Science, (2020) eabb2507. [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] R. Yan, Y. Zhang, Y. Guo, L. Xia, Q. Zhou, Structural basis for the recognition of the 2019-nCoV by human ACE2, bioRxiv 2020.02.19.956946. [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] J. Lan, J. Ge, J. Yu, S. Shan, H. Zhou, S. Fan, Q. Zhang, X. Shi, Q. Wang, L. Zhang, X. Wang, Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the ACE2 receptor, bioRxiv 2020.02.19.956235.",
+            "[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] A.C. Walls, X. Xiong, Y.-J. Park, M.A. Tortorici, J. Snijder, J. Quispe, E. Cameroni, R. Gopal, M. Dai, A. Lanzavecchia, M. Zambon, F.A. Rey, D. Corti, D. Veesler, Unexpected receptor functional mimicry elucidates activation of coronavirus fusion, Cell, 176 (2019) 1026-1039.e1015. [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] A.C. Walls, M.A. Tortorici, J. Snijder, X. Xiong, B.-J. Bosch, F.A. Rey, D. Veesler, Tectonic conformational changes of a coronavirus spike glycoprotein promote membrane fusion, PNAS, 114 (2017) 11157-11162. [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] W. Song, M. Gui, X. Wang, Y. Xiang, Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2, PLOS Pathogens, 14 (2018) e1007236. [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Y. Liu, Y. Yang, C. Zhang, F. Huang, F. Wang, J. Yuan, Z. Wang, J. Li, J. Li, C. Feng, Z. Zhang, L. Wang, L. Peng, L. Chen, Y. Qin, D. Zhao, S. Tan, L. Yin, J. Xu, C. Zhou, C. Jiang, L. Liu, Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury, Science China Life Sciences, (2020). [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Y. Yang, F. Ye, N. Zhu, W. Wang, Y. Deng, Z. Zhao, W. Tan, Middle East respiratory syndrome coronavirus ORF4b protein inhibits type I interferon production through both cytoplasmic and nuclear targets, Scientific Reports, 5 (2015) 17554. [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Y. Yang, C. Shen, J. Li, R. Zou, G. Wong, L. Peng, L. Yang, S. Fang, J. Li, X. Li, W. Wu, X. Jiang, L. Zeng, J. Lan, Y. Bi, G.F. Gao, J. Yuan, Y. Liu, Clinical and virological characteristics of human infections with H7N9 avian influenza virus in Shenzhen, China, 2013\u20132017, Journal of Infection, 79 (2019) 389-399.",
+            "Figure Legends",
+            "Figure 1. Isolation and identification of the SARS-CoV-2 virus. (A) Vero cell was inoculated with BALF sample, and the CPEs were observed at 4-dpi. (B) RNAs were extracted from the cell culture supernatant, and detected using a commercial kit targeting the ORF 1ab (red) and N (blue) genes of SARS-CoV-2. Testing the convalescent plasma IgG antibody (C) and SARA-CoV-2-RBD specific human monoclonal antibodies (D) using the purified SARS-CoV-2 particles. The control plasmas 1 and 2 were obtained from a patient recovered from influenza A virus infection and a healthy volunteer, respectively. The control monoclonal antibody is a human monoclonal antibody specific to influenza A virus generated by our laboratory. The PBS control was serum-free. (E) Viruses were detected by IFA using the patient\u2019s plasma, and plasma from a healthy control was used as negative control. Scale bar, 100 \u03bcm. (F) Phylogenetic characteristics of BetaCoV/Shenzhen/SZTH-003/2020, and this isolate was indicated with a triangle.",
+            "Figure 2. Negative stain EM results of SARS-CoV-2. (A). Image of negative stained SARS-CoV-2. Nail-like spikes can be clearly seen. (B). Enlarged view of virion boxed in (A). (C) Zoom-in view of a spike boxed in (B). The shape is depicted by red dot line. Length, the diameter of stem and spike\u2019s head are 23nm, 4nm and 7nm, respectively. (D). Three-dimensional surface of post-fusion state S2 protein (EMDB code: 9597) [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. (E). Projection of post-fusion state S2 protein [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>].",
+            "Figure 3. Cryo-EM results of SARS-CoV-2. (A) and (B). Cryo-EM images of SARSCoV-2. (C). Zoom-in view of the virion showed in (A). Envelope and nucleocapsid are indicated by green and blue respectively, remarkable spikes are indicated by red triangles. (D). Zoom-in views of the two virions showed in (B), remarkable spikes are indicated by red triangles. (E). Zoom-in view of the spike indicated by yellow triangle in (C). The shape is depicted by yellow dot lines. (F). Zoom-in view of the spike indicated by yellow triangle in (D). The shape is depicted by yellow dot lines.",
+            "Figure S1. The representative CT scans of the patient at 7, 16, 26 and 39 day after illness onset (d.a.o)",
+            "Figure 1",
+            "Figure S1",
+            "Table S1. The clinical information of the enrolled patient.",
+            "Characteristics Age Gender Disease severity Wuhan exposure history Date of symptoms onset Initial symptoms Date of hospitalization Co-existing chronic disease Influenza A/B viruses Human parainfluenza virus Respiratory syncytial virus Human Bocavirus Adenovirus Human metapneumovirus Rhinovirus HCoV-229E/OC43/HKU1/NL63 MERS-CoV SARS-CoV Interferon atomization Ribavirin Methylprednisolone High-flow oxygen therapy Mechanical ventilation CT finding White blood cell counts Lymphocyte counts Monocyte counts D-Dimer C-reaction protein IL-6 BALF sampling date Outcome",
+            "Description 62 male severe Yes (1 Jan, 2020 \u2013 14 Jan, 2020)",
+            "Jan, 2020 Fever/Cough 15 Jan, 2020 none",
+            "-",
+            "Jan, 2020 15 Jan, 2020 no yes No Bilateral pneumonia 3.85 \u00d7 109/L 0.83 \u00d7 109/L 0.76 \u00d7 109/L 0.26 \u03bcg/ml 53.0 \u03bcg/ml 39.5 \u03bcg/ml 21 Jan, 2020 Discharged"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "diagnosed cases",
+            "number": 87000,
+            "context": ". <mark class=\"stats\">Since December 2019, the outbreak of Coronavirus Disease 2019 (COVID-19) spread from Wuhan, China to the world, it has caused more than 87,000 diagnosed cases and more than 3,000 deaths globally</mark>. To fight against COVID-19, we carried out research for the near native SARS-CoV-2 and report here our preliminary results obtained"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "cryo em structure",
+        "s protein",
+        "Enzyme Linked Immunosorbent Assay",
+        "pneumonia",
+        "Middle East Respiratory Syndrome",
+        "World Health Organization",
+        "horseradish peroxidase",
+        "angiotensin-converting enzyme 2",
+        "coronavirus",
+        "microscopy",
+        "novel coronavirus",
+        "PBS containing 0.1% v/v Tween-20",
+        "quantitative reverse transcription polymerase chain reaction",
+        "fetal bovine serum",
+        "penicillin streptomycin",
+        "middle east respiratory syndrome coronavirus",
+        "transmission electron",
+        "East Respiratory syndrome",
+        "receptor binding domain",
+        "COVID-19",
+        "International Committee on Taxonomy of Viruses",
+        "Severe Acute Respiratory Syndrome",
+        "National Center for Biotechnology Information",
+        "cytopathic effects",
+        "viral architecture",
+        "Global Initiative on Sharing Avian Flu Data",
+        "host cell",
+        "bronchoalveolar lavage fluid",
+        "Biosafety Level 3",
+        "native sars cov",
+        "Coronavirus disease",
+        "sars cov",
+        "immunofluorescence assay",
+        "post fusion"
+    ],
+    "keyword_relevance": {
+        "Severe Acute Respiratory Syndrome": 0.2482758620689655,
+        "coronavirus": 0.10344827586206896,
+        "COVID-19": 0.05517241379310345,
+        "bronchoalveolar lavage fluid": 0.04827586206896552,
+        "Biosafety Level 3": 0.04827586206896552,
+        "Middle East Respiratory Syndrome": 0.041379310344827586,
+        "angiotensin-converting enzyme 2": 0.041379310344827586,
+        "receptor binding domain": 0.041379310344827586,
+        "Enzyme Linked Immunosorbent Assay": 0.027586206896551724,
+        "pneumonia": 0.027586206896551724,
+        "microscopy": 0.027586206896551724,
+        "transmission electron": 0.027586206896551724,
+        "cytopathic effects": 0.027586206896551724,
+        "host cell": 0.027586206896551724,
+        "immunofluorescence assay": 0.027586206896551724,
+        "World Health Organization": 0.020689655172413793,
+        "novel coronavirus": 0.020689655172413793,
+        "PBS containing 0.1% v/v Tween-20": 0.020689655172413793,
+        "quantitative reverse transcription polymerase chain reaction": 0.020689655172413793,
+        "horseradish peroxidase": 0.013793103448275862,
+        "fetal bovine serum": 0.013793103448275862,
+        "penicillin streptomycin": 0.013793103448275862,
+        "International Committee on Taxonomy of Viruses": 0.013793103448275862,
+        "National Center for Biotechnology Information": 0.013793103448275862,
+        "viral architecture": 0.013793103448275862,
+        "Global Initiative on Sharing Avian Flu Data": 0.013793103448275862,
+        "cryo em structure": 0.0,
+        "s protein": 0.0,
+        "middle east respiratory syndrome coronavirus": 0.0,
+        "East Respiratory syndrome": 0.0,
+        "native sars cov": 0.0,
+        "Coronavirus disease": 0.0,
+        "sars cov": 0.0,
+        "post fusion": 0.0
+    },
+    "species": [],
+    "summary": [
+        "Coronaviruses (CoV) are a large family of zoonotic viruses that could be transmitted from animals to humans and cause illness ranging from common cold to severe diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], for instance, Middle East Respiratory Syndrome (MERS) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and Severe Acute Respiratory Syndrome (SARS) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] in human being.",
+        "Surface of virion is lipid bilayer hijacked from host cell, on which are located several important structure proteins, including spike (S) protein, envelope (E) protein and membrane (M) protein [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>].",
+        "Several recent studies considering the structure of SARS-CoV-2 were all focused on the S protein.",
+        "Wrapp et al [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] reported a structure at 3.5 \u00c5 resolution of SARS-CoV-2 S protein.",
+        "Yan et al [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] reported the complex structure of SARS-CoV-2 S protein with human host cell binding receptor angiotensin-converting enzyme 2 (ACE2).",
+        "Safety is one of the major factors that restricts virus study of SARS-CoV2 due to a high risk of possible transmission, live viruses must be operated in Biosafety Level 3 (BSL-3) laboratory or above.",
+        "The bronchoalveolar lavage fluid (BALF) sample was collected and subjected to nextgeneration sequencing and virus isolation was performed in the BSL-3 (Biosafety level 3) laboratory.",
+        "The purified SARS-CoV-2 particles showed specific reaction activity to convalescent plasmas from SARS-CoV-2-infected patients (Figure 1C) and the specific human monoclonal antibodies against the RBD of the S protein using ELISA assay (Figure 1D).",
+        "The 2D average image (Figure 2E) and 3D map (Figure 2D) reported in their paper [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], have a consistent result with the observation both in negative staining or Cryo-EM images.",
+        "BALF sample was centrifuged at 5, 000 rpm at 4\u00b0C for 5 minutes, and 200 \u03bcl of the supernatant was added to the monolayer of cell and incubated at 37\u00b0C and 5% CO2 for 1 hour.",
+        "The cells were washed three times with PBS and incubated with either goat anti-human IgG conjugated with Alexa fluor 488 at a dilution of 1:500 for 1 h (Invitrogen, Carlsbad, CA).",
+        "Enzyme Linked Immunosorbent Assay (ELISA) Microtiter plates (Sangon Biotech) were coated overnight at 4\u00b0C with 2.5 \u00d7 103 TCID50/well/100 \u03bcl purified and inactivated SARS-CoV-2 particles.",
+        "The plasma were diluted to 1000-fold and human monoclonal antibody specific to SARS-CoV-2-RBD generated by the laboratory were diluted to 200 \u03bcg/ml into PBS as initial concentration, and serial 3-fold dilutions of sera was added to the wells and incubated at 37\u00b0C for 60 minutes.",
+        "The resulting milky band of virus was diluted with buffered saline and pelleted by centrifugation using an SW40 rotor at 85,000, 4\u00b0C for another 3 hours.",
+        "Negative stain EM imaging The amount of 3\u03bcl purified samples were applied to glow-discharged grid with a continuous carbon layer (Electron microscopy China, China) for 1min."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Coronaviruses (CoV) are a large family of zoonotic viruses that could be transmitted from animals to humans and cause illness ranging from common cold to severe diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], for instance, Middle East Respiratory Syndrome (MERS) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and Severe Acute Respiratory Syndrome (SARS) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] in human being.",
+            "Surface of virion is lipid bilayer hijacked from host cell, on which are located several important structure proteins, including spike (S) protein, envelope (E) protein and membrane (M) protein [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>].",
+            "Several recent studies considering the structure of SARS-CoV-2 were all focused on the S protein."
+        ],
+        "Results": [
+            "Wrapp et al [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] reported a structure at 3.5 \u00c5 resolution of SARS-CoV-2 S protein.",
+            "Yan et al [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] reported the complex structure of SARS-CoV-2 S protein with human host cell binding receptor angiotensin-converting enzyme 2 (ACE2).",
+            "Safety is one of the major factors that restricts virus study of SARS-CoV2 due to a high risk of possible transmission, live viruses must be operated in Biosafety Level 3 (BSL-3) laboratory or above.",
+            "The bronchoalveolar lavage fluid (BALF) sample was collected and subjected to nextgeneration sequencing and virus isolation was performed in the BSL-3 (Biosafety level 3) laboratory.",
+            "The purified SARS-CoV-2 particles showed specific reaction activity to convalescent plasmas from SARS-CoV-2-infected patients (Figure 1C) and the specific human monoclonal antibodies against the RBD of the S protein using ELISA assay (Figure 1D).",
+            "The 2D average image (Figure 2E) and 3D map (Figure 2D) reported in their paper [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], have a consistent result with the observation both in negative staining or Cryo-EM images.",
+            "BALF sample was centrifuged at 5, 000 rpm at 4\u00b0C for 5 minutes, and 200 \u03bcl of the supernatant was added to the monolayer of cell and incubated at 37\u00b0C and 5% CO2 for 1 hour.",
+            "The cells were washed three times with PBS and incubated with either goat anti-human IgG conjugated with Alexa fluor 488 at a dilution of 1:500 for 1 h (Invitrogen, Carlsbad, CA).",
+            "Enzyme Linked Immunosorbent Assay (ELISA) Microtiter plates (Sangon Biotech) were coated overnight at 4\u00b0C with 2.5 \u00d7 103 TCID50/well/100 \u03bcl purified and inactivated SARS-CoV-2 particles."
+        ],
+        "Conclusion": [
+            "The plasma were diluted to 1000-fold and human monoclonal antibody specific to SARS-CoV-2-RBD generated by the laboratory were diluted to 200 \u03bcg/ml into PBS as initial concentration, and serial 3-fold dilutions of sera was added to the wells and incubated at 37\u00b0C for 60 minutes.",
+            "The resulting milky band of virus was diluted with buffered saline and pelleted by centrifugation using an SW40 rotor at 85,000, 4\u00b0C for another 3 hours.",
+            "Negative stain EM imaging The amount of 3\u03bcl purified samples were applied to glow-discharged grid with a continuous carbon layer (Electron microscopy China, China) for 1min."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Perlman_2009_a",
+            "entry": "[1] S. Perlman, J. Netland, Coronaviruses post-SARS: update on replication and pathogenesis, Nature Reviews Microbiology, 7 (2009) 439-450.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Perlman%2C%20S.%20Netland%2C%20J.%20Coronaviruses%20post-SARS%3A%20update%20on%20replication%20and%20pathogenesis%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Perlman%2C%20S.%20Netland%2C%20J.%20Coronaviruses%20post-SARS%3A%20update%20on%20replication%20and%20pathogenesis%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Perlman%2C%20S.%20Netland%2C%20J.%20Coronaviruses%20post-SARS%3A%20update%20on%20replication%20and%20pathogenesis%202009"
+        },
+        {
+            "id": "2",
+            "alt_id": "Yang_et+al_2013_a",
+            "entry": "[2] Y. Yang, L. Zhang, H. Geng, Y. Deng, B. Huang, Y. Guo, Z. Zhao, W. Tan, The structural and accessory proteins M, ORF 4a, ORF 4b, and ORF 5 of Middle East respiratory syndrome coronavirus (MERS-CoV) are potent interferon antagonists, Protein & Cell, 4 (2013) 951-961.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20Y.%20Zhang%2C%20L.%20Geng%2C%20H.%20Deng%2C%20Y.%20The%20structural%20and%20accessory%20proteins%20M%2C%20ORF%204a%2C%20ORF%204b%2C%20and%20ORF%205%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%20%28MERS-CoV%29%20are%20potent%20interferon%20antagonists%2C%20Protein%20%26%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20Y.%20Zhang%2C%20L.%20Geng%2C%20H.%20Deng%2C%20Y.%20The%20structural%20and%20accessory%20proteins%20M%2C%20ORF%204a%2C%20ORF%204b%2C%20and%20ORF%205%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%20%28MERS-CoV%29%20are%20potent%20interferon%20antagonists%2C%20Protein%20%26%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20Y.%20Zhang%2C%20L.%20Geng%2C%20H.%20Deng%2C%20Y.%20The%20structural%20and%20accessory%20proteins%20M%2C%20ORF%204a%2C%20ORF%204b%2C%20and%20ORF%205%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%20%28MERS-CoV%29%20are%20potent%20interferon%20antagonists%2C%20Protein%20%26%202013"
+        },
+        {
+            "id": "3",
+            "alt_id": "Yuan_et+al_2020_a",
+            "entry": "[3] Y. Yuan, J. Qi, R. Peng, C. Li, G. Lu, J. Yan, Q. Wang, G.F. Gao, Molecular basis of binding between Middle East Respiratory Syndrome Coronavirus and CD26 from seven bat species, Journal of Virology, 94 (2020) e01387-19.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yuan%2C%20Y.%20Qi%2C%20J.%20Peng%2C%20R.%20Li%2C%20C.%20Molecular%20basis%20of%20binding%20between%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20and%20CD26%20from%20seven%20bat%20species%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yuan%2C%20Y.%20Qi%2C%20J.%20Peng%2C%20R.%20Li%2C%20C.%20Molecular%20basis%20of%20binding%20between%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20and%20CD26%20from%20seven%20bat%20species%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yuan%2C%20Y.%20Qi%2C%20J.%20Peng%2C%20R.%20Li%2C%20C.%20Molecular%20basis%20of%20binding%20between%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20and%20CD26%20from%20seven%20bat%20species%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Yuan_et+al_2017_a",
+            "entry": "[4] Y. Yuan, D. Cao, Y. Zhang, J. Ma, J. Qi, Q. Wang, G. Lu, Y. Wu, J. Yan, Y. Shi, X. Zhang, G.F. Gao, Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains, Nature Communications, 8 (2017) 15092.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yuan%2C%20Y.%20Cao%2C%20D.%20Zhang%2C%20Y.%20Ma%2C%20J.%20Cryo-EM%20structures%20of%20MERS-CoV%20and%20SARS-CoV%20spike%20glycoproteins%20reveal%20the%20dynamic%20receptor%20binding%20domains%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yuan%2C%20Y.%20Cao%2C%20D.%20Zhang%2C%20Y.%20Ma%2C%20J.%20Cryo-EM%20structures%20of%20MERS-CoV%20and%20SARS-CoV%20spike%20glycoproteins%20reveal%20the%20dynamic%20receptor%20binding%20domains%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yuan%2C%20Y.%20Cao%2C%20D.%20Zhang%2C%20Y.%20Ma%2C%20J.%20Cryo-EM%20structures%20of%20MERS-CoV%20and%20SARS-CoV%20spike%20glycoproteins%20reveal%20the%20dynamic%20receptor%20binding%20domains%202017"
+        },
+        {
+            "id": "5",
+            "alt_id": "Zhu_et+al_2020_a",
+            "entry": "[5] N. Zhu, D. Zhang, W. Wang, X. Li, B. Yang, J. Song, X. Zhao, B. Huang, W. Shi, R. Lu, P. Niu, F. Zhan, X. Ma, D. Wang, W. Xu, G. Wu, G.F. Gao, W. Tan, A novel coronavirus from patients with pneumonia in China, 2019, The New England Journal of Medicine, 382 (2020) 727-733.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=N%20Zhu%20D%20Zhang%20W%20Wang%20X%20Li%20B%20Yang%20J%20Song%20X%20Zhao%20B%20Huang%20W%20Shi%20R%20Lu%20P%20Niu%20F%20Zhan%20X%20Ma%20D%20Wang%20W%20Xu%20G%20Wu%20GF%20Gao%20W%20Tan%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019%20The%20New%20England%20Journal%20of%20Medicine%20382%202020%20727733",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=N%20Zhu%20D%20Zhang%20W%20Wang%20X%20Li%20B%20Yang%20J%20Song%20X%20Zhao%20B%20Huang%20W%20Shi%20R%20Lu%20P%20Niu%20F%20Zhan%20X%20Ma%20D%20Wang%20W%20Xu%20G%20Wu%20GF%20Gao%20W%20Tan%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019%20The%20New%20England%20Journal%20of%20Medicine%20382%202020%20727733",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=N%20Zhu%20D%20Zhang%20W%20Wang%20X%20Li%20B%20Yang%20J%20Song%20X%20Zhao%20B%20Huang%20W%20Shi%20R%20Lu%20P%20Niu%20F%20Zhan%20X%20Ma%20D%20Wang%20W%20Xu%20G%20Wu%20GF%20Gao%20W%20Tan%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019%20The%20New%20England%20Journal%20of%20Medicine%20382%202020%20727733"
+        },
+        {
+            "id": "6",
+            "alt_id": "Gorbalenya_et+al_2020_a",
+            "entry": "[6] A.E. Gorbalenya, S.C. Baker, R.S. Baric, R.J. de Groot, C. Drosten, A.A. Gulyaeva, B.L. Haagmans, C. Lauber, A.M. Leontovich, B.W. Neuman, D. Penzar, S. Perlman, L.L.M. Poon, D. Samborskiy, I.A. Sidorov, I. Sola, J. Ziebuhr, Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group, bioRxiv 2020.02.07.937862.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=AE%20Gorbalenya%20SC%20Baker%20RS%20Baric%20RJ%20de%20Groot%20C%20Drosten%20AA%20Gulyaeva%20BL%20Haagmans%20C%20Lauber%20AM%20Leontovich%20BW%20Neuman%20D%20Penzar%20S%20Perlman%20LLM%20Poon%20D%20Samborskiy%20IA%20Sidorov%20I%20Sola%20J%20Ziebuhr%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20The%20species%20and%20its%20viruses%20%20a%20statement%20of%20the%20Coronavirus%20Study%20Group%20bioRxiv%2020200207937862"
+        },
+        {
+            "id": "7",
+            "alt_id": "Wang_et+al_2020_a",
+            "entry": "[7] C. Wang, P.W. Horby, F.G. Hayden, G.F. Gao, A novel coronavirus outbreak of global health concern, The Lancet, 395 (2020) 470-473.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%2C%20C.%20Horby%2C%20P.W.%20Hayden%2C%20F.G.%20Gao%2C%20G.F.%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%2C%20C.%20Horby%2C%20P.W.%20Hayden%2C%20F.G.%20Gao%2C%20G.F.%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%2C%20C.%20Horby%2C%20P.W.%20Hayden%2C%20F.G.%20Gao%2C%20G.F.%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%202020"
+        },
+        {
+            "id": "8",
+            "alt_id": "Masters_2006_a",
+            "entry": "[8] P.S. Masters, The molecular biology of coronaviruses, in: Advances in virus research, Academic Press, 2006, pp. 193-292.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Masters%2C%20P.S.%20The%20molecular%20biology%20of%20coronaviruses%2C%20in%3A%20Advances%20in%20virus%20research%202006"
+        },
+        {
+            "id": "9",
+            "alt_id": "Yan_et+al_2018_a",
+            "entry": "[9] L. Yan, B. Meng, J. Xiang, I.A. Wilson, B. Yang, Crystal structure of the post-fusion core of the Human coronavirus 229E spike protein at 1.86 A resolution, Acta Crystallographica Section D, 74 (2018) 841-851.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yan%2C%20L.%20Meng%2C%20B.%20Xiang%2C%20J.%20Wilson%2C%20I.A.%20Crystal%20structure%20of%20the%20post-fusion%20core%20of%20the%20Human%20coronavirus%20229E%20spike%20protein%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yan%2C%20L.%20Meng%2C%20B.%20Xiang%2C%20J.%20Wilson%2C%20I.A.%20Crystal%20structure%20of%20the%20post-fusion%20core%20of%20the%20Human%20coronavirus%20229E%20spike%20protein%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yan%2C%20L.%20Meng%2C%20B.%20Xiang%2C%20J.%20Wilson%2C%20I.A.%20Crystal%20structure%20of%20the%20post-fusion%20core%20of%20the%20Human%20coronavirus%20229E%20spike%20protein%202018"
+        },
+        {
+            "id": "10",
+            "alt_id": "Wrapp_et+al_2020_a",
+            "entry": "[10] D. Wrapp, N. Wang, K.S. Corbett, J.A. Goldsmith, C.-L. Hsieh, O. Abiona, B.S. Graham, J.S. McLellan, Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation, Science, (2020) eabb2507.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=D%20Wrapp%20N%20Wang%20KS%20Corbett%20JA%20Goldsmith%20CL%20Hsieh%20O%20Abiona%20BS%20Graham%20JS%20McLellan%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%202020%20eabb2507"
+        },
+        {
+            "id": "11",
+            "alt_id": "Yan_et+al_2019_a",
+            "entry": "[11] R. Yan, Y. Zhang, Y. Guo, L. Xia, Q. Zhou, Structural basis for the recognition of the 2019-nCoV by human ACE2, bioRxiv 2020.02.19.956946.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=R%20Yan%20Y%20Zhang%20Y%20Guo%20L%20Xia%20Q%20Zhou%20Structural%20basis%20for%20the%20recognition%20of%20the%202019nCoV%20by%20human%20ACE2%20bioRxiv%2020200219956946"
+        },
+        {
+            "id": "12",
+            "alt_id": "Lan_et+al_2019_a",
+            "entry": "[12] J. Lan, J. Ge, J. Yu, S. Shan, H. Zhou, S. Fan, Q. Zhang, X. Shi, Q. Wang, L. Zhang, X. Wang, Crystal structure of the 2019-nCoV spike receptor-binding domain bound with the ACE2 receptor, bioRxiv 2020.02.19.956235.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20Lan%20J%20Ge%20J%20Yu%20S%20Shan%20H%20Zhou%20S%20Fan%20Q%20Zhang%20X%20Shi%20Q%20Wang%20L%20Zhang%20X%20Wang%20Crystal%20structure%20of%20the%202019nCoV%20spike%20receptorbinding%20domain%20bound%20with%20the%20ACE2%20receptor%20bioRxiv%2020200219956235"
+        },
+        {
+            "id": "13",
+            "alt_id": "Walls_et+al_2019_a",
+            "entry": "[13] A.C. Walls, X. Xiong, Y.-J. Park, M.A. Tortorici, J. Snijder, J. Quispe, E. Cameroni, R. Gopal, M. Dai, A. Lanzavecchia, M. Zambon, F.A. Rey, D. Corti, D. Veesler, Unexpected receptor functional mimicry elucidates activation of coronavirus fusion, Cell, 176 (2019) 1026-1039.e1015.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Walls%2C%20A.C.%20Xiong%2C%20X.%20Park%2C%20Y.-J.%20Tortorici%2C%20M.A.%20Unexpected%20receptor%20functional%20mimicry%20elucidates%20activation%20of%20coronavirus%20fusion%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Walls%2C%20A.C.%20Xiong%2C%20X.%20Park%2C%20Y.-J.%20Tortorici%2C%20M.A.%20Unexpected%20receptor%20functional%20mimicry%20elucidates%20activation%20of%20coronavirus%20fusion%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Walls%2C%20A.C.%20Xiong%2C%20X.%20Park%2C%20Y.-J.%20Tortorici%2C%20M.A.%20Unexpected%20receptor%20functional%20mimicry%20elucidates%20activation%20of%20coronavirus%20fusion%202019"
+        },
+        {
+            "id": "14",
+            "alt_id": "Walls_et+al_2017_a",
+            "entry": "[14] A.C. Walls, M.A. Tortorici, J. Snijder, X. Xiong, B.-J. Bosch, F.A. Rey, D. Veesler, Tectonic conformational changes of a coronavirus spike glycoprotein promote membrane fusion, PNAS, 114 (2017) 11157-11162.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Walls%2C%20A.C.%20Tortorici%2C%20M.A.%20Snijder%2C%20J.%20Xiong%2C%20X.%20Tectonic%20conformational%20changes%20of%20a%20coronavirus%20spike%20glycoprotein%20promote%20membrane%20fusion%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Walls%2C%20A.C.%20Tortorici%2C%20M.A.%20Snijder%2C%20J.%20Xiong%2C%20X.%20Tectonic%20conformational%20changes%20of%20a%20coronavirus%20spike%20glycoprotein%20promote%20membrane%20fusion%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Walls%2C%20A.C.%20Tortorici%2C%20M.A.%20Snijder%2C%20J.%20Xiong%2C%20X.%20Tectonic%20conformational%20changes%20of%20a%20coronavirus%20spike%20glycoprotein%20promote%20membrane%20fusion%202017"
+        },
+        {
+            "id": "15",
+            "alt_id": "Song_et+al_2018_a",
+            "entry": "[15] W. Song, M. Gui, X. Wang, Y. Xiang, Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2, PLOS Pathogens, 14 (2018) e1007236.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Song%2C%20W.%20Gui%2C%20M.%20Wang%2C%20X.%20Xiang%2C%20Y.%20Cryo-EM%20structure%20of%20the%20SARS%20coronavirus%20spike%20glycoprotein%20in%20complex%20with%20its%20host%20cell%20receptor%20ACE2%2C%20PLOS%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Song%2C%20W.%20Gui%2C%20M.%20Wang%2C%20X.%20Xiang%2C%20Y.%20Cryo-EM%20structure%20of%20the%20SARS%20coronavirus%20spike%20glycoprotein%20in%20complex%20with%20its%20host%20cell%20receptor%20ACE2%2C%20PLOS%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Song%2C%20W.%20Gui%2C%20M.%20Wang%2C%20X.%20Xiang%2C%20Y.%20Cryo-EM%20structure%20of%20the%20SARS%20coronavirus%20spike%20glycoprotein%20in%20complex%20with%20its%20host%20cell%20receptor%20ACE2%2C%20PLOS%202018"
+        },
+        {
+            "id": "16",
+            "alt_id": "Liu_et+al_2020_a",
+            "entry": "[16] Y. Liu, Y. Yang, C. Zhang, F. Huang, F. Wang, J. Yuan, Z. Wang, J. Li, J. Li, C. Feng, Z. Zhang, L. Wang, L. Peng, L. Chen, Y. Qin, D. Zhao, S. Tan, L. Yin, J. Xu, C. Zhou, C. Jiang, L. Liu, Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury, Science China Life Sciences, (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Y%20Liu%20Y%20Yang%20C%20Zhang%20F%20Huang%20F%20Wang%20J%20Yuan%20Z%20Wang%20J%20Li%20J%20Li%20C%20Feng%20Z%20Zhang%20L%20Wang%20L%20Peng%20L%20Chen%20Y%20Qin%20D%20Zhao%20S%20Tan%20L%20Yin%20J%20Xu%20C%20Zhou%20C%20Jiang%20L%20Liu%20Clinical%20and%20biochemical%20indexes%20from%202019nCoV%20infected%20patients%20linked%20to%20viral%20loads%20and%20lung%20injury%20Science%20China%20Life%20Sciences%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Y%20Liu%20Y%20Yang%20C%20Zhang%20F%20Huang%20F%20Wang%20J%20Yuan%20Z%20Wang%20J%20Li%20J%20Li%20C%20Feng%20Z%20Zhang%20L%20Wang%20L%20Peng%20L%20Chen%20Y%20Qin%20D%20Zhao%20S%20Tan%20L%20Yin%20J%20Xu%20C%20Zhou%20C%20Jiang%20L%20Liu%20Clinical%20and%20biochemical%20indexes%20from%202019nCoV%20infected%20patients%20linked%20to%20viral%20loads%20and%20lung%20injury%20Science%20China%20Life%20Sciences%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Y%20Liu%20Y%20Yang%20C%20Zhang%20F%20Huang%20F%20Wang%20J%20Yuan%20Z%20Wang%20J%20Li%20J%20Li%20C%20Feng%20Z%20Zhang%20L%20Wang%20L%20Peng%20L%20Chen%20Y%20Qin%20D%20Zhao%20S%20Tan%20L%20Yin%20J%20Xu%20C%20Zhou%20C%20Jiang%20L%20Liu%20Clinical%20and%20biochemical%20indexes%20from%202019nCoV%20infected%20patients%20linked%20to%20viral%20loads%20and%20lung%20injury%20Science%20China%20Life%20Sciences%202020"
+        },
+        {
+            "id": "17",
+            "alt_id": "Yang_et+al_2015_a",
+            "entry": "[17] Y. Yang, F. Ye, N. Zhu, W. Wang, Y. Deng, Z. Zhao, W. Tan, Middle East respiratory syndrome coronavirus ORF4b protein inhibits type I interferon production through both cytoplasmic and nuclear targets, Scientific Reports, 5 (2015) 17554.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20Y.%20Ye%2C%20F.%20Zhu%2C%20N.%20Wang%2C%20W.%20Middle%20East%20respiratory%20syndrome%20coronavirus%20ORF4b%20protein%20inhibits%20type%20I%20interferon%20production%20through%20both%20cytoplasmic%20and%20nuclear%20targets%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20Y.%20Ye%2C%20F.%20Zhu%2C%20N.%20Wang%2C%20W.%20Middle%20East%20respiratory%20syndrome%20coronavirus%20ORF4b%20protein%20inhibits%20type%20I%20interferon%20production%20through%20both%20cytoplasmic%20and%20nuclear%20targets%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20Y.%20Ye%2C%20F.%20Zhu%2C%20N.%20Wang%2C%20W.%20Middle%20East%20respiratory%20syndrome%20coronavirus%20ORF4b%20protein%20inhibits%20type%20I%20interferon%20production%20through%20both%20cytoplasmic%20and%20nuclear%20targets%202015"
+        },
+        {
+            "id": "18",
+            "alt_id": "Yang_et+al_2019_a",
+            "entry": "[18] Y. Yang, C. Shen, J. Li, R. Zou, G. Wong, L. Peng, L. Yang, S. Fang, J. Li, X. Li, W. Wu, X. Jiang, L. Zeng, J. Lan, Y. Bi, G.F. Gao, J. Yuan, Y. Liu, Clinical and virological characteristics of human infections with H7N9 avian influenza virus in Shenzhen, China, 2013\u20132017, Journal of Infection, 79 (2019) 389-399. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Y%20Yang%20C%20Shen%20J%20Li%20R%20Zou%20G%20Wong%20L%20Peng%20L%20Yang%20S%20Fang%20J%20Li%20X%20Li%20W%20Wu%20X%20Jiang%20L%20Zeng%20J%20Lan%20Y%20Bi%20GF%20Gao%20J%20Yuan%20Y%20Liu%20Clinical%20and%20virological%20characteristics%20of%20human%20infections%20with%20H7N9%20avian%20influenza%20virus%20in%20Shenzhen%20China%2020132017%20Journal%20of%20Infection%2079%202019%20389399",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Y%20Yang%20C%20Shen%20J%20Li%20R%20Zou%20G%20Wong%20L%20Peng%20L%20Yang%20S%20Fang%20J%20Li%20X%20Li%20W%20Wu%20X%20Jiang%20L%20Zeng%20J%20Lan%20Y%20Bi%20GF%20Gao%20J%20Yuan%20Y%20Liu%20Clinical%20and%20virological%20characteristics%20of%20human%20infections%20with%20H7N9%20avian%20influenza%20virus%20in%20Shenzhen%20China%2020132017%20Journal%20of%20Infection%2079%202019%20389399",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Y%20Yang%20C%20Shen%20J%20Li%20R%20Zou%20G%20Wong%20L%20Peng%20L%20Yang%20S%20Fang%20J%20Li%20X%20Li%20W%20Wu%20X%20Jiang%20L%20Zeng%20J%20Lan%20Y%20Bi%20GF%20Gao%20J%20Yuan%20Y%20Liu%20Clinical%20and%20virological%20characteristics%20of%20human%20infections%20with%20H7N9%20avian%20influenza%20virus%20in%20Shenzhen%20China%2020132017%20Journal%20of%20Infection%2079%202019%20389399"
+        }
+    ],
+    "facts": [
+        "the outbreak of Coronavirus Disease 2019 spread from Wuhan",
+        "The whole viral architecture of SARS-CoV-2 was examined by transmission electron microscopy",
+        "outside with a long body embedded in the envelope",
+        "The morphology of virion observed in our result indicates that the",
+        "S protein of SARSCoV-2 is in post-fusion state",
+        "This state revealed by cryo-EM first time could provide an important information for the identification",
+        "Coronaviruses are a large family of zoonotic viruses",
+        "that could be transmitted from animals to humans",
+        "cause illness ranging from common cold to severe diseases",
+        "the disease was named as Coronavirus Disease 2019 by The World Health Organization",
+        "increasing number of cases has been reported by many other countries around the world",
+        "The globe is facing a big threat of COVID-19",
+        "vaccines to fight against COVID-19",
+        "super molecular structure of SARS-CoV-2 in their native state is in need",
+        "General knowledges of the super molecular structure of the virions have been advanced by determining several kinds of CoV using electron microscope",
+        "nucleocapsid protein of coronaviruses are tightly packed in virion",
+        "Surface of virion is lipid bilayer hijacked from host cell",
+        "most important protein in CoV. The S1 subunit facilitates attachment to the host cells",
+        "the S2 subunit is involved in subsequent fusion of the virus and host membrane",
+        "Several recent studies considering the structure of SARS-CoV-2 were all focused",
+        "reported crystal structure of SARS-CoV-2 S protein's receptor binding domain region binding with ACE2",
+        "all proteins mentioned above are engineered in laboratory by recombinant expression system",
+        "live viruses must be operated in Biosafety Level 3 laboratory",
+        "Virus Isolation The BALF was collected from the patient at 1 day",
+        "LLC-MK2 and Huh-7 cells were used for the virus isolation in the biosafety level 3",
+        "of the supernatant was added to the monolayer of cell",
+        "the cells were washed with PBS for 3 times",
+        "1% penicillin streptomycin was added to the cell culture",
+        "Cells were maintained at 37\u00b0C",
+        "5 dpi using RT-PCR to monitor the replication of virus",
+        "Indirect immunofluorescence assay IFA was done as described previously[17",
+        "In brief, vero cells were fixed in 4% formaldehyde at 48 hours post infection",
+        "cells were permeabilized in 0.5% Triton X-100",
+        "with either goat anti-human IgG conjugated with Alexa fluor 488 at a dilution",
+        "The plates were washed with PBST",
+        "by our laboratory were diluted to 200 \u03bcg",
+        "3-fold dilutions of sera was added to the wells",
+        "of tetramethylbenzidine substrate was added at room temperature in the dark",
+        "the reaction was stopped with a 2M H2SO4 solution",
+        "All samples were run in triplicate",
+        "The ELISA titers were determined by endpoint dilution",
+        "Virus Preparation Virus was amplified in Vero cell in an incubator",
+        "the viral load was determined by qPCR assay",
+        "the inactivated viruses were pelleted by centrifugation at 85,000 g",
+        "The pellet was dissolved at 4\u00b0C",
+        "The 3 ml of the suspended virus was layered on top of linear gradient",
+        "The resulting milky band of virus was diluted with buffered saline",
+        "the pellet was allowed to dissolve at 4\u00b0C",
+        "Phylogenetic Analyses The extracted viral RNAs were subjected for generation sequencing using the",
+        "together with other genomes of SARS-CoV-2 downloaded from National Center for Biotechnology Information database",
+        "purified samples were applied to glow-discharged grid with a continuous carbon layer",
+        "The grid was blotted by filter paper to absorb the excrescent sample",
+        "The grid was stained with 3% phosphotungstic acid for 1min",
+        "The grid was transferred to a Talos 120C transmission electron microscope performed at the",
+        "Data were collected at a nominal magnification",
+        "Cryo-EM imaging For cryo-EM sample preparation",
+        "Frozen grid was transferred to a Titan Krios transmission electron microscope performed at the",
+        "300 kV and images were recorded by a Falcon III direct electron detector",
+        "Image stacks with 16 frames were collected in linear mode by EPU",
+        "Total dose was estimated at about 60 e-/\u00c52",
+        "A 62-year-old male was admitted to our hospital on 15 January",
+        "the symptoms started on 11 January",
+        "IL-6 were found upon admission",
+        "lung consolidation occurred during hospitalization",
+        "to nextgeneration sequencing and virus isolation was performed in the BSL-3 laboratory",
+        "Typical cytopathic effects were observed at 4 days post inoculation in Vero cell",
+        "Viral RNAs could be detected in the cell culture supernatant using a",
+        "the virus could be detected by immunofluorescence using the patient",
+        "The genome sequence of this virus has been submitted to the Global Initiative on Sharing Avian Flu Data",
+        "Phylogenetic analyses showed that the viruses possessed high homology with the other isolates",
+        "which could be clearly seen in cryo-EM image",
+        "the condensed density formed by nucleic acid",
+        "Though lots of the particles lost spike during purification or deactivation",
+        "Different with spikes reported in previous study",
+        "Spikes here have nail-like shape with a long body embedded in the envelope",
+        "S protein of coronavirus consisted of S1",
+        "The nail-like shape was observed by other researchers",
+        "Work done by Song et al",
+        "3D map reported in their paper"
+    ],
+    "claims": [
+        "We report the successful isolation and purification of SARS-CoV-2 in BSL-3 laboratory and revealed the whole viral architecture of SARS-CoV-2 by transmission electron microscopy (both negative staining and cryo-EM)",
+        "In Figure 2 and Figure 3 we present the EM observations of SARS-CoV-2, both by negative staining (Figure 2A-2E) and cryo-EM (Figure 3A-3F)"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Nucleic acid and nucleocapsid protein of coronaviruses are tightly packed in virion",
+        "Surface of virion is lipid bilayer hijacked from host cell, on which are located several important structure proteins, including spike (S) protein, envelope (E) protein and membrane (M) protein [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]",
+        "Several recent studies considering the structure of Severe Acute Respiratory Syndrome-CoV-2 were all focused on the S protein",
+        "All proteins mentioned above are engineered in laboratory by recombinant expression system, not from real virus and the structure as whole of virion is still lacking",
+        "A 62-year-old male was admitted to our hospital on 15 January, 2020 with pneumonia, and was further diagnosed as COVID-19",
+        "An epidemiological investigation confirmed a Wuhan travel history between 1 January and 14 January of this patient, and the symptoms started on 11 January, 2020, including fever and cough",
+        "Lymphopenia, elevated CRP and IL-6 were found upon admission (Table S1)",
+        "CT scans showed multiple ground-glass opacities and in bilateral lungs at the early stage, and lung consolidation occurred during hospitalization (Figure S1)",
+        "Viral RNAs could be detected in the cell culture supernatant using a CFDA approved commercial kit with low Ct values (Figure 1B)",
+        "The genome sequence of this virus has been submitted to the Global Initiative on Sharing Avian Flu Data (GISAID) with an access number of EPI_ISL_406594, and designated as \u201cBetaCoV/Shenzhen/SZTH-003/2020\u201d",
+        "Phylogenetic analyses showed that the viruses possessed high homology with the other isolates, and two closest isolates are BetaCoV/Wuhan/IPBCAMS-WH-04/2019 from Wuhan and Severe Acute Respiratory Syndrome-CoV-2/NTU01/2020/TWN from Taiwan (Figure 1F)",
+        "In Figure 2 and Figure 3 we present the EM observations of Severe Acute Respiratory Syndrome-CoV-2, both by negative staining (Figure 2A-2E) and cryo-EM (Figure 3A-3F)",
+        "For majority of the virions, the periphery is well defined and enveloped by lipid bilayer, which could be clearly seen in cryo-EM image",
+        "Underneath the lipid bilayer is the condensed density formed by nucleic acid and nucleocapsid protein of Severe Acute Respiratory Syndrome-CoV2",
+        "Though lots of the particles lost spike during purification or deactivation, 20%-30% percent virions still have spikes around the envelope",
+        "Different with spikes reported in previous study [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] , spikes in our images are much thinner both in negative staining image (Figure 2) or cryo-EM image (Figure 3)",
+        "Spikes here have nail-like shape with a long body embedded in the envelope",
+        "S protein of coronavirus consisted of S1 and S2 subunits",
+        "Work done by Song et al [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] gave a detailed structure analysis of S2 protein using recombinant protein",
+        "The cells were washed with PBS for 3 times, and the fresh DMEM containing 2% fetal bovine serum (FBS) and 1% penicillin streptomycin (PS) was added to the cell culture",
+        "Cells were maintained at 37\u00b0C and 5% CO2, and cytopathic effects were monitored daily with light microscopy",
+        "The plasma were diluted to 1000-fold and human monoclonal antibody specific to Severe Acute Respiratory Syndrome-CoV-2-receptor binding domain generated by our laboratory were diluted to 200 \u03bcg/ml into PBS as initial concentration, and serial 3-fold dilutions of sera was added to the wells and incubated at 37\u00b0C for 60 minutes",
+        "Virus Preparation Virus was amplified in Vero cell in an incubator at 37\u00b0C and 5% CO2 for 96 hours and the viral load was determined by qPCR assay",
+        "Negative stain EM imaging The amount of 3\u03bcl purified samples were applied to glow-discharged grid with a continuous carbon layer (Electron microscopy China, China) for 1min"
+    ],
+    "top_statements": [
+        "Coronaviruses (CoV) are a large family of zoonotic viruses that could be transmitted from animals to humans and cause illness ranging from common cold to severe diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], for instance, Middle East Respiratory Syndrome (MERS) [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] and Severe Acute Respiratory Syndrome (SARS) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] in human being",
+        "A 62-year-old male was admitted to our hospital on 15 January, 2020 with pneumonia, and was further diagnosed as COVID-19",
+        "An epidemiological investigation confirmed a Wuhan travel history between 1 January and 14 January of this patient, and the symptoms started on 11 January, 2020, including fever and cough",
+        "The genome sequence of this virus has been submitted to the Global Initiative on Sharing Avian Flu Data (GISAID) with an access number of EPI_ISL_406594, and designated as \u201cBetaCoV/Shenzhen/SZTH-003/2020\u201d",
+        "Underneath the lipid bilayer is the condensed density formed by nucleic acid and nucleocapsid protein of Severe Acute Respiratory Syndrome-CoV2",
+        "S protein of coronavirus consisted of S1 and S2 subunits"
+    ],
+    "headline": "A 62-year-old male was admitted to our hospital on 15 January, 2020 with pneumonia, and was further diagnosed as COVID-19",
+    "contexts": [],
+    "abbreviations": {
+        "MERS": "Middle East Respiratory Syndrome",
+        "SARS": "Severe Acute Respiratory Syndrome",
+        "ICTV": "International Committee on Taxonomy of Viruses",
+        "WHO": "World Health Organization",
+        "ACE2": "angiotensin-converting enzyme 2",
+        "RBD": "receptor binding domain",
+        "BSL-3": "Biosafety Level 3",
+        "BALF": "bronchoalveolar lavage fluid",
+        "CPE": "cytopathic effects",
+        "GISAID": "Global Initiative on Sharing Avian Flu Data",
+        "FBS": "fetal bovine serum",
+        "PS": "penicillin streptomycin",
+        "qRT-PCR": "quantitative reverse transcription polymerase chain reaction",
+        "IFA": "immunofluorescence assay",
+        "ELISA": "Enzyme Linked Immunosorbent Assay",
+        "PBST": "PBS containing 0.1% v/v Tween-20",
+        "HRP": "horseradish peroxidase",
+        "NCBI": "National Center for Biotechnology Information"
+    }
+}

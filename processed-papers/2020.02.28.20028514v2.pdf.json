@@ -1,0 +1,618 @@
+{
+    "filename": "2020.02.28.20028514v2.pdf",
+    "content_type": "application/pdf",
+    "file_size": 76222,
+    "metadata": {
+        "title": "Risk factors related to hepatic injury in patients with corona virus disease 2019",
+        "author": "Lu Li,#, Shuang Li,#, Manman Xu, Pengfei Yu, Sujun Zheng, Zhongping Duan, Jing Liu, Yu Chen, Junfeng Li",
+        "date": 2020,
+        "affiliations": [
+            "Artificial Liver Center, Beijing You\u2019an Hospital, Capital Medical University, Beijing, China, 100069; &2 Beijing Municipal Key Laboratory of Liver Failure and Artificial Liver Treatment Research, Beijing, China, 100069; &3 Hemodialysis Room, Urinary Center, Beijing You\u2019an Hospital, Capital Medical University, Beijing, China,100069; &4 Institute of Infectious Diseases, Department of Infectious Diseases, The First Hospital of Lanzhou University, Lanzhou, Gansu, China, 730000",
+            "Hospital, Capital Medical University, Beijing, 100069, China. E-mail: chybeyond@163.com Junfeng Li Institute of Infectious Diseases, Department of Infectious Diseases, The First Hospital of Lanzhou University,",
+            "Donggangxi Road, 730000, Lanzhou, China"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.02.28.20028514",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.02.28.20028514v2.pdf"
+        },
+        "keywords": [
+            "COVID-19",
+            "hepatic injury",
+            "lymphopenia",
+            "C reactive protein"
+        ],
+        "references": "@book{chen-a,\n  author = {Chen, Wang and W, Horby Peter and G, Hayden Frederick},\n  title = {A novel coronavirus outbreak of global health concern.[J]},\n  publisher = {Lancet, 2020, 395},\n  doi = {10223},\n  pages = {470\u2013473},\n  more-authors = {true},\n  unmatched-doi = {doi: 10.1016/S0140-6736(20)30185-9},\n  language = {}\n}\n@misc{richard-a,\n  author = {Richard, Horton},\n  title = {Offline: 2019-nCoV outbreak-early lessons.[J]},\n  unknown = {Lancet, 2020, 395},\n  doi = {10223},\n  pages = {470\u2013473},\n  unmatched-doi = {doi: 10.1016/S0140-6736(20)30212-9},\n  language = {}\n}\n@article{george-a,\n  author = {George, Luo Guangxiang and Shou-Jiang, Gao},\n  title = {Global health concerns stirred by emerging viral infections.[J]},\n  journal = {J. Med. Virol},\n  volume = {2020},\n  pages = {399\u2013400},\n  doi = {doi: 10.1002/jmv.25683},\n  number = {92},\n  language = {}\n}\n@article{peng2020a,\n  author = {Peng, Zhou and Xing-Lou, Yang and Xian-Guang, Wang},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  medium = {J-OL},\n  journal = {Nature},\n  date = {2020},\n  doi = {doi: 10.1038/s41586-020-2012-7},\n  unmatched-author = {Duarte R, Furtado I, Sousa L,},\n  more-authors = {true},\n  source = {novel coronavirus},\n  unmatched-journal = {et al. The},\n  language = {}\n}\n@article{unknown-a,\n  title = {novel virus, old challenges},\n  medium = {J-OL},\n  journal = {Acta Med Port,2020},\n  volume = {33},\n  pages = {155\u2013157},\n  doi = {doi},\n  url = {https://doi.org/10.20344/amp.13547},\n  language = {}\n}\n@misc{w-a,\n  author = {W.H.O.},\n  title = {WHO Director-General's remarks at the media briefing on 2019-nCoV on 11st February 2020. 2020},\n  language = {}\n}\n@article{nanshan-a,\n  author = {Nanshan, Chen and Min, Zhou and Xuan, Dong},\n  title = {Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.[J]},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {507\u2013513},\n  doi = {doi: 10.1016/S0140-6736(20)30211-7},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@book{dawei-a,\n  author = {Dawei, Wang and Bo, Hu and Chang, Hu},\n  title = {Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.[J]},\n  publisher = {JAMA, 2020. In Press},\n  doi = {doi: 10.1001/jama.2020.1585},\n  more-authors = {true},\n  language = {}\n}\n@article{chaolin-a,\n  author = {Chaolin, Huang and Yeming, Wang and Xingwang, Li},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.[J]},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {497\u2013506},\n  doi = {doi: 10.1016/S0140-6736(20)30183-5},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@misc{fan-a,\n  author = {Fan, Zhenyu and Chen, Liping and Li, Jun},\n  title = {Clinical Features of COVID-19-Related Liver Damage. bioRxiv, 2020},\n  doi = {doi: https://doi.org/10.1101/2020.02.26.20026971},\n  more-authors = {true},\n  language = {}\n}\n@misc{nhco2020a,\n  author = {NHCo, China},\n  title = {Diagnosis and Treatment Scheme of New Coronavirus Infected Pneumonia},\n  date = {2020},\n  language = {}\n}\n@misc{xiaoqiang-a,\n  author = {Xiaoqiang, Chai and Longfei, Hu and Yan, Zhang},\n  title = {Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCov Infection. bioRxiv, 2020},\n  doi = {doi},\n  url = {https://doi.org/10.1101/2020.02.03.931766},\n  more-authors = {true},\n  language = {}\n}\n@book{zhe-a,\n  author = {Zhe, Xu and Lei, Shi and Yijin, Wang},\n  title = {Pathological findings of COVID-19 associated with acute respiratory distress syndrome.[J]},\n  publisher = {Lancet Respir Med, 2020. In Press},\n  doi = {doi: 10.1016/S2213-2600(20)30076-X},\n  more-authors = {true},\n  language = {}\n}\n@article{l-a,\n  author = {L, Holshue Michelle and Chas, DeBolt and Scott, Lindquist},\n  title = {First Case of 2019 Novel Coronavirus in the United States.[J]},\n  journal = {N Engl J Med},\n  volume = {2020},\n  pages = {929\u2013936},\n  doi = {doi: 10.1056/NEJMoa2001191},\n  more-authors = {true},\n  number = {382},\n  language = {}\n}\n@article{weijie2016a,\n  author = {Weijie, Guan and Zhengyi, Ni and Yu, Hu},\n  title = {Clinical characteristics of 2019 novel coronavirus infection in China},\n  journal = {N Engl J Med},\n  volume = {2020},\n  doi = {doi},\n  pages = \"16.de\" # \"523-34.doi: 10.1038/nrmicro.2016.81\",\n  date = {2016},\n  unmatched-author = {Wit Emmie, van Doremalen Neeltje, Falzarano Darryl et al.},\n  more-authors = {true},\n  source = {SARS and MERS: recent insights into emerging coronaviruses.[J},\n  unmatched-journal = {Nat Rev Microbiol.,},\n  unmatched-volume = {10.1056/NEJMoa2002032 14:},\n  unmatched-pages = {523-34.doi: 10.1038/nrmicro.2016.81},\n  language = {}\n}\n@article{jung-yien2006a,\n  author = {Jung-Yien, Chien and Po-Ren, Hsueh and Wern-Cherng, Cheng},\n  title = {Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome.[J]},\n  journal = {Respirology},\n  date = {2006},\n  volume = {11},\n  pages = {715\u201322},\n  doi = {doi: 10.1111/j.1440-1843.2006.00942.x},\n  more-authors = {true},\n  language = {}\n}\n@book{de-a,\n  author = {De, Chang and Minggui, Lin and Lai, Wei},\n  title = {Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside},\n  publisher = {China.[J]. JAMA, 2020},\n  doi = {doi: 10.1001/jama.2020.1623},\n  more-authors = {true},\n  language = {},\n  address = {Wuhan}\n}\n@article{jie-a,\n  author = {Jie, Zhou and Hin, Chu and Cun, Li},\n  title = {Active replication of Middle East respiratory syndrome coronavirus and aberrant induction of inflammatory cytokines and chemokines in human macrophages: implications for pathogenesis.[J]},\n  journal = {J Infect Dis},\n  volume = {2014},\n  pages = {1331\u201342},\n  doi = {doi: 10.1093/infdis/jit504},\n  more-authors = {true},\n  number = {209},\n  language = {}\n}\n@article{hin2016a,\n  author = {Hin, Chu and Jie, Zhou and Ho-Yin, Wong Bosco},\n  title = {Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways.[J]},\n  journal = {J Infect Dis},\n  date = {2016},\n  volume = {213},\n  pages = {904\u201314},\n  doi = {doi: 10.1093/infdis/jiv380},\n  more-authors = {true},\n  language = {}\n}\n@article{r2012a,\n  author = {R, Tisoncik Jennifer and J, Korth Marcus and P, Simmons Cameron},\n  title = {Into the eye of the cytokine storm.[J]},\n  journal = {Microbiol Mol Biol Rev},\n  date = {2012},\n  volume = {76},\n  pages = {16\u201332},\n  doi = {doi: 10.1128/MMBR.05015-11},\n  more-authors = {true},\n  language = {}\n}\n@article{dong2007a,\n  author = {Dong, Kim Kwang and Jie, Zhao and Sogyong, Auh},\n  title = {Adaptive immune cells temper initial innate responses.[J]},\n  journal = {Nat Med},\n  date = {2007},\n  volume = {13},\n  pages = {1248\u201352},\n  doi = {doi: 10.1038/nm1633},\n  more-authors = {true},\n  language = {}\n}\n@article{w2007a,\n  author = {W, Palm Noah and Ruslan, Medzhitov},\n  title = {Not so fast: adaptive suppression of innate immunity.[J]},\n  journal = {Nat Med},\n  date = {2007},\n  volume = {13},\n  pages = {1142\u20134},\n  doi = {doi: 10.1038/nm1007-1142b},\n  url = {https://doi.org/10.1101/2020.02.16.20023671.},\n  unmatched-author = {24. Liu Jing, Li Sumeng, Liu Jia, et al.},\n  source = {Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients.medRxiv, 2020.doi},\n  language = {}\n}\n",
+        "emails": [
+            "junfenglee@126.com",
+            "chybeyond@163.com"
+        ],
+        "references_ris": "TY  - BOOK\nAU  - Chen, Wang\nAU  - W, Horby Peter\nAU  - G, Hayden Frederick\nTI  - A novel coronavirus outbreak of global health concern.[J]\nPB  - Lancet, 2020, 395\nDO  - 10223\nSP  - 470\nEP  - 473\nC1  - true\nC1  - doi: 10.1016/S0140-6736(20)30185-9\nLA  - \nER  - \n\nTY  - GEN\nAU  - Richard, Horton\nTI  - Offline: 2019-nCoV outbreak-early lessons.[J]\nC1  - Lancet, 2020, 395\nDO  - 10223\nSP  - 470\nEP  - 473\nC1  - doi: 10.1016/S0140-6736(20)30212-9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - George, Luo Guangxiang\nAU  - Shou-Jiang, Gao\nTI  - Global health concerns stirred by emerging viral infections.[J]\nT2  - J. Med. Virol\nVL  - 2020\nSP  - 399\nEP  - 400\nDO  - 10.1002/jmv.25683\nIS  - 92\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peng, Zhou\nAU  - Xing-Lou, Yang\nAU  - Xian-Guang, Wang\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nC1  - J-OL\nT2  - Nature\nPY  - 2020\nDA  - 2020\nDO  - 10.1038/s41586-020-2012-7\nC1  - Duarte R, Furtado I, Sousa L,\nC1  - true\nT2  - novel coronavirus\nC1  - et al. The\nLA  - \nER  - \n\nTY  - JOUR\nTI  - novel virus, old challenges\nC1  - J-OL\nT2  - Acta Med Port,2020\nVL  - 33\nSP  - 155\nEP  - 157\nDO  - doi\nUR  - https://doi.org/10.20344/amp.13547\nLA  - \nER  - \n\nTY  - GEN\nAU  - W.H.O.\nTI  - WHO Director-General's remarks at the media briefing on 2019-nCoV on 11st February 2020. 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nanshan, Chen\nAU  - Min, Zhou\nAU  - Xuan, Dong\nTI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.[J]\nT2  - Lancet\nVL  - 2020\nSP  - 507\nEP  - 513\nDO  - 10.1016/S0140-6736(20)30211-7\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Dawei, Wang\nAU  - Bo, Hu\nAU  - Chang, Hu\nTI  - Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.[J]\nPB  - JAMA, 2020. In Press\nDO  - 10.1001/jama.2020.1585\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chaolin, Huang\nAU  - Yeming, Wang\nAU  - Xingwang, Li\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.[J]\nT2  - Lancet\nVL  - 2020\nSP  - 497\nEP  - 506\nDO  - 10.1016/S0140-6736(20)30183-5\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - GEN\nAU  - Fan, Zhenyu\nAU  - Chen, Liping\nAU  - Li, Jun\nTI  - Clinical Features of COVID-19-Related Liver Damage. bioRxiv, 2020\nDO  - https://doi.org/10.1101/2020.02.26.20026971\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - NHCo, China\nTI  - Diagnosis and Treatment Scheme of New Coronavirus Infected Pneumonia\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - Xiaoqiang, Chai\nAU  - Longfei, Hu\nAU  - Yan, Zhang\nTI  - Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCov Infection. bioRxiv, 2020\nDO  - doi\nUR  - https://doi.org/10.1101/2020.02.03.931766\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Zhe, Xu\nAU  - Lei, Shi\nAU  - Yijin, Wang\nTI  - Pathological findings of COVID-19 associated with acute respiratory distress syndrome.[J]\nPB  - Lancet Respir Med, 2020. In Press\nDO  - 10.1016/S2213-2600(20)30076-X\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - L, Holshue Michelle\nAU  - Chas, DeBolt\nAU  - Scott, Lindquist\nTI  - First Case of 2019 Novel Coronavirus in the United States.[J]\nT2  - N Engl J Med\nVL  - 2020\nSP  - 929\nEP  - 936\nDO  - 10.1056/NEJMoa2001191\nC1  - true\nIS  - 382\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Weijie, Guan\nAU  - Zhengyi, Ni\nAU  - Yu, Hu\nTI  - Clinical characteristics of 2019 novel coronavirus infection in China\nT2  - N Engl J Med\nVL  - 2020\nDO  - doi\nSP  - \"16.de\" # \"523\nEP  - 34.doi: 10.1038/nrmicro.2016.81\"\nPY  - 2016\nDA  - 2016\nC1  - Wit Emmie, van Doremalen Neeltje, Falzarano Darryl et al.\nC1  - true\nT2  - SARS and MERS: recent insights into emerging coronaviruses.[J\nC1  - Nat Rev Microbiol.,\nC1  - 10.1056/NEJMoa2002032 14:\nC1  - 523-34.doi: 10.1038/nrmicro.2016.81\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jung-Yien, Chien\nAU  - Po-Ren, Hsueh\nAU  - Wern-Cherng, Cheng\nTI  - Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome.[J]\nT2  - Respirology\nPY  - 2006\nDA  - 2006\nVL  - 11\nSP  - 715\nEP  - 22\nDO  - 10.1111/j.1440-1843.2006.00942.x\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - De, Chang\nAU  - Minggui, Lin\nAU  - Lai, Wei\nTI  - Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside\nPB  - China.[J]. JAMA, 2020\nDO  - 10.1001/jama.2020.1623\nC1  - true\nLA  - \nCY  - Wuhan\nER  - \n\nTY  - JOUR\nAU  - Jie, Zhou\nAU  - Hin, Chu\nAU  - Cun, Li\nTI  - Active replication of Middle East respiratory syndrome coronavirus and aberrant induction of inflammatory cytokines and chemokines in human macrophages: implications for pathogenesis.[J]\nT2  - J Infect Dis\nVL  - 2014\nSP  - 1331\nEP  - 42\nDO  - 10.1093/infdis/jit504\nC1  - true\nIS  - 209\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hin, Chu\nAU  - Jie, Zhou\nAU  - Ho-Yin, Wong Bosco\nTI  - Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways.[J]\nT2  - J Infect Dis\nPY  - 2016\nDA  - 2016\nVL  - 213\nSP  - 904\nEP  - 14\nDO  - 10.1093/infdis/jiv380\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - R, Tisoncik Jennifer\nAU  - J, Korth Marcus\nAU  - P, Simmons Cameron\nTI  - Into the eye of the cytokine storm.[J]\nT2  - Microbiol Mol Biol Rev\nPY  - 2012\nDA  - 2012\nVL  - 76\nSP  - 16\nEP  - 32\nDO  - 10.1128/MMBR.05015-11\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Dong, Kim Kwang\nAU  - Jie, Zhao\nAU  - Sogyong, Auh\nTI  - Adaptive immune cells temper initial innate responses.[J]\nT2  - Nat Med\nPY  - 2007\nDA  - 2007\nVL  - 13\nSP  - 1248\nEP  - 52\nDO  - 10.1038/nm1633\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - W, Palm Noah\nAU  - Ruslan, Medzhitov\nTI  - Not so fast: adaptive suppression of innate immunity.[J]\nT2  - Nat Med\nPY  - 2007\nDA  - 2007\nVL  - 13\nSP  - 1142\nEP  - 4\nDO  - 10.1038/nm1007-1142b\nUR  - https://doi.org/10.1101/2020.02.16.20023671.\nC1  - 24. Liu Jing, Li Sumeng, Liu Jia, et al.\nT2  - Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients.medRxiv, 2020.doi\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Characteristics of the patients with COVID-19"
+            },
+            {
+                "id": "2",
+                "caption": "Comparison of baseline data of the COVID-19 patients between normal and abnormal liver function group"
+            },
+            {
+                "id": "3",
+                "caption": "Multivariate analysis of COVID-19 patients with abnormal liver function"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.02.28.20028514v2.xlsx"
+    },
+    "sections": {
+        "aims": [
+            "Corona virus disease 2019 (COVID-19) has rapidly become the most severe public health issue all over the world. Despite respiratory symptoms, hepatic injury has also been observed in clinical settings. This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19. Methods: A total of 85 hospitalized patients who were diagnosed with COVID-19 in Beijing You\u2019an Hospital were retrospectively analyzed. According to liver function, they were divided into ALT normal group (n=52) and ALT elevation group (n=33). Clinical features and laboratory data were compared between the two groups. The independent risk factors for liver injury were analyzed. Results: There were 33 patients with hepatic injury in our study, accounting for 38.8% (33/85). The patients in ALT elevation group were older than those in ALT normal group. The levels of lactic acid, CRP, myoglobin, and neutrophils were significantly higher in ALT elevation group. The lymphocytes and albumin were significantly lower in ALT elevation group. The proportion of severe and critical patients in ALT elevation group was significantly higher. Multivariate logistic regression analysis showed CRP \u226520 mg/L and lymphocyte count< 1.1\u00d710^9/L were independently related to hepatic injury. Conclusions: Lymphopenia and CRP may serve as the risk factors related to hepatic injury in patients with COVID-19, which might be related to inflammatory cytokine storm in liver injury. Early detection and timely treatment of hepatic injury in patients with COVID-19 are necessary.<br/><br/>Key words: COVID-19, hepatic injury, lymphopenia, C reactive protein"
+        ],
+        "methods": [
+            "Study design and patient selection From January 21st, 2020 to February 29th, 2020, a total of 85 consecutive patients with COVID-19 were admitted and treated in Beijing You\u2019an Hospital, Capital Medical University, Beijing, China. The diagnosis criteria of COVID-19 are based on the detection of nucleic acid, the epidemiological history, clinical feature or laboratory testing and imaging[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].<br/><br/>The clinical classifications are as follows: (1) Mild: only mild symptoms, no sign of pneumonia in imaging. (2) Ordinary: with fever, respiratory tract symptoms, and imaging shows pneumonia. (3) Severe: meet any of the following: a) respiratory distress, respiratory rate \u2265 30 beats / min; b) in the resting state, means oxygen saturation \u2264 93%; c) arterial blood oxygen partial pressure/ oxygen concentration \u2264<br/><br/>300mmHg (1mmHg = 0.133kPa). Pulmonary imaging showed that the lesions progressed more than 50% within 24-48 hours, and the patients were managed according to moderate case. (4) Critical: one of the following conditions: a) respiratory failure occurs and requires mechanical ventilation; b) Shock occurs; c) ICU admission is required for combined organ failure.<br/><br/>This retrospective study was performed in accordance with the ethical guidelines of the Helsinki Declaration of 1975 and was authorized by the Institutional Review Board of Beijing You\u2019an Hospital, Capital Medical University (Approval No.<br/><br/>2020-022). The informed consent was waived by the IRB because this study was a retrospective assessment. Baseline data collection<br/><br/>The laboratory data of 85 patients at admission were collected. Laboratory assessments consisted of complete blood count, blood chemistry, coagulation test, liver and renal function, C-reactive protein, procalcitonin, lactic acid, cardiac markers. Statistical analysis<br/><br/>Age and days were represented by median (range), categorical variables by number (%), and laboratory data by mean (interquartile range). Compared the differences between the two groups with t-test, chi-square test or Mann-Whitney U test. Logistic regression was used to select independent risk factors that affect abnormal liver function. Analyses were performed using SPSS 22.0 statistical package (SPSS, Inc., Chicago, IL, USA). P-value < 0.05 was considered statistically significant."
+        ],
+        "results": [
+            "Clinical characteristics of patients with COVID-19 The characteristics of patients with COVID-19 in the present study were shown in Table 1. The median age of the patients with COVID-19 was 49 years old, the sex ratio was similar. The average ALT value was 28U/L. The average value of total bilirubin and direct bilirubin were in the normal range. The average level of creatinine was normal. C-reactive protein increased significantly, the average value of lymphocyte was close to the normal low value. The median value of creatine kinase was normal. In terms of clinical classification, the proportion of patients with ordinary type was 42.3%, followed by severe and critical patients. The proportion and incidence rate of abnormal liver function<br/><br/>There were 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8% (33/85), including elevated ALT and AST (Table 2). And 24.7% (21/85) of them with ALT elevation on admission. Among the<br/><br/>21 patients presenting with abnormal liver function at admission, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN). 14.1% of patients (12/85) had abnormal liver function during the whole process of hospitalization. All of them are mild and medium elevation of ALT. Six patients with chronic hepatic diseases were enrolled in our study. There was no abnormal liver function in two patients with HBV infection. There were two patients with alcoholic liver disease, one of them had moderate elevation of ALT (120U/L) within one week after admission, the other one had no liver injury. There were two patients with fatty liver, one patient had mild liver injury on admission, the other one had liver injury on 3 days after admission. Comparison of baseline data of the COVID-19 patients between normal and abnormal liver function group<br/><br/>The results were shown in Table 2. The median age of the two groups was statistically different, the ALT elevation group was 59 years old and the ALT normal group was 44.5 years old. Compared with patients with normal liver function, patients who had elevated ALT were more likely to have drinking history. Albumin in ALT elevation group were significantly lower than those in the ALT normal group (33.4\u00b14.3 vs 37.8\u00b14.8, P = 0.000). The bilirubin level was normal between the two groups. The level of lactic acid was significantly higher in the ALT elevation group (1.5\u00b10.6 vs 1.2\u00b10.5, P = 0.037). The number of lymphocytes in ALT elevation group was significantly lower than that in ALT normal group (0.8 vs 1.4, P = 0.000). However, the level of CRP was significantly higher in the ALT normal group (39.7 vs 37.4, P = 0.000). At the same time, the number of neutrophils and myoglobin also increased in ALT elevation group than in ALT normal group. The proportion of severe and critical patients in the ALT elevation group was significantly higher, reaching 61.5%. The factor related to ALT elevation in Multivariate analysis<br/><br/>Multivariate logistic regression was performed to analyze the factors including<br/><br/>, age, drinking history, baseline albumin, lactic acid, CRP, neutrophils, lymphocytes myoglobin and clinical classification. It was found that the CRP \u226520 mg/L and<br/><br/>\u00d7 lymphocyte count< 1.1 10^9/L were independently related to ALT elevation. (Table    3)"
+        ],
+        "discussion": [
+            "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19. After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, we found that the level of lymphopenia and CRP were independently associated with hepatic injury, and our study suggested inflammatory cytokine storm might be the major mechanism.<br/><br/>As the number of patients with COVID-19 continues to rise, liver injury is frequently reported as extra-pulmonary clinical feature. Some recent studies revealed that nearly a half of patients experienced different degrees of liver injury7.8. However, as far as we know, there is no study on the factors of liver injury. Such as SARS, SARS-CoV-2 uses the same cell entry receptor angiotensin converting enzyme-II4, which is expressed in the liver tissue as well. A lately research showed that bile duct cells had higher specific expression of angiotensin converting enzyme-II than hepatocytes[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], which indicated the possibility of SARS-CoV-2 infected bile duct cells directly and caused hepatic injury. It\u2019s suggested that bile duct epithelial cells may play a key role in immunoreaction. However, clinical data from two researches showed that the bile duct injury related indexes alkaline phosphatase, gamma-glutamyl transpeptidase and total bilirubin did not increase significantly[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>,<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. In our study, the hepatic injury of patients was mainly reflected through mild or medium elevation of ALT, and the level of serum TBIL was almost normal. Moreover, the pathological results of liver biopsy showed moderate microvascular steatosis and active inflammation in the hepatic lobule portal area[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Due to the use of lopinavir/ritonavir during treatment, it is difficult to distinguish the reason of liver injury according to the pathological results. Although the cell entry receptor angiotensin converting enzyme-II is highly expressed in bile duct cells, recent works and our findings suggested that SARS-CoV-2 infection did not cause an obvious bile duct injury. Thus, SARS-COV-2 infection may not be the major reason related to liver injury.<br/><br/>In our study, there were a total of 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8%. And 24.7% (21/85) of them showed ALT elevation on admission. Among the 21 patients presenting with hepatic injury, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN). The results suggested that COVID-19-related hepatic injury was not serious at the beginning of the disease, which was consistent with previous researches. Compared with other study[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the higher proportion of patients with liver injury at admission might be related to the number of samples and the different periods from onset to hospitalization in our study.<br/><br/>Among the patients presenting with abnormal liver function in the present study, moderate and severe types of patients were more likely to have liver injury, accounting for 58.8% and 66.7%. This indication was consistent with Academician Nanshan Zhong \u2019s recent clinical research on acute respiratory syndrome caused by COVID-19, which involved the largest scale of data so far[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. It suggested that hepatic injury likely occurred in patients under critical care. Moreover, in our study, a positive correlative relationship between the lymphopenia and liver injury. Based on previous studies[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>,<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>], lymphopenia is typical laboratory indicator during highly pathogenic coronavirus infections, such as the SARS-CoV and MERS-CoV infection, and is believed to be associated with disease severity. Recent studies revealed that 63%-70.3%<br/><br/>of SARS-CoV-2 infected patients with severe diseases have lymphopenia and the low level of lymphocyte counts in patients is associated with mortal outcome[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. Therefore, our results suggested that the occurrence of hepatic injury was related to the deterioration of the disease with a dynamic process. In addition, six cases with chronic hepatic diseases were enrolled in our study, however there was no significant difference between the abnormal liver function group and normal liver function group. This might be related to the fact that most of the inpatients were ordinary type[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].<br/><br/>Previous studies have shown that inflammatory cytokine storm is associated with severe lung injury and adverse outcomes of SARS-CoV or MERS-CoV infection 17,19,20. Inflammatory cytokine storm is an overactive inflammatory response of the human body caused by virus infection, which leads to a persistent activation and reproduction of lymphocytes and macrophages that will secrete huge amount of inflammatory cytokine[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Inflammatory cytokine storm not only leads to pulmonary injury, but also the injury of non-pulmonary organs including the liver, kidneys and cardiac muscle. And some studies have found the liver damage is more common in patients with severe pneumonia, which is suspected to be associated with inflammatory factor storm[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. In our study, patients with liver damage had higher elevated CRP level. As a typical inflammatory index, CRP is an acute phase protein that rapidly increase in the presence of infection or tissue damage. Additionally, lymphocyte cells are important for inhibiting overactive innate immune responses during viral infection[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>,<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. Thus, loss of lymphocyte cells during SARS-CoV-2 infection may result in aggravated inflammatory responses. The significant decreases in the counts of lymphocyte cells, especially CD8+T cells, as well as increases in IL-6, IL-10, IL-2 and IFN-\u03b3 levels in the peripheral blood of patients with COVID-1924.<br/><br/>While T cell counts drop to the lowest levels, serum level of inflammatory cytokines reach their peaks in a few days after the onset of COVID-19. It suggests that inflammatory cytokines are involved in the process at the early stage, which can explain the reason for the patients with mild liver injury.<br/><br/>Compared with the inflammatory damage of lung, the inflammatory damage of liver was relatively mild by autopsy analysis[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. This result may explain that no one develop to liver failure or severe hepatitis in our study, even in severe cases. 14.1% of patients (12/85) had liver injury during the whole process of hospitalization. All of them are mild and medium elevation of ALT. After liver protection treatment, the liver function of most patients was improved within one or two weeks.<br/><br/>Our study also observed the patients had a decline of serum albumin, though there was no obvious difference between the two groups. It was more likely due to the patients\u2019 hyper metabolic state presenting with fever, malnutrition and low caloric intake, suggesting the importance of nutritional support therapy. Moreover, hyperlactatemia reflects hypoxia injury and may be related to liver injury, our results showed that hyperlactatemia was related to liver injury, but it turned to negative after multivariate analysis. The change of result may be related to our sample size, which needs further study and confirmation.<br/><br/>There were some limitations in our study. The data were collected from a single center at a certain timepoint. So, the sample size was relatively limited. And large-sample cohort studies are still needed to verify this in the future. In conclusion, hepatic injury is likely a complication of COVID-19 infection.<br/><br/>Inflammatory cytokine storm may be the major mechanism. Early detection and timely treatment are helpful for the recovery of liver function."
+        ],
+        "disclosures": [
+            "The authors declare that there is no conflict of interest regarding the publication of this paper."
+        ],
+        "acknowledgments": [
+            "This study was funded by National Science and Technology Key Project on \u201cMajor Infectious Diseases such as HIV/AIDS, Viral Hepatitis Preventon and Treatment\u201d (NO. 2017ZX10203201-005), Beijing Municipal Administration of Hospitals Clinical Medicine Development of Special Funding Support (NO. ZYLX201806), National Key R&D Program of China (No.2017YFA0103000), Medical Science Research Project Support by Bethune Charitable Foundation    Reference<br/><br/>1. Wang Chen, Horby Peter W, Hayden Frederick G, et al A novel coronavirus outbreak of global health concern.[J] . Lancet, 2020, 395 (10223):470-473. doi:10.1016/S0140-6736(20)30185-9 2. Horton Richard. Offline: 2019-nCoV outbreak-early lessons.[J] .Lancet, 2020, 395 (10223):470-473. doi:10.1016/S0140-6736(20)30212-9 3. Luo Guangxiang George, Gao Shou-Jiang. Global health concerns stirred by emerging viral infections.[J] .J. Med. Virol., 2020, 92(4):[399-400].<br/><br/>doi:10.1002/jmv.25683 4. Zhou Peng, Yang Xing-Lou , Wang Xian-Guang, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. [J/OL]. Nature, (2020-02-03) . doi:10.1038/s41586-020-2012-7<br/><br/>: 5. Duarte R, Furtado I, Sousa L,et al The 2019 novel coronavirus (2019-nCoV)<br/><br/>novel virus, old challenges. [J/OL]. Acta Med Port,2020, 33:155-157. doi: https://doi.org/10.20344/amp.13547 6. WHO. WHO Director-General's remarks at the media briefing on 2019-nCoV on 11st February 2020. 2020. 7. Chen Nanshan, Zhou Min, Dong Xuan, et al Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.[J] .Lancet, 2020, 395: 507-513. doi:10.1016/S0140-6736(20)30211-7 8. Wang Dawei, Hu Bo, Hu Chang, et al Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.[J] .JAMA, 2020. In Press doi:10.1001/jama.2020.1585 9. Huang Chaolin,Wang Yeming,Li Xingwang et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.[J] .Lancet, 2020, 395(10223): 497-506. doi:10.1016/S0140-6736(20)30183-5 10. Zhenyu Fan, Liping Chen, Jun Li, et al Clinical Features of COVID-19-Related Liver Damage. bioRxiv, 2020. doi: https://doi.org/10.1101/2020.02.26.20026971 11. China NHCo. Diagnosis and Treatment Scheme of New Coronavirus Infected Pneumonia. 2020. 12. Chai Xiaoqiang, Hu Longfei, Zhang Yan, et al Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCov Infection. bioRxiv, 2020.<br/><br/>doi: https://doi.org/10.1101/2020.02.03.931766 13. Xu Zhe,Shi Lei,Wang Yijin et al Pathological findings of COVID-19 associated with acute respiratory distress syndrome.[J] .Lancet Respir Med, 2020. In Press doi:10.1016/S2213-2600(20)30076-X 14. Holshue Michelle L, DeBolt Chas, Lindquist Scott, et al First Case of 2019 Novel Coronavirus in the United States.[J] .N Engl J Med, 2020, 382: 929-936. doi:10.1056/NEJMoa2001191 15. Guan Weijie, Ni Zhengyi, Hu Yu, et al Clinical characteristics of 2019 novel coronavirus infection in China. N Engl J Med, 2020. doi:: 10.1056/NEJMoa2002032 16. de Wit Emmie,van Doremalen Neeltje,Falzarano Darryl et al SARS and MERS: recent insights into emerging coronaviruses.[J] .Nat Rev Microbiol., 2016, 14: 523-34. doi:10.1038/nrmicro.2016.81 17. Chien Jung-Yien,Hsueh Po-Ren,Cheng Wern-Cherng et al Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome.[J] .Respirology, 2006, 11: 715-22. doi:10.1111/j.1440-1843.2006.00942.x 18. Chang De,Lin Minggui,Wei Lai, et al Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside Wuhan, China.[J] .JAMA, 2020. doi:10.1001/jama.2020.1623 19. Zhou Jie, Chu Hin,Li Cun, et al Active replication of Middle East respiratory syndrome coronavirus and aberrant induction of inflammatory cytokines and chemokines in human macrophages: implications for pathogenesis.[J] .J Infect Dis, 2014, 209: 1331-42. doi:10.1093/infdis/jit[504 <a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Chu Hin, Zhou Jie,Wong Bosco Ho-Yin, et al Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways.[J] .J Infect Dis, 2016, 213: 904-14.<br/><br/>doi:10.1093/infdis/jiv[380 <a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Tisoncik Jennifer R, Korth Marcus J, Simmons Cameron P, et al Into the eye of the cytokine storm.[J] .Microbiol Mol Biol Rev, 2012, 76: 16-32. doi:10.1128/MMBR.05015-11 22. Kim Kwang Dong,Zhao Jie,Auh Sogyong et al Adaptive immune cells temper initial innate responses.[J] .Nat Med, 2007, 13: 1248-52. doi:10.1038/nm1633 23. Palm Noah W,Medzhitov Ruslan,Not so fast: adaptive suppression of innate immunity.[J] .Nat Med, 2007, 13: 1142-4. doi:10.1038/nm1007-1142b 24. Liu Jing, Li Sumeng, Liu Jia, et al Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients. medRxiv, 2020. doi: https://doi.org/10.1101/2020.02.16.20023671.<br/><br/>Indicators Age(years) Sex: Female, n(%) ALT(U/L) AST(U/L) Albumin(g/L) Total bilirubin (\u03bcmol/L) Direct bilirubin (\u03bcmol/L) Creatinine (\u03bcmol/L) Lactic acid(mmol/L) C-reactive protein(mg/L) White blood cell (10^9/L) Hemoglobin (g/L) Platelet (10^9/L) Neutrophil count(\u00d710^9/L) Lymphocyte(\u00d710^9/L)<br/><br/>Monocyte(\u00d710^9/L)<br/><br/>Creatine Kinase(U/L) Creatine Kinase Isoenzyme-MB(U/L) Troponin I Myoglobin<br/><br/>INR History of liver diseases, n(%)<br/><br/>, Clinical types n(%)<br/><br/>Value 49.0(36.0, 64.0) 38(44.7) 28.0(19.5, 44.5) 29.0(20.5, 38.5) 36.9\u00b15.1 9.2(6.4, 12.1) 1.8(1.2, 2.5) 61.0(53.0, 74.5) 1.3\u00b10.6 17.0(2.6, 37.2) 4.4(3.5, 5.9) 133.7\u00b116.1 193.0(161.0, 233.0) 2.8(1.8, 4.1) 1.1(0.7,1.6)    0.3(0.2,0.4)<br/><br/>76.0(46.0, 120.0) 0.3(0.2,0.7) 0.01(0.01,0.02) 40.0(28.5,63.5)    1.1\u00b10.1 6(7)<br/><br/>Mild type Ordinary type Severe type Critical type<br/><br/>4(4.7) 55(64.7) 17(20.0) 9(10.6)    Indicators    Age(years)<br/><br/>, Sex: Female n(%)<br/><br/>Drinking history, n(%) Yes No<br/><br/>With other liver diseases    ,n(%)<br/><br/>Ibuprofen, n(%) Yes No<br/><br/>Albumin(g/L) Total bilirubin (\u03bcmol/L) Direct bilirubin (\u03bcmol/L)<br/><br/>Creatinine (\u03bcmol/L) Lactic acid(mmol/L)<br/><br/>C-reactive protein(mg/L) White blood cell (*10^9/L) Hemoglobin (g/L)<br/><br/>Platelet (*10^9/L)<br/><br/>Neutrophil count(*10^9/L) Lymphocyte count(*10^9/L)<br/><br/>Monocyte count(*10^9/L)<br/><br/>Creatine Kinase(U/L) Creatine Kinase Isoenzyme-MB(U/L)    TroponinI<br/><br/>ALT normal group (n=52)<br/><br/>, 44.5(31.0 61.5)    29 (57.7)    3(5.8)    1.2\u00b10.5    132.6\u00b117.0<br/><br/>ALT elevation group (n=33)    18 (54.5)    3(9.1)    1.5\u00b10.6    135.4\u00b114.6<br/><br/>Myoglobin INR Clinical classification, n (%)<br/><br/>Mild and Ordinary type<br/><br/>Severe type Critical type    1.1\u00b10.1<br/><br/>42(80.7) 7(13.5) 3(5.8)    1.2\u00b10.1<br/><br/>17(51.5) 10(30.3) 6(18.2)<br/><br/>C-reactive protein level \u226520 mg/L<br/><br/>Lymphocyte count< 1.1*10^9/L<br/><br/>OR: Odds ratio, CI: Confidence interval<br/><br/>OR (95%CI) 3.206(1.262~8.144) 0.263(0.104~0.667)<br/><br/>P value 0.014 0.005"
+        ],
+        "funding": [
+            "This study was funded by National Science and Technology Key Project on \u201cMajor Infectious Diseases such as HIV/AIDS, Viral Hepatitis Preventon and Treatment\u201d (NO. 2017ZX10203201-005), Beijing Municipal Administration of Hospitals Clinical Medicine Development of Special Funding Support (NO"
+        ],
+        "ethical_compliance": [
+            "This retrospective study was performed in accordance with the ethical guidelines of the Helsinki Declaration of 1975 and was authorized by the Institutional Review Board of Beijing You\u2019an Hospital, Capital Medical University (Approval No"
+        ],
+        "limitations": [
+            "There were some limitations in our study. The data were collected from a single center at a certain timepoint. So, the sample size was relatively limited. And large-sample cohort studies are still needed to verify this in the future. In conclusion, hepatic injury is likely a complication of COVID-19 infection."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "Aims: Corona virus disease 2019 (COVID-19) has rapidly become the most severe public health issue all over the world. Despite respiratory symptoms, hepatic injury has also been observed in clinical settings. This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19. Methods: A total of 85 hospitalized patients who were diagnosed with COVID-19 in Beijing You\u2019an Hospital were retrospectively analyzed. According to liver function, they were divided into ALT normal group (n=52) and ALT elevation group (n=33). Clinical features and laboratory data were compared between the two groups. The independent risk factors for liver injury were analyzed. Results: There were 33 patients with hepatic injury in our study, accounting for 38.8% (33/85). The patients in ALT elevation group were older than those in ALT normal group. The levels of lactic acid, CRP, myoglobin, and neutrophils were significantly higher in ALT elevation group. The lymphocytes and albumin were significantly lower in ALT elevation group. The proportion of severe and critical patients in ALT elevation group was significantly higher. Multivariate logistic regression analysis showed CRP \u226520 mg/L and lymphocyte count< 1.1\u00d710^9/L were independently related to hepatic injury. Conclusions: Lymphopenia and CRP may serve as the risk factors related to hepatic injury in patients with COVID-19, which might be related to inflammatory cytokine storm in liver injury. Early detection and timely treatment of hepatic injury in patients with COVID-19 are necessary."
+        ],
+        "Introduction": [
+            "( The corona virus disease 2019 COVID-19), a severe public health issue in the world, is a newly emerging infectious disease caused by a novel coronavirus SARS-CoV-2, which may develop to acute respiratory distress syndrome or multiple organs failure[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. It\u2019s reported that this novel coronavirus is identified to the species of Severe Acute Respiratory Syndrome related-Coronavirus (SARSr-CoV) which belongs to the beta-coronavirus family and share 79.6% sequence identity to SARS-CoV 4. Based on the phylogeny, taxonomy and established practice, it was officially named as SARS-CoV-25, and the disease caused by SARS-CoV-2 was named as COVID-19 6.",
+            "Despite atypical pneumonia as the primary symptom, liver dysfunction has also been observed in many clinical cases[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], indicating a possibility for the patients with COVID-19 may cause hepatic injury. Except that part of patients receiving lopinavir/ritonavir during hospitalization, which can cause drug-induced hepatic injury[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], the underlying mechanisms for hepatic injury in patients with COVID-19 are still unclear. And there are few of clinical research regarding on this issue and it remains controversial now.",
+            "Therefore, the present study aimed to investigate the changes of liver injury in the patients with COVID-19 retrospectively, and analyzed the clinical features and laboratory data to seek the possible risk factors of liver injury in patients with COVID-19. The findings provide new clues and data for the mechanisms of liver injury in patients with COVID-19."
+        ],
+        "Methods": [
+            "Study design and patient selection From January 21st, 2020 to February 29th, 2020, a total of 85 consecutive patients with COVID-19 were admitted and treated in Beijing You\u2019an Hospital, Capital Medical University, Beijing, China. The diagnosis criteria of COVID-19 are based on the detection of nucleic acid, the epidemiological history, clinical feature or laboratory testing and imaging[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].",
+            "The clinical classifications are as follows: (1) Mild: only mild symptoms, no sign of pneumonia in imaging. (2) Ordinary: with fever, respiratory tract symptoms, and imaging shows pneumonia. (3) Severe: meet any of the following: a) respiratory distress, respiratory rate \u2265 30 beats / min; b) in the resting state, means oxygen saturation \u2264 93%; c) arterial blood oxygen partial pressure/ oxygen concentration \u2264",
+            "300mmHg (1mmHg = 0.133kPa). Pulmonary imaging showed that the lesions progressed more than 50% within 24-48 hours, and the patients were managed according to moderate case. (4) Critical: one of the following conditions: a) respiratory failure occurs and requires mechanical ventilation; b) Shock occurs; c) ICU admission is required for combined organ failure.",
+            "This retrospective study was performed in accordance with the ethical guidelines of the Helsinki Declaration of 1975 and was authorized by the Institutional Review Board of Beijing You\u2019an Hospital, Capital Medical University (Approval No.",
+            "2020-022). The informed consent was waived by the IRB because this study was a retrospective assessment. Baseline data collection",
+            "The laboratory data of 85 patients at admission were collected. Laboratory assessments consisted of complete blood count, blood chemistry, coagulation test, liver and renal function, C-reactive protein, procalcitonin, lactic acid, cardiac markers. Statistical analysis",
+            "Age and days were represented by median (range), categorical variables by number (%), and laboratory data by mean (interquartile range). Compared the differences between the two groups with t-test, chi-square test or Mann-Whitney U test. Logistic regression was used to select independent risk factors that affect abnormal liver function. Analyses were performed using SPSS 22.0 statistical package (SPSS, Inc., Chicago, IL, USA). P-value < 0.05 was considered statistically significant."
+        ],
+        "Results": [
+            "Clinical characteristics of patients with COVID-19 The characteristics of patients with COVID-19 in the present study were shown in Table 1. The median age of the patients with COVID-19 was 49 years old, the sex ratio was similar. The average ALT value was 28U/L. The average value of total bilirubin and direct bilirubin were in the normal range. The average level of creatinine was normal. C-reactive protein increased significantly, the average value of lymphocyte was close to the normal low value. The median value of creatine kinase was normal. In terms of clinical classification, the proportion of patients with ordinary type was 42.3%, followed by severe and critical patients. The proportion and incidence rate of abnormal liver function",
+            "There were 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8% (33/85), including elevated ALT and AST (Table 2). And 24.7% (21/85) of them with ALT elevation on admission. Among the",
+            "21 patients presenting with abnormal liver function at admission, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN). 14.1% of patients (12/85) had abnormal liver function during the whole process of hospitalization. All of them are mild and medium elevation of ALT. Six patients with chronic hepatic diseases were enrolled in our study. There was no abnormal liver function in two patients with HBV infection. There were two patients with alcoholic liver disease, one of them had moderate elevation of ALT (120U/L) within one week after admission, the other one had no liver injury. There were two patients with fatty liver, one patient had mild liver injury on admission, the other one had liver injury on 3 days after admission. Comparison of baseline data of the COVID-19 patients between normal and abnormal liver function group",
+            "The results were shown in Table 2. The median age of the two groups was statistically different, the ALT elevation group was 59 years old and the ALT normal group was 44.5 years old. Compared with patients with normal liver function, patients who had elevated ALT were more likely to have drinking history. Albumin in ALT elevation group were significantly lower than those in the ALT normal group (33.4\u00b14.3 vs 37.8\u00b14.8, P = 0.000). The bilirubin level was normal between the two groups. The level of lactic acid was significantly higher in the ALT elevation group (1.5\u00b10.6 vs 1.2\u00b10.5, P = 0.037). The number of lymphocytes in ALT elevation group was significantly lower than that in ALT normal group (0.8 vs 1.4, P = 0.000). However, the level of CRP was significantly higher in the ALT normal group (39.7 vs 37.4, P = 0.000). At the same time, the number of neutrophils and myoglobin also increased in ALT elevation group than in ALT normal group. The proportion of severe and critical patients in the ALT elevation group was significantly higher, reaching 61.5%. The factor related to ALT elevation in Multivariate analysis",
+            ", age, drinking history, baseline albumin, lactic acid, CRP, neutrophils, lymphocytes myoglobin and clinical classification. It was found that the CRP \u226520 mg/L and",
+            "\u00d7 lymphocyte count< 1.1 10^9/L were independently related to ALT elevation. (Table"
+        ],
+        "Discussion": [
+            "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19. After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, we found that the level of lymphopenia and CRP were independently associated with hepatic injury, and our study suggested inflammatory cytokine storm might be the major mechanism.",
+            "As the number of patients with COVID-19 continues to rise, liver injury is frequently reported as extra-pulmonary clinical feature. Some recent studies revealed that nearly a half of patients experienced different degrees of liver injury7.8. However, as far as we know, there is no study on the factors of liver injury. Such as SARS, SARS-CoV-2 uses the same cell entry receptor angiotensin converting enzyme-II4, which is expressed in the liver tissue as well. A lately research showed that bile duct cells had higher specific expression of angiotensin converting enzyme-II than hepatocytes[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], which indicated the possibility of SARS-CoV-2 infected bile duct cells directly and caused hepatic injury. It\u2019s suggested that bile duct epithelial cells may play a key role in immunoreaction. However, clinical data from two researches showed that the bile duct injury related indexes alkaline phosphatase, gamma-glutamyl transpeptidase and total bilirubin did not increase significantly[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>,<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. In our study, the hepatic injury of patients was mainly reflected through mild or medium elevation of ALT, and the level of serum TBIL was almost normal. Moreover, the pathological results of liver biopsy showed moderate microvascular steatosis and active inflammation in the hepatic lobule portal area[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Due to the use of lopinavir/ritonavir during treatment, it is difficult to distinguish the reason of liver injury according to the pathological results. Although the cell entry receptor angiotensin converting enzyme-II is highly expressed in bile duct cells, recent works and our findings suggested that SARS-CoV-2 infection did not cause an obvious bile duct injury. Thus, SARS-COV-2 infection may not be the major reason related to liver injury.",
+            "In our study, there were a total of 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8%. And 24.7% (21/85) of them showed ALT elevation on admission. Among the 21 patients presenting with hepatic injury, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN). The results suggested that COVID-19-related hepatic injury was not serious at the beginning of the disease, which was consistent with previous researches. Compared with other study[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the higher proportion of patients with liver injury at admission might be related to the number of samples and the different periods from onset to hospitalization in our study.",
+            "Among the patients presenting with abnormal liver function in the present study, moderate and severe types of patients were more likely to have liver injury, accounting for 58.8% and 66.7%. This indication was consistent with Academician Nanshan Zhong \u2019s recent clinical research on acute respiratory syndrome caused by COVID-19, which involved the largest scale of data so far[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. It suggested that hepatic injury likely occurred in patients under critical care. Moreover, in our study, a positive correlative relationship between the lymphopenia and liver injury. Based on previous studies[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>,<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>], lymphopenia is typical laboratory indicator during highly pathogenic coronavirus infections, such as the SARS-CoV and MERS-CoV infection, and is believed to be associated with disease severity. Recent studies revealed that 63%-70.3%",
+            "of SARS-CoV-2 infected patients with severe diseases have lymphopenia and the low level of lymphocyte counts in patients is associated with mortal outcome[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. Therefore, our results suggested that the occurrence of hepatic injury was related to the deterioration of the disease with a dynamic process. In addition, six cases with chronic hepatic diseases were enrolled in our study, however there was no significant difference between the abnormal liver function group and normal liver function group. This might be related to the fact that most of the inpatients were ordinary type[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+            "Previous studies have shown that inflammatory cytokine storm is associated with severe lung injury and adverse outcomes of SARS-CoV or MERS-CoV infection 17,19,20. Inflammatory cytokine storm is an overactive inflammatory response of the human body caused by virus infection, which leads to a persistent activation and reproduction of lymphocytes and macrophages that will secrete huge amount of inflammatory cytokine[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Inflammatory cytokine storm not only leads to pulmonary injury, but also the injury of non-pulmonary organs including the liver, kidneys and cardiac muscle. And some studies have found the liver damage is more common in patients with severe pneumonia, which is suspected to be associated with inflammatory factor storm[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. In our study, patients with liver damage had higher elevated CRP level. As a typical inflammatory index, CRP is an acute phase protein that rapidly increase in the presence of infection or tissue damage. Additionally, lymphocyte cells are important for inhibiting overactive innate immune responses during viral infection[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>,<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. Thus, loss of lymphocyte cells during SARS-CoV-2 infection may result in aggravated inflammatory responses. The significant decreases in the counts of lymphocyte cells, especially CD8+T cells, as well as increases in IL-6, IL-10, IL-2 and IFN-\u03b3 levels in the peripheral blood of patients with COVID-1924.",
+            "While T cell counts drop to the lowest levels, serum level of inflammatory cytokines reach their peaks in a few days after the onset of COVID-19. It suggests that inflammatory cytokines are involved in the process at the early stage, which can explain the reason for the patients with mild liver injury.",
+            "Compared with the inflammatory damage of lung, the inflammatory damage of liver was relatively mild by autopsy analysis[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. This result may explain that no one develop to liver failure or severe hepatitis in our study, even in severe cases. 14.1% of patients (12/85) had liver injury during the whole process of hospitalization. All of them are mild and medium elevation of ALT. After liver protection treatment, the liver function of most patients was improved within one or two weeks.",
+            "Our study also observed the patients had a decline of serum albumin, though there was no obvious difference between the two groups. It was more likely due to the patients\u2019 hyper metabolic state presenting with fever, malnutrition and low caloric intake, suggesting the importance of nutritional support therapy. Moreover, hyperlactatemia reflects hypoxia injury and may be related to liver injury, our results showed that hyperlactatemia was related to liver injury, but it turned to negative after multivariate analysis. The change of result may be related to our sample size, which needs further study and confirmation.",
+            "There were some limitations in our study. The data were collected from a single center at a certain timepoint. So, the sample size was relatively limited. And large-sample cohort studies are still needed to verify this in the future. In conclusion, hepatic injury is likely a complication of COVID-19 infection.",
+            "Inflammatory cytokine storm may be the major mechanism. Early detection and timely treatment are helpful for the recovery of liver function.",
+            "Conflict of Interest The authors declare that there is no conflict of interest regarding the publication of this paper."
+        ],
+        "Acknowledgments": [
+            "This study was funded by National Science and Technology Key Project on \u201cMajor Infectious Diseases such as HIV/AIDS, Viral Hepatitis Preventon and Treatment\u201d (NO. 2017ZX10203201-005), Beijing Municipal Administration of Hospitals Clinical Medicine Development of Special Funding Support (NO. ZYLX201806), National Key R&D Program of China (No.2017YFA0103000), Medical Science Research Project Support by Bethune Charitable Foundation",
+            "1. Wang Chen, Horby Peter W, Hayden Frederick G, et al A novel coronavirus outbreak of global health concern.[J] . Lancet, 2020, 395 (10223):470-473. doi:10.1016/S0140-6736(20)30185-9 2. Horton Richard. Offline: 2019-nCoV outbreak-early lessons.[J] .Lancet, 2020, 395 (10223):470-473. doi:10.1016/S0140-6736(20)30212-9 3. Luo Guangxiang George, Gao Shou-Jiang. Global health concerns stirred by emerging viral infections.[J] .J. Med. Virol., 2020, 92(4):[399-400].",
+            "doi:10.1002/jmv.25683 4. Zhou Peng, Yang Xing-Lou , Wang Xian-Guang, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. [J/OL]. Nature, (2020-02-03) . doi:10.1038/s41586-020-2012-7",
+            "novel virus, old challenges. [J/OL]. Acta Med Port,2020, 33:155-157. doi: https://doi.org/10.20344/amp.13547 6. WHO. WHO Director-General's remarks at the media briefing on 2019-nCoV on 11st February 2020. 2020. 7. Chen Nanshan, Zhou Min, Dong Xuan, et al Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.[J] .Lancet, 2020, 395: 507-513. doi:10.1016/S0140-6736(20)30211-7 8. Wang Dawei, Hu Bo, Hu Chang, et al Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.[J] .JAMA, 2020. In Press doi:10.1001/jama.2020.1585 9. Huang Chaolin,Wang Yeming,Li Xingwang et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.[J] .Lancet, 2020, 395(10223): 497-506. doi:10.1016/S0140-6736(20)30183-5 10. Zhenyu Fan, Liping Chen, Jun Li, et al Clinical Features of COVID-19-Related Liver Damage. bioRxiv, 2020. doi: https://doi.org/10.1101/2020.02.26.20026971 11. China NHCo. Diagnosis and Treatment Scheme of New Coronavirus Infected Pneumonia. 2020. 12. Chai Xiaoqiang, Hu Longfei, Zhang Yan, et al Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCov Infection. bioRxiv, 2020.",
+            "doi: https://doi.org/10.1101/2020.02.03.931766 13. Xu Zhe,Shi Lei,Wang Yijin et al Pathological findings of COVID-19 associated with acute respiratory distress syndrome.[J] .Lancet Respir Med, 2020. In Press doi:10.1016/S2213-2600(20)30076-X 14. Holshue Michelle L, DeBolt Chas, Lindquist Scott, et al First Case of 2019 Novel Coronavirus in the United States.[J] .N Engl J Med, 2020, 382: 929-936. doi:10.1056/NEJMoa2001191 15. Guan Weijie, Ni Zhengyi, Hu Yu, et al Clinical characteristics of 2019 novel coronavirus infection in China. N Engl J Med, 2020. doi:: 10.1056/NEJMoa2002032 16. de Wit Emmie,van Doremalen Neeltje,Falzarano Darryl et al SARS and MERS: recent insights into emerging coronaviruses.[J] .Nat Rev Microbiol., 2016, 14: 523-34. doi:10.1038/nrmicro.2016.81 17. Chien Jung-Yien,Hsueh Po-Ren,Cheng Wern-Cherng et al Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome.[J] .Respirology, 2006, 11: 715-22. doi:10.1111/j.1440-1843.2006.00942.x 18. Chang De,Lin Minggui,Wei Lai, et al Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside Wuhan, China.[J] .JAMA, 2020. doi:10.1001/jama.2020.1623 19. Zhou Jie, Chu Hin,Li Cun, et al Active replication of Middle East respiratory syndrome coronavirus and aberrant induction of inflammatory cytokines and chemokines in human macrophages: implications for pathogenesis.[J] .J Infect Dis, 2014, 209: 1331-42. doi:10.1093/infdis/jit[504 <a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Chu Hin, Zhou Jie,Wong Bosco Ho-Yin, et al Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways.[J] .J Infect Dis, 2016, 213: 904-14.",
+            "doi:10.1093/infdis/jiv[380 <a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Tisoncik Jennifer R, Korth Marcus J, Simmons Cameron P, et al Into the eye of the cytokine storm.[J] .Microbiol Mol Biol Rev, 2012, 76: 16-32. doi:10.1128/MMBR.05015-11 22. Kim Kwang Dong,Zhao Jie,Auh Sogyong et al Adaptive immune cells temper initial innate responses.[J] .Nat Med, 2007, 13: 1248-52. doi:10.1038/nm1633 23. Palm Noah W,Medzhitov Ruslan,Not so fast: adaptive suppression of innate immunity.[J] .Nat Med, 2007, 13: 1142-4. doi:10.1038/nm1007-1142b 24. Liu Jing, Li Sumeng, Liu Jia, et al Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients. medRxiv, 2020. doi: https://doi.org/10.1101/2020.02.16.20023671.",
+            "Indicators Age(years) Sex: Female, n(%) ALT(U/L) AST(U/L) Albumin(g/L) Total bilirubin (\u03bcmol/L) Direct bilirubin (\u03bcmol/L) Creatinine (\u03bcmol/L) Lactic acid(mmol/L) C-reactive protein(mg/L) White blood cell (10^9/L) Hemoglobin (g/L) Platelet (10^9/L) Neutrophil count(\u00d710^9/L) Lymphocyte(\u00d710^9/L)",
+            "Value 49.0(36.0, 64.0) 38(44.7) 28.0(19.5, 44.5) 29.0(20.5, 38.5) 36.9\u00b15.1 9.2(6.4, 12.1) 1.8(1.2, 2.5) 61.0(53.0, 74.5) 1.3\u00b10.6 17.0(2.6, 37.2) 4.4(3.5, 5.9) 133.7\u00b116.1 193.0(161.0, 233.0) 2.8(1.8, 4.1) 1.1(0.7,1.6)"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "consecutive patients with COVID-19",
+            "number": 85,
+            "context": ". <mark class=\"stats\">Study design and patient selection From January 21st, 2020 to February 29th, 2020, a total of 85 consecutive patients with COVID-19 were admitted and treated in Beijing You\u2019an Hospital, Capital Medical University, Beijing, China</mark>. The diagnosis criteria of COVID-19 are based on the detection of nucleic acid, the epidemiological history, clinical feature or laboratory testing and imaging[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].<br/><br/>The clinical classifications are as follows: (1) Mild: only mild symptoms, no sign of pneumonia in imaging. (2) Ordinary: with fever, respiratory tract symptoms, and imaging shows pneumonia. (3) Severe: meet any of the following: a) respiratory distress, respiratory rate \u2265 30 beats / min; b) in the resting state, means oxygen saturation \u2264 93%; c) arterial blood oxygen partial pressure/ oxygen concentration \u2264<br/><br/>300mmHg (1mmHg = 0.133kPa)"
+        },
+        {
+            "participant": "patients",
+            "number": 85,
+            "context": "The informed consent was waived by the IRB because this study was a retrospective assessment. <mark class=\"stats\">Baseline data collection<br/><br/>The laboratory data of 85 patients at admission were collected</mark>. Laboratory assessments consisted of complete blood count, blood chemistry, coagulation test, liver and renal function, C-reactive protein, procalcitonin, lactic acid, cardiac markers"
+        },
+        {
+            "participant": "consecutive patients with COVID-19",
+            "number": 85,
+            "context": "Analyses were performed using SPSS 22.0 statistical package (SPSS, Inc., Chicago, IL, USA). <mark class=\"stats\">P-value < 0.05 was considered statistically significant.Study design and patient selection From January 21st, 2020 to February 29th, 2020, a total of 85 consecutive patients with COVID-19 were admitted and treated in Beijing You\u2019an Hospital, Capital Medical University, Beijing, China</mark>. The diagnosis criteria of COVID-19 are based on the detection of nucleic acid, the epidemiological history, clinical feature or laboratory testing and imaging[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 85,
+            "context": "Baseline data collection. <mark class=\"stats\">The laboratory data of 85 patients at admission were collected</mark>. Laboratory assessments consisted of complete blood count, blood chemistry, coagulation test, liver and renal function, C-reactive protein, procalcitonin, lactic acid, cardiac markers"
+        },
+        {
+            "participant": "hospitalized patients",
+            "number": 85,
+            "context": "This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19. <mark class=\"stats\">Methods: A total of 85 hospitalized patients who were diagnosed with COVID-19 in Beijing You\u2019an Hospital were retrospectively analyzed</mark>. According to liver function, they were divided into ALT normal group (n=52) and ALT elevation group (n=33)"
+        },
+        {
+            "participant": "data",
+            "number": 52,
+            "context": "Methods: A total of 85 hospitalized patients who were diagnosed with COVID-19 in Beijing You\u2019an Hospital were retrospectively analyzed. <mark class=\"stats\">According to liver function, they were divided into ALT normal group (n=52) and ALT elevation group (n=33)</mark>. Clinical features and laboratory data were compared between the two groups"
+        },
+        {
+            "participant": "patients with hepatic injury in our study",
+            "number": 33,
+            "context": "The independent risk factors for liver injury were analyzed. <mark class=\"stats\">Results: There were 33 patients with hepatic injury in our study, accounting for 38.8% (33/85)</mark>. The patients in ALT elevation group were older than those in ALT normal group"
+        },
+        {
+            "participant": "consecutive patients with COVID-19",
+            "number": 85,
+            "context": "The findings provide new clues and data for the mechanisms of liver injury in patients with COVID-19. <mark class=\"stats\">Study design and patient selection From January 21st, 2020 to February 29th, 2020, a total of 85 consecutive patients with COVID-19 were admitted and treated in Beijing You\u2019an Hospital, Capital Medical University, Beijing, China</mark>. The diagnosis criteria of COVID-19 are based on the detection of nucleic acid, the epidemiological history, clinical feature or laboratory testing and imaging[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]"
+        },
+        {
+            "participant": "patients with abnormal liver function during the whole process",
+            "number": 33,
+            "context": "The proportion and incidence rate of abnormal liver function. <mark class=\"stats\">There were 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8% (33/85), including elevated ALT and AST</mark>. (Table 2)"
+        },
+        {
+            "participant": "patients with chronic hepatic diseases were enrolled in our",
+            "number": 6,
+            "context": "All of them are mild and medium elevation of ALT. <mark class=\"stats\">Six patients with chronic hepatic diseases were enrolled in our study</mark>. There was no abnormal liver function in two patients with HBV infection"
+        },
+        {
+            "participant": "patients with HBV infection",
+            "number": 2,
+            "context": "Six patients with chronic hepatic diseases were enrolled in our study. <mark class=\"stats\">There was no abnormal liver function in two patients with HBV infection</mark>. There were two patients with alcoholic liver disease, one of them had moderate elevation of ALT (120U/L) within one week after admission, the other one had no liver injury"
+        },
+        {
+            "participant": "patients with alcoholic liver disease",
+            "number": 2,
+            "context": "There was no abnormal liver function in two patients with HBV infection. <mark class=\"stats\">There were two patients with alcoholic liver disease, one of them had moderate elevation of ALT (120U/L) within one week after admission, the other one had no liver injury</mark>. There were two patients with fatty liver, one patient had mild liver injury on admission, the other one had liver injury on 3 days after admission"
+        },
+        {
+            "participant": "patients with fatty liver",
+            "number": 2,
+            "context": "There were two patients with alcoholic liver disease, one of them had moderate elevation of ALT (120U/L) within one week after admission, the other one had no liver injury. <mark class=\"stats\">There were two patients with fatty liver, one patient had mild liver injury on admission, the other one had liver injury on 3 days after admission</mark>. Comparison of baseline data of the COVID-19 patients between normal and abnormal liver function group"
+        },
+        {
+            "participant": "patients with abnormal liver function during the whole process",
+            "number": 33,
+            "context": "Thus, SARS-COV-2 infection may not be the major reason related to liver injury. <mark class=\"stats\">In our study, there were a total of 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8%</mark>. And 24.7% (21/85) of them showed ALT elevation on admission"
+        },
+        {
+            "participant": "patients",
+            "number": 21,
+            "context": "And 24.7% (21/85) of them showed ALT elevation on admission. <mark class=\"stats\">Among the 21 patients presenting with hepatic injury, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN)</mark>. The results suggested that COVID-19-related hepatic injury was not serious at the beginning of the disease, which was consistent with previous researches"
+        },
+        {
+            "participant": "cases with chronic hepatic diseases were enrolled in our",
+            "number": 6,
+            "context": "Therefore, our results suggested that the occurrence of hepatic injury was related to the deterioration of the disease with a dynamic process. <mark class=\"stats\">In addition, six cases with chronic hepatic diseases were enrolled in our study, however there was no significant difference between the abnormal liver function group and normal liver function group</mark>. This might be related to the fact that most of the inpatients were ordinary type[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Logistic regression was used to select independent risk factors that affect abnormal liver function</mark>",
+                "tests": [
+                    {
+                        "test": "Logistic regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Multivariate logistic regression analysis showed CRP \u226520 mg/L and lymphocyte count< 1.1\u00d710^9/L were independently related to hepatic injury</mark>",
+                "tests": [
+                    {
+                        "test": "logistic regression"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P = 0.000",
+            "context": "Compared with patients with normal liver function, patients who had elevated ALT were more likely to have drinking history. <mark class=\"stats\">Albumin in ALT elevation group were significantly lower than those in the ALT normal group (33.4\u00b14.3 vs 37.8\u00b14.8, P = 0.000)</mark>. The bilirubin level was normal between the two groups"
+        },
+        {
+            "p_value": "P = 0.037",
+            "context": "The bilirubin level was normal between the two groups. <mark class=\"stats\">The level of lactic acid was significantly higher in the ALT elevation group (1.5\u00b10.6 vs 1.2\u00b10.5, P = 0.037)</mark>. The number of lymphocytes in ALT elevation group was significantly lower than that in ALT normal group (0.8 vs 1.4, P = 0.000)"
+        },
+        {
+            "p_value": "P = 0.000",
+            "context": "The level of lactic acid was significantly higher in the ALT elevation group (1.5\u00b10.6 vs 1.2\u00b10.5, P = 0.037). <mark class=\"stats\">The number of lymphocytes in ALT elevation group was significantly lower than that in ALT normal group (0.8 vs 1.4, P = 0.000)</mark>. However, the level of CRP was significantly higher in the ALT normal group (39.7 vs 37.4, P = 0.000)"
+        },
+        {
+            "p_value": "P = 0.000",
+            "context": "The number of lymphocytes in ALT elevation group was significantly lower than that in ALT normal group (0.8 vs 1.4, P = 0.000). <mark class=\"stats\">However, the level of CRP was significantly higher in the ALT normal group (39.7 vs 37.4, P = 0.000)</mark>. At the same time, the number of neutrophils and myoglobin also increased in ALT elevation group than in ALT normal group"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Multivariate logistic regression was performed to analyze the factors including</mark>",
+                "tests": [
+                    {
+                        "test": "logistic regression"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "MERS",
+        "hyperlactatemia",
+        "sars cov",
+        "coronavirus",
+        "lymphocyte",
+        "lymphopenia",
+        "liver function",
+        "bile duct cell",
+        "liver damage",
+        "COVID-19",
+        "inflammatory cytokine storm",
+        "pneumonia",
+        "clinical characteristics",
+        "SARS",
+        "liver injury",
+        "hepatic injury",
+        "C reactive protein",
+        "abnormal liver function"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.1834319526627219,
+        "liver injury": 0.1301775147928994,
+        "hepatic injury": 0.11834319526627218,
+        "liver function": 0.10059171597633136,
+        "SARS": 0.09467455621301775,
+        "coronavirus": 0.07100591715976332,
+        "lymphocyte": 0.07100591715976332,
+        "abnormal liver function": 0.07100591715976332,
+        "pneumonia": 0.03550295857988166,
+        "lymphopenia": 0.029585798816568046,
+        "MERS": 0.01775147928994083,
+        "bile duct cell": 0.01775147928994083,
+        "liver damage": 0.01775147928994083,
+        "inflammatory cytokine storm": 0.01775147928994083,
+        "hyperlactatemia": 0.011834319526627219,
+        "clinical characteristics": 0.005917159763313609,
+        "C reactive protein": 0.005917159763313609,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19.",
+        "The proportion of severe and critical patients in ALT elevation group was significantly higher.",
+        "Conclusions: Lymphopenia and CRP may serve as the risk factors related to hepatic injury in patients with COVID-19, which might be related to inflammatory cytokine storm in liver injury.",
+        "Despite atypical pneumonia as the primary symptom, liver dysfunction has been observed in many clinical cases[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], indicating a possibility for the patients with COVID-19 may cause hepatic injury.",
+        "There were 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8% (33/85), including elevated ALT and AST",
+        "21 patients presenting with abnormal liver function at admission, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN).",
+        "Comparison of baseline data of the COVID-19 patients between normal and abnormal liver function group",
+        "Compared with patients with normal liver function, patients who had elevated ALT were more likely to have drinking history.",
+        "The proportion of severe and critical patients in the ALT elevation group was significantly higher, reaching 61.5%.",
+        "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19.",
+        "After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, the authors found that the level of lymphopenia and CRP were independently associated with hepatic injury, and the study suggested inflammatory cytokine storm might be the major mechanism.",
+        "The hepatic injury of patients was mainly reflected through mild or medium elevation of ALT, and the level of serum TBIL was almost normal.",
+        "There were a total of 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8%.",
+        "Among the 21 patients presenting with hepatic injury, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN).",
+        "Compared with other study[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the higher proportion of patients with liver injury at admission might be related to the number of samples and the different periods from onset to hospitalization in the study.",
+        "Among the patients presenting with abnormal liver function in the present study, moderate and severe types of patients were more likely to have liver injury, accounting for 58.8% and 66.7%."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19.",
+            "The proportion of severe and critical patients in ALT elevation group was significantly higher.",
+            "Conclusions: Lymphopenia and CRP may serve as the risk factors related to hepatic injury in patients with COVID-19, which might be related to inflammatory cytokine storm in liver injury."
+        ],
+        "Results": [
+            "Despite atypical pneumonia as the primary symptom, liver dysfunction has been observed in many clinical cases[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], indicating a possibility for the patients with COVID-19 may cause hepatic injury.",
+            "There were 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8% (33/85), including elevated ALT and AST",
+            "21 patients presenting with abnormal liver function at admission, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN).",
+            "Comparison of baseline data of the COVID-19 patients between normal and abnormal liver function group",
+            "Compared with patients with normal liver function, patients who had elevated ALT were more likely to have drinking history.",
+            "The proportion of severe and critical patients in the ALT elevation group was significantly higher, reaching 61.5%.",
+            "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19.",
+            "After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, the authors found that the level of lymphopenia and CRP were independently associated with hepatic injury, and the study suggested inflammatory cytokine storm might be the major mechanism.",
+            "The hepatic injury of patients was mainly reflected through mild or medium elevation of ALT, and the level of serum TBIL was almost normal.",
+            "There were a total of 33 patients with abnormal liver function during the whole process of hospitalization, accounting for 38.8%."
+        ],
+        "Conclusion": [
+            "Among the 21 patients presenting with hepatic injury, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN).",
+            "Compared with other study[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the higher proportion of patients with liver injury at admission might be related to the number of samples and the different periods from onset to hospitalization in the study.",
+            "Among the patients presenting with abnormal liver function in the present study, moderate and severe types of patients were more likely to have liver injury, accounting for 58.8% and 66.7%."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Chen_et+al_0000_a",
+            "entry": "1. Wang Chen, Horby Peter W, Hayden Frederick G, et al. A novel coronavirus outbreak of global health concern.[J]. Lancet, 2020, 395 (10223):470-473. doi:10.1016/S0140-6736(20)30185-9",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30185-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30185-9"
+        },
+        {
+            "id": "2",
+            "alt_id": "Richard_2019_a",
+            "entry": "2. Horton Richard. Offline: 2019-nCoV outbreak-early lessons.[J].Lancet, 2020, 395 (10223):470-473. doi:10.1016/S0140-6736(20)30212-9",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30212-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30212-9"
+        },
+        {
+            "id": "3",
+            "alt_id": "George_0000_a",
+            "entry": "3. Luo Guangxiang George, Gao Shou-Jiang. Global health concerns stirred by emerging viral infections.[J].J. Med. Virol., 2020, 92(4):399-400. doi:10.1002/jmv.25683",
+            "crossref": "https://dx.doi.org/10.1002/jmv.25683",
+            "scite": "https://scite.ai/reports/10.1002/jmv.25683",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1002/jmv.25683"
+        },
+        {
+            "id": "4",
+            "alt_id": "Peng_et+al_2020_a",
+            "entry": "4. Zhou Peng, Yang Xing-Lou, Wang Xian-Guang, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. [J/OL]. Nature, (2020-02-03). doi:10.1038/s41586-020-2012-7 Duarte R, Furtado I, Sousa L,et al. The 2019 novel coronavirus (2019-nCoV)",
+            "crossref": "https://dx.doi.org/10.1038/s41586-020-2012-7",
+            "scite": "https://scite.ai/reports/10.1038/s41586-020-2012-7",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/s41586-020-2012-7"
+        },
+        {
+            "id": "novel_0000_a",
+            "alt_id": "5",
+            "entry": "novel virus, old challenges. [J/OL]. Acta Med Port,2020, 33:155-157. doi: https://doi.org/10.20344/amp.13547",
+            "crossref": "https://dx.doi.org/10.20344/amp.13547",
+            "scite": "https://scite.ai/reports/10.20344/amp.13547",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.20344/amp.13547"
+        },
+        {
+            "id": "6",
+            "alt_id": "W_2019_a",
+            "entry": "6. WHO. WHO Director-General's remarks at the media briefing on 2019-nCoV on 11st February 2020. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WHO%20WHO%20DirectorGenerals%20remarks%20at%20the%20media%20briefing%20on%202019nCoV%20on%2011st%20February%202020%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Nanshan_et+al_2019_a",
+            "entry": "7. Chen Nanshan, Zhou Min, Dong Xuan, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.[J].Lancet, 2020, 395: 507-513. doi:10.1016/S0140-6736(20)30211-7",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30211-7",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30211-7",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930211-7"
+        },
+        {
+            "id": "8",
+            "alt_id": "Dawei_et+al_2019_a",
+            "entry": "8. Wang Dawei, Hu Bo, Hu Chang, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.[J].JAMA, 2020. In Press doi:10.1001/jama.2020.1585",
+            "crossref": "https://dx.doi.org/10.1001/jama.2020.1585",
+            "scite": "https://scite.ai/reports/10.1001/jama.2020.1585"
+        },
+        {
+            "id": "9",
+            "alt_id": "Chaolin_et+al_2019_a",
+            "entry": "9. Huang Chaolin,Wang Yeming,Li Xingwang et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.[J].Lancet, 2020, 395(10223): 497-506. doi:10.1016/S0140-6736(20)30183-5",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30183-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930183-5"
+        },
+        {
+            "id": "10",
+            "alt_id": "Fan_et+al_2020_a",
+            "entry": "10. Zhenyu Fan, Liping Chen, Jun Li, et al. Clinical Features of COVID-19-Related Liver Damage. bioRxiv, 2020. doi: https://doi.org/10.1101/2020.02.26.20026971",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.26.20026971",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.26.20026971"
+        },
+        {
+            "id": "11",
+            "alt_id": "Nhco_2020_a",
+            "entry": "11. China NHCo. Diagnosis and Treatment Scheme of New Coronavirus Infected Pneumonia. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=NHCo%2C%20China%20Diagnosis%20and%20Treatment%20Scheme%20of%20New%20Coronavirus%20Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Xiaoqiang_et+al_2019_a",
+            "entry": "12. Chai Xiaoqiang, Hu Longfei, Zhang Yan, et al. Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCov Infection. bioRxiv, 2020. doi: https://doi.org/10.1101/2020.02.03.931766",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.03.931766",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.03.931766"
+        },
+        {
+            "id": "13",
+            "alt_id": "Zhe_et+al_0000_a",
+            "entry": "13. Xu Zhe,Shi Lei,Wang Yijin et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome.[J].Lancet Respir Med, 2020. In Press doi:10.1016/S2213-2600(20)30076-X",
+            "crossref": "https://dx.doi.org/10.1016/S2213-2600(20)30076-X",
+            "scite": "https://scite.ai/reports/10.1016/S2213-2600(20)30076-X"
+        },
+        {
+            "id": "14",
+            "alt_id": "Holshue_et+al_2019_a",
+            "entry": "14. Holshue Michelle L, DeBolt Chas, Lindquist Scott, et al. First Case of 2019 Novel Coronavirus in the United States.[J].N Engl J Med, 2020, 382: 929-936. doi:10.1056/NEJMoa2001191",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001191",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001191",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001191"
+        },
+        {
+            "id": "15",
+            "alt_id": "Weijie_et+al_2016_a",
+            "entry": "15. Guan Weijie, Ni Zhengyi, Hu Yu, et al. Clinical characteristics of 2019 novel coronavirus infection in China. N Engl J Med, 2020. doi:: 10.1056/NEJMoa2002032 16. de Wit Emmie,van Doremalen Neeltje,Falzarano Darryl et al. SARS and MERS: recent insights into emerging coronaviruses.[J].Nat Rev Microbiol., 2016, 14: 523-34. doi:10.1038/nrmicro.2016.81",
+            "crossref": "https://dx.doi.org/10.1038/nrmicro.2016.81",
+            "scite": "https://scite.ai/reports/10.1038/nrmicro.2016.81",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nrmicro.2016.81"
+        },
+        {
+            "id": "17",
+            "alt_id": "Jung-Yien_et+al_2006_a",
+            "entry": "17. Chien Jung-Yien,Hsueh Po-Ren,Cheng Wern-Cherng et al. Temporal changes in cytokine/chemokine profiles and pulmonary involvement in severe acute respiratory syndrome.[J].Respirology, 2006, 11: 715-22. doi:10.1111/j.1440-1843.2006.00942.x",
+            "crossref": "https://dx.doi.org/10.1111/j.1440-1843.2006.00942.x",
+            "scite": "https://scite.ai/reports/10.1111/j.1440-1843.2006.00942.x",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1111/j.1440-1843.2006.00942.x"
+        },
+        {
+            "id": "18",
+            "alt_id": "De_et+al_0000_a",
+            "entry": "18. Chang De,Lin Minggui,Wei Lai, et al. Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside Wuhan, China.[J].JAMA, 2020. doi:10.1001/jama.2020.1623",
+            "crossref": "https://dx.doi.org/10.1001/jama.2020.1623",
+            "scite": "https://scite.ai/reports/10.1001/jama.2020.1623"
+        },
+        {
+            "id": "19",
+            "alt_id": "Jie_et+al_0000_a",
+            "entry": "19. Zhou Jie, Chu Hin,Li Cun, et al. Active replication of Middle East respiratory syndrome coronavirus and aberrant induction of inflammatory cytokines and chemokines in human macrophages: implications for pathogenesis.[J].J Infect Dis, 2014, 209: 1331-42. doi:10.1093/infdis/jit504",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jit504",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jit504",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/infdis/jit504"
+        },
+        {
+            "id": "20",
+            "alt_id": "Hin_et+al_2016_a",
+            "entry": "20. Chu Hin, Zhou Jie,Wong Bosco Ho-Yin, et al. Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways.[J].J Infect Dis, 2016, 213: 904-14. doi:10.1093/infdis/jiv380",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jiv380",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jiv380",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/infdis/jiv380"
+        },
+        {
+            "id": "21",
+            "alt_id": "Tisoncik_et+al_2012_a",
+            "entry": "21. Tisoncik Jennifer R, Korth Marcus J, Simmons Cameron P, et al. Into the eye of the cytokine storm.[J].Microbiol Mol Biol Rev, 2012, 76: 16-32. doi:10.1128/MMBR.05015-11",
+            "crossref": "https://dx.doi.org/10.1128/MMBR.05015-11",
+            "scite": "https://scite.ai/reports/10.1128/MMBR.05015-11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/MMBR.05015-11"
+        },
+        {
+            "id": "22",
+            "alt_id": "Dong_et+al_2007_a",
+            "entry": "22. Kim Kwang Dong,Zhao Jie,Auh Sogyong et al. Adaptive immune cells temper initial innate responses.[J].Nat Med, 2007, 13: 1248-52. doi:10.1038/nm1633",
+            "crossref": "https://dx.doi.org/10.1038/nm1633",
+            "scite": "https://scite.ai/reports/10.1038/nm1633",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nm1633"
+        },
+        {
+            "id": "23",
+            "alt_id": "Palm_2007_a",
+            "entry": "23. Palm Noah W,Medzhitov Ruslan,Not so fast: adaptive suppression of innate immunity.[J].Nat Med, 2007, 13: 1142-4. doi:10.1038/nm1007-1142b 24. Liu Jing, Li Sumeng, Liu Jia, et al. Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients. medRxiv, 2020. doi: https://doi.org/10.1101/2020.02.16.20023671. ",
+            "crossref": "https://dx.doi.org/10.1038/nm1007-1142b",
+            "scite": "https://scite.ai/reports/10.1038/nm1007-1142b",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nm1007-1142b"
+        }
+    ],
+    "facts": [
+        "The diagnosis criteria of COVID-19 are based on the detection of nucleic acid",
+        "Pulmonary imaging showed that the lesions progressed more than",
+        "the patients were managed according to moderate case",
+        "ICU admission is required for combined organ failure",
+        "This retrospective study was performed in accordance with the ethical guidelines",
+        "The informed consent was waived by the IRB because this study was a retrospective assessment",
+        "Laboratory assessments consisted of complete blood count",
+        "Age and days were represented by median, categorical variables by number",
+        "which indicated the possibility of SARS-CoV-2 infected bile duct cells",
+        "that bile duct epithelial cells may play a key role in immunoreaction",
+        "clinical data from two researches showed that the bile duct injury related indexes alkaline phosphatase",
+        "difficult to distinguish the reason of liver injury according to the pathological results",
+        "the cell entry receptor angiotensin converting enzyme-II is highly expressed in bile duct cells",
+        "our findings suggested that SARS-CoV-2 infection did not cause an obvious bile duct injury",
+        "the major reason related to liver injury",
+        "Among the 21 patients presenting with hepatic injury",
+        "the higher proportion of patients with liver injury at admission might be related to the number of samples",
+        "Among the patients presenting with abnormal liver function in the present study",
+        "This indication was consistent with Academician Nanshan Zhong 's recent clinical research on acute respiratory syndrome caused by COVID-19",
+        "which involved the largest scale of data so far[15",
+        "that hepatic injury likely occurred in patients under critical care",
+        "Recent studies revealed that 63%-70.3%",
+        "the low level of lymphocyte counts in patients is associated with mortal outcome[8,18",
+        "our results suggested that the occurrence of hepatic injury was related to the deterioration",
+        "six cases with chronic hepatic diseases were enrolled in our study",
+        "Previous studies have shown that inflammatory cytokine storm is associated with severe lung injury",
+        "an overactive inflammatory response of the human body caused by virus infection",
+        "which leads to a persistent activation and reproduction of lymphocytes and macrophages",
+        "Inflammatory cytokine storm not only leads to pulmonary injury",
+        "the liver damage is more common in patients with severe pneumonia",
+        "which is suspected to be associated with inflammatory factor storm[8,9",
+        "an acute phase protein that rapidly increase in the presence of infection or tissue damage",
+        "lymphocyte cells are important for inhibiting overactive innate immune responses during viral infection[22,23",
+        "loss of lymphocyte cells during SARS-CoV-2 infection may result in aggravated inflammatory responses",
+        "While T cell counts drop to the lowest levels",
+        "that inflammatory cytokines are involved in the process at the early stage",
+        "which can explain the reason for the patients with mild liver injury",
+        "the inflammatory damage of liver was relatively mild by autopsy analysis[13",
+        "This result may explain that no one develop to liver failure",
+        "the patients had a decline of serum albumin",
+        "to the patients' hyper metabolic state presenting with fever",
+        "our results showed that hyperlactatemia was related to liver injury",
+        "The change of result may be related to our sample size",
+        "The data were collected from a single center at a certain timepoint",
+        "timely treatment are helpful for the recovery of liver function",
+        "the risk factors involved with hepatic injury in the patients",
+        "CRP may serve as the risk factors related to hepatic injury",
+        "which might be related to inflammatory cytokine storm in liver injury",
+        "liver dysfunction has been observed in many clinical cases[7-9",
+        "21 patients presenting with abnormal liver function at admission",
+        "The present study aimed to investigate the changes of liver injury in the patients",
+        "The present study mainly focused on the risk factors involved with hepatic injury",
+        "CRP were independently associated with hepatic injury",
+        "Our results suggested that the occurrence of hepatic injury was related to the deterioration"
+    ],
+    "claims": [
+        "This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19",
+        "The present study aimed to investigate the changes of liver injury in the patients with COVID-19 retrospectively, and analyzed the clinical features and laboratory data to seek the possible risk factors of liver injury in patients with COVID-19",
+        "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19",
+        "After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, we found that the level of lymphopenia and CRP were independently associated with hepatic injury, and our study suggested inflammatory cytokine storm might be the major mechanism",
+        "Although the cell entry receptor angiotensin converting enzyme-II is highly expressed in bile duct cells, recent works and our findings suggested that SARS-CoV-2 infection did not cause an obvious bile duct injury",
+        "Our results suggested that the occurrence of hepatic injury was related to the deterioration of the disease with a dynamic process",
+        "Hyperlactatemia reflects hypoxia injury and may be related to liver injury, our results showed that hyperlactatemia was related to liver injury, but it turned to negative after multivariate analysis"
+    ],
+    "findings": [
+        "Pulmonary imaging showed that the lesions progressed more than 50% within 24-48 hours, and the patients were managed according to moderate case",
+        "Albumin in ALT elevation group were significantly lower than those in the ALT normal group (33.4\u00b14.3 vs 37.8\u00b14.8, P = 0.000)",
+        "The level of lactic acid was significantly higher in the ALT elevation group (1.5\u00b10.6 vs 1.2\u00b10.5, P = 0.037)",
+        "The number of lymphocytes in ALT elevation group was significantly lower than that in ALT normal group (0.8 vs 1.4, P = 0.000)",
+        "The level of CRP was significantly higher in the ALT normal group (39.7 vs 37.4, P = 0.000)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "This study aimed to investigate the risk factors involved with hepatic injury in the patients with COVID-19",
+        "Lymphopenia and CRP may serve as the risk factors related to hepatic injury in patients with COVID-19, which might be related to inflammatory cytokine storm in liver injury",
+        "21 patients presenting with abnormal liver function at admission, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN). 14.1% of patients (12/85) had abnormal liver function during the whole process of hospitalization",
+        "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19",
+        "After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, we found that the level of lymphopenia and CRP were independently associated with hepatic injury, and our study suggested inflammatory cytokine storm might be the major mechanism",
+        "A lately research showed that bile duct cells had higher specific expression of angiotensin converting enzyme-II than hepatocytes[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], which indicated the possibility of SARS-CoV-2 infected bile duct cells directly and caused hepatic injury",
+        "The cell entry receptor angiotensin converting enzyme-II is highly expressed in bile duct cells, recent works and our findings suggested that SARS-CoV-2 infection did not cause an obvious bile duct injury",
+        "SARS-COV-2 infection may not be the major reason related to liver injury",
+        "Among the 21 patients presenting with hepatic injury, only one of them had moderate elevation of ALT (179U/L), others had mild liver injury (ALT<2ULN)",
+        "Compared with other study[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the higher proportion of patients with liver injury at admission might be related to the number of samples and the different periods from onset to hospitalization in our study",
+        "Among the patients presenting with abnormal liver function in the present study, moderate and severe types of patients were more likely to have liver injury, accounting for 58.8% and 66.7%",
+        "This indication was consistent with Academician Nanshan Zhong \u2019s recent clinical research on acute respiratory syndrome caused by COVID-19, which involved the largest scale of data so far[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. It suggested that hepatic injury likely occurred in patients under critical care",
+        "Six cases with chronic hepatic diseases were enrolled in our study, there was no significant difference between the abnormal liver function group and normal liver function group",
+        "Previous studies have shown that inflammatory cytokine storm is associated with severe lung injury and adverse outcomes of SARS-CoV or MERS-CoV infection 17,19,20",
+        "Inflammatory cytokine storm is an overactive inflammatory response of the human body caused by virus infection, which leads to a persistent activation and reproduction of lymphocytes and macrophages that will secrete huge amount of inflammatory cytokine[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]",
+        "Inflammatory cytokine storm not only leads to pulmonary injury, but the injury of non-pulmonary organs including the liver, kidneys and cardiac muscle",
+        "Some studies have found the liver damage is more common in patients with severe pneumonia, which is suspected to be associated with inflammatory factor storm[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]",
+        "Loss of lymphocyte cells during SARS-CoV-2 infection may result in aggravated inflammatory responses",
+        "It suggests that inflammatory cytokines are involved in the process at the early stage, which can explain the reason for the patients with mild liver injury",
+        "Hyperlactatemia reflects hypoxia injury and may be related to liver injury, our results showed that hyperlactatemia was related to liver injury, but it turned to negative after multivariate analysis",
+        "Detection and timely treatment are helpful for the recovery of liver function"
+    ],
+    "top_statements": [
+        "The present study mainly focused on the risk factors involved with hepatic injury in the patients with COVID-19",
+        "After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, we found that the level of lymphopenia and CRP were independently associated with hepatic injury, and our study suggested inflammatory cytokine storm might be the major mechanism",
+        "The cell entry receptor angiotensin converting enzyme-II is highly expressed in bile duct cells, recent works and our findings suggested that SARS-CoV-2 infection did not cause an obvious bile duct injury",
+        "Inflammatory cytokine storm is an overactive inflammatory response of the human body caused by virus infection, which leads to a persistent activation and reproduction of lymphocytes and macrophages that will secrete huge amount of inflammatory cytokine[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]",
+        "It suggests that inflammatory cytokines are involved in the process at the early stage, which can explain the reason for the patients with mild liver injury"
+    ],
+    "headline": "After excluding the patients receiving drugs that may cause liver damage such as lopinavir/ritonavir, according to the findings, for the first time, we found that the level of lymphopenia and CRP were independently associated with hepatic injury, and our study suggested inflammatory cytokine storm might be the major mechanism",
+    "contexts": [],
+    "abbreviations": {}
+}

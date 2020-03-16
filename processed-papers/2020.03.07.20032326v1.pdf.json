@@ -1,0 +1,312 @@
+{
+    "filename": "2020.03.07.20032326v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 105357,
+    "metadata": {
+        "title": "Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow",
+        "author": "Gustavo Barcelos Barra, Ph.D.*, Ticiane Henriques Santa Rita, Ph.D.*, Pedro G\u00f3es Mesquita, Ph.D., Rafael Henriques J\u00e1como, M.D, Ph.D., L\u00eddia Freire Abdalla Nery, Pharm.D. Ms.C",
+        "date": 2020,
+        "affiliations": [
+            "Distrito Federal, Brazil"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.07.20032326",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1.pdf"
+        },
+        "abstract": "The World Health Organization declared that COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARSCoV-2 became mandatory to identify, isolate and provide optimized care for patients early. RT-qPCR testing of respiratory secretions is routinely used to detect causative viruses in acute respiratory infection. RT-qPCR in-house protocols to detect the SARS-CoV-2 have been described. Validations of these protocols are considered a key knowledge gap for COVID-19, especially if executed in a high throughput format. Here, we investigate the analytical sensitivity and specificity of two interim RTqPCR protocols for the qualitative detection of SARS-CoV-2 executed in a fully automated platform. Under our conditions, the N1 and RdRP (modified) showed the highest analytical sensitivity for their RNA targets. E assay, in its original concentration, was considered a tertiary confirmatory assay. Taken together, N1, RdRP (optimized) and E presented appropriated analytical sensibility and specificity in our automated RT-qPCR workflow for COVID-19 virus, E being at least 4-fold less sensitive than the others. This study highlights the importance of local validation of in-house assays before its availability to the population. The use of the synthetic RT-qPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple effective way to be prepared for upcoming threats. The proposed assay detected the fisrt SARS-CoV-2 infection in Brazilian Central-West.",
+        "references": "@misc{unknown-a,\n  title = {World experts and funders set priorities for COVID-19 research. 2020},\n  url = {http://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-setpriorities-for-covid-19-research.},\n  language = {},\n  urldate = {(February 2, 2020,}\n}\n@article{unknown2020a,\n  title = {Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans},\n  journal = {World Health Organization},\n  date = {2020},\n  url = {http://www.who.int/emergencies/diseases/novel-coronavirus-2019/technicalguidance/laboratory-guidance.},\n  language = {},\n  urldate = {(February 2, 2020,}\n}\n@incollection{corman2019a,\n  author = {Corman, V.M. and Landt, O. and Kaiser, M.},\n  title = {Detection of 2019 novel coronavirus},\n  date = {2019},\n  more-authors = {true},\n  source = {by real-time RT-PCR. Euro surveillance: bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin 2020; 25. 2019-Novel Coronavirus},\n  language = {}\n}\n@misc{unknown-b,\n  title = {Primers and Probes. 2020},\n  url = {http://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-panelprimer-probes.html.},\n  language = {}\n}\n",
+        "references_ris": "TY  - GEN\nTI  - World experts and funders set priorities for COVID-19 research. 2020\nUR  - http://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-setpriorities-for-covid-19-research.\nLA  - \nC1  - (February 2, 2020,\nER  - \n\nTY  - JOUR\nTI  - Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans\nT2  - World Health Organization\nPY  - 2020\nDA  - 2020\nUR  - http://www.who.int/emergencies/diseases/novel-coronavirus-2019/technicalguidance/laboratory-guidance.\nLA  - \nC1  - (February 2, 2020,\nER  - \n\nTY  - CHAP\nAU  - Corman, V.M.\nAU  - Landt, O.\nAU  - Kaiser, M.\nTI  - Detection of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nC1  - true\nT2  - by real-time RT-PCR. Euro surveillance: bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin 2020; 25. 2019-Novel Coronavirus\nLA  - \nER  - \n\nTY  - GEN\nTI  - Primers and Probes. 2020\nUR  - http://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-panelprimer-probes.html.\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Primer and probes concentration used in this study"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Assays analytical specificity analysis. N, N2, and N3 were excluded from the validation due to lack of analytical specificity when applied to healthy volunteer samples"
+            },
+            {
+                "id": "2",
+                "caption": "Assays limit of detection determination. N1 and RdRP (modified) showed better LOD. A) Raw data and B) Probit regression analysis (inserted unit values are copies/reaction)"
+            },
+            {
+                "id": "3",
+                "caption": "Assays amplification efficiency analysis. N1 and RdRP (modified) showed better amplification efficiencies. A) Raw data and B) Regression analysis"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.07.20032326v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032326v1/img-010.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032326v1/img-011.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032326v1/img-012.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032326v1/img-013.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032326v1/img-014.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032326v1/img-015.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "On 30 January 2020, the World Health Organization declared that the COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARS-CoV-2 became mandatory to identify, isolate and provide optimized care for patients early[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. RT-qPCR testing of respiratory secretions is routinely used to detect causative viruses in acute respiratory infection and, during a Public Health Emergency of International Concern, the establishment of standardized processes and protocols, as well as sharing of specimens, data, and information is critical. RT-qPCR in-house protocols to detect the SARS-CoV-2 have been described[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].<br/><br/>Validations of these protocols are considered a key knowledge gap for COVID-19, especially if executed in a high throughput format. Here, we investigate the analytical sensitivity and specificity of two interim RT-qPCR protocols[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for the qualitative detection of SARS-CoV-2 executed in a fully automated platform."
+        ],
+        "methods": [
+            "Samples and collection tubes<br/><br/>Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen."
+        ],
+        "ethical_compliance": [
+            "All volunteers agreed to participate, signed informed consent and the internal use of these samples for diagnostic workflow optimization was according to the medical ethical rules of our institution.<br/><br/>SARS-CoV-2 RT-qPCR protocols<br/><br/>CDC and Charit\u00e9 described the interim SARS-CoV-2 RT-qPCR protocols evaluated in this study.<br/><br/>Assays names described by each protocol were maintained to avoid mistakes: N1, N2, N3, N, E, RdRP.<br/><br/>Primers and probes for SARS-CoV-2 can be found in the supplemental file.<br/><br/>Collection and process RT-qPCR quality control<br/><br/>Each viral primer/probe set was multiplexed with primer/probe set for human RPP30 gene to control the sample collection, as the amount of biological material varies from sample to sample, and with a primer/probe set for an artificial RNA sequence (artificial external control - AEC), which is introduced during extraction, to control the RT-qPCR steps and its inhibition. Primers and probes for RPP30 and<br/><br/>AEC can be found in the supplemental file.    RT-qPCR workflow<br/><br/>The RT-qPCR workflow was executed on Flow Flex Solution, which is composed by a liquid handlers and a nucleic acid extractor. The liquid handler pipettes the primary samples and distribute the PCR reaction master mix. Nucleic acids were extracted from 200 ul of the primary sample using MagNA pure 96 DNA and Viral NA Small Volume Kit on Magna pure 96 instrument. One-step RT-qPCR reaction was prepared with LightCycler\u00ae Multiplex RNA Virus Master (all from Roche Diagnostics, Mannheim, Germany). Primers/probe concentrations suggested by the interim RT-qPCR protocols providers were maintained and other concentrations were also tested (table 1). The final reaction volume was 10 ul and the automated workflow was able to perform 4 viral assays in 96 samples in 4-5 hours.    Primer    N1    N2    N3    RpDP    Primer F    Primer R    Probe 1    nM    Modified    E    200nM"
+        ],
+        "results": [
+            "All nasopharyngeal swabs samples from healthy volunteers were submitted to the six considered<br/><br/>SARS-CoV-2 assays to check the generation of unspecific response. We observed consistent falsepositive results for N and N2 (60 out of 60 samples for both). N3 assay generated false positive signal or inconclusive results in 13 out of 60 tested samples. N2, N3, and N assays were not considered for subsequent experiments due to the lack of analytical specificity under our conditions (figure 1).<br/><br/>N author/funder, who has granted medRxiv a license to display the preprint in perpetuity.    RdRP<br/><br/>A synthetic dsDNA molecule (Integrated DNA Technologies, Coralville, USA) comprising of the concatenation of all six viral assays target sequences in the SARS-CoV-2 genome was in vitro transcribed into its RNA form. This SARS-CoV-2 diagnostic synthetic RNA was quantified and a previously known copy number solution was spiked into negative swabs to construct positive samples as similar as possible from real clinical samples. These constructed samples were submitted to the automated workflow for assays that passed in the analytical specificity evaluation (N1, E, and RdRP).<br/><br/>Limiting dilution of 1:2 (from 2.64x104 to 4.04x10-1 copies/reaction) of the synthetic SARS-CoV-2 diagnostic RNA was tested in order to evaluate the assays\u2019 limit of detection. Probit regression analysis returned the limit of detection of 21 (95% CI 16.5 - 31.1) copies/reaction for N1, 141 (95% CI 109 207) copies/reaction for E and 350 (95% CI 281 - 508) copies/reaction for RdRP (Figure 1, B). E and<br/><br/>RdRP assay primer/probe concentrations were modified and limits of detection changed to 457 (95%CI<br/><br/>- 598) and 33.7 (95% CI 27.6 \u2013 46.8) copies/reaction, respectively. Primers/probe concentration optimization did not interfere with specificity of the assays (20 healthy volunteers samples tested).    A)    RdRP (modified)    E(modified)    B)<br/><br/>B) Probit regression analysis (inserted unit values are copies/reaction).<br/><br/>Amplifications efficiencies of N1, RdRP, RdRP (modified), E, and E (modified) assays were 93.4%, 116.5%, 110%, 86% and 119.6%, respectively, when applied to serial dilution of 1:10 (1.48x108 to<br/><br/>1.48x102 copies/PCR) of the synthetic SARS-CoV-2 diagnostic RNA. N1 and RdRP (modified) showed better amplification efficiency and this observation corroborates with the results of the limiting dilution experiment because assays with amplification efficiencies closed to 100% have better diagnostic performance (figure 3).    Eff=93.4%<br/><br/>Y = -2. 981*X + 37. 60    Eff=116.5%<br/><br/>Copy/reaction (log)    Eff=110%<br/><br/>Y = -3.099*X + 39.03    R2 = 0.991    Amp.eff. = 110%<br/><br/>Amp.eff. = 116.5%<br/><br/>Y = -3. 491*X + 40.48    Amp.eff. = 93.4%    Cq    Eff=86%<br/><br/>Y = -3.700*X + 40.27    Eff=119.6%<br/><br/>Y = -2. 926*X + 35.84<br/><br/>Amp. eff. = 86.3%<br/><br/>Am p. eff. = 119.6%<br/><br/>When applied to pools of positive samples used in our laboratory as internal quality controls for RTqPCR, assays for other respiratory viruses were tested (Influenza A H1N1 and H3N2, parainfluenza virus 3 and 4, rhinovirus, coronavirus 229, coronavirus HKU) N1, RdRP, RdRP (modified), E, and E (modified) assays did not returned false-positive results."
+        ],
+        "discussion": [
+            "So, under our conditions, the N1 and RdRP (modified) showed the highest analytical sensitivity for their RNA targets. E assay, in its original concentration, was considered a tertiary confirmatory assay.<br/><br/>Taken together, N1, RdRP (optimized) and E presented appropriated analytical sensibility and specificity in our automated RT-qPCR workflow for COVID-19 virus, E being at least 4-fold less sensitive than the others.<br/><br/>The sensitivities observed in this study were slightly different than the described for RdRP (3.6 copies per reaction) and E (3.9 copies per reaction) original description, where the authors used the in vitro transcribed SARS-CoV-2 RNA directly in the reaction[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Our results can be secondary to the fact that we spiked the synthetic RNA in the nasopharyngeal samples, resembling a real clinical sample and in the limit of detection calculation, we assumed that the nucleic acid purification recovered 100% of the spiked RNA sequences of the 200 ul aliquot used in the extraction.<br/><br/>This study highlights the importance of local validation of in-house assays before its availability to the population. Experiments to establish the assay analytical specificity can be easily implemented. At this moment, the proposed method [N1 (primary) and RPDP (modified) (confirmatory)] detected the first case of SARS-CoV-2 Brazilian central-west region, demonstrating that the use of the synthetic RTqPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple, effective way to be prepared for upcoming threats. The use of spiked samples resembling a real clinical specimen exposes the artificial SARS-CoV-2 sequences to the same background of nucleic acids yields that can be found in the routine and similar amplification behavior of a real SARS-CoV-2 is expected."
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [
+                "supplemental file"
+            ],
+            "supplementary_figure_references": []
+        }
+    },
+    "structured_content": {
+        "Abstract": [
+            "The World Health Organization declared that COVID-19 outbreak constituted a Public Health",
+            "Emergency of International Concern and the development of reliable laboratory diagnosis of SARSCoV-2 became mandatory to identify, isolate and provide optimized care for patients early. RT-qPCR testing of respiratory secretions is routinely used to detect causative viruses in acute respiratory infection. RT-qPCR in-house protocols to detect the SARS-CoV-2 have been described. Validations of these protocols are considered a key knowledge gap for COVID-19, especially if executed in a high throughput format. Here, we investigate the analytical sensitivity and specificity of two interim RTqPCR protocols for the qualitative detection of SARS-CoV-2 executed in a fully automated platform.",
+            "Under our conditions, the N1 and RdRP (modified) showed the highest analytical sensitivity for their",
+            "RNA targets. E assay, in its original concentration, was considered a tertiary confirmatory assay. Taken together, N1, RdRP (optimized) and E presented appropriated analytical sensibility and specificity in our automated RT-qPCR workflow for COVID-19 virus, E being at least 4-fold less sensitive than the others. This study highlights the importance of local validation of in-house assays before its availability to the population. The use of the synthetic RT-qPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple effective way to be prepared for upcoming threats. The proposed assay detected the fisrt SARS-CoV-2 infection in Brazilian Central-West."
+        ],
+        "Introduction": [
+            "On 30 January 2020, the World Health Organization declared that the COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARS-CoV-2 became mandatory to identify, isolate and provide optimized care for patients early[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. RT-qPCR testing of respiratory secretions is routinely used to detect causative viruses in acute respiratory infection and, during a Public Health Emergency of International Concern, the establishment of standardized processes and protocols, as well as sharing of specimens, data, and information is critical. RT-qPCR in-house protocols to detect the SARS-CoV-2 have been described[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "Validations of these protocols are considered a key knowledge gap for COVID-19, especially if executed in a high throughput format. Here, we investigate the analytical sensitivity and specificity of two interim RT-qPCR protocols[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for the qualitative detection of SARS-CoV-2 executed in a fully automated platform."
+        ],
+        "Methods": [
+            "Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen."
+        ],
+        "Ethical considerations": [
+            "All volunteers agreed to participate, signed informed consent and the internal use of these samples for diagnostic workflow optimization was according to the medical ethical rules of our institution.",
+            "CDC and Charit\u00e9 described the interim SARS-CoV-2 RT-qPCR protocols evaluated in this study.",
+            "Assays names described by each protocol were maintained to avoid mistakes: N1, N2, N3, N, E, RdRP.",
+            "Primers and probes for SARS-CoV-2 can be found in the supplemental file.",
+            "Each viral primer/probe set was multiplexed with primer/probe set for human RPP30 gene to control the sample collection, as the amount of biological material varies from sample to sample, and with a primer/probe set for an artificial RNA sequence (artificial external control - AEC), which is introduced during extraction, to control the RT-qPCR steps and its inhibition. Primers and probes for RPP30 and",
+            "AEC can be found in the supplemental file.",
+            "The RT-qPCR workflow was executed on Flow Flex Solution, which is composed by a liquid handlers and a nucleic acid extractor. The liquid handler pipettes the primary samples and distribute the PCR reaction master mix. Nucleic acids were extracted from 200 ul of the primary sample using MagNA pure 96 DNA and Viral NA Small Volume Kit on Magna pure 96 instrument. One-step RT-qPCR reaction was prepared with LightCycler\u00ae Multiplex RNA Virus Master (all from Roche Diagnostics, Mannheim, Germany). Primers/probe concentrations suggested by the interim RT-qPCR protocols providers were maintained and other concentrations were also tested (table 1). The final reaction volume was 10 ul and the automated workflow was able to perform 4 viral assays in 96 samples in 4-5 hours."
+        ],
+        "Results": [
+            "All nasopharyngeal swabs samples from healthy volunteers were submitted to the six considered",
+            "SARS-CoV-2 assays to check the generation of unspecific response. We observed consistent falsepositive results for N and N2 (60 out of 60 samples for both). N3 assay generated false positive signal or inconclusive results in 13 out of 60 tested samples. N2, N3, and N assays were not considered for subsequent experiments due to the lack of analytical specificity under our conditions (figure 1).",
+            "N author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "A synthetic dsDNA molecule (Integrated DNA Technologies, Coralville, USA) comprising of the concatenation of all six viral assays target sequences in the SARS-CoV-2 genome was in vitro transcribed into its RNA form. This SARS-CoV-2 diagnostic synthetic RNA was quantified and a previously known copy number solution was spiked into negative swabs to construct positive samples as similar as possible from real clinical samples. These constructed samples were submitted to the automated workflow for assays that passed in the analytical specificity evaluation (N1, E, and RdRP).",
+            "Limiting dilution of 1:2 (from 2.64x104 to 4.04x10-1 copies/reaction) of the synthetic SARS-CoV-2 diagnostic RNA was tested in order to evaluate the assays\u2019 limit of detection. Probit regression analysis returned the limit of detection of 21 (95% CI 16.5 - 31.1) copies/reaction for N1, 141 (95% CI 109 207) copies/reaction for E and 350 (95% CI 281 - 508) copies/reaction for RdRP (Figure 1, B). E and",
+            "RdRP assay primer/probe concentrations were modified and limits of detection changed to 457 (95%CI",
+            "- 598) and 33.7 (95% CI 27.6 \u2013 46.8) copies/reaction, respectively. Primers/probe concentration optimization did not interfere with specificity of the assays (20 healthy volunteers samples tested).",
+            "B) Probit regression analysis (inserted unit values are copies/reaction).",
+            "Amplifications efficiencies of N1, RdRP, RdRP (modified), E, and E (modified) assays were 93.4%, 116.5%, 110%, 86% and 119.6%, respectively, when applied to serial dilution of 1:10 (1.48x108 to",
+            "1.48x102 copies/PCR) of the synthetic SARS-CoV-2 diagnostic RNA. N1 and RdRP (modified) showed better amplification efficiency and this observation corroborates with the results of the limiting dilution experiment because assays with amplification efficiencies closed to 100% have better diagnostic performance (figure 3).",
+            "When applied to pools of positive samples used in our laboratory as internal quality controls for RTqPCR, assays for other respiratory viruses were tested (Influenza A H1N1 and H3N2, parainfluenza virus 3 and 4, rhinovirus, coronavirus 229, coronavirus HKU) N1, RdRP, RdRP (modified), E, and E (modified) assays did not returned false-positive results."
+        ],
+        "Discussion": [
+            "So, under our conditions, the N1 and RdRP (modified) showed the highest analytical sensitivity for their RNA targets. E assay, in its original concentration, was considered a tertiary confirmatory assay.",
+            "Taken together, N1, RdRP (optimized) and E presented appropriated analytical sensibility and specificity in our automated RT-qPCR workflow for COVID-19 virus, E being at least 4-fold less sensitive than the others.",
+            "The sensitivities observed in this study were slightly different than the described for RdRP (3.6 copies per reaction) and E (3.9 copies per reaction) original description, where the authors used the in vitro transcribed SARS-CoV-2 RNA directly in the reaction[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Our results can be secondary to the fact that we spiked the synthetic RNA in the nasopharyngeal samples, resembling a real clinical sample and in the limit of detection calculation, we assumed that the nucleic acid purification recovered 100% of the spiked RNA sequences of the 200 ul aliquot used in the extraction.",
+            "This study highlights the importance of local validation of in-house assays before its availability to the population. Experiments to establish the assay analytical specificity can be easily implemented. At this moment, the proposed method [N1 (primary) and RPDP (modified) (confirmatory)] detected the first case of SARS-CoV-2 Brazilian central-west region, demonstrating that the use of the synthetic RTqPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple, effective way to be prepared for upcoming threats. The use of spiked samples resembling a real clinical specimen exposes the artificial SARS-CoV-2 sequences to the same background of nucleic acids yields that can be found in the routine and similar amplification behavior of a real SARS-CoV-2 is expected."
+        ],
+        "References": [
+            "World experts and funders set priorities for COVID-19 research. 2020. (Accessed February 2, 2020, at https://http://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-setpriorities-for-covid-19-research.)",
+            "Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans. World Health Organization, 2020. (Accessed February 2, 2020, at https://http://www.who.int/emergencies/diseases/novel-coronavirus-2019/technicalguidance/laboratory-guidance.)",
+            "Corman VM, Landt O, Kaiser M, et al Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin 2020;25.",
+            "2019-Novel Coronavirus (2019-nCoV) Real-time rRT-PCR Panel",
+            "Primers and Probes. 2020. at https://http://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-panelprimer-probes.html.)"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "nasopharyngeal swabs samples",
+            "number": 60,
+            "context": "The proposed assay detected the fisrt SARS-CoV-2 infection in Brazilian Central-West. <mark class=\"stats\">Samples and collection tubes<br/><br/>Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen.Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen</mark>. "
+        },
+        {
+            "participant": "nasopharyngeal swabs samples",
+            "number": 60,
+            "context": "Samples and collection tubes. <mark class=\"stats\">Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen</mark>. medRxiv preprint doi: https://doi.org/10.1101/2020.03.07.20032326"
+        },
+        {
+            "participant": "samples",
+            "number": 96,
+            "context": "Primers/probe concentrations suggested by the interim RT-qPCR protocols providers were maintained and other concentrations were also tested (table 1). <mark class=\"stats\">The final reaction volume was 10 ul and the automated workflow was able to perform 4 viral assays in 96 samples in 4-5 hours</mark>. All nasopharyngeal swabs samples from healthy volunteers were submitted to the six considered"
+        },
+        {
+            "participant": "samples",
+            "number": 60,
+            "context": "SARS-CoV-2 assays to check the generation of unspecific response. <mark class=\"stats\">We observed consistent falsepositive results for N and N2 (60 out of 60 samples for both)</mark>. N3 assay generated false positive signal or inconclusive results in 13 out of 60 tested samples"
+        },
+        {
+            "participant": "tested samples",
+            "number": 60,
+            "context": "We observed consistent falsepositive results for N and N2 (60 out of 60 samples for both). <mark class=\"stats\">N3 assay generated false positive signal or inconclusive results in 13 out of 60 tested samples</mark>. N2, N3, and N assays were not considered for subsequent experiments due to the lack of analytical specificity under our conditions (figure 1)"
+        },
+        {
+            "participant": "healthy volunteers samples",
+            "number": 20,
+            "context": "- 598) and 33.7 (95% CI 27.6 \u2013 46.8) copies/reaction, respectively. <mark class=\"stats\">Primers/probe concentration optimization did not interfere with specificity of the assays (20 healthy volunteers samples tested)</mark>. B) Probit regression analysis (inserted unit values are copies/reaction)"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "sars cov",
+        "world health",
+        "rt qpcr",
+        "analytical sensitivity",
+        "health organization",
+        "public health emergency",
+        "analytical sensibility",
+        "SARS",
+        "qPCR",
+        "international concern",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.37037037037037035,
+        "qPCR": 0.37037037037037035,
+        "COVID-19": 0.14814814814814814,
+        "analytical sensitivity": 0.07407407407407407,
+        "analytical sensibility": 0.037037037037037035,
+        "sars cov": 0.0,
+        "world health": 0.0,
+        "rt qpcr": 0.0,
+        "health organization": 0.0,
+        "public health emergency": 0.0,
+        "international concern": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> On 30 January 2020, the World Health Organization declared that the COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARS-CoV-2 became mandatory to identify, isolate and provide optimized care for patients early[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "RT-qPCR in-house protocols to detect the SARS-CoV-2 have been described[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+        "Validations of these protocols are considered a key knowledge gap for COVID-19, especially if executed in a high throughput format.",
+        "The authors investigate the analytical sensitivity and specificity of two interim RT-qPCR protocols[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for the qualitative detection of SARS-CoV-2 executed in a fully automated platform",
+        "<h2 style=\"display: inline\">Methods:</h2> Samples and collection tubes<br/><br/>Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen.",
+        "Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen",
+        "<h2 style=\"display: inline\">Results:</h2> All nasopharyngeal swabs samples from healthy volunteers were submitted to the six considered<br/><br/>SARS-CoV-2 assays to check the generation of unspecific response.",
+        "This SARS-CoV-2 diagnostic synthetic RNA was quantified and a previously known copy number solution was spiked into negative swabs to construct positive samples as similar as possible from real clinical samples",
+        "These constructed samples were submitted to the automated workflow for assays that passed in the analytical specificity evaluation (N1, E, and RdRP).",
+        "When applied to pools of positive samples used in the laboratory as internal quality controls for RTqPCR, assays for other respiratory viruses were tested (Influenza A H1N1 and H3N2, parainfluenza virus 3 and 4, rhinovirus, coronavirus 229, coronavirus HKU) N1, RdRP, RdRP, E, and E assays did not returned false-positive results",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Under the conditions, the N1 and RdRP showed the highest analytical sensitivity for their RNA targets.",
+        "Experiments to establish the assay analytical specificity can be implemented",
+        "At this moment, the proposed method [N1 and RPDP] detected the first case of SARS-CoV-2 Brazilian central-west region, demonstrating that the use of the synthetic RTqPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple, effective way to be prepared for upcoming threats.",
+        "The use of spiked samples resembling a real clinical specimen exposes the artificial SARS-CoV-2 sequences to the same background of nucleic acids yields that can be found in the routine and similar amplification behavior of a real SARS-CoV-2 is expected"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "On 30 January 2020, the World Health Organization declared that the COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARS-CoV-2 became mandatory to identify, isolate and provide optimized care for patients early[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "RT-qPCR in-house protocols to detect the SARS-CoV-2 have been described[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "Validations of these protocols are considered a key knowledge gap for COVID-19, especially if executed in a high throughput format.",
+            "The authors investigate the analytical sensitivity and specificity of two interim RT-qPCR protocols[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for the qualitative detection of SARS-CoV-2 executed in a fully automated platform"
+        ],
+        "Methods": [
+            "Samples and collection tubes<br/><br/>Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen.",
+            "Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab and placed into tubes containing 4.3 mL of guanidine hydrochloride (40%), which virtually inactivates the virus and preserves all RNA in the specimen"
+        ],
+        "Results": [
+            "All nasopharyngeal swabs samples from healthy volunteers were submitted to the six considered<br/><br/>SARS-CoV-2 assays to check the generation of unspecific response.",
+            "This SARS-CoV-2 diagnostic synthetic RNA was quantified and a previously known copy number solution was spiked into negative swabs to construct positive samples as similar as possible from real clinical samples",
+            "These constructed samples were submitted to the automated workflow for assays that passed in the analytical specificity evaluation (N1, E, and RdRP).",
+            "When applied to pools of positive samples used in the laboratory as internal quality controls for RTqPCR, assays for other respiratory viruses were tested (Influenza A H1N1 and H3N2, parainfluenza virus 3 and 4, rhinovirus, coronavirus 229, coronavirus HKU) N1, RdRP, RdRP, E, and E assays did not returned false-positive results"
+        ],
+        "Conclusion": [
+            "Under the conditions, the N1 and RdRP showed the highest analytical sensitivity for their RNA targets.",
+            "Experiments to establish the assay analytical specificity can be implemented",
+            "At this moment, the proposed method [N1 and RPDP] detected the first case of SARS-CoV-2 Brazilian central-west region, demonstrating that the use of the synthetic RTqPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple, effective way to be prepared for upcoming threats.",
+            "The use of spiked samples resembling a real clinical specimen exposes the artificial SARS-CoV-2 sequences to the same background of nucleic acids yields that can be found in the routine and similar amplification behavior of a real SARS-CoV-2 is expected"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "1._2020_a",
+            "entry": "1. World experts and funders set priorities for COVID-19 research. 2020. (Accessed February 2, 2020, at https://http://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-setpriorities-for-covid-19-research.)",
+            "url": "https://http://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-setpriorities-for-covid-19-research"
+        },
+        {
+            "id": "2",
+            "alt_id": "2._2020_a",
+            "entry": "2. Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans. World Health Organization, 2020. (Accessed February 2, 2020, at https://http://www.who.int/emergencies/diseases/novel-coronavirus-2019/technicalguidance/laboratory-guidance.)",
+            "url": "https://http://www.who.int/emergencies/diseases/novel-coronavirus-2019/technicalguidance/laboratory-guidance",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Coronavirus%20disease%20COVID19%20technical%20guidance%20Laboratory%20testing%20for%202019nCoV%20in%20humans%20World%20Health%20Organization%202020%20Accessed%20February%202%202020%20at%20httpshttpwwwwhointemergenciesdiseasesnovelcoronavirus2019technicalguidancelaboratoryguidance",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Coronavirus%20disease%20COVID19%20technical%20guidance%20Laboratory%20testing%20for%202019nCoV%20in%20humans%20World%20Health%20Organization%202020%20Accessed%20February%202%202020%20at%20httpshttpwwwwhointemergenciesdiseasesnovelcoronavirus2019technicalguidancelaboratoryguidance"
+        },
+        {
+            "id": "3",
+            "alt_id": "Corman_et+al_2019_a",
+            "entry": "3. Corman VM, Landt O, Kaiser M, et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro surveillance: bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin 2020;25. 2019-Novel Coronavirus (2019-nCoV) Real-time rRT-PCR Panel",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Corman%20VM%20Landt%20O%20Kaiser%20M%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20surveillance%20bulletin%20Europeen%20sur%20les%20maladies%20transmissibles%20%20European%20communicable%20disease%20bulletin%20202025%202019Novel%20Coronavirus%202019nCoV%20Realtime%20rRTPCR%20Panel",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Corman%20VM%20Landt%20O%20Kaiser%20M%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20surveillance%20bulletin%20Europeen%20sur%20les%20maladies%20transmissibles%20%20European%20communicable%20disease%20bulletin%20202025%202019Novel%20Coronavirus%202019nCoV%20Realtime%20rRTPCR%20Panel",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Corman%20VM%20Landt%20O%20Kaiser%20M%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20surveillance%20bulletin%20Europeen%20sur%20les%20maladies%20transmissibles%20%20European%20communicable%20disease%20bulletin%20202025%202019Novel%20Coronavirus%202019nCoV%20Realtime%20rRTPCR%20Panel"
+        },
+        {
+            "id": "Primers_2020_b",
+            "alt_id": "4",
+            "entry": "Primers and Probes. 2020. at https://http://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-panelprimer-probes.html.)",
+            "url": "https://http://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-panelprimer-probes.html"
+        }
+    ],
+    "facts": [
+        "The World Health Organization declared that COVID-19 outbreak constituted a",
+        "This study highlights the importance of local validation of in-house assays",
+        "a quick, simple effective way to be prepared for upcoming threats",
+        "the World Health Organization declared that the COVID-19 outbreak constituted a",
+        "Sixty nasopharyngeal swabs samples were collected from healthy volunteers using Rayon swab",
+        "SARS-CoV-2 assays to check the generation of unspecific response",
+        "N assays were not considered for subsequent experiments",
+        "who has granted medRxiv a license to display the preprint in perpetuity",
+        "previously known copy number solution was spiked into negative swabs to construct positive samples",
+        "These constructed samples were submitted to the automated workflow for assays",
+        "that passed in the analytical specificity evaluation",
+        "of the synthetic SARS-CoV-2 diagnostic RNA was tested in order to evaluate the assays",
+        "Probit regression analysis returned the limit of detection of 21 copies",
+        "probe concentration optimization did not interfere with specificity of the assays",
+        "this observation corroborates with the results of the limiting dilution experiment",
+        "because assays with amplification efficiencies closed to 100% have better diagnostic performance",
+        "to pools of positive samples used in our laboratory as internal quality controls",
+        "The sensitivities observed in this study were slightly different than the described for",
+        "Our results can be secondary to the fact",
+        "ul aliquot used in the extraction",
+        "a quick, simple, effective way to be prepared for upcoming threats",
+        "the analytical sensitivity and specificity of two interim RT-qPCR protocols3,4 for the qualitative detection of SARS-CoV-2 executed in a fully automated platform"
+    ],
+    "claims": [
+        "We investigate the analytical sensitivity and specificity of two interim RTqPCR protocols for the qualitative detection of SARS-CoV-2 executed in a fully automated platform",
+        "We investigate the analytical sensitivity and specificity of two interim RT-qPCR protocols3,4 for the qualitative detection of SARS-CoV-2 executed in a fully automated platform"
+    ],
+    "findings": [
+        "Probit regression analysis returned the limit of detection of 21 (95% CI 16.5 - 31.1) copies/reaction for N1, 141 (95% CI 109 207) copies/reaction for E and 350 (95% CI 281 - 508) copies/reaction for RdRP (Figure 1, B)",
+        "- 598) and 33.7 (95% CI 27.6 \u2013 46.8) copies/reaction, respectively"
+    ],
+    "processes": [],
+    "key_statements": [
+        "On 30 January 2020, the World Health Organization declared that the COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARS-CoV-2 became mandatory to identify, isolate and provide optimized care for patients early[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "We investigate the analytical sensitivity and specificity of two interim RT-qPCR protocols[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for the qualitative detection of SARS-CoV-2 executed in a fully automated platform",
+        "SARS-CoV-2 assays to check the generation of unspecific response",
+        "A synthetic dsDNA molecule (Integrated DNA Technologies, Coralville, USA) comprising of the concatenation of all six viral assays target sequences in the SARS-CoV-2 genome was in vitro transcribed into its RNA form. This SARS-CoV-2 diagnostic synthetic RNA was quantified and a previously known copy number solution was spiked into negative swabs to construct positive samples as similar as possible from real clinical samples",
+        "Limiting dilution of 1:2 of the synthetic SARS-CoV-2 diagnostic RNA was tested in order to evaluate the assays\u2019 limit of detection",
+        "When applied to pools of positive samples used in our laboratory as internal quality controls for RTqPCR, assays for other respiratory viruses were tested (Influenza A H1N1 and H3N2, parainfluenza virus 3 and 4, rhinovirus, coronavirus 229, coronavirus HKU) N1, RdRP, RdRP, E, and E",
+        "The sensitivities observed in this study were slightly different than the described for RdRP (3.6 copies per reaction) and E (3.9 copies per reaction) original description, where the authors used the in vitro transcribed SARS-CoV-2 RNA directly in the reaction[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "Our results can be secondary to the fact that we spiked the synthetic RNA in the nasopharyngeal samples, resembling a real clinical sample and in the limit of detection calculation, we assumed that the nucleic acid purification recovered 100% of the spiked RNA sequences of the 200 ul aliquot used in the extraction",
+        "The proposed method [N1 and RPDP] detected the first case of SARS-CoV-2 Brazilian central-west region, demonstrating that the use of the synthetic RTqPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple, effective way to be prepared for upcoming threats"
+    ],
+    "top_statements": [
+        "On 30 January 2020, the World Health Organization declared that the COVID-19 outbreak constituted a Public Health Emergency of International Concern and the development of reliable laboratory diagnosis of SARS-CoV-2 became mandatory to identify, isolate and provide optimized care for patients early[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "When applied to pools of positive samples used in our laboratory as internal quality controls for RTqPCR, assays for other respiratory viruses were tested (Influenza A H1N1 and H3N2, parainfluenza virus 3 and 4, rhinovirus, coronavirus 229, coronavirus HKU) N1, RdRP, RdRP, E, and E",
+        "The sensitivities observed in this study were slightly different than the described for RdRP (3.6 copies per reaction) and E (3.9 copies per reaction) original description, where the authors used the in vitro transcribed SARS-CoV-2 RNA directly in the reaction[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+        "Our results can be secondary to the fact that we spiked the synthetic RNA in the nasopharyngeal samples, resembling a real clinical sample and in the limit of detection calculation, we assumed that the nucleic acid purification recovered 100% of the spiked RNA sequences of the 200 ul aliquot used in the extraction",
+        "Probit regression analysis returned the limit of detection of 21 (95% CI 16.5 - 31.1) copies/reaction for N1, 141 (95% CI 109 207) copies/reaction for E and 350 (95% CI 281 - 508) copies/reaction for RdRP (Figure 1, B)",
+        "The proposed method [N1 and RPDP] detected the first case of SARS-CoV-2 Brazilian central-west region, demonstrating that the use of the synthetic RTqPCR target to investigate novel assays diagnostic parameters in automated workflows is a quick, simple, effective way to be prepared for upcoming threats"
+    ],
+    "headline": "Our results can be secondary to the fact that we spiked the synthetic RNA in the nasopharyngeal samples, resembling a real clinical sample and in the limit of detection calculation, we assumed that the nucleic acid purification recovered 100% of the spiked RNA sequences of the 200 ul aliquot used in the extraction",
+    "contexts": [],
+    "abbreviations": {}
+}

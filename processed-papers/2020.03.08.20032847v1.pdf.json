@@ -1,0 +1,651 @@
+{
+    "filename": "2020.03.08.20032847v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 3657415,
+    "metadata": {
+        "title": "Prediction of COVID-19 Spreading Profiles in South Korea, Italy and Iran by Data-Driven Coding",
+        "date": 2020,
+        "author": "Choujun Zhana, Chi K. Tseb, Zhikang Laic, Tianyong Haoa, Jingjing Sud",
+        "affiliations": [
+            "School of Computing, South China Normal University, Guangzhou, China",
+            "Department of Electrical Engineering, City University of Hong Kong, Hong Kong.",
+            "School of Electrical and Computer Engineering, Nanfang College of Sun Yat-Sen University, China",
+            "Nethersole School of Nursing, The Chinese University of Hong Kong, Hong Kong.",
+            "National Health Commission of China. The predicted spreading profiles of the 367 Chinese cities (which were available on February 19, 2020 [4]) have been highly consistent with the actual profiles, including the times of infection peaks and the percentages of infected individuals in the 367 cities."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.08.20032847",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.08.20032847v1.pdf"
+        },
+        "abstract": "This work applies a data-driven coding method for prediction of the COVID-19 spreading profile in any given population that shows an initial phase of epidemic progression. Based on the historical data collected for COVID-19 spreading in 367 cities in China and the set of parameters of the augmented Susceptible-Exposed-Infected-Removed (SEIR) model obtained for each city, a set of profile codes representing a variety of transmission mechanisms and contact topologies is formed. By comparing the data of an early outbreak of a given population with the complete set of historical profiles, the best fit profiles are selected and the corresponding sets of profile codes are used for prediction of the future progression of the epidemic in that population. Application of the method to the data collected for South Korea, Italy and Iran shows that peaks of infection cases are expected to occur before the end of March 2020, and that the percentage of population infected in each city will be less than 0.01%, 0.05% and 0.02%, for South Korea, Italy and Iran, respectively.",
+        "keywords": [
+            "Epidemic spreading",
+            "COVID-19",
+            "new coronavirus",
+            "data-driven coding",
+            "prediction"
+        ],
+        "references": "@article{li2020a,\n  author = {Li, A. and Guan, X. and Wu, P. and Wang, X. and Zhou, L. and Tong, Y. and Ren, R. and Leung, K.S. and Lau, E.H. and Wong, J.Y.},\n  title = {Early transmission dynamics in Wuhan China of novel coronavirus-infected pneumonia},\n  journal = {New Eng J Med},\n  date = {2020},\n  doi = {DOI: 10.1056/NEJMoa2001316},\n  more-authors = {true},\n  language = {}\n}\n@article{du-a,\n  author = {Du, Z. and Wang, L. and Cauchemez, S. and Xu, X. and Wang, X. and BJ, Cowling and Meyers, L.A.},\n  title = {Risk of transportation of 2019 novel coronavirus disease from Wuhan to other cities in China},\n  journal = {Emerging Infectious Disease},\n  volume = {2020},\n  doi = {DOI: 10.3201/eid2601.200146},\n  number = {26},\n  language = {}\n}\n@article{chinazzi-a,\n  author = {Chinazzi, M. and Davis, J.T. and Ajelli, M. and Gioannini, C. and Litvinova, M. and Merler, S. and Piontti, A.P.},\n  title = {Mu},\n  publisher = {K, Rossi L, Sun K, Viboud},\n  journal = {Science},\n  volume = {2020},\n  unmatched-author = {C, Xiong X, Yu H, Halloran ME,},\n  source = {Longini I and Vespignani A. The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak},\n  number = {10},\n  language = {}\n}\n@book{zhan-a,\n  author = {Zhan, C. and Tse, C.K. and Fu, Y. and Lai, Z. and Zhang, H.},\n  title = {Modeling and prediction of the 2019 coronavirus disease spreading in China incorporating human migration},\n  publisher = {data, Preprint available at medRxiv.org},\n  doi = {doi},\n  url = {https://doi.org/10.1101/2020.02.18.20024570.},\n  language = {}\n}\n@misc{migration-a,\n  author = {Migration, Baidu},\n  url = {http://qianxi.baidu.com/.2020.}\n}\n@article{m2005a,\n  author = {M, Small and CK, Tse},\n  title = {Clustering model for transmission of the SARS virus: Application to epidemic control and risk assessment},\n  journal = {Physica A},\n  date = {2005},\n  volume = {351},\n  pages = {499\u2013511},\n  language = {}\n}\n@article{small2006a,\n  author = {Small, M. and CK, Tse and Walker, D.},\n  title = {Super-spreaders and the rate of transmission of the SARS virus},\n  journal = {Physica D},\n  date = {2006},\n  volume = {215},\n  pages = {146\u2013158},\n  language = {}\n}\n@book{diekmann2013a,\n  author = {Diekmann, O. and Heesterbeek, H. and Britton, T.},\n  title = {Mathematical Tools for Understanding Infectious Disease Dynamics},\n  publisher = {Princeton University Press},\n  date = {2013},\n  language = {}\n}\n@misc{organization-a,\n  author = {Organization, World Health},\n  title = {Coronavirus disease},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019.2020.},\n  language = {}\n}\n@incollection{wikipediacom-a,\n  author = {Wikipediacom},\n  title = {2020 Coronavirus outbreak in South Korea},\n  url = {https://en.wikipedia.org/wiki2020},\n  booktitle = {coronavirus outbreak in South Korea.2020},\n  language = {}\n}\n@misc{worldmetercom-a,\n  author = {Worldmetercom},\n  title = {Coronavirus cases by country, territory, or conveyance},\n  url = {https://www.worldometers.info/coronavirus/},\n  language = {}\n}\n@misc{statistacom-a,\n  author = {Statistacom},\n  title = {Coronavirus (COVID-19) cases in Italy by region},\n  url = {https://www.statista.com/statistics/1099375/coronavirus-cases-by-region-in-italy/.2020.},\n  language = {}\n}\n@misc{kim2020a,\n  author = {Kim, H. and S, Kim and Che, C.},\n  title = {Virus testing blitz appears to keep Korea death rate low},\n  url = {https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-ofthousands-to-fight-virus-outbreak.},\n  date = {2020-03-05},\n  language = {}\n}\n@misc{seckin2020a,\n  author = {Seckin, B.},\n  title = {COVID- 19: Italy death toll soars to},\n  date = {2020-03-06},\n  url = {https://www.aa.com.tr/en/europe/covid-19-italy-death-toll-soars-to-197/1757450.},\n  language = {}\n}\n@misc{unknown2020a,\n  title = {New Straits Times. Another Iranian MP dies of Covid-19},\n  url = {https://www.nst.com.my/world/world/2020/03/572595/another-iranian-mp-dies-covid-19.},\n  date = {2020-03-07},\n  language = {}\n}\n",
+        "emails": [
+            "chitse@cityu.edu.hk"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Li, A.\nAU  - Guan, X.\nAU  - Wu, P.\nAU  - Wang, X.\nAU  - Zhou, L.\nAU  - Tong, Y.\nAU  - Ren, R.\nAU  - Leung, K.S.\nAU  - Lau, E.H.\nAU  - Wong, J.Y.\nTI  - Early transmission dynamics in Wuhan China of novel coronavirus-infected pneumonia\nT2  - New Eng J Med\nPY  - 2020\nDA  - 2020\nDO  - 10.1056/NEJMoa2001316\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Du, Z.\nAU  - Wang, L.\nAU  - Cauchemez, S.\nAU  - Xu, X.\nAU  - Wang, X.\nAU  - BJ, Cowling\nAU  - Meyers, L.A.\nTI  - Risk of transportation of 2019 novel coronavirus disease from Wuhan to other cities in China\nT2  - Emerging Infectious Disease\nVL  - 2020\nDO  - 10.3201/eid2601.200146\nIS  - 26\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chinazzi, M.\nAU  - Davis, J.T.\nAU  - Ajelli, M.\nAU  - Gioannini, C.\nAU  - Litvinova, M.\nAU  - Merler, S.\nAU  - Piontti, A.P.\nTI  - Mu\nPB  - K, Rossi L, Sun K, Viboud\nT2  - Science\nVL  - 2020\nC1  - C, Xiong X, Yu H, Halloran ME,\nT2  - Longini I and Vespignani A. The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak\nIS  - 10\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Zhan, C.\nAU  - Tse, C.K.\nAU  - Fu, Y.\nAU  - Lai, Z.\nAU  - Zhang, H.\nTI  - Modeling and prediction of the 2019 coronavirus disease spreading in China incorporating human migration\nPB  - data, Preprint available at medRxiv.org\nDO  - doi\nUR  - https://doi.org/10.1101/2020.02.18.20024570.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Migration, Baidu\nUR  - http://qianxi.baidu.com/.2020.\nER  - \n\nTY  - JOUR\nAU  - M, Small\nAU  - CK, Tse\nTI  - Clustering model for transmission of the SARS virus: Application to epidemic control and risk assessment\nT2  - Physica A\nPY  - 2005\nDA  - 2005\nVL  - 351\nSP  - 499\nEP  - 511\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Small, M.\nAU  - CK, Tse\nAU  - Walker, D.\nTI  - Super-spreaders and the rate of transmission of the SARS virus\nT2  - Physica D\nPY  - 2006\nDA  - 2006\nVL  - 215\nSP  - 146\nEP  - 158\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Diekmann, O.\nAU  - Heesterbeek, H.\nAU  - Britton, T.\nTI  - Mathematical Tools for Understanding Infectious Disease Dynamics\nPB  - Princeton University Press\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - GEN\nAU  - Organization, World Health\nTI  - Coronavirus disease\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019.2020.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Wikipediacom\nTI  - 2020 Coronavirus outbreak in South Korea\nUR  - https://en.wikipedia.org/wiki2020\nT2  - coronavirus outbreak in South Korea.2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - Worldmetercom\nTI  - Coronavirus cases by country, territory, or conveyance\nUR  - https://www.worldometers.info/coronavirus/\nLA  - \nER  - \n\nTY  - GEN\nAU  - Statistacom\nTI  - Coronavirus (COVID-19) cases in Italy by region\nUR  - https://www.statista.com/statistics/1099375/coronavirus-cases-by-region-in-italy/.2020.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Kim, H.\nAU  - S, Kim\nAU  - Che, C.\nTI  - Virus testing blitz appears to keep Korea death rate low\nUR  - https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-ofthousands-to-fight-virus-outbreak.\nPY  - 2020\nDA  - 2020/03/05\nLA  - \nER  - \n\nTY  - GEN\nAU  - Seckin, B.\nTI  - COVID- 19: Italy death toll soars to\nPY  - 2020\nDA  - 2020/03/06\nUR  - https://www.aa.com.tr/en/europe/covid-19-italy-death-toll-soars-to-197/1757450.\nLA  - \nER  - \n\nTY  - GEN\nTI  - New Straits Times. Another Iranian MP dies of Covid-19\nUR  - https://www.nst.com.my/world/world/2020/03/572595/another-iranian-mp-dies-covid-19.\nPY  - 2020\nDA  - 2020/03/07\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Samples of data"
+            },
+            {
+                "id": "2",
+                "caption": "Official and estimated number of infected individuals in cities or regions in South Korea"
+            },
+            {
+                "id": "3",
+                "caption": "Official and estimated cumulative number of infected individuals in cities or regions in South Korea"
+            },
+            {
+                "id": "4",
+                "caption": "Official and estimated number of infected individuals in regions in Italy"
+            },
+            {
+                "id": "5",
+                "caption": "Official and estimated cumulative number of infected individuals in regions in Italy"
+            },
+            {
+                "id": "6",
+                "caption": "Official and estimated number of infected individuals in some cities in Iran"
+            },
+            {
+                "id": "7",
+                "caption": "Official and estimated cumulative number of infected individuals in some cities in Iran"
+            },
+            {
+                "id": "8",
+                "caption": "Statistics of (a) peak times in South Korea; (b) peak times in Italy; (c) peak times in Iran; (d) proportion of eventual infected population in South Korea; (e) proportion of eventual infected population in Italy; (f) proportion of eventual infected population in Iran; (g) eventual infected population in South Korea; (h) eventual infected population in Italy; (i) eventual infected population in Iran"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.08.20032847v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.08.20032847v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.08.20032847v1/img-008.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "The 2019 Coronavirus Disease (COVID-19 or SARS-CoV-2) is a highly contagious disease, which began to spread in China in mid December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and as the volume of intercity travel escalated around the Lunar New Year period, the number of infected individuals began to soar in mid January 2020. With no travel restriction in place due to the low level of vigilance or unawareness of the disease during the early phase of the outbreak, the spreading of the disease had gone almost unobstructed. Travel restriction began to be implemented throughout China since January 24, 2020, which has proven to be effective in curbing the spread of the virus. However, international traffic has not ceased and infectious<br/><br/>Preprint submitted to medRixv.org individuals (who may or may not show any symptom at the time of travel) have actually travelled to different countries with the virus they contracted. Recent studies also show that travel restriction did contribute to the control of the spreading of COVID-19 within China as well as in a global context [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. By February 20, 2020, China had confirmed a total of 74,579 cases of COVID-19 infection, with death toll reaching 2,119. While China has begun to see declining numbers of infected cases in most cities from late February, other countries started to report surging number of cases in some cities or regions. As of March 6, 2020, the cumulative number of cases of COVID-19 infection was 100,162 worldwide, with South Korea, Italy and Iran reporting surges of infected cases within two weeks. Moreover, the global mortality rate has remained around 3%.<br/><br/>In our recent work (available on February 19, 2020) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], intercity travel data obtained from Baidu Migration [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] has been collected and integrated into the traditional SusceptibleExposed-Infected-Removed (SEIR) model [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] to account for the effects of inflow and outflow traffic between 367 cities in China. Parameters of susceptible-to-exposed infection rates, exposed-to-infected infection rates, and recovery rates for 367 cities have been identified by fitting the augmented SEIR model with historical data available from the National Health Commission of China. The predicted spreading profiles of the 367 Chinese cities (which were available on February 19, 2020 [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]) have been highly consistent with the actual profiles, including the times of infection peaks and the percentages of infected individuals in the 367 cities.<br/><br/>In this work, we build on the data and estimated parameters obtained for 367 cities in our prior work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and establish a library of profiles (sets of codes) of different spreading profiles. Suppose a new outbreak has occurred in a given population. The numbers of infected and recovered cases during the early phase of the spreading form an initial profile. This initial or incomplete profile is compared with the historical full profiles obtained previously. Then, by selecting the best fit historical profiles, we identify the candidates parameters for prediction of the future spreading profile in that given population (of a city or region). It should be emphasized that the set of historical profiles obtained previously covers various possible spreading dynamics, representing a variety of contact topologies and transmission mechanisms including the travel effects that have been integrated in the model used to capture the transmission dynamics of the 367 cities. Thus, a new outbreak in a given population would likely follow one or a combination of the profiles based on the augmented model in our previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and hence can be reconstructed from the historical sets of profiles. In this work, we develop a procedure for implementing the selection of historical profiles, identification of best-fit parameters and construction of future profile. We apply the procedure to predict the epidemic progression in the cities of South Korea, Italy and Iran. Results of this study show that the spreading of COVID-19 in most cities in South Korea will peak between March 8 and March 16, 2020, and Italy will peak between March 12 and March 26, 2020, while Iran would have its peak around March 22, 2020. We also investigate the number of infected individuals in each city or region. Our method provides the average number of individuals eventually infected, along with a predicted deviation range at 95% confidence level. For Korea, we predict that Daegu and Gyeongsang North Road would have around 7,619 and 1,287 people eventually infected (i.e., 0.306% and 0.062% of the city\u2019s population), respectively, whereas the number of infected individuals in other cities in South Korea would be fewer than 300, i.e., less than 0.01% of city population. For Italy, we predict that Lombardi and Amelia Romagna would eventually have about 4,784 and 1,555 infected cases (i.e., 0.399% and 0.162 % of region\u2019s population), respectively, and the number of people eventually infected in other cities in Italy would be below 700 (<0.05% of city population). Moreover, Iran would have around 14,450 infected individuals, i.e., 0.018% of its population, of which around 2,498 and 1,698 will be expected in Tehran and Zanjan (i.e., 0.39% and 0.2% of the city\u2019s population). In addition, the number of people infected in most other cities would be fewer than 1,000 (<0.1% of the city\u2019s population). From the progression trends of the epidemic these three countries, provided control measures continue to be in place, the epidemic would come under control before the end of April 2020.<br/><br/>In the remainder of the paper, we first introduce the official daily infection data used in this study. The augmented SEIR model is briefly reviewed, mainly to introduce the parameters of the model used for prediction of spreading profiles. The key procedure for matching historical profiles and prediction of future spreading profiles will be explained. Results of application of the proposed method to prediction of the peaks and extents of outbreaks in South Korea, Italy and Iran will be given. Finally, we will provide a discussion of our estimation of the propagation and the reasonableness of our estimation in view of the measures taken by the authorities in controlling the spreading of this new disease.    2. Data<br/><br/>The World Health Organization currently sets the alert level of COVID-19 to the highest, and has made data related to the epidemic available to the public in a series of situation reports as well as other formats [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Our data include the number of infected cases, the cumulative number of infected cases, the number of recovered cases, and death tolls, for individual cities and regions in South Korea, Italy and Mazandran, from February 19, 2020, to March 6, 2020. Data organized in convenient formats are also available elsewhere [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Samples of data for Daegu, Gyeongsang North Road (South Korea), Lombardi, Amelia Romagna, Tehran and Iran are shown graphically in Figure 1. It should be noted that the data obtained for South Korea, Italy and Iran correspond to initial stages of the epidemic progression as the number of infected cases are still climbing, as of March 6, 2020."
+        ],
+        "method": [
+            "3.1. The Augmented SEIR Model<br/><br/>The travel-data augmented SEIR model [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] describes the spreading dynamics in terms of a basic fourth-order dynamical system with consideration of intercity travel in China. Consider a city j of population Pj. The states of the model are the number of susceptible individuals Ij(t), the number of exposed individuals (infectious but without symptom) Ej(t), the number of infected individuals Ij(t), and the number of recovered or removed individuals Rj(t). The model takes the following form in discrete time [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]: Xj(t + 1) = FaSEIR(Xj(t), Mj, \u03bcj)    (1)<br/><br/>where Xj(t) = [Sj(t) Ej(t) Ij(t) Rj(t)]T is the state vector on day t, FaSEIR(.) is the traveldata augmented function, Mj is the set of inflow and outflow travel strengths for city j, and \u03bcj is the set of parameters for city j, i.e., \u03bcj = [\u03b1j, \u03b2j, \u03baj, \u03b3j, \u03b4j, kl]    (2)<br/><br/>where \u03b2j is the rate at which a susceptible individual is infected by an infected individual in city j, \u03b1j is the rate at which a susceptible individual is infected by an exposed individuals in city j, \u03baj is the rate at which an exposed individual becomes infected in city j, and \u03b3j is the recovery rate in city j, kI is the possibility of an infected individual moving from one city to another, and \u03b4j is the eventual percentage of the population infected in city j. Moreover, the eventual infected population in city j is given by Njs = \u03b4jPj.<br/><br/>To facilitate comparison and matching of profiles, we introduce the normalized states as Ij(t) =\u2206 Ij(t)/Njs(t), Ej(t) =\u2206 Ej(t)/Njs(t), Sj(t) =\u2206 Sj(t)/Njs(t), and Rj(t) =\u2206 Rj(t)/Njs(t). Thus, (1) can be represented in normalized form as (3)<br/><br/>where 0 \u2264 |Xj(t)| \u2264 1. Since the above model has taken into account the human migration effect as well as the necessary transmission mechanism, we may consider the basic set of parameters to represent the characteristics of the propagation profile of city j. The complete set of parameters have been identified for 367 cities in China [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], which will serve as a set of codes for various propagation profiles of COVID-19 so far obtained. For brevity, we do not repeat the results here.<br/><br/>While two different cities may have different population size and percentage of eventual infected population, the rates of infection and recovery should be similar across a group of cities, i.e., \u03bci \u2248 \u03bcj. Thus, in normalized form, we have<br/><br/>Xi(t) \u2212 Xj(t) < for some > 0,    (4)<br/><br/>for cities i and j within a group of cities having similar parameter sets. This also means<br/><br/>NjsXi(t) \u2248 NisXj(t) or \u03b4jPjXi(t) \u2248 \u03b4iPiXj(t)    (5)<br/><br/>for the group of cities having similar rates of infection and recovery. Thus, provided the historical archive has adequately covered the possible dynamical profiles, we are able to perform fast prediction for any city o, by fitting an incomplete set of data (corresponding to an early outbreak stage in city o) and using the model parameters already obtained previously, as detailed in the following subsection.",
+            "The proposed data-driven prediction algorithm is based on the set of historical data of the spreading profiles of COVID-19 in 367 cities in China, namely, 367 sets of normalized time series of the form: Ii(c) = {Ii(1), Ii(2), \u00b7 \u00b7 \u00b7 Ii(Ki)}    (6)<br/><br/>Ri(c) = {Ri(1), Ri(2), \u00b7 \u00b7 \u00b7 Ri(Ki)}<br/><br/>where i = 1, 2, \u00b7 \u00b7 \u00b7 , 367, and Ki is the length of the data recorded in city i. Superscript \u201c(c)\u201d denotes data of Chinese cities.<br/><br/>Now, suppose an outbreak occurs in city o, and only ko days of data have been obtained in normalized form as<br/><br/>I(o) = {Io(1), Io(2), \u00b7 \u00b7 \u00b7 Io(ko)} R(o) = {Ro(1), Ro(2), \u00b7 \u00b7 \u00b7 Ro(ko)}    (7)<br/><br/>where ko < Ki. Then, assuming the spreading profile of city o is related to that of city i in the historical archive, as permitted by virtue of the validity of (4), we formulate the following optimization problem to predict the epidemic progression in city o: P0 : min fi i\u2208(1,N )    s.t. (i) fi =    wI    \u00c4Io(j)    \u2212    Ii(c)(j \u00e42 )    +    wR    \u00c4Ro(j)    Ri(c)(j (8)<br/><br/>(ii) \u03bcL \u2264 \u03bc \u2264 \u03bcU (iii) wI, wR > 0.<br/><br/>where N is the number of Chinese cities in the historical archive, wI and wJ are weighting coefficients, \u03bcL and \u03bcU are the lower and upper bounds of the searching space, respectively. By solving the the nonlinear optimization problem, we can find the most closely resembling growth curve from the historical profiles, e.g., city i. Then, we apply the the augmented SEIR model with the profile code given in the parameter set for city i to predict the future spreading trend of city o. Furthermore, we can choose the top n best candidates with the smallest error as the candidate set for prediction, giving an average predicted propagation profile and a deviation range based on n best-fit profile codes."
+        ],
+        "results": [
+            "We apply the aforedescribed procedure to the data obtained so far for cities in South Korea, Italy and Iran. These data represent the early stage of progression of the epidemic spreading, as the trends clearly show that the numbers of infected cases in most cities are still climbing, as of March 6, 2020. For each city or region, we identify a group of 10 profiles of best fit from the historical archive, and retrieve the corresponding sets of profile codes for generating the propagation profiles in the coming days. Using these 10 profiles, we produce an average progression profile, which is also accompanied by a deviation range at 95% confidence level."
+        ],
+        "conclusion": [
+            "The spreading of the 2019 New Coronavirus Disease (COVID-19 or SARS-CoV-2) has evolved from a contagion originally confined within Wuhan, China, in December 2019, rapidly to a global contagion, which has spread to 87 countries within two months. The numbers of confirmed infection cases in South Korea, Italy and Iran have surged in the last two weeks, reaching 7,313, 5,883 and 5,823, respectively, on March 8, 2020. The global fatality rate, however, remains below 3%. In this study, we build on the result of our previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] that establishes a library of parameters of an augmented SEIR model, corresponding to the historic spreading profiles of 367 cities in China. This library forms a set of profile codes that cover a variety of possible epidemic progression profiles. By comparing the early incomplete data of epidemic progression collected for a specific population with the historic profiles, we select a few candidate profiles from the historic archive using a nonlinear optimization procedure. The corresponding profile codes of the selected historic progression profiles can then be used to produce estimates of the future progression for that specific population. We apply this method to predict the spreading of COVID-19 in South Korea, Italy and Iran. Results show that the three countries will soon see infection peaks in most cities in the coming 2 to 3 weeks, with South Korea\u2019s cases reaching their peaks slightly earlier than the others. The percentage of population eventually infected will be less than 0.3%, 0.05% and 0.02% for South Korea, Italy and Iran, respectively. The epidemic is expected to end before June 2020, and depending on the effectiveness of treatment, particular cities may see full recovery or zero infection sooner or later than others. It is worth noting that the epidemic progression in South Korean cities are found to be more rapid than typical, implying that the authorities might have taken effective measures to control the spread. The predicted progressions for Italy and Iran, on the other hand, are found to display profiles that are typical of those in the historical archive, and unless more stringent measures are taken, the peaks and subsequent decline of the infection numbers will unlikely come sooner or more rapidly than the predicted trajectories. Finally, we should stress that the proposed data-driven coding method is applicable to predicting epidemic progression in any given population and the accuracy of prediction will depend on the adequacy of the available data in allowing a reliable match to be identified from the historical archive."
+        ],
+        "acknowledgment": [
+            "This work was supported by National Science Foundation of China Project 61703355, Guangdong Youth University Innovative Talents Project 2016KQNCX223, and City University of Hong Kong under Special Fund 9380114."
+        ],
+        "funding": [
+            "This work was supported by National Science Foundation of China Project 61703355, Guangdong Youth University Innovative Talents Project 2016KQNCX223, and City University of Hong Kong under Special Fund 9380114"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "This work applies a data-driven coding method for prediction of the COVID-19 spreading profile in any given population that shows an initial phase of epidemic progression. Based on the historical data collected for COVID-19 spreading in 367 cities in China and the set of parameters of the augmented Susceptible-Exposed-Infected-Removed (SEIR) model obtained for each city, a set of profile codes representing a variety of transmission mechanisms and contact topologies is formed. By comparing the data of an early outbreak of a given population with the complete set of historical profiles, the best fit profiles are selected and the corresponding sets of profile codes are used for prediction of the future progression of the epidemic in that population. Application of the method to the data collected for South Korea, Italy and Iran shows that peaks of infection cases are expected to occur before the end of March 2020, and that the percentage of population infected in each city will be less than 0.01%, 0.05% and 0.02%, for South Korea, Italy and Iran, respectively.",
+            "Keywords: Epidemic spreading, COVID-19, new coronavirus, data-driven coding, prediction"
+        ],
+        "1. Introduction": [
+            "The 2019 Coronavirus Disease (COVID-19 or SARS-CoV-2) is a highly contagious disease, which began to spread in China in mid December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and as the volume of intercity travel escalated around the Lunar New Year period, the number of infected individuals began to soar in mid January 2020. With no travel restriction in place due to the low level of vigilance or unawareness of the disease during the early phase of the outbreak, the spreading of the disease had gone almost unobstructed. Travel restriction began to be implemented throughout China since January 24, 2020, which has proven to be effective in curbing the spread of the virus. However, international traffic has not ceased and infectious",
+            "Preprint submitted to medRixv.org individuals (who may or may not show any symptom at the time of travel) have actually travelled to different countries with the virus they contracted. Recent studies also show that travel restriction did contribute to the control of the spreading of COVID-19 within China as well as in a global context [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. By February 20, 2020, China had confirmed a total of 74,579 cases of COVID-19 infection, with death toll reaching 2,119. While China has begun to see declining numbers of infected cases in most cities from late February, other countries started to report surging number of cases in some cities or regions. As of March 6, 2020, the cumulative number of cases of COVID-19 infection was 100,162 worldwide, with South Korea, Italy and Iran reporting surges of infected cases within two weeks. Moreover, the global mortality rate has remained around 3%.",
+            "In our recent work (available on February 19, 2020) [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], intercity travel data obtained from Baidu Migration [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] has been collected and integrated into the traditional SusceptibleExposed-Infected-Removed (SEIR) model [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] to account for the effects of inflow and outflow traffic between 367 cities in China. Parameters of susceptible-to-exposed infection rates, exposed-to-infected infection rates, and recovery rates for 367 cities have been identified by fitting the augmented SEIR model with historical data available from the National Health Commission of China. The predicted spreading profiles of the 367 Chinese cities (which were available on February 19, 2020 [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]) have been highly consistent with the actual profiles, including the times of infection peaks and the percentages of infected individuals in the 367 cities.",
+            "In this work, we build on the data and estimated parameters obtained for 367 cities in our prior work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and establish a library of profiles (sets of codes) of different spreading profiles. Suppose a new outbreak has occurred in a given population. The numbers of infected and recovered cases during the early phase of the spreading form an initial profile. This initial or incomplete profile is compared with the historical full profiles obtained previously. Then, by selecting the best fit historical profiles, we identify the candidates parameters for prediction of the future spreading profile in that given population (of a city or region). It should be emphasized that the set of historical profiles obtained previously covers various possible spreading dynamics, representing a variety of contact topologies and transmission mechanisms including the travel effects that have been integrated in the model used to capture the transmission dynamics of the 367 cities. Thus, a new outbreak in a given population would likely follow one or a combination of the profiles based on the augmented model in our previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], and hence can be reconstructed from the historical sets of profiles. In this work, we develop a procedure for implementing the selection of historical profiles, identification of best-fit parameters and construction of future profile. We apply the procedure to predict the epidemic progression in the cities of South Korea, Italy and Iran. Results of this study show that the spreading of COVID-19 in most cities in South Korea will peak between March 8 and March 16, 2020, and Italy will peak between March 12 and March 26, 2020, while Iran would have its peak around March 22, 2020. We also investigate the number of infected individuals in each city or region. Our method provides the average number of individuals eventually infected, along with a predicted deviation range at 95% confidence level. For Korea, we predict that Daegu and Gyeongsang North Road would have around 7,619 and 1,287 people eventually infected (i.e., 0.306% and 0.062% of the",
+            "city\u2019s population), respectively, whereas the number of infected individuals in other cities in South Korea would be fewer than 300, i.e., less than 0.01% of city population. For Italy, we predict that Lombardi and Amelia Romagna would eventually have about 4,784 and 1,555 infected cases (i.e., 0.399% and 0.162 % of region\u2019s population), respectively, and the number of people eventually infected in other cities in Italy would be below 700 (<0.05% of city population). Moreover, Iran would have around 14,450 infected individuals, i.e., 0.018% of its population, of which around 2,498 and 1,698 will be expected in Tehran and Zanjan (i.e., 0.39% and 0.2% of the city\u2019s population). In addition, the number of people infected in most other cities would be fewer than 1,000 (<0.1% of the city\u2019s population). From the progression trends of the epidemic these three countries, provided control measures continue to be in place, the epidemic would come under control before the end of April 2020.",
+            "In the remainder of the paper, we first introduce the official daily infection data used in this study. The augmented SEIR model is briefly reviewed, mainly to introduce the parameters of the model used for prediction of spreading profiles. The key procedure for matching historical profiles and prediction of future spreading profiles will be explained. Results of application of the proposed method to prediction of the peaks and extents of outbreaks in South Korea, Italy and Iran will be given. Finally, we will provide a discussion of our estimation of the propagation and the reasonableness of our estimation in view of the measures taken by the authorities in controlling the spreading of this new disease.",
+            "The World Health Organization currently sets the alert level of COVID-19 to the highest, and has made data related to the epidemic available to the public in a series of situation reports as well as other formats [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Our data include the number of infected cases, the cumulative number of infected cases, the number of recovered cases, and death tolls, for individual cities and regions in South Korea, Italy and Mazandran, from February 19, 2020, to March 6, 2020. Data organized in convenient formats are also available elsewhere [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Samples of data for Daegu, Gyeongsang North Road (South Korea), Lombardi, Amelia Romagna, Tehran and Iran are shown graphically in Figure 1. It should be noted that the data obtained for South Korea, Italy and Iran correspond to initial stages of the epidemic progression as the number of infected cases are still climbing, as of March 6, 2020."
+        ],
+        "3. Method": [],
+        "3.1. The Augmented SEIR Model": [
+            "The travel-data augmented SEIR model [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] describes the spreading dynamics in terms of a basic fourth-order dynamical system with consideration of intercity travel in China. Consider a city j of population Pj. The states of the model are the number of susceptible individuals Ij(t), the number of exposed individuals (infectious but without symptom) Ej(t), the number of infected individuals Ij(t), and the number of recovered or removed individuals Rj(t). The model takes the following form in discrete time [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]: Xj(t + 1) = FaSEIR(Xj(t), Mj, \u03bcj)",
+            "where Xj(t) = [Sj(t) Ej(t) Ij(t) Rj(t)]T is the state vector on day t, FaSEIR(.) is the traveldata augmented function, Mj is the set of inflow and outflow travel strengths for city j, and \u03bcj is the set of parameters for city j, i.e., \u03bcj = [\u03b1j, \u03b2j, \u03baj, \u03b3j, \u03b4j, kl]",
+            "where \u03b2j is the rate at which a susceptible individual is infected by an infected individual in city j, \u03b1j is the rate at which a susceptible individual is infected by an exposed individuals in city j, \u03baj is the rate at which an exposed individual becomes infected in city j, and \u03b3j is the recovery rate in city j, kI is the possibility of an infected individual moving from one city to another, and \u03b4j is the eventual percentage of the population infected in city j. Moreover, the eventual infected population in city j is given by Njs = \u03b4jPj.",
+            "To facilitate comparison and matching of profiles, we introduce the normalized states as Ij(t) =\u2206 Ij(t)/Njs(t), Ej(t) =\u2206 Ej(t)/Njs(t), Sj(t) =\u2206 Sj(t)/Njs(t), and Rj(t) =\u2206 Rj(t)/Njs(t). Thus, (1) can be represented in normalized form as (3)",
+            "where 0 \u2264 |Xj(t)| \u2264 1. Since the above model has taken into account the human migration effect as well as the necessary transmission mechanism, we may consider the basic set of parameters to represent the characteristics of the propagation profile of city j. The complete set of parameters have been identified for 367 cities in China [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], which will serve as a set of codes for various propagation profiles of COVID-19 so far obtained. For brevity, we do not repeat the results here.",
+            "While two different cities may have different population size and percentage of eventual infected population, the rates of infection and recovery should be similar across a group of cities, i.e., \u03bci \u2248 \u03bcj. Thus, in normalized form, we have",
+            "for cities i and j within a group of cities having similar parameter sets. This also means",
+            "for the group of cities having similar rates of infection and recovery. Thus, provided the historical archive has adequately covered the possible dynamical profiles, we are able to perform fast prediction for any city o, by fitting an incomplete set of data (corresponding to an early outbreak stage in city o) and using the model parameters already obtained previously, as detailed in the following subsection."
+        ],
+        "3.2. Prediction Method": [
+            "The proposed data-driven prediction algorithm is based on the set of historical data of the spreading profiles of COVID-19 in 367 cities in China, namely, 367 sets of normalized time series of the form: Ii(c) = {Ii(1), Ii(2), \u00b7 \u00b7 \u00b7 Ii(Ki)}",
+            "where i = 1, 2, \u00b7 \u00b7 \u00b7 , 367, and Ki is the length of the data recorded in city i. Superscript \u201c(c)\u201d denotes data of Chinese cities.",
+            "Now, suppose an outbreak occurs in city o, and only ko days of data have been obtained in normalized form as",
+            "where ko < Ki. Then, assuming the spreading profile of city o is related to that of city i in the historical archive, as permitted by virtue of the validity of (4), we formulate the following optimization problem to predict the epidemic progression in city o: P0 : min fi i\u2208(1,N )",
+            "(ii) \u03bcL \u2264 \u03bc \u2264 \u03bcU (iii) wI, wR > 0.",
+            "where N is the number of Chinese cities in the historical archive, wI and wJ are weighting coefficients, \u03bcL and \u03bcU are the lower and upper bounds of the searching space, respectively. By solving the the nonlinear optimization problem, we can find the most closely resembling growth curve from the historical profiles, e.g., city i. Then, we apply the the augmented SEIR model with the profile code given in the parameter set for city i to predict the future spreading trend of city o. Furthermore, we can choose the top n best candidates with the smallest error as the candidate set for prediction, giving an average predicted propagation profile and a deviation range based on n best-fit profile codes."
+        ],
+        "4. Results": [
+            "We apply the aforedescribed procedure to the data obtained so far for cities in South Korea, Italy and Iran. These data represent the early stage of progression of the epidemic spreading, as the trends clearly show that the numbers of infected cases in most cities are still climbing, as of March 6, 2020. For each city or region, we identify a group of 10 profiles of best fit from the historical archive, and retrieve the corresponding sets of profile codes for generating the propagation profiles in the coming days. Using these 10 profiles, we produce an average progression profile, which is also accompanied by a deviation range at 95% confidence level.",
+            "Figures 2, 4 and 6 show the data and the predicted number of infected individuals, each with a deviation range of the predicted average trajectory, for South Korea, Italy and Iran, respectively, and Figures 3, 5 and 7 show the corresponding cumulative values. Statistics of infection peaks are shown in Figures 8 (a) to (c). Statistics of the percentage of population eventually infected and the number of individuals eventually infected are shown in Figures 8 (d) to (i). Our key findings are summarized as follows: 1. The number of infected individuals in South Korea, Italy and Iran is expected to continue to increase until mid March 2020. While South Korea will see peaks in most of the cities between March 8, 2020 and March 16, 2020, Italy and Iran are expected to see peaks before the end of March, 2020, as shown in the distributions of the peak times given in Figures 8 (a) to (c).",
+            "2. For South Korea, our results show that Daegu and Seoul are the two hardest hit cities, with 7,619 \u00b12,096 and 1,287 \u00b1197 people eventually infected, accounting for 0.306% \u00b10.084% and 0.062% \u00b10.009% of the city\u2019s population. In other cities in South Korea, the number of infected people will be less than 300, i.e., below 0.01% of the population.",
+            "3. For Italy, our results show that Lombardi and Amelia Romagna will have the highest number of cases, with 4,784 \u00b1788 and 1,555 \u00b1360 people eventually infected, accounting for 0.399% \u00b10.066% and 0.162% \u00b10.129% of the region\u2019s population. In other Italian cities or regions, the number of infected people will be below 700, which is less than 0.05% of the population.",
+            "4. For Iran, we expect Tehran and Zanjan to be most severely affected, reaching 2,498 \u00b1566 (0.39% \u00b10.02%) and 1,695 \u00b192 (0.2% \u00b10.07%) cases eventually, respectively. Other Iranian cities will see less than 1,000 eventual infected cases. Our prediction gives a total of 14450 \u00b16244 individuals eventually infected, which is 0.018% \u00b10.008% of the country\u2019s population.",
+            "5. Provided the authorities continue to impose strict control measures, the epidemic will come under control by the end of April and is expected to end before June 2020, and as the quality of treatment improves, more rapid recovery will be expected.",
+            "Our prediction on the South Korean cities has revealed a very rapid progression of the epidemic, with 5,000 infections emerged within 10 days and peaks to be expected in most cities or regions within about 2 weeks. The Korean authorities have managed to test an overwhelmingly large number of people (140,000) within a short time, thus preventing a large number of infected and infectious individuals not being quarantined in time [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. This strategy has an obvious advantage of offering a clear picture of the extents and locations of the infected individuals in the country at the early phase of the epidemic progression. The epidemic progression is found to be more rapid than typical, reflecting on the effectiveness of the control measures being taken.",
+            "Italy has the second highest death toll after China, reaching 197 on March 6, 2020 [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. The fatality rate is about 4%, which is the highest in the world. With infection cases soaring to 3,916 (as of March 6, 2020), Italy had implemented control measures to contain the spread of the virus by shutting down schools and suspending public events in regions where outbreaks were reported. The epidemic is expected to progress in a typical pace (with the present set of parameters), unless more stringent measures are in place.",
+            "The situation in Iran is also critical, with the number of infected cases escalated to over 4,000 in less than 2 weeks. Iran has reported death of two lawmakers as of March 7, 2020, and has been struggling to control the contagion, which has spread to 31 provinces [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. The progression profile is again typical, however, expecting to peak in around 3 weeks. Like Italy, most cities show typical spreading profiles, and the peaks and subsequent decline are not expected to advance sooner unless more stringent measures are implemented to control the contagion.",
+            "Finally, depending on the effectiveness of treatment, recovery rates vary, and judging from the predicted trends shown in Figures 2, 4 and 6, the epidemic progressions for the three countries are expected to subside by the end of May, with South Korea expected to recover sooner than the others."
+        ],
+        "5. Conclusion": [
+            "The spreading of the 2019 New Coronavirus Disease (COVID-19 or SARS-CoV-2) has evolved from a contagion originally confined within Wuhan, China, in December 2019, rapidly to a global contagion, which has spread to 87 countries within two months. The numbers of confirmed infection cases in South Korea, Italy and Iran have surged in the last two weeks, reaching 7,313, 5,883 and 5,823, respectively, on March 8, 2020. The global fatality rate, however, remains below 3%. In this study, we build on the result of our previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] that establishes a library of parameters of an augmented SEIR model, corresponding to the historic spreading profiles of 367 cities in China. This library forms a set of profile codes that cover a variety of possible epidemic progression profiles. By comparing the early incomplete data of epidemic progression collected for a specific population with the historic profiles, we select a few candidate profiles from the historic archive using a nonlinear optimization procedure. The corresponding profile codes of the selected historic progression profiles can then be used to produce estimates of the future progression for that specific population. We apply this method to predict the spreading of COVID-19 in South Korea, Italy and Iran. Results show that the three countries will soon see infection peaks in most cities in the coming 2 to 3 weeks, with South Korea\u2019s cases reaching their peaks slightly earlier than the others. The percentage of population eventually infected will be less than 0.3%, 0.05% and 0.02% for South Korea, Italy and Iran, respectively. The epidemic is expected to end before June 2020, and depending on the effectiveness of treatment, particular cities may see full recovery or zero infection sooner or later than others. It is worth noting that the epidemic progression in South Korean cities are found to be more rapid than typical, implying that the authorities might have taken effective measures to control the spread. The predicted progressions for Italy and Iran, on the other hand, are found to display profiles that are typical of those in the historical archive, and unless more stringent measures are taken, the peaks and subsequent decline of the infection numbers will unlikely come sooner or more rapidly than the predicted trajectories. Finally, we should stress that the proposed data-driven coding method is applicable to predicting epidemic progression in any given population and the accuracy of prediction will depend on the adequacy of the available data in allowing a reliable match to be identified from the historical archive."
+        ],
+        "Acknowledgment": [
+            "This work was supported by National Science Foundation of China Project 61703355, Guangdong Youth University Innovative Talents Project 2016KQNCX223, and City University of Hong Kong under Special Fund 9380114."
+        ],
+        "References": [
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Li A, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KS, Lau EH, Wong JY, et al Early transmission dynamics in Wuhan China of novel coronavirus-infected pneumonia, New Eng J Med 2020; DOI: 10.1056/NEJMoa2001316.",
+            "[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] Du Z, Wang L, Cauchemez S, Xu X, Wang X, Cowling BJ and Meyers LA. Risk of transportation of 2019 novel coronavirus disease from Wuhan to other cities in China. Emerging Infectious Disease 2020; 26(5) DOI: 10.3201/eid2601.200146.",
+            "[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Chinazzi M, Davis JT, Ajelli M, Gioannini C, Litvinova M, Merler S, Piontti AP, Mu K, Rossi L, Sun K, Viboud C, Xiong X, Yu H, Halloran ME, Longini I and Vespignani A. The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak. Science 2020; 10.1126/science.aba9757.",
+            "[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] Zhan C, Tse CK, Fu Y, Lai Z, Zhang H. Modeling and prediction of the 2019 coronavirus disease spreading in China incorporating human migration data, Preprint available at medRxiv.org, doi: https://doi.org/10.1101/2020.02.18.20024570.",
+            "[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Baidu Migration, URL https://http://qianxi.baidu.com/. 2020. [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Small M and Tse CK. Clustering model for transmission of the SARS virus: Application to epidemic control and risk assessment. Physica A 2005; 351: 499\u2013511. [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] Small M, Tse CK and Walker D. Super-spreaders and the rate of transmission of the SARS virus.",
+            "Physica D 2006; 215: 146\u2013158. [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Diekmann O, Heesterbeek H, and Britton T. Mathematical Tools for Understanding Infectious Disease",
+            "Dynamics. Princeton University Press, 2013. [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] World Health Organization. Coronavirus disease (COVID-19) outbreak. URL https://www.who.int/",
+            "emergencies/diseases/novel-coronavirus-2019. 2020. [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Wikipedia.com. 2020 Coronavirus outbreak in South Korea. URL https://en.wikipedia.org/",
+            "wiki2020 coronavirus outbreak in South Korea. 2020. [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Worldmeter.com. Coronavirus cases by country, territory, or conveyance. URL https://www.worldometers. info/coronavirus/#countries. 2020. [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] Statista.com. Coronavirus (COVID-19) cases in Italy by region. URL https://www.statista.com/",
+            "statistics/1099375/coronavirus-cases-by-region-in-italy/. 2020. [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] Kim H, Kim S and Che C. Virus testing blitz appears to keep Korea death rate low. URL https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-ofthousands-to-fight-virus-outbreak. March 5, 2020. [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] Seckin B. COVID-19: Italy death toll soars to 197. URL https://www.aa.com.tr/en/europe/ covid-19-italy-death-toll-soars-to-197/1757450. March 6, 2020. [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] New Straits Times. Another Iranian MP dies of Covid-19. URL https://www.nst.com.my/world/ world/2020/03/572595/another-iranian-mp-dies-covid-19. March 7, 2020.",
+            "19Feb20 21Feb20",
+            "24Feb20",
+            "27Feb20 29Feb20",
+            "03Mar20",
+            "06Mar20",
+            "(a) Daegu (b) Gyeongsang North Road",
+            "21Feb20 23Feb20 25Feb20",
+            "28Feb20 01Mar20 03Mar20",
+            "(c) Lombardi",
+            "22Feb20 24Feb20 26Feb20 28Feb20 01Mar20 03Mar20",
+            "(d) Amelia Romagna (e) Tehran",
+            "0",
+            "23Feb20 25Feb20 27Feb20 29Feb20 02Mar20 04Mar20 06Mar20",
+            "(f) Mazandran",
+            "Figure 1: Samples of data.",
+            "*",
+            "-1000",
+            "19Feb20 26Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20",
+            "60 40 20",
+            "-20 20Feb20 26Feb20 04Mar20 11Mar20 17Mar20 24Mar20 31Mar20",
+            "(b) Seoul",
+            "6 4 2 0 20Feb20 26Feb20 03Mar20 10Mar20 16Mar20 22Mar20 29Mar20",
+            "(c) Guangzhou (d) Busan",
+            "600 400 200",
+            "-200 19Feb20 25Feb20 02Mar20 09Mar20 15Mar20 21Mar20 28Mar20",
+            "(e) Gyeongsang North Road",
+            "-20 20Feb20 26Feb20 03Mar20 10Mar20 16Mar20 22Mar20 29Mar20",
+            "(f) Gyeongsangnam Road",
+            "0 -5 20Feb20 26Feb20 03Mar20 10Mar20 16Mar20 22Mar20 29Mar20",
+            "(g) Zhong Qing North Road",
+            "-50 22Feb20 27Feb20 04Mar20 10Mar20 15Mar20 21Mar20 27Mar20",
+            "(h) Zhong Qingnan Road",
+            "0 22Feb20 28Feb20 06Mar20 12Mar20 19Mar20 25Mar20 01Apr20",
+            "(i) Gangwon Road",
+            "20Feb20 26Feb20 04Mar20 10Mar20 17Mar20 23Mar20 30Mar20",
+            "(j) King Kong Road",
+            "6 4 2 0 22Feb20 28Feb20 06Mar20 12Mar20 19Mar20 25Mar20 01Apr20",
+            "(k) Ota",
+            "-10 22Feb20 28Feb20 06Mar20 13Mar20 20Mar20 27Mar20 03Apr20",
+            "(l) Ulsan",
+            "Figure 2: Official and estimated number of infected individuals in cities or regions in South Korea.",
+            "8000 6000 4000 2000 0 -2000 19Feb20 26Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20",
+            "-50 20Feb20 26Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20",
+            "19Feb20 25Feb20 03Mar20 09Mar20 16Mar20 22Mar20 29Mar20",
+            "0 20Feb20 26Feb20 03Mar20 10Mar20 16Mar20 22Mar20 29Mar20",
+            "-50 22Feb20 28Feb20 06Mar20 12Mar20 19Mar20 25Mar20 01Apr20",
+            "22Feb20 28Feb20 05Mar20 12Mar20 18Mar20 24Mar20 31Mar20",
+            "20Feb20 26Feb20 03Mar20 10Mar20 16Mar20 22Mar20 29Mar20",
+            "0 22Feb20 28Feb20 06Mar20 13Mar20 19Mar20 26Mar20 02Apr20",
+            "-10 22Feb20 28Feb20 06Mar20 13Mar20 19Mar20 26Mar20 02Apr20",
+            "Figure 3: Official and estimated cumulative number of infected individuals in cities or regions in South Korea.",
+            "-500 21Feb20 28Feb20 06Mar20 13Mar20 20Mar20 27Mar20",
+            "04Apr20",
+            "(a) Lombardi",
+            "-100 21Feb20 28Feb20 06Mar20 13Mar20 20Mar20 27Mar20 03Apr20",
+            "(b) Veneto",
+            "-200 22Feb20 28Feb20 05Mar20 12Mar20 18Mar20 24Mar20 31Mar20",
+            "(c) Amelia Romagna",
+            "-50 22Feb20 29Feb20 07Mar20 14Mar20 21Mar20 28Mar20",
+            "05Apr20",
+            "(d) Piedmont",
+            "-50 28Feb20 05Mar20 12Mar20 19Mar20 26Mar20 02Apr20 09Apr20",
+            "(e) Lazio",
+            "-50 25Feb20 02Mar20 09Mar20 16Mar20 23Mar20 30Mar20 06Apr20",
+            "(f) Tuscany",
+            "-10 25Feb20 02Mar20 09Mar20 16Mar20 23Mar20 30Mar20 06Apr20",
+            "(g) Sicily",
+            "25Feb20 02Mar20 08Mar20 14Mar20 20Mar20 26Mar20",
+            "02Apr20",
+            "(h) Liguria",
+            "-10 27Feb20 05Mar20 12Mar20 19Mar20 26Mar20 02Apr20 09Apr20",
+            "(i) Puglia",
+            "-50 27Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20 08Apr20",
+            "(j) Campania",
+            "01Mar20 06Mar20 12Mar20 17Mar20 23Mar20 28Mar20 03Apr20",
+            "(k) Brazillicata",
+            "Figure 4: Official and estimated number of infected individuals in regions in Italy.",
+            "-1000 21Feb20 28Feb20 06Mar20 13Mar20 20Mar20 27Mar20",
+            "-200 22Feb20 28Feb20 06Mar20 12Mar20 19Mar20 25Mar20 01Apr20",
+            "28Feb20 06Mar20 13Mar20 20Mar20 27Mar20 03Apr20",
+            "11Apr20",
+            "-50 25Feb20 02Mar20 09Mar20 16Mar20 22Mar20 29Mar20 05Apr20",
+            "25Feb20 02Mar20 09Mar20 16Mar20 22Mar20 29Mar20 05Apr20",
+            "25Feb20 02Mar20 09Mar20 15Mar20 22Mar20 28Mar20 04Apr20",
+            "27Feb20 05Mar20 12Mar20 19Mar20 26Mar20 02Apr20 09Apr20",
+            "27Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20 08Apr20",
+            "01Mar20 07Mar20 13Mar20 20Mar20 26Mar20 01Apr20",
+            "08Apr20",
+            "Figure 5: Official and estimated cumulative number of infected individuals in regions in Italy.",
+            "-500 21Feb20 28Feb20 06Mar20 13Mar20 20Mar20 27Mar20 03Apr20",
+            "(a) Tehran",
+            "-200 04Mar20 10Mar20 17Mar20 24Mar20 31Mar20 07Apr20 14Apr20",
+            "(b) Zanjan",
+            "-100 26Feb20 03Mar20 10Mar20 17Mar20 24Mar20 31Mar20 07Apr20",
+            "(c) Semnan",
+            "-100 23Feb20 01Mar20 08Mar20 15Mar20 22Mar20 29Mar20",
+            "06Apr20",
+            "(d) Mazandran",
+            "-50 26Feb20 03Mar20 10Mar20 17Mar20 24Mar20 31Mar20 07Apr20",
+            "(e) Lorestan (f) Lisa Khorasan (g) Lorestan",
+            "-50 27Feb20 04Mar20 11Mar20 17Mar20 24Mar20 30Mar20 06Apr20",
+            "(h) Kurdishstan",
+            "-100 20Feb20 26Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20",
+            "(i) Kum",
+            "-100 24Feb20 02Mar20 09Mar20 16Mar20 23Mar20 30Mar20 06Apr20",
+            "(j) Isfahan (k) Gillan",
+            "04Mar20 10Mar20 17Mar20 24Mar20 30Mar20 06Apr20 13Apr20",
+            "(l) Chaha Mahal-Bakhtiari",
+            "Figure 6: Official and estimated number of infected individuals in some cities in Iran.",
+            "1600 1400 1200 1000",
+            "-100 26Feb20 04Mar20 11Mar20 18Mar20 25Mar20 01Apr20 08Apr20",
+            "-100 23Feb20 29Feb20 07Mar20 14Mar20 20Mar20 27Mar20 03Apr20",
+            "-100 25Feb20 03Mar20 10Mar20 17Mar20 24Mar20 31Mar20",
+            "-50 27Feb20 04Mar20 11Mar20 18Mar20 24Mar20 31Mar20 07Apr20",
+            "-100 19Feb20 26Feb20 04Mar20 11Mar20 18Mar20 25Mar20",
+            "-200 24Feb20 02Mar20 09Mar20 16Mar20 23Mar20 30Mar20 06Apr20",
+            "800 600 400 200 0 -200 21Feb20 28Feb20 06Mar20 13Mar20 20Mar20 27Mar20 03Apr20",
+            "04Mar20 11Mar20 18Mar20 25Mar20 01Apr20 08Apr20 15Apr20",
+            "Figure 7: Official and estimated cumulative number of infected individuals in some cities in Iran.",
+            "Proportion of infected indviduals in the population (a)",
+            "10-2 10-3 10-4",
+            "(b)",
+            "(c)",
+            "10-5",
+            "Esitimated total number of infections in each city"
+        ],
+        "10-6 King Kong": [
+            "1T0r-e6nFtrLiinuigoliuoVrinaenAidceijeGiulUiambrViaenPeietodmontSicTiulyscMaonryriCssaemypaniAaPmugelMliiaaaRrcohme agnaLaLzoimo bardi (e)",
+            "WeSs1tis0At-az6ne-rBbaaliujacnHhiosLrtmiasnauzKghaonrasan HFuazrKseuEsratdesiistnhASztearnbaHijaaKmnearmdaannshLaohrMSesaotzuaatnhndKrhaonrasan GIlarmeysteMinarkziAeldaBAillbertsGillanYazTCdehharhKaanermmaaIhsnafal-hBaankNhtoiartrhi KKuhmorasSaenmnaGnazviZnanjan (f )",
+            "ZhongGQuiannggNzhoortuh RoGadangGwOyotaenoRngosaadnUglnKsaainmngRKooandg RoaZdhoGSneygoeQuolniBngugssnaaannng RNooartdh RoadDaegu (g)",
+            "AdijeSicilLyiguFriraPiuuligVlUiaemnibcreiaGMiuolirariCssaemypaPnieiadmTonutscanyLazMiAoamrcehlVieaeRneotmo aLgonma bardi (h)",
+            "Wes1t A0z1erbaHijaSaminHsatoadrnma-nBuzagluacnhistaKneSrIomlauamthnsKhhaKohruarsdaisnhStaAnldaBilYaKzdermLaonrestan HFLuaiszrsaesKtehionrasSaenmEnaMastnaArkzzeiCrebhaGaijhraeanMymsataezhiananNld-oBraratnhkhKtihaorirasan KumGillaAnlberItssfahaGnazviZnanjaTnehran (i)"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 74579,
+            "context": "Recent studies also show that travel restriction did contribute to the control of the spreading of COVID-19 within China as well as in a global context [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. <mark class=\"stats\">By February 20, 2020, China had confirmed a total of 74,579 cases of COVID-19 infection, with death toll reaching 2,119</mark>. While China has begun to see declining numbers of infected cases in most cities from late February, other countries started to report surging number of cases in some cities or regions"
+        },
+        {
+            "participant": "people",
+            "number": 1287,
+            "context": "Our method provides the average number of individuals eventually infected, along with a predicted deviation range at 95% confidence level. <mark class=\"stats\">For Korea, we predict that Daegu and Gyeongsang North Road would have around 7,619 and 1,287 people eventually infected (i.e., 0.306% and 0.062% of the city\u2019s population), respectively, whereas the number of infected individuals in other cities in South Korea would be fewer than 300, i.e., less than 0.01% of city population</mark>. For Italy, we predict that Lombardi and Amelia Romagna would eventually have about 4,784 and 1,555 infected cases (i.e., 0.399% and 0.162 % of region\u2019s population), respectively, and the number of people eventually infected in other cities in Italy would be below 700 (<0.05% of city population)"
+        },
+        {
+            "participant": "infected cases",
+            "number": 1555,
+            "context": "For Korea, we predict that Daegu and Gyeongsang North Road would have around 7,619 and 1,287 people eventually infected (i.e., 0.306% and 0.062% of the city\u2019s population), respectively, whereas the number of infected individuals in other cities in South Korea would be fewer than 300, i.e., less than 0.01% of city population. <mark class=\"stats\">For Italy, we predict that Lombardi and Amelia Romagna would eventually have about 4,784 and 1,555 infected cases (i.e., 0.399% and 0.162 % of region\u2019s population), respectively, and the number of people eventually infected in other cities in Italy would be below 700 (<0.05% of city population)</mark>. Moreover, Iran would have around 14,450 infected individuals, i.e., 0.018% of its population, of which around 2,498 and 1,698 will be expected in Tehran and Zanjan (i.e., 0.39% and 0.2% of the city\u2019s population)"
+        },
+        {
+            "participant": "infected individuals",
+            "number": 14450,
+            "context": "For Italy, we predict that Lombardi and Amelia Romagna would eventually have about 4,784 and 1,555 infected cases (i.e., 0.399% and 0.162 % of region\u2019s population), respectively, and the number of people eventually infected in other cities in Italy would be below 700 (<0.05% of city population). <mark class=\"stats\">Moreover, Iran would have around 14,450 infected individuals, i.e., 0.018% of its population, of which around 2,498 and 1,698 will be expected in Tehran and Zanjan (i.e., 0.39% and 0.2% of the city\u2019s population)</mark>. In addition, the number of people infected in most other cities would be fewer than 1,000 (<0.1% of the city\u2019s population)"
+        },
+        {
+            "participant": "eventual infected cases",
+            "number": 1000,
+            "context": "For Iran, we expect Tehran and Zanjan to be most severely affected, reaching 2,498 \u00b1566 (0.39% \u00b10.02%) and 1,695 \u00b192 (0.2% \u00b10.07%) cases eventually, respectively. <mark class=\"stats\">Other Iranian cities will see less than 1,000 eventual infected cases</mark>. Our prediction gives a total of 14450 \u00b16244 individuals eventually infected, which is 0.018% \u00b10.008% of the country\u2019s population"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "infected case",
+        "data-driven coding",
+        "Epidemic spreading",
+        "infection rate",
+        "SEIR",
+        "south korea",
+        "prediction",
+        "historical profile",
+        "transmission mechanism",
+        "coronavirus",
+        "good fit",
+        "SARS",
+        "epidemic progression",
+        "contact topology",
+        "COVID-19",
+        "historical datum",
+        "specific population",
+        "new coronavirus",
+        "intercity travel",
+        "early phase",
+        "amelia",
+        "transmission dynamics",
+        "profile code",
+        "travel restriction",
+        "topologies",
+        "dynamics"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.15254237288135594,
+        "prediction": 0.11864406779661017,
+        "SEIR": 0.09322033898305085,
+        "epidemic progression": 0.09322033898305085,
+        "infected case": 0.07627118644067797,
+        "coronavirus": 0.07627118644067797,
+        "profile code": 0.059322033898305086,
+        "historical profile": 0.05084745762711865,
+        "SARS": 0.03389830508474576,
+        "dynamics": 0.03389830508474576,
+        "data-driven coding": 0.025423728813559324,
+        "transmission mechanism": 0.025423728813559324,
+        "intercity travel": 0.025423728813559324,
+        "early phase": 0.025423728813559324,
+        "travel restriction": 0.025423728813559324,
+        "infection rate": 0.01694915254237288,
+        "specific population": 0.01694915254237288,
+        "transmission dynamics": 0.01694915254237288,
+        "topologies": 0.01694915254237288,
+        "Epidemic spreading": 0.00847457627118644,
+        "new coronavirus": 0.00847457627118644,
+        "south korea": 0.0,
+        "good fit": 0.0,
+        "contact topology": 0.0,
+        "historical datum": 0.0,
+        "amelia": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The 2019 Coronavirus Disease (COVID-19 or SARS-CoV-2) is a highly contagious disease, which began to spread in China in mid December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and as the volume of intercity travel escalated around the Lunar New Year period, the number of infected individuals began to soar in mid January 2020.",
+        "The authors' data include the number of infected cases, the cumulative number of infected cases, the number of recovered cases, and death tolls, for individual cities and regions in South Korea, Italy and Mazandran, from February 19, 2020, to March 6, 2020.",
+        "It should be noted that the data obtained for South Korea, Italy and Iran correspond to initial stages of the epidemic progression as the number of infected cases are still climbing, as of March 6, 2020",
+        "<h2 style=\"display: inline\">Methods:</h2> Provided the historical archive has adequately covered the possible dynamical profiles, the authors are able to perform fast prediction for any city o, by fitting an incomplete set of data and using the model parameters already obtained previously, as detailed in the following subsection.",
+        "The authors apply the the augmented SEIR model with the profile code given in the parameter set for city i to predict the future spreading trend of city o.",
+        "The authors can choose the top n best candidates with the smallest error as the candidate set for prediction, giving an average predicted propagation profile and a deviation range based on n best-fit profile codes",
+        "<h2 style=\"display: inline\">Results:</h2> The authors apply the aforedescribed procedure to the data obtained so far for cities in South Korea, Italy and Iran.",
+        "For each city or region, the authors identify a group of 10 profiles of best fit from the historical archive, and retrieve the corresponding sets of profile codes for generating the propagation profiles in the coming days",
+        "Using these 10 profiles, the authors produce an average progression profile, which is accompanied by a deviation range at 95% confidence level",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The spreading of the 2019 New Coronavirus Disease (COVID-19 or SARS-CoV-2) has evolved from a contagion originally confined within Wuhan, China, in December 2019, rapidly to a global contagion, which has spread to 87 countries within two months.",
+        "The authors build on the result of the previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] that establishes a library of parameters of an augmented SEIR model, corresponding to the historic spreading profiles of 367 cities in China",
+        "This library forms a set of profile codes that cover a variety of possible epidemic progression profiles.",
+        "The corresponding profile codes of the selected historic progression profiles can be used to produce estimates of the future progression for that specific population",
+        "The authors apply this method to predict the spreading of COVID-19 in South Korea, Italy and Iran.",
+        "The authors should stress that the proposed data-driven coding method is applicable to predicting epidemic progression in any given population and the accuracy of prediction will depend on the adequacy of the available data in allowing a reliable match to be identified from the historical archive"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The 2019 Coronavirus Disease (COVID-19 or SARS-CoV-2) is a highly contagious disease, which began to spread in China in mid December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and as the volume of intercity travel escalated around the Lunar New Year period, the number of infected individuals began to soar in mid January 2020.",
+            "The authors' data include the number of infected cases, the cumulative number of infected cases, the number of recovered cases, and death tolls, for individual cities and regions in South Korea, Italy and Mazandran, from February 19, 2020, to March 6, 2020.",
+            "It should be noted that the data obtained for South Korea, Italy and Iran correspond to initial stages of the epidemic progression as the number of infected cases are still climbing, as of March 6, 2020"
+        ],
+        "Methods": [
+            "Provided the historical archive has adequately covered the possible dynamical profiles, the authors are able to perform fast prediction for any city o, by fitting an incomplete set of data and using the model parameters already obtained previously, as detailed in the following subsection.",
+            "The authors apply the the augmented SEIR model with the profile code given in the parameter set for city i to predict the future spreading trend of city o.",
+            "The authors can choose the top n best candidates with the smallest error as the candidate set for prediction, giving an average predicted propagation profile and a deviation range based on n best-fit profile codes"
+        ],
+        "Results": [
+            "The authors apply the aforedescribed procedure to the data obtained so far for cities in South Korea, Italy and Iran.",
+            "For each city or region, the authors identify a group of 10 profiles of best fit from the historical archive, and retrieve the corresponding sets of profile codes for generating the propagation profiles in the coming days",
+            "Using these 10 profiles, the authors produce an average progression profile, which is accompanied by a deviation range at 95% confidence level"
+        ],
+        "Conclusion": [
+            "The spreading of the 2019 New Coronavirus Disease (COVID-19 or SARS-CoV-2) has evolved from a contagion originally confined within Wuhan, China, in December 2019, rapidly to a global contagion, which has spread to 87 countries within two months.",
+            "The authors build on the result of the previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] that establishes a library of parameters of an augmented SEIR model, corresponding to the historic spreading profiles of 367 cities in China",
+            "This library forms a set of profile codes that cover a variety of possible epidemic progression profiles.",
+            "The corresponding profile codes of the selected historic progression profiles can be used to produce estimates of the future progression for that specific population",
+            "The authors apply this method to predict the spreading of COVID-19 in South Korea, Italy and Iran.",
+            "The authors should stress that the proposed data-driven coding method is applicable to predicting epidemic progression in any given population and the accuracy of prediction will depend on the adequacy of the available data in allowing a reliable match to be identified from the historical archive"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "[1] Li A, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KS, Lau EH, Wong JY, et al. Early transmission dynamics in Wuhan China of novel coronavirus-infected pneumonia, New Eng J Med 2020; DOI: 10.1056/NEJMoa2001316.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001316",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001316",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001316"
+        },
+        {
+            "id": "2",
+            "alt_id": "Du_et+al_2019_a",
+            "entry": "[2] Du Z, Wang L, Cauchemez S, Xu X, Wang X, Cowling BJ and Meyers LA. Risk of transportation of 2019 novel coronavirus disease from Wuhan to other cities in China. Emerging Infectious Disease 2020; 26(5) DOI: 10.3201/eid2601.200146.",
+            "crossref": "https://dx.doi.org/10.3201/eid2601.200146",
+            "scite": "https://scite.ai/reports/10.3201/eid2601.200146",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.3201/eid2601.200146"
+        },
+        {
+            "id": "3",
+            "alt_id": "Chinazzi_et+al_0000_a",
+            "entry": "[3] Chinazzi M, Davis JT, Ajelli M, Gioannini C, Litvinova M, Merler S, Piontti AP, Mu K, Rossi L, Sun K, Viboud C, Xiong X, Yu H, Halloran ME, Longini I and Vespignani A. The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak. Science 2020; 10.1126/science.aba9757.",
+            "crossref": "https://dx.doi.org/10.1126/science.aba9757",
+            "scite": "https://scite.ai/reports/10.1126/science.aba9757",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1126/science.aba9757"
+        },
+        {
+            "id": "4",
+            "alt_id": "Zhan_et+al_2019_a",
+            "entry": "[4] Zhan C, Tse CK, Fu Y, Lai Z, Zhang H. Modeling and prediction of the 2019 coronavirus disease spreading in China incorporating human migration data, Preprint available at medRxiv.org, doi: https://doi.org/10.1101/2020.02.18.20024570.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.18.20024570",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.18.20024570"
+        },
+        {
+            "id": "5",
+            "alt_id": "Migration_0000_a",
+            "entry": "[5] Baidu Migration, URL https://http://qianxi.baidu.com/.2020.",
+            "url": "https://http://qianxi.baidu.com/.2020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Small_2005_a",
+            "entry": "[6] Small M and Tse CK. Clustering model for transmission of the SARS virus: Application to epidemic control and risk assessment. Physica A 2005; 351: 499\u2013511.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=M%2C%20Small%20CK%2C%20Tse%20Clustering%20model%20for%20transmission%20of%20the%20SARS%20virus%3A%20Application%20to%20epidemic%20control%20and%20risk%20assessment%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=M%2C%20Small%20CK%2C%20Tse%20Clustering%20model%20for%20transmission%20of%20the%20SARS%20virus%3A%20Application%20to%20epidemic%20control%20and%20risk%20assessment%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=M%2C%20Small%20CK%2C%20Tse%20Clustering%20model%20for%20transmission%20of%20the%20SARS%20virus%3A%20Application%20to%20epidemic%20control%20and%20risk%20assessment%202005"
+        },
+        {
+            "id": "7",
+            "alt_id": "Small_et+al_2006_a",
+            "entry": "[7] Small M, Tse CK and Walker D. Super-spreaders and the rate of transmission of the SARS virus. Physica D 2006; 215: 146\u2013158.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Small%2C%20M.%20CK%2C%20Tse%20Walker%2C%20D.%20Super-spreaders%20and%20the%20rate%20of%20transmission%20of%20the%20SARS%20virus%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Small%2C%20M.%20CK%2C%20Tse%20Walker%2C%20D.%20Super-spreaders%20and%20the%20rate%20of%20transmission%20of%20the%20SARS%20virus%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Small%2C%20M.%20CK%2C%20Tse%20Walker%2C%20D.%20Super-spreaders%20and%20the%20rate%20of%20transmission%20of%20the%20SARS%20virus%202006"
+        },
+        {
+            "id": "8",
+            "alt_id": "Diekmann_et+al_2013_a",
+            "entry": "[8] Diekmann O, Heesterbeek H, and Britton T. Mathematical Tools for Understanding Infectious Disease Dynamics. Princeton University Press, 2013.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Diekmann%2C%20O.%20Heesterbeek%2C%20H.%20Britton%2C%20T.%20Mathematical%20Tools%20for%20Understanding%20Infectious%20Disease%20Dynamics%202013"
+        },
+        {
+            "id": "9",
+            "alt_id": "Organization_0000_a",
+            "entry": "[9] World Health Organization. Coronavirus disease (COVID-19) outbreak. URL https://www.who.int/ emergencies/diseases/novel-coronavirus-2019. 2020.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+        },
+        {
+            "id": "10",
+            "alt_id": "Wikipediacom_2020_a",
+            "entry": "[10] Wikipedia.com. 2020 Coronavirus outbreak in South Korea. URL https://en.wikipedia.org/ wiki2020 coronavirus outbreak in South Korea. 2020.",
+            "url": "https://en.wikipedia.org/wiki2020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wikipediacom%202020%20Coronavirus%20outbreak%20in%20South%20Korea%20URL%20httpsenwikipediaorg%20wiki2020%20coronavirus%20outbreak%20in%20South%20Korea%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wikipediacom%202020%20Coronavirus%20outbreak%20in%20South%20Korea%20URL%20httpsenwikipediaorg%20wiki2020%20coronavirus%20outbreak%20in%20South%20Korea%202020"
+        },
+        {
+            "id": "11",
+            "alt_id": "Worldmetercom_0000_a",
+            "entry": "[11] Worldmeter.com. Coronavirus cases by country, territory, or conveyance. URL https://www.worldometers.info/coronavirus/#countries.2020.",
+            "url": "https://www.worldometers.info/coronavirus/#countries.2020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Statistacom_0000_a",
+            "entry": "[12] Statista.com. Coronavirus (COVID-19) cases in Italy by region. URL https://www.statista.com/ statistics/1099375/coronavirus-cases-by-region-in-italy/. 2020.",
+            "url": "https://www.statista.com/statistics/1099375/coronavirus-cases-by-region-in-italy/"
+        },
+        {
+            "id": "13",
+            "alt_id": "Kim_et+al_2020_a",
+            "entry": "[13] Kim H, Kim S and Che C. Virus testing blitz appears to keep Korea death rate low. URL https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-ofthousands-to-fight-virus-outbreak. March 5, 2020.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/south-korea-tests-hundreds-ofthousands-to-fight-virus-outbreak"
+        },
+        {
+            "id": "14",
+            "alt_id": "Seckin_2020_a",
+            "entry": "[14] Seckin B. COVID-19: Italy death toll soars to 197. URL https://www.aa.com.tr/en/europe/covid-19-italy-death-toll-soars-to-197/1757450. March 6, 2020.",
+            "url": "https://www.aa.com.tr/en/europe/covid-19-italy-death-toll-soars-to-197/1757450"
+        },
+        {
+            "id": "15",
+            "alt_id": "[15]_2020_a",
+            "entry": "[15] New Straits Times. Another Iranian MP dies of Covid-19. URL https://www.nst.com.my/world/world/2020/03/572595/another-iranian-mp-dies-covid-19. March 7, 2020. ",
+            "url": "https://www.nst.com.my/world/world/2020/03/572595/another-iranian-mp-dies-covid-19"
+        }
+    ],
+    "facts": [
+        "a data-driven coding method for prediction of the COVID-19 spreading profile in any given population that shows an initial phase of epidemic progression",
+        "on the historical data collected for COVID-19 spreading in",
+        "the set of parameters of the augmented Susceptible-Exposed-Infected-Removed model obtained for each city",
+        "a set of profile codes representing a variety of transmission mechanisms and contact topologies is formed",
+        "the corresponding sets of profile codes are used for prediction of the future progression",
+        "Application of the method to the data collected for South Korea",
+        "Iran shows that peaks of infection cases are expected to occur before the end",
+        "that the percentage of population infected in each city will be less than",
+        "which began to spread in China in mid December 2019",
+        "as the volume of intercity travel escalated around the Lunar New Year period",
+        "the number of infected individuals began to soar in mid January 2020",
+        "almost unobstructed. Travel restriction began to be implemented throughout China since January 24",
+        "which has proven to be effective in curbing the spread of the virus",
+        "Preprint submitted to medRixv.org individuals have travelled to different countries",
+        "Recent studies show that travel restriction did contribute to the control",
+        "China had confirmed a total of 74,579 cases of COVID-19 infection",
+        "Iran reporting surges of infected cases within two weeks",
+        "the global mortality rate has remained around 3%",
+        "intercity travel data obtained from Baidu Migration",
+        "The predicted spreading profiles of the 367 Chinese cities have been highly consistent with the actual profiles",
+        "estimated parameters obtained for 367 cities in our prior work",
+        "a new outbreak has occurred in a given population",
+        "incomplete profile is compared with the historical full profiles obtained",
+        "the travel effects that have been integrated in the model used to capture the transmission dynamics",
+        "a combination of the profiles based on the augmented model in our previous work",
+        "the procedure to predict the epidemic progression in the cities of South Korea",
+        "Results of this study show that the spreading of COVID-19",
+        "in most cities in South Korea will peak between March 8",
+        "Italy will peak between March 12",
+        "Our method provides the average number of individuals eventually infected",
+        "the number of people eventually infected in other cities in Italy would be below",
+        "Our data include the number of infected cases",
+        "Data organized in convenient formats are available",
+        "that the data obtained for South Korea",
+        "Iran correspond to initial stages of the epidemic progression",
+        "The states of the model are the number of susceptible individuals Ij",
+        "\u03bcj is the set of parameters for city j",
+        "a susceptible individual is infected by an infected individual in city j",
+        "a susceptible individual is infected by an exposed individuals in city j",
+        "an exposed individual becomes infected in city j",
+        "kI is the possibility of an infected individual moving from",
+        "\u03b4j is the eventual percentage of the population infected in city j.",
+        "the eventual infected population in city j is given by Njs",
+        "Since the above model has taken into account the human migration effect",
+        "the basic set of parameters to represent the characteristics of the propagation profile of city j. The complete set",
+        "of parameters have been identified for 367 cities in China",
+        "which will serve as a set of codes",
+        "the rates of infection and recovery should be similar across a group of cities",
+        "The proposed data-driven prediction algorithm is based on the set of historical data",
+        "Ki is the length of the data recorded in city i.",
+        "an outbreak occurs in city o",
+        "only ko days of data have been obtained in normalized form",
+        "where N is the number of Chinese cities in the historical archive",
+        "the augmented SEIR model with the profile code given in the parameter set for city",
+        "best candidates with the smallest error as the candidate set for prediction",
+        "These data represent the early stage of progression of the epidemic spreading",
+        "as the trends clearly show that the numbers of infected cases",
+        "which is accompanied by a deviation range at 95% confidence level",
+        "The spreading of the 2019 New Coronavirus Disease has evolved from a contagion originally confined within",
+        "which has spread to 87 countries within two months",
+        "that establishes a library of parameters of an augmented SEIR model",
+        "This library forms a set of profile codes",
+        "that cover a variety of possible epidemic progression profiles",
+        "the early incomplete data of epidemic progression collected for a specific population with the historic profiles",
+        "this method to predict the spreading of COVID-19 in South Korea",
+        "Results show that the three countries will soon see infection peaks",
+        "The percentage of population eventually infected will be less than 0.3%",
+        "The epidemic is expected to end before June 2020",
+        "worth noting that the epidemic progression in South Korean cities are found to be more rapid than typical",
+        "our results show that Daegu",
+        "our results show that Lombardi",
+        "Amelia Romagna will have the highest number of cases"
+    ],
+    "claims": [
+        "By selecting the best fit historical profiles, we identify the candidates parameters for prediction of the future spreading profile in that given population (of a city or region)",
+        "In this work, we develop a procedure for implementing the selection of historical profiles, identification of best-fit parameters and construction of future profile",
+        "Results of this study show that the spreading of COVID-19 in most cities in South Korea will peak between March 8 and March 16, 2020, and Italy will peak between March 12 and March 26, 2020, while Iran would have its peak around March 22, 2020",
+        "We also investigate the number of infected individuals in each city or region",
+        "To facilitate comparison and matching of profiles, we introduce the normalized states as Ij(t) =\u2206 Ij(t)/Njs(t), Ej(t) =\u2206 Ej(t)/Njs(t), Sj(t) =\u2206 Sj(t)/Njs(t), and Rj(t) =\u2206 Rj(t)/Njs(t)",
+        "For each city or region, we identify a group of 10 profiles of best fit from the historical archive, and retrieve the corresponding sets of profile codes for generating the propagation profiles in the coming days",
+        "For South Korea, our results show that Daegu and Seoul are the two hardest hit cities, with 7,619 \u00b12,096 and 1,287 \u00b1197 people eventually infected, accounting for 0.306% \u00b10.084% and 0.062% \u00b10.009% of the city\u2019s population",
+        "For Italy, our results show that Lombardi and Amelia Romagna will have the highest number of cases, with 4,784 \u00b1788 and 1,555 \u00b1360 people eventually infected, accounting for 0.399% \u00b10.066% and 0.162% \u00b10.129% of the region\u2019s population"
+    ],
+    "findings": [
+        "Application of the method to the data collected for South Korea, Italy and Iran shows that peaks of infection cases are expected to occur before the end of March 2020, and that the percentage of population infected in each city will be less than 0.01%, 0.05% and 0.02%, for South Korea, Italy and Iran, respectively",
+        "For Korea, we predict that Daegu and Gyeongsang North Road would have around 7,619 and 1,287 people eventually infected (i.e., 0.306% and 0.062% of the city\u2019s population), respectively, whereas the number of infected individuals in other cities in South Korea would be fewer than 300, i.e., less than 0.01% of city population",
+        "In other Italian cities or regions, the number of infected people will be below 700, which is less than 0.05% of the population",
+        "The percentage of population eventually infected will be less than 0.3%, 0.05% and 0.02% for South Korea, Italy and Iran, respectively"
+    ],
+    "processes": [],
+    "key_statements": [
+        "The 2019 Coronavirus Disease (COVID-19 or SARS-CoV-2) is a highly contagious disease, which began to spread in China in mid December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and as the volume of intercity travel escalated around the Lunar New Year period, the number of infected individuals began to soar in mid January 2020",
+        "As of March 6, 2020, the cumulative number of cases of COVID-19 infection was 100,162 worldwide, with South Korea, Italy and Iran reporting surges of infected cases within two weeks",
+        "It should be emphasized that the set of historical profiles obtained previously covers various possible spreading dynamics, representing a variety of contact topologies and transmission mechanisms including the travel effects that have been integrated in the model used to capture the transmission dynamics of the 367 cities",
+        "Results of this study show that the spreading of COVID-19 in most cities in South Korea will peak between March 8 and March 16, 2020, and Italy will peak between March 12 and March 26, 2020, while Iran would have its peak around March 22, 2020",
+        "It should be noted that the data obtained for South Korea, Italy and Iran correspond to initial stages of the epidemic progression as the number of infected cases are still climbing, as of March 6, 2020",
+        "The complete set of parameters have been identified for 367 cities in China [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], which will serve as a set of codes for various propagation profiles of COVID-19 so far obtained",
+        "We apply the aforedescribed procedure to the data obtained so far for cities in South Korea, Italy and Iran. These data represent the early stage of progression of the epidemic spreading, as the trends clearly show that the numbers of infected cases in most cities are still climbing, as of March 6, 2020",
+        "For each city or region, we identify a group of 10 profiles of best fit from the historical archive, and retrieve the corresponding sets of profile codes for generating the propagation profiles in the coming days",
+        "For South Korea, our results show that Daegu and Seoul are the two hardest hit cities, with 7,619 \u00b12,096 and 1,287 \u00b1197 people eventually infected, accounting for 0.306% \u00b10.084% and 0.062% \u00b10.009% of the city\u2019s population",
+        "For Italy, our results show that Lombardi and Amelia Romagna will have the highest number of cases, with 4,784 \u00b1788 and 1,555 \u00b1360 people eventually infected, accounting for 0.399% \u00b10.066% and 0.162% \u00b10.129% of the region\u2019s population",
+        "The spreading of the 2019 New Coronavirus Disease (COVID-19 or SARS-CoV-2) has evolved from a contagion originally confined within Wuhan, China, in December 2019, rapidly to a global contagion, which has spread to 87 countries within two months",
+        "We build on the result of our previous work [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] that establishes a library of parameters of an augmented SEIR model, corresponding to the historic spreading profiles of 367 cities in China",
+        "This library forms a set of profile codes that cover a variety of possible epidemic progression profiles",
+        "By comparing the early incomplete data of epidemic progression collected for a specific population with the historic profiles, we select a few candidate profiles from the historic archive using a nonlinear optimization procedure",
+        "The corresponding profile codes of the selected historic progression profiles can be used to produce estimates of the future progression for that specific population. We apply this method to predict the spreading of COVID-19 in South Korea, Italy and Iran",
+        "Results show that the three countries will soon see infection peaks in most cities in the coming 2 to 3 weeks, with South Korea\u2019s cases reaching their peaks slightly earlier than the others",
+        "The percentage of population eventually infected will be less than 0.3%, 0.05% and 0.02% for South Korea, Italy and Iran, respectively",
+        "The epidemic is expected to end before June 2020, and depending on the effectiveness of treatment, particular cities may see full recovery or zero infection sooner or later than others",
+        "It is worth noting that the epidemic progression in South Korean cities are found to be more rapid than typical, implying that the authorities might have taken effective measures to control the spread"
+    ],
+    "top_statements": [
+        "The 2019 Coronavirus Disease (COVID-19 or SARS-CoV-2) is a highly contagious disease, which began to spread in China in mid December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and as the volume of intercity travel escalated around the Lunar New Year period, the number of infected individuals began to soar in mid January 2020",
+        "Results of this study show that the spreading of COVID-19 in most cities in South Korea will peak between March 8 and March 16, 2020, and Italy will peak between March 12 and March 26, 2020, while Iran would have its peak around March 22, 2020",
+        "We apply the aforedescribed procedure to the data obtained so far for cities in South Korea, Italy and Iran. These data represent the early stage of progression of the epidemic spreading, as the trends clearly show that the numbers of infected cases in most cities are still climbing, as of March 6, 2020",
+        "The spreading of the 2019 New Coronavirus Disease (COVID-19 or SARS-CoV-2) has evolved from a contagion originally confined within Wuhan, China, in December 2019, rapidly to a global contagion, which has spread to 87 countries within two months",
+        "Application of the method to the data collected for South Korea, Italy and Iran shows that peaks of infection cases are expected to occur before the end of March 2020, and that the percentage of population infected in each city will be less than 0.01%, 0.05% and 0.02%, for South Korea, Italy and Iran, respectively",
+        "This library forms a set of profile codes that cover a variety of possible epidemic progression profiles"
+    ],
+    "headline": "This library forms a set of profile codes that cover a variety of possible epidemic progression profiles",
+    "contexts": [],
+    "abbreviations": {}
+}

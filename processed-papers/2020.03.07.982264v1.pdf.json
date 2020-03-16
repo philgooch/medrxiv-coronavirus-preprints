@@ -1,0 +1,873 @@
+{
+    "filename": "2020.03.07.982264v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 722721,
+    "metadata": {
+        "title": "SARS-CoV-2 sensitive to type I interferon pretreatment",
+        "keywords": [
+            "Coronavirus",
+            "2019-nCoV",
+            "SARS-CoV-2",
+            "COVID-19",
+            "SARS-CoV",
+            "type I interferon"
+        ],
+        "date": 2020,
+        "author": "Kumari G. Lokugamage, Craig Schindewolf, Vineet D. Menachery",
+        "affiliations": [
+            "Department of Microbiology and Immunology,",
+            "Institute for Human Infection and Immunity, University of Texas Medical Branch, Galveston TX, USA",
+            "University of Texas Medical Branch, 301 University Blvd, Route #0610 Galveston, TX 77555 Email: Vimenach@utmb.edu"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.07.982264",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.07.982264v1.pdf"
+        },
+        "abstract": "2 SARS-CoV-2, a novel coronavirus (CoV), has recently emerged causing an ongoing outbreak of 3 viral pneumonia around the world. While genetically distinct from the original SARS-CoV, both 4 group 2B coronaviruses share similar genome organization and origins to coronaviruses 5 harbored in bats. Importantly, initial guidance has used insights from SARS-CoV infection to 6 inform treatment and public health strategies. In this report, we evaluate SARS-CoV-2 relative to 7 the original SARS-CoV. Our results indicate that while SARS-CoV-2 maintains similar viral 8 replication kinetics to SARS-CoV in Vero cell, the novel coronavirus is much more sensitive to 9 type I interferon pretreatment. We subsequently examined homology between SARS-CoV and 10 SARS-CoV-2 in viral proteins shown to be interferon antagonist. The absence of open reading frame (ORF) 3b and significant changes to ORF6 suggest the two key IFN antagonists may not maintain equivalent function in SARS-CoV-2. Together, the results identify key differences in susceptibility to the IFN response between SARS-CoV and SARS-CoV-2 that could help inform disease progression, treatment options, and animal model development. 15",
+        "references": "@article{gralinski2020a,\n  author = {Gralinski, L.E. and Menachery, V.D.},\n  title = {Return of the Coronavirus: 2019-nCoV},\n  journal = {Viruses},\n  volume = {2020},\n  date = {2020},\n  unmatched-author = {Gorbalenya, A. E., et al.},\n  source = {The species Severe acute respiratory syndrome-related 227 coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2},\n  unmatched-journal = {Nature Microbiology},\n  unmatched-volume = {228 3.},\n  number = {226 2},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N 229 Engl J Med},\n  volume = {382},\n  pages = {727\u2013733},\n  date = {2020},\n  more-authors = {true},\n  unmatched-volume = {230 4.},\n  language = {}\n}\n@article{huang2020a,\n  author = {Huang, C.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in 231 Wuhan, China},\n  journal = {Lancet},\n  volume = {395},\n  pages = {497\u2013506},\n  date = {2020},\n  more-authors = {true},\n  unmatched-volume = {232 5.},\n  language = {}\n}\n@article{wu2020a,\n  author = {Wu, Z. and McGoogan, J.M.},\n  title = {Characteristics of and Important Lessons From the 233 Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 234 Cases From the Chinese Center for Disease Control and Prevention},\n  journal = {JAMA},\n  date = {2020},\n  volume = {235},\n  number = {6},\n  language = {}\n}\n@article{xu2020a,\n  author = {Xu, X.},\n  title = {Evolution of the novel coronavirus from the ongoing Wuhan outbreak and 236 modeling of its spike protein for risk of human transmission},\n  journal = {Sci China Life Sci},\n  volume = {63},\n  pages = {237},\n  date = {2020},\n  more-authors = {true},\n  unmatched-volume = {238 7.},\n  number = {457-460},\n  language = {}\n}\n@article{letko2020a,\n  author = {Letko, M. and Marzi, A. and Munster, V.},\n  title = {Functional assessment of cell entry and receptor 239 usage for SARS-CoV-2 and other lineage B betacoronaviruses},\n  journal = {Nat Microbiol},\n  date = {2020},\n  volume = {240},\n  number = {8},\n  language = {}\n}\n@article{zhou2020a,\n  author = {Zhou, P.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable 241 bat origin},\n  journal = {Nature},\n  date = {2020},\n  volume = {242},\n  editor = {de Wit, E.},\n  booktitle = {Sciences of the},\n  publisher = {of America},\n  more-authors = {true},\n  source = {Prophylactic and therapeutic remdesivir (GS-5734) treatment in the 243 rhesus macaque model of MERS-CoV infection},\n  unmatched-journal = {Proceedings of the National Academy of},\n  unmatched-volume = {244 245 10.},\n  number = {9},\n  more-editors = {true},\n  language = {},\n  address = {United States}\n}\n@article{wang2019a,\n  author = {Wang, M.},\n  title = {Remdesivir and chloroquine effectively inhibit the recently emerged 246 novel coronavirus},\n  date = {2019},\n  journal = {Cell Res},\n  volume = {247},\n  more-authors = {true},\n  source = {in vitro},\n  number = {11},\n  language = {}\n}\n@article{sheahan2020a,\n  author = {Sheahan, T.P.},\n  title = {Comparative therapeutic efficacy of remdesivir and combination 248 lopinavir, ritonavir, and interferon beta against MERS-CoV},\n  journal = {Nature communications},\n  volume = {11},\n  date = {2020},\n  more-authors = {true},\n  unmatched-volume = {250 12.},\n  number = {222 249},\n  language = {}\n}\n@article{sheahan-a,\n  author = {Sheahan, T.P.},\n  title = {Broad-spectrum antiviral GS-5734 inhibits both epidemic and 251 zoonotic coronaviruses},\n  journal = {Sci Transl Med},\n  volume = {2017},\n  more-authors = {true},\n  number = {252 13},\n  language = {}\n}\n@article{ahmed-a,\n  author = {Ahmed, S.F. and Quadeer, A.A. and McKay, M.R.},\n  title = {Preliminary Identification of Potential 253 Vaccine Targets for the COVID-19 Coronavirus (SARS-CoV-2) Based on SARS-CoV 254 Immunological Studies},\n  journal = {Viruses},\n  volume = {2020},\n  number = {255 14},\n  language = {}\n}\n@article{lin2014a,\n  author = {Lin, F.C. and Young, H.A.},\n  title = {Interferons: Success in anti-viral immunotherapy. Cytokine 256 Growth Factor},\n  journal = {Rev},\n  volume = {25},\n  pages = {369\u2013376},\n  date = {2014},\n  unmatched-volume = {257 15.},\n  language = {}\n}\n@article{zumla2015a,\n  author = {Zumla, A. and Hui, D.S. and Perlman, S.},\n  title = {Middle East respiratory syndrome},\n  journal = {Lancet},\n  volume = {386},\n  date = {2015},\n  unmatched-volume = {259 16.},\n  number = {995258 1007},\n  language = {}\n}\n@misc{unknown2019a,\n  title = {Viruses},\n  date = {2019},\n  volume = {261},\n  number = {17},\n  language = {}\n}\n@article{diaz1988a,\n  author = {Diaz, M.O.},\n  title = {Homozygous deletion of the alpha- and beta 1-interferon genes in 262 human leukemia and derived cell lines},\n  journal = {Proceedings of the National Academy of Sciences of the},\n  volume = {263},\n  pages = {5259\u20135263},\n  date = {1988},\n  more-authors = {true},\n  source = {United States of America 85},\n  unmatched-volume = {264 18.},\n  language = {}\n}\n@article{totura2012a,\n  author = {Totura, A.L. and Baric, R.S.},\n  title = {SARS coronavirus pathogenesis: host innate immune 265 responses and viral antagonism of interferon},\n  journal = {Current opinion in virology},\n  volume = {2},\n  pages = {264\u2013275},\n  date = {2012},\n  unmatched-volume = {266 19.},\n  language = {}\n}\n@article{yang2015a,\n  author = {Yang, X.L.},\n  title = {Isolation and Characterization of a Novel Bat Coronavirus Closely 267 Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus},\n  journal = {Journal of 268},\n  volume = {90},\n  pages = {3253\u20133256},\n  date = {2015},\n  more-authors = {true},\n  unmatched-volume = {269 20.},\n  language = {}\n}\n@article{ge2013a,\n  author = {Ge, X.Y.},\n  title = {Isolation and characterization of a bat SARS-like coronavirus that uses 270 the ACE2 receptor},\n  journal = {Nature},\n  volume = {503},\n  pages = {535\u2013538},\n  date = {2013},\n  more-authors = {true},\n  language = {}\n}\n@article{lau2005a,\n  author = {Lau, S.K.},\n  title = {Severe acute respiratory syndrome coronavirus-like virus in Chinese 272 horseshoe bats. Proceedings of the National Academy of Sciences of the United States of 273 America 102},\n  pages = \"14040-14045\" # \"4619-4629\",\n  date = {2005},\n  volume = {274},\n  journal = {Journal of virology},\n  unmatched-author = {Clementz, M. A., et al.},\n  more-authors = {true},\n  source = {Deubiquitinating and interferon antagonism activities of 275 coronavirus papain-like proteases},\n  unmatched-pages = {4619-4629},\n  unmatched-volume = {84, 276 23.},\n  number = {22},\n  language = {}\n}\n@article{kopecky-bromberg2007a,\n  author = {Kopecky-Bromberg, S.A. and Martinez-Sobrido, L. and Frieman, M. and Baric, R.A. and Palese, P.},\n  title = {277 Severe acute respiratory syndrome coronavirus open reading frame (ORF) 3b, ORF 6, and 278 nucleocapsid proteins function as interferon antagonists},\n  journal = {Journal of virology},\n  volume = {81},\n  pages = {548\u2013557},\n  date = {2007},\n  unmatched-volume = {279 24.},\n  language = {}\n}\n@article{frieman2007a,\n  author = {Frieman, M.},\n  title = {Severe acute respiratory syndrome coronavirus ORF6 antagonizes 280 STAT1 function by sequestering nuclear import factors on the rough endoplasmic 281 reticulum/Golgi membrane},\n  journal = {Journal of virology},\n  volume = {81},\n  pages = {9812\u20139824},\n  date = {2007},\n  more-authors = {true},\n  unmatched-volume = {282 25.},\n  language = {}\n}\n@article{coutard2020a,\n  author = {Coutard, B.},\n  title = {The spike glycoprotein of the new coronavirus 2019-nCoV contains a 283 furin-like cleavage site absent in CoV of the same clade},\n  journal = {Antiviral Res},\n  volume = {176},\n  date = {2020},\n  more-authors = {true},\n  unmatched-volume = {284 26.},\n  number = {104742},\n  language = {}\n}\n@article{tong-a,\n  author = {Tong, Z.D.},\n  title = {Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang 285 Province, China, 2020},\n  journal = {Emerg Infect Dis},\n  volume = {2020},\n  more-authors = {true},\n  number = {286 27},\n  language = {}\n}\n@article{menachery2014a,\n  author = {Menachery, V.D.},\n  title = {Attenuation and restoration of severe acute respiratory syndrome 287 coronavirus mutant lacking 2'-o-methyltransferase activity},\n  journal = {Journal of virology},\n  volume = {88},\n  pages = {288},\n  date = {2014},\n  more-authors = {true},\n  unmatched-volume = {289 28.},\n  number = {4251-4264},\n  language = {}\n}\n@article{unknown2008a,\n  title = {Cytokine Growth Factor},\n  journal = {Rev},\n  volume = {19},\n  pages = {121\u2013132},\n  date = {2008},\n  unmatched-volume = {291 29.},\n  language = {}\n}\n@article{frieman2010a,\n  author = {Frieman, M.B.},\n  title = {SARS-CoV pathogenesis is regulated by a STAT1 dependent but a 292 type I, II and III interferon receptor independent mechanism},\n  journal = {PLoS pathogens},\n  volume = {6},\n  date = {2010},\n  more-authors = {true},\n  unmatched-volume = {294 30.},\n  number = {1000849 293},\n  language = {}\n}\n@article{channappanavar2016a,\n  author = {Channappanavar, R.},\n  title = {Dysregulated Type I Interferon and Inflammatory Monocyte295 Macrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice},\n  journal = {Cell host &},\n  volume = {296},\n  pages = {181\u2013193},\n  date = {2016},\n  more-authors = {true},\n  unmatched-volume = {297 31.},\n  number = {19},\n  language = {}\n}\n@article{menachery-a,\n  author = {Menachery, V.D.},\n  title = {Middle East Respiratory Syndrome Coronavirus Nonstructural 298 Protein 16 Is Necessary for Interferon Resistance and Viral Pathogenesis},\n  journal = {mSphere},\n  volume = {2017},\n  more-authors = {true},\n  number = {299 32},\n  language = {}\n}\n@article{falzarano2013a,\n  author = {Falzarano, D.},\n  title = {Inhibition of novel beta coronavirus replication by a combination of 300 interferon-alpha2b and ribavirin},\n  journal = {Scientific reports},\n  volume = {3},\n  date = {2013},\n  more-authors = {true},\n  unmatched-volume = {301 33.},\n  number = {1686},\n  language = {}\n}\n@article{menachery2014b,\n  author = {Menachery, V.D.},\n  title = {Pathogenic influenza viruses and coronaviruses utilize similar 302 and contrasting approaches to control interferon-stimulated gene responses},\n  journal = {mBio},\n  volume = {5},\n  date = {2014},\n  more-authors = {true},\n  unmatched-volume = {304 34.},\n  number = {01174303 01114},\n  language = {}\n}\n@article{finter1991a,\n  author = {Finter, N.B.},\n  title = {The use of interferon-alpha in virus infections},\n  journal = {Drugs},\n  volume = {42},\n  pages = {305},\n  date = {1991},\n  more-authors = {true},\n  unmatched-volume = {306 35.},\n  number = {749-765},\n  language = {}\n}\n@incollection{unknown2006a,\n  booktitle = {PLoS Med},\n  volume = {3},\n  pages = {343},\n  date = {2006},\n  unmatched-volume = {308 36.},\n  language = {}\n}\n@article{de2016a,\n  author = {de Wit, E. and van Doremalen, N. and Falzarano, D. and Munster, V.J.},\n  title = {SARS and MERS: recent 309 insights into emerging coronaviruses},\n  journal = {Nat Rev Microbiol},\n  volume = {14},\n  pages = {523\u2013534},\n  date = {2016},\n  unmatched-volume = {310 37.},\n  language = {}\n}\n@article{channappanavar2019a,\n  author = {Channappanavar, R.},\n  title = {IFN-I response timing relative to virus replication determines 311 MERS coronavirus infection outcomes},\n  journal = {The Journal of clinical investigation},\n  volume = {130},\n  pages = {312},\n  date = {2019},\n  more-authors = {true},\n  unmatched-volume = {313 38.},\n  number = {3625-3639},\n  language = {}\n}\n@article{pang-a,\n  author = {Pang, J.},\n  title = {Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel 314 Coronavirus},\n  unknown = {2019-nCoV): A},\n  journal = {Systematic Review. J Clin Med},\n  volume = {2020},\n  more-authors = {true},\n  number = {315 39},\n  language = {}\n}\n@article{roberts2007a,\n  author = {Roberts, A.},\n  title = {A mouse-adapted SARS-coronavirus causes disease and mortality in 316 BALB/c mice},\n  journal = {PLoS pathogens},\n  volume = {3},\n  pages = {5},\n  date = {2007},\n  more-authors = {true},\n  unmatched-volume = {317 40.},\n  language = {}\n}\n@incollection{cockrell-a,\n  author = {Cockrell, A. and B., Y. and Scobey, T. and Jensen, K. and Douglas, M. and Beall, A. and Tang, X.-C. and Marasco, W.A.},\n  volume = {318},\n  title = {Baric RS A Mouse Model for MERS Coronavirus Induced Acute Respiratory Distress 319 Syndrome},\n  booktitle = {Nature Microbiology In Press(2016)},\n  unmatched-author = {Heise MT,},\n  language = {}\n}\n@article{li2017a,\n  author = {Li, K.},\n  title = {Mouse-adapted MERS coronavirus causes lethal lung disease in human 321 DPP4 knockin mice. Proceedings of the National Academy of Sciences of the United States of 322 America 114, E3119-E3128},\n  date = {2017},\n  volume = {323},\n  journal = {et al. A Mouse Model of Zika Virus Pathogenesis. Cell host & microbe},\n  pages = \"720-730\" # \"43.\",\n  unmatched-author = {Lazear, H. M.,},\n  more-authors = {true},\n  unmatched-volume = {19, 324 325},\n  number = {42},\n  unmatched-pages = {43.},\n  language = {}\n}\n@article{harcourt2020a,\n  author = {Harcourt, J.},\n  title = {Isolation and characterization of SARS-CoV-2 from the first US 326 COVID-19 patient},\n  journal = {bioRxiv},\n  volume = {2020},\n  date = {2020},\n  more-authors = {true},\n  unmatched-volume = {327 44.},\n  number = {2003},\n  language = {}\n}\n@article{sims2013a,\n  author = {Sims, A.C.},\n  title = {Release of severe acute respiratory syndrome coronavirus nuclear 328 import block enhances host transcription in human lung cells},\n  journal = {J Virol},\n  volume = {87},\n  pages = {3885\u20133902},\n  date = {2013},\n  more-authors = {true},\n  unmatched-volume = {329 45.},\n  language = {}\n}\n@article{josset2013a,\n  author = {Josset, L.},\n  title = {Cell host response to infection with novel human coronavirus EMC 330 predicts potential antivirals and important differences with SARS coronavirus},\n  journal = {MBio},\n  volume = {4},\n  date = {2013},\n  more-authors = {true},\n  unmatched-volume = {332 46.},\n  number = {00165331 00113},\n  language = {}\n}\n@article{sheahan2008a,\n  author = {Sheahan, T. and Rockx, B. and Donaldson, E. and Corti, D. and Baric, R.},\n  title = {Pathways of cross-species 333 transmission of synthetically reconstructed zoonotic severe acute respiratory syndrome 334 coronavirus},\n  journal = {Journal of virology},\n  volume = {82},\n  pages = {8721\u20138732},\n  date = {2008},\n  language = {}\n}\n",
+        "links": [
+            "http://evolgenius.info/"
+        ],
+        "emails": [
+            "Vimenach@utmb.edu"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Gralinski, L.E.\nAU  - Menachery, V.D.\nTI  - Return of the Coronavirus: 2019-nCoV\nT2  - Viruses\nVL  - 2020\nPY  - 2020\nDA  - 2020\nC1  - Gorbalenya, A. E., et al.\nT2  - The species Severe acute respiratory syndrome-related 227 coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2\nC1  - Nature Microbiology\nC1  - 228 3.\nIS  - 226 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N 229 Engl J Med\nVL  - 382\nSP  - 727\nEP  - 733\nPY  - 2020\nDA  - 2020\nC1  - true\nC1  - 230 4.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in 231 Wuhan, China\nT2  - Lancet\nVL  - 395\nSP  - 497\nEP  - 506\nPY  - 2020\nDA  - 2020\nC1  - true\nC1  - 232 5.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Z.\nAU  - McGoogan, J.M.\nTI  - Characteristics of and Important Lessons From the 233 Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 234 Cases From the Chinese Center for Disease Control and Prevention\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nVL  - 235\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, X.\nTI  - Evolution of the novel coronavirus from the ongoing Wuhan outbreak and 236 modeling of its spike protein for risk of human transmission\nT2  - Sci China Life Sci\nVL  - 63\nSP  - 237\nPY  - 2020\nDA  - 2020\nC1  - true\nC1  - 238 7.\nIS  - 457-460\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Letko, M.\nAU  - Marzi, A.\nAU  - Munster, V.\nTI  - Functional assessment of cell entry and receptor 239 usage for SARS-CoV-2 and other lineage B betacoronaviruses\nT2  - Nat Microbiol\nPY  - 2020\nDA  - 2020\nVL  - 240\nIS  - 8\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable 241 bat origin\nT2  - Nature\nPY  - 2020\nDA  - 2020\nVL  - 242\nA2  - de Wit, E.\nT2  - Sciences of the\nPB  - of America\nC1  - true\nT2  - Prophylactic and therapeutic remdesivir (GS-5734) treatment in the 243 rhesus macaque model of MERS-CoV infection\nC1  - Proceedings of the National Academy of\nC1  - 244 245 10.\nIS  - 9\nC1  - true\nLA  - \nCY  - United States\nER  - \n\nTY  - JOUR\nAU  - Wang, M.\nTI  - Remdesivir and chloroquine effectively inhibit the recently emerged 246 novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Cell Res\nVL  - 247\nC1  - true\nT2  - in vitro\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sheahan, T.P.\nTI  - Comparative therapeutic efficacy of remdesivir and combination 248 lopinavir, ritonavir, and interferon beta against MERS-CoV\nT2  - Nature communications\nVL  - 11\nPY  - 2020\nDA  - 2020\nC1  - true\nC1  - 250 12.\nIS  - 222 249\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sheahan, T.P.\nTI  - Broad-spectrum antiviral GS-5734 inhibits both epidemic and 251 zoonotic coronaviruses\nT2  - Sci Transl Med\nVL  - 2017\nC1  - true\nIS  - 252 13\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ahmed, S.F.\nAU  - Quadeer, A.A.\nAU  - McKay, M.R.\nTI  - Preliminary Identification of Potential 253 Vaccine Targets for the COVID-19 Coronavirus (SARS-CoV-2) Based on SARS-CoV 254 Immunological Studies\nT2  - Viruses\nVL  - 2020\nIS  - 255 14\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lin, F.C.\nAU  - Young, H.A.\nTI  - Interferons: Success in anti-viral immunotherapy. Cytokine 256 Growth Factor\nT2  - Rev\nVL  - 25\nSP  - 369\nEP  - 376\nPY  - 2014\nDA  - 2014\nC1  - 257 15.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zumla, A.\nAU  - Hui, D.S.\nAU  - Perlman, S.\nTI  - Middle East respiratory syndrome\nT2  - Lancet\nVL  - 386\nPY  - 2015\nDA  - 2015\nC1  - 259 16.\nIS  - 995258 1007\nLA  - \nER  - \n\nTY  - GEN\nTI  - Viruses\nPY  - 2019\nDA  - 2019\nVL  - 261\nIS  - 17\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Diaz, M.O.\nTI  - Homozygous deletion of the alpha- and beta 1-interferon genes in 262 human leukemia and derived cell lines\nT2  - Proceedings of the National Academy of Sciences of the\nVL  - 263\nSP  - 5259\nEP  - 5263\nPY  - 1988\nDA  - 1988\nC1  - true\nT2  - United States of America 85\nC1  - 264 18.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Totura, A.L.\nAU  - Baric, R.S.\nTI  - SARS coronavirus pathogenesis: host innate immune 265 responses and viral antagonism of interferon\nT2  - Current opinion in virology\nVL  - 2\nSP  - 264\nEP  - 275\nPY  - 2012\nDA  - 2012\nC1  - 266 19.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, X.L.\nTI  - Isolation and Characterization of a Novel Bat Coronavirus Closely 267 Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus\nT2  - Journal of 268\nVL  - 90\nSP  - 3253\nEP  - 3256\nPY  - 2015\nDA  - 2015\nC1  - true\nC1  - 269 20.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ge, X.Y.\nTI  - Isolation and characterization of a bat SARS-like coronavirus that uses 270 the ACE2 receptor\nT2  - Nature\nVL  - 503\nSP  - 535\nEP  - 538\nPY  - 2013\nDA  - 2013\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lau, S.K.\nTI  - Severe acute respiratory syndrome coronavirus-like virus in Chinese 272 horseshoe bats. Proceedings of the National Academy of Sciences of the United States of 273 America 102\nSP  - \"14040\nEP  - 14045\" # \"4619\nPY  - 2005\nDA  - 2005\nVL  - 274\nT2  - Journal of virology\nC1  - Clementz, M. A., et al.\nC1  - true\nT2  - Deubiquitinating and interferon antagonism activities of 275 coronavirus papain-like proteases\nC1  - 4619-4629\nC1  - 84, 276 23.\nIS  - 22\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kopecky-Bromberg, S.A.\nAU  - Martinez-Sobrido, L.\nAU  - Frieman, M.\nAU  - Baric, R.A.\nAU  - Palese, P.\nTI  - 277 Severe acute respiratory syndrome coronavirus open reading frame (ORF) 3b, ORF 6, and 278 nucleocapsid proteins function as interferon antagonists\nT2  - Journal of virology\nVL  - 81\nSP  - 548\nEP  - 557\nPY  - 2007\nDA  - 2007\nC1  - 279 24.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Frieman, M.\nTI  - Severe acute respiratory syndrome coronavirus ORF6 antagonizes 280 STAT1 function by sequestering nuclear import factors on the rough endoplasmic 281 reticulum/Golgi membrane\nT2  - Journal of virology\nVL  - 81\nSP  - 9812\nEP  - 9824\nPY  - 2007\nDA  - 2007\nC1  - true\nC1  - 282 25.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Coutard, B.\nTI  - The spike glycoprotein of the new coronavirus 2019-nCoV contains a 283 furin-like cleavage site absent in CoV of the same clade\nT2  - Antiviral Res\nVL  - 176\nPY  - 2020\nDA  - 2020\nC1  - true\nC1  - 284 26.\nIS  - 104742\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tong, Z.D.\nTI  - Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang 285 Province, China, 2020\nT2  - Emerg Infect Dis\nVL  - 2020\nC1  - true\nIS  - 286 27\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Menachery, V.D.\nTI  - Attenuation and restoration of severe acute respiratory syndrome 287 coronavirus mutant lacking 2'-o-methyltransferase activity\nT2  - Journal of virology\nVL  - 88\nSP  - 288\nPY  - 2014\nDA  - 2014\nC1  - true\nC1  - 289 28.\nIS  - 4251-4264\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Cytokine Growth Factor\nT2  - Rev\nVL  - 19\nSP  - 121\nEP  - 132\nPY  - 2008\nDA  - 2008\nC1  - 291 29.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Frieman, M.B.\nTI  - SARS-CoV pathogenesis is regulated by a STAT1 dependent but a 292 type I, II and III interferon receptor independent mechanism\nT2  - PLoS pathogens\nVL  - 6\nPY  - 2010\nDA  - 2010\nC1  - true\nC1  - 294 30.\nIS  - 1000849 293\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Channappanavar, R.\nTI  - Dysregulated Type I Interferon and Inflammatory Monocyte295 Macrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice\nT2  - Cell host &\nVL  - 296\nSP  - 181\nEP  - 193\nPY  - 2016\nDA  - 2016\nC1  - true\nC1  - 297 31.\nIS  - 19\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Menachery, V.D.\nTI  - Middle East Respiratory Syndrome Coronavirus Nonstructural 298 Protein 16 Is Necessary for Interferon Resistance and Viral Pathogenesis\nT2  - mSphere\nVL  - 2017\nC1  - true\nIS  - 299 32\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Falzarano, D.\nTI  - Inhibition of novel beta coronavirus replication by a combination of 300 interferon-alpha2b and ribavirin\nT2  - Scientific reports\nVL  - 3\nPY  - 2013\nDA  - 2013\nC1  - true\nC1  - 301 33.\nIS  - 1686\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Menachery, V.D.\nTI  - Pathogenic influenza viruses and coronaviruses utilize similar 302 and contrasting approaches to control interferon-stimulated gene responses\nT2  - mBio\nVL  - 5\nPY  - 2014\nDA  - 2014\nC1  - true\nC1  - 304 34.\nIS  - 01174303 01114\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Finter, N.B.\nTI  - The use of interferon-alpha in virus infections\nT2  - Drugs\nVL  - 42\nSP  - 305\nPY  - 1991\nDA  - 1991\nC1  - true\nC1  - 306 35.\nIS  - 749-765\nLA  - \nER  - \n\nTY  - CHAP\nT2  - PLoS Med\nVL  - 3\nSP  - 343\nPY  - 2006\nDA  - 2006\nC1  - 308 36.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - de Wit, E.\nAU  - van Doremalen, N.\nAU  - Falzarano, D.\nAU  - Munster, V.J.\nTI  - SARS and MERS: recent 309 insights into emerging coronaviruses\nT2  - Nat Rev Microbiol\nVL  - 14\nSP  - 523\nEP  - 534\nPY  - 2016\nDA  - 2016\nC1  - 310 37.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Channappanavar, R.\nTI  - IFN-I response timing relative to virus replication determines 311 MERS coronavirus infection outcomes\nT2  - The Journal of clinical investigation\nVL  - 130\nSP  - 312\nPY  - 2019\nDA  - 2019\nC1  - true\nC1  - 313 38.\nIS  - 3625-3639\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Pang, J.\nTI  - Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel 314 Coronavirus\nC1  - 2019-nCoV): A\nT2  - Systematic Review. J Clin Med\nVL  - 2020\nC1  - true\nIS  - 315 39\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Roberts, A.\nTI  - A mouse-adapted SARS-coronavirus causes disease and mortality in 316 BALB/c mice\nT2  - PLoS pathogens\nVL  - 3\nSP  - 5\nPY  - 2007\nDA  - 2007\nC1  - true\nC1  - 317 40.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Cockrell, A.\nAU  - B., Y.\nAU  - Scobey, T.\nAU  - Jensen, K.\nAU  - Douglas, M.\nAU  - Beall, A.\nAU  - Tang, X.-C.\nAU  - Marasco, W.A.\nVL  - 318\nTI  - Baric RS A Mouse Model for MERS Coronavirus Induced Acute Respiratory Distress 319 Syndrome\nT2  - Nature Microbiology In Press(2016)\nC1  - Heise MT,\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, K.\nTI  - Mouse-adapted MERS coronavirus causes lethal lung disease in human 321 DPP4 knockin mice. Proceedings of the National Academy of Sciences of the United States of 322 America 114, E3119-E3128\nPY  - 2017\nDA  - 2017\nVL  - 323\nT2  - et al. A Mouse Model of Zika Virus Pathogenesis. Cell host & microbe\nSP  - \"720\nEP  - 730\" # \"43.\"\nC1  - Lazear, H. M.,\nC1  - true\nC1  - 19, 324 325\nIS  - 42\nC1  - 43.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Harcourt, J.\nTI  - Isolation and characterization of SARS-CoV-2 from the first US 326 COVID-19 patient\nT2  - bioRxiv\nVL  - 2020\nPY  - 2020\nDA  - 2020\nC1  - true\nC1  - 327 44.\nIS  - 2003\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sims, A.C.\nTI  - Release of severe acute respiratory syndrome coronavirus nuclear 328 import block enhances host transcription in human lung cells\nT2  - J Virol\nVL  - 87\nSP  - 3885\nEP  - 3902\nPY  - 2013\nDA  - 2013\nC1  - true\nC1  - 329 45.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Josset, L.\nTI  - Cell host response to infection with novel human coronavirus EMC 330 predicts potential antivirals and important differences with SARS coronavirus\nT2  - MBio\nVL  - 4\nPY  - 2013\nDA  - 2013\nC1  - true\nC1  - 332 46.\nIS  - 00165331 00113\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sheahan, T.\nAU  - Rockx, B.\nAU  - Donaldson, E.\nAU  - Corti, D.\nAU  - Baric, R.\nTI  - Pathways of cross-species 333 transmission of synthetically reconstructed zoonotic severe acute respiratory syndrome 334 coronavirus\nT2  - Journal of virology\nVL  - 82\nSP  - 8721\nEP  - 8732\nPY  - 2008\nDA  - 2008\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "SARS-CoV-2 sensitive to type I IFN pretreatment. A) Vero E6 cells infected with either SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1. Media harvested at 4, 24, and 48 hours post infection. B) Vero E6 cells were treated with 1000 units recombinant type I 341 IFN or mock for 18 hours prior to infection. Cells were subsequently infected at with either SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1 as described above. Each point on the line graph represents the group mean, N=6 for 24 and 48HPI, N=3 for 3HPI. All error bars represent SD. The two tailed students t-test was used to determine P-values: *** P < 0.001. SARS-CoV-2 sensitive to type I IFN pretreatment. A) Vero E6 cells infected with either SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1. Media harvested at 4, 24, and 48 hours post infection. B) Vero E6 cells were treated with 1000 units recombinant type I 356 IFN or mock for 18 hours prior to infection. Cells were subsequently infected at with either SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1 as described above. Each point on the line graph represents the group mean, N=6 for 24 and 48HPI, N=3 for 3HPI. All error bars represent SD. The two tailed students t-test was used to determine P-values: *** P < 0.001"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.982264v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.982264v1/img-001.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "At the end of 2019, a cluster of patients in Hubei Province, China was diagnosed with a viral pneumonia of unknown origins. With community links to the Hunnan seafood market in<br/><br/>Wuhan, the disease cluster had echoes of the severe acute respiratory syndrome coronavirus (SARS-CoV) outbreak that emerged at the beginning of the century 1. The 2019 etiologic agent was identified as a novel coronavirus, 2019-nCoV, and subsequently renamed SARS-CoV-2 2.<br/><br/>The new virus has nearly 80% nucleotide identity to the original SARS-CoV and the corresponding CoV disease, COVID-19, has many of the hallmarks of SARS-CoV disease including fever, breathing difficulty, bilateral lung infiltration, and death in the most extreme cases years old), health status, and health care workers, similar to both SARS and MERS-CoV 5.<br/><br/>Together, the results indicate SARS-CoV-2 infection and disease have strong similarity to the original SARS-CoV epidemic occurring nearly two decades earlier.<br/><br/>. In addition, the most severe SARS-CoV-2 disease corresponded to old age (>50<br/><br/>In the wake of the outbreak, major research efforts have sought to rapidly characterize the novel CoV to aid in treatment and control. Initial modeling studies predicted subsequent cell culture studies confirmed that spike protein of SARS-CoV-2 utilizes human angiotensin converting enzyme 2 (ACE2) for entry, the same receptor as SARS-CoV<br/><br/>Extensive case studies indicated a similar range of disease onset and severe symptoms seen with SARS-CoV 5. Notably, less severe SARS-CoV-2 cases have also been observed and were not captured in the original SARS-CoV outbreak. Importantly, screening and treatment guidance has relied on previous CoV data generated with SARS-CoV and MERS-CoV. Treatments with both protease inhibitors and type I interferon have been employed 4; similarly, remdesivir, a drug targeting viral polymerases, has been reported to have efficacy against SARS-CoV-2 similar to findings with both SARS- and MERS-CoV initiated with a focus on the SARS-CoV-2 spike protein as the major antigenic determinate    9-12 and<br/><br/>. Importantly, several vaccine efforts have been<br/><br/>Together, the similarities with SARS-CoV have been useful in responding to the newest CoV outbreak.<br/><br/>In this study, we further characterize SARS-CoV-2 and compare it to the original SARS-<br/><br/>CoV. Using Vero E6 cells, we demonstrate that SARS-CoV-2 maintains similar viral replication kinetics as SARS-CoV following a low dose infection. In contrast, we find that SARS-CoV-2 is much more sensitive to type I interferon (IFN) pretreatment as compared to SARS-CoV. These results suggest distinct changes between the CoVs in terms of IFN antagonism and we subsequently examined sequence homology between the SARS-CoV and SARS-CoV-2 viral proteins that may be responsible for these differences. Together, the results suggest SARS-<br/><br/>CoV-2 lacks the same capacity to control the type I IFN response as SARS-CoV."
+        ],
+        "results": [
+            "Our initial studies infected Vero E6 cells using a low multiplicity of infection (MOI) to explore the viral replication kinetics of SARS-CoV-2 relative to SARS-CoV. Following infection, we find that both SARS-CoV and SARS-CoV-2 replicate with similar kinetics, peaking 48 hours post infection (Fig. 1A). While SARS-CoV-2 titer had slightly lower viral titers at 24 hours post infection, the results were different statistically different between the novel CoV and the original epidemic strain.<br/><br/>cytopathic effect (CPE) was observed for both SARS-CoV and SARS-CoV-2 infections.<br/><br/>Together, the results indicated that SARS-CoV and SARS-CoV-2 replicate with similar replication kinetics in Vero E6 cells.<br/><br/>By 48 hours, replication in both viruses had plateaued and significant<br/><br/>We next evaluated the susceptibility of SARS-CoV-2 to type I interferon (IFN)    pretreatment.<br/><br/>pathogens including hepatitis B and C viruses as well as HIV<br/><br/>MERS-CoV outbreaks, type I IFN has been employed with limited effect pretreated Vero E6 cells with 1000 units of recombinant type I IFN 18 hours prior to infection.<br/><br/>Type I IFN treatment has been a standard approach for a wide variety of<br/><br/>. During both the SARS and<br/><br/>. In this study, we<br/><br/>Vero E6 lack the capacity to produce type I IFN, but are able to respond to exogenous forms<br/><br/>Following pretreatment with type I IFN, SARS-CoV infection has a modest reduction in viral titer (1.5 log plaque forming units (PFU)) as compared to untreated control 24 hours post infection (Fig. 1B). However, by 48 hours, SARS-CoV has nearly equivalent viral yields as the untreated conditions (7.2 log PFU versus 7.5 log PFU). In contrast, SARS-CoV-2 shows a significant reduction in viral replication following type I IFN treatment. At both 24 and 48 hours post infection, SARS-CoV-2 had massive 3-log (24 HPI) and 4-log (48 HPI) drops in viral titer as compared to control untreated cells.<br/><br/>sensitivity in SARS-CoV-2 not observed with SARS-CoV.<br/><br/>Conservation of IFN antagonists across SARS-CoV and SARS-CoV-2<br/><br/>Considering the sensitivity to type I IFN, we next sought to evaluate changes between SARS-<br/><br/>CoV and SARS-CoV-2 viral proteins. Previous work has established several key IFN antagonist in the SARS-CoV genome including NSP1, NSP3, ORF3b, ORF6, and others compared the sequence homology across viral proteins from SARS-CoV, SARS-CoV-2, and several bat SARS-like viruses including WIV16-CoV<br/><br/>Using sequence analysis, we found several changes to SARS-CoV-2 that potentially contribute to its type I IFN sensitivity (Fig. 2). For SARS-CoV structural proteins including the nucleocapsid (N) and matrix (M) protein, a high degree of sequence homology (>90%AA identity) suggests that their reported IFN antagonism is likely maintained in SARS-CoV-2 and other SARS-like viruses. Similarly, the ORF1ab poly-protein retains high sequence identity in SARS-CoV-2 and several known antagonists contained within the poly-protein (NSP1, NSP7, NSP14-16) are highly conserved relative to SARS-CoV. One notable exception is the large papain-like proteases, NSP3, which only 76% conserved between SARS-CoV and SARS-CoV-2. However, SARS-CoV-2 does maintain a deubiquitinating domain thought to confer IFN resistance<br/><br/>SARS-CoV ORF3b, a 154 amino acid (AA) protein known to antagonize the type I IFN<br/><br/>Together, the results demonstrate clear type I IFN    , SHC014-CoV    . Therefore, we    , and HKU3.1-CoV<br/><br/>. For responses by blocking IRF3 phosphorylation<br/><br/>ORF3b contains a premature stop codon resulting in a truncated 20 AA protein. Similarly, HKU3.1-CoV also has a premature termination resulting in a predicted 39 AA protein. Both<br/><br/>WIV16-CoV and SHC014-CoV, the most closely related bat viruses to SARS-CoV, encode longer 114 AA truncated protein with >99% homology with SARS-CoV ORF3b suggesting that<br/><br/>IFN antagonism might be maintained in these specific group 2B CoV strains. Similarly, SARS-<br/><br/>CoV ORF6 has been shown to be an IFN antagonist that disrupts karyopherin transportation of transcriptions factors like STAT1 maintain ORF6; however, SARS-CoV-2 had only 69% homology with SARS-CoV while the other three group 2B bat CoVs had >90% conservation. Importantly, SARS-CoV-2 has a two amino acid truncation in its ORF6; previous work has found that alanine substitution in this C-<br/><br/>terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences in NSP3, ORF3b, and/or ORF6 may be key drivers of SARS-CoV-2 type I IFN susceptibility."
+        ],
+        "discussion": [
+            "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus. In this report, we describe differences in the type I IFN sensitivity between SARS-CoV-2 and the original SARS-CoV. While both viruses maintain similar replication in untreated Vero E6 cells, SARS-CoV-2 has a significant decrease in viral replication following type I IFN pretreatment. This sensitivity to type I IFN is distinct from the original SARS-CoV and suggests that the novel CoV has distinct host interactions driving disease outcomes. Analysis of viral proteins finds SARS-CoV-2 has several changes that potentially impact its capacity to modulate the type I IFN response, including loss of ORF3b and a short truncation of ORF6, both known as type I IFN antagonists for SARS-CoV our results suggest SARS-CoV and SARS-CoV-2 have differences in their ability to control the<br/><br/>, sequence analysis indicates that SARS-CoV-2<br/><br/>. In contrast to ORF3b, all five surveyed group 2B CoVs<br/><br/>. Together, the sequence<br/><br/>. Together, type I IFN response once initiated and that they may have major implication for COVID-19 disease and treatment.<br/><br/>With a similar genome organization and disease symptoms in humans, the SARS-CoV-2 outbreak has drawn insights from the closely related SARS-CoV. However, the differences in sensitivity to type I IFN pretreatment illustrates a clear distinction between the two CoVs.<br/><br/>Coupled with a novel furin cleavage site transmission prior to symptomatic disease<br/><br/>CoV-2 could prove important in disrupting the ongoing spread of COVID-19. For SARS-CoV, in vitro studies have consistently found that wild-type SARS-CoV is indifferent to type I IFN pretreatment signaling had no significant impact on disease suggesting the virus controlled this pathway<br/><br/>However, more recent reports suggest that host genetic background may majorly influence this finding log drop in viral titer. This level of sensitivity is similar to MERS-CoV and suggests the novel<br/><br/>CoV lacks the same capacity to modulate a primed type I IFN response as SARS-CoV<br/><br/>Notably, the sensitivity to type I IFN does not completely ablate viral replication; unlike SARS-<br/><br/>CoV 2\u2019O methyl-transferase mutants levels even in the presence of type I IFN. This finding could help explain positive test in patients with minimal symptoms and the range of disease observed. In addition, while SARS-CoV-2 is sensitive to type I IFN pretreatment, both SARS-CoV and MERS-CoV employ effective means to disrupt recognition until late during infection by SARS-CoV, diminishing the overall effect of type I IFN during infection.<br/><br/>, robust upper airway infection 8, and potential<br/><br/>, the differences between SARS-CoV and SARS-<br/><br/>. Similarly, in vivo SARS-CoV studies have found that the loss of type I IFN<br/><br/>. For SARS-CoV-2, our results suggest that type I IFN pretreatment produces a 3 - 4<br/><br/>, SARS-CoV-2 is able to replicate to low, detectable<br/><br/>; a similar mechanism may also be employed<br/><br/>For SARS-CoV-2, the sensitivity to type I IFN indicates a distinction from SARS-CoV and suggests differential host immune modulation between the viruses. The loss of ORF3b and truncation/changes in ORF6 could signal a reduced capacity of SARS-CoV-2 to modulate type I<br/><br/>IFN responses. For SARS-CoV ORF6, the N-terminal domain has been shown to have a clear role in its ability to disrupt karyopherin transport<br/><br/>CoV-2 would likely render it much more susceptible to type I IFN pretreatment as activated<br/><br/>STAT1 and other transcriptional factors would now have the capacity to enter the nucleus and induce an interferon stimulated gene response. For SARS-CoV ORF3b, the viral protein has been shown to disrupt phosphorylation of IRF3, a key transcriptional factor in the induction of an antiviral state 23. While its mechanism of action is not clear, the ORF3b absence in SARS-CoV-2 infection likely impacts its ability to control the type I IFN response. Similarly, while NSP3 deubiquitinating domain remains intact, SARS-CoV-2 has a 24 AA insertion upstream of this deubiquitinating domain that could potentially alter that function antagonists are maintained with high levels of conservation (>90%), single point mutations in key locations could modify function and contribute to increased IFN sensitivity. Overall, the sequence analysis suggests that differences between SARS-CoV and SARS-CoV-2 viral proteins may drive attenuation in the context of type I IFN pretreatment.<br/><br/>; in turn, the loss of ORF6 function for SARS-<br/><br/>Similarly, while other<br/><br/>The increased sensitivity of SARS-CoV-2 suggests utility in treatment using type I IFN.<br/><br/>While type I IFN has been used in response to chronic viral infection 34, previous examination of<br/><br/>SARS-CoV cases found inconclusive effect for type I IFN treatment from the SARS-CoV outbreak were complicated by combination therapy of type I IFN with other treatments including ribavirin/steroids and lack of a regimented protocol. While type I IFN has been utilized to treat MERS-CoV infected patients, no conclusive data yet exists to determine efficacy can be protective in mice be detrimental for MERS-CoV disease using type I IFN in combination for SARS-CoV-2 infection; yet the efficacy of these treatments and the parameters of their use is not known<br/><br/>. However, the findings<br/><br/>. Yet, in vivo studies with MERS-CoV has found that early induction with type I IFN<br/><br/>; importantly, the same study found that late type I IFN induction can<br/><br/>. Similarly, early reports have described treatments<br/><br/>. Overall, sensitivity data suggest that type I IFN treatment may have utility for treating SARS-CoV-2 if the appropriate parameters can be determined. In addition, use of type III IFN, which is predicted to have utility in the respiratory tract, could offer another means for effective treatment for SARS-CoV-2.<br/><br/>In addition to treatment, the sensitivity to type I IFN may also have implications for animal model development. For SARS-CoV, mouse models that recapitulate human disease were developed through virus passage in immune competent mice for MERS-CV required adaptation in mice that had genetic modifications of their dipeptidylpeptidase 4 (DPP4), the receptor for MERS-CoV mouse models still retained full immune capacity. In contrast, SARS-CoV-2 sensitivity to type I<br/><br/>IFN may signal the need to use an immune deficient model to develop relevant disease. While initial work has suggested incompatibility to SARS-CoV-2 infection in mice based on receptor usage 8, the type I IFN response may be a second major barrier that needs to be overcome.<br/><br/>Similar to the emergent Zika virus outbreak, the use of type I IFN receptor knockout mice or type I IFN receptor blocking antibody may be necessary to develop auseful SARS-CoV-2 animal models for therapeutic testing 42.<br/><br/>. Similarly, mouse models<br/><br/>. However, each of these MERS-CoV<br/><br/>Overall, our results indicate that SARS-CoV-2 has a much higher sensitivity to type I IFN than the previously emergent SARS-CoV. This augmented type I IFN sensitivity is likely due to changes in viral proteins between the two epidemic CoV strains. Moving forward, these data could provide important insights for both the treatment of SARS-CoV-2 as well as developing novel animal models of disease. In this ongoing outbreak, the results also highlight a distinction between the highly related viruses and suggest insights from SARS-CoV must be verified for<br/><br/>SARS-CoV-2 infection and disease."
+        ],
+        "methods": [
+            "Viruses and cells. SARS-CoV-2 USA-WA1/2020, provided by the World Reference Center for<br/><br/>Emerging Viruses and Arboviruses (WRCEVA) and was originally obtained from the USA<br/><br/>Centers of Disease Control as described    SARS-CoV (MA15)<br/><br/>fetal bovine serum and 1% antibiotic/antimytotic (Gibco). Standard plaque assays were used for<br/><br/>SARS-CoV and SARS-CoV-2 the University of Texas Medical Branch (Galveston, TX) in approved biosafety level 3 (BSL)<br/><br/>laboratories with routine medical monitoring of staff.<br/><br/>Infection and type I IFN pretreatment. Viral replication in Vero E6 were performed as previously described with SARS-CoV or SARS-CoV-2 at an multiplicity of infection (MOI) 0.01 for 60 minutes at 37<br/><br/>\u00b0C. Following inoculation, cells were washed 3 times, and fresh media was added to signify time<br/><br/>0. Three or more biological replicates were harvested at each described time point and results are from combination of two experiments. No blinding was used in any sample collections, nor were samples randomized. For type I IFN pretreatment, experiments were completed as previously described recombinant type I IFN alpha (PBL Assay Sciences) 18 hours prior to infection infected as described above and type I IFN was not added back after infection.<br/><br/>Phylogenetic Tree and Sequence Identity Heat Map. Heat maps were constructed from a set of representative group 2B coronaviruses by using alignment data paired with neighbor-joining phylogenetic trees built in Geneious (v.9.1.5). Sequence identity was visualized using EvolView (http://evolgenius.info/) and utilized SARS-CoV Urbani as the reference sequence. Tree shows the degree of genetic similarity of SARS-CoV-2 and SARS-CoV across a selected group 2B coronaviruses<br/><br/>. SARS-CoV-2 and mouse-adapted recombinant were titrated and propagated on VeroE6 cells, grown in DMEM with 5%<br/><br/>. All experiments involving infectious virus were conducted at<br/><br/>. Briefly, cells were washed with two times with PBS and inoculated<br/><br/>Briefly, Vero E6 cells were incubated with 1000 units/mL of    . Cells were<br/><br/>Statistical analysis. All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions.<br/><br/>Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-    Test."
+        ],
+        "acknowledgements": [
+            "Research was supported by grants from NIA and NIAID of the NIH (U19AI100625 and R00AG049092 to VDM; R24AI120942 to WRCEVA). Research was also supported by STARs Award provided by the University of Texas System to VDM and trainee funding provided by the McLaughlin Endowment at UTMB."
+        ],
+        "funding": [
+            "Research was supported by grants from NIA and NIAID of the NIH (U19AI100625 and R00AG049092 to VDM; R24AI120942 to WRCEVA)",
+            "Research was also supported by STARs Award provided by the University of Texas System to VDM and trainee funding provided by the McLaughlin Endowment at UTMB"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "SARS-CoV-2, a novel coronavirus (CoV), has recently emerged causing an ongoing outbreak of viral pneumonia around the world. While genetically distinct from the original SARS-CoV, both group 2B coronaviruses share similar genome organization and origins to coronaviruses harbored in bats. Importantly, initial guidance has used insights from SARS-CoV infection to inform treatment and public health strategies. In this report, we evaluate SARS-CoV-2 relative to the original SARS-CoV. Our results indicate that while SARS-CoV-2 maintains similar viral replication kinetics to SARS-CoV in Vero cell, the novel coronavirus is much more sensitive to type I interferon pretreatment. We subsequently examined homology between SARS-CoV and",
+            "SARS-CoV-2 in viral proteins shown to be interferon antagonist. The absence of open reading frame (ORF) 3b and significant changes to ORF6 suggest the two key IFN antagonists may not maintain equivalent function in SARS-CoV-2. Together, the results identify key differences in susceptibility to the IFN response between SARS-CoV and SARS-CoV-2 that could help inform disease progression, treatment options, and animal model development.",
+            "author/funder. It is made available under a CC-BY-NC 4.0 International license."
+        ],
+        "Introduction": [
+            "At the end of 2019, a cluster of patients in Hubei Province, China was diagnosed with a viral pneumonia of unknown origins. With community links to the Hunnan seafood market in",
+            "Wuhan, the disease cluster had echoes of the severe acute respiratory syndrome coronavirus (SARS-CoV) outbreak that emerged at the beginning of the century 1. The 2019 etiologic agent was identified as a novel coronavirus, 2019-nCoV, and subsequently renamed SARS-CoV-2 2.",
+            "The new virus has nearly 80% nucleotide identity to the original SARS-CoV and the corresponding CoV disease, COVID-19, has many of the hallmarks of SARS-CoV disease including fever, breathing difficulty, bilateral lung infiltration, and death in the most extreme cases years old), health status, and health care workers, similar to both SARS and MERS-CoV 5.",
+            "Together, the results indicate SARS-CoV-2 infection and disease have strong similarity to the original SARS-CoV epidemic occurring nearly two decades earlier.",
+            "In the wake of the outbreak, major research efforts have sought to rapidly characterize the novel CoV to aid in treatment and control. Initial modeling studies predicted subsequent cell culture studies confirmed that spike protein of SARS-CoV-2 utilizes human angiotensin converting enzyme 2 (ACE2) for entry, the same receptor as SARS-CoV",
+            "Extensive case studies indicated a similar range of disease onset and severe symptoms seen with SARS-CoV 5. Notably, less severe SARS-CoV-2 cases have also been observed and were not captured in the original SARS-CoV outbreak. Importantly, screening and treatment guidance has relied on previous CoV data generated with SARS-CoV and MERS-CoV. Treatments with both protease inhibitors and type I interferon have been employed 4; similarly, remdesivir, a drug targeting viral polymerases, has been reported to have efficacy against SARS-CoV-2 similar to findings with both SARS- and MERS-CoV initiated with a focus on the SARS-CoV-2 spike protein as the major antigenic determinate",
+            "Together, the similarities with SARS-CoV have been useful in responding to the newest CoV outbreak.",
+            "In this study, we further characterize SARS-CoV-2 and compare it to the original SARS-",
+            "CoV. Using Vero E6 cells, we demonstrate that SARS-CoV-2 maintains similar viral replication kinetics as SARS-CoV following a low dose infection. In contrast, we find that SARS-CoV-2 is much more sensitive to type I interferon (IFN) pretreatment as compared to SARS-CoV. These results suggest distinct changes between the CoVs in terms of IFN antagonism and we subsequently examined sequence homology between the SARS-CoV and SARS-CoV-2 viral proteins that may be responsible for these differences. Together, the results suggest SARS-",
+            "CoV-2 lacks the same capacity to control the type I IFN response as SARS-CoV."
+        ],
+        "Results": [
+            "Our initial studies infected Vero E6 cells using a low multiplicity of infection (MOI) to explore the viral replication kinetics of SARS-CoV-2 relative to SARS-CoV. Following infection, we find that both SARS-CoV and SARS-CoV-2 replicate with similar kinetics, peaking 48 hours post infection (Fig. 1A). While SARS-CoV-2 titer had slightly lower viral titers at 24 hours post infection, the results were different statistically different between the novel CoV and the original epidemic strain.",
+            "cytopathic effect (CPE) was observed for both SARS-CoV and SARS-CoV-2 infections.",
+            "Together, the results indicated that SARS-CoV and SARS-CoV-2 replicate with similar replication kinetics in Vero E6 cells.",
+            "pretreatment.",
+            "MERS-CoV outbreaks, type I IFN has been employed with limited effect pretreated Vero E6 cells with 1000 units of recombinant type I IFN 18 hours prior to infection.",
+            "Vero E6 lack the capacity to produce type I IFN, but are able to respond to exogenous forms",
+            "Following pretreatment with type I IFN, SARS-CoV infection has a modest reduction in viral titer (1.5 log plaque forming units (PFU)) as compared to untreated control 24 hours post infection (Fig. 1B). However, by 48 hours, SARS-CoV has nearly equivalent viral yields as the untreated conditions (7.2 log PFU versus 7.5 log PFU). In contrast, SARS-CoV-2 shows a significant reduction in viral replication following type I IFN treatment. At both 24 and 48 hours post infection, SARS-CoV-2 had massive 3-log (24 HPI) and 4-log (48 HPI) drops in viral titer as compared to control untreated cells.",
+            "sensitivity in SARS-CoV-2 not observed with SARS-CoV.",
+            "Considering the sensitivity to type I IFN, we next sought to evaluate changes between SARS-",
+            "CoV and SARS-CoV-2 viral proteins. Previous work has established several key IFN antagonist in the SARS-CoV genome including NSP1, NSP3, ORF3b, ORF6, and others compared the sequence homology across viral proteins from SARS-CoV, SARS-CoV-2, and several bat SARS-like viruses including WIV16-CoV",
+            "Using sequence analysis, we found several changes to SARS-CoV-2 that potentially contribute to its type I IFN sensitivity (Fig. 2). For SARS-CoV structural proteins including the nucleocapsid (N) and matrix (M) protein, a high degree of sequence homology (>90%AA identity) suggests that their reported IFN antagonism is likely maintained in SARS-CoV-2 and other SARS-like viruses. Similarly, the ORF1ab poly-protein retains high sequence identity in SARS-CoV-2 and several known antagonists contained within the poly-protein (NSP1, NSP7, NSP14-16) are highly conserved relative to SARS-CoV. One notable exception is the large papain-like proteases, NSP3, which only 76% conserved between SARS-CoV and SARS-CoV-2. However, SARS-CoV-2 does maintain a deubiquitinating domain thought to confer IFN resistance",
+            "ORF3b contains a premature stop codon resulting in a truncated 20 AA protein. Similarly, HKU3.1-CoV also has a premature termination resulting in a predicted 39 AA protein. Both",
+            "WIV16-CoV and SHC014-CoV, the most closely related bat viruses to SARS-CoV, encode longer 114 AA truncated protein with >99% homology with SARS-CoV ORF3b suggesting that",
+            "IFN antagonism might be maintained in these specific group 2B CoV strains. Similarly, SARS-",
+            "CoV ORF6 has been shown to be an IFN antagonist that disrupts karyopherin transportation of transcriptions factors like STAT1 maintain ORF6; however, SARS-CoV-2 had only 69% homology with SARS-CoV while the other three group 2B bat CoVs had >90% conservation. Importantly, SARS-CoV-2 has a two amino acid truncation in its ORF6; previous work has found that alanine substitution in this C-",
+            "terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences in NSP3, ORF3b, and/or ORF6 may be key drivers of SARS-CoV-2 type I IFN susceptibility."
+        ],
+        "Discussion": [
+            "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus. In this report, we describe differences in the type I IFN sensitivity between SARS-CoV-2 and the original SARS-CoV. While both viruses maintain similar replication in untreated Vero E6 cells, SARS-CoV-2 has a significant decrease in viral replication following type I IFN pretreatment. This sensitivity to type I IFN is distinct from the original SARS-CoV and suggests that the novel CoV has distinct host interactions driving disease outcomes. Analysis of viral proteins finds SARS-CoV-2 has several changes that potentially impact its capacity to modulate the type I IFN response, including loss of ORF3b and a short truncation of ORF6, both known as type I IFN antagonists for SARS-CoV our results suggest SARS-CoV and SARS-CoV-2 have differences in their ability to control the",
+            ". Together, type I IFN response once initiated and that they may have major implication for COVID-19 disease and treatment.",
+            "With a similar genome organization and disease symptoms in humans, the SARS-CoV-2 outbreak has drawn insights from the closely related SARS-CoV. However, the differences in sensitivity to type I IFN pretreatment illustrates a clear distinction between the two CoVs.",
+            "Coupled with a novel furin cleavage site transmission prior to symptomatic disease",
+            "CoV-2 could prove important in disrupting the ongoing spread of COVID-19. For SARS-CoV, in vitro studies have consistently found that wild-type SARS-CoV is indifferent to type I IFN pretreatment signaling had no significant impact on disease suggesting the virus controlled this pathway",
+            "However, more recent reports suggest that host genetic background may majorly influence this finding log drop in viral titer. This level of sensitivity is similar to MERS-CoV and suggests the novel",
+            "Notably, the sensitivity to type I IFN does not completely ablate viral replication; unlike SARS-",
+            "CoV 2\u2019O methyl-transferase mutants levels even in the presence of type I IFN. This finding could help explain positive test in patients with minimal symptoms and the range of disease observed. In addition, while SARS-CoV-2 is sensitive to type I IFN pretreatment, both SARS-CoV and MERS-CoV employ effective means to disrupt recognition until late during infection by SARS-CoV, diminishing the overall effect of type I IFN during infection.",
+            ". For SARS-CoV-2, our results suggest that type I IFN pretreatment produces a 3 - 4",
+            "For SARS-CoV-2, the sensitivity to type I IFN indicates a distinction from SARS-CoV and suggests differential host immune modulation between the viruses. The loss of ORF3b and truncation/changes in ORF6 could signal a reduced capacity of SARS-CoV-2 to modulate type I",
+            "IFN responses. For SARS-CoV ORF6, the N-terminal domain has been shown to have a clear role in its ability to disrupt karyopherin transport",
+            "CoV-2 would likely render it much more susceptible to type I IFN pretreatment as activated",
+            "STAT1 and other transcriptional factors would now have the capacity to enter the nucleus and induce an interferon stimulated gene response. For SARS-CoV ORF3b, the viral protein has been shown to disrupt phosphorylation of IRF3, a key transcriptional factor in the induction of an antiviral state 23. While its mechanism of action is not clear, the ORF3b absence in SARS-CoV-2 infection likely impacts its ability to control the type I IFN response. Similarly, while NSP3 deubiquitinating domain remains intact, SARS-CoV-2 has a 24 AA insertion upstream of this deubiquitinating domain that could potentially alter that function antagonists are maintained with high levels of conservation (>90%), single point mutations in key locations could modify function and contribute to increased IFN sensitivity. Overall, the sequence analysis suggests that differences between SARS-CoV and SARS-CoV-2 viral proteins may drive attenuation in the context of type I IFN pretreatment.",
+            "The increased sensitivity of SARS-CoV-2 suggests utility in treatment using type I IFN.",
+            "While type I IFN has been used in response to chronic viral infection 34, previous examination of",
+            "SARS-CoV cases found inconclusive effect for type I IFN treatment from the SARS-CoV outbreak were complicated by combination therapy of type I IFN with other treatments including ribavirin/steroids and lack of a regimented protocol. While type I IFN has been utilized to treat MERS-CoV infected patients, no conclusive data yet exists to determine efficacy can be protective in mice be detrimental for MERS-CoV disease using type I IFN in combination for SARS-CoV-2 infection; yet the efficacy of these treatments and the parameters of their use is not known",
+            ". Yet, in vivo studies with MERS-CoV has found that early induction with type I IFN",
+            ". Overall, sensitivity data suggest that type I IFN treatment may have utility for treating SARS-CoV-2 if the appropriate parameters can be determined. In addition, use of type III IFN, which is predicted to have utility in the respiratory tract, could offer another means for effective treatment for SARS-CoV-2.",
+            "In addition to treatment, the sensitivity to type I IFN may also have implications for animal model development. For SARS-CoV, mouse models that recapitulate human disease were developed through virus passage in immune competent mice for MERS-CV required adaptation in mice that had genetic modifications of their dipeptidylpeptidase 4 (DPP4), the receptor for MERS-CoV mouse models still retained full immune capacity. In contrast, SARS-CoV-2 sensitivity to type I",
+            "IFN may signal the need to use an immune deficient model to develop relevant disease. While initial work has suggested incompatibility to SARS-CoV-2 infection in mice based on receptor usage 8, the type I IFN response may be a second major barrier that needs to be overcome.",
+            "Similar to the emergent Zika virus outbreak, the use of type I IFN receptor knockout mice or type I IFN receptor blocking antibody may be necessary to develop auseful SARS-CoV-2 animal models for therapeutic testing 42.",
+            "Overall, our results indicate that SARS-CoV-2 has a much higher sensitivity to type I IFN than the previously emergent SARS-CoV. This augmented type I IFN sensitivity is likely due to changes in viral proteins between the two epidemic CoV strains. Moving forward, these data could provide important insights for both the treatment of SARS-CoV-2 as well as developing novel animal models of disease. In this ongoing outbreak, the results also highlight a distinction between the highly related viruses and suggest insights from SARS-CoV must be verified for",
+            "SARS-CoV-2 infection and disease."
+        ],
+        "Methods": [
+            "Viruses and cells. SARS-CoV-2 USA-WA1/2020, provided by the World Reference Center for",
+            "Emerging Viruses and Arboviruses (WRCEVA) and was originally obtained from the USA",
+            "fetal bovine serum and 1% antibiotic/antimytotic (Gibco). Standard plaque assays were used for",
+            "SARS-CoV and SARS-CoV-2 the University of Texas Medical Branch (Galveston, TX) in approved biosafety level 3 (BSL)",
+            "laboratories with routine medical monitoring of staff.",
+            "Infection and type I IFN pretreatment. Viral replication in Vero E6 were performed as previously described with SARS-CoV or SARS-CoV-2 at an multiplicity of infection (MOI) 0.01 for 60 minutes at 37",
+            "\u00b0C. Following inoculation, cells were washed 3 times, and fresh media was added to signify time",
+            "0. Three or more biological replicates were harvested at each described time point and results are from combination of two experiments. No blinding was used in any sample collections, nor were samples randomized. For type I IFN pretreatment, experiments were completed as previously described recombinant type I IFN alpha (PBL Assay Sciences) 18 hours prior to infection infected as described above and type I IFN was not added back after infection.",
+            "Phylogenetic Tree and Sequence Identity Heat Map. Heat maps were constructed from a set of representative group 2B coronaviruses by using alignment data paired with neighbor-joining phylogenetic trees built in Geneious (v.9.1.5). Sequence identity was visualized using EvolView (http://evolgenius.info/) and utilized SARS-CoV Urbani as the reference sequence. Tree shows the degree of genetic similarity of SARS-CoV-2 and SARS-CoV across a selected group 2B coronaviruses",
+            ". SARS-CoV-2 and mouse-adapted recombinant were titrated and propagated on VeroE6 cells, grown in DMEM with 5%",
+            "Statistical analysis. All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions.",
+            "Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-",
+            "Test.",
+            "Acknowledgements. Research was supported by grants from NIA and NIAID of the NIH (U19AI100625 and R00AG049092 to VDM; R24AI120942 to WRCEVA). Research was also supported by STARs Award provided by the University of Texas System to VDM and trainee funding provided by the McLaughlin Endowment at UTMB."
+        ],
+        "References": [
+            "Gralinski, L.E. & Menachery, V.D. Return of the Coronavirus: 2019-nCoV. Viruses",
+            "12(2020).",
+            "Gorbalenya, A.E., et al The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nature Microbiology (2020).",
+            "Zhu, N., et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N",
+            "Engl J Med 382, 727-733 (2020).",
+            "Huang, C., et al Clinical features of patients infected with 2019 novel coronavirus in",
+            "Wuhan, China. Lancet 395, 497-506 (2020).",
+            "Wu, Z. & McGoogan, J.M. Characteristics of and Important Lessons From the",
+            "Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314",
+            "Cases From the Chinese Center for Disease Control and Prevention. JAMA (2020).",
+            "Xu, X., et al Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci 63, 457-460",
+            "(2020).",
+            "Letko, M., Marzi, A. & Munster, V. Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses. Nat Microbiol (2020).",
+            "Zhou, P., et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature (2020).",
+            "de Wit, E., et al Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proceedings of the National Academy of",
+            "Sciences of the United States of America (2020).",
+            "Wang, M., et al Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res (2020).",
+            "Sheahan, T.P., et al Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nature communications 11, 222",
+            "Sheahan, T.P., et al Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci Transl Med 9(2017).",
+            "Ahmed, S.F., Quadeer, A.A. & McKay, M.R. Preliminary Identification of Potential",
+            "Vaccine Targets for the COVID-19 Coronavirus (SARS-CoV-2) Based on SARS-CoV",
+            "Immunological Studies. Viruses 12(2020).",
+            "Lin, F.C. & Young, H.A. Interferons: Success in anti-viral immunotherapy. Cytokine",
+            "Growth Factor Rev 25, 369-376 (2014).",
+            "Zumla, A., Hui, D.S. & Perlman, S. Middle East respiratory syndrome. Lancet 386, 9951007 (2015).",
+            "Song, Z., et al From SARS to MERS, Thrusting Coronaviruses into the Spotlight.",
+            "Viruses 11(2019).",
+            "Diaz, M.O., et al Homozygous deletion of the alpha- and beta 1-interferon genes in human leukemia and derived cell lines. Proceedings of the National Academy of Sciences of the",
+            "United States of America 85, 5259-5263 (1988).",
+            "Totura, A.L. & Baric, R.S. SARS coronavirus pathogenesis: host innate immune responses and viral antagonism of interferon. Current opinion in virology 2, 264-275 (2012).",
+            "Yang, X.L., et al Isolation and Characterization of a Novel Bat Coronavirus Closely",
+            "Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus. Journal of virology 90, 3253-3256 (2015).",
+            "Ge, X.Y., et al Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature 503, 535-538 (2013).",
+            "Lau, S.K., et al Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats. Proceedings of the National Academy of Sciences of the United States of",
+            "America 102, 14040-14045 (2005).",
+            "Clementz, M.A., et al Deubiquitinating and interferon antagonism activities of coronavirus papain-like proteases. Journal of virology 84, 4619-4629 (2010).",
+            "Kopecky-Bromberg, S.A., Martinez-Sobrido, L., Frieman, M., Baric, R.A. & Palese, P.",
+            "Severe acute respiratory syndrome coronavirus open reading frame (ORF) 3b, ORF 6, and nucleocapsid proteins function as interferon antagonists. Journal of virology 81, 548-557 (2007).",
+            "Frieman, M., et al Severe acute respiratory syndrome coronavirus ORF6 antagonizes",
+            "STAT1 function by sequestering nuclear import factors on the rough endoplasmic reticulum/Golgi membrane. Journal of virology 81, 9812-9824 (2007).",
+            "Coutard, B., et al The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade. Antiviral Res 176, 104742 (2020).",
+            "Tong, Z.D., et al Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang",
+            "Province, China, 2020. Emerg Infect Dis 26(2020).",
+            "Menachery, V.D., et al Attenuation and restoration of severe acute respiratory syndrome coronavirus mutant lacking 2'-o-methyltransferase activity. Journal of virology 88, 4251-4264",
+            "(2014).",
+            "Thiel, V. & Weber, F. Interferon and cytokine responses to SARS-coronavirus infection.",
+            "Cytokine Growth Factor Rev 19, 121-132 (2008).",
+            "Frieman, M.B., et al SARS-CoV pathogenesis is regulated by a STAT1 dependent but a type I, II and III interferon receptor independent mechanism. PLoS pathogens 6, e1000849",
+            "(2010).",
+            "Channappanavar, R., et al Dysregulated Type I Interferon and Inflammatory MonocyteMacrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice. Cell host &",
+            "microbe 19, 181-193 (2016).",
+            "Menachery, V.D., et al Middle East Respiratory Syndrome Coronavirus Nonstructural",
+            "Protein 16 Is Necessary for Interferon Resistance and Viral Pathogenesis. mSphere 2(2017).",
+            "Falzarano, D., et al Inhibition of novel beta coronavirus replication by a combination of interferon-alpha2b and ribavirin. Scientific reports 3, 1686 (2013).",
+            "Menachery, V.D., et al Pathogenic influenza viruses and coronaviruses utilize similar and contrasting approaches to control interferon-stimulated gene responses. mBio 5, e0117401114 (2014).",
+            "Finter, N.B., et al The use of interferon-alpha in virus infections. Drugs 42, 749-765",
+            "(1991).",
+            "Stockman, L.J., Bellamy, R. & Garner, P. SARS: systematic review of treatment effects.",
+            "PLoS Med 3, e343 (2006).",
+            "de Wit, E., van Doremalen, N., Falzarano, D. & Munster, V.J. SARS and MERS: recent insights into emerging coronaviruses. Nat Rev Microbiol 14, 523-534 (2016).",
+            "Channappanavar, R., et al IFN-I response timing relative to virus replication determines",
+            "MERS coronavirus infection outcomes. The Journal of clinical investigation 130, 3625-3639",
+            "(2019).",
+            "Pang, J., et al Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel",
+            "Coronavirus (2019-nCoV): A Systematic Review. J Clin Med 9(2020).",
+            "Roberts, A., et al A mouse-adapted SARS-coronavirus causes disease and mortality in",
+            "BALB/c mice. PLoS pathogens 3, e5 (2007).",
+            "Cockrell A, Y.B., Scobey T, Jensen K, Douglas M, Beall A, Tang X-C, Marasco WA, Heise MT, Baric RS A Mouse Model for MERS Coronavirus Induced Acute Respiratory Distress",
+            "Syndrome. . Nature Microbiology In Press(2016).",
+            "Li, K., et al Mouse-adapted MERS coronavirus causes lethal lung disease in human",
+            "DPP4 knockin mice. Proceedings of the National Academy of Sciences of the United States of",
+            "America 114, E3119-E3128 (2017).",
+            "Lazear, H.M., et al A Mouse Model of Zika Virus Pathogenesis. Cell host & microbe 19, 720-730 (2016).",
+            "Harcourt, J., et al Isolation and characterization of SARS-CoV-2 from the first US",
+            "COVID-19 patient. bioRxiv, 2020.2003.2002.972935 (2020).",
+            "Sims, A.C., et al Release of severe acute respiratory syndrome coronavirus nuclear import block enhances host transcription in human lung cells. J Virol 87, 3885-3902 (2013).",
+            "Josset, L., et al Cell host response to infection with novel human coronavirus EMC predicts potential antivirals and important differences with SARS coronavirus. MBio 4, e0016500113 (2013).",
+            "Sheahan, T., Rockx, B., Donaldson, E., Corti, D. & Baric, R. Pathways of cross-species transmission of synthetically reconstructed zoonotic severe acute respiratory syndrome coronavirus. Journal of virology 82, 8721-8732 (2008).",
+            "Figure Legends",
+            "Figure 1. SARS-CoV-2 sensitive to type I IFN pretreatment. A) Vero E6 cells infected with either SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1. Media harvested at 4, 24, and 48 hours post infection. B) Vero E6 cells were treated with 1000 units recombinant type I",
+            "IFN or mock for 18 hours prior to infection. Cells were subsequently infected at with either",
+            "SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1 as described above. Each point on the line graph represents the group mean, N=6 for 24 and 48HPI, N=3 for 3HPI. All error bars represent SD. The two tailed students t-test was used to determine P-values: *** P <",
+            "Figure 2, Conservation of SARS-CoV IFN antagonists. Viral protein sequences of the indicated viruses were aligned according to the bounds of the SARS-CoV open reading frames for each viral protein. Sequence identities were extracted from the alignments for each viral protein, and a heat map of percent sequence identity was constructed using EvolView (www.evolgenius.info/evolview) with SARS-CoV as the reference sequence. TR = truncated protein.",
+            "either SARS-CoV WT (black) or SARS-CoV-2 (blue) at an MOI of 1. Media harvested at 4, 24, and 48 hours post infection. B) Vero E6 cells were treated with 1000 units recombinant type I on the line graph represents the group mean, N=6 for 24 and 48HPI, N=3 for 3HPI. All error bars represent SD. The two tailed students t-test was used to determine P-values: *** P <",
+            "2. Figure 2, Conservation of SARS-CoV IFN antagonists. Viral protein sequences of the indicated viruses were aligned according to the bounds of the SARS-CoV open reading frames for each viral protein. Sequence identities were extracted from the alignments for each viral protein, and a heat map of percent sequence identity was constructed using EvolView"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "key IFN antagonists",
+            "number": 2,
+            "context": "We subsequently examined homology between SARS-CoV and 10 SARS-CoV-2 in viral proteins shown to be interferon antagonist. <mark class=\"stats\">The absence of open reading frame (ORF) 3b and significant changes to ORF6 suggest the two key IFN antagonists may not maintain equivalent function in SARS-CoV-2</mark>. Together, the results identify key differences in susceptibility to the IFN response between SARS-CoV and SARS-CoV-2 that could help inform disease progression, treatment options, and animal model development. 15"
+        },
+        {
+            "participant": "tailed students",
+            "number": 2,
+            "context": "Cells were<br/><br/>Statistical analysis. <mark class=\"stats\">All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions.<br/><br/>Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-    Test.Viruses and cells</mark>. SARS-CoV-2 USA-WA1/2020, provided by the World Reference Center for"
+        },
+        {
+            "participant": "tailed students",
+            "number": 2,
+            "context": "All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions. <mark class=\"stats\">Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-</mark>. Test"
+        },
+        {
+            "participant": "epidemic CoV strains",
+            "number": 2,
+            "context": "than the previously emergent SARS-CoV. <mark class=\"stats\">This augmented type I IFN sensitivity is likely due to changes in viral proteins between the two epidemic CoV strains</mark>. Moving forward, these data could provide important insights for both the treatment of SARS-CoV-2 as well as developing novel animal models of disease"
+        },
+        {
+            "participant": "tailed students",
+            "number": 2,
+            "context": "All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions. <mark class=\"stats\">Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-</mark>. Acknowledgements"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions.<br/><br/>Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-    Test.Viruses and cells</mark>",
+                "tests": [
+                    {
+                        "test": "two-tailed"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Thus, significant differences in viral titer were determined by the unpaired two-tailed students T-</mark>",
+                "tests": [
+                    {
+                        "test": "two-tailed"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "pneumonia",
+        "original sars cov",
+        "MERS",
+        "biosafety level 3",
+        "ifn response",
+        "similar viral",
+        "coronavirus",
+        "2019-nCoV",
+        "novel coronavirus",
+        "sars cov.",
+        "cytopathic effect",
+        "ongoing outbreak",
+        "COVID-19",
+        "open reading frame",
+        "viral pneumonia",
+        "multiplicity of infection",
+        "interferon pretreatment",
+        "viral replication",
+        "pathogenesis",
+        "amino acid",
+        "type I interferon",
+        "SARS-CoV",
+        "mers cov",
+        "dipeptidylpeptidase 4",
+        "STAT1",
+        "viral protein",
+        "angiotensin converting enzyme 2",
+        "genome organization",
+        "ifn pretreatment",
+        "similar genome",
+        "group 2b",
+        "plaque forming units",
+        "ORF6",
+        "SARS",
+        "SARS-CoV-2"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.29296235679214405,
+        "SARS-CoV": 0.2602291325695581,
+        "SARS-CoV-2": 0.132569558101473,
+        "coronavirus": 0.05564648117839607,
+        "open reading frame": 0.049099836333878884,
+        "MERS": 0.031096563011456628,
+        "viral protein": 0.019639934533551555,
+        "ORF6": 0.019639934533551555,
+        "COVID-19": 0.01309328968903437,
+        "amino acid": 0.01309328968903437,
+        "2019-nCoV": 0.011456628477905073,
+        "multiplicity of infection": 0.011456628477905073,
+        "type I interferon": 0.011456628477905073,
+        "novel coronavirus": 0.009819967266775777,
+        "viral replication": 0.009819967266775777,
+        "STAT1": 0.006546644844517185,
+        "plaque forming units": 0.006546644844517185,
+        "pneumonia": 0.004909983633387889,
+        "ongoing outbreak": 0.004909983633387889,
+        "dipeptidylpeptidase 4": 0.004909983633387889,
+        "angiotensin converting enzyme 2": 0.004909983633387889,
+        "biosafety level 3": 0.0032733224222585926,
+        "similar viral": 0.0032733224222585926,
+        "cytopathic effect": 0.0032733224222585926,
+        "viral pneumonia": 0.0032733224222585926,
+        "interferon pretreatment": 0.0032733224222585926,
+        "pathogenesis": 0.0032733224222585926,
+        "genome organization": 0.0032733224222585926,
+        "similar genome": 0.0032733224222585926,
+        "original sars cov": 0.0,
+        "ifn response": 0.0,
+        "sars cov.": 0.0,
+        "mers cov": 0.0,
+        "ifn pretreatment": 0.0,
+        "group 2b": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> At the end of 2019, a cluster of patients in Hubei Province, China was diagnosed with a viral pneumonia of unknown origins.",
+        "Screening and treatment guidance has relied on previous CoV data generated with SARS-CoV and MERS-CoV",
+        "Treatments with both protease inhibitors and type I interferon have been employed 4; remdesivir, a drug targeting viral polymerases, has been reported to have efficacy against SARS-CoV-2 similar to findings with both SARS- and MERS-CoV initiated with a focus on the SARS-CoV-2 spike protein as the major antigenic determinate 9-12 and.",
+        "CoV-2 lacks the same capacity to control the type I IFN response as SARS-CoV",
+        "<h2 style=\"display: inline\">Methods:</h2> Viral replication in Vero E6 were performed as previously described with SARS-CoV or SARS-CoV-2 at an multiplicity of infection (MOI) 0.01 for 60 minutes at 37.",
+        ". SARS-CoV-2 and mouse-adapted recombinant were titrated and propagated on VeroE6 cells, grown in DMEM with 5%.",
+        "All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions.",
+        "<h2 style=\"display: inline\">Results:</h2> The authors' initial studies infected Vero E6 cells using a low multiplicity of infection (MOI) to explore the viral replication kinetics of SARS-CoV-2 relative to SARS-CoV.",
+        "Following pretreatment with type I IFN, SARS-CoV infection has a modest reduction in viral titer (1.5 log plaque forming units (PFU)) as compared to untreated control 24 hours post infection (Fig. 1B).",
+        "SARS-CoV-2 shows a significant reduction in viral replication following type I IFN treatment",
+        "At both 24 and 48 hours post infection, SARS-CoV-2 had massive 3-log (24 HPI) and 4-log (48 HPI) drops in viral titer as compared to control untreated cells.",
+        "Terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences in NSP3, ORF3b, and/or ORF6 may be key drivers of SARS-CoV-2 type I IFN susceptibility",
+        "<h2 style=\"display: inline\">Conclusion:</h2> With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus.",
+        "This augmented type I IFN sensitivity is likely due to changes in viral proteins between the two epidemic CoV strains",
+        "Moving forward, these data could provide important insights for both the treatment of SARS-CoV-2 as well as developing novel animal models of disease.",
+        "In this ongoing outbreak, the results highlight a distinction between the highly related viruses and suggest insights from SARS-CoV must be verified for"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "At the end of 2019, a cluster of patients in Hubei Province, China was diagnosed with a viral pneumonia of unknown origins.",
+            "Screening and treatment guidance has relied on previous CoV data generated with SARS-CoV and MERS-CoV",
+            "Treatments with both protease inhibitors and type I interferon have been employed 4; remdesivir, a drug targeting viral polymerases, has been reported to have efficacy against SARS-CoV-2 similar to findings with both SARS- and MERS-CoV initiated with a focus on the SARS-CoV-2 spike protein as the major antigenic determinate 9-12 and.",
+            "CoV-2 lacks the same capacity to control the type I IFN response as SARS-CoV"
+        ],
+        "Methods": [
+            "Viral replication in Vero E6 were performed as previously described with SARS-CoV or SARS-CoV-2 at an multiplicity of infection (MOI) 0.01 for 60 minutes at 37.",
+            ". SARS-CoV-2 and mouse-adapted recombinant were titrated and propagated on VeroE6 cells, grown in DMEM with 5%.",
+            "All statistical comparisons in this manuscript involved the comparison between 2 groups, SARS-CoV or SARS-CoV-2 infected groups under equivalent conditions."
+        ],
+        "Results": [
+            "The authors' initial studies infected Vero E6 cells using a low multiplicity of infection (MOI) to explore the viral replication kinetics of SARS-CoV-2 relative to SARS-CoV.",
+            "Following pretreatment with type I IFN, SARS-CoV infection has a modest reduction in viral titer (1.5 log plaque forming units (PFU)) as compared to untreated control 24 hours post infection (Fig. 1B).",
+            "SARS-CoV-2 shows a significant reduction in viral replication following type I IFN treatment",
+            "At both 24 and 48 hours post infection, SARS-CoV-2 had massive 3-log (24 HPI) and 4-log (48 HPI) drops in viral titer as compared to control untreated cells.",
+            "Terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences in NSP3, ORF3b, and/or ORF6 may be key drivers of SARS-CoV-2 type I IFN susceptibility"
+        ],
+        "Conclusion": [
+            "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus.",
+            "This augmented type I IFN sensitivity is likely due to changes in viral proteins between the two epidemic CoV strains",
+            "Moving forward, these data could provide important insights for both the treatment of SARS-CoV-2 as well as developing novel animal models of disease.",
+            "In this ongoing outbreak, the results highlight a distinction between the highly related viruses and suggest insights from SARS-CoV must be verified for"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Gralinski_2020_a",
+            "entry": "1. Gralinski, L.E. & Menachery, V.D. Return of the Coronavirus: 2019-nCoV. Viruses 225 12(2020). 226 2. Gorbalenya, A.E., et al. The species Severe acute respiratory syndrome-related 227 coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nature Microbiology (2020). 228 3.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gralinski%20LE%20%20Menachery%20VD%20Return%20of%20the%20Coronavirus%202019nCoV%20Viruses%20225%20122020%20226%202%20Gorbalenya%20AE%20et%20al%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20227%20coronavirus%20classifying%202019nCoV%20and%20naming%20it%20SARSCoV2%20Nature%20Microbiology%202020%20228%203",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gralinski%20LE%20%20Menachery%20VD%20Return%20of%20the%20Coronavirus%202019nCoV%20Viruses%20225%20122020%20226%202%20Gorbalenya%20AE%20et%20al%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20227%20coronavirus%20classifying%202019nCoV%20and%20naming%20it%20SARSCoV2%20Nature%20Microbiology%202020%20228%203",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gralinski%20LE%20%20Menachery%20VD%20Return%20of%20the%20Coronavirus%202019nCoV%20Viruses%20225%20122020%20226%202%20Gorbalenya%20AE%20et%20al%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20227%20coronavirus%20classifying%202019nCoV%20and%20naming%20it%20SARSCoV2%20Nature%20Microbiology%202020%20228%203"
+        },
+        {
+            "id": "Zhu_2020_a",
+            "alt_id": "2",
+            "entry": "Zhu, N., et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N 229 Engl J Med 382, 727-733 (2020). 230 4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20229%20Engl%20J%20Med%20382%20727733%202020%20230%204",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20229%20Engl%20J%20Med%20382%20727733%202020%20230%204",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20229%20Engl%20J%20Med%20382%20727733%202020%20230%204"
+        },
+        {
+            "id": "Huang_2020_a",
+            "alt_id": "3",
+            "entry": "Huang, C., et al. Clinical features of patients infected with 2019 novel coronavirus in 231 Wuhan, China. Lancet 395, 497-506 (2020). 232 5.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20231%20Wuhan%20China%20Lancet%20395%20497506%202020%20232%205",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20231%20Wuhan%20China%20Lancet%20395%20497506%202020%20232%205",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20231%20Wuhan%20China%20Lancet%20395%20497506%202020%20232%205"
+        },
+        {
+            "id": "Wu_2020_a",
+            "alt_id": "4",
+            "entry": "Wu, Z. & McGoogan, J.M. Characteristics of and Important Lessons From the 233 Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 234 Cases From the Chinese Center for Disease Control and Prevention. JAMA (2020). 235 6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%20Z%20%20McGoogan%20JM%20Characteristics%20of%20and%20Important%20Lessons%20From%20the%20233%20Coronavirus%20Disease%202019%20COVID19%20Outbreak%20in%20China%20Summary%20of%20a%20Report%20of%2072314%20234%20Cases%20From%20the%20Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20JAMA%202020%20235%206",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%20Z%20%20McGoogan%20JM%20Characteristics%20of%20and%20Important%20Lessons%20From%20the%20233%20Coronavirus%20Disease%202019%20COVID19%20Outbreak%20in%20China%20Summary%20of%20a%20Report%20of%2072314%20234%20Cases%20From%20the%20Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20JAMA%202020%20235%206",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%20Z%20%20McGoogan%20JM%20Characteristics%20of%20and%20Important%20Lessons%20From%20the%20233%20Coronavirus%20Disease%202019%20COVID19%20Outbreak%20in%20China%20Summary%20of%20a%20Report%20of%2072314%20234%20Cases%20From%20the%20Chinese%20Center%20for%20Disease%20Control%20and%20Prevention%20JAMA%202020%20235%206"
+        },
+        {
+            "id": "Xu_2020_a",
+            "alt_id": "5",
+            "entry": "Xu, X., et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and 236 modeling of its spike protein for risk of human transmission. Sci China Life Sci 63, 457-460 237 (2020). 238 7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xu%2C%20X.%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20236%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xu%2C%20X.%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20236%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xu%2C%20X.%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20236%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission%202020"
+        },
+        {
+            "id": "Letko_et+al_2020_a",
+            "alt_id": "6",
+            "entry": "Letko, M., Marzi, A. & Munster, V. Functional assessment of cell entry and receptor 239 usage for SARS-CoV-2 and other lineage B betacoronaviruses. Nat Microbiol (2020). 240 8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Letko%2C%20M.%20Marzi%2C%20A.%20Munster%2C%20V.%20Functional%20assessment%20of%20cell%20entry%20and%20receptor%20239%20usage%20for%20SARS-CoV-2%20and%20other%20lineage%20B%20betacoronaviruses%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Letko%2C%20M.%20Marzi%2C%20A.%20Munster%2C%20V.%20Functional%20assessment%20of%20cell%20entry%20and%20receptor%20239%20usage%20for%20SARS-CoV-2%20and%20other%20lineage%20B%20betacoronaviruses%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Letko%2C%20M.%20Marzi%2C%20A.%20Munster%2C%20V.%20Functional%20assessment%20of%20cell%20entry%20and%20receptor%20239%20usage%20for%20SARS-CoV-2%20and%20other%20lineage%20B%20betacoronaviruses%202020"
+        },
+        {
+            "id": "Zhou_2020_a",
+            "alt_id": "7",
+            "entry": "Zhou, P., et al. A pneumonia outbreak associated with a new coronavirus of probable 241 bat origin. Nature (2020). 242 9. de Wit, E., et al. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the 243 rhesus macaque model of MERS-CoV infection. Proceedings of the National Academy of 244 Sciences of the United States of America (2020). 245 10.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20241%20bat%20origin%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20241%20bat%20origin%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20241%20bat%20origin%202020"
+        },
+        {
+            "id": "Wang_2019_a",
+            "alt_id": "8",
+            "entry": "Wang, M., et al. Remdesivir and chloroquine effectively inhibit the recently emerged 246 novel coronavirus (2019-nCoV) in vitro. Cell Res (2020). 247 11.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%2C%20M.%20Remdesivir%20and%20chloroquine%20effectively%20inhibit%20the%20recently%20emerged%20246%20novel%20coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%2C%20M.%20Remdesivir%20and%20chloroquine%20effectively%20inhibit%20the%20recently%20emerged%20246%20novel%20coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%2C%20M.%20Remdesivir%20and%20chloroquine%20effectively%20inhibit%20the%20recently%20emerged%20246%20novel%20coronavirus%202019"
+        },
+        {
+            "id": "Sheahan_2020_a",
+            "alt_id": "9",
+            "entry": "Sheahan, T.P., et al. Comparative therapeutic efficacy of remdesivir and combination 248 lopinavir, ritonavir, and interferon beta against MERS-CoV. Nature communications 11, 222 249 (2020). 250 12.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sheahan%2C%20T.P.%20Comparative%20therapeutic%20efficacy%20of%20remdesivir%20and%20combination%20248%20lopinavir%2C%20ritonavir%2C%20and%20interferon%20beta%20against%20MERS-CoV%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sheahan%2C%20T.P.%20Comparative%20therapeutic%20efficacy%20of%20remdesivir%20and%20combination%20248%20lopinavir%2C%20ritonavir%2C%20and%20interferon%20beta%20against%20MERS-CoV%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sheahan%2C%20T.P.%20Comparative%20therapeutic%20efficacy%20of%20remdesivir%20and%20combination%20248%20lopinavir%2C%20ritonavir%2C%20and%20interferon%20beta%20against%20MERS-CoV%202020"
+        },
+        {
+            "id": "Sheahan_0000_a",
+            "alt_id": "10",
+            "entry": "Sheahan, T.P., et al. Broad-spectrum antiviral GS-5734 inhibits both epidemic and 251 zoonotic coronaviruses. Sci Transl Med 9(2017). 252 13.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sheahan%2C%20T.P.%20Broad-spectrum%20antiviral%20GS-5734%20inhibits%20both%20epidemic%20and%20251%20zoonotic%20coronaviruses",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sheahan%2C%20T.P.%20Broad-spectrum%20antiviral%20GS-5734%20inhibits%20both%20epidemic%20and%20251%20zoonotic%20coronaviruses",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sheahan%2C%20T.P.%20Broad-spectrum%20antiviral%20GS-5734%20inhibits%20both%20epidemic%20and%20251%20zoonotic%20coronaviruses"
+        },
+        {
+            "id": "Ahmed_et+al_0000_a",
+            "alt_id": "11",
+            "entry": "Ahmed, S.F., Quadeer, A.A. & McKay, M.R. Preliminary Identification of Potential 253 Vaccine Targets for the COVID-19 Coronavirus (SARS-CoV-2) Based on SARS-CoV 254 Immunological Studies. Viruses 12(2020). 255 14.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ahmed%2C%20S.F.%20Quadeer%2C%20A.A.%20McKay%2C%20M.R.%20Preliminary%20Identification%20of%20Potential%20253%20Vaccine%20Targets%20for%20the%20COVID-19%20Coronavirus%20%28SARS-CoV-2%29%20Based%20on%20SARS-CoV%20254%20Immunological%20Studies",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ahmed%2C%20S.F.%20Quadeer%2C%20A.A.%20McKay%2C%20M.R.%20Preliminary%20Identification%20of%20Potential%20253%20Vaccine%20Targets%20for%20the%20COVID-19%20Coronavirus%20%28SARS-CoV-2%29%20Based%20on%20SARS-CoV%20254%20Immunological%20Studies",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ahmed%2C%20S.F.%20Quadeer%2C%20A.A.%20McKay%2C%20M.R.%20Preliminary%20Identification%20of%20Potential%20253%20Vaccine%20Targets%20for%20the%20COVID-19%20Coronavirus%20%28SARS-CoV-2%29%20Based%20on%20SARS-CoV%20254%20Immunological%20Studies"
+        },
+        {
+            "id": "Lin_2014_a",
+            "alt_id": "12",
+            "entry": "Lin, F.C. & Young, H.A. Interferons: Success in anti-viral immunotherapy. Cytokine 256 Growth Factor Rev 25, 369-376 (2014). 257 15.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lin%2C%20F.C.%20Young%2C%20H.A.%20Interferons%3A%20Success%20in%20anti-viral%20immunotherapy.%20Cytokine%20256%20Growth%20Factor%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lin%2C%20F.C.%20Young%2C%20H.A.%20Interferons%3A%20Success%20in%20anti-viral%20immunotherapy.%20Cytokine%20256%20Growth%20Factor%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lin%2C%20F.C.%20Young%2C%20H.A.%20Interferons%3A%20Success%20in%20anti-viral%20immunotherapy.%20Cytokine%20256%20Growth%20Factor%202014"
+        },
+        {
+            "id": "Zumla_et+al_2015_a",
+            "alt_id": "13",
+            "entry": "Zumla, A., Hui, D.S. & Perlman, S. Middle East respiratory syndrome. Lancet 386, 995258 1007 (2015). 259 16.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zumla%2C%20A.%20Hui%2C%20D.S.%20Perlman%2C%20S.%20Middle%20East%20respiratory%20syndrome%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zumla%2C%20A.%20Hui%2C%20D.S.%20Perlman%2C%20S.%20Middle%20East%20respiratory%20syndrome%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zumla%2C%20A.%20Hui%2C%20D.S.%20Perlman%2C%20S.%20Middle%20East%20respiratory%20syndrome%202015"
+        },
+        {
+            "id": "260",
+            "alt_id": "260_2019_a",
+            "entry": "260 Viruses 11(2019). 261 17.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Viruses%20112019%20261%2017"
+        },
+        {
+            "id": "Diaz_1988_a",
+            "alt_id": "15",
+            "entry": "Diaz, M.O., et al. Homozygous deletion of the alpha- and beta 1-interferon genes in 262 human leukemia and derived cell lines. Proceedings of the National Academy of Sciences of the 263 United States of America 85, 5259-5263 (1988). 264 18.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Diaz%2C%20M.O.%20Homozygous%20deletion%20of%20the%20alpha-%20and%20beta%201-interferon%20genes%20in%20262%20human%20leukemia%20and%20derived%20cell%20lines%201988",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Diaz%2C%20M.O.%20Homozygous%20deletion%20of%20the%20alpha-%20and%20beta%201-interferon%20genes%20in%20262%20human%20leukemia%20and%20derived%20cell%20lines%201988",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Diaz%2C%20M.O.%20Homozygous%20deletion%20of%20the%20alpha-%20and%20beta%201-interferon%20genes%20in%20262%20human%20leukemia%20and%20derived%20cell%20lines%201988"
+        },
+        {
+            "id": "Totura_2012_a",
+            "alt_id": "16",
+            "entry": "Totura, A.L. & Baric, R.S. SARS coronavirus pathogenesis: host innate immune 265 responses and viral antagonism of interferon. Current opinion in virology 2, 264-275 (2012). 266 19.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Totura%2C%20A.L.%20Baric%2C%20R.S.%20SARS%20coronavirus%20pathogenesis%3A%20host%20innate%20immune%20265%20responses%20and%20viral%20antagonism%20of%20interferon%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Totura%2C%20A.L.%20Baric%2C%20R.S.%20SARS%20coronavirus%20pathogenesis%3A%20host%20innate%20immune%20265%20responses%20and%20viral%20antagonism%20of%20interferon%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Totura%2C%20A.L.%20Baric%2C%20R.S.%20SARS%20coronavirus%20pathogenesis%3A%20host%20innate%20immune%20265%20responses%20and%20viral%20antagonism%20of%20interferon%202012"
+        },
+        {
+            "id": "Yang_2015_a",
+            "alt_id": "17",
+            "entry": "Yang, X.L., et al. Isolation and Characterization of a Novel Bat Coronavirus Closely 267 Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus. Journal of 268 virology 90, 3253-3256 (2015). 269 20.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20X.L.%20Isolation%20and%20Characterization%20of%20a%20Novel%20Bat%20Coronavirus%20Closely%20267%20Related%20to%20the%20Direct%20Progenitor%20of%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20X.L.%20Isolation%20and%20Characterization%20of%20a%20Novel%20Bat%20Coronavirus%20Closely%20267%20Related%20to%20the%20Direct%20Progenitor%20of%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20X.L.%20Isolation%20and%20Characterization%20of%20a%20Novel%20Bat%20Coronavirus%20Closely%20267%20Related%20to%20the%20Direct%20Progenitor%20of%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202015"
+        },
+        {
+            "id": "Ge_2013_a",
+            "alt_id": "18",
+            "entry": "Ge, X.Y., et al. Isolation and characterization of a bat SARS-like coronavirus that uses 270 the ACE2 receptor. Nature 503, 535-538 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ge%2C%20X.Y.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20270%20the%20ACE2%20receptor%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ge%2C%20X.Y.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20270%20the%20ACE2%20receptor%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ge%2C%20X.Y.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20270%20the%20ACE2%20receptor%202013"
+        },
+        {
+            "id": "21",
+            "alt_id": "Lau_2005_a",
+            "entry": "21. Lau, S.K., et al. Severe acute respiratory syndrome coronavirus-like virus in Chinese 272 horseshoe bats. Proceedings of the National Academy of Sciences of the United States of 273 America 102, 14040-14045 (2005). 274 22. Clementz, M.A., et al. Deubiquitinating and interferon antagonism activities of 275 coronavirus papain-like proteases. Journal of virology 84, 4619-4629 (2010). 276 23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20S.K.%20Severe%20acute%20respiratory%20syndrome%20coronavirus-like%20virus%20in%20Chinese%20272%20horseshoe%20bats.%20Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20273%20America%20102%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20S.K.%20Severe%20acute%20respiratory%20syndrome%20coronavirus-like%20virus%20in%20Chinese%20272%20horseshoe%20bats.%20Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20273%20America%20102%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20S.K.%20Severe%20acute%20respiratory%20syndrome%20coronavirus-like%20virus%20in%20Chinese%20272%20horseshoe%20bats.%20Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20273%20America%20102%202005"
+        },
+        {
+            "id": "Kopecky-Bromberg_et+al_2007_a",
+            "alt_id": "20",
+            "entry": "Kopecky-Bromberg, S.A., Martinez-Sobrido, L., Frieman, M., Baric, R.A. & Palese, P. 277 Severe acute respiratory syndrome coronavirus open reading frame (ORF) 3b, ORF 6, and 278 nucleocapsid proteins function as interferon antagonists. Journal of virology 81, 548-557 (2007). 279 24.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kopecky-Bromberg%2C%20S.A.%20Martinez-Sobrido%2C%20L.%20Frieman%2C%20M.%20Baric%2C%20R.A.%20277%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20open%20reading%20frame%20%28ORF%29%203b%2C%20ORF%206%2C%20and%20278%20nucleocapsid%20proteins%20function%20as%20interferon%20antagonists%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kopecky-Bromberg%2C%20S.A.%20Martinez-Sobrido%2C%20L.%20Frieman%2C%20M.%20Baric%2C%20R.A.%20277%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20open%20reading%20frame%20%28ORF%29%203b%2C%20ORF%206%2C%20and%20278%20nucleocapsid%20proteins%20function%20as%20interferon%20antagonists%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kopecky-Bromberg%2C%20S.A.%20Martinez-Sobrido%2C%20L.%20Frieman%2C%20M.%20Baric%2C%20R.A.%20277%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20open%20reading%20frame%20%28ORF%29%203b%2C%20ORF%206%2C%20and%20278%20nucleocapsid%20proteins%20function%20as%20interferon%20antagonists%202007"
+        },
+        {
+            "id": "Frieman_2007_a",
+            "alt_id": "21",
+            "entry": "Frieman, M., et al. Severe acute respiratory syndrome coronavirus ORF6 antagonizes 280 STAT1 function by sequestering nuclear import factors on the rough endoplasmic 281 reticulum/Golgi membrane. Journal of virology 81, 9812-9824 (2007). 282 25.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Frieman%2C%20M.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20ORF6%20antagonizes%20280%20STAT1%20function%20by%20sequestering%20nuclear%20import%20factors%20on%20the%20rough%20endoplasmic%20281%20reticulum/Golgi%20membrane%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Frieman%2C%20M.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20ORF6%20antagonizes%20280%20STAT1%20function%20by%20sequestering%20nuclear%20import%20factors%20on%20the%20rough%20endoplasmic%20281%20reticulum/Golgi%20membrane%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Frieman%2C%20M.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20ORF6%20antagonizes%20280%20STAT1%20function%20by%20sequestering%20nuclear%20import%20factors%20on%20the%20rough%20endoplasmic%20281%20reticulum/Golgi%20membrane%202007"
+        },
+        {
+            "id": "Coutard_2020_a",
+            "alt_id": "22",
+            "entry": "Coutard, B., et al. The spike glycoprotein of the new coronavirus 2019-nCoV contains a 283 furin-like cleavage site absent in CoV of the same clade. Antiviral Res 176, 104742 (2020). 284 26.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Coutard%20B%20et%20al%20The%20spike%20glycoprotein%20of%20the%20new%20coronavirus%202019nCoV%20contains%20a%20283%20furinlike%20cleavage%20site%20absent%20in%20CoV%20of%20the%20same%20clade%20Antiviral%20Res%20176%20104742%202020%20284%2026",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Coutard%20B%20et%20al%20The%20spike%20glycoprotein%20of%20the%20new%20coronavirus%202019nCoV%20contains%20a%20283%20furinlike%20cleavage%20site%20absent%20in%20CoV%20of%20the%20same%20clade%20Antiviral%20Res%20176%20104742%202020%20284%2026",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Coutard%20B%20et%20al%20The%20spike%20glycoprotein%20of%20the%20new%20coronavirus%202019nCoV%20contains%20a%20283%20furinlike%20cleavage%20site%20absent%20in%20CoV%20of%20the%20same%20clade%20Antiviral%20Res%20176%20104742%202020%20284%2026"
+        },
+        {
+            "id": "Tong_2020_a",
+            "alt_id": "23",
+            "entry": "Tong, Z.D., et al. Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang 285 Province, China, 2020. Emerg Infect Dis 26(2020). 286 27.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tong%20ZD%20et%20al%20Potential%20Presymptomatic%20Transmission%20of%20SARSCoV2%20Zhejiang%20285%20Province%20China%202020%20Emerg%20Infect%20Dis%20262020%20286%2027",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tong%20ZD%20et%20al%20Potential%20Presymptomatic%20Transmission%20of%20SARSCoV2%20Zhejiang%20285%20Province%20China%202020%20Emerg%20Infect%20Dis%20262020%20286%2027",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tong%20ZD%20et%20al%20Potential%20Presymptomatic%20Transmission%20of%20SARSCoV2%20Zhejiang%20285%20Province%20China%202020%20Emerg%20Infect%20Dis%20262020%20286%2027"
+        },
+        {
+            "id": "Menachery_2014_a",
+            "alt_id": "24",
+            "entry": "Menachery, V.D., et al. Attenuation and restoration of severe acute respiratory syndrome 287 coronavirus mutant lacking 2'-o-methyltransferase activity. Journal of virology 88, 4251-4264 288 (2014). 289 28.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Menachery%2C%20V.D.%20Attenuation%20and%20restoration%20of%20severe%20acute%20respiratory%20syndrome%20287%20coronavirus%20mutant%20lacking%202%27-o-methyltransferase%20activity%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Menachery%2C%20V.D.%20Attenuation%20and%20restoration%20of%20severe%20acute%20respiratory%20syndrome%20287%20coronavirus%20mutant%20lacking%202%27-o-methyltransferase%20activity%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Menachery%2C%20V.D.%20Attenuation%20and%20restoration%20of%20severe%20acute%20respiratory%20syndrome%20287%20coronavirus%20mutant%20lacking%202%27-o-methyltransferase%20activity%202014"
+        },
+        {
+            "id": "290",
+            "alt_id": "290_2008_a",
+            "entry": "290 Cytokine Growth Factor Rev 19, 121-132 (2008). 291 29.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cytokine%20Growth%20Factor%20Rev%2019%20121132%202008%20291%2029",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cytokine%20Growth%20Factor%20Rev%2019%20121132%202008%20291%2029",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cytokine%20Growth%20Factor%20Rev%2019%20121132%202008%20291%2029"
+        },
+        {
+            "id": "Frieman_2010_a",
+            "alt_id": "26",
+            "entry": "Frieman, M.B., et al. SARS-CoV pathogenesis is regulated by a STAT1 dependent but a 292 type I, II and III interferon receptor independent mechanism. PLoS pathogens 6, e1000849 293 (2010). 294 30.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Frieman%2C%20M.B.%20SARS-CoV%20pathogenesis%20is%20regulated%20by%20a%20STAT1%20dependent%20but%20a%20292%20type%20I%2C%20II%20and%20III%20interferon%20receptor%20independent%20mechanism%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Frieman%2C%20M.B.%20SARS-CoV%20pathogenesis%20is%20regulated%20by%20a%20STAT1%20dependent%20but%20a%20292%20type%20I%2C%20II%20and%20III%20interferon%20receptor%20independent%20mechanism%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Frieman%2C%20M.B.%20SARS-CoV%20pathogenesis%20is%20regulated%20by%20a%20STAT1%20dependent%20but%20a%20292%20type%20I%2C%20II%20and%20III%20interferon%20receptor%20independent%20mechanism%202010"
+        },
+        {
+            "id": "Channappanavar_2016_a",
+            "alt_id": "27",
+            "entry": "Channappanavar, R., et al. Dysregulated Type I Interferon and Inflammatory Monocyte295 Macrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice. Cell host & 296 microbe 19, 181-193 (2016). 297 31.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Channappanavar%2C%20R.%20Dysregulated%20Type%20I%20Interferon%20and%20Inflammatory%20Monocyte295%20Macrophage%20Responses%20Cause%20Lethal%20Pneumonia%20in%20SARS-CoV-Infected%20Mice%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Channappanavar%2C%20R.%20Dysregulated%20Type%20I%20Interferon%20and%20Inflammatory%20Monocyte295%20Macrophage%20Responses%20Cause%20Lethal%20Pneumonia%20in%20SARS-CoV-Infected%20Mice%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Channappanavar%2C%20R.%20Dysregulated%20Type%20I%20Interferon%20and%20Inflammatory%20Monocyte295%20Macrophage%20Responses%20Cause%20Lethal%20Pneumonia%20in%20SARS-CoV-Infected%20Mice%202016"
+        },
+        {
+            "id": "Menachery_0000_a",
+            "alt_id": "28",
+            "entry": "Menachery, V.D., et al. Middle East Respiratory Syndrome Coronavirus Nonstructural 298 Protein 16 Is Necessary for Interferon Resistance and Viral Pathogenesis. mSphere 2(2017). 299 32.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Menachery%2C%20V.D.%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20Nonstructural%20298%20Protein%2016%20Is%20Necessary%20for%20Interferon%20Resistance%20and%20Viral%20Pathogenesis",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Menachery%2C%20V.D.%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20Nonstructural%20298%20Protein%2016%20Is%20Necessary%20for%20Interferon%20Resistance%20and%20Viral%20Pathogenesis",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Menachery%2C%20V.D.%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20Nonstructural%20298%20Protein%2016%20Is%20Necessary%20for%20Interferon%20Resistance%20and%20Viral%20Pathogenesis"
+        },
+        {
+            "id": "Falzarano_2013_a",
+            "alt_id": "29",
+            "entry": "Falzarano, D., et al. Inhibition of novel beta coronavirus replication by a combination of 300 interferon-alpha2b and ribavirin. Scientific reports 3, 1686 (2013). 301 33.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Falzarano%2C%20D.%20Inhibition%20of%20novel%20beta%20coronavirus%20replication%20by%20a%20combination%20of%20300%20interferon-alpha2b%20and%20ribavirin%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Falzarano%2C%20D.%20Inhibition%20of%20novel%20beta%20coronavirus%20replication%20by%20a%20combination%20of%20300%20interferon-alpha2b%20and%20ribavirin%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Falzarano%2C%20D.%20Inhibition%20of%20novel%20beta%20coronavirus%20replication%20by%20a%20combination%20of%20300%20interferon-alpha2b%20and%20ribavirin%202013"
+        },
+        {
+            "id": "Menachery_2014_b",
+            "alt_id": "30",
+            "entry": "Menachery, V.D., et al. Pathogenic influenza viruses and coronaviruses utilize similar 302 and contrasting approaches to control interferon-stimulated gene responses. mBio 5, e01174303 01114 (2014). 304 34.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Menachery%2C%20V.D.%20Pathogenic%20influenza%20viruses%20and%20coronaviruses%20utilize%20similar%20302%20and%20contrasting%20approaches%20to%20control%20interferon-stimulated%20gene%20responses%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Menachery%2C%20V.D.%20Pathogenic%20influenza%20viruses%20and%20coronaviruses%20utilize%20similar%20302%20and%20contrasting%20approaches%20to%20control%20interferon-stimulated%20gene%20responses%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Menachery%2C%20V.D.%20Pathogenic%20influenza%20viruses%20and%20coronaviruses%20utilize%20similar%20302%20and%20contrasting%20approaches%20to%20control%20interferon-stimulated%20gene%20responses%202014"
+        },
+        {
+            "id": "Finter_1991_a",
+            "alt_id": "31",
+            "entry": "Finter, N.B., et al. The use of interferon-alpha in virus infections. Drugs 42, 749-765 305 (1991). 306 35.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Finter%2C%20N.B.%20The%20use%20of%20interferon-alpha%20in%20virus%20infections%201991",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Finter%2C%20N.B.%20The%20use%20of%20interferon-alpha%20in%20virus%20infections%201991",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Finter%2C%20N.B.%20The%20use%20of%20interferon-alpha%20in%20virus%20infections%201991"
+        },
+        {
+            "id": "307",
+            "alt_id": "307_2006_a",
+            "entry": "307 PLoS Med 3, e343 (2006). 308 36.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=PLoS%20Med%203%20e343%202006%20308%2036",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=PLoS%20Med%203%20e343%202006%20308%2036",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=PLoS%20Med%203%20e343%202006%20308%2036"
+        },
+        {
+            "id": "de_Wit_et+al_2016_a",
+            "alt_id": "33",
+            "entry": "de Wit, E., van Doremalen, N., Falzarano, D. & Munster, V.J. SARS and MERS: recent 309 insights into emerging coronaviruses. Nat Rev Microbiol 14, 523-534 (2016). 310 37.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=de%20Wit%2C%20E.%20van%20Doremalen%2C%20N.%20Falzarano%2C%20D.%20Munster%2C%20V.J.%20SARS%20and%20MERS%3A%20recent%20309%20insights%20into%20emerging%20coronaviruses%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=de%20Wit%2C%20E.%20van%20Doremalen%2C%20N.%20Falzarano%2C%20D.%20Munster%2C%20V.J.%20SARS%20and%20MERS%3A%20recent%20309%20insights%20into%20emerging%20coronaviruses%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=de%20Wit%2C%20E.%20van%20Doremalen%2C%20N.%20Falzarano%2C%20D.%20Munster%2C%20V.J.%20SARS%20and%20MERS%3A%20recent%20309%20insights%20into%20emerging%20coronaviruses%202016"
+        },
+        {
+            "id": "Channappanavar_2019_a",
+            "alt_id": "34",
+            "entry": "Channappanavar, R., et al. IFN-I response timing relative to virus replication determines 311 MERS coronavirus infection outcomes. The Journal of clinical investigation 130, 3625-3639 312 (2019). 313 38.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Channappanavar%2C%20R.%20IFN-I%20response%20timing%20relative%20to%20virus%20replication%20determines%20311%20MERS%20coronavirus%20infection%20outcomes%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Channappanavar%2C%20R.%20IFN-I%20response%20timing%20relative%20to%20virus%20replication%20determines%20311%20MERS%20coronavirus%20infection%20outcomes%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Channappanavar%2C%20R.%20IFN-I%20response%20timing%20relative%20to%20virus%20replication%20determines%20311%20MERS%20coronavirus%20infection%20outcomes%202019"
+        },
+        {
+            "id": "Pang_2019_a",
+            "alt_id": "35",
+            "entry": "Pang, J., et al. Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel 314 Coronavirus (2019-nCoV): A Systematic Review. J Clin Med 9(2020). 315 39.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Pang%20J%20et%20al%20Potential%20Rapid%20Diagnostics%20Vaccine%20and%20Therapeutics%20for%202019%20Novel%20314%20Coronavirus%202019nCoV%20A%20Systematic%20Review%20J%20Clin%20Med%2092020%20315%2039",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Pang%20J%20et%20al%20Potential%20Rapid%20Diagnostics%20Vaccine%20and%20Therapeutics%20for%202019%20Novel%20314%20Coronavirus%202019nCoV%20A%20Systematic%20Review%20J%20Clin%20Med%2092020%20315%2039",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Pang%20J%20et%20al%20Potential%20Rapid%20Diagnostics%20Vaccine%20and%20Therapeutics%20for%202019%20Novel%20314%20Coronavirus%202019nCoV%20A%20Systematic%20Review%20J%20Clin%20Med%2092020%20315%2039"
+        },
+        {
+            "id": "Roberts_2007_a",
+            "alt_id": "36",
+            "entry": "Roberts, A., et al. A mouse-adapted SARS-coronavirus causes disease and mortality in 316 BALB/c mice. PLoS pathogens 3, e5 (2007). 317 40.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Roberts%2C%20A.%20A%20mouse-adapted%20SARS-coronavirus%20causes%20disease%20and%20mortality%20in%20316%20BALB/c%20mice%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Roberts%2C%20A.%20A%20mouse-adapted%20SARS-coronavirus%20causes%20disease%20and%20mortality%20in%20316%20BALB/c%20mice%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Roberts%2C%20A.%20A%20mouse-adapted%20SARS-coronavirus%20causes%20disease%20and%20mortality%20in%20316%20BALB/c%20mice%202007"
+        },
+        {
+            "id": "Cockrell_et+al_2016_a",
+            "alt_id": "37",
+            "entry": "Cockrell A, Y.B., Scobey T, Jensen K, Douglas M, Beall A, Tang X-C, Marasco WA, 318 Heise MT, Baric RS A Mouse Model for MERS Coronavirus Induced Acute Respiratory Distress 319 Syndrome.. Nature Microbiology In Press(2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cockrell%2C%20A.%20B.%2C%20Y.%20Scobey%2C%20T.%20Jensen%2C%20K.%20Baric%20RS%20A%20Mouse%20Model%20for%20MERS%20Coronavirus%20Induced%20Acute%20Respiratory%20Distress%20319%20Syndrome%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cockrell%2C%20A.%20B.%2C%20Y.%20Scobey%2C%20T.%20Jensen%2C%20K.%20Baric%20RS%20A%20Mouse%20Model%20for%20MERS%20Coronavirus%20Induced%20Acute%20Respiratory%20Distress%20319%20Syndrome%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cockrell%2C%20A.%20B.%2C%20Y.%20Scobey%2C%20T.%20Jensen%2C%20K.%20Baric%20RS%20A%20Mouse%20Model%20for%20MERS%20Coronavirus%20Induced%20Acute%20Respiratory%20Distress%20319%20Syndrome%202016"
+        },
+        {
+            "id": "41",
+            "alt_id": "Li_2017_a",
+            "entry": "41. Li, K., et al. Mouse-adapted MERS coronavirus causes lethal lung disease in human 321 DPP4 knockin mice. Proceedings of the National Academy of Sciences of the United States of 322 America 114, E3119-E3128 (2017). 323 42. Lazear, H.M., et al. A Mouse Model of Zika Virus Pathogenesis. Cell host & microbe 19, 324 720-730 (2016). 325 43.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20K.%20Mouse-adapted%20MERS%20coronavirus%20causes%20lethal%20lung%20disease%20in%20human%20321%20DPP4%20knockin%20mice.%20Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20322%20America%20114%2C%20E3119-E3128%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20K.%20Mouse-adapted%20MERS%20coronavirus%20causes%20lethal%20lung%20disease%20in%20human%20321%20DPP4%20knockin%20mice.%20Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20322%20America%20114%2C%20E3119-E3128%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20K.%20Mouse-adapted%20MERS%20coronavirus%20causes%20lethal%20lung%20disease%20in%20human%20321%20DPP4%20knockin%20mice.%20Proceedings%20of%20the%20National%20Academy%20of%20Sciences%20of%20the%20United%20States%20of%20322%20America%20114%2C%20E3119-E3128%202017"
+        },
+        {
+            "id": "Harcourt_2020_a",
+            "alt_id": "39",
+            "entry": "Harcourt, J., et al. Isolation and characterization of SARS-CoV-2 from the first US 326 COVID-19 patient. bioRxiv, 2020.2003.2002.972935 (2020). 327 44.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Harcourt%2C%20J.%20Isolation%20and%20characterization%20of%20SARS-CoV-2%20from%20the%20first%20US%20326%20COVID-19%20patient%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Harcourt%2C%20J.%20Isolation%20and%20characterization%20of%20SARS-CoV-2%20from%20the%20first%20US%20326%20COVID-19%20patient%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Harcourt%2C%20J.%20Isolation%20and%20characterization%20of%20SARS-CoV-2%20from%20the%20first%20US%20326%20COVID-19%20patient%202020"
+        },
+        {
+            "id": "Sims_2013_a",
+            "alt_id": "40",
+            "entry": "Sims, A.C., et al. Release of severe acute respiratory syndrome coronavirus nuclear 328 import block enhances host transcription in human lung cells. J Virol 87, 3885-3902 (2013). 329 45.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sims%2C%20A.C.%20Release%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20nuclear%20328%20import%20block%20enhances%20host%20transcription%20in%20human%20lung%20cells%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sims%2C%20A.C.%20Release%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20nuclear%20328%20import%20block%20enhances%20host%20transcription%20in%20human%20lung%20cells%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sims%2C%20A.C.%20Release%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20nuclear%20328%20import%20block%20enhances%20host%20transcription%20in%20human%20lung%20cells%202013"
+        },
+        {
+            "id": "Josset_2013_a",
+            "alt_id": "41",
+            "entry": "Josset, L., et al. Cell host response to infection with novel human coronavirus EMC 330 predicts potential antivirals and important differences with SARS coronavirus. MBio 4, e00165331 00113 (2013). 332 46.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Josset%2C%20L.%20Cell%20host%20response%20to%20infection%20with%20novel%20human%20coronavirus%20EMC%20330%20predicts%20potential%20antivirals%20and%20important%20differences%20with%20SARS%20coronavirus%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Josset%2C%20L.%20Cell%20host%20response%20to%20infection%20with%20novel%20human%20coronavirus%20EMC%20330%20predicts%20potential%20antivirals%20and%20important%20differences%20with%20SARS%20coronavirus%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Josset%2C%20L.%20Cell%20host%20response%20to%20infection%20with%20novel%20human%20coronavirus%20EMC%20330%20predicts%20potential%20antivirals%20and%20important%20differences%20with%20SARS%20coronavirus%202013"
+        },
+        {
+            "id": "Sheahan_et+al_2008_a",
+            "alt_id": "42",
+            "entry": "Sheahan, T., Rockx, B., Donaldson, E., Corti, D. & Baric, R. Pathways of cross-species 333 transmission of synthetically reconstructed zoonotic severe acute respiratory syndrome 334 coronavirus. Journal of virology 82, 8721-8732 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sheahan%2C%20T.%20Rockx%2C%20B.%20Donaldson%2C%20E.%20Corti%2C%20D.%20Pathways%20of%20cross-species%20333%20transmission%20of%20synthetically%20reconstructed%20zoonotic%20severe%20acute%20respiratory%20syndrome%20334%20coronavirus%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sheahan%2C%20T.%20Rockx%2C%20B.%20Donaldson%2C%20E.%20Corti%2C%20D.%20Pathways%20of%20cross-species%20333%20transmission%20of%20synthetically%20reconstructed%20zoonotic%20severe%20acute%20respiratory%20syndrome%20334%20coronavirus%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sheahan%2C%20T.%20Rockx%2C%20B.%20Donaldson%2C%20E.%20Corti%2C%20D.%20Pathways%20of%20cross-species%20333%20transmission%20of%20synthetically%20reconstructed%20zoonotic%20severe%20acute%20respiratory%20syndrome%20334%20coronavirus%202008"
+        }
+    ],
+    "facts": [
+        "China was diagnosed with a viral pneumonia of unknown origins",
+        "the disease cluster had echoes of the severe acute respiratory syndrome coronavirus outbreak that emerged at the beginning of the century 1",
+        "The 2019 etiologic agent was identified as a novel coronavirus",
+        "most severe SARS-CoV-2 disease corresponded to old age",
+        "the novel CoV to aid in treatment and control",
+        "Initial modeling studies predicted subsequent cell culture studies confirmed that spike protein of SARS-CoV-2 utilizes human angiotensin converting enzyme 2",
+        "Extensive case studies indicated a similar range of disease onset",
+        "severe symptoms seen with SARS-CoV 5",
+        "treatment guidance has relied on previous CoV data generated with",
+        "similar to findings with both SARS- and MERS-CoV initiated with a focus on the SARS-CoV-2",
+        "the similarities with SARS-CoV have been useful in responding to the newest CoV outbreak",
+        "subsequently examined sequence homology between the SARS-CoV and SARS-CoV-2 viral proteins that may be responsible for these differences",
+        "Viral replication in Vero E6 were performed as previously described with SARS-CoV or SARS-CoV-2 at an multiplicity",
+        "more biological replicates were harvested at each described time point and results are from combination",
+        "No blinding was used in any sample collections",
+        "experiments were completed as previously described recombinant type",
+        "Heat maps were constructed from a set of representative group 2B coronaviruses by using alignment data paired with neighbor-joining phylogenetic trees built in",
+        "Tree shows the degree of genetic similarity of SARS-CoV-2",
+        "cells were washed with two times with PBS",
+        "Vero E6 cells were incubated with 1000 units",
+        "All statistical comparisons in this manuscript involved the comparison between 2 groups",
+        "Our initial studies infected Vero E6 cells using a low multiplicity of infection to explore the viral replication kinetics",
+        "SARS-CoV-2 replicate with similar kinetics",
+        "the results indicated that SARS-CoV and SARS-CoV-2 replicate with similar replication kinetics",
+        "IFN has been employed with limited effect pretreated Vero E6 cells with 1000 units",
+        "Type I IFN treatment has been a standard approach for a wide variety",
+        "able to respond to exogenous forms",
+        "SARS-CoV infection has a modest reduction in viral titer",
+        "SARS-CoV-2 shows a significant reduction in viral replication following type",
+        "SARS-CoV-2 had massive 3-log and 4-log drops in viral titer",
+        "sensitivity in SARS-CoV-2 not observed with SARS-CoV.",
+        "found several changes to SARS-CoV-2 that potentially contribute to its type",
+        "reported IFN antagonism is likely maintained in SARS-CoV-2",
+        "known antagonists contained within the poly-protein are highly conserved relative to SARS-CoV.",
+        "only 76% conserved between SARS-CoV and SARS-CoV-2",
+        "IFN antagonism might be maintained in these specific group 2B CoV strains",
+        "previous work has found that alanine substitution in this C-",
+        "terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences",
+        "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2",
+        "viral characterization remains a key factor in responding to the emergent novel virus",
+        "SARS-CoV-2 has a significant decrease in viral replication following type",
+        "IFN is distinct from the original SARS-CoV",
+        "sequence analysis indicates that SARS-CoV-2",
+        "IFN pretreatment illustrates a clear distinction between the two CoVs",
+        "CoV-2 could prove important in disrupting the ongoing spread of COVID-19",
+        "studies have consistently found that wild-type SARS-CoV is indifferent to type",
+        "IFN pretreatment signaling had no significant impact on disease suggesting the virus controlled this pathway",
+        "more recent reports suggest that host genetic background may majorly influence this finding log drop",
+        "This level of sensitivity is similar to MERS-CoV",
+        "in vivo SARS-CoV studies have found that the loss of type",
+        "our results suggest that type",
+        "IFN indicates a distinction from SARS-CoV",
+        "the N-terminal domain has been shown to have a clear role in its ability to disrupt karyopherin transport",
+        "that function antagonists are maintained with high levels of conservation",
+        "the sequence analysis suggests that differences between SARS-CoV and SARS-CoV-2 viral proteins may drive attenuation",
+        "IFN has been used in response to chronic viral infection 34",
+        "IFN treatment from the SARS-CoV outbreak were complicated by combination therapy of type",
+        "determine efficacy can be protective in mice be detrimental for",
+        "in vivo studies with MERS-CoV has found that early induction with type",
+        "the same study found that late type",
+        "sensitivity data suggest that type",
+        "recapitulate human disease were developed through virus passage in immune competent mice",
+        "While initial work has suggested incompatibility to SARS-CoV-2 infection in mice based on receptor usage 8",
+        "our results indicate that SARS-CoV-2 has a",
+        "Screening and treatment guidance has relied on previous CoV data generated with",
+        "Terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences"
+    ],
+    "claims": [
+        "In this report, we evaluate SARS-CoV-2 relative to 7 the original SARS-CoV",
+        "We subsequently examined homology between SARS-CoV and 10 SARS-CoV-2 in viral proteins shown to be interferon antagonist",
+        "Using Vero E6 cells, we demonstrate that SARS-CoV-2 maintains similar viral replication kinetics as SARS-CoV following a low dose infection",
+        "We find that SARS-CoV-2 is much more sensitive to type I interferon (IFN) pretreatment as compared to SARS-CoV",
+        "These results suggest distinct changes between the CoVs in terms of IFN antagonism and we subsequently examined sequence homology between the SARS-CoV and SARS-CoV-2 viral proteins that may be responsible for these differences",
+        "Following infection, we find that both SARS-CoV and SARS-CoV-2 replicate with similar kinetics, peaking 48 hours post infection (Fig. 1A)",
+        "We next evaluated the susceptibility of SARS-CoV-2 to type I interferon (IFN)",
+        "Using sequence analysis, we found several changes to SARS-CoV-2 that potentially contribute to its type I IFN sensitivity (Fig. 2)",
+        "In this report, we describe differences in the type I IFN sensitivity between SARS-CoV-2 and the original SARS-CoV"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "We find that SARS-CoV-2 is much more sensitive to type I interferon (IFN) pretreatment as compared to SARS-CoV. These results suggest distinct changes between the CoVs in terms of IFN antagonism and we subsequently examined sequence homology between the SARS-CoV and SARS-CoV-2 viral proteins that may be responsible for these differences",
+        "Our initial studies infected Vero E6 cells using a low multiplicity of infection (MOI) to explore the viral replication kinetics of SARS-CoV-2 relative to SARS-CoV. We find that both SARS-CoV and SARS-CoV-2 replicate with similar kinetics, peaking 48 hours post infection (Fig. 1A)",
+        "The results indicated that SARS-CoV and SARS-CoV-2 replicate with similar replication kinetics in Vero E6 cells",
+        "We evaluated the susceptibility of SARS-CoV-2 to type I interferon (IFN)",
+        "SARS-CoV-2 shows a significant reduction in viral replication following type I IFN treatment",
+        "We found several changes to SARS-CoV-2 that potentially contribute to its type I IFN sensitivity (Fig. 2)",
+        "For SARS-CoV structural proteins including the nucleocapsid (N) and matrix (M) protein, a high degree of sequence homology (>90%amino acid identity) suggests that their reported IFN antagonism is likely maintained in SARS-CoV-2 and other SARS-like viruses",
+        "One notable exception is the large papain-like proteases, NSP3, which only 76% conserved between SARS-CoV and SARS-CoV-2",
+        "SARS-CoV-2 has a two amino acid truncation in its ORF6; previous work has found that alanine substitution in this C-",
+        "Terminal of SARS-CoV ORF6 resulted in ablated antagonism homology analysis suggests that differences in NSP3, ORF3b, and/or ORF6 may be key drivers of SARS-CoV-2 type I IFN susceptibility",
+        "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus",
+        "We describe differences in the type I IFN sensitivity between SARS-CoV-2 and the original SARS-CoV",
+        "While both viruses maintain similar replication in untreated Vero E6 cells, SARS-CoV-2 has a significant decrease in viral replication following type I IFN pretreatment",
+        "This sensitivity to type I IFN is distinct from the original SARS-CoV and suggests that the novel CoV has distinct host interactions driving disease outcomes",
+        "The differences in sensitivity to type I IFN pretreatment illustrates a clear distinction between the two CoVs",
+        "For SARS-CoV, in vitro studies have consistently found that wild-type SARS-CoV is indifferent to type I IFN",
+        "More recent reports suggest that host genetic background may majorly influence this finding log drop in viral titer. This level of sensitivity is similar to MERS-CoV and suggests the novel",
+        "In vivo SARS-CoV studies have found that the loss of type I IFN",
+        "For SARS-CoV-2, our results suggest that type I IFN pretreatment produces a 3 - 4",
+        "For SARS-CoV-2, the sensitivity to type I IFN indicates a distinction from SARS-CoV and suggests differential host immune modulation between the viruses",
+        "For SARS-CoV ORF6, the N-terminal domain has been shown to have a clear role in its ability to disrupt karyopherin transport",
+        "While NSP3 deubiquitinating domain remains intact, SARS-CoV-2 has a 24 amino acid insertion upstream of this deubiquitinating domain that could potentially alter that function antagonists are maintained with high levels of conservation (>90%), single point mutations in key locations could modify function and contribute to increased IFN sensitivity",
+        "The sequence analysis suggests that differences between SARS-CoV and SARS-CoV-2 viral proteins may drive attenuation in the context of type I IFN pretreatment",
+        "SARS-CoV cases found inconclusive effect for type I IFN treatment from the SARS-CoV outbreak were complicated by combination therapy of type I IFN with other treatments including ribavirin/steroids and lack of a regimented protocol",
+        "While type I IFN has been utilized to treat MERS-CoV infected patients, no conclusive data yet exists to determine efficacy can be protective in mice be detrimental for MERS-CoV disease using type I IFN in combination for SARS-CoV-2 infection; yet the efficacy of these treatments and the parameters of their use is not known",
+        "In vivo studies with MERS-CoV has found that early induction with type I IFN",
+        "For SARS-CoV, mouse models that recapitulate human disease were developed through virus passage in immune competent mice for MERS-CV required adaptation in mice that had genetic modifications of their dipeptidylpeptidase 4 (DPP4), the receptor for MERS-CoV",
+        "While initial work has suggested incompatibility to SARS-CoV-2 infection in mice based on receptor usage 8, the type I IFN response may be a second major barrier that needs to be overcome",
+        "Our results indicate that SARS-CoV-2 has a much higher sensitivity to type I IFN"
+    ],
+    "top_statements": [
+        "At the end of 2019, a cluster of patients in Hubei Province, China was diagnosed with a viral pneumonia of unknown origins",
+        "Our initial studies infected Vero E6 cells using a low multiplicity of infection (MOI) to explore the viral replication kinetics of SARS-CoV-2 relative to SARS-CoV. We find that both SARS-CoV and SARS-CoV-2 replicate with similar kinetics, peaking 48 hours post infection (Fig. 1A)",
+        "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus",
+        "While both viruses maintain similar replication in untreated Vero E6 cells, SARS-CoV-2 has a significant decrease in viral replication following type I IFN pretreatment",
+        "The sequence analysis suggests that differences between SARS-CoV and SARS-CoV-2 viral proteins may drive attenuation in the context of type I IFN pretreatment",
+        "For SARS-CoV, mouse models that recapitulate human disease were developed through virus passage in immune competent mice for MERS-CV required adaptation in mice that had genetic modifications of their dipeptidylpeptidase 4 (DPP4), the receptor for MERS-CoV"
+    ],
+    "headline": "With the ongoing outbreak of COVID-19 caused by SARS-CoV-2, viral characterization remains a key factor in responding to the emergent novel virus",
+    "contexts": [],
+    "abbreviations": {
+        "ORF": "open reading frame",
+        "ACE2": "angiotensin converting enzyme 2",
+        "MOI": "multiplicity of infection",
+        "CPE": "cytopathic effect",
+        "PFU": "plaque forming units",
+        "AA": "amino acid",
+        "DPP4": "dipeptidylpeptidase 4",
+        "BSL": "biosafety level 3"
+    }
+}

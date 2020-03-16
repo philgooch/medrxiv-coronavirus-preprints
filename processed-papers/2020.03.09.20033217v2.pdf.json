@@ -1,0 +1,272 @@
+{
+    "filename": "2020.03.09.20033217v2.pdf",
+    "content_type": "application/pdf",
+    "file_size": 716846,
+    "metadata": {
+        "title": "This article is a US Government work. It is not subject to copyright under 17 USC 105 and is also made available for use under a CC0 license.",
+        "author": "Holbrook, Amandine Gamble, Brandi N. Williamson, Azaibi Tamin, Jennifer L. Harcourt, Natalie J",
+        "date": 2020,
+        "affiliations": [
+            "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and",
+            "Infectious Diseases, National Institutes of Health, Hamilton, MT, USA",
+            "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA",
+            "Department of Ecology and Evolutionary Biology, University of California, Los Angeles, Los",
+            "Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, GA, USA.",
+            "Fogarty International Center, National Institutes of Health, Bethesda, MD, USA"
+        ],
+        "journal": "SARS",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.09.20033217",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v2.pdf"
+        },
+        "references": "@misc{unknown-a,\n  title = {Coronavirus disease (COVID-2019) situation reports. 2020. (Accessed 26th of February 2020},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/.},\n  language = {}\n}\n@incollection{wu2019a,\n  author = {Wu, A. and Peng, Y. and Huang, B.},\n  title = {Genome Composition and Divergence of the Novel Coronavirus},\n  date = {2019},\n  more-authors = {true},\n  source = {Originating in China. Cell Host Microbe 2020},\n  language = {}\n}\n@book{bai-a,\n  author = {Bai, Y. and Yao, L. and Wei, T.},\n  title = {Presumed Asymptomatic Carrier Transmission of COVID-19},\n  publisher = {JAMA},\n  more-authors = {true},\n  language = {}\n}\n@article{zou2020a,\n  author = {Zou, L. and Ruan, F. and Huang, M.},\n  title = {SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{chen-a,\n  author = {Chen, Y.C. and Huang, L.M. and Chan, C.C.},\n  title = {SARS in hospital emergency room. Emerg Infect Dis},\n  more-authors = {true},\n  language = {}\n}\n",
+        "references_ris": "TY  - GEN\nTI  - Coronavirus disease (COVID-2019) situation reports. 2020. (Accessed 26th of February 2020\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Wu, A.\nAU  - Peng, Y.\nAU  - Huang, B.\nTI  - Genome Composition and Divergence of the Novel Coronavirus\nPY  - 2019\nDA  - 2019\nC1  - true\nT2  - Originating in China. Cell Host Microbe 2020\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Bai, Y.\nAU  - Yao, L.\nAU  - Wei, T.\nTI  - Presumed Asymptomatic Carrier Transmission of COVID-19\nPB  - JAMA\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zou, L.\nAU  - Ruan, F.\nAU  - Huang, M.\nTI  - SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Chen, Y.C.\nAU  - Huang, L.M.\nAU  - Chan, C.C.\nTI  - SARS in hospital emergency room. Emerg Infect Dis\nC1  - true\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Viability of SARS-CoV-1 and HCoV-19 in aerosols and on different surfaces. A) SARS-CoV"
+            }
+        ],
+        "figure_urls": []
+    },
+    "sections": {
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Figures S1\u2013S5"
+            ]
+        },
+        "introduction": [
+            "4. Division of Viral Diseases, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, GA, USA.",
+            "(SARS-CoV-2, referred to as HCoV-19 here) that emerged in Wuhan, China in late 2019 is now causing a pandemic[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Here, we analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-",
+            "CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model (see Supplementary Appendix). All experimental measurements are reported as mean across 3 replicates.",
+            "HCoV-19 remained viable in aerosols throughout the duration of our experiment (3 hours) with a reduction in infectious titer from 103.5 to 102.7 TCID50/L, similar to the reduction observed for SARS-CoV-",
+            "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to hours post application (Figure 1A), though the virus titer was greatly reduced (plastic from 103.7 to",
+            "had similar stability kinetics (polypropylene from 103.4 to 100.7 TCID50/mL after 72 hours, stainless steel from 103.6 to 100.6 TCID50/mL after 48 hours). No viable virus could be measured after 4 hours on copper for HCoV-19 and 8 hours for SARS-CoV-1, or after 24 hours on cardboard for HCoV-19 and 8 hours for",
+            "Both viruses exhibited exponential decay in virus titer across all experimental conditions, as indicated by linear decrease in the log10TCID50/mL over time (Figure 1B). HCoV-19 and SARS-CoV-1 exhibited similar half-lives in aerosols, with median estimates around 1.1-1.2 hours, and 95% credible intervals of [0.64, 2.64] hours for HCoV-19 and [0.78 , 2.43] hours for SARS-CoV-1 (Figure 1C, Table",
+            "S1). Half-lives on copper were also similar between the two viruses. On cardboard, HCoV-19 showed a considerably longer half-life than SARS-CoV-1. Both viruses showed longest viability on stainless steel and plastic: the median half-life estimate for HCoV-19 was roughly 5.6 hours on steel and 6.8 hours on author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "plastic (Figure 1C, Table S1). Estimated differences in half-life between the two viruses were small except for on cardboard (Figure 1C, Table S1). Individual replicate data were noticeably noisier for cardboard than other surfaces (Figures S1\u2013S5), so we advise caution in interpreting this result.",
+            "Our findings show that the stability of HCoV-19 and SARS-CoV-1 under the experimental circumstances tested is similar. This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Our results indicate that aerosol and fomite transmission of HCoV-19 are plausible, as the virus can remain viable and infectious in aerosols for multiple hours and on surfaces up to days. This echoes the experience with",
+            "SARS-CoV-1, where these modes of transmission were associated with nosocomial spread and superspreading events[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and provides guidance for pandemic mitigation measures."
+        ]
+    },
+    "structured_content": {
+        "These authors contributed equally to this article": [
+            "for use under a CC0 license.",
+            "A novel human coronavirus, now named severe acute respiratory syndrome coronavirus 2",
+            "(SARS-CoV-2, referred to as HCoV-19 here) that emerged in Wuhan, China in late 2019 is now causing a pandemic[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Here, we analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-",
+            "CoV-1, the most closely related human coronavirus.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] We evaluated the stability of HCoV-19 and SARS-",
+            "CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model (see Supplementary Appendix). All experimental measurements are reported as mean across 3 replicates.",
+            "HCoV-19 remained viable in aerosols throughout the duration of our experiment (3 hours) with a reduction in infectious titer from 103.5 to 102.7 TCID50/L, similar to the reduction observed for SARS-CoV-",
+            "1, from 104.3 to 103.5 TCID50/mL (Figure 1A).",
+            "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to hours post application (Figure 1A), though the virus titer was greatly reduced (plastic from 103.7 to",
+            "100.6 TCID50/mL after 72 hours, stainless steel from 103.7 to 100.6 TCID50/mL after 48 hours). SARS-CoV-",
+            "had similar stability kinetics (polypropylene from 103.4 to 100.7 TCID50/mL after 72 hours, stainless steel from 103.6 to 100.6 TCID50/mL after 48 hours). No viable virus could be measured after 4 hours on copper for HCoV-19 and 8 hours for SARS-CoV-1, or after 24 hours on cardboard for HCoV-19 and 8 hours for",
+            "SARS-CoV-1 (Figure 1A).",
+            "Both viruses exhibited exponential decay in virus titer across all experimental conditions, as indicated by linear decrease in the log10TCID50/mL over time (Figure 1B). HCoV-19 and SARS-CoV-1 exhibited similar half-lives in aerosols, with median estimates around 1.1-1.2 hours, and 95% credible intervals of [0.64, 2.64] hours for HCoV-19 and [0.78 , 2.43] hours for SARS-CoV-1 (Figure 1C, Table",
+            "S1). Half-lives on copper were also similar between the two viruses. On cardboard, HCoV-19 showed a considerably longer half-life than SARS-CoV-1. Both viruses showed longest viability on stainless steel and plastic: the median half-life estimate for HCoV-19 was roughly 5.6 hours on steel and 6.8 hours on author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "plastic (Figure 1C, Table S1). Estimated differences in half-life between the two viruses were small except for on cardboard (Figure 1C, Table S1). Individual replicate data were noticeably noisier for cardboard than other surfaces (Figures S1\u2013S5), so we advise caution in interpreting this result.",
+            "Our findings show that the stability of HCoV-19 and SARS-CoV-1 under the experimental circumstances tested is similar. This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Our results indicate that aerosol and fomite transmission of HCoV-19 are plausible, as the virus can remain viable and infectious in aerosols for multiple hours and on surfaces up to days. This echoes the experience with",
+            "SARS-CoV-1, where these modes of transmission were associated with nosocomial spread and superspreading events[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], and provides guidance for pandemic mitigation measures."
+        ],
+        "References": [
+            "Coronavirus disease (COVID-2019) situation reports. 2020. (Accessed 26th of February 2020, at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/.)",
+            "Wu A, Peng Y, Huang B, et al Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell Host Microbe 2020.",
+            "Bai Y, Yao L, Wei T, et al Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA",
+            "4.",
+            "Zou L, Ruan F, Huang M, et al SARS-CoV-2 Viral Load in Upper Respiratory Specimens of",
+            "Infected Patients. N Engl J Med 2020.",
+            "Chen YC, Huang LM, Chan CC, et al SARS in hospital emergency room. Emerg Infect Dis",
+            "2004;10:782-8.",
+            "Figure 1. Viability of SARS-CoV-1 and HCoV-19 in aerosols and on different surfaces. A) SARS-CoV and HCoV-19 were aerosolized in a rotating drum maintained at 21-23\u00b0C and 65% RH over three hours.",
+            "Viable virus titer is shown in TCID50/L air. For surfaces, viruses were applied on copper, cardboard, steel and plastic maintained at 21-23\u00b0C and 40% RH over seven days. Viable virus titer is shown in",
+            "TCID50/mL collection medium. All samples were quantified by end-point titration on Vero E6 cells. Plots show the mean and standard error across three replicates. B) Regression plots showing predicted decay of virus titer over time; titer plotted on a logarithmic scale. Points show measured titers and are slightly jittered along the time axis to avoid overplotting. Lines are random draws from the joint posterior distribution of the exponential decay rate (negative of the slope) and intercept (initial virus titer), thus visualizing the range of possible decay patterns for each experimental condition. 150 lines per panel: 50 lines from each plotted replicate. C) Violin plots showing posterior distribution for half-life of viable virus based on the estimated exponential decay rates of virus titer. Dot shows the posterior median estimate and black line shows a 95% credible interval. Experimental conditions are ordered by posterior median half-life for HCoV-19. Dotted line shows Limit of Detection (LOD), 3.33 \u00d7 100.5 TCID50/L air for aerosols, 100.5 TCID50/mL media for plastic, steel and cardboard and 101.5 TCID50/mL media for copper.",
+            "A",
+            "HCoV\u221219",
+            "SARS\u2212CoV\u22121",
+            "0.5 titer (TCID50/mL media) titer (TCID50/L air)",
+            "Aerosols",
+            "Copper",
+            "Cardboard",
+            "Steel",
+            "Plastic",
+            "1 4 8 24 48 72 96 time (hrs) time (hrs",
+            "B titer (TCID50/mL media)",
+            "SARS\u2212CoV\u22121 titer (TCID50/L air)",
+            "HCoV\u221219 time (hrs) virus",
+            "HCoV\u221219 SARS\u2212CoV\u22121 time (hrs) half\u2212life (hrs)",
+            "C"
+        ]
+    },
+    "participants": [],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model (see Supplementary Appendix)</mark>",
+                "tests": [
+                    {
+                        "test": "Bayesian regression"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "viable virus",
+        "half life",
+        "coronavirus",
+        "table s1",
+        "virus titer",
+        "sars cov",
+        "TCID50",
+        "viral load",
+        "upper respiratory",
+        "figure 1c",
+        "SARS",
+        "stainless steel"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.3684210526315789,
+        "TCID50": 0.2807017543859649,
+        "virus titer": 0.12280701754385964,
+        "coronavirus": 0.07017543859649122,
+        "stainless steel": 0.07017543859649122,
+        "viable virus": 0.05263157894736842,
+        "viral load": 0.017543859649122806,
+        "upper respiratory": 0.017543859649122806,
+        "half life": 0.0,
+        "table s1": 0.0,
+        "sars cov": 0.0,
+        "figure 1c": 0.0
+    },
+    "species": [],
+    "summary": [
+        "2. Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA",
+        "3. Department of Ecology and Evolutionary Biology, University of California, Los Angeles, Los Angeles, CA, USA",
+        "The authors analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-",
+        "CoV-1, the most closely related human coronavirus.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The authors evaluated the stability of HCoV-19 and SARS-",
+        "CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model.",
+        "HCoV-19 remained viable in aerosols throughout the duration of the experiment (3 hours) with a reduction in infectious titer from 103.5 to 102.7 TCID50/L, similar to the reduction observed for SARS-CoV-",
+        "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to hours post application (Figure 1A), though the virus titer was greatly reduced.",
+        "No viable virus could be measured after 4 hours on copper for HCoV-19 and 8 hours for SARS-CoV-1, or after 24 hours on cardboard for HCoV-19 and 8 hours for",
+        "SARS-CoV-1 (Figure 1A).",
+        "Both viruses exhibited exponential decay in virus titer across all experimental conditions, as indicated by linear decrease in the log10TCID50/mL over time (Figure 1B).",
+        "HCoV-19 and SARS-CoV-1 exhibited similar half-lives in aerosols, with median estimates around 1.1-1.2 hours, and 95% credible intervals of [0.64, 2.64] hours for HCoV-19 and [0.78 , 2.43] hours for SARS-CoV-1 (Figure 1C, Table",
+        "HCoV-19 showed a considerably longer half-life than SARS-CoV-1.",
+        "Both viruses showed longest viability on stainless steel and plastic: the median half-life estimate for HCoV-19 was roughly 5.6 hours on steel and 6.8 hours on author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+        "Estimated differences in half-life between the two viruses were small except for on cardboard (Figure 1C, Table S1).",
+        "Individual replicate data were noticeably noisier for cardboard than other surfaces (Figures S1\u2013S5), so the authors advise caution in interpreting this result.",
+        "The authors' findings show that the stability of HCoV-19 and SARS-CoV-1 under the experimental circumstances tested is similar.",
+        "This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+        "The authors' results indicate that aerosol and fomite transmission of HCoV-19 are plausible, as the virus can remain viable and infectious in aerosols for multiple hours and on surfaces up to days."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "2. Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA",
+            "3. Department of Ecology and Evolutionary Biology, University of California, Los Angeles, Los Angeles, CA, USA",
+            "The authors analyze the aerosol and surface stability of HCoV-19 and compare it with SARS-",
+            "CoV-1, the most closely related human coronavirus.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The authors evaluated the stability of HCoV-19 and SARS-"
+        ],
+        "Results": [
+            "CoV-1 in aerosols and on different surfaces and estimated their decay rates using a Bayesian regression model.",
+            "HCoV-19 remained viable in aerosols throughout the duration of the experiment (3 hours) with a reduction in infectious titer from 103.5 to 102.7 TCID50/L, similar to the reduction observed for SARS-CoV-",
+            "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to hours post application (Figure 1A), though the virus titer was greatly reduced.",
+            "No viable virus could be measured after 4 hours on copper for HCoV-19 and 8 hours for SARS-CoV-1, or after 24 hours on cardboard for HCoV-19 and 8 hours for",
+            "SARS-CoV-1 (Figure 1A).",
+            "Both viruses exhibited exponential decay in virus titer across all experimental conditions, as indicated by linear decrease in the log10TCID50/mL over time (Figure 1B).",
+            "HCoV-19 and SARS-CoV-1 exhibited similar half-lives in aerosols, with median estimates around 1.1-1.2 hours, and 95% credible intervals of [0.64, 2.64] hours for HCoV-19 and [0.78 , 2.43] hours for SARS-CoV-1 (Figure 1C, Table",
+            "HCoV-19 showed a considerably longer half-life than SARS-CoV-1.",
+            "Both viruses showed longest viability on stainless steel and plastic: the median half-life estimate for HCoV-19 was roughly 5.6 hours on steel and 6.8 hours on author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "Estimated differences in half-life between the two viruses were small except for on cardboard (Figure 1C, Table S1)."
+        ],
+        "Conclusion": [
+            "Individual replicate data were noticeably noisier for cardboard than other surfaces (Figures S1\u2013S5), so the authors advise caution in interpreting this result.",
+            "The authors' findings show that the stability of HCoV-19 and SARS-CoV-1 under the experimental circumstances tested is similar.",
+            "This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "The authors' results indicate that aerosol and fomite transmission of HCoV-19 are plausible, as the virus can remain viable and infectious in aerosols for multiple hours and on surfaces up to days."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "1._2020_a",
+            "entry": "1. Coronavirus disease (COVID-2019) situation reports. 2020. (Accessed 26th of February 2020, at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/.)",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"
+        },
+        {
+            "id": "2",
+            "alt_id": "Wu_et+al_2019_a",
+            "entry": "2. Wu A, Peng Y, Huang B, et al. Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell Host Microbe 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%2C%20A.%20Peng%2C%20Y.%20Huang%2C%20B.%20Genome%20Composition%20and%20Divergence%20of%20the%20Novel%20Coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%2C%20A.%20Peng%2C%20Y.%20Huang%2C%20B.%20Genome%20Composition%20and%20Divergence%20of%20the%20Novel%20Coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%2C%20A.%20Peng%2C%20Y.%20Huang%2C%20B.%20Genome%20Composition%20and%20Divergence%20of%20the%20Novel%20Coronavirus%202019"
+        },
+        {
+            "id": "3",
+            "alt_id": "Bai_et+al_0000_a",
+            "entry": "3. Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bai%2C%20Y.%20Yao%2C%20L.%20Wei%2C%20T.%20Presumed%20Asymptomatic%20Carrier%20Transmission%20of%20COVID-19"
+        },
+        {
+            "id": "4",
+            "alt_id": "Zou_et+al_2020_a",
+            "entry": "4. Zou L, Ruan F, Huang M, et al. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zou%2C%20L.%20Ruan%2C%20F.%20Huang%2C%20M.%20SARS-CoV-2%20Viral%20Load%20in%20Upper%20Respiratory%20Specimens%20of%20Infected%20Patients%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zou%2C%20L.%20Ruan%2C%20F.%20Huang%2C%20M.%20SARS-CoV-2%20Viral%20Load%20in%20Upper%20Respiratory%20Specimens%20of%20Infected%20Patients%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zou%2C%20L.%20Ruan%2C%20F.%20Huang%2C%20M.%20SARS-CoV-2%20Viral%20Load%20in%20Upper%20Respiratory%20Specimens%20of%20Infected%20Patients%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Chen_et+al_0000_a",
+            "entry": "5. Chen YC, Huang LM, Chan CC, et al. SARS in hospital emergency room. Emerg Infect Dis ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20Y.C.%20Huang%2C%20L.M.%20Chan%2C%20C.C.%20SARS%20in%20hospital%20emergency%20room.%20Emerg%20Infect%20Dis"
+        }
+    ],
+    "facts": [
+        "that emerged in Wuhan",
+        "All experimental measurements are reported as mean across 3 replicates",
+        "HCoV-19 remained viable in aerosols throughout the duration",
+        "similar to the reduction observed for SARS-CoV-",
+        "HCoV-19 was most stable on plastic",
+        "No viable virus could be measured after 4 hours on copper",
+        "Half-lives on copper were similar between the two viruses",
+        "who has granted medRxiv a license to display the preprint in perpetuity",
+        "Individual replicate data were noticeably noisier for cardboard than other surfaces",
+        "Our findings show that the stability of HCoV-19",
+        "that differences in the epidemiology of these viruses likely arise from other factors",
+        "the potential for individuals infected with HCoV-19 to shed",
+        "Our results indicate that aerosol and fomite transmission of HCoV-19 are plausible",
+        "these modes of transmission were associated with nosocomial spread"
+    ],
+    "claims": [
+        "We evaluated the stability of HCoV-19 and SARS-",
+        "Our findings show that the stability of HCoV-19 and SARS-CoV-1 under the experimental circumstances tested is similar"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "To the Editor, A novel human coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, referred to as HCoV-19 here) that emerged in Wuhan, China in late 2019 is causing a pandemic[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "HCoV-19 remained viable in aerosols throughout the duration of our experiment (3 hours) with a reduction in infectious titer from 103.5 to 102.7 TCID50/L, similar to the reduction observed for SARS-CoV-",
+        "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to hours post application (Figure 1A), though the virus titer was greatly reduced (plastic from 103.7 to",
+        "No viable virus could be measured after 4 hours on copper for HCoV-19 and 8 hours for SARS-CoV-1, or after 24 hours on cardboard for HCoV-19 and 8 hours for",
+        "Our findings show that the stability of HCoV-19 and SARS-CoV-1 under the experimental circumstances tested is similar",
+        "This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+    ],
+    "top_statements": [
+        "To the Editor, A novel human coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, referred to as HCoV-19 here) that emerged in Wuhan, China in late 2019 is causing a pandemic[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "HCoV-19 remained viable in aerosols throughout the duration of our experiment (3 hours) with a reduction in infectious titer from 103.5 to 102.7 TCID50/L, similar to the reduction observed for SARS-CoV-",
+        "HCoV-19 was most stable on plastic and stainless steel and viable virus could be detected up to hours post application (Figure 1A), though the virus titer was greatly reduced (plastic from 103.7 to",
+        "No viable virus could be measured after 4 hours on copper for HCoV-19 and 8 hours for SARS-CoV-1, or after 24 hours on cardboard for HCoV-19 and 8 hours for",
+        "This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+    ],
+    "headline": "This indicates that differences in the epidemiology of these viruses likely arise from other factors, including high viral loads in the upper respiratory tract and the potential for individuals infected with HCoV-19 to shed and transmit the virus while asymptomatic3,4",
+    "contexts": [],
+    "abbreviations": {}
+}

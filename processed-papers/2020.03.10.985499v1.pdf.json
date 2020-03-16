@@ -1,0 +1,786 @@
+{
+    "filename": "2020.03.10.985499v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 332206,
+    "metadata": {
+        "title": "In silico Design of novel Multi-epitope recombinant Vaccine based on Coronavirus surface glycoprotein",
+        "date": 2020,
+        "author": "Mandana Behbahani",
+        "affiliations": [
+            "Department of Biotechnology, Faculty of Biological Science and Technology, University of Isfahan,",
+            "Hezar Jareeb St., Isfahan 81746-73441, Iran."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.10.985499",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.10.985499v1.pdf"
+        },
+        "abstract": "It is of special significance to find a safe and effective vaccine against coronavirus disease 2019 (COVID11 19) that can induce T cell and B cell -mediated immune responses. There is currently no vaccine to prevent COVID-19. In this project, a novel multi-epitope vaccine for COVID-19 virus based on surface glycoprotein was designed through application of bioinformatics methods. At the first, seventeen potent linear B-cell and T-cell binding epitopes from surface glycoprotein were predicted in silico, then the epitopes were joined together via different linkers. The immunogenicity of these epitopes was identified using IFN-\u03b3 ELIspot assays. The IFN-\u03b3 producing T cell variation ranged from 11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1 SFU per 106 PBMCs. One final vaccine was constructed which composed of 398 amino acids and attached to 50S ribosomal protein L7/L12 as adjuvant. Physicochemical properties, as well as antigenicity in the proposed vaccines, were checked for defining the vaccine stability and its ability to induce cell-mediated immune responses. Three-dimensional structure of the mentioned vaccine was subjected to the molecular docking studies with MHC-I and MHC-II molecules. The results proposed that the multi-epitope vaccine with 50S ribosomal protein L7/L12 was very stable with high aliphatic content and high antigenicity.",
+        "references": "@article{q2020a,\n  author = {Q., Li and X., Guan and P., Wu and X., Wang and L, Zhou},\n  date = {2020},\n  title = {Early transmission dynamics in},\n  journal = {New England Journal of Medicine},\n  unmatched-author = {Y., Feng Z.},\n  source = {China, of novel coronavirus-infected pneumonia},\n  language = {}\n}\n@incollection{unknown2019a,\n  title = {World Health Organization Novel coronavirus},\n  date = {2019},\n  volume = {203},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports},\n  source = {situation reports},\n  language = {}\n}\n@article{cicala2016a,\n  author = {Cicala, C. and Nawaz, F. and Jelicic, K.},\n  date = {2016},\n  title = {HIV-1 gp120: A Target for Therapeutics and Vaccine 205 Design},\n  journal = {Current Drug Targets},\n  volume = {17},\n  pages = {122\u201335},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{kumar2008a,\n  author = {Kumar, M. and Thakur, V. and Raghava, G.P.},\n  date = {2008},\n  title = {\u201cCOPid: composition based protein identification},\n  booktitle = {silico},\n  volume = {207},\n  journal = {J Biomed Inform},\n  pages = \"405\u2013414.\" # \"121-128.\",\n  doi = {doi},\n  unmatched-author = {Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO, et al.},\n  source = {An overview of bioinformatics tools for 208 epitope prediction: implications on vaccine Development},\n  unmatched-volume = {53, 209 10.1016/j.jbi.2014.11.003.iology.8:},\n  number = {10},\n  unmatched-pages = {121-128.},\n  language = {}\n}\n@article{soria-guerra2015a,\n  author = {Soria-Guerra, R.E. and Nieto-Gomez, R. and Govea-Alonso, D.O.},\n  date = {2015},\n  title = {t al. An overview of bioinformatics tools 211 for epitope prediction: implications on vaccine Development},\n  journal = {J Biomed Inform},\n  volume = {53},\n  pages = {405\u2013414},\n  doi = {doi},\n  unmatched-author = {Bissati KE, Chentoufi AA, Krishack PA},\n  source = {Adjuvanted multi-epitope vaccines protect HLA-A* 11: 214 01 transgenic mice against Toxoplasma gondii},\n  unmatched-journal = {JCI Insight.},\n  unmatched-volume = {212 10.1016/j.jbi.2014.11.003.6. 1(15):},\n  unmatched-doi = {doi: 10.1172/jci.insight.85955.},\n  language = {}\n}\n@article{escalona2017a,\n  author = {Escalona, E. and Saez, D.},\n  title = {Onate A},\n  date = {2017},\n  journal = {Frontiers},\n  volume = {217},\n  pages = {125},\n  source = {Immunogenicity of a multi-epitope dna vaccine encoding epitopes 216 from Cu\u2013Zn superoxide dismutase and open reading Frames of Brucella abortus in mice},\n  number = {8},\n  language = {}\n}\n@book{rodrigues-da-silva2016a,\n  author = {Rodrigues-da-Silva, R.N. and Martins da Silva, J.H. and Singh, B.},\n  date = {2016},\n  title = {In silico identification and validation of a 219 linear and naturally immunogenic B-cell epitope of the Plasmodium vivax malaria vaccine candidate 220 merozoite surface protein-9. Plos One; 11(1)},\n  publisher = {e 0146951},\n  doi = {doi: 10.1371 221},\n  language = {}\n}\n@misc{nezafat2016a,\n  author = {Nezafat, N. and Karimi, Z. and Eslami, M.},\n  date = {2016},\n  title = {Designing an efficient multi-epitope peptide vaccine against 223 Vibrio cholerae via combined immunoinformatics and protein interaction based approaches},\n  language = {}\n}\n@misc{unknown-a,\n  title = {Computational Biology and Chemistry},\n  doi = {62},\n  pages = {82\u201395},\n  unmatched-doi = {doi: 10.1016/j.compbiolchem.2016.04.006},\n  language = {}\n}\n@article{yang2015a,\n  editor = {Yang, Y. and Sun, W. and Guo, J.},\n  title = {silico design of a DNA based HIV-1 multi-epitope vaccine for 226 Chinese populations},\n  journal = {Human Vaccines Immunother},\n  date = {2015},\n  volume = {11},\n  pages = {795\u2013805},\n  doi = {doi},\n  more-editors = {true},\n  unmatched-volume = {227},\n  number = {3},\n  unmatched-doi = {10.1080/21645515.2015.1012017},\n  language = {}\n}\n@article{nosrati2017a,\n  author = {Nosrati, M. and Mohabatkar, H. and Behbahani, M.},\n  date = {2017},\n  title = {A novel multi-epitope vaccine for cross protection 229 against Hepatitis C Virus (HCV): an immunoinformatics},\n  journal = {Approach Research in Molecular Medicine},\n  volume = {230},\n  pages = {17\u201326},\n  number = {5},\n  language = {}\n}\n@article{rahjerdi2016a,\n  author = {Rahjerdi, A.K. and AmaniJ, Rad and I.},\n  date = {2016},\n  title = {Designing and structure evaluation of multi-epitope vaccine 232 against ETEC and EHEC, an in silico approach},\n  journal = {Protein Peptide Letters},\n  volume = {23},\n  pages = {33\u201342},\n  number = {1},\n  language = {}\n}\n@article{oscherwitz2016a,\n  author = {Oscherwitz, J.},\n  date = {2016},\n  title = {The promise and challenge of epitope-focused vaccines},\n  journal = {Human Vaccines},\n  volume = {234},\n  pages = {2113\u20132116},\n  number = {12},\n  language = {}\n}\n@article{huang2014a,\n  author = {Huang, Conrad C. and Meng, Elaine C. and Morris, John H.},\n  date = {2014},\n  title = {Enhancing UCSF Chimera through web 236 services},\n  journal = {Nucleic Acids Research},\n  volume = {42},\n  pages = \"478-484.\" # \"15.\",\n  url = {https://doi.org/10.1093/nar/gku377},\n  publisher = {Doytchinova IA, Flower DR},\n  source = {VaxiJen: a server for prediction of protective antigens, tumour 238 antigens and subunit vaccines. BMC Bioinformatics},\n  number = {1},\n  unmatched-pages = {15.},\n  language = {}\n}\n@article{duquesnoy2017a,\n  author = {Duquesnoy, R. and Marrari, M.},\n  date = {2017},\n  title = {Usefulness of the ElliPro epitope predictor program in defining the 240 repertoire of HLA-ABC eplets},\n  journal = {Hum.78(},\n  volume = {7},\n  pages = {481\u2013488},\n  doi = {doi: 10.1016/j.humimm.03.005},\n  number = {8},\n  language = {}\n}\n@misc{beaver2007a,\n  author = {Beaver, J.E. and Bourne, P.E. and Ponomarenko, J.V.},\n  date = {2007},\n  title = {Epitope Viewer: a Java application for the 242 visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource 243 (IEDB). Immunome Res},\n  doi = {DOI: 10.1186/1745-7580-3-3},\n  language = {}\n}\n@article{patronov2013a,\n  author = {Patronov, A.I.},\n  journal = {Doytchinov I},\n  date = {2013},\n  title = {T-cell epitope vaccine design by immunoinformatics},\n  volume = {245},\n  pages = {120139},\n  doi = {doi},\n  publisher = {10.1098/rsob.120139.19. Salentin S, Schreiber S, Haupt VJ},\n  unmatched-journal = {Open Biol.},\n  source = {PLIP: fullyautomated protein\u2013ligand interaction profiler},\n  unmatched-volume = {3(1):},\n  language = {}\n}\n@incollection{k2020a,\n  title = {Nucleic Acids Research; 43},\n  pages = \"W443\u2013W447.https://doi.org/10.1093/nar/gkv315\" # \"256\u2013263.253\",\n  volume = {248},\n  author = {K., Roosa and Y., Lee and R., Luo and A., Kirpich and R, Rothenberg},\n  unknown = {et al (2020) Hyman},\n  date = {2020},\n  source = {Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 252 2020, Infect Dis Model.2020; 5},\n  unmatched-pages = {256\u2013263.253},\n  unmatched-volume = {254 255 21.},\n  number = {249 250},\n  unmatched-author = {J. M., Yan P., and G.251 Chowell, Ai S., Zhu G., Tian F., Li H., Gao Y., Wu Y., Lin H},\n  language = {}\n}\n@book{paul2010a,\n  author = {Paul, S. and Piontkivska, H.},\n  date = {2010},\n  title = {Frequent associations between CTL and T-Helper epitopes in HIV-1 260 genomes and implications for multi-epitope vaccine designs},\n  publisher = {BMC Microbiology. 10: 212},\n  doi = {doi: 261 10.1186/1471-2180-10-212},\n  language = {}\n}\n@article{hajighahramani2017a,\n  author = {Hajighahramani, N. and Nezafat, N. and Eslami, M.},\n  date = {2017},\n  title = {Immunoinformatics analysis and in silico 263 designing of a novel multiepitope peptide vaccine against Staphylococcus aureus},\n  journal = {Infection Genetics and},\n  volume = {264},\n  pages = {83\u201394},\n  doi = {doi: 10.1016/j.meegid},\n  more-authors = {true},\n  number = {48},\n  language = {}\n}\n@misc{solanki2019a,\n  author = {Solanki, V. and Tiwari, M. and Tiwari, V.},\n  date = {2019},\n  title = {Prioritization of potential vaccine targets using comparative 266 proteomics and designing of the chimeric multi-epitope vaccine against Pseudomonas aeruginosa},\n  language = {}\n}\n",
+        "links": [
+            "https://www.ncbi.nlm.nih.gov",
+            "http://web.expasy.org/protparam",
+            "http://www.ddgpharmfac.net/vaxijen/VaxiJen/VaxiJen.html[15]",
+            "http://crdd.osdd.net/raghava/bcepred",
+            "https://swissmodel.expasy.org/",
+            "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+            "http://tools.immuneepitope.org/analyze/html/mhc_binding.html",
+            "http://npsa-pbil.ibcp.fr/cgi94",
+            "https://www.multalin.toulouse.inra.fr/multalin",
+            "https://projects.biotec.tu-dresden.de/plip-web/plip/index",
+            "https://bioinfo3d.cs.tau.ac.il/",
+            "http://tools.immuneepitope.org/mhcii",
+            "http://tools.iedb.org/population"
+        ],
+        "emails": [
+            "Ma.behbahani@ast.ui.ac.ir",
+            "Ma_behbahani@yahoo.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Q., Li\nAU  - X., Guan\nAU  - P., Wu\nAU  - X., Wang\nAU  - L, Zhou\nPY  - 2020\nDA  - 2020\nTI  - Early transmission dynamics in\nT2  - New England Journal of Medicine\nC1  - Y., Feng Z.\nT2  - China, of novel coronavirus-infected pneumonia\nLA  - \nER  - \n\nTY  - CHAP\nTI  - World Health Organization Novel coronavirus\nPY  - 2019\nDA  - 2019\nVL  - 203\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports\nT2  - situation reports\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cicala, C.\nAU  - Nawaz, F.\nAU  - Jelicic, K.\nPY  - 2016\nDA  - 2016\nTI  - HIV-1 gp120: A Target for Therapeutics and Vaccine 205 Design\nT2  - Current Drug Targets\nVL  - 17\nSP  - 122\nEP  - 35\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kumar, M.\nAU  - Thakur, V.\nAU  - Raghava, G.P.\nPY  - 2008\nDA  - 2008\nTI  - \u201cCOPid: composition based protein identification\nT2  - silico\nVL  - 207\nT2  - J Biomed Inform\nSP  - \"405\nEP  - 414.\" # \"121\nDO  - doi\nC1  - Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO, et al.\nT2  - An overview of bioinformatics tools for 208 epitope prediction: implications on vaccine Development\nC1  - 53, 209 10.1016/j.jbi.2014.11.003.iology.8:\nIS  - 10\nC1  - 121-128.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Soria-Guerra, R.E.\nAU  - Nieto-Gomez, R.\nAU  - Govea-Alonso, D.O.\nPY  - 2015\nDA  - 2015\nTI  - t al. An overview of bioinformatics tools 211 for epitope prediction: implications on vaccine Development\nT2  - J Biomed Inform\nVL  - 53\nSP  - 405\nEP  - 414\nDO  - doi\nC1  - Bissati KE, Chentoufi AA, Krishack PA\nT2  - Adjuvanted multi-epitope vaccines protect HLA-A* 11: 214 01 transgenic mice against Toxoplasma gondii\nC1  - JCI Insight.\nC1  - 212 10.1016/j.jbi.2014.11.003.6. 1(15):\nC1  - doi: 10.1172/jci.insight.85955.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Escalona, E.\nAU  - Saez, D.\nTI  - Onate A\nPY  - 2017\nDA  - 2017\nT2  - Frontiers\nVL  - 217\nSP  - 125\nT2  - Immunogenicity of a multi-epitope dna vaccine encoding epitopes 216 from Cu\u2013Zn superoxide dismutase and open reading Frames of Brucella abortus in mice\nIS  - 8\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Rodrigues-da-Silva, R.N.\nAU  - Martins da Silva, J.H.\nAU  - Singh, B.\nPY  - 2016\nDA  - 2016\nTI  - In silico identification and validation of a 219 linear and naturally immunogenic B-cell epitope of the Plasmodium vivax malaria vaccine candidate 220 merozoite surface protein-9. Plos One; 11(1)\nPB  - e 0146951\nDO  - 10.1371 221\nLA  - \nER  - \n\nTY  - GEN\nAU  - Nezafat, N.\nAU  - Karimi, Z.\nAU  - Eslami, M.\nPY  - 2016\nDA  - 2016\nTI  - Designing an efficient multi-epitope peptide vaccine against 223 Vibrio cholerae via combined immunoinformatics and protein interaction based approaches\nLA  - \nER  - \n\nTY  - GEN\nTI  - Computational Biology and Chemistry\nDO  - 62\nSP  - 82\nEP  - 95\nC1  - doi: 10.1016/j.compbiolchem.2016.04.006\nLA  - \nER  - \n\nTY  - JOUR\nA2  - Yang, Y.\nA2  - Sun, W.\nA2  - Guo, J.\nTI  - silico design of a DNA based HIV-1 multi-epitope vaccine for 226 Chinese populations\nT2  - Human Vaccines Immunother\nPY  - 2015\nDA  - 2015\nVL  - 11\nSP  - 795\nEP  - 805\nDO  - doi\nC1  - true\nC1  - 227\nIS  - 3\nC1  - 10.1080/21645515.2015.1012017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nosrati, M.\nAU  - Mohabatkar, H.\nAU  - Behbahani, M.\nPY  - 2017\nDA  - 2017\nTI  - A novel multi-epitope vaccine for cross protection 229 against Hepatitis C Virus (HCV): an immunoinformatics\nT2  - Approach Research in Molecular Medicine\nVL  - 230\nSP  - 17\nEP  - 26\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rahjerdi, A.K.\nAU  - AmaniJ, Rad\nAU  - I.\nPY  - 2016\nDA  - 2016\nTI  - Designing and structure evaluation of multi-epitope vaccine 232 against ETEC and EHEC, an in silico approach\nT2  - Protein Peptide Letters\nVL  - 23\nSP  - 33\nEP  - 42\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Oscherwitz, J.\nPY  - 2016\nDA  - 2016\nTI  - The promise and challenge of epitope-focused vaccines\nT2  - Human Vaccines\nVL  - 234\nSP  - 2113\nEP  - 2116\nIS  - 12\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, Conrad C.\nAU  - Meng, Elaine C.\nAU  - Morris, John H.\nPY  - 2014\nDA  - 2014\nTI  - Enhancing UCSF Chimera through web 236 services\nT2  - Nucleic Acids Research\nVL  - 42\nSP  - \"478\nEP  - 484.\" # \"15.\"\nUR  - https://doi.org/10.1093/nar/gku377\nPB  - Doytchinova IA, Flower DR\nT2  - VaxiJen: a server for prediction of protective antigens, tumour 238 antigens and subunit vaccines. BMC Bioinformatics\nIS  - 1\nC1  - 15.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Duquesnoy, R.\nAU  - Marrari, M.\nPY  - 2017\nDA  - 2017\nTI  - Usefulness of the ElliPro epitope predictor program in defining the 240 repertoire of HLA-ABC eplets\nT2  - Hum.78(\nVL  - 7\nSP  - 481\nEP  - 488\nDO  - 10.1016/j.humimm.03.005\nIS  - 8\nLA  - \nER  - \n\nTY  - GEN\nAU  - Beaver, J.E.\nAU  - Bourne, P.E.\nAU  - Ponomarenko, J.V.\nPY  - 2007\nDA  - 2007\nTI  - Epitope Viewer: a Java application for the 242 visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource 243 (IEDB). Immunome Res\nDO  - 10.1186/1745-7580-3-3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Patronov, A.I.\nT2  - Doytchinov I\nPY  - 2013\nDA  - 2013\nTI  - T-cell epitope vaccine design by immunoinformatics\nVL  - 245\nSP  - 120139\nDO  - doi\nPB  - 10.1098/rsob.120139.19. Salentin S, Schreiber S, Haupt VJ\nC1  - Open Biol.\nT2  - PLIP: fullyautomated protein\u2013ligand interaction profiler\nC1  - 3(1):\nLA  - \nER  - \n\nTY  - CHAP\nTI  - Nucleic Acids Research; 43\nSP  - \"W443\nEP  - W447.https://doi.org/10.1093/nar/gkv315\" # \"256\nVL  - 248\nAU  - K., Roosa\nAU  - Y., Lee\nAU  - R., Luo\nAU  - A., Kirpich\nAU  - R, Rothenberg\nC1  - et al (2020) Hyman\nPY  - 2020\nDA  - 2020\nT2  - Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 252 2020, Infect Dis Model.2020; 5\nC1  - 256\u2013263.253\nC1  - 254 255 21.\nIS  - 249 250\nC1  - J. M., Yan P., and G.251 Chowell, Ai S., Zhu G., Tian F., Li H., Gao Y., Wu Y., Lin H\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Paul, S.\nAU  - Piontkivska, H.\nPY  - 2010\nDA  - 2010\nTI  - Frequent associations between CTL and T-Helper epitopes in HIV-1 260 genomes and implications for multi-epitope vaccine designs\nPB  - BMC Microbiology. 10: 212\nDO  - 261 10.1186/1471-2180-10-212\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hajighahramani, N.\nAU  - Nezafat, N.\nAU  - Eslami, M.\nPY  - 2017\nDA  - 2017\nTI  - Immunoinformatics analysis and in silico 263 designing of a novel multiepitope peptide vaccine against Staphylococcus aureus\nT2  - Infection Genetics and\nVL  - 264\nSP  - 83\nEP  - 94\nDO  - 10.1016/j.meegid\nC1  - true\nIS  - 48\nLA  - \nER  - \n\nTY  - GEN\nAU  - Solanki, V.\nAU  - Tiwari, M.\nAU  - Tiwari, V.\nPY  - 2019\nDA  - 2019\nTI  - Prioritization of potential vaccine targets using comparative 266 proteomics and designing of the chimeric multi-epitope vaccine against Pseudomonas aeruginosa\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Results of the antigenicity and BLAST of coronavirus surface glycoprotein and 288 antigenicity prediction"
+            },
+            {
+                "id": "2",
+                "caption": "Result of final T-cell and B-cell epitope prediction screening from coronavirus surface 292 glycoprotein"
+            },
+            {
+                "id": "3",
+                "caption": "The result demonstrated that IV1 has 1.2110 antigenicity (Table 3). Average antigenicity of constructed vaccine using Vaxijen"
+            },
+            {
+                "id": "4",
+                "caption": "Physico-properties of constructed vaccines 309"
+            },
+            {
+                "id": "5",
+                "caption": "HDOCK scores of HLA1, HLA2 and interaction residues of selected sequences"
+            },
+            {
+                "id": "6",
+                "caption": "Mean number of responding T cells (SFU) of donors to predicted and conserved T cell 324 epitopes encompassing entire HA protein"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.10.985499v1.xlsx"
+    },
+    "sections": {
+        "introduction": [
+            "In early 2020, COVID-19 began generating headlines all over the world because of the extraordinary speed of its transmission. So, there are rising concerns about community infections. Vaccination is one of the most effective tools to prevent infectious diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>][<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. As far as our knowledge concerns, there is no report about developing COVID-19 multi epitope vaccine. Therefore, we became eager to design potent multiepitope vaccines from antigenic sites of coronavirus surface glycoprotein. The multiepitope vaccines have advantageous over conventional vaccines with regards to safety profile and high immunogenicity [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Multiepitope vaccines have the potential to induce responses restricted by a wide variety of HLA molecules and generate a balanced CD4+ and CD8+ cellular immune response. Another molecule that contribute to innate immunity contains TLR3 that activates antiviral mechanism during infection. Recently, in silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases. Some bioinformatics tools could facilitate the development of multi epitope-based vaccines. The computational tools can optimize the extensive immunological data such as antigen presentation and processing to achieve specific interpretations [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. In recent decades, several vaccines were established based on in silico methods that include efficient vaccines against Toxoplasma gondii [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], Brucella abortus [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], Escherichia coli [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], Vibrio cholera [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], Human immunodeficiency virus-1 [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], Hepatitis C virus [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] and many others. In several experimental studies, the efficacy of computationally designed vaccines has been recently approved for use in defined human vaccines [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>][<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. In this study, in silico analysis were performed to determine exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein that are antigenically most significant for coronavirus. In our research, some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length. The selected epitopes were merged into each other using suitable linkers for organization of final vaccine construct. Consequently, the stability and efficacy of the vaccines were predicted by a set of bioinformatics methods."
+        ],
+        "methods": [
+            "2.1 Data collection<br/><br/>At the first step of our study, the reference amino acid sequences of coronavirus surface glycoprotein (YP001856243.1), five<br/><br/>HLA-1 (NP_001229971.1, NP_001229687.1, NP_002118.1, NP_061823.2, NP_005507.3) and six HLA-2 protein (NP_001229454.1, NP_006111.2, NP_001230891.1, NP_002110.1, NP_061984.2, NP_001020330.1) were retrieved from NCBI (https://www.ncbi.nlm.nih.gov). SWISSMODEL Server (https://swissmodel.expasy.org/) was utilized for modelling of 3-D structures of HLA class<br/><br/>I and HLA class II, But for TLR-3 the data in PDB bank was used and optimized by chimera 1.12 [14.]<br/><br/>2.2 Multiple sequence alignment and antigen selection<br/><br/>To determine exclusive conserved sequence of the coronavirus surface glycoprotein, NCBI BLAST was performed (https://blast.ncbi.nlm.nih.gov/Blast.cgi). Also, for defining the conserved region (s) in the protein sequences, multiple sequence alignment was done by<br/><br/>Multalin server (https://www.multalin.toulouse.inra.fr/multalin). Additionally, the antigenicity of the coronavirus surface glycoprotein was evaluated using    VaxiJen<br/><br/>2.0 server (http://www.ddgpharmfac.net/vaxijen/VaxiJen/VaxiJen.html[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Finally, the most particular conserved sequence and antigenic peptide were selected for further analysis.<br/><br/>2.3 B-cell epitope prediction and selection<br/><br/>Linear B-cell epitopes in the vaccine model were predicted using ElliPro (http://crdd.osdd.net/raghava/bcepred) [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] and IEDB analysis Resource (http://tools.iedb.org/population)    [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>].<br/><br/>2.4 T-cell epitope prediction and selection<br/><br/>MHC-I restricted epitopes were predicted through ProPred-1 server (http://tools.immuneepitope.org/analyze/html/mhc_binding.html) [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. The server uses special patterns for HLA-A*03:01 allele. Similarly, MHC-II restricted epitopes were predicted using ProPred server (http://tools.immuneepitope.org/mhcii). The server uses special patterns for DRB1*01:07 allele. Finally, the conserved sequence and antigenic peptide were selected for further analysis.<br/><br/>2.5 Construction of final vaccine author/funder. It is made available under a CC-BY 4.0 International license.<br/><br/>Seventeen suitable common B-cell and T-cell epitopes (9-16 amino acids) from coronavirus surface glycoprotein were selected and organized in the final vaccine construct. Then, these epitopes were merged together with AAY, KK linkers and considered as a multi-epitope vaccine. One adjuvant \u201c50S ribosomal protein L7/L12<br/><br/>(MSDINKLAETLVNLKIVEVNDLAKILKEKYGLDPSANLAIPSLPKAEILDKSKEKTSFDLILKGAG<br/><br/>SAKLTVVKRIKDLIGLGLKESKDLVDNVPKHLKKGLSKEEAESLKKQLEEVGAEVELK)<br/><br/>with 124 amino acids were incorporated with EAAAK linker at N-terminal portion of the constructs.<br/><br/>The sequence of the designed vaccine structures with their adjuvant are depicted in Table 3. The final<br/><br/>2.6 Physicochemical properties analysis<br/><br/>In this research, five characteristics (molecular weight, theoretical pI, extinction coefficient, aliphatic index and grand average of hydropathicity) of the constructed vaccine was evaluated using ProtParam server (http://web.expasy.org/protparam).<br/><br/>2.7 Secondary structure analysis<br/><br/>The frequency of the secondary structure of the constructed vaccines (alpha helix, extended strand and random coil) were computed using GOR IV web server (http://npsa-pbil.ibcp.fr/cgibin/npsa_automat.pl?page=npsa_gor4.html).<br/><br/>vaccines (IV1) stretch was found to be 398 amino acids.<br/><br/>2.8 Molecular docking study<br/><br/>To confirm the binding affinity of the best vaccine to MHC-I and MHC-II molecules, molecular docking was done between the selected vaccines and five HLA-1 structures (NP_001229971.1, NP_001229687.1 , NP_002118.1 , NP_061823.2 , NP_005507.3 ), also six HLA-2 proteins (accession numbers: NP_001229454.1 , NP_006111.2 , NP_001230891.1 , NP_002110.1 , NP_061984.2 , NP_001020330.1)<br/><br/>and TLR-3 (PDB ID: 2A0Z) separately. Molecular docking studies were done using H-dock server (https://bioinfo3d.cs.tau.ac.il/ PatchDock/) with default complex type and clustering RMSD of 4\u00c5. The binding sites of final construct and TLR3 were studied using fully automated protein-ligand interaction profiler server (PLIP; https://projects.biotec.tu-dresden.de/plip-web/plip/index). The outputs of PLIP were in XML format, flat text, and visualization files [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. The visualization files were visualized using PyMOL software (windows version 2.0.7). Then, seventeen epitopes were synthetized by Zist Mobin company (Isfahan, Iran ) at the recommended purity for ELISPOT assay.<br/><br/>2.9 Human PBMC preparation<br/><br/>Peripheral Blood Mononuclear Cells (PBMCs) from five healthy volunteers were separated on density gradient centrifugation (lymphodex). The PBMCs were grown in RPMI medium supplemented with 10%<br/><br/>(v/v) heat inactivated Fetal Calf Serum (FCS; Gibco-BRL, Grand Island, NY, USA), 100 U/ml penicillin, mg/ml streptomycin, 2 mM glutamine and 1 mM Na-pyruvate and activated with 5 \u03bcg/ml phytohemagglutinin (PHA) and IL-2. .<br/><br/>2.10 IFN\u03b3-ELISPOT assay<br/><br/>IFN\u03b3-ELISPOT assay was used to identify the prevalence of pre-existing CD4+ Tcell immunity. Human<br/><br/>IFN-\u03b3 ELISPOTPRO kits from Mabtech, Nacka Strand, Sweden were used to quantify the frequency of epitope-specific IFN-\u03b3 secreting T cells in PBMCs. PBMCs (106 ) of each healthy donor were incubated with each of the synthetic epitopes in ELISPOT plates. The epitope-specific CD4+ T cell responses were determined after 24 hours. Each spot-forming unit (SFU) corresponds to one IFN\u03b3-secreting T cell. Results are expressed as numbers of SFU per 106 PBMC. The negative control was PBMCs in medium without epitope stimulation and was used to evaluate the spontaneous secretion of IFN\u03b3. The positive control was polyclonal activator anti-CD3 monoclonal antibody, which determine T cell numbers and viability of the immunoassay."
+        ],
+        "results": [
+            "3.1 Multiple sequence alignment and antigen selection<br/><br/>Initially, coronavirus surface glycoprotein was studied for determining specific conserved part of protein between the virus serotypes. Results of protein BLAST are shown in Table 1. The results demonstrated that coronavirus surface glycoprotein had the most conservancy levels between 97. 8 and 100. Also, VaxiJen score of the protein showed high antigenicity. Due to having good antigenicity, high exposure probability to the immune system and high conservancy, this protein was selected for vaccine design.<br/><br/>3.2 T-cell and B-cell epitope prediction<br/><br/>In the current study, some appropriate common B-cell and T-cell epitopes were designed. The predicted<br/><br/>MHC-I and MHC-II restricted epitopes were compared to B-cell epitopes to determine shared epitopes (Table 2). Finally, 17 epitopes with 9-16 amino acids were selected. These epitopes are located between residues 14-642. These epitopes exhibited a relatively high aliphatic index (>60), high antigenicity (>1.6)<br/><br/>and low instability index (less than 20). The most potent epitope was repeated three times and merged into the other epitopes using suitable linkers (KK, AYY) for organization of final vaccine construct.<br/><br/>3.3 Antigen selectivity of constructed vaccines<br/><br/>Final construct vaccine was composed of 398 amino acids which were respectively attached to 50S ribosomal protein L7/L12 as adjuvant. The antigenicity score of constructed vaccine are shown in<br/><br/>3.4 Physicochemical properties<br/><br/>Physicochemical properties of the constructed vaccine was predicted using Protparam server. The results revealed that this multi-epitope vaccine have low instability \u201cas a value below 40\u201d predicts that the protein is stable. The IV1 construct showed the highest Isoelectric point with 8.52 value. From the aliphatic Index of view, this construct showed aliphatic index more than 90 % (Table 4). The results of gor4 demonstrated that the random coil values of the IV1 were high compared to Alpha helix and extended structure.<br/><br/>3.5 Analysis of docking results<br/><br/>The results of docking the constructions with HLA-1 and HLA-2 confirmed the high values with IV1 construct. Also, the results of TLR-3 analysis showed values of 1680.569 for IV1 which demonstrate the high efficacy of vaccine construct (Tables 5). Figure 2 indicate docking results of the Vac1 construct with the TLR-3 as the examples of vaccines potential for interaction. The results showed that TLR-3 have interaction to Glu115, Gly 118 residues of AV1.<br/><br/>We examined the numbers of primed CD4+ cells that produced IFN\u2010\u03b3 in response to epitopes, using<br/><br/>ELISPOT assays described in Table 5. The CD4+ T cellular memory responses of highest magnitude were obtained for epitopes 10, 11 and 12 with mean SFU across all responding donors as: 35.0, 37.3 and 38.2 respectively. The results demonstrated that these donors showed very low response to epitopes 17 and 1 just above the cut-off (11 and 15 SFU respectively). The IFN-\u03b3 producing T cell variation ranged from<br/><br/>11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1 SFU per 106 PBMCs among all five donors. Only four donors out of five donors (D5, D10, D11, and D14) responded to Epitope 1, 2, 4 and 17 conserved epitopes and the responses were of a low magnitude (Table 6)."
+        ],
+        "discussion": [
+            "Due to the nature of coronavirus and high infectious rate, the progress of a vaccine against coronavirus is very challenging. Though, with the development of computational methods, these limitations are reduced.<br/><br/>By the way, using computational methods, the design of recombinant vaccines and the estimation of physicochemical properties as well as vaccines efficacy could be available [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>] [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Then, this research was intended to design an effective multi-epitope recombinant vaccine against coronavirus using a unique multi-step bioinformatics approach. Our potent multi-epitope vaccine is contained seventeen epitopes in surface glycoprotein of coronavirus along with AAY and KK linkers and 50S ribosomal protein L7/L12 as adjuvant. Based on our knowledge, there is no report about computational design of epitope-based vaccine for coronavirus. Recently, in silico, design of epitope-based vaccine was used for vaccine development against several infectious diseases. Several bioinformatics tools have been established that accelerate the growth of multi epitope-based vaccines. In recent decade, several multiepitope vaccines for pathogenic viruses have been reported. Multi epitope vaccines could provide an effective immunization against different serotypes of a pathogen. Despite mentioned advantages of Multi epitope vaccines, poor immunogenicity is considered as a major drawback to growth of these vaccines [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>], [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. The in-silico results proposed that our multi-epitope vaccine was very stable with high aliphatic index and it was potentially antigenic. As reported earlier, high aliphatic index shows the higher thermos-stability of the constructed vaccine. At the present research, the aliphatic index was high, and instability was low and<br/><br/>Gravy indices were negative. Also, the higher PI, as the case of this study, shows the higher potential for cell wall attachment. However, the proposed vaccine has high antigenicity. This was chosen for docking studies. The results demonstrated that our mentioned vaccine could be a right candidate for experimental research [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]."
+        ],
+        "conclusion": [
+            "This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus. The multi-epitope vaccine presented by this study showed promising result through in silico step, which could be followed by in vitro and in vivo studies."
+        ],
+        "disclosures": [
+            "Authors declare no conflict of interest."
+        ],
+        "acknowledgment": [
+            "We wish to thank the University of Isfahan for their supports."
+        ],
+        "design": [
+            "Current Drug Targets. 17(1):122-35.<br/><br/>4. Kumar M, Thakur V, Raghava GP (2008) \u201cCOPid: composition based protein identification. In silico b10.Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO, et al An overview of bioinformatics tools for epitope prediction: implications on vaccine Development. J Biomed Inform. 2015;53, 405\u2013414. doi: 10.1016/j.jbi.2014.11.003.iology. 8:121-128.<br/><br/>5. Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO (2015) t al. An overview of bioinformatics tools for epitope prediction: implications on vaccine Development. J Biomed Inform. 2015;53, 405\u2013414. doi: 10.1016/j.jbi.2014.11.003.<br/><br/>6.Bissati KE, Chentoufi AA, Krishack PA (2016) Adjuvanted multi-epitope vaccines protect HLA-A* 11: transgenic mice against Toxoplasma gondii. JCI Insight. 1(15): doi: 10.1172/jci.insight.85955.<br/><br/>7.Escalona E, Saez D, Onate A (2017) Immunogenicity of a multi-epitope dna vaccine encoding epitopes from Cu\u2013Zn superoxide dismutase and open reading Frames of Brucella abortus in mice. Frontiers<br/><br/>Immunology. 8, 125<br/><br/>8.Rodrigues-da-Silva RN, Martins da Silva JH, Singh B (2016) In silico identification and validation of a linear and naturally immunogenic B-cell epitope of the Plasmodium vivax malaria vaccine candidate merozoite surface protein-9. Plos One;11(1): e 0146951. doi: 10.1371<br/><br/>9.Nezafat N, Karimi Z, Eslami M (2016) Designing an efficient multi-epitope peptide vaccine against<br/><br/>Vibrio cholerae via combined immunoinformatics and protein interaction based approaches.<br/><br/>Computational Biology and Chemistry. 62: 82\u201395. doi:10.1016/j.compbiolchem.2016.04.006<br/><br/>10.Yang Y, Sun W, Guo J, et al In silico design of a DNA based HIV-1 multi-epitope vaccine for<br/><br/>Chinese populations. Human Vaccines Immunother. 2015;11(3): 795\u2013805. doi: 10.1080/21645515.2015.1012017<br/><br/>11.Nosrati M, Mohabatkar H, Behbahani M (2017) A novel multi-epitope vaccine for cross protection against Hepatitis C Virus (HCV): an immunoinformatics. Approach Research in Molecular Medicine    5(1): 17\u201326.<br/><br/>12.Rahjerdi AK, AmaniJ, Rad I (2016) Designing and structure evaluation of multi-epitope vaccine against ETEC and EHEC, an in silico approach.Protein Peptide Letters. 23(1): 33\u201342.<br/><br/>13.Oscherwitz J (2016) The promise and challenge of epitope-focused vaccines. Human Vaccines<br/><br/>Immunother.; 12(8): 2113\u20132116.<br/><br/>14. Conrad C. Huang, Elaine C. Meng, John H. Morris (2014) Enhancing UCSF Chimera through web services. Nucleic Acids Research. 42(1):478-484. https://doi.org/10.1093/nar/gku377<br/><br/>15.Doytchinova IA, Flower DR (2007) VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines. BMC Bioinformatics.<br/><br/>16.Duquesnoy R, Marrari M (2017) Usefulness of the ElliPro epitope predictor program in defining the repertoire of HLA-ABC eplets. Hum .78( 7-8): 481-488. doi:10.1016/j.humimm.03.005<br/><br/>17.Beaver JE, Bourne PE, Ponomarenko JV (2007) Epitope Viewer: a Java application for the visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource (IEDB). Immunome Res DOI:10.1186/1745-7580-3-3.<br/><br/>18. Patronov AI. Doytchinov I (2013) T-cell epitope vaccine design by immunoinformatics. Open Biol.<br/><br/>2013; 3(1):120139. doi: 10.1098/rsob.120139.<br/><br/>19.Salentin S, Schreiber S, Haupt VJ (2015) PLIP: fullyautomated protein\u2013ligand interaction profiler.<br/><br/>Nucleic Acids Research ;43: W443\u2013W447.https://doi.org/10.1093/nar/gkv315<br/><br/>20. Roosa K. , Lee Y., Luo R., Kirpich A., Rothenberg R., et al (2020) Hyman J.M., Yan P., and G.<br/><br/>Chowell, Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 2020, Infect Dis Model. 2020; 5: 256\u2013263.<br/><br/>21. Ai S., Zhu G., Tian F., Li H., Gao Y., Wu Y., Lin H (2020) Population movement, city closure and spatial transmission of the 2019-nCoV infection in China.<br/><br/>22.Paul S, Piontkivska H (2010) Frequent associations between CTL and T-Helper epitopes in HIV-1 genomes and implications for multi-epitope vaccine designs. BMC Microbiology. 10:212. doi: 10.1186/1471-2180-10-212<br/><br/>23.Hajighahramani N, Nezafat N, Eslami M, et al (2017) Immunoinformatics analysis and in silico designing of a novel multiepitope peptide vaccine against Staphylococcus aureus. Infection Genetics and<br/><br/>Evolution. 48: 83\u201394. doi: 10.1016/j.meegid<br/><br/>24.Solanki V, Tiwari M, Tiwari V. (2019) Prioritization of potential vaccine targets using comparative proteomics and designing of the chimeric multi-epitope vaccine against Pseudomonas aeruginosa.<br/><br/>Scientific Reports. 9.    Protein<br/><br/>Average antigenicity    VaxiJen score<br/><br/>Minimum identity (%)<br/><br/>Maximum identity (%)<br/><br/>Coronavirus surface glycoprotein    Sequence    KLNDLCFTN    KLNDLCFTNV    KLNDLCFTNVY    PTKLNDLCFTN    SPTKLNDLCFTN    VSPTKLNDLCFTN    KLNDLCFTNVYA    KLNDLCFTNVYAD    LNDLCFTNV    GVSPTKLNDLCFTN    YGVSPTKLNDLCFTN    CYGVSPTKLNDLCFTN    CVNLTTRTQ    QCVNLTTRTQ    LDITPCSFGGVSV    LDITPCSFGGVSVI    VKNKCVNFN    Length    StartEnd    Vaxijen<br/><br/>Isoelectric point    Aliphatic    Vaccine<br/><br/>MSDINKLAETLVNLKIVEVNDLAKILKEKYGLDPSANLAIPSLPKAEILDKSKEKTSF<br/><br/>DLILKGAGSAKLTVVKRIKDLIGLGLKESKDLVDNVPKHLKKGLSKEEAESLKKQL<br/><br/>EEVGAEVELKEAAAKKLNDLCFTNAAYKLNDLCFTNAAYKLNDLCFTNAAYKLND<br/><br/>LCFTNVAAYKLNDLCFTNVYAAYPTKLNDLCFTNAAYSPTKLNDLCFTNAAYVSPT<br/><br/>KLNDLCFTNAAYLNDLCFTNVAAYKLNDLCFTNVYAAAYKLNDLCFTNVYADAAY<br/><br/>GVSPTKLNDLCFTNAAYYGVSPTKLNDLCFTNAAYCYGVSPTKLNDLCFTNAAYCV<br/><br/>NLTTRTQAAYQCVNLTTRTQKKLDITPCSFGGVSVKKLDITPCSFGGVSVIKKVKN    KCVNFN    IV1    Molecular weight    Aliphatic index    GRAVY    Instability    Alpha    Extended    Random coil    Hla1A1    Hla1Chain    G    E    F    CW-1    TLR3<br/><br/>Hla2 antigen gama chain    Hla2DM    Hla2DO    Hla2DP    Hla2DQ    Hla2- DR    Donor    EP1    EP2    EP3    EP4    EP5    EP6    EP7    EP8    EP9    EP10    EP11    EP12    EP13    EP14    EP15    EP16    EP17    2\u00b1    23.2\u00b1    35.0\u00b1    \u00b12    \u00b11.9    \u00b11.8    \u00b12.2    \u00b11.6    \u00b12.6    \u00b12.1    \u00b11.7    \u00b11.2"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "It is of special significance to find a safe and effective vaccine against coronavirus disease 2019 (COVID19) that can induce T cell and B cell -mediated immune responses. There is currently no vaccine to prevent",
+            "COVID-19. In this project, a novel multi-epitope vaccine for COVID-19 virus based on surface glycoprotein was designed through application of bioinformatics methods. At the first, seventeen potent linear B-cell and T-cell binding epitopes from surface glycoprotein were predicted in silico, then the epitopes were joined together via different linkers. The immunogenicity of these epitopes was identified using IFN-\u03b3 ELIspot assays. The IFN-\u03b3 producing T cell variation ranged from 11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1",
+            "SFU per 106 PBMCs. One final vaccine was constructed which composed of 398 amino acids and attached to 50S ribosomal protein L7/L12 as adjuvant. Physicochemical properties, as well as antigenicity in the proposed vaccines, were checked for defining the vaccine stability and its ability to induce cell-mediated immune responses. Three-dimensional structure of the mentioned vaccine was subjected to the molecular docking studies with MHC-I and MHC-II molecules. The results proposed that the multi-epitope vaccine with 50S ribosomal protein L7/L12 was very stable with high aliphatic content and high antigenicity."
+        ],
+        "1. Introduction": [
+            "In early 2020, COVID-19 began generating headlines all over the world because of the extraordinary speed of its transmission. So, there are rising concerns about community infections. Vaccination is one of the most effective tools to prevent infectious diseases [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>][<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. As far as our knowledge concerns, there is no report about developing COVID-19 multi epitope vaccine. Therefore, we became eager to design potent multiepitope vaccines from antigenic sites of coronavirus surface glycoprotein. The multiepitope vaccines have advantageous over conventional vaccines with regards to safety profile and high immunogenicity [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Multiepitope vaccines have the potential to induce responses restricted by a wide variety of HLA molecules and generate a balanced CD4+ and CD8+ cellular immune response. Another molecule that contribute to innate immunity contains TLR3 that activates antiviral mechanism during infection. Recently, in silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases. Some bioinformatics tools could facilitate the development of multi epitope-based vaccines. The computational tools can optimize the extensive immunological data such as antigen presentation and processing to achieve specific interpretations [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. In recent decades, several vaccines were established based on in silico methods that include efficient vaccines against Toxoplasma gondii [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>], Brucella abortus [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], Escherichia coli [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>], Vibrio cholera [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], Human immunodeficiency virus-1 [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], Hepatitis C virus [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] and many others. In several experimental studies, the efficacy of computationally designed vaccines has been recently approved for use in defined human vaccines [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>][<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. In this study, in silico analysis were performed to determine exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein that are antigenically most significant for coronavirus. In our research, some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length. The selected epitopes were merged into each other using suitable linkers for organization of final vaccine construct. Consequently, the stability and efficacy of the vaccines were predicted by a set of bioinformatics methods."
+        ],
+        "2. Material and methods": [],
+        "2.1 Data collection": [
+            "At the first step of our study, the reference amino acid sequences of coronavirus surface glycoprotein (YP001856243.1), five",
+            "HLA-1 (NP_001229971.1, NP_001229687.1, NP_002118.1, NP_061823.2, NP_005507.3) and six HLA-2 protein (NP_001229454.1, NP_006111.2, NP_001230891.1, NP_002110.1, NP_061984.2, NP_001020330.1) were retrieved from NCBI (https://www.ncbi.nlm.nih.gov). SWISSMODEL Server (https://swissmodel.expasy.org/) was utilized for modelling of 3-D structures of HLA class",
+            "I and HLA class II, But for TLR-3 the data in PDB bank was used and optimized by chimera 1.12 [14.]"
+        ],
+        "2.2 Multiple sequence alignment and antigen selection": [
+            "To determine exclusive conserved sequence of the coronavirus surface glycoprotein, NCBI BLAST was performed (https://blast.ncbi.nlm.nih.gov/Blast.cgi). Also, for defining the conserved region (s) in the protein sequences, multiple sequence alignment was done by",
+            "Multalin server (https://www.multalin.toulouse.inra.fr/multalin). Additionally, the antigenicity of the coronavirus surface glycoprotein was evaluated using",
+            "2.0 server (http://www.ddgpharmfac.net/vaxijen/VaxiJen/VaxiJen.html[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]. Finally, the most particular conserved sequence and antigenic peptide were selected for further analysis."
+        ],
+        "2.3 B-cell epitope prediction and selection": [
+            "Linear B-cell epitopes in the vaccine model were predicted using ElliPro (http://crdd.osdd.net/raghava/bcepred) [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] and IEDB analysis Resource (http://tools.iedb.org/population)",
+            "[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]."
+        ],
+        "2.4 T-cell epitope prediction and selection": [
+            "MHC-I restricted epitopes were predicted through ProPred-1 server (http://tools.immuneepitope.org/analyze/html/mhc_binding.html) [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. The server uses special patterns for HLA-A*03:01 allele. Similarly, MHC-II restricted epitopes were predicted using ProPred server (http://tools.immuneepitope.org/mhcii). The server uses special patterns for DRB1*01:07 allele. Finally, the conserved sequence and antigenic peptide were selected for further analysis.",
+            "2.5 Construction of final vaccine author/funder. It is made available under a CC-BY 4.0 International license.",
+            "Seventeen suitable common B-cell and T-cell epitopes (9-16 amino acids) from coronavirus surface glycoprotein were selected and organized in the final vaccine construct. Then, these epitopes were merged together with AAY, KK linkers and considered as a multi-epitope vaccine. One adjuvant \u201c50S ribosomal protein L7/L12",
+            "with 124 amino acids were incorporated with EAAAK linker at N-terminal portion of the constructs.",
+            "The sequence of the designed vaccine structures with their adjuvant are depicted in Table 3. The final"
+        ],
+        "2.6 Physicochemical properties analysis": [
+            "In this research, five characteristics (molecular weight, theoretical pI, extinction coefficient, aliphatic index and grand average of hydropathicity) of the constructed vaccine was evaluated using ProtParam server (http://web.expasy.org/protparam)."
+        ],
+        "2.7 Secondary structure analysis": [
+            "The frequency of the secondary structure of the constructed vaccines (alpha helix, extended strand and random coil) were computed using GOR IV web server (http://npsa-pbil.ibcp.fr/cgibin/npsa_automat.pl?page=npsa_gor4.html).",
+            "vaccines (IV1) stretch was found to be 398 amino acids."
+        ],
+        "2.8 Molecular docking study": [
+            "To confirm the binding affinity of the best vaccine to MHC-I and MHC-II molecules, molecular docking was done between the selected vaccines and five HLA-1 structures (NP_001229971.1, NP_001229687.1 , NP_002118.1 , NP_061823.2 , NP_005507.3 ), also six HLA-2 proteins (accession numbers: NP_001229454.1 , NP_006111.2 , NP_001230891.1 , NP_002110.1 , NP_061984.2 , NP_001020330.1)",
+            "and TLR-3 (PDB ID: 2A0Z) separately. Molecular docking studies were done using H-dock server (https://bioinfo3d.cs.tau.ac.il/ PatchDock/) with default complex type and clustering RMSD of 4\u00c5. The binding sites of final construct and TLR3 were studied using fully automated protein-ligand interaction profiler server (PLIP; https://projects.biotec.tu-dresden.de/plip-web/plip/index). The outputs of PLIP were in XML format, flat text, and visualization files [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. The visualization files were visualized using PyMOL software (windows version 2.0.7). Then, seventeen epitopes were synthetized by Zist Mobin company (Isfahan, Iran ) at the recommended purity for ELISPOT assay."
+        ],
+        "2.9 Human PBMC preparation": [
+            "Peripheral Blood Mononuclear Cells (PBMCs) from five healthy volunteers were separated on density gradient centrifugation (lymphodex). The PBMCs were grown in RPMI medium supplemented with 10%",
+            "(v/v) heat inactivated Fetal Calf Serum (FCS; Gibco-BRL, Grand Island, NY, USA), 100 U/ml penicillin, mg/ml streptomycin, 2 mM glutamine and 1 mM Na-pyruvate and activated with 5 \u03bcg/ml phytohemagglutinin (PHA) and IL-2. ."
+        ],
+        "2.10 IFN\u03b3-ELISPOT assay": [
+            "IFN\u03b3-ELISPOT assay was used to identify the prevalence of pre-existing CD4+ Tcell immunity. Human",
+            "IFN-\u03b3 ELISPOTPRO kits from Mabtech, Nacka Strand, Sweden were used to quantify the frequency of epitope-specific IFN-\u03b3 secreting T cells in PBMCs. PBMCs (106 ) of each healthy donor were incubated with each of the synthetic epitopes in ELISPOT plates. The epitope-specific CD4+ T cell responses were determined after 24 hours. Each spot-forming unit (SFU) corresponds to one IFN\u03b3-secreting T cell. Results are expressed as numbers of SFU per 106 PBMC. The negative control was PBMCs in medium without epitope stimulation and was used to evaluate the spontaneous secretion of IFN\u03b3. The positive control was polyclonal activator anti-CD3 monoclonal antibody, which determine T cell numbers and viability of the immunoassay."
+        ],
+        "3. Results": [],
+        "3.1 Multiple sequence alignment and antigen selection": [
+            "Initially, coronavirus surface glycoprotein was studied for determining specific conserved part of protein between the virus serotypes. Results of protein BLAST are shown in Table 1. The results demonstrated that coronavirus surface glycoprotein had the most conservancy levels between 97. 8 and 100. Also, VaxiJen score of the protein showed high antigenicity. Due to having good antigenicity, high exposure probability to the immune system and high conservancy, this protein was selected for vaccine design."
+        ],
+        "3.2 T-cell and B-cell epitope prediction": [
+            "In the current study, some appropriate common B-cell and T-cell epitopes were designed. The predicted",
+            "MHC-I and MHC-II restricted epitopes were compared to B-cell epitopes to determine shared epitopes (Table 2). Finally, 17 epitopes with 9-16 amino acids were selected. These epitopes are located between residues 14-642. These epitopes exhibited a relatively high aliphatic index (>60), high antigenicity (>1.6)",
+            "and low instability index (less than 20). The most potent epitope was repeated three times and merged into the other epitopes using suitable linkers (KK, AYY) for organization of final vaccine construct."
+        ],
+        "3.3 Antigen selectivity of constructed vaccines": [
+            "Final construct vaccine was composed of 398 amino acids which were respectively attached to 50S ribosomal protein L7/L12 as adjuvant. The antigenicity score of constructed vaccine are shown in"
+        ],
+        "3.4 Physicochemical properties": [
+            "Physicochemical properties of the constructed vaccine was predicted using Protparam server. The results revealed that this multi-epitope vaccine have low instability \u201cas a value below 40\u201d predicts that the protein is stable. The IV1 construct showed the highest Isoelectric point with 8.52 value. From the aliphatic Index of view, this construct showed aliphatic index more than 90 % (Table 4). The results of gor4 demonstrated that the random coil values of the IV1 were high compared to Alpha helix and extended structure."
+        ],
+        "3.5 Analysis of docking results": [
+            "The results of docking the constructions with HLA-1 and HLA-2 confirmed the high values with IV1 construct. Also, the results of TLR-3 analysis showed values of 1680.569 for IV1 which demonstrate the high efficacy of vaccine construct (Tables 5). Figure 2 indicate docking results of the Vac1 construct with the TLR-3 as the examples of vaccines potential for interaction. The results showed that TLR-3 have interaction to Glu115, Gly 118 residues of AV1.",
+            "We examined the numbers of primed CD4+ cells that produced IFN\u2010\u03b3 in response to epitopes, using",
+            "ELISPOT assays described in Table 5. The CD4+ T cellular memory responses of highest magnitude were obtained for epitopes 10, 11 and 12 with mean SFU across all responding donors as: 35.0, 37.3 and 38.2 respectively. The results demonstrated that these donors showed very low response to epitopes 17 and 1 just above the cut-off (11 and 15 SFU respectively). The IFN-\u03b3 producing T cell variation ranged from",
+            "11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1 SFU per 106 PBMCs among all five donors. Only four donors out of five donors (D5, D10, D11, and D14) responded to Epitope 1, 2, 4 and 17 conserved epitopes and the responses were of a low magnitude (Table 6)."
+        ],
+        "4. Discussion": [
+            "Due to the nature of coronavirus and high infectious rate, the progress of a vaccine against coronavirus is very challenging. Though, with the development of computational methods, these limitations are reduced.",
+            "By the way, using computational methods, the design of recombinant vaccines and the estimation of physicochemical properties as well as vaccines efficacy could be available [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>] [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Then, this research was intended to design an effective multi-epitope recombinant vaccine against coronavirus using a unique multi-step bioinformatics approach. Our potent multi-epitope vaccine is contained seventeen epitopes in surface glycoprotein of coronavirus along with AAY and KK linkers and 50S ribosomal protein L7/L12 as adjuvant. Based on our knowledge, there is no report about computational design of epitope-based vaccine for coronavirus. Recently, in silico, design of epitope-based vaccine was used for vaccine development against several infectious diseases. Several bioinformatics tools have been established that accelerate the growth of multi epitope-based vaccines. In recent decade, several multiepitope vaccines for pathogenic viruses have been reported. Multi epitope vaccines could provide an effective immunization against different serotypes of a pathogen. Despite mentioned advantages of Multi epitope vaccines, poor immunogenicity is considered as a major drawback to growth of these vaccines [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>], [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. The in-silico results proposed that our multi-epitope vaccine was very stable with high aliphatic index and it was potentially antigenic. As reported earlier, high aliphatic index shows the higher thermos-stability of the constructed vaccine. At the present research, the aliphatic index was high, and instability was low and",
+            "Gravy indices were negative. Also, the higher PI, as the case of this study, shows the higher potential for cell wall attachment. However, the proposed vaccine has high antigenicity. This was chosen for docking studies. The results demonstrated that our mentioned vaccine could be a right candidate for experimental research [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]."
+        ],
+        "Conclusion": [
+            "This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus. The multi-epitope vaccine presented by this study showed promising result through in silico step, which could be followed by in vitro and in vivo studies."
+        ],
+        "Conflict of interest": [
+            "Authors declare no conflict of interest."
+        ],
+        "Acknowledgment": [
+            "We wish to thank the University of Isfahan for their supports."
+        ],
+        "References": [
+            "1. Li Q., Guan X., Wu P., Wang X., Zhou L (2020) Tong Y., Feng Z. Early transmission dynamics in",
+            "Wuhan, China, of novel coronavirus-infected pneumonia. New England Journal of Medicine.",
+            "2. World Health Organization Novel coronavirus (2019-nCoV) situation reports.",
+            "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports",
+            "3. Cicala C, Nawaz F, Jelicic K, et al (2016) HIV-1 gp120: A Target for Therapeutics and Vaccine",
+            "Design. Current Drug Targets. 17(1):122-35.",
+            "4. Kumar M, Thakur V, Raghava GP (2008) \u201cCOPid: composition based protein identification. In silico b10.Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO, et al An overview of bioinformatics tools for epitope prediction: implications on vaccine Development. J Biomed Inform. 2015;53, 405\u2013414. doi: 10.1016/j.jbi.2014.11.003.iology. 8:121-128.",
+            "5. Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO (2015) t al. An overview of bioinformatics tools for epitope prediction: implications on vaccine Development. J Biomed Inform. 2015;53, 405\u2013414. doi: 10.1016/j.jbi.2014.11.003.",
+            "6.Bissati KE, Chentoufi AA, Krishack PA (2016) Adjuvanted multi-epitope vaccines protect HLA-A* 11: transgenic mice against Toxoplasma gondii. JCI Insight. 1(15): doi: 10.1172/jci.insight.85955.",
+            "7.Escalona E, Saez D, Onate A (2017) Immunogenicity of a multi-epitope dna vaccine encoding epitopes from Cu\u2013Zn superoxide dismutase and open reading Frames of Brucella abortus in mice. Frontiers",
+            "Immunology. 8, 125",
+            "8.Rodrigues-da-Silva RN, Martins da Silva JH, Singh B (2016) In silico identification and validation of a linear and naturally immunogenic B-cell epitope of the Plasmodium vivax malaria vaccine candidate merozoite surface protein-9. Plos One;11(1): e 0146951. doi: 10.1371",
+            "9.Nezafat N, Karimi Z, Eslami M (2016) Designing an efficient multi-epitope peptide vaccine against",
+            "Vibrio cholerae via combined immunoinformatics and protein interaction based approaches.",
+            "Computational Biology and Chemistry. 62: 82\u201395. doi:10.1016/j.compbiolchem.2016.04.006",
+            "10.Yang Y, Sun W, Guo J, et al In silico design of a DNA based HIV-1 multi-epitope vaccine for",
+            "Chinese populations. Human Vaccines Immunother. 2015;11(3): 795\u2013805. doi: 10.1080/21645515.2015.1012017",
+            "11.Nosrati M, Mohabatkar H, Behbahani M (2017) A novel multi-epitope vaccine for cross protection against Hepatitis C Virus (HCV): an immunoinformatics. Approach Research in Molecular Medicine",
+            "5(1): 17\u201326.",
+            "12.Rahjerdi AK, AmaniJ, Rad I (2016) Designing and structure evaluation of multi-epitope vaccine against ETEC and EHEC, an in silico approach.Protein Peptide Letters. 23(1): 33\u201342.",
+            "13.Oscherwitz J (2016) The promise and challenge of epitope-focused vaccines. Human Vaccines",
+            "Immunother.; 12(8): 2113\u20132116.",
+            "14. Conrad C. Huang, Elaine C. Meng, John H. Morris (2014) Enhancing UCSF Chimera through web services. Nucleic Acids Research. 42(1):478-484. https://doi.org/10.1093/nar/gku377",
+            "15.Doytchinova IA, Flower DR (2007) VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines. BMC Bioinformatics.",
+            "16.Duquesnoy R, Marrari M (2017) Usefulness of the ElliPro epitope predictor program in defining the repertoire of HLA-ABC eplets. Hum .78( 7-8): 481-488. doi:10.1016/j.humimm.03.005",
+            "17.Beaver JE, Bourne PE, Ponomarenko JV (2007) Epitope Viewer: a Java application for the visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource (IEDB). Immunome Res DOI:10.1186/1745-7580-3-3.",
+            "18. Patronov AI. Doytchinov I (2013) T-cell epitope vaccine design by immunoinformatics. Open Biol.",
+            "2013; 3(1):120139. doi: 10.1098/rsob.120139.",
+            "19.Salentin S, Schreiber S, Haupt VJ (2015) PLIP: fullyautomated protein\u2013ligand interaction profiler.",
+            "Nucleic Acids Research ;43: W443\u2013W447.https://doi.org/10.1093/nar/gkv315",
+            "20. Roosa K. , Lee Y., Luo R., Kirpich A., Rothenberg R., et al (2020) Hyman J.M., Yan P., and G.",
+            "Chowell, Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 2020, Infect Dis Model. 2020; 5: 256\u2013263.",
+            "21. Ai S., Zhu G., Tian F., Li H., Gao Y., Wu Y., Lin H (2020) Population movement, city closure and spatial transmission of the 2019-nCoV infection in China.",
+            "22.Paul S, Piontkivska H (2010) Frequent associations between CTL and T-Helper epitopes in HIV-1 genomes and implications for multi-epitope vaccine designs. BMC Microbiology. 10:212. doi: 10.1186/1471-2180-10-212",
+            "23.Hajighahramani N, Nezafat N, Eslami M, et al (2017) Immunoinformatics analysis and in silico designing of a novel multiepitope peptide vaccine against Staphylococcus aureus. Infection Genetics and",
+            "Evolution. 48: 83\u201394. doi: 10.1016/j.meegid",
+            "24.Solanki V, Tiwari M, Tiwari V. (2019) Prioritization of potential vaccine targets using comparative proteomics and designing of the chimeric multi-epitope vaccine against Pseudomonas aeruginosa.",
+            "Scientific Reports. 9.",
+            "Fig 1: Molecular docking analysis of IV1construct with TLR-3. The results showed that TLR-3 have interaction to Glu 115 and Gly 118 residues of AV1",
+            "Table 1: Results of the antigenicity and BLAST of coronavirus surface glycoprotein and antigenicity prediction",
+            "Protein",
+            "Average antigenicity",
+            "VaxiJen score",
+            "Minimum identity (%)",
+            "Maximum identity (%)",
+            "Coronavirus surface glycoprotein",
+            "0.4",
+            "Table 2: Result of final T-cell and B-cell epitope prediction screening from coronavirus surface glycoprotein",
+            "Sequence",
+            "KLNDLCFTN",
+            "KLNDLCFTNV",
+            "KLNDLCFTNVY",
+            "PTKLNDLCFTN",
+            "SPTKLNDLCFTN",
+            "VSPTKLNDLCFTN",
+            "KLNDLCFTNVYA",
+            "KLNDLCFTNVYAD",
+            "LNDLCFTNV",
+            "GVSPTKLNDLCFTN",
+            "YGVSPTKLNDLCFTN",
+            "CYGVSPTKLNDLCFTN",
+            "CVNLTTRTQ",
+            "QCVNLTTRTQ",
+            "LDITPCSFGGVSV",
+            "LDITPCSFGGVSVI",
+            "VKNKCVNFN",
+            "Length",
+            "StartEnd",
+            "386-394",
+            "386-395",
+            "386-396",
+            "384-394",
+            "383-394",
+            "382-394",
+            "386-397",
+            "386-398",
+            "387-395",
+            "381-384",
+            "380-384",
+            "379-384",
+            "15-23",
+            "14-23",
+            "585-697",
+            "585-698",
+            "534-642",
+            "Vaxijen",
+            "2.69",
+            "2.19",
+            "2.17",
+            "1.67",
+            "2.06",
+            "1.78",
+            "1.61",
+            "Isoelectric point",
+            "6.22",
+            "5.80",
+            "3.80",
+            "8.25",
+            "Aliphatic",
+            "Table 3: Average antigenicity of constructed vaccine using Vaxijen",
+            "Vaccine",
+            "MSDINKLAETLVNLKIVEVNDLAKILKEKYGLDPSANLAIPSLPKAEILDKSKEKTSF",
+            "DLILKGAGSAKLTVVKRIKDLIGLGLKESKDLVDNVPKHLKKGLSKEEAESLKKQL",
+            "EEVGAEVELKEAAAKKLNDLCFTNAAYKLNDLCFTNAAYKLNDLCFTNAAYKLND",
+            "LCFTNVAAYKLNDLCFTNVYAAYPTKLNDLCFTNAAYSPTKLNDLCFTNAAYVSPT",
+            "KLNDLCFTNAAYLNDLCFTNVAAYKLNDLCFTNVYAAAYKLNDLCFTNVYADAAY",
+            "GVSPTKLNDLCFTNAAYYGVSPTKLNDLCFTNAAYCYGVSPTKLNDLCFTNAAYCV",
+            "NLTTRTQAAYQCVNLTTRTQKKLDITPCSFGGVSVKKLDITPCSFGGVSVIKKVKN",
+            "KCVNFN",
+            "IV1",
+            "Table 4: Physico-properties of constructed vaccines",
+            "Molecular weight",
+            "Aliphatic index",
+            "GRAVY",
+            "Instability",
+            "Alpha",
+            "Extended",
+            "8.52",
+            "-0.046",
+            "23.37%",
+            "8.54%",
+            "Random coil",
+            "Table 5. HDOCK scores of HLA1, HLA2 and interaction residues of selected sequences",
+            "Hla1A1",
+            "Hla1Chain",
+            "G",
+            "E",
+            "F",
+            "CW-1",
+            "TLR3",
+            "Hla2 antigen gama chain",
+            "Hla2DM",
+            "Hla2DO",
+            "Hla2DP",
+            "Hla2DQ",
+            "Hla2- DR",
+            "957.2",
+            "1220.8",
+            "Table 6: Mean number of responding T cells (SFU) of donors to predicted and conserved T cell epitopes encompassing entire HA protein",
+            "Donor",
+            "EP1",
+            "EP2",
+            "EP3",
+            "EP4",
+            "EP5",
+            "EP6",
+            "EP7",
+            "EP8",
+            "EP9",
+            "EP10",
+            "EP11",
+            "EP12",
+            "EP13",
+            "EP14",
+            "EP15",
+            "EP16",
+            "EP17",
+            "16.4",
+            "17.4",
+            "24.9",
+            "2\u00b1",
+            "23.2\u00b1",
+            "35.0\u00b1",
+            "38.2",
+            "24.4",
+            "22.1",
+            "\u00b12",
+            "\u00b11.9",
+            "\u00b11.8",
+            "\u00b12.2",
+            "\u00b11.6",
+            "1.6",
+            "\u00b12.6",
+            "\u00b12.1",
+            "\u00b11.7",
+            "\u00b11.2",
+            "2.9"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "healthy volunteers",
+            "number": 5,
+            "context": "2.9 Human PBMC preparation. <mark class=\"stats\">Peripheral Blood Mononuclear Cells (PBMCs) from five healthy volunteers were separated on density gradient centrifugation (lymphodex)</mark>. The PBMCs were grown in RPMI medium supplemented with 10%"
+        },
+        {
+            "participant": "donors",
+            "number": 5,
+            "context": "The IFN-\u03b3 producing T cell variation ranged from. <mark class=\"stats\">11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1 SFU per 106 PBMCs among all five donors</mark>. Only four donors out of five donors (D5, D10, D11, and D14) responded to Epitope 1, 2, 4 and 17 conserved epitopes and the responses were of a low magnitude (Table 6)"
+        },
+        {
+            "participant": "donors",
+            "number": 4,
+            "context": "11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1 SFU per 106 PBMCs among all five donors. <mark class=\"stats\">Only four donors out of five donors (D5, D10, D11, and D14) responded to Epitope 1, 2, 4 and 17 conserved epitopes and the responses were of a low magnitude (Table 6)</mark>. Due to the nature of coronavirus and high infectious rate, the progress of a vaccine against coronavirus is very challenging"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">SWISSMODEL Server (https://swissmodel.expasy.org/) was utilized for modelling of 3-D structures of HLA class<br/><br/>I and HLA class II, But for TLR-3 the data in PDB bank was used and optimized by chimera 1.12 [14.]<br/><br/>Multiple sequence alignment and antigen selection<br/><br/>To determine exclusive conserved sequence of the coronavirus surface glycoprotein, NCBI BLAST was performed (https://blast.ncbi.nlm.nih.gov/Blast.cgi)</mark>",
+                "tests": [
+                    {
+                        "test": "BLAST"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">To determine exclusive conserved sequence of the coronavirus surface glycoprotein, NCBI BLAST was performed (https://blast.ncbi.nlm.nih.gov/Blast.cgi)</mark>",
+                "tests": [
+                    {
+                        "test": "BLAST"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Results of protein BLAST are shown in Table 1</mark>",
+                "tests": [
+                    {
+                        "test": "BLAST"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "spot-forming unit",
+        "coronavirus surface glycoprotein",
+        "ribosomal protein",
+        "protein-ligand interaction profiler server",
+        "bioinformatics",
+        "high aliphatic",
+        "antigenic",
+        "infectious disease",
+        "immune response",
+        "HIV-1",
+        "silico design",
+        "COVID-19",
+        "immunoinformatics",
+        "bioinformatic tool",
+        "recombinant vaccine",
+        "aliphatic index",
+        "Fetal Calf Serum",
+        "hepatitis",
+        "surface glycoprotein",
+        "Peripheral Blood Mononuclear Cells",
+        "novel multi epitope vaccine",
+        "b cell",
+        "multiepitope vaccine",
+        "t cell",
+        "Toxoplasma gondii"
+    ],
+    "keyword_relevance": {
+        "antigenic": 0.1557377049180328,
+        "surface glycoprotein": 0.13114754098360656,
+        "coronavirus surface glycoprotein": 0.09016393442622951,
+        "spot-forming unit": 0.08196721311475409,
+        "Peripheral Blood Mononuclear Cells": 0.08196721311475409,
+        "bioinformatics": 0.05737704918032787,
+        "aliphatic index": 0.04918032786885246,
+        "ribosomal protein": 0.040983606557377046,
+        "COVID-19": 0.040983606557377046,
+        "protein-ligand interaction profiler server": 0.03278688524590164,
+        "high aliphatic": 0.03278688524590164,
+        "infectious disease": 0.02459016393442623,
+        "immune response": 0.02459016393442623,
+        "HIV-1": 0.02459016393442623,
+        "silico design": 0.02459016393442623,
+        "immunoinformatics": 0.02459016393442623,
+        "multiepitope vaccine": 0.02459016393442623,
+        "recombinant vaccine": 0.01639344262295082,
+        "Fetal Calf Serum": 0.01639344262295082,
+        "Toxoplasma gondii": 0.01639344262295082,
+        "novel multi epitope vaccine": 0.00819672131147541,
+        "bioinformatic tool": 0.0,
+        "hepatitis": 0.0,
+        "b cell": 0.0,
+        "t cell": 0.0
+    },
+    "species": [
+        "Toxoplasma gondii"
+    ],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> In early 2020, COVID-19 began generating headlines all over the world because of the extraordinary speed of its transmission.",
+        "Multiepitope vaccines have the potential to induce responses restricted by a wide variety of HLA molecules and generate a balanced CD4+ and CD8+ cellular immune response",
+        "Another molecule that contribute to innate immunity contains TLR3 that activates antiviral mechanism during infection.",
+        "In silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases.",
+        "Some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length.",
+        "The stability and efficacy of the vaccines were predicted by a set of bioinformatics methods",
+        "<h2 style=\"display: inline\">Methods:</h2> 2.1 Data collection<br/><br/>At the first step of the study, the reference amino acid sequences of coronavirus surface glycoprotein (YP001856243.1), five<br/><br/>HLA-1 (NP_001229971.1, NP_001229687.1, NP_002118.1, NP_061823.2, NP_005507.3) and six HLA-2 protein (NP_001229454.1, NP_006111.2, NP_001230891.1, NP_002110.1, NP_061984.2, NP_001020330.1) were retrieved from NCBI.",
+        "Seventeen suitable common B-cell and T-cell epitopes (9-16 amino acids) from coronavirus surface glycoprotein were selected and organized in the final vaccine construct.",
+        "These epitopes were merged together with AAY, KK linkers and considered as a multi-epitope vaccine.",
+        "The binding sites of final construct and TLR3 were studied using fully automated protein-ligand interaction profiler server (PLIP; https://projects.biotec.tu-dresden.de/plip-web/plip/index).",
+        "The positive control was polyclonal activator anti-CD3 monoclonal antibody, which determine T cell numbers and viability of the immunoassay",
+        "<h2 style=\"display: inline\">Results:</h2> 3.1 Multiple sequence alignment and antigen selection<br/><br/>Initially, coronavirus surface glycoprotein was studied for determining specific conserved part of protein between the virus serotypes.",
+        "Final construct vaccine was composed of 398 amino acids which were respectively attached to 50S ribosomal protein L7/L12 as adjuvant.",
+        "The results revealed that this multi-epitope vaccine have low instability \u201cas a value below 40\u201d predicts that the protein is stable.",
+        "The results of TLR-3 analysis showed values of 1680.569 for IV1 which demonstrate the high efficacy of vaccine construct (Tables 5).",
+        "The results demonstrated that these donors showed very low response to epitopes 17 and 1 just above the cut-off (11 and 15 SFU respectively).",
+        "Four donors out of five donors (D5, D10, D11, and D14) responded to Epitope 1, 2, 4 and 17 conserved epitopes and the responses were of a low magnitude (Table 6)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Due to the nature of coronavirus and high infectious rate, the progress of a vaccine against coronavirus is very challenging.",
+        "The in-silico results proposed that the multi-epitope vaccine was very stable with high aliphatic index and it was potentially antigenic.",
+        "The results demonstrated that the mentioned vaccine could be a right candidate for experimental research [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus.",
+        "The multi-epitope vaccine presented by this study showed promising result through in silico step, which could be followed by in vitro and in vivo studies"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "In early 2020, COVID-19 began generating headlines all over the world because of the extraordinary speed of its transmission.",
+            "Multiepitope vaccines have the potential to induce responses restricted by a wide variety of HLA molecules and generate a balanced CD4+ and CD8+ cellular immune response",
+            "Another molecule that contribute to innate immunity contains TLR3 that activates antiviral mechanism during infection.",
+            "In silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases.",
+            "Some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length.",
+            "The stability and efficacy of the vaccines were predicted by a set of bioinformatics methods"
+        ],
+        "Methods": [
+            "2.1 Data collection<br/><br/>At the first step of the study, the reference amino acid sequences of coronavirus surface glycoprotein (YP001856243.1), five<br/><br/>HLA-1 (NP_001229971.1, NP_001229687.1, NP_002118.1, NP_061823.2, NP_005507.3) and six HLA-2 protein (NP_001229454.1, NP_006111.2, NP_001230891.1, NP_002110.1, NP_061984.2, NP_001020330.1) were retrieved from NCBI.",
+            "Seventeen suitable common B-cell and T-cell epitopes (9-16 amino acids) from coronavirus surface glycoprotein were selected and organized in the final vaccine construct.",
+            "These epitopes were merged together with AAY, KK linkers and considered as a multi-epitope vaccine.",
+            "The binding sites of final construct and TLR3 were studied using fully automated protein-ligand interaction profiler server (PLIP; https://projects.biotec.tu-dresden.de/plip-web/plip/index).",
+            "The positive control was polyclonal activator anti-CD3 monoclonal antibody, which determine T cell numbers and viability of the immunoassay"
+        ],
+        "Results": [
+            "3.1 Multiple sequence alignment and antigen selection<br/><br/>Initially, coronavirus surface glycoprotein was studied for determining specific conserved part of protein between the virus serotypes.",
+            "Final construct vaccine was composed of 398 amino acids which were respectively attached to 50S ribosomal protein L7/L12 as adjuvant.",
+            "The results revealed that this multi-epitope vaccine have low instability \u201cas a value below 40\u201d predicts that the protein is stable.",
+            "The results of TLR-3 analysis showed values of 1680.569 for IV1 which demonstrate the high efficacy of vaccine construct (Tables 5).",
+            "The results demonstrated that these donors showed very low response to epitopes 17 and 1 just above the cut-off (11 and 15 SFU respectively).",
+            "Four donors out of five donors (D5, D10, D11, and D14) responded to Epitope 1, 2, 4 and 17 conserved epitopes and the responses were of a low magnitude (Table 6)"
+        ],
+        "Conclusion": [
+            "Due to the nature of coronavirus and high infectious rate, the progress of a vaccine against coronavirus is very challenging.",
+            "The in-silico results proposed that the multi-epitope vaccine was very stable with high aliphatic index and it was potentially antigenic.",
+            "The results demonstrated that the mentioned vaccine could be a right candidate for experimental research [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus.",
+            "The multi-epitope vaccine presented by this study showed promising result through in silico step, which could be followed by in vitro and in vivo studies"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "1. Li Q., Guan X., Wu P., Wang X., Zhou L (2020) Tong Y., Feng Z. Early transmission dynamics in 201 Wuhan, China, of novel coronavirus-infected pneumonia. New England Journal of Medicine.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Q.%2C%20Li%20X.%2C%20Guan%20P.%2C%20Wu%20X.%2C%20Wang%20Early%20transmission%20dynamics%20in%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Q.%2C%20Li%20X.%2C%20Guan%20P.%2C%20Wu%20X.%2C%20Wang%20Early%20transmission%20dynamics%20in%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Q.%2C%20Li%20X.%2C%20Guan%20P.%2C%20Wu%20X.%2C%20Wang%20Early%20transmission%20dynamics%20in%202020"
+        },
+        {
+            "id": "2",
+            "alt_id": "2._2019_a",
+            "entry": "2. World Health Organization Novel coronavirus (2019-nCoV) situation reports. 2020. 203 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20Novel%20coronavirus%202019nCoV%20situation%20reports%202020%20203%20httpswwwwhointemergenciesdiseasesnovelcoronavirus2019situationreports",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20Novel%20coronavirus%202019nCoV%20situation%20reports%202020%20203%20httpswwwwhointemergenciesdiseasesnovelcoronavirus2019situationreports"
+        },
+        {
+            "id": "3",
+            "alt_id": "Cicala_et+al_2016_a",
+            "entry": "3. Cicala C, Nawaz F, Jelicic K, et al. (2016) HIV-1 gp120: A Target for Therapeutics and Vaccine 205 Design. Current Drug Targets. 17(1):122-35.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cicala%2C%20C.%20Nawaz%2C%20F.%20Jelicic%2C%20K.%20HIV-1%20gp120%3A%20A%20Target%20for%20Therapeutics%20and%20Vaccine%20205%20Design%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cicala%2C%20C.%20Nawaz%2C%20F.%20Jelicic%2C%20K.%20HIV-1%20gp120%3A%20A%20Target%20for%20Therapeutics%20and%20Vaccine%20205%20Design%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cicala%2C%20C.%20Nawaz%2C%20F.%20Jelicic%2C%20K.%20HIV-1%20gp120%3A%20A%20Target%20for%20Therapeutics%20and%20Vaccine%20205%20Design%202016"
+        },
+        {
+            "id": "4",
+            "alt_id": "Kumar_et+al_2008_a",
+            "entry": "4. Kumar M, Thakur V, Raghava GP (2008) \u201cCOPid: composition based protein identification. In silico 207 b10.Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO, et al. An overview of bioinformatics tools for 208 epitope prediction: implications on vaccine Development. J Biomed Inform. 2015;53, 405\u2013414. doi: 209 10.1016/j.jbi.2014.11.003.iology. 8:121-128.",
+            "crossref": "https://dx.doi.org/10.1016/j.jbi.2014.11.003.iology",
+            "scite": "https://scite.ai/reports/10.1016/j.jbi.2014.11.003.iology",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.jbi.2014.11.003.iology"
+        },
+        {
+            "id": "5",
+            "alt_id": "Soria-Guerra_et+al_2015_a",
+            "entry": "5. Soria-Guerra RE, Nieto-Gomez R, Govea-Alonso DO (2015) t al. An overview of bioinformatics tools 211 for epitope prediction: implications on vaccine Development. J Biomed Inform. 2015;53, 405\u2013414. doi: 212 10.1016/j.jbi.2014.11.003. 6.Bissati KE, Chentoufi AA, Krishack PA (2016) Adjuvanted multi-epitope vaccines protect HLA-A* 11: 214 01 transgenic mice against Toxoplasma gondii. JCI Insight. 1(15): doi: 10.1172/jci.insight.85955.",
+            "crossref": "https://dx.doi.org/10.1172/jci.insight.85955",
+            "scite": "https://scite.ai/reports/10.1172/jci.insight.85955",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1172/jci.insight.85955"
+        },
+        {
+            "id": "7",
+            "alt_id": "Escalona_2017_a",
+            "entry": "7.Escalona E, Saez D, Onate A (2017) Immunogenicity of a multi-epitope dna vaccine encoding epitopes 216 from Cu\u2013Zn superoxide dismutase and open reading Frames of Brucella abortus in mice. Frontiers 217 Immunology. 8, 125",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Escalona%2C%20E.%20Saez%2C%20D.%20Onate%20A%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Escalona%2C%20E.%20Saez%2C%20D.%20Onate%20A%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Escalona%2C%20E.%20Saez%2C%20D.%20Onate%20A%202017"
+        },
+        {
+            "id": "8",
+            "alt_id": "Rodrigues-Da-Silva_et+al_2016_a",
+            "entry": "8.Rodrigues-da-Silva RN, Martins da Silva JH, Singh B (2016) In silico identification and validation of a 219 linear and naturally immunogenic B-cell epitope of the Plasmodium vivax malaria vaccine candidate 220 merozoite surface protein-9. Plos One;11(1): e 0146951. doi: 10.1371 221",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rodrigues-da-Silva%2C%20R.N.%20Martins%20da%20Silva%2C%20J.H.%20Singh%2C%20B.%20In%20silico%20identification%20and%20validation%20of%20a%20219%20linear%20and%20naturally%20immunogenic%20B-cell%20epitope%20of%20the%20Plasmodium%20vivax%20malaria%20vaccine%20candidate%20220%20merozoite%20surface%20protein-9.%20Plos%20One%3B%2011%281%29%202016"
+        },
+        {
+            "id": "9",
+            "alt_id": "Nezafat_et+al_2016_a",
+            "entry": "9.Nezafat N, Karimi Z, Eslami M (2016) Designing an efficient multi-epitope peptide vaccine against 223 Vibrio cholerae via combined immunoinformatics and protein interaction based approaches.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nezafat%2C%20N.%20Karimi%2C%20Z.%20Eslami%2C%20M.%20Designing%20an%20efficient%20multi-epitope%20peptide%20vaccine%20against%20223%20Vibrio%20cholerae%20via%20combined%20immunoinformatics%20and%20protein%20interaction%20based%20approaches%202016"
+        },
+        {
+            "id": "224",
+            "alt_id": "224_0000_a",
+            "entry": "224 Computational Biology and Chemistry. 62: 82\u201395. doi:10.1016/j.compbiolchem.2016.04.006",
+            "crossref": "https://dx.doi.org/10.1016/j.compbiolchem.2016.04.006",
+            "scite": "https://scite.ai/reports/10.1016/j.compbiolchem.2016.04.006"
+        },
+        {
+            "id": "10",
+            "alt_id": "Yang_2015_a",
+            "entry": "10.Yang Y, Sun W, Guo J, et al. In silico design of a DNA based HIV-1 multi-epitope vaccine for 226 Chinese populations. Human Vaccines Immunother. 2015;11(3): 795\u2013805. doi: 227 10.1080/21645515.2015.1012017",
+            "crossref": "https://dx.doi.org/10.1080/21645515.2015.1012017",
+            "scite": "https://scite.ai/reports/10.1080/21645515.2015.1012017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1080/21645515.2015.1012017"
+        },
+        {
+            "id": "11",
+            "alt_id": "Nosrati_et+al_2017_a",
+            "entry": "11.Nosrati M, Mohabatkar H, Behbahani M (2017) A novel multi-epitope vaccine for cross protection 229 against Hepatitis C Virus (HCV): an immunoinformatics. Approach Research in Molecular Medicine 230 5(1): 17\u201326.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nosrati%2C%20M.%20Mohabatkar%2C%20H.%20Behbahani%2C%20M.%20A%20novel%20multi-epitope%20vaccine%20for%20cross%20protection%20229%20against%20Hepatitis%20C%20Virus%20%28HCV%29%3A%20an%20immunoinformatics%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nosrati%2C%20M.%20Mohabatkar%2C%20H.%20Behbahani%2C%20M.%20A%20novel%20multi-epitope%20vaccine%20for%20cross%20protection%20229%20against%20Hepatitis%20C%20Virus%20%28HCV%29%3A%20an%20immunoinformatics%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nosrati%2C%20M.%20Mohabatkar%2C%20H.%20Behbahani%2C%20M.%20A%20novel%20multi-epitope%20vaccine%20for%20cross%20protection%20229%20against%20Hepatitis%20C%20Virus%20%28HCV%29%3A%20an%20immunoinformatics%202017"
+        },
+        {
+            "id": "12",
+            "alt_id": "Rahjerdi_et+al_2016_a",
+            "entry": "12.Rahjerdi AK, AmaniJ, Rad I (2016) Designing and structure evaluation of multi-epitope vaccine 232 against ETEC and EHEC, an in silico approach.Protein Peptide Letters. 23(1): 33\u201342.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rahjerdi%2C%20A.K.%20AmaniJ%2C%20Rad%20I.%20Designing%20and%20structure%20evaluation%20of%20multi-epitope%20vaccine%20232%20against%20ETEC%20and%20EHEC%2C%20an%20in%20silico%20approach%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rahjerdi%2C%20A.K.%20AmaniJ%2C%20Rad%20I.%20Designing%20and%20structure%20evaluation%20of%20multi-epitope%20vaccine%20232%20against%20ETEC%20and%20EHEC%2C%20an%20in%20silico%20approach%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rahjerdi%2C%20A.K.%20AmaniJ%2C%20Rad%20I.%20Designing%20and%20structure%20evaluation%20of%20multi-epitope%20vaccine%20232%20against%20ETEC%20and%20EHEC%2C%20an%20in%20silico%20approach%202016"
+        },
+        {
+            "id": "13",
+            "alt_id": "Oscherwitz_2016_a",
+            "entry": "13.Oscherwitz J (2016) The promise and challenge of epitope-focused vaccines. Human Vaccines 234 Immunother.; 12(8): 2113\u20132116.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Oscherwitz%2C%20J.%20The%20promise%20and%20challenge%20of%20epitope-focused%20vaccines%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Oscherwitz%2C%20J.%20The%20promise%20and%20challenge%20of%20epitope-focused%20vaccines%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Oscherwitz%2C%20J.%20The%20promise%20and%20challenge%20of%20epitope-focused%20vaccines%202016"
+        },
+        {
+            "id": "14",
+            "alt_id": "Huang_et+al_2014_a",
+            "entry": "14. Conrad C. Huang, Elaine C. Meng, John H. Morris (2014) Enhancing UCSF Chimera through web 236 services. Nucleic Acids Research. 42(1):478-484. https://doi.org/10.1093/nar/gku377 15.Doytchinova IA, Flower DR (2007) VaxiJen: a server for prediction of protective antigens, tumour 238 antigens and subunit vaccines. BMC Bioinformatics.",
+            "crossref": "https://dx.doi.org/10.1093/nar/gku377",
+            "scite": "https://scite.ai/reports/10.1093/nar/gku377",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/nar/gku377"
+        },
+        {
+            "id": "16",
+            "alt_id": "Duquesnoy_2017_a",
+            "entry": "16.Duquesnoy R, Marrari M (2017) Usefulness of the ElliPro epitope predictor program in defining the 240 repertoire of HLA-ABC eplets. Hum.78( 7-8): 481-488. doi:10.1016/j.humimm.03.005",
+            "crossref": "https://dx.doi.org/10.1016/j.humimm.03.005",
+            "scite": "https://scite.ai/reports/10.1016/j.humimm.03.005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.humimm.03.005"
+        },
+        {
+            "id": "17",
+            "alt_id": "Beaver_et+al_2007_a",
+            "entry": "17.Beaver JE, Bourne PE, Ponomarenko JV (2007) Epitope Viewer: a Java application for the 242 visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource 243 (IEDB). Immunome Res DOI:10.1186/1745-7580-3-3.",
+            "crossref": "https://dx.doi.org/10.1186/1745-7580-3-3",
+            "scite": "https://scite.ai/reports/10.1186/1745-7580-3-3"
+        },
+        {
+            "id": "18",
+            "alt_id": "Patronov_2013_a",
+            "entry": "18. Patronov AI. Doytchinov I (2013) T-cell epitope vaccine design by immunoinformatics. Open Biol. 245 2013; 3(1):120139. doi: 10.1098/rsob.120139. 19.Salentin S, Schreiber S, Haupt VJ (2015) PLIP: fullyautomated protein\u2013ligand interaction profiler.",
+            "crossref": "https://dx.doi.org/10.1098/rsob.120139.19.Salentin",
+            "scite": "https://scite.ai/reports/10.1098/rsob.120139.19.Salentin",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rsob.120139.19.Salentin"
+        },
+        {
+            "id": "247",
+            "alt_id": "Roosa_et+al_2020_a",
+            "entry": "247 Nucleic Acids Research;43: W443\u2013W447.https://doi.org/10.1093/nar/gkv315 248 249 250 20. Roosa K., Lee Y., Luo R., Kirpich A., Rothenberg R., et al (2020) Hyman J.M., Yan P., and G.251 Chowell, Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 252 2020, Infect Dis Model.2020; 5:256\u2013263.253 254 255 21. Ai S., Zhu G., Tian F., Li H., Gao Y., Wu Y., Lin H (2020) Population movement, city closure and 256 spatial transmission of the 2019-nCoV infection in China.257 258",
+            "crossref": "https://dx.doi.org/10.1093/nar/gkv315",
+            "scite": "https://scite.ai/reports/10.1093/nar/gkv315",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/nar/gkv315"
+        },
+        {
+            "id": "22",
+            "alt_id": "Paul_2010_a",
+            "entry": "22.Paul S, Piontkivska H (2010) Frequent associations between CTL and T-Helper epitopes in HIV-1 260 genomes and implications for multi-epitope vaccine designs. BMC Microbiology. 10:212. doi: 261 10.1186/1471-2180-10-212",
+            "crossref": "https://dx.doi.org/10.1186/1471-2180-10-212",
+            "scite": "https://scite.ai/reports/10.1186/1471-2180-10-212"
+        },
+        {
+            "id": "23",
+            "alt_id": "Hajighahramani_et+al_2017_a",
+            "entry": "23.Hajighahramani N, Nezafat N, Eslami M, et al. (2017) Immunoinformatics analysis and in silico 263 designing of a novel multiepitope peptide vaccine against Staphylococcus aureus. Infection Genetics and 264 Evolution. 48: 83\u201394. doi: 10.1016/j.meegid",
+            "crossref": "https://dx.doi.org/10.1016/j.meegid",
+            "scite": "https://scite.ai/reports/10.1016/j.meegid",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.meegid"
+        },
+        {
+            "id": "24",
+            "alt_id": "Solanki_et+al_2019_a",
+            "entry": "24.Solanki V, Tiwari M, Tiwari V. (2019) Prioritization of potential vaccine targets using comparative 266 proteomics and designing of the chimeric multi-epitope vaccine against Pseudomonas aeruginosa.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Solanki%2C%20V.%20Tiwari%2C%20M.%20Tiwari%2C%20V.%20Prioritization%20of%20potential%20vaccine%20targets%20using%20comparative%20266%20proteomics%20and%20designing%20of%20the%20chimeric%20multi-epitope%20vaccine%20against%20Pseudomonas%20aeruginosa%202019"
+        }
+    ],
+    "facts": [
+        "a novel multi-epitope vaccine for COVID-19 virus based on surface glycoprotein was designed through application",
+        "T-cell binding epitopes from surface glycoprotein were predicted in silico",
+        "The IFN-\u03b3 producing T cell variation ranged from 11.1 \u00b11.2 SFU to 38.2 \u00b1 2.1 SFU",
+        "which composed of 398 amino acids",
+        "Three-dimensional structure of the mentioned vaccine was subjected to the molecular docking studies with MHC-I",
+        "The results proposed that the multi-epitope vaccine with 50S ribosomal protein L7/L12 was very stable with high aliphatic content",
+        "The multiepitope vaccines have advantageous over conventional vaccines with regards",
+        "the potential to induce responses restricted by a wide variety of HLA molecules",
+        "in silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases",
+        "Some bioinformatics tools could facilitate the development of multi epitope-based vaccines",
+        "the efficacy of computationally designed vaccines has been recently approved for use in defined human vaccines",
+        "T-cell epitopes from coronavirus surface glycoprotein",
+        "T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity",
+        "the stability and efficacy of the vaccines were predicted by a set of bioinformatics methods",
+        "SWISSMODEL Server was utilized for modelling of 3-D structures",
+        "antigenic peptide were selected for further analysis",
+        "Linear B-cell epitopes in the vaccine model were predicted using ElliPro",
+        "MHC-I restricted epitopes were predicted through ProPred-1 server",
+        "T-cell epitopes from coronavirus surface glycoprotein were selected",
+        "with 124 amino acids were incorporated with EAAAK linker at N-terminal portion",
+        "adjuvant are depicted in Table 3",
+        "molecular docking was done between the selected vaccines",
+        "The outputs of PLIP were in XML format",
+        "seventeen epitopes were synthetized by Zist Mobin company at the recommended purity",
+        "Peripheral Blood Mononuclear Cells from five healthy volunteers were separated on density gradient centrifugation",
+        "The PBMCs were grown in RPMI medium supplemented with",
+        "IFN\u03b3-ELISPOT assay was used to identify the prevalence of pre-existing CD4",
+        "Sweden were used to quantify the frequency of epitope-specific IFN-\u03b3 secreting T cells in PBMCs",
+        "T cell responses were determined after 24 hours",
+        "Each spot-forming unit corresponds to one IFN\u03b3-secreting T cell",
+        "Results are expressed as numbers of SFU",
+        "Results of protein BLAST are shown in Table 1",
+        "The results demonstrated that coronavirus surface glycoprotein had the most conservancy levels",
+        "this protein was selected for vaccine design",
+        "MHC-II restricted epitopes were compared to B-cell epitopes to determine shared epitopes",
+        "These epitopes are located between residues 14-642",
+        "Final construct vaccine was composed of 398 amino acids",
+        "which were respectively attached to 50S ribosomal protein L7/L12 as adjuvant",
+        "The results revealed that this multi-epitope vaccine have low instability",
+        "The results of gor4 demonstrated that the random coil values of the IV1 were high compared to Alpha helix",
+        "HLA-2 confirmed the high values with IV1 construct",
+        "for IV1 which demonstrate the high efficacy of vaccine construct",
+        "The results showed that TLR-3 have interaction to Glu115",
+        "ELISPOT assays described in Table 5",
+        "T cellular memory responses of highest magnitude were obtained for epitopes 10",
+        "The results demonstrated that these donors showed very low response",
+        "of five donors responded to Epitope 1",
+        "the responses were of a low magnitude",
+        "design of epitope-based vaccine was used for vaccine development against several infectious diseases",
+        "that accelerate the growth of multi epitope-based vaccines",
+        "Multi epitope vaccines could provide an effective immunization against different serotypes of a pathogen",
+        "poor immunogenicity is considered as a major drawback to growth",
+        "The in-silico results proposed that our multi-epitope vaccine was very stable with high aliphatic index",
+        "high aliphatic index shows the higher thermos-stability of the constructed vaccine",
+        "mentioned vaccine could be a right candidate for experimental research",
+        "The multi-epitope vaccine presented by this study showed promising result",
+        "In silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases",
+        "The stability and efficacy of the vaccines were predicted by a set of bioinformatics methods"
+    ],
+    "claims": [
+        "We examined the numbers of primed CD4+ cells that produced IFN\u2010\u03b3 in response to epitopes, using",
+        "This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus",
+        "The multi-epitope vaccine presented by this study showed promising result through in silico step, which could be followed by in vitro and in vivo studies"
+    ],
+    "findings": [
+        "From the aliphatic Index of view, this construct showed aliphatic index more than 90 % (Table 4)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Multiepitope vaccines have the potential to induce responses restricted by a wide variety of HLA molecules and generate a balanced CD4+ and CD8+ cellular immune response",
+        "In silico design of epitope-based vaccines has been done for vaccine developing against many infectious diseases",
+        "In silico analysis were performed to determine exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein that are antigenically most significant for coronavirus",
+        "Some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length",
+        "The most particular conserved sequence and antigenic peptide were selected for further analysis",
+        "The conserved sequence and antigenic peptide were selected for further analysis",
+        "IFN-\u03b3 ELISPOTPRO kits from Mabtech, Nacka Strand, Sweden were used to quantify the frequency of epitope-specific IFN-\u03b3 secreting T cells in Peripheral Blood Mononuclear Cells",
+        "Results are expressed as numbers of spot-forming unit per 106 Peripheral Blood Mononuclear Cells",
+        "The results demonstrated that coronavirus surface glycoprotein had the most conservancy levels between 97. 8 and 100",
+        "Due to having good antigenicity, high exposure probability to the immune system and high conservancy, this protein was selected for vaccine design",
+        "The CD4+ T cellular memory responses of highest magnitude were obtained for epitopes 10, 11 and 12 with mean spot-forming unit across all responding donors as: 35.0, 37.3 and 38.2 respectively",
+        "The results demonstrated that these donors showed very low response to epitopes 17 and 1 just above the cut-off (11 and 15 spot-forming unit respectively)",
+        "The in-silico results proposed that our multi-epitope vaccine was very stable with high aliphatic index and it was potentially antigenic",
+        "High aliphatic index shows the higher thermos-stability of the constructed vaccine",
+        "This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus"
+    ],
+    "top_statements": [
+        "In early 2020, COVID-19 began generating headlines all over the world because of the extraordinary speed of its transmission",
+        "In silico analysis were performed to determine exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein that are antigenically most significant for coronavirus",
+        "Some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length",
+        "The results demonstrated that coronavirus surface glycoprotein had the most conservancy levels between 97. 8 and 100",
+        "The CD4+ T cellular memory responses of highest magnitude were obtained for epitopes 10, 11 and 12 with mean spot-forming unit across all responding donors as: 35.0, 37.3 and 38.2 respectively",
+        "This study introduced designing novel multi epitope vaccines against Coronavirus which could cover conserve sequence of the virus"
+    ],
+    "headline": "Some unique exclusive B cell and T-cell epitopes from coronavirus surface glycoprotein were selected based on their antigenicity, stability and length",
+    "contexts": [],
+    "abbreviations": {
+        "PLIP": "protein-ligand interaction profiler server",
+        "PBMCs": "Peripheral Blood Mononuclear Cells",
+        "FCS": "Fetal Calf Serum",
+        "SFU": "spot-forming unit"
+    }
+}

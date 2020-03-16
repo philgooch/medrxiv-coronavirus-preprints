@@ -1,0 +1,479 @@
+{
+    "filename": "2020.02.07.939389v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 870889,
+    "metadata": {
+        "title": "The Pathogenicity of 2019 Novel Coronavirus in hACE2 Transgenic Mice",
+        "author": "Linlin Bao, Wei Deng, Baoying Huang, Hong Gao, Lili Ren, Qiang Wei, Pin",
+        "date": 2020,
+        "journal": "The Pathogenicity of",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.02.07.939389",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.02.07.939389v1.pdf"
+        },
+        "abstract": "2019-nCoV caused pneumonia cases in China has become a public health emergency of international concern (PHEIC). The first priority for prevention and treatment of the disease is to find the pathogenicity of 2019-nCoV in vivo. Weight loss and virus replication were detected in infected-hACE2 mice. The typical histopathology was interstitial pneumonia with significant inflammatory cells infiltration around the bronchioles and blood vessels, and viral antigens were observed in bronchial epithelial cells and alveolar epithelial cells. The phenomenon was not found in wild type mice infected with 201932 nCoV and the mock-infected hACE2 mice. The pathogenicity of 2019-nCoV in hACE2 mice was clarified and the Koch's postulates was fulfilled as well, and the model may facilitate the development of therapeutics and vaccines against 2019-nCoV.",
+        "references": "@article{zhu2020a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  date = {2020-01},\n  volume = {24},\n  doi = {doi: 10.1056/NEJMoa2001017},\n  more-authors = {true},\n  language = {}\n}\n@article{ren2020a,\n  author = {Ren, L.L.},\n  title = {Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study. Chin Med},\n  journal = {J},\n  date = {2020-01},\n  doi = {doi: 10.1097/CM9.0000000000000722},\n  more-authors = {true},\n  source = {30},\n  language = {}\n}\n@techreport{unknown2020a,\n  title = {Update on the novel coronavirus pneumonia outbreak},\n  date = {2020-01-24},\n  volume = {Commission,},\n  language = {},\n  institution = {China National Health Commission}\n}\n@misc{unknown-a,\n  url = {http://www.nhc.gov.cn/yjb/s7860/202002/84faf71e096446fdb1ae44939ba5c528.shtml.}\n}\n@misc{xu-a,\n  author = {Xu, Xintian},\n  title = {Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Science China.2020.1},\n  more-authors = {true},\n  language = {}\n}\n@article{kuba2005a,\n  author = {Kuba, K.},\n  title = {A crucial role of angiotensin converting enzyme 2 (hACE2) in SARS coronavirus199 induced lung injury},\n  journal = {Nat Med},\n  date = {2005-08},\n  volume = {11},\n  pages = {875\u20139},\n  doi = {doi: 10.1038/nm1267.200 6},\n  unknown = {features of patients infected with},\n  more-authors = {true},\n  source = {novel coronavirus in Wuhan, China},\n  unmatched-journal = {Huang C, et al. Clinical},\n  number = {8},\n  language = {}\n}\n@misc{lancet2020a,\n  author = {Lancet},\n  date = {2020-01-24},\n  volume = {20},\n  doi = {doi: 10.1016/S0140-6736(20)30183-5.202 7},\n  number = {30183-5}\n}\n@article{chan2020a,\n  author = {Chan, J.F.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating 203 person-to-person transmission: a study of a family cluster},\n  journal = {Lancet},\n  date = {2020-01-24},\n  volume = {20},\n  doi = {doi: 10.1016/S0140-6736(20)30154-9.205},\n  more-authors = {true},\n  number = {30154-9},\n  language = {}\n}\n",
+        "emails": [
+            "wugz@ivdc.chinacdc.cn",
+            "qinchuan@pumc.edu.cn"
+        ],
+        "affiliations": [
+            "Beijing Key Laboratory for Animal Models of Emerging and Remerging Infectious",
+            "Institute of Laboratory Animal Science, Chinese Academy of Medical Sciences and Comparative Medicine Center, Peking Union Medical College, Beijing, China."
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020/01\nVL  - 24\nDO  - 10.1056/NEJMoa2001017\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ren, L.L.\nTI  - Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study. Chin Med\nT2  - J\nPY  - 2020\nDA  - 2020/01\nDO  - 10.1097/CM9.0000000000000722\nC1  - true\nT2  - 30\nLA  - \nER  - \n\nTY  - RPRT\nTI  - Update on the novel coronavirus pneumonia outbreak\nPY  - 2020\nDA  - 2020/01/24\nVL  - Commission,\nLA  - \nC1  - China National Health Commission\nER  - \n\nTY  - GEN\nUR  - http://www.nhc.gov.cn/yjb/s7860/202002/84faf71e096446fdb1ae44939ba5c528.shtml.\nER  - \n\nTY  - GEN\nAU  - Xu, Xintian\nTI  - Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Science China.2020.1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kuba, K.\nTI  - A crucial role of angiotensin converting enzyme 2 (hACE2) in SARS coronavirus199 induced lung injury\nT2  - Nat Med\nPY  - 2005\nDA  - 2005/08\nVL  - 11\nSP  - 875\nEP  - 9\nDO  - 10.1038/nm1267.200 6\nC1  - features of patients infected with\nC1  - true\nT2  - novel coronavirus in Wuhan, China\nC1  - Huang C, et al. Clinical\nIS  - 8\nLA  - \nER  - \n\nTY  - GEN\nAU  - Lancet\nPY  - 2020\nDA  - 2020/01/24\nVL  - 20\nDO  - 10.1016/S0140-6736(20)30183-5.202 7\nIS  - 30183-5\nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating 203 person-to-person transmission: a study of a family cluster\nT2  - Lancet\nPY  - 2020\nDA  - 2020/01/24\nVL  - 20\nDO  - 10.1016/S0140-6736(20)30154-9.205\nC1  - true\nIS  - 30154-9\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Weight loss and virus detection in hACE2 mice post infection with 2019208 nCoV. Two groups of mice were experimentally challenged intranasally with a dose of 105 209 TCID50 2019-nCoV, and the PBS-infected hACE2 mice were used as control. WT mice were inoculated with 2019-nCoV as receptor control. And then the weight loss was recorded over 10 days (a). Mice were sacrificed and their major organs harvested for viral load and virus isolation at 3 and 5 dpi, the distribution of 2019-nCoV in various organs of infected hACE2 mice was detected by RT-PCR and the results of 3 dpi was representatively shown (b) (line 1: positive control, line[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]: negative control, line 3-10: trachea, lung, heart, spleen, intestine, liver, kidney and brain in turn). (c) Live virus could not be isolated from the lungs of infected-WT mice on Vero cells, but (d) cytopathic effects were observed from Vero cells infected with homogenate from the lungs of infected-hACE2 mice. Electron microscope pictures of 2019-nCoV from infected-hACE2 mice lung tissue culture homogenate at 3 dpi (e). Significant differences are indicated with different asterisks (Welch\u2019s t-test, ACE2-HB-01 vs ACE2-PBS, *p<0.05, **p<0.01; ACE2-HB-01 vs WT-HB-01, #p<0.05, ##p<0.01)"
+            },
+            {
+                "id": "2",
+                "caption": "Gross pathology and histopathology of lungs of 2019-nCoV-infected hACE2 224 mice. Gross pathology of lungs from infected-WT mice (a), PBS-infected hACE2 mice (b) 225 and 2019-nCoV-infected hACE2 mice (c) at 3 dpi. (d-i) Histological examination of lungs 226 of infected-WT mice (d), PBS-infected hACE2 mice (e), and 2019-nCoV-infected hACE2 227 mice (f-i). Histopathological examination of bronchioles and blood vessels (f) and alveolar 228 interstitum (g-i) from infected-hACE2 mice. Yellow bar = 200 \u03bcm, Black bar = 100 \u03bcm, 229 Red bar = 50 \u03bcm. 230"
+            },
+            {
+                "id": "3",
+                "caption": "Immunofluorescence analysis of viral antigens in lungs of 2019-nCoV233 infected hACE2 mice. (a-i): Fluorescence of sections of mice lungs after incubation with 234 DAPI or antisera of 2019-nCoV-convalescent patients respectively. The lung sections of 235 infected-WT mice (a-c), PBS-infected hACE2 mice (d-f) and infected-hACE2 mice (g-i). 236 Green arrows indicate presence of 2019-nCoV in the alveolar epithelial cells. (j-q): Co237 localization of 2019-nCoV S protein and hACE2 receptor in hACE2 mouse lungs, the 238 sections were incubated with DAPI, a polyclonal antibody against 2019-nCoV S protein or"
+            },
+            {
+                "id": "Supplementary 1",
+                "caption": "Identification of 7D2 antibody against 2019-nCoV S1 246 protein. The plate coated by 0.2 ug 2019-nCoV S1 protein was incubated with 7D2 247 antibody as primary antibody (1:200) and detected using HRP-conjugated goat anti-mouse 248 secondary antibody. The titer of antibody was determined using enzyme-linked 249 immunosorbent assay (ELISA) assay. 250"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.07.939389v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.07.939389v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.07.939389v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.07.939389v1/img-006.png"
+        ]
+    },
+    "sections": {
+        "methods": [
+            "Ethics statement<br/><br/>Murine studies were performed in an animal biosafety level 3 (ABSL3) facility using<br/><br/>HEPA-filtered isolators. All procedures in this study involving animals were reviewed and approved by the Institutional Animal Care and Use Committee of the Institute of<br/><br/>Laboratory Animal Science, Peking Union Medical College (BLL20001).<br/><br/>Viruses and cells<br/><br/>The 2019-nCoV (strain HB-01) was kindly provided by Professor Wenjie Tan[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], from the<br/><br/>China Centers for Disease Control and Prevention (China CDC). The complete genome for this<br/><br/>01/2020|EPI_ISL_402119), and deposited in the China National Microbiological Data    Center<br/><br/>MDC60013002-01). Seed 2019-nCoV stocks and virus isolation studies were performed<br/><br/>2019-nCoV (accession was submitted number to    GISAID<br/><br/>NMDC10013001 and (BetaCoV/Wuhan/IVDC-HB-<br/><br/>genome accession numbers in Vero cells, which are maintained in Dulbecco's modified Eagle's medium (DMEM, Invitrogen, Carlsbad, USA) supplemented with 10% fetal bovine serum (FBS), 100 IU/ml penicillin, and 100 \u03bcg/ml streptomycin, and incubated at 37\u00b0C, 5% CO2. Titers for 2019-<br/><br/>nCoV were determined using a standard 50% tissue culture infection dose (TCID50) assay.<br/><br/>Animal experiments<br/><br/>For the animal experiments, specific pathogen-free, 6-11-month-old, male and female transgenic hACE2 mice were obtained from the Institute of Laboratory Animal Science, Peking Union Medical College, China. Transgenic mice were generated by microinjection of the mice hACE2 promoter driving the human ACE2 coding sequence into Institute of<br/><br/>Cancer Research (ICR) or C57BL/6J mice; the presence of human ACE2 in the mice used for these experiments was confirmed by PCR (data not shown). The hACE2 mice (n=7)<br/><br/>or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse. As a control, hACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS. PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death. Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection (dpi) and at 5 dpi to collect trachea, lung, kidney, brain, spleen, and liver tissues for the determination of viral load after 2019-nCoV infection. One mouse from the PBS-infected group was dissected at 3 dpi as a control. One mouse from the ICR mice group inoculated with 2019-nCoV was dissected at 3 dpi as the receptor control.<br/><br/>Preparation of Homogenate Supernatant<br/><br/>Tissues homogenates were prepared by homogenizing perfused whole tissue using an electric homogenizer for 2 min 30 s in 1 ml of DMEM. The homogenates were centrifuged at 3,000 rpm for 10 min at 4\u00b0C. The supernatant was collected and stored at \u221280\u00b0C for viral isolation and viral load detection.<br/><br/>RNA extraction and RT-PCR<br/><br/>Total RNA was extracted from organs using the RNeasy Mini Kit (Qiagen, Hilden, Germany), and reverse transcription was performed using the PrimerScript RT Reagent Kit (TaKaRa, Japan) following manufacturer instructions. RT-PCR reactions were performed using the PowerUp SYBG Green Master Mix Kit (Applied Biosystems, USA), in which samples were processed in duplicate using the following cycling protocol: 50\u00b0C for 30 min, 95\u00b0C for 15 min, followed by 40 cycles at 94\u00b0C for 15 s and 60\u00b0C for 45 s. The primer sequences used for RT-PCR are targeted against the envelope (E) gene of 2019-nCoV and are as follows: Forward: 5\u2019-TCAGAATGCCAATCTCCCCAAC-3\u2019, Reverse: 5\u2019-<br/><br/>AAAGGTCCACCCGATACATTGA-3\u2019.<br/><br/>Laboratory preparation of the antibody of 2019-nCoV Spike-1 (S1) protein<br/><br/>Mice were immunized with purified 2019-nCoV S1 protein (Sino biological) and splenocytes of hyper immunized mice were fused with myeloma cells. Positive clones were selected by ELISA using 2019-nCoV S1 protein (Supplementary Figure 1). The cell supernatant of 7D2 clone, binding to 2019-nCoV S1 protein, was collected for immunofluorescence analysis.<br/><br/>Hematoxylin and Eosin Staining<br/><br/>For each mouse, the whole left lung was embedded in Cryo-Gel for histological examination by frozen section method. The lung tissue sections (10 um) were fixed in 100%<br/><br/>acetone for 15 minutes and stained with Hematoxylin and Eosin (H&E). The histopathology of the lung tissue was observed by light microscopy.<br/><br/>Immunofluorescence and confocal microscopy<br/><br/>For viruses and ACE2 receptor localization analysis, the lung tissue sections (10 um) were washed twice with PBS, fixed by Immunol Staining Fix Solution (P0098), blocked 1 hour at room temperature by Immunol Staining Blocking Buffer (P0102) and then incubated overnight at 4\u00b0C with the appropriate primary and secondary antibodies. The nuclei were stained with DAPI. First, anti-2019-nCoV S protein (laboratory preparation) and sera of patient in convalescent phase were used to test the 2019-nCoV, respectively. Secondly, for analysis the relationship between 2019-nCoV and ACE2 receptor, anti-2019-nCoV S protein (mouse monoclonal 7D2, laboratory preparation, 1:200) and anti-hACE2 antibody (rabbit polyclonal, ab15348, Abcam1:200) were used. The sections was washed with PBS and incubated with secondary antibodies conjugated with FITC (goat anti-human, ab6854, Abcam, 1:200), TRITC (goat anti rabbit, ZF-0317, Beijing ZSGB Biotechnology, 1:200), or FITC (goat anti-mouse, ZF-0312, Beijing ZSGB Biotechnology, 1:200), respectively, dried at room temperature and observed via fluorescence microscopy.<br/><br/>Statistical analysis<br/><br/>All data were analyzed with GraphPad Prism 6.0 software. Statistically significant differences between the virus HB-01-infected hACE2 mice and other mice with or without<br/><br/>HB-01 infection were determined using Welch\u2019s t-test. The level of statistical significance is designated as *p<0.05, **p<0.01 or #p<0.05, ##p<0.01."
+        ],
+        "acknowledgement": [
+            "We are grateful for Lianfeng Zhang and Xiuhong Yang to providing the hACE2 mice as a gift. We also thank Gary Wong for helping us proofread the language. This work was supported by the National Research and Development Project of China (Grant No.<br/><br/>2020YFC0841100 and 2020YFC0842000), National Key Research and Development<br/><br/>Project of China (Grant No 2016YFD0500304), CAMS initiative for Innovative Medicine of China (Grant No 2016-I2M-2-006), National Mega projects of China for Major<br/><br/>Infectious Diseases (2017ZX10304402)."
+        ],
+        "supplementary": [
+            "Figure 1. Identification of 7D2 antibody against 2019-nCoV S1 protein. The plate coated by 0.2 ug 2019-nCoV S1 protein was incubated with 7D2 antibody as primary antibody (1:200) and detected using HRP-conjugated goat anti-mouse secondary antibody. The titer of antibody was determined using enzyme-linked immunosorbent assay (ELISA) assay."
+        ],
+        "funding": [
+            "This work was supported by the National Research and Development Project of China (Grant No. 2020YFC0841100 and 2020YFC0842000), National Key Research and Development Project of China (Grant No 2016YFD0500304), CAMS initiative for Innovative Medicine of China (Grant No 2016-I2M-2-006), National Mega projects of China for Major Infectious Diseases (2017ZX10304402)"
+        ],
+        "ethical_compliance": [
+            "All procedures in this study involving animals were reviewed and approved by the Institutional Animal Care and Use Committee of the Institute of"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Supplementary Figure 1"
+            ]
+        },
+        "introduction": [
+            "China[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. The number of infections has since soared, with almost 10,000 cases reported and over 200 deaths as of January 31, 2020 in China[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], and imported cases from travelers of mainland China in several other countries. It is critical to find the pathogenicity and biology of the virus for prevention and treatment of the disease.",
+            "Because 2019-nCoV was highly homologous with Severe acute respiratory syndrome coronavirus (SARS-CoV), human Angiotensin-converting enzyme 2 (hACE2), which was the entry receptor of SARS-CoV, was also considered to have a high binding ability with the 2019-nCoV by molecular biological analysis[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>,<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Therefore, we used the hACE2 transgenic and wild type mice infected with or without 2019-nCoV infection to study the pathogenicity of the virus. Specific pathogen-free, 6-11-month-old, male and female hACE2 mice and wild type mice (n=7) were inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse, and the mock-infected hACE2 mice (n=3) were used as control. Weight loss of up to 5% was observed for 10 dpi only in the 2019-nCoV-",
+            "infected hACE2 mice (Figure 1a), and other clinical symptoms were not observed. Major organs were harvested at 3 dpi and 5 dpi to assess for biodistribution of 2019-nCoV in infected hACE2 mice. Viral RNA was positive by RT-PCR (Figure 1b) and identified by sequencing only in the lung of infected-hACE2 mice at 3 dpi and 5 dpi. Meanwhile, the virus was successfully isolated by Vero cells culture (Figure 1d) and observed by an electron microscope (Figure 1e). However, the virus was not found in the PBS-infected hACE2 mice or infected-wild type mice (data not shown).",
+            "The typical pneumonia was demonstrated as bilateral ground-glass opacity and subsegmental areas of consolidation by image in patient[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], but no histopathological results were reported until now. The major organs of mice were examined by histopathology and immunofluorescence. Compared to PBS-infected hACE2 mice or 2019-nCoV-infectedwild type mice (Figure 2a and b), focal lesions were observed in the dorsal of the right middle lobe in 2019-nCoV-infected hACE2 mice (Figure 2c). Consistently, lung tissues from 2019-nCoV-infected hACE2 mice had multifocally mild or moderate pneumonia with interstitial hyperplasia. And significant inflammatory cells infiltration around the bronchioles and blood vessels (Figure 2f) were found. The alveolar interstitium is also expanded with inflammatory cells, and the alveolar lumen contains cell debris mixed with leukocytes. Bronchial epithelial cells showed swelling, degeneration, and some of them dissolved and necrotic foci (Figure 2g, h and i). Meanwhile, 2019-nCoV antigens were observed in the bronchial epithelial cells (Figures 3h and i) and alveolar epithelial cells (Figures 3n, o, p and q) of lungs in 2019-nCoV-infected hACE2 mice. In addition, the colocalization of 2019-nCoV S protein and hACE2 receptor was demonstrated in alveolar epithelial cells of infected-hACE2 mice by immunofluorescence (Figures 3n, o, p and q).",
+            "The phenomenon was not found in the PBS-infected hACE2 mice (Figures 3k, i and m) or infected-wild type mice (data not shown).",
+            "nCoV has been declared as public health emergency of international concern (PHEIC), with cases reported on multiple continents only weeks after the disease was first reported[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+            "Although it has been determined by bioinformatics that the pathogen of this epidemic is a novel coronavirus, it is necessary to be confirmed by animal experiments following Koch's principles. After experimental infection of transgenic hACE2 mice with one of the earliest known isolates of 2019-nCoV, the mice lost weight and showed interstitial pneumonia, which are comparable with initial clinical reports of pneumonia caused by 2019-nCoV6.",
+            "In addition, the 2019-nCoV S protein and hACE2 receptor were found to co-localize in alveolar epithelial cells, supporting that the 2019-nCoV, similar to SARS-CoV, also utilizes the hACE2 as a receptor for entry[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Therefore, the present study clarified the pathogenicity of 2019-nCoV in hACE2 mice and fulfills the Koch's postulates as well, and the model may facilitate the development of drugs and vaccines against 2019-nCoV."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "2019-nCoV caused pneumonia cases in China has become a public health emergency of international concern (PHEIC). The first priority for prevention and treatment of the disease is to find the pathogenicity of 2019-nCoV in vivo. Weight loss and virus replication were detected in infected-hACE2 mice. The typical histopathology was interstitial pneumonia with significant inflammatory cells infiltration around the bronchioles and blood vessels, and viral antigens were observed in bronchial epithelial cells and alveolar epithelial cells. The phenomenon was not found in wild type mice infected with 2019-",
+            "nCoV and the mock-infected hACE2 mice. The pathogenicity of 2019-nCoV in hACE2 mice was clarified and the Koch's postulates was fulfilled as well, and the model may facilitate the development of therapeutics and vaccines against 2019-nCoV.",
+            "In late December of 2019, a cluster of severe pneumonia cases caused by 2019 novel coronavirus (2019-nCoV), linked to a seafood market in which exotic animals were also sold and consumed, were identified and reported from Wuhan City, Hubei Province, China[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. The number of infections has since soared, with almost 10,000 cases reported and over 200 deaths as of January 31, 2020 in China[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], and imported cases from travelers of mainland China in several other countries. It is critical to find the pathogenicity and biology of the virus for prevention and treatment of the disease.",
+            "Because 2019-nCoV was highly homologous with Severe acute respiratory syndrome coronavirus (SARS-CoV), human Angiotensin-converting enzyme 2 (hACE2), which was the entry receptor of SARS-CoV, was also considered to have a high binding ability with the 2019-nCoV by molecular biological analysis[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>,<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Therefore, we used the hACE2 transgenic and wild type mice infected with or without 2019-nCoV infection to study the pathogenicity of the virus. Specific pathogen-free, 6-11-month-old, male and female hACE2 mice and wild type mice (n=7) were inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse, and the mock-infected hACE2 mice (n=3) were used as control. Weight loss of up to 5% was observed for 10 dpi only in the 2019-nCoV-",
+            "infected hACE2 mice (Figure 1a), and other clinical symptoms were not observed. Major organs were harvested at 3 dpi and 5 dpi to assess for biodistribution of 2019-nCoV in infected hACE2 mice. Viral RNA was positive by RT-PCR (Figure 1b) and identified by sequencing only in the lung of infected-hACE2 mice at 3 dpi and 5 dpi. Meanwhile, the virus was successfully isolated by Vero cells culture (Figure 1d) and observed by an electron microscope (Figure 1e). However, the virus was not found in the PBS-infected hACE2 mice or infected-wild type mice (data not shown).",
+            "The typical pneumonia was demonstrated as bilateral ground-glass opacity and subsegmental areas of consolidation by image in patient[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], but no histopathological results were reported until now. The major organs of mice were examined by histopathology and immunofluorescence. Compared to PBS-infected hACE2 mice or 2019-nCoV-infectedwild type mice (Figure 2a and b), focal lesions were observed in the dorsal of the right middle lobe in 2019-nCoV-infected hACE2 mice (Figure 2c). Consistently, lung tissues from 2019-nCoV-infected hACE2 mice had multifocally mild or moderate pneumonia with interstitial hyperplasia. And significant inflammatory cells infiltration around the bronchioles and blood vessels (Figure 2f) were found. The alveolar interstitium is also expanded with inflammatory cells, and the alveolar lumen contains cell debris mixed with leukocytes. Bronchial epithelial cells showed swelling, degeneration, and some of them dissolved and necrotic foci (Figure 2g, h and i). Meanwhile, 2019-nCoV antigens were observed in the bronchial epithelial cells (Figures 3h and i) and alveolar epithelial cells (Figures 3n, o, p and q) of lungs in 2019-nCoV-infected hACE2 mice. In addition, the colocalization of 2019-nCoV S protein and hACE2 receptor was demonstrated in alveolar epithelial cells of infected-hACE2 mice by immunofluorescence (Figures 3n, o, p and q).",
+            "The phenomenon was not found in the PBS-infected hACE2 mice (Figures 3k, i and m) or infected-wild type mice (data not shown).",
+            "The speed of geographical spread of severe viral pneumonia disease caused by 2019-",
+            "nCoV has been declared as public health emergency of international concern (PHEIC), with cases reported on multiple continents only weeks after the disease was first reported[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+            "Although it has been determined by bioinformatics that the pathogen of this epidemic is a novel coronavirus, it is necessary to be confirmed by animal experiments following Koch's principles. After experimental infection of transgenic hACE2 mice with one of the earliest known isolates of 2019-nCoV, the mice lost weight and showed interstitial pneumonia, which are comparable with initial clinical reports of pneumonia caused by 2019-nCoV6.",
+            "In addition, the 2019-nCoV S protein and hACE2 receptor were found to co-localize in alveolar epithelial cells, supporting that the 2019-nCoV, similar to SARS-CoV, also utilizes the hACE2 as a receptor for entry[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Therefore, the present study clarified the pathogenicity of 2019-nCoV in hACE2 mice and fulfills the Koch's postulates as well, and the model may facilitate the development of drugs and vaccines against 2019-nCoV."
+        ],
+        "Materials and methods": [],
+        "Ethics statement": [
+            "Murine studies were performed in an animal biosafety level 3 (ABSL3) facility using",
+            "HEPA-filtered isolators. All procedures in this study involving animals were reviewed and approved by the Institutional Animal Care and Use Committee of the Institute of",
+            "Laboratory Animal Science, Peking Union Medical College (BLL20001).",
+            "The 2019-nCoV (strain HB-01) was kindly provided by Professor Wenjie Tan[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], from the",
+            "China Centers for Disease Control and Prevention (China CDC). The complete genome for this",
+            "01/2020|EPI_ISL_402119), and deposited in the China National Microbiological Data",
+            "MDC60013002-01). Seed 2019-nCoV stocks and virus isolation studies were performed",
+            "genome accession numbers in Vero cells, which are maintained in Dulbecco's modified Eagle's medium (DMEM, Invitrogen, Carlsbad, USA) supplemented with 10% fetal bovine serum (FBS), 100 IU/ml penicillin, and 100 \u03bcg/ml streptomycin, and incubated at 37\u00b0C, 5% CO2. Titers for 2019-",
+            "nCoV were determined using a standard 50% tissue culture infection dose (TCID50) assay.",
+            "For the animal experiments, specific pathogen-free, 6-11-month-old, male and female transgenic hACE2 mice were obtained from the Institute of Laboratory Animal Science, Peking Union Medical College, China. Transgenic mice were generated by microinjection of the mice hACE2 promoter driving the human ACE2 coding sequence into Institute of",
+            "Cancer Research (ICR) or C57BL/6J mice; the presence of human ACE2 in the mice used for these experiments was confirmed by PCR (data not shown). The hACE2 mice (n=7)",
+            "or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse. As a control, hACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS. PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death. Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection (dpi) and at 5 dpi to collect trachea, lung, kidney, brain, spleen, and liver tissues for the determination of viral load after 2019-nCoV infection. One mouse from the PBS-infected group was dissected at 3 dpi as a control. One mouse from the ICR mice group inoculated with 2019-nCoV was dissected at 3 dpi as the receptor control.",
+            "Tissues homogenates were prepared by homogenizing perfused whole tissue using an electric homogenizer for 2 min 30 s in 1 ml of DMEM. The homogenates were centrifuged at 3,000 rpm for 10 min at 4\u00b0C. The supernatant was collected and stored at \u221280\u00b0C for viral isolation and viral load detection.",
+            "Total RNA was extracted from organs using the RNeasy Mini Kit (Qiagen, Hilden, Germany), and reverse transcription was performed using the PrimerScript RT Reagent Kit (TaKaRa, Japan) following manufacturer instructions. RT-PCR reactions were performed using the PowerUp SYBG Green Master Mix Kit (Applied Biosystems, USA), in which samples were processed in duplicate using the following cycling protocol: 50\u00b0C for 30 min, 95\u00b0C for 15 min, followed by 40 cycles at 94\u00b0C for 15 s and 60\u00b0C for 45 s. The primer sequences used for RT-PCR are targeted against the envelope (E) gene of 2019-nCoV and are as follows: Forward: 5\u2019-TCAGAATGCCAATCTCCCCAAC-3\u2019, Reverse: 5\u2019-",
+            "AAAGGTCCACCCGATACATTGA-3\u2019.",
+            "Mice were immunized with purified 2019-nCoV S1 protein (Sino biological) and splenocytes of hyper immunized mice were fused with myeloma cells. Positive clones were selected by ELISA using 2019-nCoV S1 protein (Supplementary Figure 1). The cell supernatant of 7D2 clone, binding to 2019-nCoV S1 protein, was collected for immunofluorescence analysis.",
+            "For each mouse, the whole left lung was embedded in Cryo-Gel for histological examination by frozen section method. The lung tissue sections (10 um) were fixed in 100%",
+            "acetone for 15 minutes and stained with Hematoxylin and Eosin (H&E). The histopathology of the lung tissue was observed by light microscopy.",
+            "For viruses and ACE2 receptor localization analysis, the lung tissue sections (10 um) were washed twice with PBS, fixed by Immunol Staining Fix Solution (P0098), blocked 1 hour at room temperature by Immunol Staining Blocking Buffer (P0102) and then incubated overnight at 4\u00b0C with the appropriate primary and secondary antibodies. The nuclei were stained with DAPI. First, anti-2019-nCoV S protein (laboratory preparation) and sera of patient in convalescent phase were used to test the 2019-nCoV, respectively. Secondly, for analysis the relationship between 2019-nCoV and ACE2 receptor, anti-2019-nCoV S protein (mouse monoclonal 7D2, laboratory preparation, 1:200) and anti-hACE2 antibody (rabbit polyclonal, ab15348, Abcam1:200) were used. The sections was washed with PBS and incubated with secondary antibodies conjugated with FITC (goat anti-human, ab6854, Abcam, 1:200), TRITC (goat anti rabbit, ZF-0317, Beijing ZSGB Biotechnology, 1:200), or FITC (goat anti-mouse, ZF-0312, Beijing ZSGB Biotechnology, 1:200), respectively, dried at room temperature and observed via fluorescence microscopy.",
+            "All data were analyzed with GraphPad Prism 6.0 software. Statistically significant differences between the virus HB-01-infected hACE2 mice and other mice with or without",
+            "HB-01 infection were determined using Welch\u2019s t-test. The level of statistical significance is designated as *p<0.05, **p<0.01 or #p<0.05, ##p<0.01."
+        ],
+        "Acknowledgement": [
+            "We are grateful for Lianfeng Zhang and Xiuhong Yang to providing the hACE2 mice as a gift. We also thank Gary Wong for helping us proofread the language. This work was supported by the National Research and Development Project of China (Grant No.",
+            "Project of China (Grant No 2016YFD0500304), CAMS initiative for Innovative Medicine of China (Grant No 2016-I2M-2-006), National Mega projects of China for Major",
+            "Infectious Diseases (2017ZX10304402)."
+        ],
+        "References": [
+            "1. Zhu N, et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med.",
+            "Jan 24. doi: 10.1056/NEJMoa2001017.",
+            "2. Ren LL, et al Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study. Chin Med J (Engl). 2020 Jan 30. doi: 10.1097/CM9.0000000000000722.",
+            "3. China National Health Commission. Update on the novel coronavirus pneumonia outbreak (Jan 24, 2020).",
+            "http://www.nhc.gov.cn/yjb/s7860/202002/84faf71e096446fdb1ae44939ba5c528.shtml.",
+            "4. Xintian Xu, et al Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Science China.2020.1.",
+            "Beijing: China",
+            "National",
+            "Health",
+            "Commission, 5. Kuba K, et al A crucial role of angiotensin converting enzyme 2 (hACE2) in SARS coronavirusinduced lung injury. Nat Med. 2005 Aug;11(8):875-9. doi: 10.1038/nm1267.",
+            "6. Huang C, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",
+            "Lancet. 2020 Jan 24. pii: S0140-6736(20)30183-5. doi: 10.1016/S0140-6736(20)30183-5.",
+            "7. Chan JF, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020 Jan 24. pii: S0140-",
+            "6736(20)30154-9. doi: 10.1016/S0140-6736(20)30154-9.",
+            "Figure 1. Weight loss and virus detection in hACE2 mice post infection with 2019-",
+            "nCoV. Two groups of mice were experimentally challenged intranasally with a dose of 105",
+            "TCID50 2019-nCoV, and the PBS-infected hACE2 mice were used as control. WT mice were inoculated with 2019-nCoV as receptor control. And then the weight loss was recorded over 10 days (a). Mice were sacrificed and their major organs harvested for viral load and virus isolation at 3 and 5 dpi, the distribution of 2019-nCoV in various organs of infected hACE2 mice was detected by RT-PCR and the results of 3 dpi was representatively shown (b) (line 1: positive control, line[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]: negative control, line 3-10: trachea, lung, heart, spleen, intestine, liver, kidney and brain in turn). (c) Live virus could not be isolated from the lungs of infected-WT mice on Vero cells, but (d) cytopathic effects were observed from Vero cells infected with homogenate from the lungs of infected-hACE2 mice. Electron microscope pictures of 2019-nCoV from infected-hACE2 mice lung tissue culture homogenate at 3 dpi (e). Significant differences are indicated with different asterisks (Welch\u2019s t-test, ACE2-HB-01 vs ACE2-PBS, *p<0.05, **p<0.01; ACE2-HB-01 vs WT-HB-01, #p<0.05, ##p<0.01).",
+            "Figure 2. Gross pathology and histopathology of lungs of 2019-nCoV-infected hACE2 mice. Gross pathology of lungs from infected-WT mice (a), PBS-infected hACE2 mice (b) and 2019-nCoV-infected hACE2 mice (c) at 3 dpi. (d-i) Histological examination of lungs of infected-WT mice (d), PBS-infected hACE2 mice (e), and 2019-nCoV-infected hACE2 mice (f-i). Histopathological examination of bronchioles and blood vessels (f) and alveolar interstitum (g-i) from infected-hACE2 mice. Yellow bar = 200 \u03bcm, Black bar = 100 \u03bcm, Red bar = 50 \u03bcm.",
+            "Figure 3. Immunofluorescence analysis of viral antigens in lungs of 2019-nCoV-",
+            "infected hACE2 mice. (a-i): Fluorescence of sections of mice lungs after incubation with",
+            "DAPI or antisera of 2019-nCoV-convalescent patients respectively. The lung sections of infected-WT mice (a-c), PBS-infected hACE2 mice (d-f) and infected-hACE2 mice (g-i).",
+            "Green arrows indicate presence of 2019-nCoV in the alveolar epithelial cells. (j-q): Colocalization of 2019-nCoV S protein and hACE2 receptor in hACE2 mouse lungs, the sections were incubated with DAPI, a polyclonal antibody against 2019-nCoV S protein or human ACE2 protein respectively. The lung sections of PBS-infected hACE2 mice (j-m).",
+            "The lung sections of infected-hACE2 mice (n-q). The white arrows showed the viral S protein (o) and hACE2 (p) respectively, the yellow arrows showed the merge of viral S protein and hACE2 (q).",
+            ""
+        ],
+        "Supplementary": []
+    },
+    "participants": [
+        {
+            "participant": "mice",
+            "number": 7,
+            "context": "Transgenic mice were generated by microinjection of the mice hACE2 promoter driving the human ACE2 coding sequence into Institute of<br/><br/>Cancer Research (ICR) or C57BL/6J mice; the presence of human ACE2 in the mice used for these experiments was confirmed by PCR (data not shown). <mark class=\"stats\">The hACE2 mice (n=7)<br/><br/>or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse</mark>. As a control, hACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS"
+        },
+        {
+            "participant": "mice",
+            "number": 3,
+            "context": "The hACE2 mice (n=7)<br/><br/>or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse. <mark class=\"stats\">As a control, hACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS</mark>. PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death"
+        },
+        {
+            "participant": "mice",
+            "number": 2,
+            "context": "PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death. <mark class=\"stats\">Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection (dpi) and at 5 dpi to collect trachea, lung, kidney, brain, spleen, and liver tissues for the determination of viral load after 2019-nCoV infection</mark>. One mouse from the PBS-infected group was dissected at 3 dpi as a control"
+        },
+        {
+            "participant": "mice",
+            "number": 7,
+            "context": "Cancer Research (ICR) or C57BL/6J mice; the presence of human ACE2 in the mice used for these experiments was confirmed by PCR (data not shown). <mark class=\"stats\">The hACE2 mice (n=7)</mark>. or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse"
+        },
+        {
+            "participant": "mice",
+            "number": 5,
+            "context": "The hACE2 mice (n=7). <mark class=\"stats\">or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse</mark>. As a control, hACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS"
+        },
+        {
+            "participant": "mice",
+            "number": 3,
+            "context": "or ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse. <mark class=\"stats\">As a control, hACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS</mark>. PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death"
+        },
+        {
+            "participant": "mice",
+            "number": 2,
+            "context": "PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death. <mark class=\"stats\">Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection (dpi) and at 5 dpi to collect trachea, lung, kidney, brain, spleen, and liver tissues for the determination of viral load after 2019-nCoV</mark>. infection"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Statistically significant differences between the virus HB-01-infected hACE2 mice and other mice with or without<br/><br/>HB-01 infection were determined using Welch\u2019s t-test</mark>",
+                "tests": [
+                    {
+                        "test": "Welch\u2019s"
+                    },
+                    {
+                        "test": "t-test"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "Statistically significant differences between the virus HB-01-infected hACE2 mice and other mice with or without<br/><br/>HB-01 infection were determined using Welch\u2019s t-test. <mark class=\"stats\">The level of statistical significance is designated as *p<0.05, **p<0.01 or #p<0.05, ##p<0.01</mark>. "
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">HB-01 infection were determined using Welch\u2019s t-test</mark>",
+                "tests": [
+                    {
+                        "test": "Welch\u2019s"
+                    },
+                    {
+                        "test": "t-test"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "HB-01 infection were determined using Welch\u2019s t-test. <mark class=\"stats\">The level of statistical significance is designated as *p<0.05, **p<0.01 or #p<0.05, ##p<0.01</mark>. We are grateful for Lianfeng Zhang and Xiuhong Yang to providing the hACE2 mice as a gift"
+        }
+    ],
+    "keywords": [
+        "public health emergency of international concern",
+        "pneumonia",
+        "Hematoxylin and Eosin",
+        "human Angiotensin-converting enzyme 2",
+        "coronavirus",
+        "hace2 mouse",
+        "public health",
+        "novel coronavirus",
+        "international concern",
+        "fetal bovine serum",
+        "transgenic",
+        "type mouse",
+        "interstitial pneumonia",
+        "inflammatory cell",
+        "animal biosafety level 3",
+        "alveolar epithelial cell",
+        "infected hace2 mouse",
+        "bronchial epithelial cell",
+        "sars cov",
+        "weight loss",
+        "wild type mouse",
+        "histopathology",
+        "SARS",
+        "health emergency"
+    ],
+    "keyword_relevance": {
+        "human Angiotensin-converting enzyme 2": 0.43333333333333335,
+        "pneumonia": 0.09166666666666666,
+        "coronavirus": 0.075,
+        "novel coronavirus": 0.058333333333333334,
+        "alveolar epithelial cell": 0.041666666666666664,
+        "public health emergency of international concern": 0.03333333333333333,
+        "histopathology": 0.03333333333333333,
+        "SARS": 0.03333333333333333,
+        "Hematoxylin and Eosin": 0.025,
+        "transgenic": 0.025,
+        "inflammatory cell": 0.025,
+        "public health": 0.016666666666666666,
+        "international concern": 0.016666666666666666,
+        "fetal bovine serum": 0.016666666666666666,
+        "interstitial pneumonia": 0.016666666666666666,
+        "animal biosafety level 3": 0.016666666666666666,
+        "bronchial epithelial cell": 0.016666666666666666,
+        "health emergency": 0.016666666666666666,
+        "weight loss": 0.008333333333333333,
+        "hace2 mouse": 0.0,
+        "type mouse": 0.0,
+        "infected hace2 mouse": 0.0,
+        "sars cov": 0.0,
+        "wild type mouse": 0.0
+    },
+    "species": [],
+    "summary": [
+        "China[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. The number of infections has since soared, with almost 10,000 cases reported and over 200 deaths as of January 31, 2020 in China[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], and imported cases from travelers of mainland China in several other countries.",
+        "Infected hACE2 mice (Figure 1a), and other clinical symptoms were not observed.",
+        "Major organs were harvested at 3 dpi and 5 dpi to assess for biodistribution of 2019-nCoV in infected hACE2 mice.",
+        "Viral RNA was positive by RT-PCR (Figure 1b) and identified by sequencing only in the lung of infected-hACE2 mice at 3 dpi and 5 dpi.",
+        "The virus was not found in the PBS-infected hACE2 mice or infected-wild type mice.",
+        "Lung tissues from 2019-nCoV-infected hACE2 mice had multifocally mild or moderate pneumonia with interstitial hyperplasia.",
+        "2019-nCoV antigens were observed in the bronchial epithelial cells (Figures 3h and i) and alveolar epithelial cells (Figures 3n, o, p and q) of lungs in 2019-nCoV-infected hACE2 mice.",
+        "The colocalization of 2019-nCoV S protein and hACE2 receptor was demonstrated in alveolar epithelial cells of infected-hACE2 mice by immunofluorescence (Figures 3n, o, p and q).",
+        "The phenomenon was not found in the PBS-infected hACE2 mice (Figures 3k, i and m) or infected-wild type mice.",
+        "After experimental infection of transgenic hACE2 mice with one of the earliest known isolates of 2019-nCoV, the mice lost weight and showed interstitial pneumonia, which are comparable with initial clinical reports of pneumonia caused by 2019-nCoV6.",
+        "Specific pathogen-free, 6-11-month-old, male and female transgenic hACE2 mice were obtained from the Institute of Laboratory Animal Science, Peking Union Medical College, China.",
+        "ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse.",
+        "HACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS.",
+        "PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death.",
+        "Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection and at 5 dpi to collect trachea, lung, kidney, brain, spleen, and liver tissues for the determination of viral load after 2019-nCoV",
+        "One mouse from the ICR mice group inoculated with 2019-nCoV was dissected at 3 dpi as the receptor control.",
+        "The cell supernatant of 7D2 clone, binding to 2019-nCoV S1 protein, was collected for immunofluorescence analysis.",
+        "For viruses and ACE2 receptor localization analysis, the lung tissue sections (10 um) were washed twice with PBS, fixed by Immunol Staining Fix Solution (P0098), blocked 1 hour at room temperature by Immunol Staining Blocking Buffer (P0102) and incubated overnight at 4\u00b0C with the appropriate primary and secondary antibodies."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "China[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. The number of infections has since soared, with almost 10,000 cases reported and over 200 deaths as of January 31, 2020 in China[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>], and imported cases from travelers of mainland China in several other countries.",
+            "Infected hACE2 mice (Figure 1a), and other clinical symptoms were not observed.",
+            "Major organs were harvested at 3 dpi and 5 dpi to assess for biodistribution of 2019-nCoV in infected hACE2 mice.",
+            "Viral RNA was positive by RT-PCR (Figure 1b) and identified by sequencing only in the lung of infected-hACE2 mice at 3 dpi and 5 dpi."
+        ],
+        "Results": [
+            "The virus was not found in the PBS-infected hACE2 mice or infected-wild type mice.",
+            "Lung tissues from 2019-nCoV-infected hACE2 mice had multifocally mild or moderate pneumonia with interstitial hyperplasia.",
+            "2019-nCoV antigens were observed in the bronchial epithelial cells (Figures 3h and i) and alveolar epithelial cells (Figures 3n, o, p and q) of lungs in 2019-nCoV-infected hACE2 mice.",
+            "The colocalization of 2019-nCoV S protein and hACE2 receptor was demonstrated in alveolar epithelial cells of infected-hACE2 mice by immunofluorescence (Figures 3n, o, p and q).",
+            "The phenomenon was not found in the PBS-infected hACE2 mice (Figures 3k, i and m) or infected-wild type mice.",
+            "After experimental infection of transgenic hACE2 mice with one of the earliest known isolates of 2019-nCoV, the mice lost weight and showed interstitial pneumonia, which are comparable with initial clinical reports of pneumonia caused by 2019-nCoV6.",
+            "Specific pathogen-free, 6-11-month-old, male and female transgenic hACE2 mice were obtained from the Institute of Laboratory Animal Science, Peking Union Medical College, China.",
+            "ICR mice (n=5) were respectively inoculated intranasally with 2019-nCoV stock virus at a dosage of 105 TCID50 per mouse.",
+            "HACE2 mice (n=3) were mock-infected with an equivalent challenge volume of PBS.",
+            "PBS- and 2019-nCoV-infected animals were continuously observed daily to record body weights, clinical symptoms, decreased responsiveness to external stimuli and death."
+        ],
+        "Conclusion": [
+            "Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection and at 5 dpi to collect trachea, lung, kidney, brain, spleen, and liver tissues for the determination of viral load after 2019-nCoV",
+            "One mouse from the ICR mice group inoculated with 2019-nCoV was dissected at 3 dpi as the receptor control.",
+            "The cell supernatant of 7D2 clone, binding to 2019-nCoV S1 protein, was collected for immunofluorescence analysis.",
+            "For viruses and ACE2 receptor localization analysis, the lung tissue sections (10 um) were washed twice with PBS, fixed by Immunol Staining Fix Solution (P0098), blocked 1 hour at room temperature by Immunol Staining Blocking Buffer (P0102) and incubated overnight at 4\u00b0C with the appropriate primary and secondary antibodies."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Zhu_2020_a",
+            "entry": "1. Zhu N, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Jan 24. doi: 10.1056/NEJMoa2001017.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "2",
+            "alt_id": "Ren_2020_a",
+            "entry": "2. Ren LL, et al. Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study. Chin Med J (Engl). 2020 Jan 30. doi: 10.1097/CM9.0000000000000722.",
+            "crossref": "https://dx.doi.org/10.1097/CM9.0000000000000722",
+            "scite": "https://scite.ai/reports/10.1097/CM9.0000000000000722",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1097/CM9.0000000000000722"
+        },
+        {
+            "id": "3",
+            "alt_id": "3._2020_a",
+            "entry": "3. China National Health Commission. Update on the novel coronavirus pneumonia outbreak (Jan 24, 2020). Commission, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=China%20National%20Health%20Commission%20Update%20on%20the%20novel%20coronavirus%20pneumonia%20outbreak%20Jan%2024%202020%20Commission%202020"
+        },
+        {
+            "id": "_0000_a",
+            "alt_id": "4",
+            "entry": "http://www.nhc.gov.cn/yjb/s7860/202002/84faf71e096446fdb1ae44939ba5c528.shtml.",
+            "url": "http://www.nhc.gov.cn/yjb/s7860/202002/84faf71e096446fdb1ae44939ba5c528.shtml"
+        },
+        {
+            "id": "4",
+            "alt_id": "Xu_0000_a",
+            "entry": "4. Xintian Xu, et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Science China.2020.1.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xu%2C%20Xintian%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission.%20Science%20China.2020.1"
+        },
+        {
+            "id": "5",
+            "alt_id": "Kuba_2005_a",
+            "entry": "5. Kuba K, et al. A crucial role of angiotensin converting enzyme 2 (hACE2) in SARS coronavirus199 induced lung injury. Nat Med. 2005 Aug;11(8):875-9. doi: 10.1038/nm1267. 200 6. Huang C, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.",
+            "crossref": "https://dx.doi.org/10.1038/nm1267.200",
+            "scite": "https://scite.ai/reports/10.1038/nm1267.200",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nm1267.200"
+        },
+        {
+            "id": "201",
+            "alt_id": "Lancet_2020_a",
+            "entry": "201 Lancet. 2020 Jan 24. pii: S0140-6736(20)30183-5. doi: 10.1016/S0140-6736(20)30183-5. 202 7.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30183-5.202",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30183-5.202"
+        },
+        {
+            "id": "Chan_2020_a",
+            "alt_id": "8",
+            "entry": "Chan JF, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating 203 person-to-person transmission: a study of a family cluster. Lancet. 2020 Jan 24. pii: S0140204 6736(20)30154-9. doi: 10.1016/S0140-6736(20)30154-9. 205",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30154-9.205",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30154-9.205",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930154-9.205"
+        }
+    ],
+    "facts": [
+        "Weight loss and virus replication were detected in infected-hACE2 mice",
+        "viral antigens were observed in bronchial epithelial cells",
+        "The phenomenon was not found in wild type mice infected with",
+        "the model may facilitate the development of therapeutics and vaccines",
+        "without 2019-nCoV infection to study the pathogenicity of the virus",
+        "the mock-infected hACE2 mice were used as control",
+        "5% was observed for 10 dpi",
+        "Major organs were harvested at 3 dpi",
+        "5 dpi to assess for biodistribution",
+        "Viral RNA was positive by RT-PCR",
+        "the virus was successfully isolated by Vero cells culture",
+        "the virus was not found in the PBS-infected hACE2 mice",
+        "The typical pneumonia was demonstrated as bilateral ground-glass opacity",
+        "The major organs of mice were examined by histopathology and immunofluorescence",
+        "focal lesions were observed in the dorsal of the right middle lobe",
+        "The alveolar interstitium is expanded with inflammatory cells",
+        "the alveolar lumen contains cell debris mixed with leukocytes",
+        "2019-nCoV antigens were observed in the bronchial epithelial cells",
+        "hACE2 receptor was demonstrated in alveolar epithelial cells of infected-hACE2 mice",
+        "The phenomenon was not found in the PBS-infected hACE2 mice",
+        "nCoV has been declared as public health emergency of international concern",
+        "with cases reported on multiple continents only weeks after the disease was first reported[7",
+        "necessary to be confirmed by animal experiments following Koch's principles",
+        "which are comparable with initial clinical reports of pneumonia caused by",
+        "hACE2 receptor were found to co-localize in alveolar epithelial cells",
+        "the model may facilitate the development of drugs and vaccines",
+        "Murine studies were performed in an animal biosafety level 3 facility using",
+        "which are maintained in Dulbecco's modified Eagle's medium supplemented with",
+        "female transgenic hACE2 mice were obtained from the Institute of Laboratory Animal Science",
+        "Transgenic mice were generated by microinjection of the mice",
+        "the presence of human ACE2 in the mice used for these experiments was confirmed by",
+        "hACE2 mice were mock-infected with an equivalent challenge volume of PBS",
+        "Two mice from the 2019-nCoV-infected group were dissected at 3 days post-infection",
+        "One mouse from the PBS-infected group was dissected at 3 dpi as a control",
+        "Tissues homogenates were prepared by homogenizing perfused whole tissue using an electric homogenizer for",
+        "The homogenates were centrifuged at 3,000 rpm for 10 min",
+        "Total RNA was extracted from organs using the",
+        "in which samples were processed in duplicate using the following cycling protocol",
+        "60\u00b0C for 45 s. The primer sequences used for RT-PCR are targeted against the envelope gene",
+        "2019-nCoV S1 protein and splenocytes of hyper immunized mice were fused with myeloma cells",
+        "Positive clones were selected by ELISA using",
+        "the whole left lung was embedded in Cryo-Gel for histological examination",
+        "The lung tissue sections were fixed in 100%",
+        "The histopathology of the lung tissue was observed by light microscopy",
+        "The nuclei were stained with DAPI",
+        "The sections was washed with PBS",
+        "with secondary antibodies conjugated with FITC",
+        "All data were analyzed with GraphPad Prism 6.0 software",
+        "The virus was not found in the PBS-infected hACE2 mice",
+        "HACE2 mice were mock-infected with an equivalent challenge volume of PBS"
+    ],
+    "claims": [],
+    "findings": [
+        "The level of statistical significance is designated as *p<0.05, **p<0.01 or #p<0.05, ##p<0.01"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Major organs were harvested at 3 dpi and 5 dpi to assess for biodistribution of 2019-nCoV in infected human Angiotensin-converting enzyme 2 mice",
+        "The typical pneumonia was demonstrated as bilateral ground-glass opacity and subsegmental areas of consolidation by image in patient[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>], but no histopathological results were reported until",
+        "Compared to PBS-infected human Angiotensin-converting enzyme 2 mice or 2019-nCoV-infectedwild type mice (Figure 2a and b), focal lesions were observed in the dorsal of the right middle lobe in 2019-nCoV-infected human Angiotensin-converting enzyme 2 mice (Figure 2c)",
+        "The alveolar interstitium is expanded with inflammatory cells, and the alveolar lumen contains cell debris mixed with leukocytes",
+        "2019-nCoV antigens were observed in the bronchial epithelial cells (Figures 3h and i) and alveolar epithelial cells (Figures 3n, o, p and q) of lungs in 2019-nCoV-infected human Angiotensin-converting enzyme 2 mice",
+        "The colocalization of 2019-nCoV S protein and human Angiotensin-converting enzyme 2 receptor was demonstrated in alveolar epithelial cells of infected-human Angiotensin-converting enzyme 2 mice by immunofluorescence (Figures 3n, o, p and q)",
+        "NCoV has been declared as public health emergency of international concern (PHEIC), with cases reported on multiple continents only weeks after the disease was first reported[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]",
+        "After experimental infection of transgenic human Angiotensin-converting enzyme 2 mice with one of the earliest known isolates of 2019-nCoV, the mice lost weight and showed interstitial pneumonia, which are comparable with initial clinical reports of pneumonia caused by 2019-nCoV6",
+        "The 2019-nCoV S protein and human Angiotensin-converting enzyme 2 receptor were found to co-localize in alveolar epithelial cells, supporting that the 2019-nCoV, similar to SARS-CoV, utilizes the human Angiotensin-converting enzyme 2 as a receptor for entry[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+        "The present study clarified the pathogenicity of 2019-nCoV in human Angiotensin-converting enzyme 2 mice and fulfills the Koch's postulates as well, and the model may facilitate the development of drugs and vaccines against 2019-nCoV",
+        "Specific pathogen-free, 6-11-month-old, male and female transgenic human Angiotensin-converting enzyme 2 mice were obtained from the Institute of Laboratory Animal Science, Peking Union Medical College, China",
+        "Transgenic mice were generated by microinjection of the mice human Angiotensin-converting enzyme 2 promoter driving the human ACE2 coding sequence into Institute of"
+    ],
+    "top_statements": [
+        "China[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "Major organs were harvested at 3 dpi and 5 dpi to assess for biodistribution of 2019-nCoV in infected human Angiotensin-converting enzyme 2 mice",
+        "2019-nCoV antigens were observed in the bronchial epithelial cells (Figures 3h and i) and alveolar epithelial cells (Figures 3n, o, p and q) of lungs in 2019-nCoV-infected human Angiotensin-converting enzyme 2 mice",
+        "The colocalization of 2019-nCoV S protein and human Angiotensin-converting enzyme 2 receptor was demonstrated in alveolar epithelial cells of infected-human Angiotensin-converting enzyme 2 mice by immunofluorescence (Figures 3n, o, p and q)",
+        "NCoV has been declared as public health emergency of international concern (PHEIC), with cases reported on multiple continents only weeks after the disease was first reported[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]",
+        "After experimental infection of transgenic human Angiotensin-converting enzyme 2 mice with one of the earliest known isolates of 2019-nCoV, the mice lost weight and showed interstitial pneumonia, which are comparable with initial clinical reports of pneumonia caused by 2019-nCoV6"
+    ],
+    "headline": "NCoV has been declared as public health emergency of international concern, with cases reported on multiple continents only weeks after the disease was first reported7",
+    "contexts": [],
+    "abbreviations": {
+        "PHEIC": "public health emergency of international concern",
+        "hACE2": "human Angiotensin-converting enzyme 2",
+        "ABSL3": "animal biosafety level 3",
+        "FBS": "fetal bovine serum",
+        "H&E": "Hematoxylin and Eosin"
+    }
+}

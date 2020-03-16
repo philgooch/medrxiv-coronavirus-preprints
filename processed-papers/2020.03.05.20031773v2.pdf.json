@@ -1,0 +1,307 @@
+{
+    "filename": "2020.03.05.20031773v2.pdf",
+    "content_type": "application/pdf",
+    "file_size": 90277,
+    "metadata": {
+        "title": "Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship",
+        "author": "Timothy W Russell, Joel Hellewell, Christopher I Jarvis, Kevin Van Zandvoort, Sam Abbott, Ruwan Ratnayake, CMMID COVID-19 working group, Stefan Flasche, Rosalind",
+        "date": 2020,
+        "affiliations": [
+            "Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+            "Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London, United Kingdom",
+            "Centre for the Mathematical Modelling of Infectious Diseases (CMMID) COVID-19 working group are listed at the end of the article"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.05.20031773",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.05.20031773v2.pdf"
+        },
+        "abstract": "Adjusting for delay from confirmation-to-death, we estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% (0.75%\u20135.3%) and 1.2% (0.38\u20132.7%). Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2\u2013 1.2%) and 1.1% (95% CI: 0.3\u20132.4%) respectively.\nMain text\nIn real-time, estimates of the case fatality ratio (CFR) and infection fatality ratio (IFR) can be biased upwards by under-reporting of cases and downwards by failure to account for the delay from confirmation-to-death. Collecting detailed epidemiological information from a closed population such as the quarantined Diamond Princess can produce a more comprehensive description of asymptomatic and symptomatic cases and their subsequent outcomes. Using data from the Diamond Princess, and adjusting for delay from confirmation-to-outcome and agestructure of the ship\u2019s occupants, we estimated the IFR and CFR for the outbreak in China. As of 3rd March 2020, there have been 92,809 confirmed cases of coronavirus disease 2019 (COVID-19), with 3,164 deaths [1]. On 1st February 2020, a patient tested positive for COVID-19 in Hong Kong; they disembarked from the Diamond Princess cruise ship on the 25th January [2,3]. This patient had onset of symptoms on the 19th January, one day before boarding the ship",
+        "references": "@incollection{unknown2019a,\n  title = {World Health Organization (WHO). Novel Coronavirus},\n  date = {2019-03-03},\n  publisher = {WHO},\n  url = {https://www.who.int/emergencies/diseases/novelcoronavirus-2019/situation-reports.},\n  source = {Situation Report-43},\n  language = {},\n  address = {Geneva}\n}\n@techreport{unknown-a,\n  title = {Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases},\n  url = {https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html},\n  language = {},\n  urldate = {(3 Mar2020).},\n  institution = {National Institute of}\n}\n@techreport{unknown-b,\n  title = {Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases},\n  url = {https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html},\n  language = {},\n  urldate = {(3 Mar2020).},\n  institution = {National Institute of}\n}\n@article{kucharski2014a,\n  author = {Kucharski, A.J. and Edmunds, W.J.},\n  title = {Case fatality rate for ebola virus disease in west africa},\n  journal = {The Lancet},\n  date = {2014},\n  volume = {384},\n  pages = {1260},\n  language = {}\n}\n@article{nishiura2009a,\n  author = {Nishiura, H. and Klinkenberg, D. and Roberts, M.},\n  title = {Early epidemiological assessment of the virulence of emerging infectious diseases: A case study of an influenza pandemic},\n  journal = {PLoS One},\n  date = {2009},\n  volume = {4},\n  more-authors = {true},\n  language = {}\n}\n@article{linton-a,\n  author = {Linton, N.M. and Kobayashi, T. and Yang, Y.},\n  title = {Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data},\n  journal = {Journal of Clinical Medicine},\n  volume = {2020},\n  pages = {538},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{wu2020a,\n  author = {Wu, Z. and McGoogan, J.M.},\n  title = {Characteristics of and important lessons from the coronavirus disease 2019 (covid-19) outbreak in china: Summary of a report of 72 314 cases from the chinese center for disease control and prevention},\n  journal = {JAMA},\n  date = {2020},\n  language = {}\n}\n@article{wilson2009a,\n  author = {Wilson, N. and Baker, M.},\n  title = {The emerging influenza pandemic: Estimating the case fatality ratio},\n  journal = {Eurosurveillance},\n  date = {2009},\n  volume = {14},\n  pages = {19255},\n  language = {}\n}\n",
+        "emails": [
+            "timothy.russell@lshtm.ac.uk"
+        ],
+        "references_ris": "TY  - CHAP\nTI  - World Health Organization (WHO). Novel Coronavirus\nPY  - 2019\nDA  - 2019/03/03\nPB  - WHO\nUR  - https://www.who.int/emergencies/diseases/novelcoronavirus-2019/situation-reports.\nT2  - Situation Report-43\nLA  - \nCY  - Geneva\nER  - \n\nTY  - RPRT\nTI  - Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases\nUR  - https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html\nLA  - \nC1  - (3 Mar2020).\nC1  - National Institute of\nER  - \n\nTY  - RPRT\nTI  - Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases\nUR  - https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html\nLA  - \nC1  - (3 Mar2020).\nC1  - National Institute of\nER  - \n\nTY  - JOUR\nAU  - Kucharski, A.J.\nAU  - Edmunds, W.J.\nTI  - Case fatality rate for ebola virus disease in west africa\nT2  - The Lancet\nPY  - 2014\nDA  - 2014\nVL  - 384\nSP  - 1260\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nishiura, H.\nAU  - Klinkenberg, D.\nAU  - Roberts, M.\nTI  - Early epidemiological assessment of the virulence of emerging infectious diseases: A case study of an influenza pandemic\nT2  - PLoS One\nPY  - 2009\nDA  - 2009\nVL  - 4\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Linton, N.M.\nAU  - Kobayashi, T.\nAU  - Yang, Y.\nTI  - Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data\nT2  - Journal of Clinical Medicine\nVL  - 2020\nSP  - 538\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Z.\nAU  - McGoogan, J.M.\nTI  - Characteristics of and important lessons from the coronavirus disease 2019 (covid-19) outbreak in china: Summary of a report of 72 314 cases from the chinese center for disease control and prevention\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wilson, N.\nAU  - Baker, M.\nTI  - The emerging influenza pandemic: Estimating the case fatality ratio\nT2  - Eurosurveillance\nPY  - 2009\nDA  - 2009\nVL  - 14\nSP  - 19255\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "cIFR and cCFR estimates calculated using the reported case and death data on the Diamond Princess cruise ship [2]. Correction was performed using equation (1) and the hospitalisation-to-death distribution in [6]"
+            },
+            {
+                "id": "2",
+                "caption": "Age stratified data of symptomatic (symp.) and asymptomatic (asymp.) cases on-board the Diamond Princess [2], [3], along with the nCFR estimates given in [7], the expected number"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The time-to-death distributions and case and death data used to calculate the cCFR estimates. Panel A: the delay distributions of hospitalisation-to-death; both are lognormal distributions fitted and reported in Linton et al using data from the outbreak in Wuhan, China. The non-truncated distribution has a mean of 8.6 days and SD of 6.7 days; the right-truncated distribution has a mean of 13 days and SD of 12.7 days. Panels B and C: the case and death timeseries (respectively) of passengers onboard the ship"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.05.20031773v2.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.05.20031773v2/img-000.png"
+        ]
+    },
+    "sections": {
+        "aim": [
+            "To estimate the infection and case fatality ratio of COVID-19, using data from passengers of the Diamond Princess cruise ship while correcting for delays between confirmation-anddeath, and age-structure of the population.    Abstract<br/><br/>Adjusting for delay from confirmation-to-death, we estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% (0.75%\u20135.3%) and 1.2% (0.38\u20132.7%). Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2\u2013 1.2%) and 1.1% (95% CI: 0.3\u20132.4%) respectively.    Main text<br/><br/>In real-time, estimates of the case fatality ratio (CFR) and infection fatality ratio (IFR) can be biased upwards by under-reporting of cases and downwards by failure to account for the delay from confirmation-to-death. Collecting detailed epidemiological information from a closed population such as the quarantined Diamond Princess can produce a more comprehensive description of asymptomatic and symptomatic cases and their subsequent outcomes. Using data from the Diamond Princess, and adjusting for delay from confirmation-to-outcome and agestructure of the ship\u2019s occupants, we estimated the IFR and CFR for the outbreak in China. As of 3rd March 2020, there have been 92,809 confirmed cases of coronavirus disease 2019 (COVID-19), with 3,164 deaths [1]. On 1st February 2020, a patient tested positive for COVID-19 in Hong Kong; they disembarked from the Diamond Princess cruise ship on the 25th January [2,3]. This patient had onset of symptoms on the 19th January, one day before boarding the ship [2]. Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard. Passengers were initially to be held in quarantine for 14 days. However, those that had intense exposure to the confirmed case-patient, such as sharing a cabin, were held in quarantine beyond the initial 14-day window [3]. By 20th February, there were 634 confirmed cases onboard (17%), with 328 of these asymptomatic (asymptomatic cases were either self-assessed or tested positive before symptom onset) [3]. Overall 3,063 PCR tests were performed among passengers and crew members. Testing started among the elderly passengers, descending by age [3]. For details on the testing procedure, see [2] and [3].<br/><br/>Adjusting for outcome delay in CFR estimates<br/><br/>During an outbreak, the so-called naive CFR (nCFR), i.e. the ratio of reported deaths date to reported cases to date, will underestimate the true CFR because the outcome (recovery or death) is not known for all cases [4,5]. We can therefore estimate the true denominator for the<br/><br/>CFR (i.e. the number of cases with known outcomes) by accounting for the delay from confirmation-to-death [5].<br/><br/>We assumed the delay from confirmation-to-death followed the same distribution as estimated hospitalisation-to-death, based on data from the COVID-19 outbreak in Wuhan, China, between the 17th December 2019 and the 22th January 2020, accounting right-censoring in the data as a result of as-yet-unknown disease outcomes (Figure 1, panels A and B) [6]. As a sensitivity analysis, we also consider raw \u201cnon-truncated\u201d distributions, which do not account for censoring; the raw and truncated distributions have a mean of 8.6 days and 13 days respectively.<br/><br/>To correct the CFR, we use the case and death incidence data to estimate the number of cases with known outcomes [5]:    \u202b\u0751\u202c\u0be7    \u0d4c    \u2211 \u2211 \u073f \u0742 \u0be7    \u0bb6    \u0bdc\u0b40\u0b34 \u0bdd\u0b40\u0b34 \u0bdc\u0b3f\u0bdd \u0bdd    \u2211\u0be7 \u0bdc\u0b40\u0b34    \u073f\u0745<br/><br/>where \u073f\u0be7 is the daily case incidence at time \u202b\u0750\u202c, \u0742\u0be7 is the proportion of cases with delay between onset or hospitalisation and death. \u202b\u0751\u202c\u0be7 represents the underestimation of the known outcomes [5]<br/><br/>and is used to scale the value of the cumulative number of cases in the denominator in the calculation of the cCFR. Finally, we used the measured proportions of asymptomatic to symptomatic cases on the Diamond Princess to scale the corrected CFR (cCFR) to estimate the infection fatality ratio (IFR).<br/><br/>Corrected IFR and CFR estimates<br/><br/>We estimated that the all-age cIFR on the Diamond Princess was 1.2% (0.38\u20132.7%) and the cCFR was 2.3% (0.75\u20135.3%) (Table 1). Using the age distribution of cases and deaths on the ship [2,3], we estimated that for individuals aged 70 and over, the cIFR was 9.0% (3.8\u201317%) and the cCFR was 18% (7.3\u201333%) (Table 1). The 95% confidence intervals were calculated with an exact binomial test with death count and either cases or known outcomes (depending on whether it was an interval for the naive or corrected estimate).<br/><br/>Using the age-stratified nCFR estimates reported in a large study in China [7], we then calculated the expected number of deaths of people who were onboard the ship in each age group, assuming this nCFR estimate was accurate. This produced a total of 15.15 expected deaths, which gives a nCFR estimate of 5% (15.15/301) for Diamond Princess (Table 2), which falls within the top end of our 95% CI. As our corrected cCFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests we need to multiply the nCFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value. As the raw overall nCFR reported in the China data was 2.3% [7], this suggests the cCFR in China during that period was 1.1% (95% CI: 0.3-2.4%) and the IFR was 0.5% (95% CI: 0.2-1.2%). Based on cases and deaths reported in China up to<br/><br/>4th March 2020, nCFR = 2984/80422*100 = 3.71% (95% CI 3.58% - 3.84%); this naive value is significantly higher than the corrected CFR we estimate here.<br/><br/>Age Range cIFR cCFR<br/><br/>Hospitalisation-to-death Distribution<br/><br/>All ages combined<br/><br/>Non-truncated (Figure 1A)<br/><br/>Truncated (Figure 1B)    70+<br/><br/>7.3% (3.0% - 14%) 14% (6.0% -    27%)    Age No of    Symp. Asymp.<br/><br/>Range passengers cases cases nCFR    Expected<br/><br/>Observed deaths using deaths on nCFR cruise ship (0 - 0)    (0.0% -    0.9%)    1.0%)<br/><br/>0.2% 0.05 (0.02 -    (0.1% -    0.10)    0.4%)<br/><br/>0.2% 0.06 (0.04 -<br/><br/>0.4% 0.08 (0.06 -    (0.3% -    0.12)    0.6%)<br/><br/>1.3% 0.36 (0.31 -    (1.1% -    0.43)    1.5%)<br/><br/>3.6% 2.74 (2.5 - 3.1)    (3.2% -    4.0%)<br/><br/>8.0% 7.6 (6.8 - 8.4)    (7.2% -    8.9%)<br/><br/>14.8% 4.28 (3.8 - 4.9)    (13.0% -    16.7%)    Totals    15.15 (13.5 -    17.1)<br/><br/>of cases in each age group if the nCFR estimates were correct where the total number of expected deaths under these estimates was 15.15 and age stratified observed/expected death ratios.<br/><br/>The case fatality ratio is challenging to accurately estimate in real time [8], especially for an infection with attributes similar to SARS-CoV-2, which has a delay of almost two weeks between confirmation and death, strong effects of age-dependence and comorbidities on mortality risk, and likely under-reporting of cases in many settings [6]. Using an age-stratified adjustment, we accounted for changes in known outcomes over time. By applying the method to Diamond Princess data, we focus on a setting that is likely to have lower reporting error because large numbers were tested and the test has high sensitivity.<br/><br/>The average age onboard the ship was 58, so our estimates of cCFR cannot directly be applied to a younger population; we therefore scaled our estimates to obtain values for a population equivalent to those in the early China outbreak. There were some limitations to our analysis. Cruise ship passengers may have a different health status to the general population of their home countries, due to health requirements to embark on a multi-week holiday, or differences related to socio-economic status or comborbities. Deaths only occurred in individuals 70 years or older, so we were not able to generate age-specific cCFRs; the fatality risk may also be influenced by differences in healthcare between countries. Because of likely age-specific differences in reporting, we focused on overall cCFR in China, rather than calculating agespecific cCFRs [7]."
+        ],
+        "acknowledgements": [
+            "TWR, JH SA, SF and AJK are supported by the Wellcome Trust (grant numbers: 206250/Z/17/Z, 210758/Z/18/Z, 210758/Z/18/Z, 210758/Z/18/Z, 208812/Z/17/Z, 206250/Z/17/Z). CIJ is supported by Global Challenges Research Fund (GCRF) project \u2018RECAP\u2019 managed through RCUK and ESRC (ES/P010873/1). KvZ is supported by Elrha\u2019s Research for Health in Humanitarian Crises (R2HC) Programme, which aims to improve health outcomes by strengthening the evidence base for public health interventions in humanitarian crises. The R2HC programme is funded by the UK Government (DFID), the Wellcome Trust, and the UK National Institute for Health Research (NIHR). RR is supported by Canadian Institutes of Health Research (Award no. DFS164266). RME is supported by HDR UK (grant: MR/S003975/1)<br/><br/>CMMID nCoV working group funding statements: Thibaut Jombart (RCUK/ESRC (grant: ES/P010873/1); UK PH RST; NIHR HPRU Modelling Methodology), Amy Gimma (GCRF (ES/P010873/1)), Nikos I Bosse (no funding statement to declare), Alicia Rosello (NIHR (grant: PR-OD-1017-20002)), Mark Jit (Gates (INV-003174), NIHR (16/137/109)), James D Munday (Wellcome Trust (grant: 210758/Z/18/Z)), Billy J Quilty (NIHR (16/137/109)), Petra Klepac (Gates (INV-003174)), Hamish Gibbs (NIHR (ITCRZ 03010)), Yang Liu (Gates (INV-003174), NIHR (16/137/109)), Sebasitan Funk (Wellcome Trust (grant: 210758/Z/18/Z)), Samuel Clifford (Wellcome Trust (grant: 208812/Z/17/Z)), Fiona Sun (NIHR EPIC grant (16/137/109)), Kiesha Prem (Gates (INV-003174)), Charlie Diamond (NIHR (16/137/109)), Nicholas Davies (NIHR (HPRU-2012-10096)), Carl A B Pearson"
+        ],
+        "data_availability": [
+            "All of the data and the code required to reproduce the figures and results of this study can be found at the public github repository: https://github.com/thimotei/cCFRDiamondPrincess. Members of the Centre for the Mathematical Modelling of Infectious Diseases (CMMID)nCoV working group: The following authors were part of the Centre for Mathematical Modelling of Infectious Disease 2019-nCoV working group. Thibaut Jombart, Amy Gimma, Nikos I Bosse, Alicia Rosello, Mark Jit, James D Munday, Billy J Quilty, Petra Klepac, Hamish Gibbs, Yang Liu, Sebasitan Funk, Samuel Clifford, Fiona Sun, Kiesha Prem, Charlie Diamond, Nicholas Davies, Carl A B Pearson."
+        ],
+        "disclosures": [
+            "None declared."
+        ],
+        "funding": [
+            "TWR, JH SA, SF and AJK are supported by the Wellcome Trust (grant numbers: 206250/Z/17/Z, 210758/Z/18/Z, 210758/Z/18/Z, 210758/Z/18/Z, 208812/Z/17/Z, 206250/Z/17/Z)",
+            "CIJ is supported by Global Challenges Research Fund (GCRF) project \u2018RECAP\u2019 managed through RCUK and ESRC (ES/P010873/1)",
+            "KvZ is supported by Elrha\u2019s Research for Health in Humanitarian Crises (R2HC) Programme, which aims to improve health outcomes by strengthening the evidence base for public health interventions in humanitarian crises",
+            "The R2HC programme is funded by the UK Government (DFID), the Wellcome Trust, and the UK National Institute for Health Research (NIHR)",
+            "RR is supported by Canadian Institutes of Health Research (Award no",
+            "RME is supported by HDR UK (grant: MR/S003975/1) CMMID nCoV working group funding statements: Thibaut Jombart (RCUK/ESRC (grant: ES/P010873/1); UK PH RST; NIHR HPRU Modelling Methodology), Amy Gimma (GCRF (ES/P010873/1)), Nikos I Bosse (no funding statement to declare), Alicia Rosello (NIHR (grant: PR-OD-1017-20002)), Mark Jit (Gates (INV-003174), NIHR (16/137/109)), James D Munday (Wellcome Trust (grant: 210758/Z/18/Z)), Billy J Quilty (NIHR (16/137/109)), Petra Klepac (Gates (INV-003174)), Hamish Gibbs (NIHR (ITCRZ 03010)), Yang Liu (Gates (INV-003174), NIHR (16/137/109)), Sebasitan Funk (Wellcome Trust (grant: 210758/Z/18/Z)), Samuel Clifford (Wellcome Trust (grant: 208812/Z/17/Z)), Fiona Sun (NIHR EPIC grant (16/137/109)), Kiesha Prem (Gates (INV-003174)), Charlie Diamond (NIHR (16/137/109)), Nicholas Davies (NIHR (HPRU-2012-10096)), Carl A B Pearson"
+        ],
+        "introduction": [
+            "[2]. Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard. Passengers were initially to be held in quarantine for 14 days. However, those that had intense exposure to the confirmed case-patient, such as sharing a cabin, were held in quarantine beyond the initial 14-day window [3]. By 20th February, there were 634 confirmed cases onboard (17%), with 328 of these asymptomatic (asymptomatic cases were either self-assessed or tested positive before symptom onset) [3]. Overall 3,063 PCR tests were performed among passengers and crew members. Testing started among the elderly passengers, descending by age [3]. For details on the testing procedure, see [2] and [3]."
+        ]
+    },
+    "structured_content": {
+        "Aim": [
+            "To estimate the infection and case fatality ratio of COVID-19, using data from passengers of the Diamond Princess cruise ship while correcting for delays between confirmation-anddeath, and age-structure of the population."
+        ],
+        "Abstract": [
+            "Adjusting for delay from confirmation-to-death, we estimated case and infection fatality ratios (CFR, IFR) for COVID-19 on the Diamond Princess ship as 2.3% (0.75%\u20135.3%) and 1.2% (0.38\u20132.7%). Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2\u2013 1.2%) and 1.1% (95% CI: 0.3\u20132.4%) respectively.",
+            "In real-time, estimates of the case fatality ratio (CFR) and infection fatality ratio (IFR) can be biased upwards by under-reporting of cases and downwards by failure to account for the delay from confirmation-to-death. Collecting detailed epidemiological information from a closed population such as the quarantined Diamond Princess can produce a more comprehensive description of asymptomatic and symptomatic cases and their subsequent outcomes. Using data from the Diamond Princess, and adjusting for delay from confirmation-to-outcome and agestructure of the ship\u2019s occupants, we estimated the IFR and CFR for the outbreak in China. As of 3rd March 2020, there have been 92,809 confirmed cases of coronavirus disease 2019 (COVID-19), with 3,164 deaths [1]. On 1st February 2020, a patient tested positive for COVID-19 in Hong Kong; they disembarked from the Diamond Princess cruise ship on the 25th January [2,3]. This patient had onset of symptoms on the 19th January, one day before boarding the ship [2]. Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard. Passengers were initially to be held in quarantine for 14 days. However, those that had intense exposure to the confirmed case-patient, such as sharing a cabin, were held in quarantine beyond the initial 14-day window [3]. By 20th February, there were 634 confirmed cases onboard (17%), with 328 of these asymptomatic (asymptomatic cases were either self-assessed or tested positive before symptom onset) [3]. Overall 3,063 PCR tests were performed among passengers and crew members. Testing started among the elderly passengers, descending by age [3]. For details on the testing procedure, see [2] and [3].",
+            "During an outbreak, the so-called naive CFR (nCFR), i.e. the ratio of reported deaths date to reported cases to date, will underestimate the true CFR because the outcome (recovery or death) is not known for all cases [4,5]. We can therefore estimate the true denominator for the",
+            "CFR (i.e. the number of cases with known outcomes) by accounting for the delay from confirmation-to-death [5].",
+            "We assumed the delay from confirmation-to-death followed the same distribution as estimated hospitalisation-to-death, based on data from the COVID-19 outbreak in Wuhan, China, between the 17th December 2019 and the 22th January 2020, accounting right-censoring in the data as a result of as-yet-unknown disease outcomes (Figure 1, panels A and B) [6]. As a sensitivity analysis, we also consider raw \u201cnon-truncated\u201d distributions, which do not account for censoring; the raw and truncated distributions have a mean of 8.6 days and 13 days respectively.",
+            "To correct the CFR, we use the case and death incidence data to estimate the number of cases with known outcomes [5]:",
+            "where \u073f\u0be7 is the daily case incidence at time \u202b\u0750\u202c, \u0742\u0be7 is the proportion of cases with delay between onset or hospitalisation and death. \u202b\u0751\u202c\u0be7 represents the underestimation of the known outcomes [5]",
+            "and is used to scale the value of the cumulative number of cases in the denominator in the calculation of the cCFR. Finally, we used the measured proportions of asymptomatic to symptomatic cases on the Diamond Princess to scale the corrected CFR (cCFR) to estimate the infection fatality ratio (IFR).",
+            "We estimated that the all-age cIFR on the Diamond Princess was 1.2% (0.38\u20132.7%) and the cCFR was 2.3% (0.75\u20135.3%) (Table 1). Using the age distribution of cases and deaths on the ship [2,3], we estimated that for individuals aged 70 and over, the cIFR was 9.0% (3.8\u201317%) and the cCFR was 18% (7.3\u201333%) (Table 1). The 95% confidence intervals were calculated with an exact binomial test with death count and either cases or known outcomes (depending on whether it was an interval for the naive or corrected estimate).",
+            "Using the age-stratified nCFR estimates reported in a large study in China [7], we then calculated the expected number of deaths of people who were onboard the ship in each age group, assuming this nCFR estimate was accurate. This produced a total of 15.15 expected deaths, which gives a nCFR estimate of 5% (15.15/301) for Diamond Princess (Table 2), which falls within the top end of our 95% CI. As our corrected cCFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests we need to multiply the nCFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value. As the raw overall nCFR reported in the China data was 2.3% [7], this suggests the cCFR in China during that period was 1.1% (95% CI: 0.3-2.4%) and the IFR was 0.5% (95% CI: 0.2-1.2%). Based on cases and deaths reported in China up to",
+            "4th March 2020, nCFR = 2984/80422*100 = 3.71% (95% CI 3.58% - 3.84%); this naive value is significantly higher than the corrected CFR we estimate here.",
+            "Symp. Asymp.",
+            "The case fatality ratio is challenging to accurately estimate in real time [8], especially for an infection with attributes similar to SARS-CoV-2, which has a delay of almost two weeks between confirmation and death, strong effects of age-dependence and comorbidities on mortality risk, and likely under-reporting of cases in many settings [6]. Using an age-stratified adjustment, we accounted for changes in known outcomes over time. By applying the method to Diamond Princess data, we focus on a setting that is likely to have lower reporting error because large numbers were tested and the test has high sensitivity.",
+            "The average age onboard the ship was 58, so our estimates of cCFR cannot directly be applied to a younger population; we therefore scaled our estimates to obtain values for a population equivalent to those in the early China outbreak. There were some limitations to our analysis. Cruise ship passengers may have a different health status to the general population of their home countries, due to health requirements to embark on a multi-week holiday, or differences related to socio-economic status or comborbities. Deaths only occurred in individuals 70 years or older, so we were not able to generate age-specific cCFRs; the fatality risk may also be influenced by differences in healthcare between countries. Because of likely age-specific differences in reporting, we focused on overall cCFR in China, rather than calculating agespecific cCFRs [7]."
+        ],
+        "References": [
+            "World Health Organization (WHO). Novel Coronavirus (2019-nCoV) Situation Report-43. Geneva: WHO; 3 March 2020. Available from: https://www.who.int/emergencies/diseases/novelcoronavirus-2019/situation-reports.",
+            "National Institute of Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases. https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html (accessed 3 Mar2020).",
+            "National Institute of Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases. https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html (accessed 3 Mar2020).",
+            "Kucharski AJ, Edmunds WJ. Case fatality rate for ebola virus disease in west africa. The Lancet 2014;384:1260.",
+            "Nishiura H, Klinkenberg D, Roberts M et al Early epidemiological assessment of the virulence of emerging infectious diseases: A case study of an influenza pandemic. PLoS One 2009;4.",
+            "Linton NM, Kobayashi T, Yang Y et al Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. Journal of Clinical Medicine 2020;9:538.",
+            "Wu Z, McGoogan JM. Characteristics of and important lessons from the coronavirus disease 2019 (covid-19) outbreak in china: Summary of a report of 72 314 cases from the chinese center for disease control and prevention. JAMA 2020.",
+            "Wilson N, Baker M. The emerging influenza pandemic: Estimating the case fatality ratio. Eurosurveillance 2009;14:19255.",
+            "Author contributions: TWR, AJK and WJE conceived of the study and collected the data. TWR, AJK and SA coded the methods. TWR and JH wrote the first draft of the manuscript with feedback from all other authors. KvZ, TWR, SA and CIJ worked on the statistical aspects of the study. All authors read and approved the final version of the manuscript. Each member of the CMMID COVID-19 working group contributed in processing, cleaning an interpretation of data, interpreted findings, contributed to the manuscript, and approved the work for publication.",
+            ""
+        ],
+        "Acknowledgements": [
+            "TWR, JH SA, SF and AJK are supported by the Wellcome Trust (grant numbers: 206250/Z/17/Z, 210758/Z/18/Z, 210758/Z/18/Z, 210758/Z/18/Z, 208812/Z/17/Z, 206250/Z/17/Z). CIJ is supported by Global Challenges Research Fund (GCRF) project \u2018RECAP\u2019 managed through RCUK and ESRC (ES/P010873/1). KvZ is supported by Elrha\u2019s Research for Health in Humanitarian Crises (R2HC) Programme, which aims to improve health outcomes by strengthening the evidence base for public health interventions in humanitarian crises. The R2HC programme is funded by the UK Government (DFID), the Wellcome Trust, and the UK National Institute for Health Research (NIHR). RR is supported by Canadian Institutes of Health Research (Award no. DFS164266). RME is supported by HDR UK (grant: MR/S003975/1)",
+            "CMMID nCoV working group funding statements: Thibaut Jombart (RCUK/ESRC (grant: ES/P010873/1); UK PH RST; NIHR HPRU Modelling Methodology), Amy Gimma (GCRF (ES/P010873/1)), Nikos I Bosse (no funding statement to declare), Alicia Rosello (NIHR (grant: PR-OD-1017-20002)), Mark Jit (Gates (INV-003174), NIHR (16/137/109)), James D Munday (Wellcome Trust (grant: 210758/Z/18/Z)), Billy J Quilty (NIHR (16/137/109)), Petra Klepac (Gates (INV-003174)), Hamish Gibbs (NIHR (ITCRZ 03010)), Yang Liu (Gates (INV-003174), NIHR (16/137/109)), Sebasitan Funk (Wellcome Trust (grant: 210758/Z/18/Z)), Samuel Clifford (Wellcome Trust (grant: 208812/Z/17/Z)), Fiona Sun (NIHR EPIC grant (16/137/109)), Kiesha Prem (Gates (INV-003174)), Charlie Diamond (NIHR (16/137/109)), Nicholas Davies (NIHR (HPRU-2012-10096)), Carl A B Pearson"
+        ],
+        "Code Availability": [
+            "All of the data and the code required to reproduce the figures and results of this study can be found at the public github repository: https://github.com/thimotei/cCFRDiamondPrincess.",
+            "Members of the Centre for the Mathematical Modelling of Infectious Diseases (CMMID) nCoV working group: The following authors were part of the Centre for Mathematical Modelling of Infectious Disease 2019-nCoV working group. Thibaut Jombart, Amy Gimma, Nikos I Bosse, Alicia Rosello, Mark Jit, James D Munday, Billy J Quilty, Petra Klepac, Hamish Gibbs, Yang Liu, Sebasitan Funk, Samuel Clifford, Fiona Sun, Kiesha Prem, Charlie Diamond, Nicholas Davies, Carl A B Pearson.",
+            "Conflict of interest: None declared."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "confirmed cases",
+            "number": 92809,
+            "context": "Using data from the Diamond Princess, and adjusting for delay from confirmation-to-outcome and agestructure of the ship\u2019s occupants, we estimated the IFR and CFR for the outbreak in China. <mark class=\"stats\">As of 3rd March 2020, there have been 92,809 confirmed cases of coronavirus disease 2019 (COVID-19), with 3,164 deaths [1]</mark>. On 1st February 2020, a patient tested positive for COVID-19 in Hong Kong; they disembarked from the Diamond Princess cruise ship on the 25th January [2,3]"
+        },
+        {
+            "participant": "passengers and crew members",
+            "number": 3711,
+            "context": "[2]. <mark class=\"stats\">Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard</mark>. Passengers were initially to be held in quarantine for 14 days"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 634,
+            "context": "However, those that had intense exposure to the confirmed case-patient, such as sharing a cabin, were held in quarantine beyond the initial 14-day window [3]. <mark class=\"stats\">By 20th February, there were 634 confirmed cases onboard (17%), with 328 of these asymptomatic (asymptomatic cases were either self-assessed or tested positive before symptom onset) [3]</mark>. Overall 3,063 PCR tests were performed among passengers and crew members"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "infection fatality ratio",
+        "coronavirus disease",
+        "crew member",
+        "diamond princess cruise ship",
+        "corrected CFR",
+        "case fatality ratio",
+        "Infectious disease",
+        "naive CFR",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "case fatality ratio": 0.4215686274509804,
+        "corrected CFR": 0.1568627450980392,
+        "infection fatality ratio": 0.13725490196078433,
+        "naive CFR": 0.12745098039215685,
+        "COVID-19": 0.11764705882352941,
+        "coronavirus disease": 0.0196078431372549,
+        "crew member": 0.0196078431372549,
+        "diamond princess cruise ship": 0.0,
+        "Infectious disease": 0.0
+    },
+    "species": [],
+    "summary": [
+        "Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard.",
+        "Adjusting for outcome delay in CFR estimates",
+        "CFR by accounting for the delay from confirmation-to-death [5].",
+        "The authors assumed the delay from confirmation-to-death followed the same distribution as estimated hospitalisation-to-death, based on data from the COVID-19 outbreak in Wuhan, China, between the 17th December 2019 and the 22th January 2020, accounting right-censoring in the data as a result of as-yet-unknown disease outcomes (Figure 1, panels A and B) [6].",
+        "To correct the CFR, the authors use the case and death incidence data to estimate the number of cases with known outcomes [5]:",
+        "The authors used the measured proportions of asymptomatic to symptomatic cases on the Diamond Princess to scale the corrected CFR to estimate the infection fatality ratio (IFR).",
+        "The authors estimated that the all-age cIFR on the Diamond Princess was 1.2% (0.38\u20132.7%) and the cCFR was 2.3% (0.75\u20135.3%) (Table 1).",
+        "Using the age distribution of cases and deaths on the ship [2,3], the authors estimated that for individuals aged 70 and over, the cIFR was 9.0% (3.8\u201317%) and the cCFR was 18% (7.3\u201333%) (Table 1).",
+        "The 95% confidence intervals were calculated with an exact binomial test with death count and either cases or known outcomes.",
+        "Using the age-stratified nCFR estimates reported in a large study in China [7], the authors calculated the expected number of deaths of people who were onboard the ship in each age group, assuming this nCFR estimate was accurate.",
+        "As the corrected cCFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests the authors need to multiply the nCFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value.",
+        "The case fatality ratio is challenging to accurately estimate in real time [8], especially for an infection with attributes similar to SARS-CoV-2, which has a delay of almost two weeks between confirmation and death, strong effects of age-dependence and comorbidities on mortality risk, and likely under-reporting of cases in many settings [6].",
+        "The average age onboard the ship was 58, so the estimates of cCFR cannot directly be applied to a younger population; the authors scaled the estimates to obtain values for a population equivalent to those in the early China outbreak."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard.",
+            "Adjusting for outcome delay in CFR estimates",
+            "CFR by accounting for the delay from confirmation-to-death [5]."
+        ],
+        "Results": [
+            "The authors assumed the delay from confirmation-to-death followed the same distribution as estimated hospitalisation-to-death, based on data from the COVID-19 outbreak in Wuhan, China, between the 17th December 2019 and the 22th January 2020, accounting right-censoring in the data as a result of as-yet-unknown disease outcomes (Figure 1, panels A and B) [6].",
+            "To correct the CFR, the authors use the case and death incidence data to estimate the number of cases with known outcomes [5]:",
+            "The authors used the measured proportions of asymptomatic to symptomatic cases on the Diamond Princess to scale the corrected CFR to estimate the infection fatality ratio (IFR).",
+            "The authors estimated that the all-age cIFR on the Diamond Princess was 1.2% (0.38\u20132.7%) and the cCFR was 2.3% (0.75\u20135.3%) (Table 1).",
+            "Using the age distribution of cases and deaths on the ship [2,3], the authors estimated that for individuals aged 70 and over, the cIFR was 9.0% (3.8\u201317%) and the cCFR was 18% (7.3\u201333%) (Table 1).",
+            "The 95% confidence intervals were calculated with an exact binomial test with death count and either cases or known outcomes.",
+            "Using the age-stratified nCFR estimates reported in a large study in China [7], the authors calculated the expected number of deaths of people who were onboard the ship in each age group, assuming this nCFR estimate was accurate."
+        ],
+        "Conclusion": [
+            "As the corrected cCFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests the authors need to multiply the nCFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value.",
+            "The case fatality ratio is challenging to accurately estimate in real time [8], especially for an infection with attributes similar to SARS-CoV-2, which has a delay of almost two weeks between confirmation and death, strong effects of age-dependence and comorbidities on mortality risk, and likely under-reporting of cases in many settings [6].",
+            "The average age onboard the ship was 58, so the estimates of cCFR cannot directly be applied to a younger population; the authors scaled the estimates to obtain values for a population equivalent to those in the early China outbreak."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "World_2019_a",
+            "alt_id": "1",
+            "entry": "World Health Organization (WHO). Novel Coronavirus (2019-nCoV) Situation Report-43. Geneva: WHO; 3 March 2020. Available from: https://www.who.int/emergencies/diseases/novelcoronavirus-2019/situation-reports.",
+            "url": "https://www.who.int/emergencies/diseases/novelcoronavirus-2019/situation-reports",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20WHO%20Novel%20Coronavirus%202019nCoV%20Situation%20Report43%20Geneva%20WHO%203%20March%202020%20Available%20from%20httpswwwwhointemergenciesdiseasesnovelcoronavirus2019situationreports",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20WHO%20Novel%20Coronavirus%202019nCoV%20Situation%20Report43%20Geneva%20WHO%203%20March%202020%20Available%20from%20httpswwwwhointemergenciesdiseasesnovelcoronavirus2019situationreports"
+        },
+        {
+            "id": "National_0000_a",
+            "alt_id": "2",
+            "entry": "National Institute of Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases. https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html (accessed 3 Mar2020).",
+            "url": "https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html"
+        },
+        {
+            "id": "National_0000_b",
+            "alt_id": "3",
+            "entry": "National Institute of Infectious Diseases. Field Briefing: Diamond Princess COVID-19 Cases. https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html (accessed 3 Mar2020).",
+            "url": "https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html"
+        },
+        {
+            "id": "Kucharski_2014_a",
+            "alt_id": "4",
+            "entry": "Kucharski AJ, Edmunds WJ. Case fatality rate for ebola virus disease in west africa. The Lancet 2014;384:1260.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kucharski%2C%20A.J.%20Edmunds%2C%20W.J.%20Case%20fatality%20rate%20for%20ebola%20virus%20disease%20in%20west%20africa%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kucharski%2C%20A.J.%20Edmunds%2C%20W.J.%20Case%20fatality%20rate%20for%20ebola%20virus%20disease%20in%20west%20africa%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kucharski%2C%20A.J.%20Edmunds%2C%20W.J.%20Case%20fatality%20rate%20for%20ebola%20virus%20disease%20in%20west%20africa%202014"
+        },
+        {
+            "id": "Nishiura_et+al_2009_a",
+            "alt_id": "5",
+            "entry": "Nishiura H, Klinkenberg D, Roberts M et al. Early epidemiological assessment of the virulence of emerging infectious diseases: A case study of an influenza pandemic. PLoS One 2009;4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nishiura%2C%20H.%20Klinkenberg%2C%20D.%20Roberts%2C%20M.%20Early%20epidemiological%20assessment%20of%20the%20virulence%20of%20emerging%20infectious%20diseases%3A%20A%20case%20study%20of%20an%20influenza%20pandemic%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nishiura%2C%20H.%20Klinkenberg%2C%20D.%20Roberts%2C%20M.%20Early%20epidemiological%20assessment%20of%20the%20virulence%20of%20emerging%20infectious%20diseases%3A%20A%20case%20study%20of%20an%20influenza%20pandemic%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nishiura%2C%20H.%20Klinkenberg%2C%20D.%20Roberts%2C%20M.%20Early%20epidemiological%20assessment%20of%20the%20virulence%20of%20emerging%20infectious%20diseases%3A%20A%20case%20study%20of%20an%20influenza%20pandemic%202009"
+        },
+        {
+            "id": "Linton_et+al_2019_a",
+            "alt_id": "6",
+            "entry": "Linton NM, Kobayashi T, Yang Y et al. Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: A statistical analysis of publicly available case data. Journal of Clinical Medicine 2020;9:538.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Linton%20NM%20Kobayashi%20T%20Yang%20Y%20et%20al%20Incubation%20period%20and%20other%20epidemiological%20characteristics%20of%202019%20novel%20coronavirus%20infections%20with%20right%20truncation%20A%20statistical%20analysis%20of%20publicly%20available%20case%20data%20Journal%20of%20Clinical%20Medicine%2020209538",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Linton%20NM%20Kobayashi%20T%20Yang%20Y%20et%20al%20Incubation%20period%20and%20other%20epidemiological%20characteristics%20of%202019%20novel%20coronavirus%20infections%20with%20right%20truncation%20A%20statistical%20analysis%20of%20publicly%20available%20case%20data%20Journal%20of%20Clinical%20Medicine%2020209538",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Linton%20NM%20Kobayashi%20T%20Yang%20Y%20et%20al%20Incubation%20period%20and%20other%20epidemiological%20characteristics%20of%202019%20novel%20coronavirus%20infections%20with%20right%20truncation%20A%20statistical%20analysis%20of%20publicly%20available%20case%20data%20Journal%20of%20Clinical%20Medicine%2020209538"
+        },
+        {
+            "id": "Wu_2020_a",
+            "alt_id": "7",
+            "entry": "Wu Z, McGoogan JM. Characteristics of and important lessons from the coronavirus disease 2019 (covid-19) outbreak in china: Summary of a report of 72 314 cases from the chinese center for disease control and prevention. JAMA 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%20Z%20McGoogan%20JM%20Characteristics%20of%20and%20important%20lessons%20from%20the%20coronavirus%20disease%202019%20covid19%20outbreak%20in%20china%20Summary%20of%20a%20report%20of%2072%20314%20cases%20from%20the%20chinese%20center%20for%20disease%20control%20and%20prevention%20JAMA%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%20Z%20McGoogan%20JM%20Characteristics%20of%20and%20important%20lessons%20from%20the%20coronavirus%20disease%202019%20covid19%20outbreak%20in%20china%20Summary%20of%20a%20report%20of%2072%20314%20cases%20from%20the%20chinese%20center%20for%20disease%20control%20and%20prevention%20JAMA%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%20Z%20McGoogan%20JM%20Characteristics%20of%20and%20important%20lessons%20from%20the%20coronavirus%20disease%202019%20covid19%20outbreak%20in%20china%20Summary%20of%20a%20report%20of%2072%20314%20cases%20from%20the%20chinese%20center%20for%20disease%20control%20and%20prevention%20JAMA%202020"
+        },
+        {
+            "id": "Wilson_2009_a",
+            "alt_id": "8",
+            "entry": "Wilson N, Baker M. The emerging influenza pandemic: Estimating the case fatality ratio. Eurosurveillance 2009;14:19255.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wilson%2C%20N.%20Baker%2C%20M.%20The%20emerging%20influenza%20pandemic%3A%20Estimating%20the%20case%20fatality%20ratio%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wilson%2C%20N.%20Baker%2C%20M.%20The%20emerging%20influenza%20pandemic%3A%20Estimating%20the%20case%20fatality%20ratio%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wilson%2C%20N.%20Baker%2C%20M.%20The%20emerging%20influenza%20pandemic%3A%20Estimating%20the%20case%20fatality%20ratio%202009"
+        }
+    ],
+    "facts": [
+        "onboard with expected deaths based on naive CFR estimates using China data",
+        "upwards by under-reporting of cases and downwards by failure to account for the delay from confirmation-to-death",
+        "a patient tested positive for COVID-19 in Hong Kong",
+        "the ship was held in quarantine",
+        "during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members",
+        "Passengers were initially to be held in quarantine for 14 days",
+        "Overall 3,063 PCR tests were performed among passengers and crew members",
+        "Testing started among the elderly passengers",
+        "the delay from confirmation-to-death followed the same distribution as estimated hospitalisation-to-death",
+        "the case and death incidence data to estimate the number of cases with known outcomes",
+        "The 95% confidence intervals were calculated with an exact binomial test with death count",
+        "the age-stratified nCFR estimates reported in a large study in China",
+        "the expected number of deaths of people who were onboard the ship in each age group",
+        "which has a delay of almost two weeks between confirmation and death",
+        "our estimates of cCFR cannot directly be applied to a younger population"
+    ],
+    "claims": [
+        "By applying the method to Diamond Princess data, we focus on a setting that is likely to have lower reporting error because large numbers were tested and the test has high sensitivity",
+        "Because of likely age-specific differences in reporting, we focused on overall cCFR in China, rather than calculating agespecific cCFRs [7]"
+    ],
+    "findings": [
+        "Comparing deaths onboard with expected deaths based on naive CFR estimates using China data, we estimate IFR and CFR in China to be 0.5% (95% CI: 0.2\u2013 1.2%) and 1.1% (95% CI: 0.3\u20132.4%) respectively",
+        "As our corrected cCFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests we need to multiply the nCFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value",
+        "As the raw overall nCFR reported in the China data was 2.3% [7], this suggests the cCFR in China during that period was 1.1% (95% CI: 0.3-2.4%) and the IFR was 0.5% (95% CI: 0.2-1.2%)",
+        "4th March 2020, nCFR = 2984/80422*100 = 3.71% (95% CI 3.58% - 3.84%); this naive value is significantly higher than the corrected CFR we estimate here"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard",
+        "Using the age-stratified naive CFR estimates reported in a large study in China [7], we calculated the expected number of deaths of people who were onboard the ship in each age group, assuming this naive CFR estimate was accurate",
+        "As our corrected corrected CFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests we need to multiply the naive CFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value",
+        "As the raw overall naive CFR reported in the China data was 2.3% [7], this suggests the corrected CFR in China during that period was 1.1% (95% CI: 0.3-2.4%) and the infection fatality ratio was 0.5% (95% CI: 0.2-1.2%)",
+        "The average age onboard the ship was 58, so our estimates of corrected CFR cannot directly be applied to a younger population; we scaled our estimates to obtain values for a population equivalent to those in the early China outbreak",
+        "Because of likely age-specific differences in reporting, we focused on overall corrected CFR in China, rather than calculating agespecific corrected CFR [7]"
+    ],
+    "top_statements": [
+        "Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard",
+        "Using the age-stratified naive CFR estimates reported in a large study in China [7], we calculated the expected number of deaths of people who were onboard the ship in each age group, assuming this naive CFR estimate was accurate",
+        "As our corrected corrected CFR for Diamond Princess was 2.3% (0.75% - 5.3%), this suggests we need to multiply the naive CFR estimates in China [7] by a factor 46% (95% CI: 15\u2013105%) to obtain the correct value",
+        "As the raw overall naive CFR reported in the China data was 2.3% [7], this suggests the corrected CFR in China during that period was 1.1% (95% CI: 0.3-2.4%) and the infection fatality ratio was 0.5% (95% CI: 0.2-1.2%)",
+        "The average age onboard the ship was 58, so our estimates of corrected CFR cannot directly be applied to a younger population; we scaled our estimates to obtain values for a population equivalent to those in the early China outbreak"
+    ],
+    "headline": "Upon returning to Yokohama, Japan, on February 3rd, the ship was held in quarantine, during which testing was performed in order to measure COVID-19 infections among the 3,711 passengers and crew members onboard",
+    "contexts": [],
+    "abbreviations": {
+        "CFR": "case fatality ratio",
+        "IFR": "infection fatality ratio",
+        "nCFR": "naive CFR",
+        "cCFR": "corrected CFR"
+    }
+}

@@ -1,0 +1,490 @@
+{
+    "filename": "2020.01.25.919688v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 153716,
+    "metadata": {
+        "title": "Origin time and epidemic dynamics of the 2019 novel coronavirus",
+        "author": "Chi Zhang",
+        "date": 2020,
+        "affiliations": [
+            "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate",
+            "Chinese Academy of Sciences, Beijing 100044, China 9",
+            "Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing"
+        ],
+        "journal": "SARS",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.01.25.919688",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.01.25.919688v1.pdf"
+        },
+        "abstract": "The 2019 novel coronavirus (2019-nCoV) have emerged from Wuhan, China. Studying the epidemic dynamics is crucial for further surveillance and control of the outbreak. We employed a Bayesian framework to infer the time-calibrated phylogeny and the epidemic dynamics represented by the effective reproductive number (Re) changing over time from the genomic sequences available from GISAID. The origin time is estimated to be December 17, 2019 (95% CI: December 5, 2019 \u2013 December 23, 2019). Re changes drastically over time, with highest value of 2.5 (0.5, 4.9) and lowest value of 0.3 (0.006, 1.47) (median and 95% highest posterior density interval). This study provides an early insight of the 2019-nCoV epidemic.",
+        "references": "@article{a-a,\n  author = {A., M. and C.-H., Wu and D., Xie and C., Zhang and T., Stadler and J, Drummond A.},\n  title = {2019. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis},\n  journal = {PLoS Comput. Biol},\n  language = {}\n}\n@misc{d-a,\n  author = {D., J. and J.-P., Cai and C.-C., Cheng V. and H., Chen and K.-M., Hui C. and K.-Y, Yuen},\n  title = {2020. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. The Lancet},\n  language = {}\n}\n@article{j2006a,\n  author = {J., Drummond A. and W., Ho S.Y. and J., Phillips M. and A, Rambaut},\n  date = {2006},\n  title = {Relaxed phylogenetics and dating with confidence},\n  journal = {PLoS Biol},\n  volume = {4},\n  pages = {88},\n  language = {}\n}\n@article{m1985a,\n  author = {M., Hasegawa and H., Kishino and T, Yano},\n  date = {1985},\n  title = {Dating of the human-ape splitting by a molecular clock of mitochondrial DNA},\n  journal = {J. Mol. Evol},\n  volume = {22},\n  pages = {160\u2013174},\n  language = {}\n}\n@article{a2018a,\n  author = {A., Rambaut and J., Drummond A. and D., Xie and G., Baele and A, Suchard M.},\n  date = {2018},\n  title = {Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst},\n  journal = {Biol},\n  volume = {67},\n  pages = {901\u2013904},\n  language = {}\n}\n@misc{b2007a,\n  author = {B., Rannala and Z, Yang},\n  date = {2007},\n  title = {Inferring speciation times under an episodic molecular clock},\n  language = {}\n}\n@misc{m2020a,\n  author = {M., Read J. and R., Bridgen J. and A., Cummings D. and A., Ho and P, Jewell C.},\n  date = {2020},\n  title = {Novel coronavirus 2019-},\n  language = {}\n}\n@article{t2003a,\n  author = {T., Ho W. and K.-H., Lee and C., Lau E.M. and M., Ferguson N. and M, Anderson R.},\n  date = {2003},\n  title = {Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions},\n  journal = {Science},\n  volume = {300},\n  pages = {1961\u20131966},\n  language = {}\n}\n@incollection{t2013a,\n  author = {T., Stadler and D., K\u00fchnert and S., Bonhoeffer and J, Drummond A.},\n  date = {2013},\n  title = {Birth-death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)},\n  source = {Proc. Natl.},\n  language = {}\n}\n@incollection{c-a,\n  author = {C., Wang and W., Horby P. and G., Hayden F. and F, Gao G.},\n  title = {2020. A novel coronavirus outbreak of global health concern},\n  source = {The Lancet.},\n  language = {}\n}\n@article{yang1994a,\n  author = {Yang, Z.},\n  date = {1994},\n  title = {Maximum likelihood phylogenetic estimation from DNA sequences with variable rates over sites: approximate methods},\n  journal = {J. Mol. Evol},\n  volume = {39},\n  pages = {306\u2013314},\n  language = {}\n}\n@incollection{s2019a,\n  author = {S., Zhao and J., Ran and S., M.U.S.A.S. and G., Yang and Y., Lou and D., Gao and L., Yang and D, He},\n  title = {2020. Preliminary estimation of the basic reproduction number of novel coronavirus},\n  date = {2019},\n  source = {in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv},\n  language = {}\n}\n@misc{p-a,\n  author = {P., Zhou and X.-L., Yang and X.-G., Wang and B., Hu and L., Zhang and W., Zhang and H.-R., Si and Y., Zhu and B., Li and C.-L., Huang and H.-D., Chen and J., Chen and Y., Luo and H., Guo and R.-D., Jiang and M.-Q., Liu and Y., Chen and X.-R., Shen and X., Wang and X.-S., Zheng and K., Zhao and Q.-J., Chen and F., Deng and L.-L., Liu and B., Yan and F.-X., Zhan and Y.-Y., Wang and G., Xiao and Z.-L, Shi},\n  title = {2020. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin},\n  language = {}\n}\n",
+        "links": [
+            "https://www.gisaid.org",
+            "https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china",
+            "https://bnonews.com/index.php/2020/01/the-latestcoronavirus-cases",
+            "https://www.who.int/health-topics/coronavirus"
+        ],
+        "emails": [
+            "zhangchi@ivpp.ac.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - A., M.\nAU  - C.-H., Wu\nAU  - D., Xie\nAU  - C., Zhang\nAU  - T., Stadler\nAU  - J, Drummond A.\nTI  - 2019. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis\nT2  - PLoS Comput. Biol\nLA  - \nER  - \n\nTY  - GEN\nAU  - D., J.\nAU  - J.-P., Cai\nAU  - C.-C., Cheng V.\nAU  - H., Chen\nAU  - K.-M., Hui C.\nAU  - K.-Y, Yuen\nTI  - 2020. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. The Lancet\nLA  - \nER  - \n\nTY  - JOUR\nAU  - J., Drummond A.\nAU  - W., Ho S.Y.\nAU  - J., Phillips M.\nAU  - A, Rambaut\nPY  - 2006\nDA  - 2006\nTI  - Relaxed phylogenetics and dating with confidence\nT2  - PLoS Biol\nVL  - 4\nSP  - 88\nLA  - \nER  - \n\nTY  - JOUR\nAU  - M., Hasegawa\nAU  - H., Kishino\nAU  - T, Yano\nPY  - 1985\nDA  - 1985\nTI  - Dating of the human-ape splitting by a molecular clock of mitochondrial DNA\nT2  - J. Mol. Evol\nVL  - 22\nSP  - 160\nEP  - 174\nLA  - \nER  - \n\nTY  - JOUR\nAU  - A., Rambaut\nAU  - J., Drummond A.\nAU  - D., Xie\nAU  - G., Baele\nAU  - A, Suchard M.\nPY  - 2018\nDA  - 2018\nTI  - Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst\nT2  - Biol\nVL  - 67\nSP  - 901\nEP  - 904\nLA  - \nER  - \n\nTY  - GEN\nAU  - B., Rannala\nAU  - Z, Yang\nPY  - 2007\nDA  - 2007\nTI  - Inferring speciation times under an episodic molecular clock\nLA  - \nER  - \n\nTY  - GEN\nAU  - M., Read J.\nAU  - R., Bridgen J.\nAU  - A., Cummings D.\nAU  - A., Ho\nAU  - P, Jewell C.\nPY  - 2020\nDA  - 2020\nTI  - Novel coronavirus 2019-\nLA  - \nER  - \n\nTY  - JOUR\nAU  - T., Ho W.\nAU  - K.-H., Lee\nAU  - C., Lau E.M.\nAU  - M., Ferguson N.\nAU  - M, Anderson R.\nPY  - 2003\nDA  - 2003\nTI  - Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions\nT2  - Science\nVL  - 300\nSP  - 1961\nEP  - 1966\nLA  - \nER  - \n\nTY  - CHAP\nAU  - T., Stadler\nAU  - D., K\u00fchnert\nAU  - S., Bonhoeffer\nAU  - J, Drummond A.\nPY  - 2013\nDA  - 2013\nTI  - Birth-death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)\nT2  - Proc. Natl.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - C., Wang\nAU  - W., Horby P.\nAU  - G., Hayden F.\nAU  - F, Gao G.\nTI  - 2020. A novel coronavirus outbreak of global health concern\nT2  - The Lancet.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, Z.\nPY  - 1994\nDA  - 1994\nTI  - Maximum likelihood phylogenetic estimation from DNA sequences with variable rates over sites: approximate methods\nT2  - J. Mol. Evol\nVL  - 39\nSP  - 306\nEP  - 314\nLA  - \nER  - \n\nTY  - CHAP\nAU  - S., Zhao\nAU  - J., Ran\nAU  - S., M.U.S.A.S.\nAU  - G., Yang\nAU  - Y., Lou\nAU  - D., Gao\nAU  - L., Yang\nAU  - D, He\nTI  - 2020. Preliminary estimation of the basic reproduction number of novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv\nLA  - \nER  - \n\nTY  - GEN\nAU  - P., Zhou\nAU  - X.-L., Yang\nAU  - X.-G., Wang\nAU  - B., Hu\nAU  - L., Zhang\nAU  - W., Zhang\nAU  - H.-R., Si\nAU  - Y., Zhu\nAU  - B., Li\nAU  - C.-L., Huang\nAU  - H.-D., Chen\nAU  - J., Chen\nAU  - Y., Luo\nAU  - H., Guo\nAU  - R.-D., Jiang\nAU  - M.-Q., Liu\nAU  - Y., Chen\nAU  - X.-R., Shen\nAU  - X., Wang\nAU  - X.-S., Zheng\nAU  - K., Zhao\nAU  - Q.-J., Chen\nAU  - F., Deng\nAU  - L.-L., Liu\nAU  - B., Yan\nAU  - F.-X., Zhan\nAU  - Y.-Y., Wang\nAU  - G., Xiao\nAU  - Z.-L, Shi\nTI  - 2020. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Posterior estimates of key model parameters median and 95% HPD interval"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Maximum clade credibility (MCC) tree summarized from the MCMC sample. The common ancestor heights were used to annotate the clade ages"
+            },
+            {
+                "id": "2",
+                "caption": "Skyline plot of the effective reproductive number (Re) changing over time. The solid line indicates the median and the gray area indicates the 95% HPD interval"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.01.25.919688v1.xlsx",
+        "figure_urls": []
+    },
+    "sections": {
+        "introduction": [
+            "An outbreak of a novel coronavirus (2019-nCoV) was reported in Wuhan, a city in central    China<br/><br/>Coronaviruses cause diseases range from common cold to severe pneumonia. Two fatal (WHO; https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china).<br/><br/>coronavirus epidemics over the last two decades were severe acute respiratory syndrome (SARS) in 2003 and Middle East respiratory syndrome (MERS) in 2012 (WHO; https://www.who.int/health-topics/coronavirus). Human to human transmission has been confirmed for this new type of coronavirus (<a class=\"ref-link\" id=\"cWang_et+al_2020_a\" href=\"#rWang_et+al_2020_a\">Wang et al 2020</a>) and more than 1,000 cases have been reported as of January 25, 2020 (https://bnonews.com/index.php/2020/01/the-latestcoronavirus-cases).<br/><br/>Studying the virus epidemic dynamics is crucial for further surveillance and control of the outbreak. Phylogeny of the viruses is a proxy of the transmission chain. Early studies of 2019-<br/><br/>nCoV have focused on their molecular features and phylogenetic relationship with the close relatives (<a class=\"ref-link\" id=\"cZhou_et+al_2020_a\" href=\"#rZhou_et+al_2020_a\">Zhou et al 2020</a>; Chan et al 2020). The phylogenetic analyses typically ignored the sampling times and measursed branch lengths by expected number of substitutioins per site.<br/><br/>They are also lacking a stochastic process to model the epidemic dynamics over time. However, both the timing and dynamics are critical to understand the early outbreak of 2019-nCoV.<br/><br/>Furthermore, various sources of information and uncertainties are hard to be integrated in the analyses without employing a Bayesian approach.<br/><br/>In this study, we used the birth-death skyline serial (BDSS) model (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV. This approach takes the genomic sequences and sampling times of the viruses as input, and co-estimtes the phylogeny and key epidemic parameters in a Bayesian framework. To our knowledge, this is the first study to perform such estimation on 2019-nCoV."
+        ],
+        "results": [
+            "<strong>Results and Discussion</strong><br/><br/>The phylogeny in Figure 1 shows the divergence times and relationships of the 24<br/><br/>BetaCoV viruses. The samples from Wuhan form a paraphyletic group, while the rest of the samples form a monophyletic clade. These two clades are not divergent from each other as their sequences are quite similar, which indicates that the outbreak is still in an early stage. The patients from Guangdong and Zhejiang had traveled from Wuhan and they had been infected before travelling (Chan et al 2020). Note that this phylogeny is a maximum clade credibility (MCC) tree summarized from the posterior samples, which represents a best estimate of the author/funder. It is made available under a CC-BY-NC-ND 4.0 International license.<br/><br/>topology. The probabilities in most clades are lower than 0.5 and would form polytomies if summarized (https://www.gisaid.org).<br/><br/>as a majority-rule consensus tree as shown in    GISAID<br/><br/>The time of origin is estimated with median 31.9 days and 95% highest posterior density (HPD) interval from 26.3 to 43.8 days before the date of the latest sample (January 18, 2020), that is, December 17, 2019 (December 5, 2019 to December 23, 2019) (Table 1). This is on average https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china), showing again an early phase of the epidemic.<br/><br/>days before the cluster was initially reported (WHO, The effective reproductive number (Re) changing over time represents the epidemic dynamics of 2019-nCoV (Figure 2). Re is defined as the number of expected secondary infections caused by an infected individual during the epidemic (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>). Thus, Re ><br/><br/>1.0 means that the number of cases are increasing and the epidemic is growing, whereas Re <<br/><br/>1.0 means that the epidemic is declining and will die out. Interestingly, the epidemic has an early boost before December 31 with Re at around 2.0, and the number increases to over 2.5 from January 13 to 15, 2020. This is in agreement with some other studies reporting Re between<br/><br/>3.3 and 5.5 (<a class=\"ref-link\" id=\"cRead_et+al_2020_a\" href=\"#rRead_et+al_2020_a\">Read et al 2020</a>; Zhao et al 2020). In comparison, the estimated Re was 2.7 to 3.6 for SARS during the precontrol phase in HongKong (Riley et al 2003). Re is not consistenly larger than 1.0 as we also observe decreased values between January 1 to 10 and in the last three days. However, this is likely an artifact of lacking samples in these time intervals. Keep in mind that we used only 24 samples in our analysis, which is less than 2% of the reported number of infected patients. With more viurses sequenced, we would expect more reliable estimates which would provide better insights into the epidemic of 2019-nCoV.<br/><br/>Overall, this study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences. Such estimates would help public health officials to coordinate effectively to control the outbreak."
+        ],
+        "methods": [
+            "The original data downloaded from GISAID (https://www.gisaid.org) consists of 26 sequences of 2019-nCoV (as of January 24, 2020). We excluded two outliers, one is the virus from Kanagawa, Japan (EPI_ISL_402126) which contained only a small segment of 369bp, another is from Wuhan, China (EPI_ISL_403928) which contains suspiciously many mutations and has genetic distance about ten times longer than the rest of the sequences (GISAID; https://www.gisaid.org). Sequence alignment was done using MUSCLE<br/><br/>{Edgar:2004bo}, resulting in a total length of 29904bp for the whole genome. The sampling times of the viruses ranged from December 24, 2019 (EPI_ISL_402123) to January 18, 2020<br/><br/>(EPI_ISL_403937) and they were used as fixed ages (in unit of years) in subsequent analysis.<br/><br/>We used the BDSS model (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\"><a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a></a>) implemented in the BDSKY package for<br/><br/>BEAST 2 (Bouckaert et al 2019) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV. The model has an important epidemiological parameter, the effective reproductive number Re, defined as the number of expected secondary infections caused by an infected individual during the epidemic. The model allows Re to change over time, making it feasible to estimate its dynamics (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\"><a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a></a>). The other two parameters are the becoming noninfectious rate \u03b4 and sampling proportion p, which were assumed constant over time. For the priors, Re was assigned a lognormal(0, 1.25) distribution with median 1.0 and 95%<br/><br/>quantiles between 0.13 and 7.82. \u03b4 was given a lognormal (2, 1.25) distribution with median<br/><br/>7.39 and mean 16.1, expecting the infectious period of an individual (1/\u03b4) to be about a month.<br/><br/>The sampling proportion of infected individuals p of was a beta(1, 9) distribution with mean<br/><br/>0.1. The BDSS process starts from the origin time t0, which was assigned a lognormal(\u20132, 1.5)<br/><br/>distribution with median 0.135 (years before the lasest sampling time). Time from the origin to the lastest sample was divided into ten equally spaced intervals where Re was estimated individually in each interval.<br/><br/>We used the lognormal independent relaxed clock (<a class=\"ref-link\" id=\"cDrummond_et+al_2006_a\" href=\"#rDrummond_et+al_2006_a\">Drummond et al 2006</a>; Rannala and<br/><br/>Yang 2007) to model evolutionary rate variation along the branches. The mean clock rate r was assigned a gamma(2, 0.0005) prior with mean of 0.001 substitutions per site per year and the standard deviation \u03c3 was a gamma (0.54, 0.38) prior with mean 0.2 and median 0.1 by default.<br/><br/>The substitution model used was HKY+\u03934 (<a class=\"ref-link\" id=\"cHasegawa_et+al_1985_a\" href=\"#rHasegawa_et+al_1985_a\">Hasegawa et al 1985</a>; <a class=\"ref-link\" id=\"cYang_1994_a\" href=\"#rYang_1994_a\">Yang 1994</a>) in which the transition-transversion rate ratio \u03ba was set a lognormal(1, 1.25) prior and the gamma shape parameter \u03b1 was an exponential(1) prior.<br/><br/>The analysis was performed in the BEAST 2 platform (Bouckaert et al 2019). We ran 150 million MCMC iterations and sampled every 5000 iterations. The first 30% samples were discarded as burn-in. Convergence was diagnosed in Tracer (<a class=\"ref-link\" id=\"cRambaut_et+al_2018_a\" href=\"#rRambaut_et+al_2018_a\">Rambaut et al 2018</a>) to confirm that independent runs gave consensus results and all parameters had effective sample size (ESS)<br/><br/>larger than 100. The remaining 70% samples were used to build the maximum clade credibility (MCC) tree and to summarize the parameter estimates. The common ancestor heights were used to annotate the clade ages in the MCC tree."
+        ],
+        "acknowledgments": [
+            "CZ is supported by the 100 Young Talents Program of Chinese Academy of Sciences."
+        ],
+        "funding": [
+            "CZ is supported by the 100 Young Talents Program of Chinese Academy of Sciences"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "The 2019 novel coronavirus (2019-nCoV) have emerged from Wuhan, China. Studying the epidemic dynamics is crucial for further surveillance and control of the outbreak. We employed a Bayesian framework to infer the time-calibrated phylogeny and the epidemic dynamics represented by the effective reproductive number (Re) changing over time from the genomic sequences available from GISAID. The origin time is estimated to be December 17, 2019 (95%",
+            "CI: December 5, 2019 \u2013 December 23, 2019). Re changes drastically over time, with highest value of 2.5 (0.5, 4.9) and lowest value of 0.3 (0.006, 1.47) (median and 95% highest posterior density interval). This study provides an early insight of the 2019-nCoV epidemic."
+        ],
+        "Introduction": [
+            "An outbreak of a novel coronavirus (2019-nCoV) was reported in Wuhan, a city in central",
+            "Coronaviruses cause diseases range from common cold to severe pneumonia. Two fatal (WHO; https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china).",
+            "coronavirus epidemics over the last two decades were severe acute respiratory syndrome (SARS) in 2003 and Middle East respiratory syndrome (MERS) in 2012 (WHO; https://www.who.int/health-topics/coronavirus). Human to human transmission has been confirmed for this new type of coronavirus (<a class=\"ref-link\" id=\"cWang_et+al_2020_a\" href=\"#rWang_et+al_2020_a\">Wang et al 2020</a>) and more than 1,000 cases have been reported as of January 25, 2020 (https://bnonews.com/index.php/2020/01/the-latestcoronavirus-cases).",
+            "Studying the virus epidemic dynamics is crucial for further surveillance and control of the outbreak. Phylogeny of the viruses is a proxy of the transmission chain. Early studies of 2019-",
+            "nCoV have focused on their molecular features and phylogenetic relationship with the close relatives (<a class=\"ref-link\" id=\"cZhou_et+al_2020_a\" href=\"#rZhou_et+al_2020_a\">Zhou et al 2020</a>; Chan et al 2020). The phylogenetic analyses typically ignored the sampling times and measursed branch lengths by expected number of substitutioins per site.",
+            "They are also lacking a stochastic process to model the epidemic dynamics over time. However, both the timing and dynamics are critical to understand the early outbreak of 2019-nCoV.",
+            "Furthermore, various sources of information and uncertainties are hard to be integrated in the analyses without employing a Bayesian approach.",
+            "In this study, we used the birth-death skyline serial (BDSS) model (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV. This approach takes the genomic sequences and sampling times of the viruses as input, and co-estimtes the phylogeny and key epidemic parameters in a Bayesian framework. To our knowledge, this is the first study to perform such estimation on 2019-nCoV."
+        ],
+        "Results and Discussion": [
+            "BetaCoV viruses. The samples from Wuhan form a paraphyletic group, while the rest of the samples form a monophyletic clade. These two clades are not divergent from each other as their sequences are quite similar, which indicates that the outbreak is still in an early stage. The patients from Guangdong and Zhejiang had traveled from Wuhan and they had been infected before travelling (Chan et al 2020). Note that this phylogeny is a maximum clade credibility (MCC) tree summarized from the posterior samples, which represents a best estimate of the",
+            "author/funder. It is made available under a CC-BY-NC-ND 4.0 International license.",
+            "topology. The probabilities in most clades are lower than 0.5 and would form polytomies if summarized (https://www.gisaid.org).",
+            "The time of origin is estimated with median 31.9 days and 95% highest posterior density (HPD) interval from 26.3 to 43.8 days before the date of the latest sample (January 18, 2020), that is, December 17, 2019 (December 5, 2019 to December 23, 2019) (Table 1). This is on average https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china), showing again an early phase of the epidemic.",
+            "days before the cluster was initially reported (WHO, The effective reproductive number (Re) changing over time represents the epidemic dynamics of 2019-nCoV (Figure 2). Re is defined as the number of expected secondary infections caused by an infected individual during the epidemic (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>). Thus, Re >",
+            "1.0 means that the number of cases are increasing and the epidemic is growing, whereas Re <",
+            "1.0 means that the epidemic is declining and will die out. Interestingly, the epidemic has an early boost before December 31 with Re at around 2.0, and the number increases to over 2.5 from January 13 to 15, 2020. This is in agreement with some other studies reporting Re between",
+            "3.3 and 5.5 (<a class=\"ref-link\" id=\"cRead_et+al_2020_a\" href=\"#rRead_et+al_2020_a\">Read et al 2020</a>; Zhao et al 2020). In comparison, the estimated Re was 2.7 to 3.6 for SARS during the precontrol phase in HongKong (Riley et al 2003). Re is not consistenly larger than 1.0 as we also observe decreased values between January 1 to 10 and in the last three days. However, this is likely an artifact of lacking samples in these time intervals. Keep in mind that we used only 24 samples in our analysis, which is less than 2% of the reported number of infected patients. With more viurses sequenced, we would expect more reliable estimates which would provide better insights into the epidemic of 2019-nCoV.",
+            "Overall, this study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences. Such estimates would help public health officials to coordinate effectively to control the outbreak."
+        ],
+        "Methods": [
+            "The original data downloaded from GISAID (https://www.gisaid.org) consists of 26 sequences of 2019-nCoV (as of January 24, 2020). We excluded two outliers, one is the virus from Kanagawa, Japan (EPI_ISL_402126) which contained only a small segment of 369bp, another is from Wuhan, China (EPI_ISL_403928) which contains suspiciously many mutations and has genetic distance about ten times longer than the rest of the sequences (GISAID; https://www.gisaid.org). Sequence alignment was done using MUSCLE",
+            "{Edgar:2004bo}, resulting in a total length of 29904bp for the whole genome. The sampling times of the viruses ranged from December 24, 2019 (EPI_ISL_402123) to January 18, 2020",
+            "(EPI_ISL_403937) and they were used as fixed ages (in unit of years) in subsequent analysis.",
+            "BEAST 2 (Bouckaert et al 2019) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV. The model has an important epidemiological parameter, the effective reproductive number Re, defined as the number of expected secondary infections caused by an infected individual during the epidemic. The model allows Re to change over time, making it feasible to estimate its dynamics (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>). The other two parameters are the becoming noninfectious rate \u03b4 and sampling proportion p, which were assumed constant over time. For the priors, Re was assigned a lognormal(0, 1.25) distribution with median 1.0 and 95%",
+            "quantiles between 0.13 and 7.82. \u03b4 was given a lognormal (2, 1.25) distribution with median",
+            "7.39 and mean 16.1, expecting the infectious period of an individual (1/\u03b4) to be about a month.",
+            "The sampling proportion of infected individuals p of was a beta(1, 9) distribution with mean",
+            "0.1. The BDSS process starts from the origin time t0, which was assigned a lognormal(\u20132, 1.5)",
+            "distribution with median 0.135 (years before the lasest sampling time). Time from the origin to the lastest sample was divided into ten equally spaced intervals where Re was estimated individually in each interval.",
+            "We used the lognormal independent relaxed clock (<a class=\"ref-link\" id=\"cDrummond_et+al_2006_a\" href=\"#rDrummond_et+al_2006_a\">Drummond et al 2006</a>; Rannala and",
+            "Yang 2007) to model evolutionary rate variation along the branches. The mean clock rate r was assigned a gamma(2, 0.0005) prior with mean of 0.001 substitutions per site per year and the standard deviation \u03c3 was a gamma (0.54, 0.38) prior with mean 0.2 and median 0.1 by default.",
+            "The substitution model used was HKY+\u03934 (<a class=\"ref-link\" id=\"cHasegawa_et+al_1985_a\" href=\"#rHasegawa_et+al_1985_a\">Hasegawa et al 1985</a>; <a class=\"ref-link\" id=\"cYang_1994_a\" href=\"#rYang_1994_a\">Yang 1994</a>) in which the transition-transversion rate ratio \u03ba was set a lognormal(1, 1.25) prior and the gamma shape parameter \u03b1 was an exponential(1) prior.",
+            "The analysis was performed in the BEAST 2 platform (Bouckaert et al 2019). We ran 150 million MCMC iterations and sampled every 5000 iterations. The first 30% samples were discarded as burn-in. Convergence was diagnosed in Tracer (<a class=\"ref-link\" id=\"cRambaut_et+al_2018_a\" href=\"#rRambaut_et+al_2018_a\">Rambaut et al 2018</a>) to confirm that independent runs gave consensus results and all parameters had effective sample size (ESS)",
+            "larger than 100. The remaining 70% samples were used to build the maximum clade credibility (MCC) tree and to summarize the parameter estimates. The common ancestor heights were used to annotate the clade ages in the MCC tree."
+        ],
+        "Acknowledgments": [
+            "CZ is supported by the 100 Young Talents Program of Chinese Academy of Sciences."
+        ],
+        "References": [
+            "Bouckaert R., Vaughan T.G., Barido-Sottani J., Duch\u00eane S., Fourment M., Gavryushkina A., Heled J., Jones G., K\u00fchnert D., De Maio N., Matschiner M., Mendes F.K., M\u00fcller N.F., Ogilvie H.A., Plessis du L., Popinga A., Rambaut A., Rasmussen D., Siveroni I., Suchard",
+            "M.A., Wu C.-H., Xie D., Zhang C., Stadler T., Drummond A.J. 2019. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS Comput. Biol.",
+            "15:e1006650.",
+            "Chan J.F.-W., Yuan S., Kok K.-H., To K.K.-W., Chu H., Yang J., Xing F., Liu J., Yip C.C.Y., Poon R.W.-S., Tsoi H.-W., Lo S.K.-F., Chan K.-H., Poon V.K.-M., Chan W.-M., Ip",
+            "J.D., Cai J.-P., Cheng V.C.-C., Chen H., Hui C.K.-M., Yuen K.-Y. 2020. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. The Lancet.",
+            "Drummond A.J., Ho S.Y.W., Phillips M.J., Rambaut A. 2006. Relaxed phylogenetics and dating with confidence. PLoS Biol. 4:e88.",
+            "Hasegawa M., Kishino H., Yano T. 1985. Dating of the human-ape splitting by a molecular clock of mitochondrial DNA. J. Mol. Evol. 22:160\u2013174.",
+            "Rambaut A., Drummond A.J., Xie D., Baele G., Suchard M.A. 2018. Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst. Biol. 67:901\u2013904.",
+            "<a class=\"ref-link\" id=\"cRannala_2007_a\" href=\"#rRannala_2007_a\">Rannala B., Yang Z. 2007</a>. Inferring speciation times under an episodic molecular clock.",
+            "Syst. Biol. 56:453\u2013466.",
+            "Read J.M., Bridgen J.R., Cummings D.A., Ho A., Jewell C.P. 2020. Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions.",
+            "medRxiv.",
+            "Riley S., Fraser C., Donnelly C.A., Ghani A.C., Abu-Raddad L.J., Hedley A.J., Leung G.M., Ho L.-M., Lam T.-H., Thach T.Q., Chau P., Chan K.-P., Lo S.-V., Leung P.-Y., Tsang",
+            "T., Ho W., Lee K.-H., Lau E.M.C., Ferguson N.M., Anderson R.M. 2003. Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions. Science. 300:1961\u20131966.",
+            "Stadler T., K\u00fchnert D., Bonhoeffer S., Drummond A.J. 2013. Birth-death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV). Proc. Natl.",
+            "Acad. Sci. USA. 110:228\u2013233.",
+            "Wang C., Horby P.W., Hayden F.G., Gao G.F. 2020. A novel coronavirus outbreak of global health concern. The Lancet.",
+            "<a class=\"ref-link\" id=\"cYang_1994_a\" href=\"#rYang_1994_a\">Yang Z. 1994</a>. Maximum likelihood phylogenetic estimation from DNA sequences with variable rates over sites: approximate methods. J. Mol. Evol. 39:306\u2013314.",
+            "Zhao S., Ran J., MUSA S.S., Yang G., Lou Y., Gao D., Yang L., He D. 2020. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv.",
+            "Zhou P., Yang X.-L., Wang X.-G., Hu B., Zhang L., Zhang W., Si H.-R., Zhu Y., Li B., Huang C.-L., Chen H.-D., Chen J., Luo Y., Guo H., Jiang R.-D., Liu M.-Q., Chen Y., Shen X.-R., Wang X., Zheng X.-S., Zhao K., Chen Q.-J., Deng F., Liu L.-L., Yan B., Zhan F.-X., Wang Y.-Y., Xiao G., Shi Z.-L. 2020. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin.",
+            "bioRxiv.",
+            "Table 1. Posterior estimates of key model parameters median and 95% HPD interval t0",
+            "0.0873 (0.072, 0.120)",
+            "Re1",
+            "1.32 (0.013, 5.92)",
+            "Re2",
+            "1.72 (0.015, 5.58)",
+            "Re3",
+            "1.07 (0.015, 4.50)",
+            "Re4",
+            "1.79 (0.015, 3.51)",
+            "Re5",
+            "0.28 (0.006, 2.61)",
+            "Re6",
+            "0.31 (0.006, 1.47)",
+            "Re7",
+            "0.59 (0.014, 1.93)",
+            "Re8",
+            "0.59 (0.012, 2.10)",
+            "Re9",
+            "2.54 (0.52, 4.87)",
+            "Re10",
+            "0.84 (0.014, 2.73)",
+            "\u03b4",
+            "183.25 (15.45, 451.97)",
+            "p",
+            "0.0099 (8.8E\u20137, 0.18)",
+            "r",
+            "0.0015 (0.00067, 0.0030)",
+            "\u03c3",
+            "0.79 (2.3E\u20137, 1.40)",
+            "\u03ba",
+            "7.38 (2.74, 16.05)",
+            "\u03b1",
+            "0.73 (0.0015, 3.00)",
+            "Note: time unit is years.",
+            "Guangdong_403932_2020.03 3",
+            "Guangdong_403933_2020.04110",
+            "Guangdong_403935_2020.04110",
+            "Guangdong_403934_2020.04110",
+            "ang_40422 _2020.04 5",
+            "Guangdong_40393 _2020.04 5",
+            "Guangdong_40393 _2020.04932 on a u _4039 3_2020.035 2",
+            "ang_40422 _2020.043 4 on a u _4039 2_2020.02192 u an_402119_2019.99 2 u an_402132_2019.99 2 u an_402124_2019.99 2 u an_40212 _2019.99 2 u an_403929_2019.99 2 u an_402121_2019.99 2 u an_40212 _2019.99 2 u an_402129_2019.99 2 u an_402120_2020.002 4 u an_403930_2019.99 2 u an_402130_2019.99 2 u an_402125_2019.9 u an_403931_2019.99 2 u an_402123_2019.9 0 2",
+            "-",
+            "-2",
+            "2020-Jan-01",
+            "2020-Jan-0",
+            "2020-Jan-18",
+            "Figure 1. Maximum clade credibility (MCC) tree summarized from the MCMC sample. The common ancestor heights were used to annotate the clade ages.",
+            "Re",
+            "-20",
+            "Jan-",
+            "Jan- 0",
+            "Figure 2. Skyline plot of the effective reproductive number (Re) changing over time. The solid line indicates the median and the gray area indicates the 95% HPD interval."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 1000,
+            "context": "coronavirus epidemics over the last two decades were severe acute respiratory syndrome (SARS) in 2003 and Middle East respiratory syndrome (MERS) in 2012 (WHO; https://www.who.int/health-topics/coronavirus). <mark class=\"stats\">Human to human transmission has been confirmed for this new type of coronavirus (<a class=\"ref-link\" id=\"cWang_et+al_2020_a\" href=\"#rWang_et+al_2020_a\">Wang et al 2020</a>) and more than 1,000 cases have been reported as of January 25, 2020 (https://bnonews.com/index.php/2020/01/the-latestcoronavirus-cases)</mark>. Studying the virus epidemic dynamics is crucial for further surveillance and control of the outbreak"
+        },
+        {
+            "participant": "samples",
+            "number": 24,
+            "context": "However, this is likely an artifact of lacking samples in these time intervals. <mark class=\"stats\">Keep in mind that we used only 24 samples in our analysis, which is less than 2% of the reported number of infected patients</mark>. With more viurses sequenced, we would expect more reliable estimates which would provide better insights into the epidemic of 2019-nCoV"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The remaining 70% samples were used to build the maximum clade credibility (MCC) tree and to summarize the parameter estimates</mark>",
+                "tests": [
+                    {
+                        "test": "maximum clade credibility"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">In this study, we used the birth-death skyline serial (BDSS) model (Stadler et al 2013) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV</mark>",
+                "tests": [
+                    {
+                        "test": "birth-death skyline serial"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "birth death skyline",
+        "coronavirus",
+        "origin time",
+        "phylogenetics",
+        "novel coronavirus",
+        "pneumonia",
+        "maximum clade credibility",
+        "reproductive number",
+        "severe acute respiratory syndrome",
+        "al 2020</a",
+        "birth-death skyline serial",
+        "Middle East respiratory syndrome",
+        "dynamics",
+        "genomic sequence",
+        "epidemic dynamic",
+        "respiratory syndrome",
+        "effective sample size",
+        "bayesian framework"
+    ],
+    "keyword_relevance": {
+        "reproductive number": 0.33653846153846156,
+        "coronavirus": 0.1346153846153846,
+        "dynamics": 0.10576923076923077,
+        "epidemic dynamic": 0.07692307692307693,
+        "novel coronavirus": 0.0673076923076923,
+        "maximum clade credibility": 0.057692307692307696,
+        "severe acute respiratory syndrome": 0.038461538461538464,
+        "birth-death skyline serial": 0.038461538461538464,
+        "pneumonia": 0.028846153846153848,
+        "origin time": 0.019230769230769232,
+        "phylogenetics": 0.019230769230769232,
+        "Middle East respiratory syndrome": 0.019230769230769232,
+        "genomic sequence": 0.019230769230769232,
+        "respiratory syndrome": 0.019230769230769232,
+        "effective sample size": 0.019230769230769232,
+        "birth death skyline": 0.0,
+        "al 2020</a": 0.0,
+        "bayesian framework": 0.0
+    },
+    "species": [],
+    "summary": [
+        "An outbreak of a novel coronavirus (2019-nCoV) was reported in Wuhan, a city in central China<br/><br/>Coronaviruses cause diseases range from common cold to severe pneumonia.",
+        "This study provides an early insight of the 2019-nCoV epidemic.",
+        "They are lacking a stochastic process to model the epidemic dynamics over time.",
+        "Both the timing and dynamics are critical to understand the early outbreak of 2019-nCoV.",
+        "The authors used the birth-death skyline serial (BDSS) model (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\"><a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a></a>) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV.",
+        "This approach takes the genomic sequences and sampling times of the viruses as input, and co-estimtes the phylogeny and key epidemic parameters in a Bayesian framework.",
+        "Note that this phylogeny is a maximum clade credibility (MCC) tree summarized from the posterior samples, which represents a best estimate of the author/funder.",
+        "The time of origin is estimated with median 31.9 days and 95% highest posterior density (HPD) interval from 26.3 to 43.8 days before the date of the latest sample (January 18, 2020), that is, December 17, 2019 (December 5, 2019 to December 23, 2019) (Table 1).",
+        "This is on average https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china), showing again an early phase of the epidemic.",
+        "Days before the cluster was initially reported (WHO, The effective reproductive number (Re) changing over time represents the epidemic dynamics of 2019-nCoV (Figure 2).",
+        "The authors would expect more reliable estimates which would provide better insights into the epidemic of 2019-nCoV.",
+        "This study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences.",
+        "One is the virus from Kanagawa, Japan (EPI_ISL_402126) which contained only a small segment of 369bp, another is from Wuhan, China (EPI_ISL_403928) which contains suspiciously many mutations and has genetic distance about ten times longer than the rest of the sequences (GISAID; https://www.gisaid.org).",
+        "The sampling times of the viruses ranged from December 24, 2019 (EPI_ISL_402123) to January 18, 2020 (EPI_ISL_403937) and they were used as fixed ages in subsequent analysis.",
+        "BEAST 2 (Bouckaert et al 2019) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV.",
+        "The model has an important epidemiological parameter, the effective reproductive number Re, defined as the number of expected secondary infections caused by an infected individual during the epidemic.",
+        "The model allows Re to change over time, making it feasible to estimate its dynamics (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\"><a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a></a>).",
+        "The remaining 70% samples were used to build the maximum clade credibility (MCC) tree and to summarize the parameter estimates."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "An outbreak of a novel coronavirus (2019-nCoV) was reported in Wuhan, a city in central China<br/><br/>Coronaviruses cause diseases range from common cold to severe pneumonia.",
+            "This study provides an early insight of the 2019-nCoV epidemic.",
+            "They are lacking a stochastic process to model the epidemic dynamics over time.",
+            "Both the timing and dynamics are critical to understand the early outbreak of 2019-nCoV."
+        ],
+        "Results": [
+            "The authors used the birth-death skyline serial (BDSS) model (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\"><a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a></a>) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV.",
+            "This approach takes the genomic sequences and sampling times of the viruses as input, and co-estimtes the phylogeny and key epidemic parameters in a Bayesian framework.",
+            "Note that this phylogeny is a maximum clade credibility (MCC) tree summarized from the posterior samples, which represents a best estimate of the author/funder.",
+            "The time of origin is estimated with median 31.9 days and 95% highest posterior density (HPD) interval from 26.3 to 43.8 days before the date of the latest sample (January 18, 2020), that is, December 17, 2019 (December 5, 2019 to December 23, 2019) (Table 1).",
+            "This is on average https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china), showing again an early phase of the epidemic.",
+            "Days before the cluster was initially reported (WHO, The effective reproductive number (Re) changing over time represents the epidemic dynamics of 2019-nCoV (Figure 2).",
+            "The authors would expect more reliable estimates which would provide better insights into the epidemic of 2019-nCoV.",
+            "This study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences.",
+            "One is the virus from Kanagawa, Japan (EPI_ISL_402126) which contained only a small segment of 369bp, another is from Wuhan, China (EPI_ISL_403928) which contains suspiciously many mutations and has genetic distance about ten times longer than the rest of the sequences (GISAID; https://www.gisaid.org).",
+            "The sampling times of the viruses ranged from December 24, 2019 (EPI_ISL_402123) to January 18, 2020 (EPI_ISL_403937) and they were used as fixed ages in subsequent analysis."
+        ],
+        "Conclusion": [
+            "BEAST 2 (Bouckaert et al 2019) to infer the phylogeny, divergence times and epidemic dynamics of 2019-nCoV.",
+            "The model has an important epidemiological parameter, the effective reproductive number Re, defined as the number of expected secondary infections caused by an infected individual during the epidemic.",
+            "The model allows Re to change over time, making it feasible to estimate its dynamics (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\"><a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a></a>).",
+            "The remaining 70% samples were used to build the maximum clade credibility (MCC) tree and to summarize the parameter estimates."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "M_et+al_2019_a",
+            "alt_id": "1",
+            "entry": "M.A., Wu C.-H., Xie D., Zhang C., Stadler T., Drummond A.J. 2019. BEAST 2.5: An advanced software platform for Bayesian evolutionary analysis. PLoS Comput. Biol.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=MA%20Wu%20CH%20Xie%20D%20Zhang%20C%20Stadler%20T%20Drummond%20AJ%202019%20BEAST%2025%20An%20advanced%20software%20platform%20for%20Bayesian%20evolutionary%20analysis%20PLoS%20Comput%20Biol",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=MA%20Wu%20CH%20Xie%20D%20Zhang%20C%20Stadler%20T%20Drummond%20AJ%202019%20BEAST%2025%20An%20advanced%20software%20platform%20for%20Bayesian%20evolutionary%20analysis%20PLoS%20Comput%20Biol",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=MA%20Wu%20CH%20Xie%20D%20Zhang%20C%20Stadler%20T%20Drummond%20AJ%202019%20BEAST%2025%20An%20advanced%20software%20platform%20for%20Bayesian%20evolutionary%20analysis%20PLoS%20Comput%20Biol"
+        },
+        {
+            "id": "J_et+al_2020_a",
+            "alt_id": "2",
+            "entry": "J.D., Cai J.-P., Cheng V.C.-C., Chen H., Hui C.K.-M., Yuen K.-Y. 2020. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. The Lancet.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=JD%20Cai%20JP%20Cheng%20VCC%20Chen%20H%20Hui%20CKM%20Yuen%20KY%202020%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20The%20Lancet"
+        },
+        {
+            "id": "Drummond_et+al_2006_a",
+            "alt_id": "3",
+            "entry": "Drummond A.J., Ho S.Y.W., Phillips M.J., Rambaut A. 2006. Relaxed phylogenetics and dating with confidence. PLoS Biol. 4:e88.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J.%2C%20Drummond%20A.%20W.%2C%20Ho%20S.Y.%20J.%2C%20Phillips%20M.%20A%2C%20Rambaut%20Relaxed%20phylogenetics%20and%20dating%20with%20confidence%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J.%2C%20Drummond%20A.%20W.%2C%20Ho%20S.Y.%20J.%2C%20Phillips%20M.%20A%2C%20Rambaut%20Relaxed%20phylogenetics%20and%20dating%20with%20confidence%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J.%2C%20Drummond%20A.%20W.%2C%20Ho%20S.Y.%20J.%2C%20Phillips%20M.%20A%2C%20Rambaut%20Relaxed%20phylogenetics%20and%20dating%20with%20confidence%202006"
+        },
+        {
+            "id": "Hasegawa_et+al_1985_a",
+            "alt_id": "4",
+            "entry": "Hasegawa M., Kishino H., Yano T. 1985. Dating of the human-ape splitting by a molecular clock of mitochondrial DNA. J. Mol. Evol. 22:160\u2013174.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=M.%2C%20Hasegawa%20H.%2C%20Kishino%20T%2C%20Yano%20Dating%20of%20the%20human-ape%20splitting%20by%20a%20molecular%20clock%20of%20mitochondrial%20DNA%201985",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=M.%2C%20Hasegawa%20H.%2C%20Kishino%20T%2C%20Yano%20Dating%20of%20the%20human-ape%20splitting%20by%20a%20molecular%20clock%20of%20mitochondrial%20DNA%201985",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=M.%2C%20Hasegawa%20H.%2C%20Kishino%20T%2C%20Yano%20Dating%20of%20the%20human-ape%20splitting%20by%20a%20molecular%20clock%20of%20mitochondrial%20DNA%201985"
+        },
+        {
+            "id": "Rambaut_et+al_2018_a",
+            "alt_id": "5",
+            "entry": "Rambaut A., Drummond A.J., Xie D., Baele G., Suchard M.A. 2018. Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst. Biol. 67:901\u2013904.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=A.%2C%20Rambaut%20J.%2C%20Drummond%20A.%20D.%2C%20Xie%20G.%2C%20Baele%20Posterior%20summarization%20in%20Bayesian%20phylogenetics%20using%20Tracer%201.7.%20Syst%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=A.%2C%20Rambaut%20J.%2C%20Drummond%20A.%20D.%2C%20Xie%20G.%2C%20Baele%20Posterior%20summarization%20in%20Bayesian%20phylogenetics%20using%20Tracer%201.7.%20Syst%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=A.%2C%20Rambaut%20J.%2C%20Drummond%20A.%20D.%2C%20Xie%20G.%2C%20Baele%20Posterior%20summarization%20in%20Bayesian%20phylogenetics%20using%20Tracer%201.7.%20Syst%202018"
+        },
+        {
+            "id": "Rannala_2007_a",
+            "alt_id": "6",
+            "entry": "Rannala B., Yang Z. 2007. Inferring speciation times under an episodic molecular clock.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=B.%2C%20Rannala%20Z%2C%20Yang%20Inferring%20speciation%20times%20under%20an%20episodic%20molecular%20clock%202007"
+        },
+        {
+            "id": "Read_et+al_2020_a",
+            "alt_id": "7",
+            "entry": "Read J.M., Bridgen J.R., Cummings D.A., Ho A., Jewell C.P. 2020. Novel coronavirus 2019-",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Read%20JM%20Bridgen%20JR%20Cummings%20DA%20Ho%20A%20Jewell%20CP%202020%20Novel%20coronavirus%202019"
+        },
+        {
+            "id": "Ho_et+al_2003_a",
+            "alt_id": "8",
+            "entry": "T., Ho W., Lee K.-H., Lau E.M.C., Ferguson N.M., Anderson R.M. 2003. Transmission dynamics of the etiological agent of SARS in Hong Kong: impact of public health interventions. Science. 300:1961\u20131966.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=T.%2C%20Ho%20W.%20K.-H.%2C%20Lee%20C.%2C%20Lau%20E.M.%20M.%2C%20Ferguson%20N.%20Transmission%20dynamics%20of%20the%20etiological%20agent%20of%20SARS%20in%20Hong%20Kong%3A%20impact%20of%20public%20health%20interventions%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=T.%2C%20Ho%20W.%20K.-H.%2C%20Lee%20C.%2C%20Lau%20E.M.%20M.%2C%20Ferguson%20N.%20Transmission%20dynamics%20of%20the%20etiological%20agent%20of%20SARS%20in%20Hong%20Kong%3A%20impact%20of%20public%20health%20interventions%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=T.%2C%20Ho%20W.%20K.-H.%2C%20Lee%20C.%2C%20Lau%20E.M.%20M.%2C%20Ferguson%20N.%20Transmission%20dynamics%20of%20the%20etiological%20agent%20of%20SARS%20in%20Hong%20Kong%3A%20impact%20of%20public%20health%20interventions%202003"
+        },
+        {
+            "id": "Stadler_et+al_2013_a",
+            "alt_id": "9",
+            "entry": "Stadler T., K\u00fchnert D., Bonhoeffer S., Drummond A.J. 2013. Birth-death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV). Proc. Natl.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=T.%2C%20Stadler%20D.%2C%20K%C3%BChnert%20S.%2C%20Bonhoeffer%20J%2C%20Drummond%20A.%20Birth-death%20skyline%20plot%20reveals%20temporal%20changes%20of%20epidemic%20spread%20in%20HIV%20and%20hepatitis%20C%20virus%20%28HCV%29%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=T.%2C%20Stadler%20D.%2C%20K%C3%BChnert%20S.%2C%20Bonhoeffer%20J%2C%20Drummond%20A.%20Birth-death%20skyline%20plot%20reveals%20temporal%20changes%20of%20epidemic%20spread%20in%20HIV%20and%20hepatitis%20C%20virus%20%28HCV%29%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=T.%2C%20Stadler%20D.%2C%20K%C3%BChnert%20S.%2C%20Bonhoeffer%20J%2C%20Drummond%20A.%20Birth-death%20skyline%20plot%20reveals%20temporal%20changes%20of%20epidemic%20spread%20in%20HIV%20and%20hepatitis%20C%20virus%20%28HCV%29%202013"
+        },
+        {
+            "id": "Wang_et+al_2020_a",
+            "alt_id": "10",
+            "entry": "Wang C., Horby P.W., Hayden F.G., Gao G.F. 2020. A novel coronavirus outbreak of global health concern. The Lancet.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20C%20Horby%20PW%20Hayden%20FG%20Gao%20GF%202020%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20The%20Lancet",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%20C%20Horby%20PW%20Hayden%20FG%20Gao%20GF%202020%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20The%20Lancet",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%20C%20Horby%20PW%20Hayden%20FG%20Gao%20GF%202020%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20The%20Lancet"
+        },
+        {
+            "id": "Yang_1994_a",
+            "alt_id": "11",
+            "entry": "Yang Z. 1994. Maximum likelihood phylogenetic estimation from DNA sequences with variable rates over sites: approximate methods. J. Mol. Evol. 39:306\u2013314.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20Z.%20Maximum%20likelihood%20phylogenetic%20estimation%20from%20DNA%20sequences%20with%20variable%20rates%20over%20sites%3A%20approximate%20methods%201994",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20Z.%20Maximum%20likelihood%20phylogenetic%20estimation%20from%20DNA%20sequences%20with%20variable%20rates%20over%20sites%3A%20approximate%20methods%201994",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20Z.%20Maximum%20likelihood%20phylogenetic%20estimation%20from%20DNA%20sequences%20with%20variable%20rates%20over%20sites%3A%20approximate%20methods%201994"
+        },
+        {
+            "id": "Zhao_et+al_2019_a",
+            "alt_id": "12",
+            "entry": "Zhao S., Ran J., MUSA S.S., Yang G., Lou Y., Gao D., Yang L., He D. 2020. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhao%20S%20Ran%20J%20MUSA%20SS%20Yang%20G%20Lou%20Y%20Gao%20D%20Yang%20L%20He%20D%202020%20Preliminary%20estimation%20of%20the%20basic%20reproduction%20number%20of%20novel%20coronavirus%202019nCoV%20in%20China%20from%202019%20to%202020%20A%20datadriven%20analysis%20in%20the%20early%20phase%20of%20the%20outbreak%20bioRxiv",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhao%20S%20Ran%20J%20MUSA%20SS%20Yang%20G%20Lou%20Y%20Gao%20D%20Yang%20L%20He%20D%202020%20Preliminary%20estimation%20of%20the%20basic%20reproduction%20number%20of%20novel%20coronavirus%202019nCoV%20in%20China%20from%202019%20to%202020%20A%20datadriven%20analysis%20in%20the%20early%20phase%20of%20the%20outbreak%20bioRxiv",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhao%20S%20Ran%20J%20MUSA%20SS%20Yang%20G%20Lou%20Y%20Gao%20D%20Yang%20L%20He%20D%202020%20Preliminary%20estimation%20of%20the%20basic%20reproduction%20number%20of%20novel%20coronavirus%202019nCoV%20in%20China%20from%202019%20to%202020%20A%20datadriven%20analysis%20in%20the%20early%20phase%20of%20the%20outbreak%20bioRxiv"
+        },
+        {
+            "id": "Zhou_et+al_2020_a",
+            "alt_id": "13",
+            "entry": "Zhou P., Yang X.-L., Wang X.-G., Hu B., Zhang L., Zhang W., Si H.-R., Zhu Y., Li B., Huang C.-L., Chen H.-D., Chen J., Luo Y., Guo H., Jiang R.-D., Liu M.-Q., Chen Y., Shen X.-R., Wang X., Zheng X.-S., Zhao K., Chen Q.-J., Deng F., Liu L.-L., Yan B., Zhan F.-X., Wang Y.-Y., Xiao G., Shi Z.-L. 2020. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%20P%20Yang%20XL%20Wang%20XG%20Hu%20B%20Zhang%20L%20Zhang%20W%20Si%20HR%20Zhu%20Y%20Li%20B%20Huang%20CL%20Chen%20HD%20Chen%20J%20Luo%20Y%20Guo%20H%20Jiang%20RD%20Liu%20MQ%20Chen%20Y%20Shen%20XR%20Wang%20X%20Zheng%20XS%20Zhao%20K%20Chen%20QJ%20Deng%20F%20Liu%20LL%20Yan%20B%20Zhan%20FX%20Wang%20YY%20Xiao%20G%20Shi%20ZL%202020%20Discovery%20of%20a%20novel%20coronavirus%20associated%20with%20the%20recent%20pneumonia%20outbreak%20in%20humans%20and%20its%20potential%20bat%20origin"
+        }
+    ],
+    "facts": [
+        "The 2019 novel coronavirus have emerged from Wuhan",
+        "the epidemic dynamics is crucial for further surveillance and control of the outbreak",
+        "the epidemic dynamics represented by the effective reproductive number changing over time",
+        "This study provides an early insight of the 2019-nCoV epidemic",
+        "An outbreak of a novel coronavirus was reported in Wuhan",
+        "Coronaviruses cause diseases range from common cold to severe pneumonia",
+        "Human to human transmission has been confirmed for this new type of coronavirus",
+        "the virus epidemic dynamics is crucial for further surveillance and control of the outbreak",
+        "Phylogeny of the viruses is a proxy of the transmission chain",
+        "nCoV have focused on their molecular features",
+        "a stochastic process to model the epidemic dynamics over time",
+        "hard to be integrated in the analyses",
+        "The original data downloaded from GISAID consists of",
+        "The sampling times of the viruses ranged from December 24",
+        "the BDSS model implemented in the BDSKY package",
+        "as the number of expected secondary infections caused by an infected individual during the epidemic",
+        "The model allows Re to change over time",
+        "which were assumed constant over time",
+        "the infectious period of an individual to be about a month",
+        "The BDSS process starts from the origin time t0",
+        "Time from the origin to the lastest sample was divided into ten spaced intervals where Re was estimated",
+        "The analysis was performed in the BEAST 2 platform",
+        "30% samples were discarded as burn-in",
+        "Convergence was diagnosed in Tracer to confirm that independent runs gave consensus results",
+        "which indicates that the outbreak is",
+        "Zhejiang had traveled from Wuhan",
+        "a maximum clade credibility tree summarized from the posterior samples",
+        "which represents a best estimate of the author",
+        "The effective reproductive number changing over time represents the epidemic dynamics of",
+        "2019-nCoV. Re is defined as the number of expected secondary infections caused by an infected individual",
+        "which is less than 2% of the reported number",
+        "this study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters",
+        "This study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters"
+    ],
+    "claims": [
+        "This study provides an early insight of the 2019-nCoV epidemic",
+        "Overall, this study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences"
+    ],
+    "findings": [
+        "Keep in mind that we used only 24 samples in our analysis, which is less than 2% of the reported number of infected patients"
+    ],
+    "processes": [],
+    "key_statements": [
+        "This study provides an early insight of the 2019-nCoV epidemic",
+        "Coronaviruses cause diseases range from common cold to severe pneumonia",
+        "Human to human transmission has been confirmed for this new type of coronavirus (<a class=\"ref-link\" id=\"cWang_et+al_2020_a\" href=\"#rWang_et+al_2020_a\">Wang et al 2020</a>) and more than 1,000 cases have been reported as of January 25, 2020",
+        "Studying the virus epidemic dynamics is crucial for further surveillance and control of the outbreak",
+        "NCoV have focused on their molecular features and phylogenetic relationship with the close relatives (<a class=\"ref-link\" id=\"cZhou_et+al_2020_a\" href=\"#rZhou_et+al_2020_a\">Zhou et al 2020</a>; Chan et al 2020)",
+        "The phylogenetic analyses typically ignored the sampling times and measursed branch lengths by expected number of substitutioins per site. They are lacking a stochastic process to model the epidemic dynamics over time",
+        "The samples from Wuhan form a paraphyletic group, while the rest of the samples form a monophyletic clade. These two clades are not divergent from each other as their sequences are quite similar, which indicates that the outbreak is still in an early stage",
+        "The patients from Guangdong and Zhejiang had traveled from Wuhan and they had been infected before travelling (Chan et al 2020)",
+        "Note that this phylogeny is a maximum clade credibility (MCC) tree summarized from the posterior samples, which represents a best estimate of the author/funder",
+        "reproductive number is defined as the number of expected secondary infections caused by an infected individual during the epidemic (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>)",
+        "Keep in mind that we used only 24 samples in our analysis, which is less than 2% of the reported number of infected patients",
+        "This study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences",
+        "The model has an important epidemiological parameter, the effective reproductive number reproductive number, defined as the number of expected secondary infections caused by an infected individual during the epidemic",
+        "The birth-death skyline serial process starts from the origin time t0, which was assigned a lognormal(\u20132, 1.5)"
+    ],
+    "top_statements": [
+        "An outbreak of a novel coronavirus (2019-nCoV) was reported in Wuhan, a city in central    China<br/><br/>Coronaviruses cause diseases range from common cold to severe pneumonia",
+        "The samples from Wuhan form a paraphyletic group, while the rest of the samples form a monophyletic clade. These two clades are not divergent from each other as their sequences are quite similar, which indicates that the outbreak is still in an early stage",
+        "Note that this phylogeny is a maximum clade credibility (MCC) tree summarized from the posterior samples, which represents a best estimate of the author/funder",
+        "reproductive number is defined as the number of expected secondary infections caused by an infected individual during the epidemic (<a class=\"ref-link\" id=\"cStadler_et+al_2013_a\" href=\"#rStadler_et+al_2013_a\">Stadler et al 2013</a>)",
+        "This study provides an early insight of the 2019-nCoV epidemic by inferring key epidemiological parameters from the virus sequences",
+        "The model has an important epidemiological parameter, the effective reproductive number reproductive number, defined as the number of expected secondary infections caused by an infected individual during the epidemic"
+    ],
+    "headline": "Note that this phylogeny is a maximum clade credibility tree summarized from the posterior samples, which represents a best estimate of the author/funder",
+    "contexts": [],
+    "abbreviations": {
+        "Re": "reproductive number",
+        "SARS": "severe acute respiratory syndrome",
+        "MERS": "Middle East respiratory syndrome",
+        "BDSS": "birth-death skyline serial",
+        "MCC": "maximum clade credibility",
+        "ESS": "effective sample size"
+    }
+}

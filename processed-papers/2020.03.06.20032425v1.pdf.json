@@ -1,0 +1,737 @@
+{
+    "filename": "2020.03.06.20032425v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 217563,
+    "metadata": {
+        "title": "Prevalence and Risk Factors of Acute Posttraumatic Stress Symptoms during the COVID-19 Outbreak in Wuhan, China",
+        "author": "Luna Sun a,b + , Zhuoer Sun a,b +, Lili Wu a,b +, Zhenwen Zhu c+ , Fan Zhang a,b , Zhilei Shang a,b , Yanpu Jia a,b , Jingwen Gu d, Yaoguang Zhou a,b, Yan Wang a,b ,Nianqi Liu a,b , Weizhi Liu a,b",
+        "date": 2020,
+        "affiliations": [
+            "Lab for Post-traumatic Stress Disorder, Faculty of Psychology and Mental Health, Naval Medical University, Shanghai 200433, China",
+            "The Emotion & Cognition Lab, Faculty of Psychology and Mental Health, Naval Medical University, Shanghai 200433, China",
+            "Counseling and Psychological Services Center, Fudan University, 220 Handan Road, Shanghai 200433, China",
+            "The Battalion 5 of Cadet Brigade, School of Basic Medicine, Naval Medical University, Shanghai 200433, China",
+            "Lab for Post-traumatic Stress Disorder, Faculty of Psychology and Mental Health, Naval Medical University, 800 Xiangyin Road, Shanghai 200433, China. Tel/Fax: +86-21-81871671 E-mail: 13024141970@163.com"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.06.20032425",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.06.20032425v1.pdf"
+        },
+        "abstract": "Background A novel coronavirus (SARA-CoV-2) emerged in Wuhan, China, in December 2019. Within a few weeks, the disease caused by SARA-CoV-2, which is named COVID-19, has escalated into an unprecedented ongoing outbreak with frightening speed, becoming a global health emergency. This study aimed to exam the prevalence and risk factors of acute posttraumatic stress symptoms (PTSS) in Chinese people shortly after the massive outbreak of COVID-19.\nMethod An online anonymous questionnaire survey was conducted in mainland China between 30 January and 3 February, 2020. The survey consisted of two self-administered questionnaires: one was designed to require participants\u2019 personal information (gender, age, education background), current location, recent exposure history of Wuhan, the classification of population, and subjective sleep quality; the other was the PTSD Checklist for DSM-5 (PCL-5), which was to assess participants\u2019 PTSS referring to the outbreak.",
+        "references": "@article{alexander2019a,\n  title = {The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the field: an outbreak of NCIP},\n  date = {2019-03-06},\n  url = {http://en.nhc.gov.cn/2020-03/06/c_77327.htm},\n  volume = {2020},\n  author = {ALEXANDER, D.A.& K.L.E.I.N. and S2001},\n  journal = {Br J Psychiatry},\n  pages = \"76-81.\" # \"184-191.\",\n  source = {infection in China \u2014 Wuhan, Hubei Province, 2019\u20132020. China CDC Weekly 2020; 2: 79-80. National Health Commission of the People's Republic of China. Daily briefing on novel coronavirus cases in China (6},\n  unmatched-volume = {178, P.2014. 23,},\n  unmatched-journal = {BATTERHAM & J., International Journal of Methods in Psychiatric Research,},\n  unmatched-pages = {184-191.},\n  language = {}\n}\n@article{bovin2016a,\n  author = {BOVIN, M.J. and MARX, B.P. and WEATHERS, F.W. and GALLAGHER, M.W. and RODRIGUEZ, P. and SCHNURR, P.P. and KEANE, T.M.},\n  date = {2016},\n  title = {Psychometric properties of the PTSD Checklist for Diagnostic and Statistical Manual of Mental Disorders-Fifth Edition (PCL-5) in veterans},\n  journal = {Psychol Assess},\n  volume = {28},\n  pages = {1379\u20131391},\n  language = {}\n}\n@article{bryant2017a,\n  author = {BRYANT, R.A. and CREAMER, M. and O'DONNELL, M. and FORBES, D. and MCFARLANE, A.C. and SILOVE, D. and HADZI-PAVLOVIC, D.},\n  date = {2017},\n  title = {Acute and Chronic Posttraumatic Stress Symptoms in the Emergence of Posttraumatic Stress Disorder: A Network Analysis},\n  journal = {JAMA Psychiatry},\n  volume = {74},\n  pages = {135\u2013142},\n  language = {}\n}\n@article{chong2004a,\n  author = {CHONG, M.-Y. and WANG, W.-C. and HSIEH, W.-C. and LEE, C.-Y. and CHIU, N.-M. and YEH, W.-C. and HUANG, T.-L. and WEN, J.-K. and CHEN, C.-L.},\n  date = {2004},\n  title = {Psychological impact of severe acute respiratory syndrome on health workers in a tertiary hospital},\n  journal = {British Journal of Psychiatry},\n  volume = {185},\n  pages = {127\u2013133},\n  language = {}\n}\n@article{christiansen2012a,\n  author = {CHRISTIANSEN, D.M. and ELKLIT, A.},\n  date = {2012},\n  title = {Sex differences in PTSD},\n  editor = {Lazinica, A. and Ovuga, E.},\n  pages = \"(pp. 113-142).\" # \"133-136.\",\n  publisher = {InTech Open Access},\n  journal = {Eur J Psychotraumatol},\n  volume = {6},\n  unmatched-author = {Book. CHRISTIANSEN, D. M. & HANSEN, M. 26068. ELISSA, MCCARTHY, JASON, DEVIVA, SONYA,},\n  source = {Posttraumatic stress disorder in a global context},\n  unmatched-editor = {F, D., R, M., J, D. & HV, H.},\n  unmatched-pages = {133-136.},\n  unmatched-journal = {J Trauma Stress,},\n  unmatched-volume = {24,},\n  language = {},\n  address = {Rijeka, Croatia}\n}\n@article{gorbalenya2004a,\n  author = {GORBALENYA, A.E. and BAKER, S.C. and BARIC, R.S. and GROOT, R.J.D. and DROSTEN, C. and GULYAEVA, A.A. and HAAGMANS, B.L. and LAUBER, C. and LEONTOVICH, A.M. and NEUMAN, B.W. and PENZAR, D. and PERLMAN, S. and POON, L.L.M. and SAMBORSKIY, D. and SIDOROV, I.A. and SOLA, I. and ZIEBUHR, J.},\n  title = {2020. Severe acute respiratory syndrome-related coronavirus \u2013 The species and its viruses, a statement of the Coronavirus Study Group},\n  editor = {bioRxiv. HAWRYLUCK and L., G.O.L.D. and L., W. and ROBINSON, S. and POGORSKI, S. and STYRA, R.},\n  date = {2004},\n  journal = {SARS Control and Psychological Effects of Quarantine, Toronto, Canada. Emerging Infectious Diseases},\n  volume = {10},\n  pages = {1206\u20131212},\n  language = {}\n}\n@article{janna2018a,\n  author = {JANNA, M. and M., H.S. and B., W.K. and F., C.V. and M., L.M.},\n  date = {2018},\n  title = {Sleep Quality and Emotion Regulation Interact to Predict Anxiety in Veterans with PTSD},\n  journal = {Behavioural Neurology},\n  pages = {1\u201310},\n  language = {}\n}\n@article{juraschek2018a,\n  author = {JURASCHEK, S.P. and PLANTE, T.B. and CHARLESTON, J. and MILLER, E.R. and HERMOSILLA, M.},\n  date = {2018},\n  title = {Use of online recruitment strategies in a randomized trial of cancer survivors},\n  journal = {Clinical Trials},\n  volume = {15},\n  pages = {174077451774582},\n  language = {}\n}\n@misc{k1995a,\n  author = {K.E.S.S.L.E.R. and C., R.},\n  date = {1995},\n  title = {Posttraumatic Stress Disorder in the National Comorbidity Survey},\n  language = {}\n}\n@article{kessler2000a,\n  author = {KESSLER, R.C.},\n  date = {2000},\n  title = {Posttraumatic stress disorder: The burden to the individual and to society},\n  journal = {Journal of Clinical Psychiatry},\n  volume = {5},\n  pages = {discussion},\n  note = {13-4},\n  number = {4-12},\n  language = {}\n}\n@Online{leach2017a,\n  author = {LEACH, L.S. and BUTTERWORTH, P. and POYSER, C. and BATTERHAM, P.J. and FARRER, L.M.},\n  date = {2017},\n  medium = {Online}\n}\n@article{lee2006a,\n  author = {LEE, T.M. and CHI, I. and CHUNG, L.W. and CHOU, K.L.},\n  date = {2006},\n  title = {Ageing and psychological response during the post-SARS period},\n  journal = {Aging Ment Health},\n  volume = {10},\n  pages = {303\u201311},\n  language = {}\n}\n@article{lin2007a,\n  author = {LIN, C.Y. and PENG, Y.C. and WU, Y.H. and CHANG, J. and CHAN, C.H. and YANG, D.Y.},\n  date = {2007},\n  title = {The psychological effect of severe acute respiratory syndrome on emergency department staff},\n  journal = {Emerg Med J},\n  volume = {24},\n  pages = {12\u20137},\n  language = {}\n}\n@misc{mak2009a,\n  author = {MAK, I.W.C. and CHU, C.M. and PAN, P.C. and YIU, M.G.C. and CHAN, V.L.},\n  date = {2009},\n  title = {Long-term psychiatric morbidities among SARS survivors},\n  pages = {318\u2013326},\n  language = {}\n}\n@article{munster-a,\n  author = {MUNSTER, V.J. and KOOPMANS, M. and DOREMALEN, V.A.N. and N, V.A.N.R.I.E.L.D. and E, D.W.},\n  title = {2020. A novel coronavirus emerging in China \u2014 key questions for impact assessment},\n  journal = {N Engl J Med},\n  language = {}\n}\n@misc{noel2017a,\n  author = {NOEL, M. and VINALL, J. and TOMFOHR-MADSEN, L. and HOLLEY, A.L. and WILSON, A.C. and PALERMO, T.M.},\n  date = {2017}\n}\n@article{unknown-a,\n  title = {Sleep Mediates the Association between PTSD Symptoms and Chronic Pain in Youth},\n  journal = {Journal of Pain},\n  volume = {1526590017307186},\n  language = {}\n}\n@article{quach2013a,\n  author = {QUACH, S. and PEREIRA, J.A. and RUSSELL, M.L. and WORMSBECKER, A.E. and KWONG, J.},\n  date = {2013},\n  title = {The Good, Bad, and Ugly of Online Recruitment of Parents for Health-Related Focus Groups: Lessons Learned},\n  journal = {Journal of Medical Internet Research},\n  volume = {15},\n  pages = {250},\n  language = {}\n}\n@incollection{wang-a,\n  author = {WANG, C. and HORBY, P.W. and HAYDEN, F.G. and GAO, G.F.},\n  title = {2020. A novel coronavirus outbreak of global health concern},\n  source = {The Lancet.},\n  language = {}\n}\n@incollection{weathers2013a,\n  author = {WEATHERS, F.W. and LITZ, B.T. and KEANE, T.M. and PALMIERI, P.A. and MARX, B.P. and SCHNURR, P.},\n  pages = {P.},\n  date = {2013},\n  source = {The}\n}\n@incollection{unknown-b,\n  title = {PTSD Checklist for DSM-5 (PCL-5). Scale available from},\n  source = {the National Center for PTSD},\n  url = {www.ptsd.va.gov.},\n  language = {}\n}\n@misc{unknown-c,\n  title = {WHO Coronavirus disease 2019 (COVID- 19)},\n  unknown = {Situation Report-45, 5},\n  language = {}\n}\n@book{unknown-d,\n  publisher = {World Health},\n  language = {},\n  address = {Geneva},\n  organization = {March 2020}\n}\n@misc{organization-a,\n  author = {Organization},\n  url = {https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-}\n}\n@misc{unknown2020a,\n  date = {2020-03-19}\n}\n@misc{unknown2020b,\n  title = {WHO WHO Director-General's remarks at the media briefing on 2019-nCoV on},\n  date = {2020-02-11},\n  language = {}\n}\n@misc{organization2020a,\n  author = {Organization},\n  date = {2020}\n}\n@misc{unknown-e,\n  url = {https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-brie},\n  urldate = {fing-on-2019-ncov-on-11-february-2020) (assessed 12 Feb, 2020).}\n}\n@article{wu2005a,\n  author = {WU, K.K. and CHAN, S.K. and MA, T.M.},\n  date = {2005},\n  title = {Posttraumatic stress, anxiety, and depression in survivors of severe acute respiratory syndrome (SARS)},\n  journal = {J Trauma Stress},\n  volume = {18},\n  pages = {39\u201342},\n  language = {}\n}\n@misc{wu2009a,\n  author = {WU, P. and FANG, Y. and GUAN, Z. and FAN, B. and KONG, J. and YAO, Z. and LIU, X. and FULLER, C.J. and SUSSER, E. and LU, J.},\n  date = {2009}\n}\n@book{xu2011a,\n  author = {XU, J. and ZHENG, Y. and WANG, M. and ZHAO, J. and CHENG, Y.},\n  date = {2011},\n  title = {Predictors of symptoms of posttraumatic stress in Chinese university students during the 2009 H1N1 influenza pandemic},\n  publisher = {Medical},\n  language = {}\n}\n@article{monitor-a,\n  author = {Monitor, Science},\n  title = {International Medical},\n  journal = {Journal of Experimental & Clinical Research},\n  volume = {17},\n  pages = {60\u20134},\n  language = {}\n}\n@article{zhu-a,\n  author = {ZHU, N. and ZHANG, D. and WANG, W. and LI, X. and YANG, B. and SONG, J. and ZHAO, X. and HUANG, B. and SHI, W. and LU, R. and NIU, P. and ZHAN, F. and MA, X. and WANG, D. and XU, W. and WU, G. and GAO, G.F. and TAN, W. and CORONAVIRUS, C.H.I.N.A.N.O.V.E.L. and I. and RESEARCH, T.},\n  title = {2020. A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  language = {}\n}\n",
+        "emails": [
+            "13024141970@163.com"
+        ],
+        "references_ris": "TY  - JOUR\nTI  - The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the field: an outbreak of NCIP\nPY  - 2019\nDA  - 2019/03/06\nUR  - http://en.nhc.gov.cn/2020-03/06/c_77327.htm\nVL  - 2020\nAU  - ALEXANDER, D.A.& K.L.E.I.N.\nAU  - S2001\nT2  - Br J Psychiatry\nSP  - \"76\nEP  - 81.\" # \"184\nT2  - infection in China \u2014 Wuhan, Hubei Province, 2019\u20132020. China CDC Weekly 2020; 2: 79-80. National Health Commission of the People's Republic of China. Daily briefing on novel coronavirus cases in China (6\nC1  - 178, P.2014. 23,\nC1  - BATTERHAM & J., International Journal of Methods in Psychiatric Research,\nC1  - 184-191.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - BOVIN, M.J.\nAU  - MARX, B.P.\nAU  - WEATHERS, F.W.\nAU  - GALLAGHER, M.W.\nAU  - RODRIGUEZ, P.\nAU  - SCHNURR, P.P.\nAU  - KEANE, T.M.\nPY  - 2016\nDA  - 2016\nTI  - Psychometric properties of the PTSD Checklist for Diagnostic and Statistical Manual of Mental Disorders-Fifth Edition (PCL-5) in veterans\nT2  - Psychol Assess\nVL  - 28\nSP  - 1379\nEP  - 1391\nLA  - \nER  - \n\nTY  - JOUR\nAU  - BRYANT, R.A.\nAU  - CREAMER, M.\nAU  - O'DONNELL, M.\nAU  - FORBES, D.\nAU  - MCFARLANE, A.C.\nAU  - SILOVE, D.\nAU  - HADZI-PAVLOVIC, D.\nPY  - 2017\nDA  - 2017\nTI  - Acute and Chronic Posttraumatic Stress Symptoms in the Emergence of Posttraumatic Stress Disorder: A Network Analysis\nT2  - JAMA Psychiatry\nVL  - 74\nSP  - 135\nEP  - 142\nLA  - \nER  - \n\nTY  - JOUR\nAU  - CHONG, M.-Y.\nAU  - WANG, W.-C.\nAU  - HSIEH, W.-C.\nAU  - LEE, C.-Y.\nAU  - CHIU, N.-M.\nAU  - YEH, W.-C.\nAU  - HUANG, T.-L.\nAU  - WEN, J.-K.\nAU  - CHEN, C.-L.\nPY  - 2004\nDA  - 2004\nTI  - Psychological impact of severe acute respiratory syndrome on health workers in a tertiary hospital\nT2  - British Journal of Psychiatry\nVL  - 185\nSP  - 127\nEP  - 133\nLA  - \nER  - \n\nTY  - JOUR\nAU  - CHRISTIANSEN, D.M.\nAU  - ELKLIT, A.\nPY  - 2012\nDA  - 2012\nTI  - Sex differences in PTSD\nA2  - Lazinica, A.\nA2  - Ovuga, E.\nSP  - \"(pp. 113\nEP  - 142).\" # \"133\nPB  - InTech Open Access\nT2  - Eur J Psychotraumatol\nVL  - 6\nC1  - Book. CHRISTIANSEN, D. M. & HANSEN, M. 26068. ELISSA, MCCARTHY, JASON, DEVIVA, SONYA,\nT2  - Posttraumatic stress disorder in a global context\nC1  - F, D., R, M., J, D. & HV, H.\nC1  - 133-136.\nC1  - J Trauma Stress,\nC1  - 24,\nLA  - \nCY  - Rijeka, Croatia\nER  - \n\nTY  - JOUR\nAU  - GORBALENYA, A.E.\nAU  - BAKER, S.C.\nAU  - BARIC, R.S.\nAU  - GROOT, R.J.D.\nAU  - DROSTEN, C.\nAU  - GULYAEVA, A.A.\nAU  - HAAGMANS, B.L.\nAU  - LAUBER, C.\nAU  - LEONTOVICH, A.M.\nAU  - NEUMAN, B.W.\nAU  - PENZAR, D.\nAU  - PERLMAN, S.\nAU  - POON, L.L.M.\nAU  - SAMBORSKIY, D.\nAU  - SIDOROV, I.A.\nAU  - SOLA, I.\nAU  - ZIEBUHR, J.\nTI  - 2020. Severe acute respiratory syndrome-related coronavirus \u2013 The species and its viruses, a statement of the Coronavirus Study Group\nA2  - bioRxiv. HAWRYLUCK\nA2  - L., G.O.L.D.\nA2  - L., W.\nA2  - ROBINSON, S.\nA2  - POGORSKI, S.\nA2  - STYRA, R.\nPY  - 2004\nDA  - 2004\nT2  - SARS Control and Psychological Effects of Quarantine, Toronto, Canada. Emerging Infectious Diseases\nVL  - 10\nSP  - 1206\nEP  - 1212\nLA  - \nER  - \n\nTY  - JOUR\nAU  - JANNA, M.\nAU  - M., H.S.\nAU  - B., W.K.\nAU  - F., C.V.\nAU  - M., L.M.\nPY  - 2018\nDA  - 2018\nTI  - Sleep Quality and Emotion Regulation Interact to Predict Anxiety in Veterans with PTSD\nT2  - Behavioural Neurology\nSP  - 1\nEP  - 10\nLA  - \nER  - \n\nTY  - JOUR\nAU  - JURASCHEK, S.P.\nAU  - PLANTE, T.B.\nAU  - CHARLESTON, J.\nAU  - MILLER, E.R.\nAU  - HERMOSILLA, M.\nPY  - 2018\nDA  - 2018\nTI  - Use of online recruitment strategies in a randomized trial of cancer survivors\nT2  - Clinical Trials\nVL  - 15\nSP  - 174077451774582\nLA  - \nER  - \n\nTY  - GEN\nAU  - K.E.S.S.L.E.R.\nAU  - C., R.\nPY  - 1995\nDA  - 1995\nTI  - Posttraumatic Stress Disorder in the National Comorbidity Survey\nLA  - \nER  - \n\nTY  - JOUR\nAU  - KESSLER, R.C.\nPY  - 2000\nDA  - 2000\nTI  - Posttraumatic stress disorder: The burden to the individual and to society\nT2  - Journal of Clinical Psychiatry\nVL  - 5\nSP  - discussion\nN1  - 13-4\nIS  - 4-12\nLA  - \nER  - \n\nTY  - GEN\nAU  - LEACH, L.S.\nAU  - BUTTERWORTH, P.\nAU  - POYSER, C.\nAU  - BATTERHAM, P.J.\nAU  - FARRER, L.M.\nPY  - 2017\nDA  - 2017\nC1  - Online\nER  - \n\nTY  - JOUR\nAU  - LEE, T.M.\nAU  - CHI, I.\nAU  - CHUNG, L.W.\nAU  - CHOU, K.L.\nPY  - 2006\nDA  - 2006\nTI  - Ageing and psychological response during the post-SARS period\nT2  - Aging Ment Health\nVL  - 10\nSP  - 303\nEP  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - LIN, C.Y.\nAU  - PENG, Y.C.\nAU  - WU, Y.H.\nAU  - CHANG, J.\nAU  - CHAN, C.H.\nAU  - YANG, D.Y.\nPY  - 2007\nDA  - 2007\nTI  - The psychological effect of severe acute respiratory syndrome on emergency department staff\nT2  - Emerg Med J\nVL  - 24\nSP  - 12\nEP  - 7\nLA  - \nER  - \n\nTY  - GEN\nAU  - MAK, I.W.C.\nAU  - CHU, C.M.\nAU  - PAN, P.C.\nAU  - YIU, M.G.C.\nAU  - CHAN, V.L.\nPY  - 2009\nDA  - 2009\nTI  - Long-term psychiatric morbidities among SARS survivors\nSP  - 318\nEP  - 326\nLA  - \nER  - \n\nTY  - JOUR\nAU  - MUNSTER, V.J.\nAU  - KOOPMANS, M.\nAU  - DOREMALEN, V.A.N.\nAU  - N, V.A.N.R.I.E.L.D.\nAU  - E, D.W.\nTI  - 2020. A novel coronavirus emerging in China \u2014 key questions for impact assessment\nT2  - N Engl J Med\nLA  - \nER  - \n\nTY  - GEN\nAU  - NOEL, M.\nAU  - VINALL, J.\nAU  - TOMFOHR-MADSEN, L.\nAU  - HOLLEY, A.L.\nAU  - WILSON, A.C.\nAU  - PALERMO, T.M.\nPY  - 2017\nDA  - 2017\nER  - \n\nTY  - JOUR\nTI  - Sleep Mediates the Association between PTSD Symptoms and Chronic Pain in Youth\nT2  - Journal of Pain\nVL  - 1526590017307186\nLA  - \nER  - \n\nTY  - JOUR\nAU  - QUACH, S.\nAU  - PEREIRA, J.A.\nAU  - RUSSELL, M.L.\nAU  - WORMSBECKER, A.E.\nAU  - KWONG, J.\nPY  - 2013\nDA  - 2013\nTI  - The Good, Bad, and Ugly of Online Recruitment of Parents for Health-Related Focus Groups: Lessons Learned\nT2  - Journal of Medical Internet Research\nVL  - 15\nSP  - 250\nLA  - \nER  - \n\nTY  - CHAP\nAU  - WANG, C.\nAU  - HORBY, P.W.\nAU  - HAYDEN, F.G.\nAU  - GAO, G.F.\nTI  - 2020. A novel coronavirus outbreak of global health concern\nT2  - The Lancet.\nLA  - \nER  - \n\nTY  - CHAP\nAU  - WEATHERS, F.W.\nAU  - LITZ, B.T.\nAU  - KEANE, T.M.\nAU  - PALMIERI, P.A.\nAU  - MARX, B.P.\nAU  - SCHNURR, P.\nSP  - P.\nPY  - 2013\nDA  - 2013\nT2  - The\nER  - \n\nTY  - CHAP\nTI  - PTSD Checklist for DSM-5 (PCL-5). Scale available from\nT2  - the National Center for PTSD\nUR  - www.ptsd.va.gov.\nLA  - \nER  - \n\nTY  - GEN\nTI  - WHO Coronavirus disease 2019 (COVID- 19)\nC1  - Situation Report-45, 5\nLA  - \nER  - \n\nTY  - BOOK\nPB  - World Health\nLA  - \nCY  - Geneva\nC1  - March 2020\nER  - \n\nTY  - GEN\nAU  - Organization\nUR  - https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-\nER  - \n\nTY  - GEN\nPY  - 2020\nDA  - 2020/03/19\nER  - \n\nTY  - GEN\nTI  - WHO WHO Director-General's remarks at the media briefing on 2019-nCoV on\nPY  - 2020\nDA  - 2020/02/11\nLA  - \nER  - \n\nTY  - GEN\nAU  - Organization\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - GEN\nUR  - https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-brie\nC1  - fing-on-2019-ncov-on-11-february-2020) (assessed 12 Feb, 2020).\nER  - \n\nTY  - JOUR\nAU  - WU, K.K.\nAU  - CHAN, S.K.\nAU  - MA, T.M.\nPY  - 2005\nDA  - 2005\nTI  - Posttraumatic stress, anxiety, and depression in survivors of severe acute respiratory syndrome (SARS)\nT2  - J Trauma Stress\nVL  - 18\nSP  - 39\nEP  - 42\nLA  - \nER  - \n\nTY  - GEN\nAU  - WU, P.\nAU  - FANG, Y.\nAU  - GUAN, Z.\nAU  - FAN, B.\nAU  - KONG, J.\nAU  - YAO, Z.\nAU  - LIU, X.\nAU  - FULLER, C.J.\nAU  - SUSSER, E.\nAU  - LU, J.\nPY  - 2009\nDA  - 2009\nER  - \n\nTY  - BOOK\nAU  - XU, J.\nAU  - ZHENG, Y.\nAU  - WANG, M.\nAU  - ZHAO, J.\nAU  - CHENG, Y.\nPY  - 2011\nDA  - 2011\nTI  - Predictors of symptoms of posttraumatic stress in Chinese university students during the 2009 H1N1 influenza pandemic\nPB  - Medical\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Monitor, Science\nTI  - International Medical\nT2  - Journal of Experimental & Clinical Research\nVL  - 17\nSP  - 60\nEP  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - ZHU, N.\nAU  - ZHANG, D.\nAU  - WANG, W.\nAU  - LI, X.\nAU  - YANG, B.\nAU  - SONG, J.\nAU  - ZHAO, X.\nAU  - HUANG, B.\nAU  - SHI, W.\nAU  - LU, R.\nAU  - NIU, P.\nAU  - ZHAN, F.\nAU  - MA, X.\nAU  - WANG, D.\nAU  - XU, W.\nAU  - WU, G.\nAU  - GAO, G.F.\nAU  - TAN, W.\nAU  - CORONAVIRUS, C.H.I.N.A.N.O.V.E.L.\nAU  - I.\nAU  - RESEARCH, T.\nTI  - 2020. A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Socio-demographic characteristics of the participants"
+            },
+            {
+                "id": "2",
+                "caption": "Group differences in the scores on the PCL-5"
+            },
+            {
+                "id": "3",
+                "caption": "Regression Analysis with PCL-5 Score as the Dependent Variable (n = 2091) Note: B=unstandardized beta; \u03b2=standardized regression weight. The education background was transformed into two dummy variables (high school or below vs. university or college, postgraduate or above vs. university or college) with the university or college as the reference group. Classification of population was transformed into two dummy variables (low risk public vs. health care workers, high risk public vs. health care workers) with the health care workers as the reference group. Subjective sleep quality was transformed into three dummy variables with sleep quality=very good as the reference group"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Group differences of PCL-5 scores in Wuhan exposure history and classification of population Note: **, p-value < 0.01; ***, p-value < 0.001"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.06.20032425v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.20032425v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.20032425v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.20032425v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.20032425v1/img-003.png"
+        ]
+    },
+    "sections": {
+        "acknowledgements": [
+            "The authors would like to acknowledge the volunteers who participated in the study.<br/><br/>Abstract Background A novel coronavirus (SARA-CoV-2) emerged in Wuhan, China, in December 2019. Within a few weeks, the disease caused by SARA-CoV-2, which is named COVID-19, has escalated into an unprecedented ongoing outbreak with frightening speed, becoming a global health emergency. This study aimed to exam the prevalence and risk factors of acute posttraumatic stress symptoms (PTSS) in Chinese people shortly after the massive outbreak of COVID-19."
+        ],
+        "method": [
+            "An online anonymous questionnaire survey was conducted in mainland China between 30 January and 3 February, 2020. The survey consisted of two self-administered questionnaires: one was designed to require participants\u2019 personal information (gender, age, education background), current location, recent exposure history of Wuhan, the classification of population, and subjective sleep quality; the other was the PTSD Checklist for DSM-5 (PCL-5), which was to assess participants\u2019 PTSS referring to the outbreak."
+        ],
+        "results": [
+            "A total of 2091 Chinese participated in the current study. The prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%. Multiple linear regression analysis revealed that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictor factors for PTSS.",
+            "Sample socio-demographic characteristics A total of 2091 participants were recruited in this survey, among which 1272 (60.8%) were female. The socio-demographic characteristics was presented in Table 1. In consideration of large age span, the participants were divided into 6 different age groups in an interval of 10 years: 30 (1.4%) were under 18, 659 (31.5%) were between 18 and 29, 615 (29.4%) were between 30 and 39, 555 (26.5%) were between 40 to 49, 180 (8.6%) were between 50 to 59, and 52 (2.5%) were over 60. Of the participants, 261 (12.5%) received an education of high school or below, 1351 (64.6%) were university or college, and 479 (22.9%) were postgraduate or above. The participants\u2019 current locations were sorted into four groups by the number of confirmed cases of each province (by 3 February): Hubei Province (8.8%), provinces with 500-1000 confirmed cases (18.1%), provinces with 200-500 confirmed cases (53.6%), and provinces with confirmed cases less than 200 (19.5%). The date of participants filling out the survey was recorded, and there were 406 (19.4%), 528 (25.3%), 397 (19.0%), 162 (7.7%), and 598 (28.6%) participants from 30 January to 3 February, respectively. Among all participants, 240 (11.5%) had recent exposure history of Wuhan. In terms of the classification of population, the majority were the general public (82.4%) followed by health care workers (15.3%), while only 2.3% were suspected or confirmed patients and people having close contact with patients. Thus, based on the risk of infection and the above distribution, the participants were reclassified into three groups: low risk public, high risk public, and health care workers. As for subjective sleep quality, 842 (40.3%) reported very good, 890 (42.6%) reported good, 326 (15.6%) reported bad, and 33 (1.6%) reported very bad.<br/><br/>Prevalence of PTSS Among all participants enrolled in this study, 96 reported high level of PTSS, with a PCL-5 score of 33 or higher, indicating that the prevalence of PTSS in this sample of 4.6%. As a rough estimate, the prevalence of PTSS in low risk public was 5.2%, in high risk public was 18.4%, and in health care workers was 4.4%.<br/><br/>Associated factors for the severity of PTSS Table 2 presented the group differences of socio-demographic factors in the PCL-5 scores. There were no significant differences between the scores of participants with different education background (F = 1.329, p = 0.265), or that of all ages (F = 1.912, p = 0.089). Statistically significant differences were observed between different gender (t = -5.227, p < 0.001), and female reported more PTSS. The participants in Hubei province also showed statistically differences in their PCL-5 scores (F = 13.263, p < 0.001). It should be noted that the different date that participants filled out also showed significant differences in PCL-5 scores (F = 4.018, p = 0.003).<br/><br/>In the aspect of subjective sleep quality, participants with worse sleep quality scored higher on PCL-5 (F = 185.707, p < 0.001). With regard to the exposure history of Wuhan and classification of population, both of which were connected with the risk of infection, it was demonstrated significant differences between the scores of participants who had exposure history or not (p < 0.01), as well as participants belong to different classifications of population (p < 0.001). Furthermore, Figure 1 presented that participants who had exposure of Wuhan received higher PCL-5 scores, and high risk public had the highest PCL-5 scores in comparison to low risk public and health care workers. Overall, gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population could be considered as associated factors for the severity of PTSS.<br/><br/>Predictive and risk factors for PTSS Multiple linear regression analysis revealed that participant\u2019s age and education background were not related to their PTSS during the outbreak. Nevertheless, it was noteworthy that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictive factors for PTSS. Female, those having exposure history of Wuhan reported higher level of PTSS. High risk public were the population most likely to develop PTSS, followed by low risk public and health care workers. As for subjective sleep quality, the worse the sleep quality, the higher level the PTSS. Table 3 showed the results of the regression analysis. In summary, the amount of total variation accounted for by these variables in the PCL-5 scores was significant (R2 = 23.2%, F = 180.835, p < 0.001)."
+        ],
+        "conclusions": [
+            "The results showed that some Chinese showed acute PTSS during the COVID-19 outbreak. Therefore, comprehensive psychological intervention needs further implementation. Furthermore, females, people who having recent exposure history of Wuhan, those at high risk of infection or with poor sleep quality deserve special attention."
+        ],
+        "introduction": [
+            "A novel coronavirus, now named as SARA-CoV-2 by the Coronavirus Study Group (CSG)(Gorbalenya et al, 2020), was reported in China in December 2019(<a class=\"ref-link\" id=\"cZhu_et+al_2020_a\" href=\"#rZhu_et+al_2020_a\">Zhu et al, 2020</a>). On 11 February, 2020, the disease caused by the novel coronavirus was officially named as COVID-19 by World Health Organization (WHO) (WHO). The outbreak of COVID-19 was unique in its rapidity of transmission, which has become a global health emergency within just a few weeks(<a class=\"ref-link\" id=\"cWang_et+al_2020_a\" href=\"#rWang_et+al_2020_a\">Wang et al, 2020</a>). Moreover, the number of confirmed and suspected cases has rapidly risen not only in China but also in other countries worldwide(<a class=\"ref-link\" id=\"cMunster_et+al_2020_a\" href=\"#rMunster_et+al_2020_a\">Munster VJ et al, 2020</a>). According to reports from the National Health Commission (NHC) of China and WHO, there have been 80552 confirmed cases on the Chinese mainland by 5 March, 2020, among which 3042 had dead. By now, there are 85 countries (territories/areas) have reported cases of infection outside China (WHO). As the outbreak continuously escalates, it will not only raise public health concerns but also cause tremendous psychological distress, especially the development of posttraumatic stress disorder (PTSD), which will lead to chronic symptoms, such as intrusive memories, avoidance behaviors, irritability, and emotional numbing, if isn\u2019t treated.<br/><br/>PTSD is a stress-related psychological problem developed by someone who experienced or witnessed a life-threatening traumatic event, which has contributed to a substantial burden on individuals and the society(<a class=\"ref-link\" id=\"cKessler_2000_a\" href=\"#rKessler_2000_a\">Kessler, 2000</a>). According to the previous literature, exposure to traumatic events is the immediate cause of PTSD and is essential in diagnosing related symptoms(<a class=\"ref-link\" id=\"cLin_et+al_2007_a\" href=\"#rLin_et+al_2007_a\">Lin et al, 2007</a>, Wu et al, 2005, <a class=\"ref-link\" id=\"cBryant_et+al_2017_a\" href=\"#rBryant_et+al_2017_a\">Bryant et al, 2017</a>). Being infected in a life-threatening physical illness can be a traumatic experience. Research on the mental health of medical staff involved in the 2003 SARS outbreak found that about 10% of the sample reported high levels of PTSD symptoms(Wu et al, 2009). Another study showed that about 2% Chinese university students met symptom criteria for PTSD during the 2009 H1N1 pandemic(Xu et al, 2011). Furthermore, one research about the long-term psychiatric morbidities among SARS survivors revealed that PTSD was the most common long-term psychiatric disorder; the cumulative incidence of PTSD in the 30 months since the SARS outbroke was 47.8%(<a class=\"ref-link\" id=\"cMak_et+al_2009_a\" href=\"#rMak_et+al_2009_a\">Mak et al, 2009</a>). In conclusion, early detection and intervention for PTSD deserves special attention in the major life-threatening physical disease outbreaks.<br/><br/>The present study was designed to explore two research questions regarding acute posttraumatic stress symptoms (PTSS) among Chinese people 1 month after the COVID-19 outbreak. Firstly, the severity and prevalence of PTSS among Chinese people during the infectious disease outbreak. Secondly, related risk factors of PTSS were also investigated in this study. Existing literature pointed out that gender, age, the degree of exposure, having been infected, and having family, friends or acquaintances infected could be identified as predictors of PTSD during outbreaks of infectious diseases, such as SARS and H1N1(Xu et al, 2011, <a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>). Empirically, education background and sleep quality might predict people\u2019s PTSS. In consequence, gender, age, education background, current location, exposure history of Wuhan, risk of infection (classification of population), and subjective sleep quality were hypothesized as associated factors of PTSS in this study. Besides, since people are bombarded with different messages about the outbreak every day which might affect almost everyone more or less, time was also considered as a special factor in the study. The findings of this study will offer better psychological guidance to people who are in desperate need of help, as well as be important in planning for future outbreaks of emerging infectious diseases."
+        ],
+        "methods": [
+            "Participants This study was conducted in mainland China by using self-administered questionnaires between 30 January and 3 February, 2020. All participants were recruited online, which has been shown benefits in feasibility and availability(<a class=\"ref-link\" id=\"cLeach_et+al_2017_a\" href=\"#rLeach_et+al_2017_a\">Leach et al, 2017</a>, <a class=\"ref-link\" id=\"cQuach_et+al_2013_a\" href=\"#rQuach_et+al_2013_a\">Quach et al, 2013</a>, <a class=\"ref-link\" id=\"cJuraschek_et+al_2018_a\" href=\"#rJuraschek_et+al_2018_a\">Juraschek et al, 2018</a>, Batterham and J., 2014). It took approximately 15 minutes to complete the questionnaires. Participants whose response time was less than 2 minutes or more than 30 minutes were excluded to ensure the quality of questionnaires. Ethics approval for this study was received from the Ethics Committee of the Navy Medical University. Informed consent was obtained from all participants."
+        ],
+        "procedure": [
+            "In view of the situation of the outbreak and the purpose of this study, we designed and published an online anonymous questionnaire survey on a network platform in China, which provides functions similar to Mechanical Turk operated by Amazon. After the purpose of the survey was explained, promise was made to participants that all answers and identifying information would be kept confidential. Participants who volunteered to fill out the survey and handed in on their own would receive a brief feedback report about their personal mental health based on their answers. Afterwards, all data would be automatically summarized on background network for further analysis.<br/><br/>Measures A questionnaire about socio-demographic information was given to participants to require their personal information (gender, age, education background), current location, recent exposure history of Wuhan (live or travel exposure history or contacting with someone returning from Wuhan), the classification of population (the general public, health care workers, close contacts, confirmed or suspected patients), and subjective sleep quality."
+        ],
+        "discussion": [
+            "The increasing number of new COVID-19 cases and its rapidity of human-to-human transmission have attracted public attention, and other countries are becoming concerned about the further spread of the virus outside of China. To the best of our knowledge, the current study is the first to report the PTSS among people in mainland China 1 month after the COVID-19 outbreak. The results revealed that 4.6% of the respondents experienced high levels of PTSS. Gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population might be associated factors for the severity of PTSS. Furthermore, female, having recent exposure history of Wuhan, population at high risk of infection, and poor sleep quality were identified as risk factors of PTSS.<br/><br/>In the current study, females are prone to developing higher levels of PTSS, which is in line with a previous study exploring the predictors for PTSS during the H1N1 epidemic(Xu et al, 2011). Moreover, as reported by some literature, females are about twice as likely to develop PTSD(<a class=\"ref-link\" id=\"cChristiansen_2012_a\" href=\"#rChristiansen_2012_a\">Christiansen and Elklit, 2012</a>, Kessler and C., 1995). With regard to the reason, it was suggested that females usually experience higher levels of associated risk factors, like depression, physical anxiety sensitivity, and helplessness(Christiansen and Hansen, 2015). Accordingly, the female respondents in this study showed higher PTSD levels than the male respondents. As expected, sleep quality was predictive factor of PTSS, which has been widely explored in relevant studies(<a class=\"ref-link\" id=\"cJanna_et+al_2018_a\" href=\"#rJanna_et+al_2018_a\">Janna et al, 2018</a>, <a class=\"ref-link\" id=\"cNoel_et+al_2017_a\" href=\"#rNoel_et+al_2017_a\">Noel et al, 2017</a>, Elissa et al, 2019).<br/><br/>People who now reside in Hubei Province, the original and worst disaster-affected area, reported the highest level of PTSS. This result is consistent with a study about the psychological impact of SARS, which demonstrated that residents in high SARS-prevalent locations were prone to develop probable PTSD(<a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>). On the one hand, people living in high infection-prevalent locations perceive themselves to be at higher risk of infection; on the other hand, the lockdown of transport hub in most cities of Hubei Provinces lead to negative psychological impact on residents in those cities.<br/><br/>It is important to note that the exposure history of Wuhan determine the risk of infection to some extent in the present study. However, there is no consensus regarding this relation. Alexander suggested that those people who were repeatedly exposed to traumatic events were prone to suffering all kinds of psychological problems(Alexander and Klein, 2001). On the contrary, Declercq found no relationship between the frequency of encountering critical incidents and the occurrence of PTSD symptoms(F et al, 2011). Jiahong indicated that knowledge on H1N1 and exposure to H1N1 patients could not predict stress symptoms(Xu et al, 2011). Further researches are needed to explore the influence of exposure history of epidemics on the PTSS.<br/><br/>In terms of the classification of population, high risk public, which consisted of confirmed or suspected patients, and those who had close contacts with patients, obtained the most severe PTSS. It should be noted that no matter high risk public or low risk public, most people are inevitably under quarantine which may impact their health consequences. A study found that quarantined people developed various distress symptoms; also, the distress and the duration of quarantine were positively correlated(Hawryluck et al, 2004). Compared with the estimated rate of morbidity in health workers at the initial phase of SARS outbreak, which was 75.3%(<a class=\"ref-link\" id=\"cChong_et+al_2004_a\" href=\"#rChong_et+al_2004_a\">Chong et al, 2004</a>), and the percentage of medical staff who reported high levels of PTSD symptoms during SARS in another study, which was 10%(Wu et al, 2009), the prevalence of PTSS in health care workers participating in the present study was lower. There may be two reasons accounting for this. First, China had experience two waves of major infectious disease since 20th century, considerable relevant experience has been gathered. Second, health care workers generally know more about the virus than the general public, and thus they have more confidence and courage to defeat the virus.<br/><br/>The results also revealed that the levels of PTSS reported on different date were different. Although the trend is not obvious enough due to the short time span, we guess the level of people\u2019s PTSS might be a sign of the cut-off point of the outbreak.<br/><br/>Inconsistent with the hypothesis, age and education background were found to be not connected with PTSS. One possible reason might be that the majority of participants enrolled in this study were between 18 and 60 years old with an education of university or college, who were not representative. In addition, most Chinese people have been under home quarantine as soon as the infection became worse, so they share almost the same information about the epidemic situation, which makes their PTSS level less affected by age and education background."
+        ],
+        "limitations": [
+            "The results of this study should be considered with several potential limitations. First, only a few participants were confirmed or suspected COVID-19 patients in our study. For those being infected with COVID-19, PTSD symptoms might be far more severe. A larger sample size is needed to guarantee the reliability of these results. Second, the measures of PTSS used in this study may be vulnerable to inherent bias because of their online self-report. Despite all this, PCL-5 used in the current study is still a scale with high reliability and validity."
+        ],
+        "conclusion": [
+            "Despite these limitations, several important conclusions emerge from this study. To summarize, this study firstly found that the prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%. Female, having recent exposure history of Wuhan, population at high risk of infection, and poor sleep quality were identified as risk factors of PTSS. Most importantly, the predictors found in this study may be extremely effective in defining high risk group in the similar infection epidemics and offer hints on how people can cope with future epidemics. When making psychological adjustment for the public during this outbreak, special attention should be put on females and those who are at high risk of infection, such as people residing in high disease-prevalent regions and having had close contact with patients.<br/><br/>Author contributions LS, ZS, LW, ZZ, contributed to the writing of this article and the statistical analysis of this article, who are co-first authors, WL leaded the whole study, including putting forward this study, carrying out the study, and was the corresponding author. FZ, ZS, YJ, JG, YZ, YW, NL contributed to perform the investigation and collection of all data. We are all accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved."
+        ],
+        "disclosures": [
+            "<strong>Conflict of Interest Statement</strong><br/><br/>None of the authors have any conflict of interest or financial disclosures related to this work."
+        ],
+        "data_availability": [
+            "Data Availability Statement The data used to support the findings of this study are available from the corresponding author upon request."
+        ],
+        "ethical_compliance": [
+            "Ethics approval for this study was received from the Ethics Committee of the Navy Medical University",
+            "Informed consent was obtained from all participants"
+        ]
+    },
+    "structured_content": {
+        "Acknowledgements": [
+            "The authors would like to acknowledge the volunteers who participated in the study.",
+            "Abstract Background A novel coronavirus (SARA-CoV-2) emerged in Wuhan, China, in December 2019. Within a few weeks, the disease caused by SARA-CoV-2, which is named COVID-19, has escalated into an unprecedented ongoing outbreak with frightening speed, becoming a global health emergency. This study aimed to exam the prevalence and risk factors of acute posttraumatic stress symptoms (PTSS) in Chinese people shortly after the massive outbreak of COVID-19.",
+            "Method An online anonymous questionnaire survey was conducted in mainland China between 30 January and 3 February, 2020. The survey consisted of two self-administered questionnaires: one was designed to require participants\u2019 personal information (gender, age, education background), current location, recent exposure history of Wuhan, the classification of population, and subjective sleep quality; the other was the PTSD Checklist for DSM-5 (PCL-5), which was to assess participants\u2019 PTSS referring to the outbreak."
+        ],
+        "Results": [
+            "Sample socio-demographic characteristics A total of 2091 participants were recruited in this survey, among which 1272 (60.8%) were female. The socio-demographic characteristics was presented in Table 1. In consideration of large age span, the participants were divided into 6 different age groups in an interval of 10 years: 30 (1.4%) were under 18, 659 (31.5%) were between 18 and 29, 615 (29.4%) were between 30 and 39, 555 (26.5%) were between 40 to 49, 180 (8.6%) were between 50 to 59, and 52 (2.5%) were over 60. Of the participants, 261 (12.5%) received an education of high school or below, 1351 (64.6%) were university or college, and 479 (22.9%) were postgraduate or above. The participants\u2019 current locations were sorted into four groups by the number of confirmed cases of each province (by 3 February): Hubei Province (8.8%), provinces with 500-1000 confirmed cases (18.1%), provinces with 200-500 confirmed cases (53.6%), and provinces with confirmed cases less than 200 (19.5%). The date of participants filling out the survey was recorded, and there were 406 (19.4%), 528 (25.3%), 397 (19.0%), 162 (7.7%), and 598 (28.6%) participants from 30 January to 3 February, respectively. Among all participants, 240 (11.5%) had recent exposure history of Wuhan. In terms of the classification of population, the majority were the general public (82.4%) followed by health care workers (15.3%), while only 2.3% were suspected or confirmed patients and people having close contact with patients. Thus, based on the risk of infection and the above distribution, the participants were reclassified into three groups: low risk public, high risk public, and health care workers. As for subjective sleep quality, 842 (40.3%) reported very good, 890 (42.6%) reported good, 326 (15.6%) reported bad, and 33 (1.6%) reported very bad.",
+            "Prevalence of PTSS Among all participants enrolled in this study, 96 reported high level of PTSS, with a PCL-5 score of 33 or higher, indicating that the prevalence of PTSS in this sample of 4.6%. As a rough estimate, the prevalence of PTSS in low risk public was 5.2%, in high risk public was 18.4%, and in health care workers was 4.4%.",
+            "Associated factors for the severity of PTSS Table 2 presented the group differences of socio-demographic factors in the PCL-5 scores. There were no significant differences between the scores of participants with different education background (F = 1.329, p = 0.265), or that of all ages (F = 1.912, p = 0.089). Statistically significant differences were observed between different gender (t = -5.227, p < 0.001), and female reported more PTSS. The participants in Hubei province also showed statistically differences in their PCL-5 scores (F = 13.263, p < 0.001). It should be noted that the different date that participants filled out also showed significant differences in PCL-5 scores (F = 4.018, p = 0.003).",
+            "In the aspect of subjective sleep quality, participants with worse sleep quality scored higher on PCL-5 (F = 185.707, p < 0.001). With regard to the exposure history of Wuhan and classification of population, both of which were connected with the risk of infection, it was demonstrated significant differences between the scores of participants who had exposure history or not (p < 0.01), as well as participants belong to different classifications of population (p < 0.001). Furthermore, Figure 1 presented that participants who had exposure of Wuhan received higher PCL-5 scores, and high risk public had the highest PCL-5 scores in comparison to low risk public and health care workers. Overall, gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population could be considered as associated factors for the severity of PTSS.",
+            "Predictive and risk factors for PTSS Multiple linear regression analysis revealed that participant\u2019s age and education background were not related to their PTSS during the outbreak. Nevertheless, it was noteworthy that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictive factors for PTSS. Female, those having exposure history of Wuhan reported higher level of PTSS. High risk public were the population most likely to develop PTSS, followed by low risk public and health care workers. As for subjective sleep quality, the worse the sleep quality, the higher level the PTSS. Table 3 showed the results of the regression analysis. In summary, the amount of total variation accounted for by these variables in the PCL-5 scores was significant (R2 = 23.2%, F = 180.835, p < 0.001)."
+        ],
+        "Conclusions": [
+            "The results showed that some Chinese showed acute PTSS during the COVID-19 outbreak. Therefore, comprehensive psychological intervention needs further implementation. Furthermore, females, people who having recent exposure history of Wuhan, those at high risk of infection or with poor sleep quality deserve special attention."
+        ],
+        "Introduction": [
+            "A novel coronavirus, now named as SARA-CoV-2 by the Coronavirus Study Group (CSG)(Gorbalenya et al, 2020), was reported in China in December 2019(<a class=\"ref-link\" id=\"cZhu_et+al_2020_a\" href=\"#rZhu_et+al_2020_a\">Zhu et al, 2020</a>). On 11 February, 2020, the disease caused by the novel coronavirus was officially named as COVID-19 by World Health Organization (WHO) (WHO). The outbreak of COVID-19 was unique in its rapidity of transmission, which has become a global health emergency within just a few weeks(<a class=\"ref-link\" id=\"cWang_et+al_2020_a\" href=\"#rWang_et+al_2020_a\">Wang et al, 2020</a>). Moreover, the number of confirmed and suspected cases has rapidly risen not only in China but also in other countries worldwide(<a class=\"ref-link\" id=\"cMunster_et+al_2020_a\" href=\"#rMunster_et+al_2020_a\">Munster VJ et al, 2020</a>). According to reports from the National Health Commission (NHC) of China and WHO, there have been 80552 confirmed cases on the Chinese mainland by 5 March, 2020, among which 3042 had dead. By now, there are 85 countries (territories/areas) have reported cases of infection outside China (WHO). As the outbreak continuously escalates, it will not only raise public health concerns but also cause tremendous psychological distress, especially the development of posttraumatic stress disorder (PTSD), which will lead to chronic symptoms, such as intrusive memories, avoidance behaviors, irritability, and emotional numbing, if isn\u2019t treated.",
+            "PTSD is a stress-related psychological problem developed by someone who experienced or witnessed a life-threatening traumatic event, which has contributed to a substantial burden on individuals and the society(<a class=\"ref-link\" id=\"cKessler_2000_a\" href=\"#rKessler_2000_a\">Kessler, 2000</a>). According to the previous literature, exposure to traumatic events is the immediate cause of PTSD and is essential in diagnosing related symptoms(<a class=\"ref-link\" id=\"cLin_et+al_2007_a\" href=\"#rLin_et+al_2007_a\">Lin et al, 2007</a>, Wu et al, 2005, <a class=\"ref-link\" id=\"cBryant_et+al_2017_a\" href=\"#rBryant_et+al_2017_a\">Bryant et al, 2017</a>). Being infected in a life-threatening physical illness can be a traumatic experience. Research on the mental health of medical staff involved in the 2003 SARS outbreak found that about 10% of the sample reported high levels of PTSD symptoms(Wu et al, 2009). Another study showed that about 2% Chinese university students met symptom criteria for PTSD during the 2009 H1N1 pandemic(Xu et al, 2011). Furthermore, one research about the long-term psychiatric morbidities among SARS survivors revealed that PTSD was the most common long-term psychiatric disorder; the cumulative incidence of PTSD in the 30 months since the SARS outbroke was 47.8%(<a class=\"ref-link\" id=\"cMak_et+al_2009_a\" href=\"#rMak_et+al_2009_a\">Mak et al, 2009</a>). In conclusion, early detection and intervention for PTSD deserves special attention in the major life-threatening physical disease outbreaks.",
+            "The present study was designed to explore two research questions regarding acute posttraumatic stress symptoms (PTSS) among Chinese people 1 month after the COVID-19 outbreak. Firstly, the severity and prevalence of PTSS among Chinese people during the infectious disease outbreak. Secondly, related risk factors of PTSS were also investigated in this study. Existing literature pointed out that gender, age, the degree of exposure, having been infected, and having family, friends or acquaintances infected could be identified as predictors of PTSD during outbreaks of infectious diseases, such as SARS and H1N1(Xu et al, 2011, <a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>). Empirically, education background and sleep quality might predict people\u2019s PTSS. In consequence, gender, age, education background, current location, exposure history of Wuhan, risk of infection (classification of population), and subjective sleep quality were hypothesized as associated factors of PTSS in this study. Besides, since people are bombarded with different messages about the outbreak every day which might affect almost everyone more or less, time was also considered as a special factor in the study. The findings of this study will offer better psychological guidance to people who are in desperate need of help, as well as be important in planning for future outbreaks of emerging infectious diseases."
+        ],
+        "Methods": [
+            "Participants This study was conducted in mainland China by using self-administered questionnaires between 30 January and 3 February, 2020. All participants were recruited online, which has been shown benefits in feasibility and availability(<a class=\"ref-link\" id=\"cLeach_et+al_2017_a\" href=\"#rLeach_et+al_2017_a\">Leach et al, 2017</a>, <a class=\"ref-link\" id=\"cQuach_et+al_2013_a\" href=\"#rQuach_et+al_2013_a\">Quach et al, 2013</a>, <a class=\"ref-link\" id=\"cJuraschek_et+al_2018_a\" href=\"#rJuraschek_et+al_2018_a\">Juraschek et al, 2018</a>, Batterham and J., 2014). It took approximately 15 minutes to complete the questionnaires. Participants whose response time was less than 2 minutes or more than 30 minutes were excluded to ensure the quality of questionnaires. Ethics approval for this study was received from the Ethics Committee of the Navy Medical University. Informed consent was obtained from all participants.",
+            "Procedure In view of the situation of the outbreak and the purpose of this study, we designed and published an online anonymous questionnaire survey on a network platform in China, which provides functions similar to Mechanical Turk operated by Amazon. After the purpose of the survey was explained, promise was made to participants that all answers and identifying information would be kept confidential. Participants who volunteered to fill out the survey and handed in on their own would receive a brief feedback report about their personal mental health based on their answers. Afterwards, all data would be automatically summarized on background network for further analysis.",
+            "Measures A questionnaire about socio-demographic information was given to participants to require their personal information (gender, age, education background), current location, recent exposure history of Wuhan (live or travel exposure history or contacting with someone returning from Wuhan), the classification of population (the general public, health care workers, close contacts, confirmed or suspected patients), and subjective sleep quality.",
+            "Participants\u2019 PTSS referring to the outbreak was assessed by a 20-item self-report measure, the PTSD Checklist for DSM-5 (PCL-5)(<a class=\"ref-link\" id=\"cWeathers_et+al_2013_a\" href=\"#rWeathers_et+al_2013_a\">Weathers et al, 2013</a>). Each item of the measure was rated from 0 (not at all) to 4 (extremely), representing the degree to which an individual has been bothered by PTSS over the past month. A total score was obtained by summing each score of the 20 items, ranging from 0 to 80, and higher scores indicated more PTSS. It was suggested that a PCL-5 cutoff score of 31 to 33 was optimally efficient for diagnosing probable PTSD(<a class=\"ref-link\" id=\"cBovin_et+al_2016_a\" href=\"#rBovin_et+al_2016_a\">Bovin et al, 2016</a>). In this study, a score of 33 or higher indicated high level of PTSS. The Cronbach\u2019s \u03b1 was 0.91 in the current sample.",
+            "Statistical Analysis Statistical analysis was performed using SPSS 21.0 for Windows. A two-tailed test was used and the significance level was set at p < 0.05. The scores of PTSS were expressed as mean \u00b1 SD. All possible associated factors were expressed as categorical variables. First, descriptive statistics for socio-demographic variables was conducted. The percentage of participants who met high level of PTSS were also examined. Then, t test and one-way analysis of variance were performed to test whether differences in socio-demographic characteristics accounted for the severity of PTSS. Finally, multiple linear regression analysis (enter) was conducted to identify the risk factors for PTSS, with the score of PCL-5 entered as the dependent variable and potential associated variables entered as independent variables."
+        ],
+        "Discussion": [
+            "The increasing number of new COVID-19 cases and its rapidity of human-to-human transmission have attracted public attention, and other countries are becoming concerned about the further spread of the virus outside of China. To the best of our knowledge, the current study is the first to report the PTSS among people in mainland China 1 month after the COVID-19 outbreak. The results revealed that 4.6% of the respondents experienced high levels of PTSS. Gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population might be associated factors for the severity of PTSS. Furthermore, female, having recent exposure history of Wuhan, population at high risk of infection, and poor sleep quality were identified as risk factors of PTSS.",
+            "In the current study, females are prone to developing higher levels of PTSS, which is in line with a previous study exploring the predictors for PTSS during the H1N1 epidemic(Xu et al, 2011). Moreover, as reported by some literature, females are about twice as likely to develop PTSD(<a class=\"ref-link\" id=\"cChristiansen_2012_a\" href=\"#rChristiansen_2012_a\">Christiansen and Elklit, 2012</a>, Kessler and C., 1995). With regard to the reason, it was suggested that females usually experience higher levels of associated risk factors, like depression, physical anxiety sensitivity, and helplessness(Christiansen and Hansen, 2015). Accordingly, the female respondents in this study showed higher PTSD levels than the male respondents. As expected, sleep quality was predictive factor of PTSS, which has been widely explored in relevant studies(<a class=\"ref-link\" id=\"cJanna_et+al_2018_a\" href=\"#rJanna_et+al_2018_a\">Janna et al, 2018</a>, <a class=\"ref-link\" id=\"cNoel_et+al_2017_a\" href=\"#rNoel_et+al_2017_a\">Noel et al, 2017</a>, Elissa et al, 2019).",
+            "People who now reside in Hubei Province, the original and worst disaster-affected area, reported the highest level of PTSS. This result is consistent with a study about the psychological impact of SARS, which demonstrated that residents in high SARS-prevalent locations were prone to develop probable PTSD(<a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>). On the one hand, people living in high infection-prevalent locations perceive themselves to be at higher risk of infection; on the other hand, the lockdown of transport hub in most cities of Hubei Provinces lead to negative psychological impact on residents in those cities.",
+            "It is important to note that the exposure history of Wuhan determine the risk of infection to some extent in the present study. However, there is no consensus regarding this relation. Alexander suggested that those people who were repeatedly exposed to traumatic events were prone to suffering all kinds of psychological problems(Alexander and Klein, 2001). On the contrary, Declercq found no relationship between the frequency of encountering critical incidents and the occurrence of PTSD symptoms(F et al, 2011). Jiahong indicated that knowledge on H1N1 and exposure to H1N1 patients could not predict stress symptoms(Xu et al, 2011). Further researches are needed to explore the influence of exposure history of epidemics on the PTSS.",
+            "In terms of the classification of population, high risk public, which consisted of confirmed or suspected patients, and those who had close contacts with patients, obtained the most severe PTSS. It should be noted that no matter high risk public or low risk public, most people are inevitably under quarantine which may impact their health consequences. A study found that quarantined people developed various distress symptoms; also, the distress and the duration of quarantine were positively correlated(Hawryluck et al, 2004). Compared with the estimated rate of morbidity in health workers at the initial phase of SARS outbreak, which was 75.3%(<a class=\"ref-link\" id=\"cChong_et+al_2004_a\" href=\"#rChong_et+al_2004_a\">Chong et al, 2004</a>), and the percentage of medical staff who reported high levels of PTSD symptoms during SARS in another study, which was 10%(Wu et al, 2009), the prevalence of PTSS in health care workers participating in the present study was lower. There may be two reasons accounting for this. First, China had experience two waves of major infectious disease since 20th century, considerable relevant experience has been gathered. Second, health care workers generally know more about the virus than the general public, and thus they have more confidence and courage to defeat the virus.",
+            "The results also revealed that the levels of PTSS reported on different date were different. Although the trend is not obvious enough due to the short time span, we guess the level of people\u2019s PTSS might be a sign of the cut-off point of the outbreak.",
+            "Inconsistent with the hypothesis, age and education background were found to be not connected with PTSS. One possible reason might be that the majority of participants enrolled in this study were between 18 and 60 years old with an education of university or college, who were not representative. In addition, most Chinese people have been under home quarantine as soon as the infection became worse, so they share almost the same information about the epidemic situation, which makes their PTSS level less affected by age and education background."
+        ],
+        "Limitations": [
+            "The results of this study should be considered with several potential limitations. First, only a few participants were confirmed or suspected COVID-19 patients in our study. For those being infected with COVID-19, PTSD symptoms might be far more severe. A larger sample size is needed to guarantee the reliability of these results. Second, the measures of PTSS used in this study may be vulnerable to inherent bias because of their online self-report. Despite all this, PCL-5 used in the current study is still a scale with high reliability and validity."
+        ],
+        "Conclusion": [
+            "Despite these limitations, several important conclusions emerge from this study. To summarize, this study firstly found that the prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%. Female, having recent exposure history of Wuhan, population at high risk of infection, and poor sleep quality were identified as risk factors of PTSS. Most importantly, the predictors found in this study may be extremely effective in defining high risk group in the similar infection epidemics and offer hints on how people can cope with future epidemics. When making psychological adjustment for the public during this outbreak, special attention should be put on females and those who are at high risk of infection, such as people residing in high disease-prevalent regions and having had close contact with patients.",
+            "Author contributions LS, ZS, LW, ZZ, contributed to the writing of this article and the statistical analysis of this article, who are co-first authors, WL leaded the whole study, including putting forward this study, carrying out the study, and was the corresponding author. FZ, ZS, YJ, JG, YZ, YW, NL contributed to perform the investigation and collection of all data. We are all accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.",
+            "Conflict of Interest Statement None of the authors have any conflict of interest or financial disclosures related to this work.",
+            "Data Availability Statement The data used to support the findings of this study are available from the corresponding author upon request."
+        ],
+        "References": [
+            "The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the field: an outbreak of NCIP (2019-nCoV) infection in China \u2014 Wuhan, Hubei Province, 2019\u20132020. China CDC Weekly 2020;2:79-80. National Health Commission of the People's Republic of China. Daily briefing on novel coronavirus cases in China (6 March, 2020). Beijing: National Health Commissionof the People's Republic of China, 2020. http://en.nhc.gov.cn/2020-03/06/c_77327.htm (assessed 6 March, 2020). ALEXANDER, D. A. & KLEIN, S. 2001. Ambulance personnel and critical incidents - Impact of accident and emergency work on mental health and emotional well-being. Br J Psychiatry, 178, 76-81. BATTERHAM & J., P. 2014. Recruitment of mental health survey participants using Internet advertising: content, characteristics and cost effectiveness. International Journal of Methods in Psychiatric Research, 23, 184-191. BOVIN, M. J., MARX, B. P., WEATHERS, F. W., GALLAGHER, M. W., RODRIGUEZ, P., SCHNURR, P. P. & KEANE, T. M. 2016. Psychometric properties of the PTSD Checklist for Diagnostic and Statistical Manual of Mental Disorders-Fifth Edition (PCL-5) in veterans. Psychol Assess, 28, 1379-1391. BRYANT, R. A., CREAMER, M., O'DONNELL, M., FORBES, D., MCFARLANE, A. C., SILOVE, D. & HADZI-PAVLOVIC, D. 2017. Acute and Chronic Posttraumatic Stress Symptoms in the Emergence of Posttraumatic Stress Disorder: A Network Analysis. JAMA Psychiatry, 74, 135-142. CHONG, M.-Y., WANG, W.-C., HSIEH, W.-C., LEE, C.-Y., CHIU, N.-M., YEH, W.-C., HUANG, T.-L., WEN, J.-K. & CHEN, C.-L. 2004. Psychological impact of severe acute respiratory syndrome on health workers in a tertiary hospital. British Journal of Psychiatry, 185, 127-133. CHRISTIANSEN, D. M. & ELKLIT, A. 2012. Sex differences in PTSD. In A. Lazinica & E. Ovuga (Eds.), Posttraumatic stress disorder in a global context (pp. 113-142). Rijeka, Croatia: InTech Open Access Book. CHRISTIANSEN, D. M. & HANSEN, M. 2015. Accounting for sex differences in PTSD: A multi-variable mediation model. Eur J Psychotraumatol, 6, 26068. ELISSA, MCCARTHY, JASON, DEVIVA, SONYA, NORMAN & STEVEN 2019. Self-assessed sleep quality partially mediates the relationship between PTSD symptoms and functioning and quality of life in U.S Veterans: Results from the National Health and Resilience in Veterans Study. Psychological trauma : theory, research, practice and policy. F, D., R, M., J, D. & HV, H. 2011. Frequency of and subjective response to critical incidents in the prediction of PTSD in emergency personnel. J Trauma Stress, 24, 133-136. GORBALENYA, A. E., BAKER, S. C., BARIC, R. S., GROOT, R. J. D., DROSTEN, C., GULYAEVA, A. A., HAAGMANS, B. L., LAUBER, C., LEONTOVICH, A. M., NEUMAN, B. W., PENZAR, D., PERLMAN, S., POON, L. L. M., SAMBORSKIY, D., SIDOROV, I. A., SOLA, I. & ZIEBUHR, J. 2020. Severe acute respiratory syndrome-related coronavirus \u2013 The species and its viruses, a statement of the Coronavirus Study Group. . bioRxiv. HAWRYLUCK, L., GOLD, W. L., ROBINSON, S., POGORSKI, S. & STYRA, R. 2004. SARS Control and Psychological Effects of Quarantine, Toronto, Canada. Emerging Infectious Diseases, 10, 1206-1212. JANNA, M., M., H. S., B., W. K., F., C. V. & M., L. M. 2018. Sleep Quality and Emotion Regulation Interact to Predict Anxiety in Veterans with PTSD. Behavioural Neurology, 2018, 1-10.",
+            "JURASCHEK, S. P., PLANTE, T. B., CHARLESTON, J., MILLER, E. R. & HERMOSILLA, M. 2018. Use of online recruitment strategies in a randomized trial of cancer survivors. Clinical Trials, 15, KESSLER & C., R. 1995. Posttraumatic Stress Disorder in the National Comorbidity Survey.",
+            "Arch.gen.psychiatry, 52, 1048.",
+            "<a class=\"ref-link\" id=\"cKessler_2000_a\" href=\"#rKessler_2000_a\">KESSLER, R. C. 2000</a>. Posttraumatic stress disorder: The burden to the individual and to society. Journal of Clinical Psychiatry, 61 Suppl 5, 4-12; discussion 13-4.",
+            "LEACH, L. S., BUTTERWORTH, P., POYSER, C., BATTERHAM, P. J. & FARRER, L. M. 2017. Online",
+            "Recruitment: Feasibility, Cost, and Representativeness in a Study of Postpartum Women. 19, e61.",
+            "LEE, T. M., CHI, I., CHUNG, L. W. & CHOU, K. L. 2006. Ageing and psychological response during the post-SARS period. Aging Ment Health, 10, 303-11.",
+            "LIN, C. Y., PENG, Y. C., WU, Y. H., CHANG, J., CHAN, C. H. & YANG, D. Y. 2007. The psychological effect of severe acute respiratory syndrome on emergency department staff. Emerg Med J, 24, 12-7.",
+            "MAK, I. W. C., CHU, C. M., PAN, P. C., YIU, M. G. C. & CHAN, V. L. 2009. Long-term psychiatric morbidities among SARS survivors. 31, 318-326.",
+            "MUNSTER VJ, KOOPMANS M, VAN DOREMALEN N, VAN RIEL D & E, D. W. 2020. A novel coronavirus emerging in China \u2014 key questions for impact assessment. . N Engl J Med.",
+            "NOEL, M., VINALL, J., TOMFOHR-MADSEN, L., HOLLEY, A. L., WILSON, A. C. & PALERMO, T. M. 2017.",
+            "Sleep Mediates the Association between PTSD Symptoms and Chronic Pain in Youth. Journal of Pain, S1526590017307186.",
+            "QUACH, S., PEREIRA, J. A., RUSSELL, M. L., WORMSBECKER, A. E. & KWONG, J. 2013. The Good, Bad, and Ugly of Online Recruitment of Parents for Health-Related Focus Groups: Lessons Learned.",
+            "Journal of Medical Internet Research, 15, e250.",
+            "WANG, C., HORBY, P. W., HAYDEN, F. G. & GAO, G. F. 2020. A novel coronavirus outbreak of global health concern. The Lancet.",
+            "WEATHERS, F. W., LITZ, B. T., KEANE, T. M., PALMIERI, P. A., MARX, B. P. & SCHNURR, P. P. 2013. The",
+            "PTSD Checklist for DSM-5 (PCL-5). Scale available from the National Center for PTSD at www.ptsd.va.gov.",
+            "WHO Coronavirus disease 2019 (COVID-19): Situation Report-45, 5 March 2020. Geneva: World Health",
+            "Organization,",
+            "(https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-",
+            "45-covid-19.pdf?sfvrsn=ed2ba78b_2) (assessed 6 March, 2020).",
+            "WHO WHO Director-General's remarks at the media briefing on 2019-nCoV on 11 February 2020.",
+            "Geneva: World",
+            "Health (https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-brie fing-on-2019-ncov-on-11-february-2020) (assessed 12 Feb, 2020).",
+            "WU, K. K., CHAN, S. K. & MA, T. M. 2005. Posttraumatic stress, anxiety, and depression in survivors of severe acute respiratory syndrome (SARS). J Trauma Stress, 18, 39-42.",
+            "WU, P., FANG, Y., GUAN, Z., FAN, B., KONG, J., YAO, Z., LIU, X., FULLER, C. J., SUSSER, E. & LU, J. 2009.",
+            "The psychological impact of the SARS epidemic on hospital employees in China: exposure, risk perception, and altruistic acceptance of risk. 54, 302.",
+            "XU, J., ZHENG, Y., WANG, M., ZHAO, J. & CHENG, Y. 2011. Predictors of symptoms of posttraumatic stress in Chinese university students during the 2009 H1N1 influenza pandemic. Medical",
+            "Science Monitor International Medical Journal of Experimental & Clinical Research, 17, PH60-4. ZHU, N., ZHANG, D., WANG, W., LI, X., YANG, B., SONG, J., ZHAO, X., HUANG, B., SHI, W., LU, R., NIU, P., ZHAN, F., MA, X., WANG, D., XU, W., WU, G., GAO, G. F., TAN, W., CHINA NOVEL CORONAVIRUS, I. & RESEARCH, T. 2020. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med.",
+            "Figure legends Table 1. Socio-demographic characteristics of the participants",
+            "Table 2. Group differences in the scores on the PCL-5",
+            "Table 3. Regression Analysis with PCL-5 Score as the Dependent Variable (n = 2091) Note: B=unstandardized beta; \u03b2=standardized regression weight. The education background was transformed into two dummy variables (high school or below vs. university or college, postgraduate or above vs. university or college) with the university or college as the reference group. Classification of population was transformed into two dummy variables (low risk public vs. health care workers, high risk public vs. health care workers) with the health care workers as the reference group. Subjective sleep quality was transformed into three dummy variables with sleep quality=very good as the reference group.",
+            "Fig 1. Group differences of PCL-5 scores in Wuhan exposure history and classification of population Note: **, p-value < 0.01; ***, p-value < 0.001."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "confirmed cases",
+            "number": 80552,
+            "context": "Moreover, the number of confirmed and suspected cases has rapidly risen not only in China but also in other countries worldwide(<a class=\"ref-link\" id=\"cMunster_et+al_2020_a\" href=\"#rMunster_et+al_2020_a\">Munster VJ et al, 2020</a>). <mark class=\"stats\">According to reports from the National Health Commission (NHC) of China and WHO, there have been 80552 confirmed cases on the Chinese mainland by 5 March, 2020, among which 3042 had dead</mark>. By now, there are 85 countries (territories/areas) have reported cases of infection outside China (WHO)"
+        },
+        {
+            "participant": "participants",
+            "number": 2091,
+            "context": "Finally, multiple linear regression analysis (enter) was conducted to identify the risk factors for PTSS, with the score of PCL-5 entered as the dependent variable and potential associated variables entered as independent variables. <mark class=\"stats\">Results Sample socio-demographic characteristics A total of 2091 participants were recruited in this survey, among which 1272 (60.8%) were female</mark>. The socio-demographic characteristics was presented in Table 1"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The Cronbach\u2019s \u03b1 was 0.91 in the current sample</mark>",
+                "tests": [
+                    {
+                        "test": "Cronbach\u2019s \u03b1",
+                        "value": "0.91"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p < 0.05",
+            "context": "Statistical Analysis Statistical analysis was performed using SPSS 21.0 for Windows. <mark class=\"stats\">A two-tailed test was used and the significance level was set at p < 0.05</mark>. The scores of PTSS were expressed as mean \u00b1 SD",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "two-tailed test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Then, t test and one-way analysis of variance were performed to test whether differences in socio-demographic characteristics accounted for the severity of PTSS</mark>",
+                "tests": [
+                    {
+                        "test": "t test"
+                    },
+                    {
+                        "test": "one-way analysis of variance"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Finally, multiple linear regression analysis (enter) was conducted to identify the risk factors for PTSS, with the score of PCL-5 entered as the dependent variable and potential associated variables entered as independent variables</mark>",
+                "tests": [
+                    {
+                        "test": "linear regression"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "The prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%. <mark class=\"stats\">Multiple linear regression analysis revealed that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictor factors for PTSS</mark>. Conclusions The results showed that some Chinese showed acute PTSS during the COVID-19 outbreak",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "linear regression",
+                        "value": "p < 0.001"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p = 0.265",
+            "context": "Associated factors for the severity of PTSS Table 2 presented the group differences of socio-demographic factors in the PCL-5 scores. <mark class=\"stats\">There were no significant differences between the scores of participants with different education background (F = 1.329, p = 0.265), or that of all ages (F = 1.912, p = 0.089)</mark>. Statistically significant differences were observed between different gender (t = -5.227, p < 0.001), and female reported more PTSS"
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "There were no significant differences between the scores of participants with different education background (F = 1.329, p = 0.265), or that of all ages (F = 1.912, p = 0.089). <mark class=\"stats\">Statistically significant differences were observed between different gender (t = -5.227, p < 0.001), and female reported more PTSS</mark>. The participants in Hubei province also showed statistically differences in their PCL-5 scores (F = 13.263, p < 0.001)"
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "Statistically significant differences were observed between different gender (t = -5.227, p < 0.001), and female reported more PTSS. <mark class=\"stats\">The participants in Hubei province also showed statistically differences in their PCL-5 scores (F = 13.263, p < 0.001)</mark>. It should be noted that the different date that participants filled out also showed significant differences in PCL-5 scores (F = 4.018, p = 0.003)"
+        },
+        {
+            "p_value": "p = 0.003",
+            "context": "The participants in Hubei province also showed statistically differences in their PCL-5 scores (F = 13.263, p < 0.001). <mark class=\"stats\">It should be noted that the different date that participants filled out also showed significant differences in PCL-5 scores (F = 4.018, p = 0.003)</mark>. In the aspect of subjective sleep quality, participants with worse sleep quality scored higher on PCL-5 (F = 185.707, p < 0.001)"
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "It should be noted that the different date that participants filled out also showed significant differences in PCL-5 scores (F = 4.018, p = 0.003). <mark class=\"stats\">In the aspect of subjective sleep quality, participants with worse sleep quality scored higher on PCL-5 (F = 185.707, p < 0.001)</mark>. With regard to the exposure history of Wuhan and classification of population, both of which were connected with the risk of infection, it was demonstrated significant differences between the scores of participants who had exposure history or not (p < 0.01), as well as participants belong to different classifications of population (p < 0.001)"
+        },
+        {
+            "p_value": "p < 0.01",
+            "context": "In the aspect of subjective sleep quality, participants with worse sleep quality scored higher on PCL-5 (F = 185.707, p < 0.001). <mark class=\"stats\">With regard to the exposure history of Wuhan and classification of population, both of which were connected with the risk of infection, it was demonstrated significant differences between the scores of participants who had exposure history or not (p < 0.01), as well as participants belong to different classifications of population (p < 0.001)</mark>. Furthermore, Figure 1 presented that participants who had exposure of Wuhan received higher PCL-5 scores, and high risk public had the highest PCL-5 scores in comparison to low risk public and health care workers"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Predictive and risk factors for PTSS Multiple linear regression analysis revealed that participant\u2019s age and education background were not related to their PTSS during the outbreak</mark>",
+                "tests": [
+                    {
+                        "test": "linear regression"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "Predictive and risk factors for PTSS Multiple linear regression analysis revealed that participant\u2019s age and education background were not related to their PTSS during the outbreak. <mark class=\"stats\">Nevertheless, it was noteworthy that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictive factors for PTSS</mark>. Female, those having exposure history of Wuhan reported higher level of PTSS"
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "Table 3 showed the results of the regression analysis. <mark class=\"stats\">In summary, the amount of total variation accounted for by these variables in the PCL-5 scores was significant (R2 = 23.2%, F = 180.835, p < 0.001)</mark>. Discussion The increasing number of new COVID-19 cases and its rapidity of human-to-human transmission have attracted public attention, and other countries are becoming concerned about the further spread of the virus outside of China"
+        }
+    ],
+    "keywords": [
+        "subjective sleep quality",
+        "sara cov",
+        "education background",
+        "Coronavirus Study Group",
+        "current location",
+        "sleep quality",
+        "coronavirus",
+        "PTSD Checklist for DSM-5",
+        "H1N1",
+        "SARS",
+        "exposure history",
+        "posttraumatic stress disorder",
+        "COVID-19",
+        "acute posttraumatic stress",
+        "World Health Organization",
+        "chinese people",
+        "National Health Commission",
+        "novel coronavirus",
+        "posttraumatic stress symptoms",
+        "high level",
+        "Stress disorder",
+        "posttraumatic stress",
+        "risk factor"
+    ],
+    "keyword_relevance": {
+        "posttraumatic stress symptoms": 0.20901639344262296,
+        "posttraumatic stress disorder": 0.11475409836065574,
+        "PTSD Checklist for DSM-5": 0.0860655737704918,
+        "sleep quality": 0.08196721311475409,
+        "exposure history": 0.07377049180327869,
+        "COVID-19": 0.05737704918032787,
+        "SARS": 0.05327868852459016,
+        "subjective sleep quality": 0.040983606557377046,
+        "education background": 0.036885245901639344,
+        "coronavirus": 0.03278688524590164,
+        "World Health Organization": 0.03278688524590164,
+        "risk factor": 0.028688524590163935,
+        "current location": 0.02459016393442623,
+        "H1N1": 0.02459016393442623,
+        "novel coronavirus": 0.02459016393442623,
+        "high level": 0.02459016393442623,
+        "National Health Commission": 0.01639344262295082,
+        "posttraumatic stress": 0.01639344262295082,
+        "Coronavirus Study Group": 0.012295081967213115,
+        "acute posttraumatic stress": 0.00819672131147541,
+        "sara cov": 0.0,
+        "chinese people": 0.0,
+        "Stress disorder": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> A novel coronavirus, named as SARA-CoV-2 by the Coronavirus Study Group (CSG)(Gorbalenya et al, 2020), was reported in China in December 2019(<a class=\"ref-link\" id=\"cZhu_et+al_2020_a\" href=\"#rZhu_et+al_2020_a\">Zhu et al, 2020</a>).",
+        "According to reports from the National Health Commission (NHC) of China and WHO, there have been 80552 confirmed cases on the Chinese mainland by 5 March, 2020, among which 3042 had dead.",
+        "The present study was designed to explore two research questions regarding acute posttraumatic stress symptoms (PTSS) among Chinese people 1 month after the COVID-19 outbreak.",
+        "Gender, age, education background, current location, exposure history of Wuhan, risk of infection, and subjective sleep quality were hypothesized as associated factors of PTSS in this study.",
+        "The findings of this study will offer better psychological guidance to people who are in desperate need of help, as well as be important in planning for future outbreaks of emerging infectious diseases",
+        "<h2 style=\"display: inline\">Methods:</h2> Participants This study was conducted in mainland China by using self-administered questionnaires between 30 January and 3 February, 2020.",
+        "All participants were recruited online, which has been shown benefits in feasibility and availability(<a class=\"ref-link\" id=\"cLeach_et+al_2017_a\" href=\"#rLeach_et+al_2017_a\">Leach et al, 2017</a>, <a class=\"ref-link\" id=\"cQuach_et+al_2013_a\" href=\"#rQuach_et+al_2013_a\">Quach et al, 2013</a>, <a class=\"ref-link\" id=\"cJuraschek_et+al_2018_a\" href=\"#rJuraschek_et+al_2018_a\">Juraschek et al, 2018</a>, Batterham and J., 2014).",
+        "It took approximately 15 minutes to complete the questionnaires.",
+        "<h2 style=\"display: inline\">Results:</h2> A total of 2091 Chinese participated in the current study. The prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%.",
+        "Gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population could be considered as associated factors for the severity of PTSS.",
+        "It was noteworthy that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictive factors for PTSS",
+        "Female, those having exposure history of Wuhan reported higher level of PTSS.",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The increasing number of new COVID-19 cases and its rapidity of human-to-human transmission have attracted public attention, and other countries are becoming concerned about the further spread of the virus outside of China.",
+        "People who reside in Hubei Province, the original and worst disaster-affected area, reported the highest level of PTSS",
+        "This result is consistent with a study about the psychological impact of SARS, which demonstrated that residents in high SARS-prevalent locations were prone to develop probable PTSD(<a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>).",
+        "Females, people who having recent exposure history of Wuhan, those at high risk of infection or with poor sleep quality deserve special attention"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "A novel coronavirus, named as SARA-CoV-2 by the Coronavirus Study Group (CSG)(Gorbalenya et al, 2020), was reported in China in December 2019(<a class=\"ref-link\" id=\"cZhu_et+al_2020_a\" href=\"#rZhu_et+al_2020_a\">Zhu et al, 2020</a>).",
+            "According to reports from the National Health Commission (NHC) of China and WHO, there have been 80552 confirmed cases on the Chinese mainland by 5 March, 2020, among which 3042 had dead.",
+            "The present study was designed to explore two research questions regarding acute posttraumatic stress symptoms (PTSS) among Chinese people 1 month after the COVID-19 outbreak.",
+            "Gender, age, education background, current location, exposure history of Wuhan, risk of infection, and subjective sleep quality were hypothesized as associated factors of PTSS in this study.",
+            "The findings of this study will offer better psychological guidance to people who are in desperate need of help, as well as be important in planning for future outbreaks of emerging infectious diseases"
+        ],
+        "Methods": [
+            "Participants This study was conducted in mainland China by using self-administered questionnaires between 30 January and 3 February, 2020.",
+            "All participants were recruited online, which has been shown benefits in feasibility and availability(<a class=\"ref-link\" id=\"cLeach_et+al_2017_a\" href=\"#rLeach_et+al_2017_a\">Leach et al, 2017</a>, <a class=\"ref-link\" id=\"cQuach_et+al_2013_a\" href=\"#rQuach_et+al_2013_a\">Quach et al, 2013</a>, <a class=\"ref-link\" id=\"cJuraschek_et+al_2018_a\" href=\"#rJuraschek_et+al_2018_a\">Juraschek et al, 2018</a>, Batterham and J., 2014).",
+            "It took approximately 15 minutes to complete the questionnaires."
+        ],
+        "Results": [
+            "A total of 2091 Chinese participated in the current study. The prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%.",
+            "Gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population could be considered as associated factors for the severity of PTSS.",
+            "It was noteworthy that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictive factors for PTSS",
+            "Female, those having exposure history of Wuhan reported higher level of PTSS."
+        ],
+        "Conclusion": [
+            "The increasing number of new COVID-19 cases and its rapidity of human-to-human transmission have attracted public attention, and other countries are becoming concerned about the further spread of the virus outside of China.",
+            "People who reside in Hubei Province, the original and worst disaster-affected area, reported the highest level of PTSS",
+            "This result is consistent with a study about the psychological impact of SARS, which demonstrated that residents in high SARS-prevalent locations were prone to develop probable PTSD(<a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>).",
+            "Females, people who having recent exposure history of Wuhan, those at high risk of infection or with poor sleep quality deserve special attention"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "Alexander_2019_a",
+            "alt_id": "1",
+            "entry": "The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. Notes from the field: an outbreak of NCIP (2019-nCoV) infection in China \u2014 Wuhan, Hubei Province, 2019\u20132020. China CDC Weekly 2020;2:79-80. National Health Commission of the People's Republic of China. Daily briefing on novel coronavirus cases in China (6 March, 2020). Beijing: National Health Commissionof the People's Republic of China, 2020. http://en.nhc.gov.cn/2020-03/06/c_77327.htm (assessed 6 March, 2020). ALEXANDER, D. A.& KLEIN, S.2001. Ambulance personnel and critical incidents - Impact of accident and emergency work on mental health and emotional well-being. Br J Psychiatry, 178, 76-81. BATTERHAM & J., P.2014. Recruitment of mental health survey participants using Internet advertising:content, characteristics and cost effectiveness. International Journal of Methods in Psychiatric Research, 23, 184-191.",
+            "url": "http://en.nhc.gov.cn/2020-03/06/c_77327.htm",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=The%202019nCoV%20Outbreak%20Joint%20Field%20Epidemiology%20Investigation%20Team%20Li%20Q%20Notes%20from%20the%20field%20an%20outbreak%20of%20NCIP%202019nCoV%20infection%20in%20China%20%20Wuhan%20Hubei%20Province%2020192020%20China%20CDC%20Weekly%20202027980%20National%20Health%20Commission%20of%20the%20Peoples%20Republic%20of%20China%20Daily%20briefing%20on%20novel%20coronavirus%20cases%20in%20China%206%20March%202020%20Beijing%20National%20Health%20Commissionof%20the%20Peoples%20Republic%20of%20China%202020%20httpennhcgovcn20200306c77327htm%20assessed%206%20March%202020%20ALEXANDER%20D%20A%20KLEIN%20S2001%20Ambulance%20personnel%20and%20critical%20incidents%20%20Impact%20of%20accident%20and%20emergency%20work%20on%20mental%20health%20and%20emotional%20wellbeing%20Br%20J%20Psychiatry%20178%207681%20BATTERHAM%20%20J%20P2014%20Recruitment%20of%20mental%20health%20survey%20participants%20using%20Internet%20advertisingcontent%20characteristics%20and%20cost%20effectiveness%20International%20Journal%20of%20Methods%20in%20Psychiatric%20Research%2023%20184191",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=The%202019nCoV%20Outbreak%20Joint%20Field%20Epidemiology%20Investigation%20Team%20Li%20Q%20Notes%20from%20the%20field%20an%20outbreak%20of%20NCIP%202019nCoV%20infection%20in%20China%20%20Wuhan%20Hubei%20Province%2020192020%20China%20CDC%20Weekly%20202027980%20National%20Health%20Commission%20of%20the%20Peoples%20Republic%20of%20China%20Daily%20briefing%20on%20novel%20coronavirus%20cases%20in%20China%206%20March%202020%20Beijing%20National%20Health%20Commissionof%20the%20Peoples%20Republic%20of%20China%202020%20httpennhcgovcn20200306c77327htm%20assessed%206%20March%202020%20ALEXANDER%20D%20A%20KLEIN%20S2001%20Ambulance%20personnel%20and%20critical%20incidents%20%20Impact%20of%20accident%20and%20emergency%20work%20on%20mental%20health%20and%20emotional%20wellbeing%20Br%20J%20Psychiatry%20178%207681%20BATTERHAM%20%20J%20P2014%20Recruitment%20of%20mental%20health%20survey%20participants%20using%20Internet%20advertisingcontent%20characteristics%20and%20cost%20effectiveness%20International%20Journal%20of%20Methods%20in%20Psychiatric%20Research%2023%20184191"
+        },
+        {
+            "id": "Bovin_et+al_2016_a",
+            "alt_id": "2",
+            "entry": "BOVIN, M. J., MARX, B. P., WEATHERS, F. W., GALLAGHER, M. W., RODRIGUEZ, P., SCHNURR, P. P. & KEANE, T. M. 2016. Psychometric properties of the PTSD Checklist for Diagnostic and Statistical Manual of Mental Disorders-Fifth Edition (PCL-5) in veterans. Psychol Assess, 28, 1379-1391.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=BOVIN%2C%20M.J.%20MARX%2C%20B.P.%20WEATHERS%2C%20F.W.%20GALLAGHER%2C%20M.W.%20Psychometric%20properties%20of%20the%20PTSD%20Checklist%20for%20Diagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders-Fifth%20Edition%20%28PCL-5%29%20in%20veterans%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=BOVIN%2C%20M.J.%20MARX%2C%20B.P.%20WEATHERS%2C%20F.W.%20GALLAGHER%2C%20M.W.%20Psychometric%20properties%20of%20the%20PTSD%20Checklist%20for%20Diagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders-Fifth%20Edition%20%28PCL-5%29%20in%20veterans%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=BOVIN%2C%20M.J.%20MARX%2C%20B.P.%20WEATHERS%2C%20F.W.%20GALLAGHER%2C%20M.W.%20Psychometric%20properties%20of%20the%20PTSD%20Checklist%20for%20Diagnostic%20and%20Statistical%20Manual%20of%20Mental%20Disorders-Fifth%20Edition%20%28PCL-5%29%20in%20veterans%202016"
+        },
+        {
+            "id": "Bryant_et+al_2017_a",
+            "alt_id": "3",
+            "entry": "BRYANT, R. A., CREAMER, M., O'DONNELL, M., FORBES, D., MCFARLANE, A. C., SILOVE, D. & HADZI-PAVLOVIC, D. 2017. Acute and Chronic Posttraumatic Stress Symptoms in the Emergence of Posttraumatic Stress Disorder: A Network Analysis. JAMA Psychiatry, 74, 135-142.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=BRYANT%2C%20R.A.%20CREAMER%2C%20M.%20O%27DONNELL%2C%20M.%20FORBES%2C%20D.%20Acute%20and%20Chronic%20Posttraumatic%20Stress%20Symptoms%20in%20the%20Emergence%20of%20Posttraumatic%20Stress%20Disorder%3A%20A%20Network%20Analysis%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=BRYANT%2C%20R.A.%20CREAMER%2C%20M.%20O%27DONNELL%2C%20M.%20FORBES%2C%20D.%20Acute%20and%20Chronic%20Posttraumatic%20Stress%20Symptoms%20in%20the%20Emergence%20of%20Posttraumatic%20Stress%20Disorder%3A%20A%20Network%20Analysis%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=BRYANT%2C%20R.A.%20CREAMER%2C%20M.%20O%27DONNELL%2C%20M.%20FORBES%2C%20D.%20Acute%20and%20Chronic%20Posttraumatic%20Stress%20Symptoms%20in%20the%20Emergence%20of%20Posttraumatic%20Stress%20Disorder%3A%20A%20Network%20Analysis%202017"
+        },
+        {
+            "id": "Chong_et+al_2004_a",
+            "alt_id": "4",
+            "entry": "CHONG, M.-Y., WANG, W.-C., HSIEH, W.-C., LEE, C.-Y., CHIU, N.-M., YEH, W.-C., HUANG, T.-L., WEN, J.-K. & CHEN, C.-L. 2004. Psychological impact of severe acute respiratory syndrome on health workers in a tertiary hospital. British Journal of Psychiatry, 185, 127-133.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=CHONG%2C%20M.-Y.%20WANG%2C%20W.-C.%20HSIEH%2C%20W.-C.%20LEE%2C%20C.-Y.%20Psychological%20impact%20of%20severe%20acute%20respiratory%20syndrome%20on%20health%20workers%20in%20a%20tertiary%20hospital%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=CHONG%2C%20M.-Y.%20WANG%2C%20W.-C.%20HSIEH%2C%20W.-C.%20LEE%2C%20C.-Y.%20Psychological%20impact%20of%20severe%20acute%20respiratory%20syndrome%20on%20health%20workers%20in%20a%20tertiary%20hospital%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=CHONG%2C%20M.-Y.%20WANG%2C%20W.-C.%20HSIEH%2C%20W.-C.%20LEE%2C%20C.-Y.%20Psychological%20impact%20of%20severe%20acute%20respiratory%20syndrome%20on%20health%20workers%20in%20a%20tertiary%20hospital%202004"
+        },
+        {
+            "id": "Christiansen_2012_a",
+            "alt_id": "5",
+            "entry": "CHRISTIANSEN, D. M. & ELKLIT, A. 2012. Sex differences in PTSD. In A. Lazinica & E. Ovuga (Eds.), Posttraumatic stress disorder in a global context (pp. 113-142). Rijeka, Croatia: InTech Open Access Book. CHRISTIANSEN, D. M. & HANSEN, M. 2015. Accounting for sex differences in PTSD: A multi-variable mediation model. Eur J Psychotraumatol, 6, 26068. ELISSA, MCCARTHY, JASON, DEVIVA, SONYA, NORMAN & STEVEN 2019. Self-assessed sleep quality partially mediates the relationship between PTSD symptoms and functioning and quality of life in U.S. Veterans: Results from the National Health and Resilience in Veterans Study. Psychological trauma: theory, research, practice and policy. F, D., R, M., J, D. & HV, H. 2011. Frequency of and subjective response to critical incidents in the prediction of PTSD in emergency personnel. J Trauma Stress, 24, 133-136.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=CHRISTIANSEN%2C%20D.M.%20ELKLIT%2C%20A.%20Sex%20differences%20in%20PTSD%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=CHRISTIANSEN%2C%20D.M.%20ELKLIT%2C%20A.%20Sex%20differences%20in%20PTSD%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=CHRISTIANSEN%2C%20D.M.%20ELKLIT%2C%20A.%20Sex%20differences%20in%20PTSD%202012"
+        },
+        {
+            "id": "Gorbalenya_et+al_2004_a",
+            "alt_id": "6",
+            "entry": "GORBALENYA, A. E., BAKER, S. C., BARIC, R. S., GROOT, R. J. D., DROSTEN, C., GULYAEVA, A. A., HAAGMANS, B. L., LAUBER, C., LEONTOVICH, A. M., NEUMAN, B. W., PENZAR, D., PERLMAN, S., POON, L. L. M., SAMBORSKIY, D., SIDOROV, I. A., SOLA, I. & ZIEBUHR, J. 2020. Severe acute respiratory syndrome-related coronavirus \u2013 The species and its viruses, a statement of the Coronavirus Study Group.. bioRxiv. HAWRYLUCK, L., GOLD, W. L., ROBINSON, S., POGORSKI, S. & STYRA, R. 2004. SARS Control and Psychological Effects of Quarantine, Toronto, Canada. Emerging Infectious Diseases, 10, 1206-1212.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=GORBALENYA%20A%20E%20BAKER%20S%20C%20BARIC%20R%20S%20GROOT%20R%20J%20D%20DROSTEN%20C%20GULYAEVA%20A%20A%20HAAGMANS%20B%20L%20LAUBER%20C%20LEONTOVICH%20A%20M%20NEUMAN%20B%20W%20PENZAR%20D%20PERLMAN%20S%20POON%20L%20L%20M%20SAMBORSKIY%20D%20SIDOROV%20I%20A%20SOLA%20I%20%20ZIEBUHR%20J%202020%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20%20The%20species%20and%20its%20viruses%20a%20statement%20of%20the%20Coronavirus%20Study%20Group%20bioRxiv%20HAWRYLUCK%20L%20GOLD%20W%20L%20ROBINSON%20S%20POGORSKI%20S%20%20STYRA%20R%202004%20SARS%20Control%20and%20Psychological%20Effects%20of%20Quarantine%20Toronto%20Canada%20Emerging%20Infectious%20Diseases%2010%2012061212",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=GORBALENYA%20A%20E%20BAKER%20S%20C%20BARIC%20R%20S%20GROOT%20R%20J%20D%20DROSTEN%20C%20GULYAEVA%20A%20A%20HAAGMANS%20B%20L%20LAUBER%20C%20LEONTOVICH%20A%20M%20NEUMAN%20B%20W%20PENZAR%20D%20PERLMAN%20S%20POON%20L%20L%20M%20SAMBORSKIY%20D%20SIDOROV%20I%20A%20SOLA%20I%20%20ZIEBUHR%20J%202020%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20%20The%20species%20and%20its%20viruses%20a%20statement%20of%20the%20Coronavirus%20Study%20Group%20bioRxiv%20HAWRYLUCK%20L%20GOLD%20W%20L%20ROBINSON%20S%20POGORSKI%20S%20%20STYRA%20R%202004%20SARS%20Control%20and%20Psychological%20Effects%20of%20Quarantine%20Toronto%20Canada%20Emerging%20Infectious%20Diseases%2010%2012061212",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=GORBALENYA%20A%20E%20BAKER%20S%20C%20BARIC%20R%20S%20GROOT%20R%20J%20D%20DROSTEN%20C%20GULYAEVA%20A%20A%20HAAGMANS%20B%20L%20LAUBER%20C%20LEONTOVICH%20A%20M%20NEUMAN%20B%20W%20PENZAR%20D%20PERLMAN%20S%20POON%20L%20L%20M%20SAMBORSKIY%20D%20SIDOROV%20I%20A%20SOLA%20I%20%20ZIEBUHR%20J%202020%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20%20The%20species%20and%20its%20viruses%20a%20statement%20of%20the%20Coronavirus%20Study%20Group%20bioRxiv%20HAWRYLUCK%20L%20GOLD%20W%20L%20ROBINSON%20S%20POGORSKI%20S%20%20STYRA%20R%202004%20SARS%20Control%20and%20Psychological%20Effects%20of%20Quarantine%20Toronto%20Canada%20Emerging%20Infectious%20Diseases%2010%2012061212"
+        },
+        {
+            "id": "Janna_et+al_2018_a",
+            "alt_id": "7",
+            "entry": "JANNA, M., M., H. S., B., W. K., F., C. V. & M., L. M. 2018. Sleep Quality and Emotion Regulation Interact to Predict Anxiety in Veterans with PTSD. Behavioural Neurology, 2018, 1-10.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=JANNA%2C%20M.%20M.%2C%20H.S.%20B.%2C%20W.K.%20F.%2C%20C.V.%20Sleep%20Quality%20and%20Emotion%20Regulation%20Interact%20to%20Predict%20Anxiety%20in%20Veterans%20with%20PTSD%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=JANNA%2C%20M.%20M.%2C%20H.S.%20B.%2C%20W.K.%20F.%2C%20C.V.%20Sleep%20Quality%20and%20Emotion%20Regulation%20Interact%20to%20Predict%20Anxiety%20in%20Veterans%20with%20PTSD%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=JANNA%2C%20M.%20M.%2C%20H.S.%20B.%2C%20W.K.%20F.%2C%20C.V.%20Sleep%20Quality%20and%20Emotion%20Regulation%20Interact%20to%20Predict%20Anxiety%20in%20Veterans%20with%20PTSD%202018"
+        },
+        {
+            "id": "Juraschek_et+al_2018_a",
+            "alt_id": "8",
+            "entry": "JURASCHEK, S. P., PLANTE, T. B., CHARLESTON, J., MILLER, E. R. & HERMOSILLA, M. 2018. Use of online recruitment strategies in a randomized trial of cancer survivors. Clinical Trials, 15, 174077451774582.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=JURASCHEK%2C%20S.P.%20PLANTE%2C%20T.B.%20CHARLESTON%2C%20J.%20MILLER%2C%20E.R.%20Use%20of%20online%20recruitment%20strategies%20in%20a%20randomized%20trial%20of%20cancer%20survivors%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=JURASCHEK%2C%20S.P.%20PLANTE%2C%20T.B.%20CHARLESTON%2C%20J.%20MILLER%2C%20E.R.%20Use%20of%20online%20recruitment%20strategies%20in%20a%20randomized%20trial%20of%20cancer%20survivors%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=JURASCHEK%2C%20S.P.%20PLANTE%2C%20T.B.%20CHARLESTON%2C%20J.%20MILLER%2C%20E.R.%20Use%20of%20online%20recruitment%20strategies%20in%20a%20randomized%20trial%20of%20cancer%20survivors%202018"
+        },
+        {
+            "id": "K_1995_a",
+            "alt_id": "9",
+            "entry": "KESSLER & C., R. 1995. Posttraumatic Stress Disorder in the National Comorbidity Survey.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=K.E.S.S.L.E.R.%20C.%2C%20R.%20Posttraumatic%20Stress%20Disorder%20in%20the%20National%20Comorbidity%20Survey%201995"
+        },
+        {
+            "id": "Kessler_2000_a",
+            "alt_id": "10",
+            "entry": "KESSLER, R. C. 2000. Posttraumatic stress disorder: The burden to the individual and to society. Journal of Clinical Psychiatry, 61 Suppl 5, 4-12; discussion 13-4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=KESSLER%2C%20R.C.%20Posttraumatic%20stress%20disorder%3A%20The%20burden%20to%20the%20individual%20and%20to%20society%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=KESSLER%2C%20R.C.%20Posttraumatic%20stress%20disorder%3A%20The%20burden%20to%20the%20individual%20and%20to%20society%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=KESSLER%2C%20R.C.%20Posttraumatic%20stress%20disorder%3A%20The%20burden%20to%20the%20individual%20and%20to%20society%202000"
+        },
+        {
+            "id": "Leach_et+al_2017_a",
+            "alt_id": "11",
+            "entry": "LEACH, L. S., BUTTERWORTH, P., POYSER, C., BATTERHAM, P. J. & FARRER, L. M. 2017. Online",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=LEACH%20L%20S%20BUTTERWORTH%20P%20POYSER%20C%20BATTERHAM%20P%20J%20%20FARRER%20L%20M%202017%20Online"
+        },
+        {
+            "id": "Lee_et+al_2006_a",
+            "alt_id": "12",
+            "entry": "LEE, T. M., CHI, I., CHUNG, L. W. & CHOU, K. L. 2006. Ageing and psychological response during the post-SARS period. Aging Ment Health, 10, 303-11.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=LEE%2C%20T.M.%20CHI%2C%20I.%20CHUNG%2C%20L.W.%20CHOU%2C%20K.L.%20Ageing%20and%20psychological%20response%20during%20the%20post-SARS%20period%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=LEE%2C%20T.M.%20CHI%2C%20I.%20CHUNG%2C%20L.W.%20CHOU%2C%20K.L.%20Ageing%20and%20psychological%20response%20during%20the%20post-SARS%20period%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=LEE%2C%20T.M.%20CHI%2C%20I.%20CHUNG%2C%20L.W.%20CHOU%2C%20K.L.%20Ageing%20and%20psychological%20response%20during%20the%20post-SARS%20period%202006"
+        },
+        {
+            "id": "Lin_et+al_2007_a",
+            "alt_id": "13",
+            "entry": "LIN, C. Y., PENG, Y. C., WU, Y. H., CHANG, J., CHAN, C. H. & YANG, D. Y. 2007. The psychological effect of severe acute respiratory syndrome on emergency department staff. Emerg Med J, 24, 12-7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=LIN%2C%20C.Y.%20PENG%2C%20Y.C.%20WU%2C%20Y.H.%20CHANG%2C%20J.%20The%20psychological%20effect%20of%20severe%20acute%20respiratory%20syndrome%20on%20emergency%20department%20staff%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=LIN%2C%20C.Y.%20PENG%2C%20Y.C.%20WU%2C%20Y.H.%20CHANG%2C%20J.%20The%20psychological%20effect%20of%20severe%20acute%20respiratory%20syndrome%20on%20emergency%20department%20staff%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=LIN%2C%20C.Y.%20PENG%2C%20Y.C.%20WU%2C%20Y.H.%20CHANG%2C%20J.%20The%20psychological%20effect%20of%20severe%20acute%20respiratory%20syndrome%20on%20emergency%20department%20staff%202007"
+        },
+        {
+            "id": "Mak_et+al_2009_a",
+            "alt_id": "14",
+            "entry": "MAK, I. W. C., CHU, C. M., PAN, P. C., YIU, M. G. C. & CHAN, V. L. 2009. Long-term psychiatric morbidities among SARS survivors. 31, 318-326.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=MAK%2C%20I.W.C.%20CHU%2C%20C.M.%20PAN%2C%20P.C.%20YIU%2C%20M.G.C.%20Long-term%20psychiatric%20morbidities%20among%20SARS%20survivors%202009"
+        },
+        {
+            "id": "Munster_et+al_2020_a",
+            "alt_id": "15",
+            "entry": "MUNSTER VJ, KOOPMANS M, VAN DOREMALEN N, VAN RIEL D & E, D. W. 2020. A novel coronavirus emerging in China \u2014 key questions for impact assessment.. N Engl J Med.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=MUNSTER%20VJ%20KOOPMANS%20M%20VAN%20DOREMALEN%20N%20VAN%20RIEL%20D%20%20E%20D%20W%202020%20A%20novel%20coronavirus%20emerging%20in%20China%20%20key%20questions%20for%20impact%20assessment%20N%20Engl%20J%20Med",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=MUNSTER%20VJ%20KOOPMANS%20M%20VAN%20DOREMALEN%20N%20VAN%20RIEL%20D%20%20E%20D%20W%202020%20A%20novel%20coronavirus%20emerging%20in%20China%20%20key%20questions%20for%20impact%20assessment%20N%20Engl%20J%20Med",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=MUNSTER%20VJ%20KOOPMANS%20M%20VAN%20DOREMALEN%20N%20VAN%20RIEL%20D%20%20E%20D%20W%202020%20A%20novel%20coronavirus%20emerging%20in%20China%20%20key%20questions%20for%20impact%20assessment%20N%20Engl%20J%20Med"
+        },
+        {
+            "id": "Noel_et+al_2017_a",
+            "alt_id": "16",
+            "entry": "NOEL, M., VINALL, J., TOMFOHR-MADSEN, L., HOLLEY, A. L., WILSON, A. C. & PALERMO, T. M. 2017.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=NOEL%20M%20VINALL%20J%20TOMFOHRMADSEN%20L%20HOLLEY%20A%20L%20WILSON%20A%20C%20%20PALERMO%20T%20M%202017"
+        },
+        {
+            "id": "Sleep_0000_a",
+            "alt_id": "17",
+            "entry": "Sleep Mediates the Association between PTSD Symptoms and Chronic Pain in Youth. Journal of Pain, S1526590017307186.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sleep%20Mediates%20the%20Association%20between%20PTSD%20Symptoms%20and%20Chronic%20Pain%20in%20Youth%20Journal%20of%20Pain%20S1526590017307186",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sleep%20Mediates%20the%20Association%20between%20PTSD%20Symptoms%20and%20Chronic%20Pain%20in%20Youth%20Journal%20of%20Pain%20S1526590017307186",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sleep%20Mediates%20the%20Association%20between%20PTSD%20Symptoms%20and%20Chronic%20Pain%20in%20Youth%20Journal%20of%20Pain%20S1526590017307186"
+        },
+        {
+            "id": "Quach_et+al_2013_a",
+            "alt_id": "18",
+            "entry": "QUACH, S., PEREIRA, J. A., RUSSELL, M. L., WORMSBECKER, A. E. & KWONG, J. 2013. The Good, Bad, and Ugly of Online Recruitment of Parents for Health-Related Focus Groups: Lessons Learned. Journal of Medical Internet Research, 15, e250.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=QUACH%2C%20S.%20PEREIRA%2C%20J.A.%20RUSSELL%2C%20M.L.%20WORMSBECKER%2C%20A.E.%20The%20Good%2C%20Bad%2C%20and%20Ugly%20of%20Online%20Recruitment%20of%20Parents%20for%20Health-Related%20Focus%20Groups%3A%20Lessons%20Learned%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=QUACH%2C%20S.%20PEREIRA%2C%20J.A.%20RUSSELL%2C%20M.L.%20WORMSBECKER%2C%20A.E.%20The%20Good%2C%20Bad%2C%20and%20Ugly%20of%20Online%20Recruitment%20of%20Parents%20for%20Health-Related%20Focus%20Groups%3A%20Lessons%20Learned%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=QUACH%2C%20S.%20PEREIRA%2C%20J.A.%20RUSSELL%2C%20M.L.%20WORMSBECKER%2C%20A.E.%20The%20Good%2C%20Bad%2C%20and%20Ugly%20of%20Online%20Recruitment%20of%20Parents%20for%20Health-Related%20Focus%20Groups%3A%20Lessons%20Learned%202013"
+        },
+        {
+            "id": "Wang_et+al_2020_a",
+            "alt_id": "19",
+            "entry": "WANG, C., HORBY, P. W., HAYDEN, F. G. & GAO, G. F. 2020. A novel coronavirus outbreak of global health concern. The Lancet.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WANG%20C%20HORBY%20P%20W%20HAYDEN%20F%20G%20%20GAO%20G%20F%202020%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20The%20Lancet",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=WANG%20C%20HORBY%20P%20W%20HAYDEN%20F%20G%20%20GAO%20G%20F%202020%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20The%20Lancet",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=WANG%20C%20HORBY%20P%20W%20HAYDEN%20F%20G%20%20GAO%20G%20F%202020%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20The%20Lancet"
+        },
+        {
+            "id": "Weathers_et+al_2013_a",
+            "alt_id": "20",
+            "entry": "WEATHERS, F. W., LITZ, B. T., KEANE, T. M., PALMIERI, P. A., MARX, B. P. & SCHNURR, P. P. 2013. The",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WEATHERS%20F%20W%20LITZ%20B%20T%20KEANE%20T%20M%20PALMIERI%20P%20A%20MARX%20B%20P%20%20SCHNURR%20P%20P%202013%20The",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=WEATHERS%20F%20W%20LITZ%20B%20T%20KEANE%20T%20M%20PALMIERI%20P%20A%20MARX%20B%20P%20%20SCHNURR%20P%20P%202013%20The",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=WEATHERS%20F%20W%20LITZ%20B%20T%20KEANE%20T%20M%20PALMIERI%20P%20A%20MARX%20B%20P%20%20SCHNURR%20P%20P%202013%20The"
+        },
+        {
+            "id": "PTSD_0000_b",
+            "alt_id": "21",
+            "entry": "PTSD Checklist for DSM-5 (PCL-5). Scale available from the National Center for PTSD at www.ptsd.va.gov.",
+            "url": "http://www.ptsd.va.gov",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=PTSD%20Checklist%20for%20DSM5%20PCL5%20Scale%20available%20from%20the%20National%20Center%20for%20PTSD%20at%20wwwptsdvagov",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=PTSD%20Checklist%20for%20DSM5%20PCL5%20Scale%20available%20from%20the%20National%20Center%20for%20PTSD%20at%20wwwptsdvagov"
+        },
+        {
+            "id": "WHO_2019_c",
+            "alt_id": "22",
+            "entry": "WHO Coronavirus disease 2019 (COVID-19): Situation Report-45, 5",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WHO%20Coronavirus%20disease%202019%20COVID19%20Situation%20Report45%205"
+        },
+        {
+            "id": "March_0000_d",
+            "alt_id": "23",
+            "entry": "March 2020. Geneva: World Health",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=March%202020%20Geneva%20World%20Health"
+        },
+        {
+            "id": "Organization_0000_a",
+            "alt_id": "24",
+            "entry": "Organization, (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-",
+            "url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-"
+        },
+        {
+            "id": "45-covid-19.pdf?sfvrsn=ed2ba78b_2)_2020_a",
+            "alt_id": "25",
+            "entry": "45-covid-19.pdf?sfvrsn=ed2ba78b_2) (assessed 6 March, 2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=covid19pdfsfvrsned2ba78b2%20assessed%206%20March%202020"
+        },
+        {
+            "id": "WHO_2020_b",
+            "alt_id": "26",
+            "entry": "WHO WHO Director-General's remarks at the media briefing on 2019-nCoV on 11 February 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WHO%20WHO%20DirectorGenerals%20remarks%20at%20the%20media%20briefing%20on%202019nCoV%20on%2011%20February%202020"
+        },
+        {
+            "id": "Organization_2020_a",
+            "alt_id": "27",
+            "entry": "Organization, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Organization%202020"
+        },
+        {
+            "id": "(https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-brie_0000_e",
+            "alt_id": "28",
+            "entry": "(https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-brie fing-on-2019-ncov-on-11-february-2020) (assessed 12 Feb, 2020).",
+            "url": "https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-brie"
+        },
+        {
+            "id": "K_et+al_2005_a",
+            "alt_id": "29",
+            "entry": "WU, K. K., CHAN, S. K. & MA, T. M. 2005. Posttraumatic stress, anxiety, and depression in survivors of severe acute respiratory syndrome (SARS). J Trauma Stress, 18, 39-42.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WU%2C%20K.K.%20CHAN%2C%20S.K.%20MA%2C%20T.M.%20Posttraumatic%20stress%2C%20anxiety%2C%20and%20depression%20in%20survivors%20of%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=WU%2C%20K.K.%20CHAN%2C%20S.K.%20MA%2C%20T.M.%20Posttraumatic%20stress%2C%20anxiety%2C%20and%20depression%20in%20survivors%20of%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=WU%2C%20K.K.%20CHAN%2C%20S.K.%20MA%2C%20T.M.%20Posttraumatic%20stress%2C%20anxiety%2C%20and%20depression%20in%20survivors%20of%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%202005"
+        },
+        {
+            "id": "P_et+al_2009_a",
+            "alt_id": "30",
+            "entry": "WU, P., FANG, Y., GUAN, Z., FAN, B., KONG, J., YAO, Z., LIU, X., FULLER, C. J., SUSSER, E. & LU, J. 2009.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WU%20P%20FANG%20Y%20GUAN%20Z%20FAN%20B%20KONG%20J%20YAO%20Z%20LIU%20X%20FULLER%20C%20J%20SUSSER%20E%20%20LU%20J%202009"
+        },
+        {
+            "id": "J_et+al_2011_a",
+            "alt_id": "31",
+            "entry": "XU, J., ZHENG, Y., WANG, M., ZHAO, J. & CHENG, Y. 2011. Predictors of symptoms of posttraumatic stress in Chinese university students during the 2009 H1N1 influenza pandemic. Medical",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=XU%20J%20ZHENG%20Y%20WANG%20M%20ZHAO%20J%20%20CHENG%20Y%202011%20Predictors%20of%20symptoms%20of%20posttraumatic%20stress%20in%20Chinese%20university%20students%20during%20the%202009%20H1N1%20influenza%20pandemic%20Medical"
+        },
+        {
+            "id": "Monitor_0000_a",
+            "alt_id": "32",
+            "entry": "Science Monitor International Medical Journal of Experimental & Clinical Research, 17, PH60-4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Monitor%2C%20Science%20International%20Medical",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Monitor%2C%20Science%20International%20Medical",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Monitor%2C%20Science%20International%20Medical"
+        },
+        {
+            "id": "Zhu_et+al_2020_a",
+            "alt_id": "33",
+            "entry": "ZHU, N., ZHANG, D., WANG, W., LI, X., YANG, B., SONG, J., ZHAO, X., HUANG, B., SHI, W., LU, R., NIU, P., ZHAN, F., MA, X., WANG, D., XU, W., WU, G., GAO, G. F., TAN, W., CHINA NOVEL CORONAVIRUS, I. & RESEARCH, T. 2020. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=ZHU%20N%20ZHANG%20D%20WANG%20W%20LI%20X%20YANG%20B%20SONG%20J%20ZHAO%20X%20HUANG%20B%20SHI%20W%20LU%20R%20NIU%20P%20ZHAN%20F%20MA%20X%20WANG%20D%20XU%20W%20WU%20G%20GAO%20G%20F%20TAN%20W%20CHINA%20NOVEL%20CORONAVIRUS%20I%20%20RESEARCH%20T%202020%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=ZHU%20N%20ZHANG%20D%20WANG%20W%20LI%20X%20YANG%20B%20SONG%20J%20ZHAO%20X%20HUANG%20B%20SHI%20W%20LU%20R%20NIU%20P%20ZHAN%20F%20MA%20X%20WANG%20D%20XU%20W%20WU%20G%20GAO%20G%20F%20TAN%20W%20CHINA%20NOVEL%20CORONAVIRUS%20I%20%20RESEARCH%20T%202020%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=ZHU%20N%20ZHANG%20D%20WANG%20W%20LI%20X%20YANG%20B%20SONG%20J%20ZHAO%20X%20HUANG%20B%20SHI%20W%20LU%20R%20NIU%20P%20ZHAN%20F%20MA%20X%20WANG%20D%20XU%20W%20WU%20G%20GAO%20G%20F%20TAN%20W%20CHINA%20NOVEL%20CORONAVIRUS%20I%20%20RESEARCH%20T%202020%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med"
+        }
+    ],
+    "facts": [
+        "Background A novel coronavirus emerged in Wuhan",
+        "the disease caused by SARA-CoV-2",
+        "Method An online anonymous questionnaire survey was conducted in mainland China between 30 January",
+        "The survey consisted of two self-administered questionnaires",
+        "assess participants' PTSS referring to the outbreak",
+        "the disease caused by the novel coronavirus was officially named as COVID-19",
+        "The outbreak of COVID-19 was unique in its rapidity of transmission",
+        "which will lead to chronic symptoms",
+        "a stress-related psychological problem developed by someone who experienced",
+        "which has contributed to a substantial burden on individuals",
+        "exposure to traumatic events is the immediate cause of PTSD",
+        "Research on the mental health of medical staff involved in the 2003 SARS outbreak found that",
+        "Another study showed that about 2% Chinese university students met symptom criteria for PTSD",
+        "one research about the long-term psychiatric morbidities among SARS survivors revealed that PTSD was the",
+        "related risk factors of PTSS were investigated in this study",
+        "friends or acquaintances infected could be identified as predictors of PTSD",
+        "subjective sleep quality were hypothesized as associated factors of PTSS",
+        "since people are bombarded with different messages about the outbreak every day",
+        "less, time was considered as a special factor in the study",
+        "The findings of this study will offer better psychological guidance to people who are in desperate need of help",
+        "Participants This study was conducted in mainland China by using self-administered questionnaires",
+        "Participants whose response time was less than 2 minutes",
+        "more than 30 minutes were excluded to ensure the quality of questionnaires",
+        "Ethics approval for this study was received from the Ethics Committee of the Navy Medical University",
+        "Informed consent was obtained from all participants",
+        "A total of 2091 Chinese participated in the current study",
+        "Multiple linear regression analysis revealed that gender",
+        "which has been widely explored in relevant studies",
+        "People who reside in Hubei Province",
+        "This result is consistent with a study about the psychological impact",
+        "which demonstrated that residents in high SARS-prevalent locations were prone to develop probable",
+        "people living in high infection-prevalent locations perceive",
+        "the lockdown of transport hub in most cities of Hubei Provinces lead to negative psychological impact on residents",
+        "important to note that the exposure history of Wuhan determine the risk of infection",
+        "Alexander suggested that those people who were repeatedly exposed to traumatic events were prone to suffering all kinds of psychological problems",
+        "Declercq found no relationship between the frequency of encountering critical incidents",
+        "Jiahong indicated that knowledge",
+        "Further researches are needed to explore the influence of exposure history of epidemics",
+        "the prevalence of PTSS in health care workers participating in the present study was lower",
+        "Second, health care workers generally know more about the virus than the general public",
+        "The results revealed that the levels of PTSS reported on different date were different",
+        "the level of people's PTSS might be a sign of the cut-off point of the outbreak",
+        "age and education background were found to be not connected with PTSS",
+        "One possible reason might be that the majority of participants enrolled in this study were between",
+        "most Chinese people have been under home quarantine",
+        "makes their PTSS level less affected by age and education background",
+        "The results showed that some Chinese showed acute PTSS during the COVID-19 outbreak",
+        "classification of population could be considered as associated factors for the severity",
+        "this study firstly found that the prevalence of PTSS"
+    ],
+    "claims": [
+        "The female respondents in this study showed higher PTSD levels than the male respondents",
+        "To summarize, this study firstly found that the prevalence of PTSS among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%"
+    ],
+    "findings": [
+        "Multiple linear regression analysis revealed that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictor factors for PTSS",
+        "Significant differences were observed between different gender (t = -5.227, p < 0.001), and female reported more PTSS",
+        "The participants in Hubei province also showed statistically differences in their PCL-5 scores (F = 13.263, p < 0.001)",
+        "It should be noted that the different date that participants filled out also showed significant differences in PCL-5 scores (F = 4.018, p = 0.003)",
+        "In the aspect of subjective sleep quality, participants with worse sleep quality scored higher on PCL-5 (F = 185.707, p < 0.001)",
+        "With regard to the exposure history of Wuhan and classification of population, both of which were connected with the risk of infection, it was demonstrated significant differences between the scores of participants who had exposure history or not (p < 0.01), as well as participants belong to different classifications of population (p < 0.001)",
+        "It was noteworthy that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictive factors for PTSS",
+        "The amount of total variation accounted for by these variables in the PCL-5 scores was significant (R2 = 23.2%, F = 180.835, p < 0.001)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "A total of 2091 Chinese participated in the current study",
+        "Multiple linear regression analysis revealed that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictor factors for posttraumatic stress symptoms",
+        "The results showed that some Chinese showed acute posttraumatic stress symptoms during the COVID-19 outbreak",
+        "On 11 February, 2020, the disease caused by the novel coronavirus was officially named as COVID-19 by World Health Organization (WHO) (WHO)",
+        "As the outbreak continuously escalates, it will not only raise public health concerns but cause tremendous psychological distress, especially the development of posttraumatic stress disorder (PTSD), which will lead to chronic symptoms, such as intrusive memories, avoidance behaviors, irritability, and emotional numbing, if isn\u2019t treated",
+        "posttraumatic stress disorder is a stress-related psychological problem developed by someone who experienced or witnessed a life-threatening traumatic event, which has contributed to a substantial burden on individuals and the society(<a class=\"ref-link\" id=\"cKessler_2000_a\" href=\"#rKessler_2000_a\">Kessler, 2000</a>)",
+        "Research on the mental health of medical staff involved in the 2003 SARS outbreak found that about 10% of the sample reported high levels of posttraumatic stress disorder symptoms(Wu et al, 2009)",
+        "Another study showed that about 2% Chinese university students met symptom criteria for posttraumatic stress disorder during the 2009 H1N1 pandemic(Xu et al, 2011)",
+        "One research about the long-term psychiatric morbidities among SARS survivors revealed that posttraumatic stress disorder was the most common long-term psychiatric disorder; the cumulative incidence of posttraumatic stress disorder in the 30 months since the SARS outbroke was 47.8%(<a class=\"ref-link\" id=\"cMak_et+al_2009_a\" href=\"#rMak_et+al_2009_a\">Mak et al, 2009</a>)",
+        "Existing literature pointed out that gender, age, the degree of exposure, having been infected, and having family, friends or acquaintances infected could be identified as predictors of posttraumatic stress disorder during outbreaks of infectious diseases, such as SARS and H1N1(Xu et al, 2011, <a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>)",
+        "Gender, age, education background, current location, exposure history of Wuhan, risk of infection, and subjective sleep quality were hypothesized as associated factors of posttraumatic stress symptoms in this study",
+        "Participants whose response time was less than 2 minutes or more than 30 minutes were excluded to ensure the quality of questionnaires",
+        "Gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population could be considered as associated factors for the severity of posttraumatic stress symptoms",
+        "People who reside in Hubei Province, the original and worst disaster-affected area, reported the highest level of posttraumatic stress symptoms. This result is consistent with a study about the psychological impact of SARS, which demonstrated that residents in high SARS-prevalent locations were prone to develop probable posttraumatic stress disorder(<a class=\"ref-link\" id=\"cLee_et+al_2006_a\" href=\"#rLee_et+al_2006_a\">Lee et al, 2006</a>)",
+        "Declercq found no relationship between the frequency of encountering critical incidents and the occurrence of posttraumatic stress disorder symptoms(F et al, 2011)",
+        "Further researches are needed to explore the influence of exposure history of epidemics on the posttraumatic stress symptoms",
+        "Compared with the estimated rate of morbidity in health workers at the initial phase of SARS outbreak, which was 75.3%(<a class=\"ref-link\" id=\"cChong_et+al_2004_a\" href=\"#rChong_et+al_2004_a\">Chong et al, 2004</a>), and the percentage of medical staff who reported high levels of posttraumatic stress disorder symptoms during SARS in another study, which was 10%(Wu et al, 2009), the prevalence of posttraumatic stress symptoms in health care workers participating in the present study was lower",
+        "Most Chinese people have been under home quarantine as soon as the infection became worse, so they share almost the same information about the epidemic situation, which makes their posttraumatic stress symptoms level less affected by age and education background",
+        "This study firstly found that the prevalence of posttraumatic stress symptoms among the public in mainland China 1 month after the COVID-19 outbreak was 4.6%"
+    ],
+    "top_statements": [
+        "A novel coronavirus, now named as SARA-CoV-2 by the Coronavirus Study Group (CSG)(Gorbalenya et al, 2020), was reported in China in December 2019(<a class=\"ref-link\" id=\"cZhu_et+al_2020_a\" href=\"#rZhu_et+al_2020_a\">Zhu et al, 2020</a>)",
+        "Multiple linear regression analysis revealed that gender (p < 0.001), exposure history of Wuhan (p = 0.047), classification of population (p < 0.001), and subjective sleep quality (p < 0.001) could be regarded as predictor factors for posttraumatic stress symptoms",
+        "The results showed that some Chinese showed acute posttraumatic stress symptoms during the COVID-19 outbreak",
+        "On 11 February, 2020, the disease caused by the novel coronavirus was officially named as COVID-19 by World Health Organization (WHO) (WHO)",
+        "Gender, current location, reporting date, subjective sleep quality, exposure history of Wuhan, and classification of population could be considered as associated factors for the severity of posttraumatic stress symptoms",
+        "Most Chinese people have been under home quarantine as soon as the infection became worse, so they share almost the same information about the epidemic situation, which makes their posttraumatic stress symptoms level less affected by age and education background"
+    ],
+    "headline": "Multiple linear regression analysis revealed that gender, exposure history of Wuhan, classification of population, and subjective sleep quality could be regarded as predictor factors for posttraumatic stress symptoms",
+    "contexts": [],
+    "abbreviations": {
+        "PTSS": "posttraumatic stress symptoms",
+        "PCL-5": "PTSD Checklist for DSM-5",
+        "CSG": "Coronavirus Study Group",
+        "WHO": "World Health Organization",
+        "NHC": "National Health Commission",
+        "PTSD": "posttraumatic stress disorder"
+    }
+}

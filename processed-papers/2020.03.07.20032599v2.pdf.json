@@ -1,0 +1,661 @@
+{
+    "filename": "2020.03.07.20032599v2.pdf",
+    "content_type": "application/pdf",
+    "file_size": 404265,
+    "metadata": {
+        "title": "Analysis of early renal injury in COVID-19 and diagnostic value of multi-index combined detection",
+        "author": "Xu-wei Hong, Ze-pai Chi, Guo-yuan Liu, Hong Huang, Shun-qi Guo, Jing-ru Fan, Xian-wei Lin, Liao-zhun Qu, Rui-lie Chen, Ling-jie Wu, Liang-yu Wang, Qi-chuan Zhang, Su-wu Wu, Ze-qun Pan, Hao Lin, Yu-hua Zhou10, Yong-hai Zhang,* \u2020These authors contributed equally to this work",
+        "date": 2020,
+        "affiliations": [
+            "Department of Urology, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Urology, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Emergency, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Laboratory medicine, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Nephrology, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Infectious Diseases, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Ultrasonic Medicine, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Respiratory Medicine, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Department of Intensive Care Unit, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Medical Department, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China",
+            "Nursing Department, Shantou Central Hospital, Shantou 515031, Guangdong Province, People\u2019s Republic of China"
+        ],
+        "journal": "Keywords",
+        "volume": "20",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.07.20032599",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.07.20032599v2.pdf"
+        },
+        "abstract": "Objectives The aim of the study was to analyze the incidence of COVID-19 with early renal injury, and to explore the value of multi-index combined detection in diagnosis of early renal injury in COVID-19. Design The study was an observational, descriptive study. Setting This study was carried out in a tertiary hospital in Guangdong, China. Participants 12 patients diagnosed with COVID-19 from January 20, 2020 to February 20, 2020. Primary and secondary outcome measures The primary outcome was to evaluate the incidence of early renal injury in COVID-19. In this study, the estimated glomerular filtration rate (eGFR), endogenous creatinine clearance (Ccr) and urine microalbumin / urinary creatinine ratio (UACR) were calculated to assess the incidence of early renal injury. Secondary outcomes were the diagnostic value of urine microalbumin (UMA), \u03b11-microglobulin (A1M), urine immunoglobulin-G (IGU), urine transferring (TRU) alone and in combination in diagnosis of COVID-19 with early renal injury. Results While all patients had no significant abnormalities in serum creatinine (Scr) and blood urea nitrogen (BUN), the abnormal rates of eGFR, Ccr, and UACR were 66.7%, 41.7%, and 41.7%, respectively. Urinary microprotein detection indicated that the area under curve (AUC) of multi-index combined to diagnose early renal injury in COVID-19 was 0.875, which was higher than UMA (0,813), A1M (0.813), IGU (0.750) and TRU (0.750) alone. Spearman analysis showed that the degree of early renal injury was significantly related to C-reactive protein (CRP) and neutrophil ratio (NER), suggesting that the more severe the infection, the more obvious the early renal injury. Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury.",
+        "keywords": [
+            "2019-nCoV",
+            "COVID-19",
+            "Early renal injury",
+            "Urinary microprotein"
+        ],
+        "references": "@book{wang2020a,\n  author = {Wang, C. and Horby, P.W. and Hayden, F.G.},\n  unknown = {et al},\n  date = {2020},\n  title = {A novel coronavirus outbreak of global health concern},\n  publisher = {Lancet 395},\n  doi = {10223},\n  pages = {470\u2013473},\n  unmatched-doi = {doi: 10.1016/s0140-6736(20)30185-9},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N. and Zhang, D. and Wang, W.},\n  unknown = {et al},\n  date = {2020},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {The New England journal of medicine},\n  volume = {382},\n  pages = {727\u2013733},\n  doi = {doi: 10.1056/NEJMoa2001017},\n  language = {}\n}\n@article{munster2020a,\n  author = {Munster, V.J. and Koopmans, M. and van Doremalen, N.},\n  unknown = {et al},\n  date = {2020},\n  title = {A Novel Coronavirus Emerging in China - Key Questions for Impact Assessment},\n  journal = {The New England journal of medicine},\n  volume = {382},\n  pages = {692\u2013694},\n  doi = {doi: 10.1056/NEJMp2000929},\n  language = {}\n}\n@book{perlman2020a,\n  author = {Perlman, S.},\n  date = {2020},\n  title = {Another Decade, Another Coronavirus. The New England journal of medicine 382},\n  publisher = {},\n  pages = {760\u2013762},\n  doi = {doi: 10.1056/NEJMe2001126},\n  language = {}\n}\n@article{heymann2020a,\n  author = {Heymann, D.L. and Shindo, N.},\n  date = {2020},\n  title = {COVID- 19: what is next for public health?},\n  journal = {Lancet},\n  volume = {395},\n  pages = {542\u2013545},\n  doi = {doi: 10.1016/s0140-6736(20)30374-3},\n  number = {10223},\n  language = {}\n}\n@article{unknown2020a,\n  title = {Expert Group of China National Health Commission and Administration of Traditional Chinese Medicine},\n  date = {2020},\n  doi = {doi:http://kns.cnki.net/kcms/detail/11.2787},\n  publisher = {R.20200208.1034.002.html 7. Wang LH},\n  journal = {Chinese Journal of Experimental and Clinical Infectious Diseases},\n  source = {guidelines for diagnosis and treatment of New Coronavirus Pneumonia (Trial Version 5). Chinese Journal of Integrated Traditional and Western Medicine},\n  unmatched-publisher = {(Electronic Edition)},\n  language = {}\n}\n@misc{unknown-a,\n  doi = {doi:http://kns.cnki.net/kcms/detail/11.9284.r.20200212.1113.002.html},\n  title = {8},\n  language = {}\n}\n@book{huang2020a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  unknown = {et al},\n  date = {2020},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  publisher = {Lancet 395},\n  doi = {10223},\n  pages = {497\u2013506},\n  unmatched-doi = {doi: 10.1016/s0140-6736(20)30183-5},\n  language = {}\n}\n@book{chen2020a,\n  author = {Chen, N. and Zhou, M. and Dong, X.},\n  unknown = {et al},\n  date = {2020},\n  title = {Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study},\n  publisher = {Lancet 395},\n  doi = {10223},\n  pages = {507\u2013513},\n  unmatched-doi = {doi: 10.1016/s0140-6736(20)30211-7},\n  language = {}\n}\n@article{zumla2016a,\n  author = {Zumla, A. and Chan, J.F. and Azhar, E.I.},\n  unknown = {et al},\n  date = {2016},\n  title = {Coronaviruses - drug discovery and therapeutic options},\n  journal = {Nature reviews Drug discovery 15},\n  pages = {327\u2013347},\n  doi = {doi: 10.1038/nrd.2015.37},\n  language = {}\n}\n@article{zhou2020a,\n  author = {Zhou, P. and Yang, X.L. and Wang, X.G.},\n  unknown = {et al},\n  date = {2020},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  journal = {Nature},\n  doi = {doi: 10.1038/s41586-020-2012-7},\n  language = {}\n}\n@book{chu2005a,\n  author = {Chu, K.H. and Tsang, W.K. and Tang, C.S.},\n  unknown = {et al},\n  date = {2005},\n  title = {Acute renal impairment in coronavirus-associated severe acute respiratory syndrome},\n  publisher = {Kidney international 67},\n  doi = {2},\n  pages = {698\u2013705},\n  unmatched-doi = {doi: 10.1111/j.1523-1755.2005.67130.x},\n  language = {}\n}\n@misc{li2020a,\n  author = {Li, Z. and Wu, M. and Guo, J.},\n  unknown = {et al},\n  date = {2020},\n  title = {Caution on Kidney Dysfunctions of 2019-nCoV Patients. MedRxiv},\n  doi = {doi: https://doi.org/10.1101/2020.02.08.20021212},\n  language = {}\n}\n@book{zou2020a,\n  author = {Zou, X. and Chen, K. and Zou, J.W.},\n  unknown = {et al},\n  date = {2020},\n  title = {The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection},\n  publisher = {Frontiers Journals of Medicine},\n  doi = {doi},\n  url = {https://doi.org/10.1007/s11684-020-0754-0},\n  language = {}\n}\n@article{chen2011a,\n  author = {Chen, L. and Li, J.X. and Huang, X.B.},\n  unknown = {et al},\n  date = {2011},\n  title = {Determination and its significance of the ratio of urine microalbumin to urine cretinine in patients with nephrolithiasis complicated with renal insufficiency},\n  journal = {Journal of Peking University(Health Sciences)},\n  pages = \"43\" # \"757-760.\",\n  publisher = {},\n  doi = {5},\n  url = {http://xuebao.bjmu.edu.cn/EN/Y2011/V43/I5/757},\n  unmatched-pages = {757-760.},\n  unmatched-doi = {doi:},\n  language = {}\n}\n@book{nordberg2007a,\n  author = {Nordberg, J. and Allhorn, M. and Winqvist, I.},\n  unknown = {et al},\n  date = {2007},\n  title = {Quantitative and qualitative evaluation of plasma and urine alpha1-microglobulin in healthy donors and patients with different haemolytic disorders and haemochromatosis. Clinica chimica acta 386},\n  publisher = {},\n  doi = {1-2},\n  pages = {31\u201337},\n  unmatched-doi = {doi: 10.1016/j.cca.2007.07.017},\n  language = {}\n}\n@incollection{hou2019a,\n  author = {Hou, J. and Cheng, Y. and Hou, Y.},\n  unknown = {et al},\n  date = {2019},\n  title = {Lower Serum and Higher Urine Immunoglobulin G Are Associated with an Increased Severity of Idiopathic Membranous Nephropathy. Annals of clinical and laboratory science 49},\n  pages = {777\u2013784},\n  editor = {Casanova, A.G. and Vicente-Vicente, L. and Hernandez-Sanchez, M.T.},\n  publisher = {Biomedicine & pharmacotherapy 121: 109684},\n  doi = {doi: 10.1016/j.biopha.2019.1096},\n  unmatched-unknown = {et al},\n  source = {Urinary transferrin pre-emptively identifies the risk of renal damage posed by subclinical tubular alterations},\n  language = {}\n}\n",
+        "emails": [
+            "zhang_yonghai@126.com"
+        ],
+        "references_ris": "TY  - BOOK\nAU  - Wang, C.\nAU  - Horby, P.W.\nAU  - Hayden, F.G.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - A novel coronavirus outbreak of global health concern\nPB  - Lancet 395\nDO  - 10223\nSP  - 470\nEP  - 473\nC1  - doi: 10.1016/s0140-6736(20)30185-9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - The New England journal of medicine\nVL  - 382\nSP  - 727\nEP  - 733\nDO  - 10.1056/NEJMoa2001017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Munster, V.J.\nAU  - Koopmans, M.\nAU  - van Doremalen, N.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - A Novel Coronavirus Emerging in China - Key Questions for Impact Assessment\nT2  - The New England journal of medicine\nVL  - 382\nSP  - 692\nEP  - 694\nDO  - 10.1056/NEJMp2000929\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Perlman, S.\nPY  - 2020\nDA  - 2020\nTI  - Another Decade, Another Coronavirus. The New England journal of medicine 382\nPB  - \nSP  - 760\nEP  - 762\nDO  - 10.1056/NEJMe2001126\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Heymann, D.L.\nAU  - Shindo, N.\nPY  - 2020\nDA  - 2020\nTI  - COVID- 19: what is next for public health?\nT2  - Lancet\nVL  - 395\nSP  - 542\nEP  - 545\nDO  - 10.1016/s0140-6736(20)30374-3\nIS  - 10223\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Expert Group of China National Health Commission and Administration of Traditional Chinese Medicine\nPY  - 2020\nDA  - 2020\nDO  - http://kns.cnki.net/kcms/detail/11.2787\nPB  - R.20200208.1034.002.html 7. Wang LH\nT2  - Chinese Journal of Experimental and Clinical Infectious Diseases\nT2  - guidelines for diagnosis and treatment of New Coronavirus Pneumonia (Trial Version 5). Chinese Journal of Integrated Traditional and Western Medicine\nC1  - (Electronic Edition)\nLA  - \nER  - \n\nTY  - GEN\nDO  - http://kns.cnki.net/kcms/detail/11.9284.r.20200212.1113.002.html\nTI  - 8\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nPB  - Lancet 395\nDO  - 10223\nSP  - 497\nEP  - 506\nC1  - doi: 10.1016/s0140-6736(20)30183-5\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Chen, N.\nAU  - Zhou, M.\nAU  - Dong, X.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study\nPB  - Lancet 395\nDO  - 10223\nSP  - 507\nEP  - 513\nC1  - doi: 10.1016/s0140-6736(20)30211-7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zumla, A.\nAU  - Chan, J.F.\nAU  - Azhar, E.I.\nC1  - et al\nPY  - 2016\nDA  - 2016\nTI  - Coronaviruses - drug discovery and therapeutic options\nT2  - Nature reviews Drug discovery 15\nSP  - 327\nEP  - 347\nDO  - 10.1038/nrd.2015.37\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nAU  - Yang, X.L.\nAU  - Wang, X.G.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nT2  - Nature\nDO  - 10.1038/s41586-020-2012-7\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Chu, K.H.\nAU  - Tsang, W.K.\nAU  - Tang, C.S.\nC1  - et al\nPY  - 2005\nDA  - 2005\nTI  - Acute renal impairment in coronavirus-associated severe acute respiratory syndrome\nPB  - Kidney international 67\nDO  - 2\nSP  - 698\nEP  - 705\nC1  - doi: 10.1111/j.1523-1755.2005.67130.x\nLA  - \nER  - \n\nTY  - GEN\nAU  - Li, Z.\nAU  - Wu, M.\nAU  - Guo, J.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - Caution on Kidney Dysfunctions of 2019-nCoV Patients. MedRxiv\nDO  - https://doi.org/10.1101/2020.02.08.20021212\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Zou, X.\nAU  - Chen, K.\nAU  - Zou, J.W.\nC1  - et al\nPY  - 2020\nDA  - 2020\nTI  - The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection\nPB  - Frontiers Journals of Medicine\nDO  - doi\nUR  - https://doi.org/10.1007/s11684-020-0754-0\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, L.\nAU  - Li, J.X.\nAU  - Huang, X.B.\nC1  - et al\nPY  - 2011\nDA  - 2011\nTI  - Determination and its significance of the ratio of urine microalbumin to urine cretinine in patients with nephrolithiasis complicated with renal insufficiency\nT2  - Journal of Peking University(Health Sciences)\nSP  - \"43\" # \"757\nEP  - 760.\"\nPB  - \nDO  - 5\nUR  - http://xuebao.bjmu.edu.cn/EN/Y2011/V43/I5/757\nC1  - 757-760.\nC1  - doi:\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Nordberg, J.\nAU  - Allhorn, M.\nAU  - Winqvist, I.\nC1  - et al\nPY  - 2007\nDA  - 2007\nTI  - Quantitative and qualitative evaluation of plasma and urine alpha1-microglobulin in healthy donors and patients with different haemolytic disorders and haemochromatosis. Clinica chimica acta 386\nPB  - \nDO  - 1-2\nSP  - 31\nEP  - 37\nC1  - doi: 10.1016/j.cca.2007.07.017\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Hou, J.\nAU  - Cheng, Y.\nAU  - Hou, Y.\nC1  - et al\nPY  - 2019\nDA  - 2019\nTI  - Lower Serum and Higher Urine Immunoglobulin G Are Associated with an Increased Severity of Idiopathic Membranous Nephropathy. Annals of clinical and laboratory science 49\nSP  - 777\nEP  - 784\nA2  - Casanova, A.G.\nA2  - Vicente-Vicente, L.\nA2  - Hernandez-Sanchez, M.T.\nPB  - Biomedicine & pharmacotherapy 121: 109684\nDO  - 10.1016/j.biopha.2019.1096\nC1  - et al\nT2  - Urinary transferrin pre-emptively identifies the risk of renal damage posed by subclinical tubular alterations\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Laboratory test results of the COVID-19 patients"
+            },
+            {
+                "id": "2",
+                "caption": "Renal function indexes of the COVID-19 patients"
+            },
+            {
+                "id": "3",
+                "caption": "Laboratory indexes related to early renal injury in COVID-19"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "ROC curves of urinary microprotein (UMA, A1M, IGU, TRU and multi-index combined) in predicting early renal injury in COVID-19"
+            },
+            {
+                "id": "2",
+                "caption": "Significant linear correlation between renal function indicators (eGFR, Ccr, UACR) and some biochemical indicators (CRP, NER, MOR, K, Na). (CI: Correlation index; eGFR: estimated glomerular filtration rate; Ccr: endogenous creatinine clearance; UACR: urine microalbumin/creatinine ratio; CRP: C-reactive protein; NER: neutrophil ratio; MOR: monocyte ratio; K: serum potassium; Na: serum sodium). Significant linear correlation between renal function indicators (eGFR, Ccr, UACR) and some biochemical indicators (CRP, NER, MOR, K, Na). (eGFR: estimated glomerular filtration rate; Ccr: endogenous creatinine clearance; UACR: urine microalbumin/creatinine ratio; CRP: C-reactive protein; NER: neutrophil ratio; MOR: monocyte ratio; K: serum potassium; Na: serum sodium)"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.07.20032599v2.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032599v2/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032599v2/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.07.20032599v2/img-002.png"
+        ]
+    },
+    "sections": {
+        "objectives": [
+            "The aim of the study was to analyze the incidence of COVID-19 with early renal injury, and to explore the value of multi-index combined detection in diagnosis of early renal injury in COVID-19. Design The study was an observational, descriptive study. Setting This study was carried out in a tertiary hospital in Guangdong, China. Participants 12 patients diagnosed with COVID-19 from January 20, 2020 to February 20, 2020. Primary and secondary outcome measures The primary outcome was to evaluate the incidence of early renal injury in COVID-19. In this study, the estimated glomerular filtration rate (eGFR), endogenous creatinine clearance (Ccr) and urine microalbumin / urinary creatinine ratio (UACR) were calculated to assess the incidence of early renal injury. Secondary outcomes were the diagnostic value of urine microalbumin (UMA), \u03b11-microglobulin (A1M), urine immunoglobulin-G (IGU), urine transferring (TRU) alone and in combination in diagnosis of COVID-19 with early renal injury. Results While all patients had no significant abnormalities in serum creatinine (Scr) and blood urea nitrogen (BUN), the abnormal rates of eGFR, Ccr, and UACR were 66.7%, 41.7%, and 41.7%, respectively. Urinary microprotein detection indicated that the area under curve (AUC) of multi-index combined to diagnose early renal injury in COVID-19 was 0.875, which was higher than UMA (0,813), A1M (0.813), IGU (0.750) and TRU (0.750) alone. Spearman analysis showed that the degree of early renal injury was significantly related to C-reactive protein (CRP) and neutrophil ratio (NER), suggesting that the more severe the infection, the more obvious the early renal injury. Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury."
+        ],
+        "conclusions": [
+            "Early renal injury was common in patients with COVID-19. Combined detection of UMA, A1M, IGU, and TRU was helpful for the diagnosis of early renal injury in COVID-19.<br/><br/>Keywords 2019-nCoV, COVID-19, Early renal injury, Urinary microprotein, Multiple indexes",
+            "This study found that early renal injury was common in patients with COVID-19. Combined detection of UMA, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19. The 12 cases of COVID-19 reported in this study were all healed and discharged after being treated with antivirals, maintaining water and electrolyte balance, enhancing immunity, oxygen therapy, and traditional chinses medicine treatment. In the process of diagnosis and treatment, the assessment of early injury of important organs and comprehensive protective treatment has played a key role. In particular, in the diagnosis of early renal injury, evidence of COVID-19 with renal injury could be found in time by combining multiple indexes detection. Then, by performing comprehensive treatment measures, such as stopping the use of nephrotoxic drugs timely, maintaining water-electrolyte and acid-base balance and performing effective organ support treatment et al, the complications can be reduced effectively and the prognosis can be improved significantly."
+        ],
+        "introduction": [
+            "Since December 2019, unexplained clustered pneumonia cases have started to appear in Wuhan, Hubei Province, China. It is identified as a pneumonia caused by a novel coronavirus infection.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The World Health Organization (WHO) named the coronavirus 2019-nCoV, which was the third coronavirus that infects humans from wild hosts across germlines after severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) and can cause severe pneumonia. It is also the seventh species of pathogenic human respiratory coronaviruses.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] On February 11, 2020, the WHO named the novel coronavirus-infected disease2019 novel coronavirus disease shorted for COVID-19. With the spread of the epidemic, other cases in China and abroad have also occurred.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] As of February 22, 2020, a total of 76,396 cases were diagnosed in China, including 11,477 severe cases and 2,348 deaths.<br/><br/>The main symptoms of COVID-19 are fever, dry cough, and fatigue. A few patients have symptoms of nasal congestion, runny nose, sore throat, and diarrhea. Severe patients usually develop dyspnea and / or hypoxemia one week after the onset of the disease. In severe cases, they quickly develop into acute respiratory distress syndrome (ARDS), septic shock, and multiple organ injury such as cardiac, hepatic, and renal injury.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] The 2019-nCoV human infection cases combine the characteristics of the previous 6 coronaviruses, which can cause mild cases, easily lose vigilance, and can also cause severe cases, with a high mortality rate. [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] Multiple organ failure is the main cause of death of COVID-19. The latest research reports that the incidence of COVID-19 with organ dysfunction is about 33%, of which the acute renal injury is about 3 ~ 7%. [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Impaired renal function can lead to obstruction of excretion of metabolites and toxins in the body, which will adversely affect the maintenance of the electrolyte and acid-base balance of the human body. In addition, when renal function is severely damaged, uremia will occur and endanger life. Early detection of evidence of renal injury and timely effective interventions are of great significance for reducing complications and improving prognosis.<br/><br/>This study intends to use a number of laboratory test indexes, including serum creatinine, blood urea nitrogen, urine creatinine, urine microalbumin and urine microglobulin et al to comprehensively assess renal function and determine the incidence of COVID-19 with early renal injury. The related risk factors of COVID-19 with early renal injury were also analyzed."
+        ],
+        "methods": [
+            "Patients From January 20, 2020 to February 20, 2020, 12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong, China. Nasopharyngeal swab samples of all patients were tested positive for 2019-nCoV virus nucleic acid and confirmed to be infected with 2019-nCoV by Guangdong Province CDC (Center for Disease Control and Prevention). The disease diagnostic criteria and case classification were refer to the guidelines for diagnosis and treatment of COVID-19 (Trial Version 5) issued by China National Health Commission.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]<br/><br/>Data collection A standardized case collection form was designed to collect laboratory data of the included patients. It mainly included the following items: (1) blood routine; (2) biochemical indexes of kidney, liver, and heart function; (3) coagulation function; (5) infection indexes.",
+            "The area under curves (AUC) of receiver operating characteristic (ROC) were calculated for predictive analysis. Spearman rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables. It was considered statistically significant when the P value was less than 0.05. All statistical analyses were processed using SPSS 25.0 statistical software.<br/><br/>Patient and public involvement Patients were not directly involved in the design, planning and conducting of this study."
+        ],
+        "evaluation": [
+            "<strong>Evaluation of renal function</strong><br/><br/>Serum creatinine (Scr), blood urea nitrogen (BUN), urine creatinine (Ucr), urine protein (PRO), urine microalbumin (UMA), \u03b11-microglobulin (A1M), urine immunoglobulin G (IGU), and urine transferrin (TRU) were detected. The estimated glomerular filtration rate (eGFR), endogenous creatinine clearance (Ccr), and urine microalbumin/creatinine ratio (UACR) were calculated.<br/><br/>Among them, the eGFR was calculated according to the simplified MDRD formula modified by the Chinese.<br/><br/>( ) ( ) eGFR=186\u00d7Scr(umol/L) \u03041.154\u00d7Age year-old0.203 female\u00d70.742<br/><br/>(the Counahan-Barrat method was applied when the patient is younger than 14year-old)<br/><br/>The Ccr was calculated according to Cockcroft's formula.<br/><br/>( ) ( ) ( ) Ccr=[140-Age year-old ] \u00d7weight kg \u00f7[0.818\u00d7Scr(umol/L)] female\u00d70.85<br/><br/>In this study, two or more abnormalities of eGFR, Ccr and UACR were defined as early renal injury."
+        ],
+        "results": [
+            "Laboratory characteristics of the COVID-19 patients Of the 12 patients with COVID-19, 2 were severe patients, 8 were general patients, and 2 were light patients. Laboratory testing items included blood routine, electrolyte, metabolism, heart, liver, kidney function indicators, coagulation function and infection indicators. As shown in Table 1, the common abnormal indicators (abnormal<br/><br/>\u2265 rate 50%) included: increased neutrophil ratio (50%), increased monocyte ratio (75%), hypokalemia (50%), hyponatremia (50%), hypoproteinemia (75%), and increased C-reactive protein (83.3%).<br/><br/>Incidence of COVID-19 with early renal injury As shown in Table 2, Scr and BUN were not significantly abnormal in 12 patients. However, the calculation of eGFR and Ccr showed that early renal injury was common in COVID-19 patients. Among them, 66.7% patients had reduced eGFR and 41.7% patients had reduced Ccr. Urinary microprotein test also confirmed that COVID-19 with early renal injury was common, with UACR> 30mg / g accounting for 41.7%. Among the 12 patients, the abnormally elevated rates of UMA, A1M, IGU, and TRU were 33.3%, 33.3%, 41.7%, and 16.7%, respectively. The positive rate of the four-index combined was 58.3%. The results suggested that case 3, 5, 6, and 7 were significant early kidney injury cases.<br/><br/>Urinary microprotein detection in diagnosis of early renal injury in COVI D-19 The AUC of UMA, A1M, IGU, and TRU for the diagnosis of early renal injury in COVID-19 were 0.813, 0.813, 0.750, and 0.750 respectively, while the AUC of the combined index of UMA + A1M + IGU + TRU was 0.875, suggesting that the multi-index combined was helpful for the diagnosis of early renal injury in COVID-19, as shown in Fig 1.<br/><br/>Factors related to early renal injury in COVID-19 In this study, Spearman correlation coefficients were used to evaluate the correlation between renal function indicators (eGFR, Ccr, and UACR) and the obviously abnormal biochemical indicators (C-reactive protein (CRP), neutrophil ratio (NER), monocyte ratio (MOR), serum potassium (K), serum sodium (Na), and albumin (ALB)). As shown in Table 3, it was found that eGFR was negatively correlated with CRP and NER, and positively correlated with serum K, Ccr was negatively correlated with CRP and NER, and positively correlated with MOR and serum Na, and UACR was positively correlated with CRP, and negatively correlated with serum K (Fig 2). The results suggested that the more severe the infection, the more obvious the early renal injury, and the early renal injury in COVID-19 can often cause hypokalemia and hyponatremia."
+        ],
+        "discussion": [
+            "Coronaviruses are single-stranded positive-strand RNA viruses. In 2014, the International Virological Classification Committee classified them into four genera: \u03b1, \u03b2, \u03b3, and \u03b4 according to serotype and genomic characteristics. There are six known types of coronaviruses that infect humans: \u03b1-genus 229E, NL63; \u03b2-genus OC43, HKU1, SARSr-CoV and MERSr-CoV.[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Previous case reports suggest that the spectrum of diseases caused by coronavirus infection is polarized. For example, 229E and NL63 in the \u03b1-genus, and OC43 and HKU1 in the \u03b2-genus often cause common colds, which are mainly mild, usually without obvious fever, or only low fever. Usually, it is self-limiting and heals without special treatment. However, the other two coronaviruses in the \u03b2-genus, SARSr-CoV and MERSr-CoV, often cause acute respiratory syndrome. They mainly cause severe pneumonia, with obvious clinical symptoms, such as fever, dry cough, acute respiratory symptoms and fatigue. Usually, Obvious changes can be found in lung imaging. They are two types of coronavirus pneumonia that require close observation and intensive medical treatment. The 2019-nCov identified this time is a \u03b2-genus coronavirus. The diseases caused by its infection combines the characteristics of the previous six coronaviruses, and the disease spectrum is broad.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]<br/><br/>Peng Zhou et al[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] reported the identification and characterization of 2019-nCoV. Through full-length genome sequences analysis, they found that the whole genome of 2019-nCoV shared 79.5% sequence identify to SARS-CoV. The pairwise protein sequence analysis of seven conserved non-structural proteins showed that this virus belongs to the species of severe acute respirator syndrome-related coronaviruses (SARSr-CoV). In addition, they also confirmed that 2019-nCov used the same cell entry receptor, Angiotensin converting enzyme II (ACE2), as SARS-CoV. The high degree of similarity in gene sequence and cellular mechanism of 2019-nCoV and SARS-CoV suggests that the risk factors of mortality could also be similar. SARS is an acute respiratory infectious disease with pulmonary parenchyma and/or interstitium as the main site of invasion and multiple organ injury. Previous clinical studies have found that, similar to SARS, the causes of death caused by 2019-nCov are not only lung tissue damage, but also heart, liver, kidney and other organ dysfunction or even failure, which is one of the important causes of aggravation and death.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] In the previous SARS case study[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], acute renal injury was found to be the top risk factor of mortality, even higher than acute respiratory distress. In that case study, all patients who eventually died had a progressive rise of Scr, and the rise of Scr was rapid in those who succumbed early in their illness. Previously, an ongoing case study reported 59 patients infected by 2019-nCoV, including 28 severe cases and 3 death. In that study, 63% of the patients exhibited proteinuria, and 19% and 27% of the patients had an elevated level of Scr and BUN respectively. Computed tomography (CT) scans revealed abnormal renal imaging in all patients. The results suggested that renal injury was common in COVID-19, which may contribute to multiorgan failure and death eventually.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]<br/><br/>In this study, 12 COVID-19 cases were analyzed. Although all the patients still had normal level of Scr and BUN, the high incidence of early renal injury in COVID-19 was found by calculating eGFR, CCR and UACR. The abnormal rates of eGFR, Ccr, and UACR were 66.7%, 41.7%, and 41.7%, respectively. Combined detection of UMA, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19. Furthermore, the study also found that the degree of early renal injury was significantly related to C-reactive protein (CRP) and neutrophil ratio (NER), suggesting that the more severe the infection, the more obvious the early renal injury. Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury. Xin Zou et al[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] analyzed the single-cell RNA sequencing datasets to explore the expression of ACE2 in the main physiological systems of the human body, including the respiratory, cardiovascular, digestive and urinary system. The study showed that heart, esophagus, kidney, bladder, and ileum have similar or higher ACE2 expression than in alveoli. In the analysis of specific cell types, the expression of ACE2 in renal proximal tubule cells was about four times higher than that of type II alveolar cells (AT2). The results suggest that the kidney may be one of the primary targets of attack for the 2019-nCov.<br/><br/>Scr and BUN are commonly used indicators for the detection of renal function. However, the sensitivity of both of them is poor. Usually, abnormalities occur only when renal function is significantly damaged, as results, they cannot be used as indicators for evaluating early renal injury. Urine microprotein refers to some proteins that are difficult to detect by conventional qualitative or quantitative methods. The detection of urine microprotein can detect the kidney and some other organs' functional status early. Urine microalbumin is a sensitive indicator of early glomerular injury. Microalbumin has a small molecular weight and is negatively charged. Normally, due to the charge selection barrier of the glomerular filtration membrane, the majority of urine microalbumin cannot pass through the filtration membrane under the action of electrostatic homogeneous repulsion. In the early stage of renal function injury, the charge selectivity of the glomerular filtration membrane decreases, the pore size on the glomerular filtration membrane increases, and the negatively charged structural components of the glomerular filtration membrane change, leading to microalbumin increased excretion from urine.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Urine \u03b11-microglobulin is an important indicator for monitoring renal tubular injury. It is a glycoprotein with a molecular weight of 26,000 to 33,000 and is widely distributed in human body. \u03b11-microglobulin can pass through the glomerular filtration membrane, and 95% to 99% is reabsorbed in the proximal tubule, and it is not affected by pH. In the early stage of renal injury, the renal tubule reabsorption function reduced, resulting in urine \u03b11-microglobulin excretion increased, and the elevation is consistent with the degree of renal tubular injury.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Due to the large molecular weight, immunoglobulin G is difficult to pass through the glomerular filtration membrane. When renal function is impaired, it can lead to increased permeability of the glomerular filtration membrane. The excretion of albumin in urine increases, and as the lesions worsen, the excretion of immunoglobulin G in urine also increases. Therefore, the detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] The main physiological function of transferrin is to transport iron ions. It is a negatively charged protein, and its isoelectric point is one unit higher than that of albumin. Normally, it cannot pass through the positively charged glomerular filtration membrane. Urine transferrin is one of the indicators of early glomerular injury, which mainly reflects the damage of glomerular filtration membrane charge selection barrier.[18]<br/><br/>Strengths and limitations<br/><br/>Strengths of this study are as follows: Firstly, this study first investigated the incidence of early renal injury in COVID-19 and revealed the prevalence of early renal injury in COVID-19 patients. Secondly, this study clarified the value of multi-index combined detection for the diagnosis of early renal injury in COVID-19, and provided a basis for early detection and early intervention. The present study has some limitations that must be taken into account when considering its contribution. First and most significantly is the small sample size of this study. COVID-19 is a newly emerging epidemic. The cases found in this city are all imported cases. After strict prevention and control, there are fewer confirmed cases in this city. Therefore, the number of cases included in this research is also small. In addition, considering COVID-19 is a completely new disease, and we do not yet fully know the characteristics of its cases, the type of research used in this study is designed as a descriptive study, which initially explores the basic characteristics of the disease and does not set the control group."
+        ],
+        "acknowledgements": [
+            "We greatly appreciate all the people, particularly the clinicians, nurses and scientists who are heroically battling to eradicate this disaster for days and nights. We also thank all patients involved in this study.    Contributors<br/><br/>Hong XW, Chi ZP and Liu GY are joint first authors. Zhang YH obtained funding. Hong XW and Qu LZ designed the study. Huang H, Fan JR, Lin XW, Wu LJ, and Zhou YH collected the data. Chi ZP and Liu GY were involved in data verification and analyzed the data. Guo SQ, Chen RL, Zhang QC, Wu SW, Wang LY, Pan ZQ, Lin H are responsible for the diagnosis and treatment of patients. Hong XW drafted the manuscript. Zhang YH and Qu LZ contributed to the interpretation of the results and critical revision of the manuscript for important intellectual content and approved the final version of the manuscript. All authors have read and approved the final manuscript. Zhang YH is the study guarantor."
+        ],
+        "disclosures": [
+            "All authors declare no competing interests."
+        ],
+        "funding": [
+            "This work was supported by Special Project of New Coronavirus Pneumonia Prevention and Treatment funded by the Science and Technology Agency of Shantou City."
+        ],
+        "ethical_compliance": [
+            "This study was approved by the institutional research ethics committee of Shantou Central Hospital.    Reference<br/><br/>1. Wang C, Horby PW, Hayden FG, et al (2020) A novel coronavirus outbreak of global health concern. Lancet 395 (10223):470-473. doi:10.1016/s0140-6736(20)30185-9 2. Zhu N, Zhang D, Wang W, et al (2020) A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 382 (8):727-733. doi:10.1056/NEJMoa2001017 3. Munster VJ, Koopmans M, van Doremalen N, et al (2020) A Novel Coronavirus Emerging in China - Key Questions for Impact Assessment. The New England journal of medicine 382 (8):692-694. doi:10.1056/NEJMp2000929 4. Perlman S (2020) Another Decade, Another Coronavirus. The New England journal of medicine 382 (8):760-762. doi:10.1056/NEJMe2001126 5. Heymann DL, Shindo N (2020) COVID-19: what is next for public health? Lancet 395(10223):542-545. doi:10.1016/s0140-6736(20)30374-3 6. Expert Group of China National Health Commission and Administration of Traditional Chinese Medicine (2020) guidelines for diagnosis and treatment of New Coronavirus Pneumonia (Trial Version 5) . Chinese Journal of Integrated Traditional and Western Medicine. doi:http://kns.cnki.net/kcms/detail/11.2787.R.20200208.1034.002.html 7. Wang LH (2020) Characteristics and countermeasures of 2019-nCoV infection. Chinese Journal of Experimental and Clinical Infectious Diseases (Electronic Edition)<br/><br/>14(1):1-5. doi:http://kns.cnki.net/kcms/detail/11.9284.r.20200212.1113.002.html 8. Huang C, Wang Y, Li X, et al (2020) Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 395 (10223):497-506. doi:10.1016/s0140-6736(20)30183-5 9. Chen N, Zhou M, Dong X, et al (2020) Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395 (10223):507-513. doi:10.1016/s0140-6736(20)30211-7 10. Zumla A, Chan JF, Azhar EI, et al (2016) Coronaviruses - drug discovery and therapeutic options. Nature reviews Drug discovery 15 (5):327-347. doi:10.1038/nrd.2015.37 11. Zhou P, Yang XL, Wang XG, et al (2020) A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. doi:10.1038/s41586-020-2012-7 12. Chu KH, Tsang WK, Tang CS, et al (2005) Acute renal impairment in coronavirus-associated severe acute respiratory syndrome. Kidney international 67 (2):698-705. doi:10.1111/j.1523-1755.2005.67130.x 13. Li Z, Wu M, Guo J, et al (2020) Caution on Kidney Dysfunctions of 2019-nCoV Patients. MedRxiv. doi: https://doi.org/10.1101/2020.02.08.20021212 14. Zou X, Chen K, Zou JW, et al (2020) The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection. Frontiers Journals of Medicine. doi: https://doi.org/10.1007/s11684-020-0754-0 15. Chen L, Li JX, Huang XB, et al (2011) Determination and its significance of the ratio of urine microalbumin to urine cretinine in patients with nephrolithiasis complicated with renal insufficiency. Journal of Peking University(Health Sciences) 43 (5):757-760. doi: http://xuebao.bjmu.edu.cn/EN/Y2011/V43/I5/757 16. Nordberg J, Allhorn M, Winqvist I, et al (2007) Quantitative and qualitative evaluation of plasma and urine alpha1-microglobulin in healthy donors and patients with different haemolytic disorders and haemochromatosis. Clinica chimica acta 386 (1-2):31-37. doi:10.1016/j.cca.2007.07.017<br/><br/>17. Hou J, Cheng Y, Hou Y, et al (2019) Lower Serum and Higher Urine Immunoglobulin G Are Associated with an Increased Severity of Idiopathic Membranous Nephropathy. Annals of clinical and laboratory science 49 (6):777-784 18. Casanova AG, Vicente-Vicente L, Hernandez-Sanchez MT, et al (2020) Urinary transferrin pre-emptively identifies the risk of renal damage posed by subclinical tubular alterations. Biomedicine & pharmacotherapy 121:109684. doi:10.1016/j.biopha.2019.1096<br/><br/>Legend (ROC: receiver operating characteristic; AUC: area under curve; UMA: urine microalbumin; A1M: \u03b11-microglobulin; IGU: urine immunoglobulin G; TRU: urine    ) transferrin<br/><br/>Laboratory test results    Normal range<br/><br/>Case 1 Case 2 Case 3<br/><br/>Case classification general general general    Blood routine<br/><br/>White blood cell (WBC, 10^9/L)    3.5~9.5<br/><br/>Neutrophil ratio (NER,%)    50~70<br/><br/>Lymphocyte ratio (LYR,%)    20~40<br/><br/>Monocyte ratio (MOR,%)    3~8<br/><br/>Platelet (PLT,10^9/L) 125~350    Case 4 general    Case 5 severe<br/><br/>Case 6 Case 7 Case 8 severe general light<br/><br/>Case 9 Case 10 general light    Case 11 general    Case 12 general<br/><br/>Abnormal rate (%)    130~175(male)<br/><br/>Hemoglobin (HGB,g/L)    115~150(female)<br/><br/>Biochemical indexes of kidney, liver, and heart function<br/><br/>Serum K (K,mmol/L) 3.5~5.3<br/><br/>Serum Na ( Na , mmol/L)    137~147<br/><br/>Glucose (GLU,mmol/L) 3.89~6.11<br/><br/>Blood urea nitrogen (BUN,mmol/L)    2.5~7.14<br/><br/>Serum creatinine (Scr, umol/L)    40~133<br/><br/>Uric acid (UA,umol/L) 150~430<br/><br/>Albumin (ALB,g/L)    40~55<br/><br/>Triglyceride (TG , 0.23-1.71<br/><br/>Cholesterol (CH , 2.9~5.72<br/><br/>Total bilirubin (TBIL , 2~20    Glutamic pyruvic<br/><br/>9~50(male) transaminase (ALT , 7~40(female)    U/L)<br/><br/>Glutamic oxaloacetic<br/><br/>15~40(male) transaminase (AST , 13~35(female)<br/><br/>Creatine kinase (CK, 0~174<br/><br/>Lactic dehydrogenase (LDH,U/L)    100~300<br/><br/>Troponin I (aTnI,ng/Ml) 0~0.04<br/><br/>B-type natriuretic peptide (BNP,pg/mL) 0~300    <18<br/><br/>Coagulation function<br/><br/>Fibrinogen (FIB-C,g/L) 1.8~4.88<br/><br/>Plasma d-dimer (D-Dimer,ug/L)    0~550<br/><br/>Infection indexes<br/><br/>C-reaction protein (CRP,mg/L)    0~8<br/><br/>Procalcitonin (PCT , ng/mL)    0~0.5    0.034 <0.1    <0.1    <0.02 <0.1<br/><br/>Renal function Normal Case Case Case Case Case Case Case Case Case Case Case Case Abnormal indexes range 1    11 rate (%)<br/><br/>eGFR, ml/(min*1.73m2)    \u226590    Ccr, ml/min    \u226580    Scr, umol/L    2.5~7.1    BUN, mmol/L    Ucr, g/L    PRO    1+ -    2+ 2+ 1+ -    UACR, mg/g    <30    UMA, mg/L    A1M, mg/L    IGU, mg/L    TRU, mg/L    0~2<br/><br/>UMA+A1M+lGU+TRU eGFR: estimated glomerular filtration rate; Ccr: endogenous creatinine clearance; Scr: serum creatinine; BUN: blood urea nitrogen; Ucr: urine creatinine; PRO: urine protein; UACR: urine microalbumin/creatinine ratio; UMA: urine microalbumin; A1M: \u03b11-microglobulin; IGU: urine immunoglobulin G; TRU: urine transferrin<br/><br/>Laboratory indexes eGFR    Ccr    CI p    P    UACR    CRP,mg/L    NER,% MOR, %    K,mmol/L    Na,mmol/L    ALB,g/L<br/><br/>CRP: C-reaction protein; NER: Neutrophil ratio; MOR: Monocyte ratio; K: Serum K; Na: Serum Na; ALB: Albumin; CI: Correlation index"
+        ],
+        "limitations": [
+            "The present study has some limitations that must be taken into account when considering its contribution. First and most significantly is the small sample size of this study. COVID-19 is a newly emerging epidemic. The cases found in this city are all imported cases. After strict prevention and control, there are fewer confirmed cases in this city. Therefore, the number of cases included in this research is also small. In addition, considering COVID-19 is a completely new disease, and we do not yet fully know the characteristics of its cases, the type of research used in this study is designed as a descriptive study, which initially explores the basic characteristics of the disease and does not set the control group."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "Objectives The aim of the study was to analyze the incidence of COVID-19 with early renal injury, and to explore the value of multi-index combined detection in diagnosis of early renal injury in COVID-19. Design The study was an observational, descriptive study. Setting This study was carried out in a tertiary hospital in Guangdong, China. Participants 12 patients diagnosed with COVID-19 from January 20, 2020 to February 20, 2020. Primary and secondary outcome measures The primary outcome was to evaluate the incidence of early renal injury in COVID-19. In this study, the estimated glomerular filtration rate (eGFR), endogenous creatinine clearance (Ccr) and urine microalbumin / urinary creatinine ratio (UACR) were calculated to assess the incidence of early renal injury. Secondary outcomes were the diagnostic value of urine microalbumin (UMA), \u03b11-microglobulin (A1M), urine immunoglobulin-G (IGU), urine transferring (TRU) alone and in combination in diagnosis of COVID-19 with early renal injury. Results While all patients had no significant abnormalities in serum creatinine (Scr) and blood urea nitrogen (BUN), the abnormal rates of eGFR, Ccr, and UACR were 66.7%, 41.7%, and 41.7%, respectively. Urinary microprotein detection indicated that the area under curve (AUC) of multi-index combined to diagnose early renal injury in COVID-19 was 0.875, which was higher than UMA (0,813), A1M (0.813), IGU (0.750) and TRU (0.750) alone. Spearman analysis showed that the degree of early renal injury was significantly related to C-reactive protein (CRP) and neutrophil ratio (NER), suggesting that the more severe the infection, the more obvious the early renal injury. Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury."
+        ],
+        "Conclusions": [
+            "This study found that early renal injury was common in patients with COVID-19. Combined detection of UMA, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19. The 12 cases of COVID-19 reported in this study were all healed and discharged after being treated with antivirals, maintaining water and electrolyte balance, enhancing immunity, oxygen therapy, and traditional chinses medicine treatment. In the process of diagnosis and treatment, the assessment of early injury of important organs and comprehensive protective treatment has played a key role. In particular, in the diagnosis of early renal injury, evidence of COVID-19 with renal injury could be found in time by combining multiple indexes detection. Then, by performing comprehensive treatment measures, such as stopping the use of nephrotoxic drugs timely, maintaining water-electrolyte and acid-base balance and performing effective organ support treatment et al, the complications can be reduced effectively and the prognosis can be improved significantly."
+        ],
+        "Introduction": [
+            "Since December 2019, unexplained clustered pneumonia cases have started to appear in Wuhan, Hubei Province, China. It is identified as a pneumonia caused by a novel coronavirus infection.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The World Health Organization (WHO) named the coronavirus 2019-nCoV, which was the third coronavirus that infects humans from wild hosts across germlines after severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) and can cause severe pneumonia. It is also the seventh species of pathogenic human respiratory coronaviruses.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] On February 11, 2020, the WHO named the novel coronavirus-infected disease2019 novel coronavirus disease shorted for COVID-19. With the spread of the epidemic, other cases in China and abroad have also occurred.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] As of February 22, 2020, a total of 76,396 cases were diagnosed in China, including 11,477 severe cases and 2,348 deaths.",
+            "The main symptoms of COVID-19 are fever, dry cough, and fatigue. A few patients have symptoms of nasal congestion, runny nose, sore throat, and diarrhea. Severe patients usually develop dyspnea and / or hypoxemia one week after the onset of the disease. In severe cases, they quickly develop into acute respiratory distress syndrome (ARDS), septic shock, and multiple organ injury such as cardiac, hepatic, and renal injury.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] The 2019-nCoV human infection cases combine the characteristics of the previous 6 coronaviruses, which can cause mild cases, easily lose vigilance, and can also cause severe cases, with a high mortality rate. [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] Multiple organ failure is the main cause of death of COVID-19. The latest research reports that the incidence of COVID-19 with organ dysfunction is about 33%, of which the acute renal injury is about 3 ~ 7%. [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Impaired renal function can lead to obstruction of excretion of metabolites and toxins in the body, which will adversely affect the maintenance of the electrolyte and acid-base balance of the human body. In addition, when renal function is severely damaged, uremia will occur and endanger life. Early detection of evidence of renal injury and timely effective interventions are of great significance for reducing complications and improving prognosis.",
+            "This study intends to use a number of laboratory test indexes, including serum creatinine, blood urea nitrogen, urine creatinine, urine microalbumin and urine microglobulin et al to comprehensively assess renal function and determine the incidence of COVID-19 with early renal injury. The related risk factors of COVID-19 with early renal injury were also analyzed."
+        ],
+        "Materials and methods": [
+            "Patients From January 20, 2020 to February 20, 2020, 12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong, China. Nasopharyngeal swab samples of all patients were tested positive for 2019-nCoV virus nucleic acid and confirmed to be infected with 2019-nCoV by Guangdong Province CDC (Center for Disease Control and Prevention). The disease diagnostic criteria and case classification were refer to the guidelines for diagnosis and treatment of COVID-19 (Trial Version 5) issued by China National Health Commission.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+            "Data collection A standardized case collection form was designed to collect laboratory data of the included patients. It mainly included the following items: (1) blood routine; (2) biochemical indexes of kidney, liver, and heart function; (3) coagulation function; (5) infection indexes.",
+            "Evaluation of renal function Serum creatinine (Scr), blood urea nitrogen (BUN), urine creatinine (Ucr), urine protein (PRO), urine microalbumin (UMA), \u03b11-microglobulin (A1M), urine immunoglobulin G (IGU), and urine transferrin (TRU) were detected. The estimated glomerular filtration rate (eGFR), endogenous creatinine clearance (Ccr), and urine microalbumin/creatinine ratio (UACR) were calculated.",
+            "Among them, the eGFR was calculated according to the simplified MDRD formula modified by the Chinese.",
+            "(the Counahan-Barrat method was applied when the patient is younger than 14year-old)",
+            "The Ccr was calculated according to Cockcroft's formula.",
+            "In this study, two or more abnormalities of eGFR, Ccr and UACR were defined as early renal injury.",
+            "Statistical methods The area under curves (AUC) of receiver operating characteristic (ROC) were calculated for predictive analysis. Spearman rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables. It was considered statistically significant when the P value was less than 0.05. All statistical analyses were processed using SPSS 25.0 statistical software.",
+            "Patient and public involvement Patients were not directly involved in the design, planning and conducting of this study."
+        ],
+        "Results": [
+            "Laboratory characteristics of the COVID-19 patients Of the 12 patients with COVID-19, 2 were severe patients, 8 were general patients, and 2 were light patients. Laboratory testing items included blood routine, electrolyte, metabolism, heart, liver, kidney function indicators, coagulation function and infection indicators. As shown in Table 1, the common abnormal indicators (abnormal",
+            "\u2265 rate 50%) included: increased neutrophil ratio (50%), increased monocyte ratio (75%), hypokalemia (50%), hyponatremia (50%), hypoproteinemia (75%), and increased C-reactive protein (83.3%).",
+            "Incidence of COVID-19 with early renal injury As shown in Table 2, Scr and BUN were not significantly abnormal in 12 patients. However, the calculation of eGFR and Ccr showed that early renal injury was common in COVID-19 patients. Among them, 66.7% patients had reduced eGFR and 41.7% patients had reduced Ccr. Urinary microprotein test also confirmed that COVID-19 with early renal injury was common, with UACR> 30mg / g accounting for 41.7%. Among the 12 patients, the abnormally elevated rates of UMA, A1M, IGU, and TRU were 33.3%, 33.3%, 41.7%, and 16.7%, respectively. The positive rate of the four-index combined was 58.3%. The results suggested that case 3, 5, 6, and 7 were significant early kidney injury cases.",
+            "Urinary microprotein detection in diagnosis of early renal injury in COVI D-19 The AUC of UMA, A1M, IGU, and TRU for the diagnosis of early renal injury in COVID-19 were 0.813, 0.813, 0.750, and 0.750 respectively, while the AUC of the combined index of UMA + A1M + IGU + TRU was 0.875, suggesting that the multi-index combined was helpful for the diagnosis of early renal injury in COVID-19, as shown in Fig 1.",
+            "Factors related to early renal injury in COVID-19 In this study, Spearman correlation coefficients were used to evaluate the correlation between renal function indicators (eGFR, Ccr, and UACR) and the obviously abnormal biochemical indicators (C-reactive protein (CRP), neutrophil ratio (NER), monocyte ratio (MOR), serum potassium (K), serum sodium (Na), and albumin (ALB)). As shown in Table 3, it was found that eGFR was negatively correlated with CRP and NER, and positively correlated with serum K, Ccr was negatively correlated with CRP and NER, and positively correlated with MOR and serum Na, and UACR was positively correlated with CRP, and negatively correlated with serum K (Fig 2). The results suggested that the more severe the infection, the more obvious the early renal injury, and the early renal injury in COVID-19 can often cause hypokalemia and hyponatremia."
+        ],
+        "Discussion": [
+            "Coronaviruses are single-stranded positive-strand RNA viruses. In 2014, the International Virological Classification Committee classified them into four genera: \u03b1, \u03b2, \u03b3, and \u03b4 according to serotype and genomic characteristics. There are six known types of coronaviruses that infect humans: \u03b1-genus 229E, NL63; \u03b2-genus OC43, HKU1, SARSr-CoV and MERSr-CoV.[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Previous case reports suggest that the spectrum of diseases caused by coronavirus infection is polarized. For example, 229E and NL63 in the \u03b1-genus, and OC43 and HKU1 in the \u03b2-genus often cause common colds, which are mainly mild, usually without obvious fever, or only low fever. Usually, it is self-limiting and heals without special treatment. However, the other two coronaviruses in the \u03b2-genus, SARSr-CoV and MERSr-CoV, often cause acute respiratory syndrome. They mainly cause severe pneumonia, with obvious clinical symptoms, such as fever, dry cough, acute respiratory symptoms and fatigue. Usually, Obvious changes can be found in lung imaging. They are two types of coronavirus pneumonia that require close observation and intensive medical treatment. The 2019-nCov identified this time is a \u03b2-genus coronavirus. The diseases caused by its infection combines the characteristics of the previous six coronaviruses, and the disease spectrum is broad.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]",
+            "Peng Zhou et al[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] reported the identification and characterization of 2019-nCoV. Through full-length genome sequences analysis, they found that the whole genome of 2019-nCoV shared 79.5% sequence identify to SARS-CoV. The pairwise protein sequence analysis of seven conserved non-structural proteins showed that this virus belongs to the species of severe acute respirator syndrome-related coronaviruses (SARSr-CoV). In addition, they also confirmed that 2019-nCov used the same cell entry receptor, Angiotensin converting enzyme II (ACE2), as SARS-CoV. The high degree of similarity in gene sequence and cellular mechanism of 2019-nCoV and SARS-CoV suggests that the risk factors of mortality could also be similar. SARS is an acute respiratory infectious disease with pulmonary parenchyma and/or interstitium as the main site of invasion and multiple organ injury. Previous clinical studies have found that, similar to SARS, the causes of death caused by 2019-nCov are not only lung tissue damage, but also heart, liver, kidney and other organ dysfunction or even failure, which is one of the important causes of aggravation and death.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] In the previous SARS case study[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], acute renal injury was found to be the top risk factor of mortality, even higher than acute respiratory distress. In that case study, all patients who eventually died had a progressive rise of Scr, and the rise of Scr was rapid in those who succumbed early in their illness. Previously, an ongoing case study reported 59 patients infected by 2019-nCoV, including 28 severe cases and 3 death. In that study, 63% of the patients exhibited proteinuria, and 19% and 27% of the patients had an elevated level of Scr and BUN respectively. Computed tomography (CT) scans revealed abnormal renal imaging in all patients. The results suggested that renal injury was common in COVID-19, which may contribute to multiorgan failure and death eventually.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+            "In this study, 12 COVID-19 cases were analyzed. Although all the patients still had normal level of Scr and BUN, the high incidence of early renal injury in COVID-19 was found by calculating eGFR, CCR and UACR. The abnormal rates of eGFR, Ccr, and UACR were 66.7%, 41.7%, and 41.7%, respectively. Combined detection of UMA, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19. Furthermore, the study also found that the degree of early renal injury was significantly related to C-reactive protein (CRP) and neutrophil ratio (NER), suggesting that the more severe the infection, the more obvious the early renal injury. Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury. Xin Zou et al[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] analyzed the single-cell RNA sequencing datasets to explore the expression of ACE2 in the main physiological systems of the human body, including the respiratory, cardiovascular, digestive and urinary system. The study showed that heart, esophagus, kidney, bladder, and ileum have similar or higher ACE2 expression than in alveoli. In the analysis of specific cell types, the expression of ACE2 in renal proximal tubule cells was about four times higher than that of type II alveolar cells (AT2). The results suggest that the kidney may be one of the primary targets of attack for the 2019-nCov.",
+            "Scr and BUN are commonly used indicators for the detection of renal function. However, the sensitivity of both of them is poor. Usually, abnormalities occur only when renal function is significantly damaged, as results, they cannot be used as indicators for evaluating early renal injury. Urine microprotein refers to some proteins that are difficult to detect by conventional qualitative or quantitative methods. The detection of urine microprotein can detect the kidney and some other organs' functional status early. Urine microalbumin is a sensitive indicator of early glomerular injury. Microalbumin has a small molecular weight and is negatively charged. Normally, due to the charge selection barrier of the glomerular filtration membrane, the majority of urine microalbumin cannot pass through the filtration membrane under the action of electrostatic homogeneous repulsion. In the early stage of renal function injury, the charge selectivity of the glomerular filtration membrane decreases, the pore size on the glomerular filtration membrane increases, and the negatively charged structural components of the glomerular filtration membrane change, leading to microalbumin increased excretion from urine.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Urine \u03b11-microglobulin is an important indicator for monitoring renal tubular injury. It is a glycoprotein with a molecular weight of 26,000 to 33,000 and is widely distributed in human body. \u03b11-microglobulin can pass through the glomerular filtration membrane, and 95% to 99% is reabsorbed in the proximal tubule, and it is not affected by pH. In the early stage of renal injury, the renal tubule reabsorption function reduced, resulting in urine \u03b11-microglobulin excretion increased, and the elevation is consistent with the degree of renal tubular injury.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Due to the large molecular weight, immunoglobulin G is difficult to pass through the glomerular filtration membrane. When renal function is impaired, it can lead to increased permeability of the glomerular filtration membrane. The excretion of albumin in urine increases, and as the lesions worsen, the excretion of immunoglobulin G in urine also increases. Therefore, the detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] The main physiological function of transferrin is to transport iron ions. It is a negatively charged protein, and its isoelectric point is one unit higher than that of albumin. Normally, it cannot pass through the positively charged glomerular filtration membrane. Urine transferrin is one of the indicators of early glomerular injury, which mainly reflects the damage of glomerular filtration membrane charge selection barrier.[18]",
+            "Strengths of this study are as follows: Firstly, this study first investigated the incidence of early renal injury in COVID-19 and revealed the prevalence of early renal injury in COVID-19 patients. Secondly, this study clarified the value of multi-index combined detection for the diagnosis of early renal injury in COVID-19, and provided a basis for early detection and early intervention. The present study has some limitations that must be taken into account when considering its contribution. First and most significantly is the small sample size of this study. COVID-19 is a newly emerging epidemic. The cases found in this city are all imported cases. After strict prevention and control, there are fewer confirmed cases in this city. Therefore, the number of cases included in this research is also small. In addition, considering COVID-19 is a completely new disease, and we do not yet fully know the characteristics of its cases, the type of research used in this study is designed as a descriptive study, which initially explores the basic characteristics of the disease and does not set the control group."
+        ],
+        "Acknowledgements": [
+            "We greatly appreciate all the people, particularly the clinicians, nurses and scientists who are heroically battling to eradicate this disaster for days and nights. We also thank all patients involved in this study.",
+            "Hong XW, Chi ZP and Liu GY are joint first authors. Zhang YH obtained funding. Hong XW and Qu LZ designed the study. Huang H, Fan JR, Lin XW, Wu LJ, and Zhou YH collected the data. Chi ZP and Liu GY were involved in data verification and analyzed the data. Guo SQ, Chen RL, Zhang QC, Wu SW, Wang LY, Pan ZQ, Lin H are responsible for the diagnosis and treatment of patients. Hong XW drafted the manuscript. Zhang YH and Qu LZ contributed to the interpretation of the results and critical revision of the manuscript for important intellectual content and approved the final version of the manuscript. All authors have read and approved the final manuscript. Zhang YH is the study guarantor."
+        ],
+        "Competing Interests": [
+            "All authors declare no competing interests."
+        ],
+        "Funding": [
+            "This work was supported by Special Project of New Coronavirus Pneumonia Prevention and Treatment funded by the Science and Technology Agency of Shantou City."
+        ],
+        "Ethical Approval": [
+            "This study was approved by the institutional research ethics committee of Shantou Central Hospital.",
+            "1. Wang C, Horby PW, Hayden FG, et al (2020) A novel coronavirus outbreak of global health concern. Lancet 395 (10223):470-473. doi:10.1016/s0140-6736(20)30185-9 2. Zhu N, Zhang D, Wang W, et al (2020) A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 382 (8):727-733. doi:10.1056/NEJMoa2001017 3. Munster VJ, Koopmans M, van Doremalen N, et al (2020) A Novel Coronavirus Emerging in China - Key Questions for Impact Assessment. The New England journal of medicine 382 (8):692-694. doi:10.1056/NEJMp2000929 4. Perlman S (2020) Another Decade, Another Coronavirus. The New England journal of medicine 382 (8):760-762. doi:10.1056/NEJMe2001126 5. Heymann DL, Shindo N (2020) COVID-19: what is next for public health? Lancet 395(10223):542-545. doi:10.1016/s0140-6736(20)30374-3 6. Expert Group of China National Health Commission and Administration of Traditional Chinese Medicine (2020) guidelines for diagnosis and treatment of New Coronavirus Pneumonia (Trial Version 5) . Chinese Journal of Integrated Traditional and Western Medicine. doi:http://kns.cnki.net/kcms/detail/11.2787.R.20200208.1034.002.html 7. Wang LH (2020) Characteristics and countermeasures of 2019-nCoV infection. Chinese Journal of Experimental and Clinical Infectious Diseases (Electronic Edition)",
+            "14(1):1-5. doi:http://kns.cnki.net/kcms/detail/11.9284.r.20200212.1113.002.html 8. Huang C, Wang Y, Li X, et al (2020) Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 395 (10223):497-506. doi:10.1016/s0140-6736(20)30183-5 9. Chen N, Zhou M, Dong X, et al (2020) Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395 (10223):507-513. doi:10.1016/s0140-6736(20)30211-7 10. Zumla A, Chan JF, Azhar EI, et al (2016) Coronaviruses - drug discovery and therapeutic options. Nature reviews Drug discovery 15 (5):327-347. doi:10.1038/nrd.2015.37 11. Zhou P, Yang XL, Wang XG, et al (2020) A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. doi:10.1038/s41586-020-2012-7 12. Chu KH, Tsang WK, Tang CS, et al (2005) Acute renal impairment in coronavirus-associated severe acute respiratory syndrome. Kidney international 67 (2):698-705. doi:10.1111/j.1523-1755.2005.67130.x 13. Li Z, Wu M, Guo J, et al (2020) Caution on Kidney Dysfunctions of 2019-nCoV Patients. MedRxiv. doi: https://doi.org/10.1101/2020.02.08.20021212 14. Zou X, Chen K, Zou JW, et al (2020) The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection. Frontiers Journals of Medicine. doi: https://doi.org/10.1007/s11684-020-0754-0 15. Chen L, Li JX, Huang XB, et al (2011) Determination and its significance of the ratio of urine microalbumin to urine cretinine in patients with nephrolithiasis complicated with renal insufficiency. Journal of Peking University(Health Sciences) 43 (5):757-760. doi: http://xuebao.bjmu.edu.cn/EN/Y2011/V43/I5/757 16. Nordberg J, Allhorn M, Winqvist I, et al (2007) Quantitative and qualitative evaluation of plasma and urine alpha1-microglobulin in healthy donors and patients with different haemolytic disorders and haemochromatosis. Clinica chimica acta 386 (1-2):31-37. doi:10.1016/j.cca.2007.07.017",
+            "17. Hou J, Cheng Y, Hou Y, et al (2019) Lower Serum and Higher Urine Immunoglobulin G Are Associated with an Increased Severity of Idiopathic Membranous Nephropathy. Annals of clinical and laboratory science 49 (6):777-784 18. Casanova AG, Vicente-Vicente L, Hernandez-Sanchez MT, et al (2020) Urinary transferrin pre-emptively identifies the risk of renal damage posed by subclinical tubular alterations. Biomedicine & pharmacotherapy 121:109684. doi:10.1016/j.biopha.2019.1096",
+            "(ROC: receiver operating characteristic; AUC: area under curve; UMA: urine microalbumin; A1M: \u03b11-microglobulin; IGU: urine immunoglobulin G; TRU: urine",
+            "UMA+A1M+lGU+TRU eGFR: estimated glomerular filtration rate; Ccr: endogenous creatinine clearance; Scr: serum creatinine; BUN: blood urea nitrogen; Ucr: urine creatinine; PRO: urine protein; UACR: urine microalbumin/creatinine ratio; UMA: urine microalbumin; A1M: \u03b11-microglobulin; IGU: urine immunoglobulin G; TRU: urine transferrin",
+            "CRP: C-reaction protein; NER: Neutrophil ratio; MOR: Monocyte ratio; K: Serum K; Na: Serum Na; ALB: Albumin; CI: Correlation index"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 12,
+            "context": "Setting This study was carried out in a tertiary hospital in Guangdong, China. <mark class=\"stats\">Participants 12 patients diagnosed with COVID-19 from January 20, 2020 to February 20, 2020</mark>. Primary and secondary outcome measures The primary outcome was to evaluate the incidence of early renal injury in COVID-19"
+        },
+        {
+            "participant": "patients with pneumonia of unknown cause",
+            "number": 12,
+            "context": "Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury. <mark class=\"stats\">Patients From January 20, 2020 to February 20, 2020, 12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong, China</mark>. Nasopharyngeal swab samples of all patients were tested positive for 2019-nCoV virus nucleic acid and confirmed to be infected with 2019-nCoV by Guangdong Province CDC (Center for Disease Control and Prevention)"
+        },
+        {
+            "participant": "cases",
+            "number": 76396,
+            "context": "With the spread of the epidemic, other cases in China and abroad have also occurred.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. <mark class=\"stats\">As of February 22, 2020, a total of 76,396 cases were diagnosed in China, including 11,477 severe cases and 2,348 deaths</mark>. The main symptoms of COVID-19 are fever, dry cough, and fatigue"
+        },
+        {
+            "participant": "patients with pneumonia of unknown cause",
+            "number": 12,
+            "context": "Materials and methods. <mark class=\"stats\">Patients From January 20, 2020 to February 20, 2020, 12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong, China</mark>. Nasopharyngeal swab samples of all patients were tested positive for 2019-nCoV virus nucleic acid and confirmed to be infected with 2019-nCoV by Guangdong Province CDC (Center for Disease Control and Prevention)"
+        },
+        {
+            "participant": "patients with COVID-19",
+            "number": 12,
+            "context": "Patient and public involvement Patients were not directly involved in the design, planning and conducting of this study. <mark class=\"stats\">Laboratory characteristics of the COVID-19 patients Of the 12 patients with COVID-19, 2 were severe patients, 8 were general patients, and 2 were light patients</mark>. Laboratory testing items included blood routine, electrolyte, metabolism, heart, liver, kidney function indicators, coagulation function and infection indicators"
+        },
+        {
+            "participant": "patients",
+            "number": 12,
+            "context": "(75%), hypokalemia (50%), hyponatremia (50%), hypoproteinemia (75%), and increased C-reactive protein (83.3%). <mark class=\"stats\">Incidence of COVID-19 with early renal injury As shown in Table 2, Scr and BUN were not significantly abnormal in 12 patients</mark>. However, the calculation of eGFR and Ccr showed that early renal injury was common in COVID-19 patients"
+        },
+        {
+            "participant": "patients",
+            "number": 12,
+            "context": "Urinary microprotein test also confirmed that COVID-19 with early renal injury was common, with UACR> 30mg / g accounting for 41.7%. <mark class=\"stats\">Among the 12 patients, the abnormally elevated rates of UMA, A1M, IGU, and TRU were 33.3%, 33.3%, 41.7%, and 16.7%, respectively</mark>. The positive rate of the four-index combined was 58.3%"
+        },
+        {
+            "participant": "patients",
+            "number": 59,
+            "context": "In that case study, all patients who eventually died had a progressive rise of Scr, and the rise of Scr was rapid in those who succumbed early in their illness. <mark class=\"stats\">Previously, an ongoing case study reported 59 patients infected by 2019-nCoV, including 28 severe cases and 3 death</mark>. In that study, 63% of the patients exhibited proteinuria, and 19% and 27% of the patients had an elevated level of Scr and BUN respectively"
+        },
+        {
+            "participant": "cases",
+            "number": 12,
+            "context": "Combined detection of UMA, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19. <mark class=\"stats\">The 12 cases of COVID-19 reported in this study were all healed and discharged after being treated with antivirals, maintaining water and electrolyte balance, enhancing immunity, oxygen therapy, and traditional chinses medicine treatment</mark>. In the process of diagnosis and treatment, the assessment of early injury of important organs and comprehensive protective treatment has played a key role"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Spearman analysis showed that the degree of early renal injury was significantly related to C-reactive protein (CRP) and neutrophil ratio (NER), suggesting that the more severe the infection, the more obvious the early renal injury</mark>",
+                "tests": [
+                    {
+                        "test": "Spearman"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Spearman rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables</mark>",
+                "tests": [
+                    {
+                        "test": "Spearman rank correlation coefficient"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">( ) ( ) eGFR=186\u00d7Scr(umol/L) \u03041.154\u00d7Age year-old0.203 female\u00d70.742 (the Counahan-Barrat method was applied when the patient is younger than 14year-old)</mark>",
+                "tests": [
+                    {
+                        "test": "Counahan-Barrat method",
+                        "value": "0.742"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Factors related to early renal injury in COVID-19 In this study, Spearman correlation coefficients were used to evaluate the correlation between renal function indicators (eGFR, Ccr, and UACR) and the obviously abnormal biochemical indicators (C-reactive protein (CRP), neutrophil ratio (NER), monocyte ratio (MOR), serum potassium (K), serum sodium (Na), and albumin (ALB))</mark>",
+                "tests": [
+                    {
+                        "test": "Spearman correlation coefficients"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "urine creatinine",
+        "receiver operating characteristic",
+        "glomerular filtration",
+        "acute respiratory",
+        "renal function",
+        "coronavirus",
+        "urine microalbumin",
+        "neutrophil ratio",
+        "SARS",
+        "blood urea nitrogen",
+        "respiratory syndrome",
+        "COVID-19",
+        "World Health Organization",
+        "ACE2",
+        "urinary creatinine ratio",
+        "creatinine clearance",
+        "Clinica chimica",
+        "area under curve",
+        "novel coronavirus",
+        "2019-nCoV",
+        "Urinary microprotein",
+        "creatinine",
+        "early renal injury",
+        "acute respiratory distress syndrome",
+        "pneumonia",
+        "renal injury",
+        "estimated glomerular filtration rate",
+        "Computed tomography",
+        "severe case",
+        "serum creatinine",
+        "multi index",
+        "C-reactive protein"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.11061946902654868,
+        "renal injury": 0.10619469026548672,
+        "early renal injury": 0.08185840707964602,
+        "urine microalbumin": 0.06415929203539823,
+        "estimated glomerular filtration rate": 0.05309734513274336,
+        "creatinine clearance": 0.05088495575221239,
+        "coronavirus": 0.046460176991150445,
+        "C-reactive protein": 0.0420353982300885,
+        "neutrophil ratio": 0.03982300884955752,
+        "creatinine": 0.03982300884955752,
+        "urinary creatinine ratio": 0.03761061946902655,
+        "serum creatinine": 0.035398230088495575,
+        "glomerular filtration": 0.033185840707964605,
+        "blood urea nitrogen": 0.028761061946902654,
+        "2019-nCoV": 0.02654867256637168,
+        "renal function": 0.024336283185840708,
+        "SARS": 0.022123893805309734,
+        "area under curve": 0.022123893805309734,
+        "receiver operating characteristic": 0.017699115044247787,
+        "pneumonia": 0.017699115044247787,
+        "acute respiratory": 0.015486725663716814,
+        "urine creatinine": 0.01327433628318584,
+        "novel coronavirus": 0.01327433628318584,
+        "ACE2": 0.011061946902654867,
+        "respiratory syndrome": 0.008849557522123894,
+        "Urinary microprotein": 0.008849557522123894,
+        "severe case": 0.008849557522123894,
+        "World Health Organization": 0.00663716814159292,
+        "Computed tomography": 0.00663716814159292,
+        "acute respiratory distress syndrome": 0.004424778761061947,
+        "Clinica chimica": 0.0022123893805309734,
+        "multi index": 0.0
+    },
+    "species": [
+        "Clinica chimica"
+    ],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Since December 2019, unexplained clustered pneumonia cases have started to appear in Wuhan, Hubei Province, China",
+        "It is identified as a pneumonia caused by a novel coronavirus infection.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The World Health Organization (WHO) named the coronavirus 2019-nCoV, which was the third coronavirus that infects humans from wild hosts across germlines after severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) and can cause severe pneumonia.",
+        "The related risk factors of COVID-19 with early renal injury were analyzed",
+        "<h2 style=\"display: inline\">Objectives:</h2> The aim of the study was to analyze the incidence of COVID-19 with early renal injury, and to explore the value of multi-index combined detection in diagnosis of early renal injury in COVID-19.",
+        "Urinary microprotein detection indicated that the area under curve (AUC) of multi-index combined to diagnose early renal injury in COVID-19 was 0.875, which was higher than UMA (0,813), A1M (0.813), IGU (0.750) and TRU (0.750) alone.",
+        "Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury",
+        "<h2 style=\"display: inline\">Methods:</h2> Patients From January 20, 2020 to February 20, 2020, 12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong, China.",
+        "Data collection A standardized case collection form was designed to collect laboratory data of the included patients.",
+        "It mainly included the following items: (1) blood routine; (2) biochemical indexes of kidney, liver, and heart function; (3) coagulation function; (5) infection indexes.",
+        "Spearman rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables",
+        "It was considered statistically significant when the P value was less than 0.05.",
+        "Patient and public involvement Patients were not directly involved in the design, planning and conducting of this study",
+        "<h2 style=\"display: inline\">Results:</h2> Laboratory characteristics of the COVID-19 patients Of the 12 patients with COVID-19, 2 were severe patients, 8 were general patients, and 2 were light patients.",
+        "As shown in Table 1, the common abnormal indicators included: increased neutrophil ratio (50%), increased monocyte ratio (75%), hypokalemia (50%), hyponatremia (50%), hypoproteinemia (75%), and increased C-reactive protein (83.3%).",
+        "66.7% patients had reduced eGFR and 41.7% patients had reduced Ccr. Urinary microprotein test confirmed that COVID-19 with early renal injury was common, with UACR> 30mg / g accounting for 41.7%.",
+        "The results suggested that the more severe the infection, the more obvious the early renal injury, and the early renal injury in COVID-19 can often cause hypokalemia and hyponatremia",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] The main physiological function of transferrin is to transport iron ions",
+        "It is a negatively charged protein, and its isoelectric point is one unit higher than that of albumin.",
+        "By performing comprehensive treatment measures, such as stopping the use of nephrotoxic drugs timely, maintaining water-electrolyte and acid-base balance and performing effective organ support treatment et al, the complications can be reduced effectively and the prognosis can be improved significantly"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Since December 2019, unexplained clustered pneumonia cases have started to appear in Wuhan, Hubei Province, China",
+            "It is identified as a pneumonia caused by a novel coronavirus infection.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The World Health Organization (WHO) named the coronavirus 2019-nCoV, which was the third coronavirus that infects humans from wild hosts across germlines after severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) and can cause severe pneumonia.",
+            "The related risk factors of COVID-19 with early renal injury were analyzed"
+        ],
+        "Objectives": [
+            "The aim of the study was to analyze the incidence of COVID-19 with early renal injury, and to explore the value of multi-index combined detection in diagnosis of early renal injury in COVID-19.",
+            "Urinary microprotein detection indicated that the area under curve (AUC) of multi-index combined to diagnose early renal injury in COVID-19 was 0.875, which was higher than UMA (0,813), A1M (0.813), IGU (0.750) and TRU (0.750) alone.",
+            "Hypokalemia and hyponatremia were common in patients with COVID-19, and there was a correlation with the degree of renal injury"
+        ],
+        "Methods": [
+            "Patients From January 20, 2020 to February 20, 2020, 12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong, China.",
+            "Data collection A standardized case collection form was designed to collect laboratory data of the included patients.",
+            "It mainly included the following items: (1) blood routine; (2) biochemical indexes of kidney, liver, and heart function; (3) coagulation function; (5) infection indexes.",
+            "Spearman rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables",
+            "It was considered statistically significant when the P value was less than 0.05.",
+            "Patient and public involvement Patients were not directly involved in the design, planning and conducting of this study"
+        ],
+        "Results": [
+            "Laboratory characteristics of the COVID-19 patients Of the 12 patients with COVID-19, 2 were severe patients, 8 were general patients, and 2 were light patients.",
+            "As shown in Table 1, the common abnormal indicators included: increased neutrophil ratio (50%), increased monocyte ratio (75%), hypokalemia (50%), hyponatremia (50%), hypoproteinemia (75%), and increased C-reactive protein (83.3%).",
+            "66.7% patients had reduced eGFR and 41.7% patients had reduced Ccr. Urinary microprotein test confirmed that COVID-19 with early renal injury was common, with UACR> 30mg / g accounting for 41.7%.",
+            "The results suggested that the more severe the infection, the more obvious the early renal injury, and the early renal injury in COVID-19 can often cause hypokalemia and hyponatremia"
+        ],
+        "Conclusion": [
+            "The detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] The main physiological function of transferrin is to transport iron ions",
+            "It is a negatively charged protein, and its isoelectric point is one unit higher than that of albumin.",
+            "By performing comprehensive treatment measures, such as stopping the use of nephrotoxic drugs timely, maintaining water-electrolyte and acid-base balance and performing effective organ support treatment et al, the complications can be reduced effectively and the prognosis can be improved significantly"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Wang_et+al_2020_a",
+            "entry": "1. Wang C, Horby PW, Hayden FG, et al (2020) A novel coronavirus outbreak of global health concern. Lancet 395 (10223):470-473. doi:10.1016/s0140-6736(20)30185-9",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(20)30185-9",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(20)30185-9"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhu_et+al_2020_a",
+            "entry": "2. Zhu N, Zhang D, Wang W, et al (2020) A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 382 (8):727-733. doi:10.1056/NEJMoa2001017",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "3",
+            "alt_id": "Munster_et+al_2020_a",
+            "entry": "3. Munster VJ, Koopmans M, van Doremalen N, et al (2020) A Novel Coronavirus Emerging in China - Key Questions for Impact Assessment. The New England journal of medicine 382 (8):692-694. doi:10.1056/NEJMp2000929",
+            "crossref": "https://dx.doi.org/10.1056/NEJMp2000929",
+            "scite": "https://scite.ai/reports/10.1056/NEJMp2000929",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMp2000929"
+        },
+        {
+            "id": "4",
+            "alt_id": "Perlman_2020_a",
+            "entry": "4. Perlman S (2020) Another Decade, Another Coronavirus. The New England journal of medicine 382 (8):760-762. doi:10.1056/NEJMe2001126",
+            "crossref": "https://dx.doi.org/10.1056/NEJMe2001126",
+            "scite": "https://scite.ai/reports/10.1056/NEJMe2001126"
+        },
+        {
+            "id": "5",
+            "alt_id": "Heymann_2020_a",
+            "entry": "5. Heymann DL, Shindo N (2020) COVID-19: what is next for public health? Lancet 395(10223):542-545. doi:10.1016/s0140-6736(20)30374-3",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(20)30374-3",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(20)30374-3",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/s0140-6736%2820%2930374-3"
+        },
+        {
+            "id": "6",
+            "alt_id": "6._2020_a",
+            "entry": "6. Expert Group of China National Health Commission and Administration of Traditional Chinese Medicine (2020) guidelines for diagnosis and treatment of New Coronavirus Pneumonia (Trial Version 5). Chinese Journal of Integrated Traditional and Western Medicine. doi:http://kns.cnki.net/kcms/detail/11.2787.R.20200208.1034.002.html 7. Wang LH (2020) Characteristics and countermeasures of 2019-nCoV infection. Chinese Journal of Experimental and Clinical Infectious Diseases (Electronic Edition)",
+            "url": "http://kns.cnki.net/kcms/detail/11.2787.R.20200208.1034.002.html",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Expert%20Group%20of%20China%20National%20Health%20Commission%20and%20Administration%20of%20Traditional%20Chinese%20Medicine%202020%20guidelines%20for%20diagnosis%20and%20treatment%20of%20New%20Coronavirus%20Pneumonia%20Trial%20Version%205%20Chinese%20Journal%20of%20Integrated%20Traditional%20and%20Western%20Medicine%20doihttpknscnkinetkcmsdetail112787R202002081034002html%207%20Wang%20LH%202020%20Characteristics%20and%20countermeasures%20of%202019nCoV%20infection%20Chinese%20Journal%20of%20Experimental%20and%20Clinical%20Infectious%20Diseases%20Electronic%20Edition",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Expert%20Group%20of%20China%20National%20Health%20Commission%20and%20Administration%20of%20Traditional%20Chinese%20Medicine%202020%20guidelines%20for%20diagnosis%20and%20treatment%20of%20New%20Coronavirus%20Pneumonia%20Trial%20Version%205%20Chinese%20Journal%20of%20Integrated%20Traditional%20and%20Western%20Medicine%20doihttpknscnkinetkcmsdetail112787R202002081034002html%207%20Wang%20LH%202020%20Characteristics%20and%20countermeasures%20of%202019nCoV%20infection%20Chinese%20Journal%20of%20Experimental%20and%20Clinical%20Infectious%20Diseases%20Electronic%20Edition"
+        },
+        {
+            "id": "14(1):1-5._0000_a",
+            "alt_id": "7",
+            "entry": "14(1):1-5. doi:http://kns.cnki.net/kcms/detail/11.9284.r.20200212.1113.002.html 8.",
+            "url": "http://kns.cnki.net/kcms/detail/11.9284.r.20200212.1113.002.html"
+        },
+        {
+            "id": "Huang_et+al_2020_a",
+            "alt_id": "8",
+            "entry": "Huang C, Wang Y, Li X, et al (2020) Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 395 (10223):497-506. doi:10.1016/s0140-6736(20)30183-5",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(20)30183-5"
+        },
+        {
+            "id": "9",
+            "alt_id": "Chen_et+al_2020_a",
+            "entry": "9. Chen N, Zhou M, Dong X, et al (2020) Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395 (10223):507-513. doi:10.1016/s0140-6736(20)30211-7",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(20)30211-7",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(20)30211-7"
+        },
+        {
+            "id": "10",
+            "alt_id": "Zumla_et+al_2016_a",
+            "entry": "10. Zumla A, Chan JF, Azhar EI, et al (2016) Coronaviruses - drug discovery and therapeutic options. Nature reviews Drug discovery 15 (5):327-347. doi:10.1038/nrd.2015.37",
+            "crossref": "https://dx.doi.org/10.1038/nrd.2015.37",
+            "scite": "https://scite.ai/reports/10.1038/nrd.2015.37",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nrd.2015.37"
+        },
+        {
+            "id": "11",
+            "alt_id": "Zhou_et+al_2020_a",
+            "entry": "11. Zhou P, Yang XL, Wang XG, et al (2020) A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. doi:10.1038/s41586-020-2012-7",
+            "crossref": "https://dx.doi.org/10.1038/s41586-020-2012-7",
+            "scite": "https://scite.ai/reports/10.1038/s41586-020-2012-7",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/s41586-020-2012-7"
+        },
+        {
+            "id": "12",
+            "alt_id": "Chu_et+al_2005_a",
+            "entry": "12. Chu KH, Tsang WK, Tang CS, et al (2005) Acute renal impairment in coronavirus-associated severe acute respiratory syndrome. Kidney international 67 (2):698-705. doi:10.1111/j.1523-1755.2005.67130.x",
+            "crossref": "https://dx.doi.org/10.1111/j.1523-1755.2005.67130.x",
+            "scite": "https://scite.ai/reports/10.1111/j.1523-1755.2005.67130.x"
+        },
+        {
+            "id": "13",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "13. Li Z, Wu M, Guo J, et al (2020) Caution on Kidney Dysfunctions of 2019-nCoV Patients. MedRxiv. doi: https://doi.org/10.1101/2020.02.08.20021212",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.08.20021212",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.08.20021212"
+        },
+        {
+            "id": "14",
+            "alt_id": "Zou_et+al_2020_a",
+            "entry": "14. Zou X, Chen K, Zou JW, et al (2020) The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection. Frontiers Journals of Medicine. doi: https://doi.org/10.1007/s11684-020-0754-0",
+            "crossref": "https://dx.doi.org/10.1007/s11684-020-0754-0",
+            "scite": "https://scite.ai/reports/10.1007/s11684-020-0754-0"
+        },
+        {
+            "id": "15",
+            "alt_id": "Chen_et+al_2011_a",
+            "entry": "15. Chen L, Li JX, Huang XB, et al (2011) Determination and its significance of the ratio of urine microalbumin to urine cretinine in patients with nephrolithiasis complicated with renal insufficiency. Journal of Peking University(Health Sciences) 43 (5):757-760. doi: http://xuebao.bjmu.edu.cn/EN/Y2011/V43/I5/757",
+            "url": "http://xuebao.bjmu.edu.cn/EN/Y2011/V43/I5/757",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20L.%20Li%2C%20J.X.%20Huang%2C%20X.B.%20Determination%20and%20its%20significance%20of%20the%20ratio%20of%20urine%20microalbumin%20to%20urine%20cretinine%20in%20patients%20with%20nephrolithiasis%20complicated%20with%20renal%20insufficiency%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20L.%20Li%2C%20J.X.%20Huang%2C%20X.B.%20Determination%20and%20its%20significance%20of%20the%20ratio%20of%20urine%20microalbumin%20to%20urine%20cretinine%20in%20patients%20with%20nephrolithiasis%20complicated%20with%20renal%20insufficiency%202011"
+        },
+        {
+            "id": "16",
+            "alt_id": "Nordberg_et+al_2007_a",
+            "entry": "16. Nordberg J, Allhorn M, Winqvist I, et al (2007) Quantitative and qualitative evaluation of plasma and urine alpha1-microglobulin in healthy donors and patients with different haemolytic disorders and haemochromatosis. Clinica chimica acta 386 (1-2):31-37. doi:10.1016/j.cca.2007.07.017",
+            "crossref": "https://dx.doi.org/10.1016/j.cca.2007.07.017",
+            "scite": "https://scite.ai/reports/10.1016/j.cca.2007.07.017"
+        },
+        {
+            "id": "17",
+            "alt_id": "Hou_et+al_2019_a",
+            "entry": "17. Hou J, Cheng Y, Hou Y, et al (2019) Lower Serum and Higher Urine Immunoglobulin G Are Associated with an Increased Severity of Idiopathic Membranous Nephropathy. Annals of clinical and laboratory science 49 (6):777-784 18. Casanova AG, Vicente-Vicente L, Hernandez-Sanchez MT, et al (2020) Urinary transferrin pre-emptively identifies the risk of renal damage posed by subclinical tubular alterations. Biomedicine & pharmacotherapy 121:109684. doi:10.1016/j.biopha.2019.1096",
+            "crossref": "https://dx.doi.org/10.1016/j.biopha.2019.1096",
+            "scite": "https://scite.ai/reports/10.1016/j.biopha.2019.1096",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.biopha.2019.1096"
+        }
+    ],
+    "facts": [
+        "Participants 12 patients diagnosed with COVID-19 from January 20",
+        "secondary outcome measures The primary outcome was to evaluate the incidence of early renal injury in COVID-19",
+        "urinary creatinine ratio were calculated to assess the incidence of early renal injury",
+        "Secondary outcomes were the diagnostic value of urine microalbumin",
+        "Results While all patients had no significant abnormalities in serum creatinine and blood urea nitrogen",
+        "Urinary microprotein detection indicated that the area under curve",
+        "which was higher than UMA",
+        "Spearman analysis showed that the degree of early renal injury was significantly related to C-reactive protein",
+        "Hypokalemia and hyponatremia were common in patients with COVID-19",
+        "clustered pneumonia cases have started to appear in Wuhan",
+        "as a pneumonia caused by a novel coronavirus infection.[1,2",
+        "coronavirus-infected disease2019 novel coronavirus disease shorted for COVID-19",
+        "a total of 76,396 cases were diagnosed in China",
+        "Multiple organ failure is the main cause of death of COVID-19",
+        "The latest research reports that the incidence",
+        "with organ dysfunction is about 33%",
+        "Impaired renal function can lead to obstruction of excretion",
+        "which will adversely affect the maintenance of the electrolyte",
+        "timely effective interventions are of great significance for reducing complications",
+        "This study intends to use a number of laboratory test indexes",
+        "12 patients with pneumonia of unknown cause were admitted to a tertiary hospital in Guangdong",
+        "Nasopharyngeal swab samples of all patients were tested positive for 2019-nCoV virus nucleic acid",
+        "The disease diagnostic criteria and case classification were refer to the guidelines for diagnosis and treatment",
+        "of COVID-19 issued by China National Health Commission.[6",
+        "The area under curves of receiver operating characteristic were calculated for predictive analysis",
+        "rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables",
+        "public involvement Patients were not directly involved in the design",
+        "Ccr showed that early renal injury was common in",
+        "Urinary microprotein test confirmed that COVID-19 with early renal injury was common",
+        "The results suggested that case 3",
+        "that the multi-index combined was helpful for the diagnosis of early renal injury",
+        "Factors related to early renal injury in COVID-19",
+        "Spearman correlation coefficients were used to evaluate the correlation between renal function indicators",
+        "that eGFR was negatively correlated with CRP",
+        "Ccr was negatively correlated with CRP",
+        "UACR was positively correlated with CRP",
+        "Coronaviruses are single-stranded positive-strand RNA viruses",
+        "\u03b4 according to serotype",
+        "Previous case reports suggest that the spectrum of diseases caused by coronavirus infection is polarized",
+        "Obvious changes can be found in lung imaging",
+        "The diseases caused by its infection combines the characteristics of the previous",
+        "The pairwise protein sequence analysis of seven conserved non-structural proteins showed that this virus belongs to the species",
+        "SARS-CoV suggests that the risk factors of mortality could be similar. SARS is an acute respiratory infectious disease",
+        "all patients who eventually died had a progressive rise of Scr",
+        "the rise of Scr was rapid in those who succumbed",
+        "27% of the patients had an elevated level of Scr",
+        "The results suggested that renal injury was common in COVID-19",
+        "which may contribute to multiorgan failure and death",
+        "the high incidence of early renal injury in COVID-19 was found by calculating eGFR",
+        "TRU could be helpful for the diagnosis of early renal injury",
+        "the study found that the degree of early renal injury was significantly related to C-reactive protein",
+        "the single-cell RNA sequencing datasets to explore the expression of ACE2 in the main physiological systems",
+        "The study showed that heart",
+        "The results suggest that the kidney may be",
+        "Urine microprotein refers to some proteins",
+        "Urine microalbumin is a sensitive indicator of early glomerular injury",
+        "the majority of urine microalbumin cannot pass through the filtration membrane under the action",
+        "Urine \u03b11-microglobulin is an important indicator for monitoring renal tubular injury",
+        "\u03b11-microglobulin can pass through the glomerular filtration membrane",
+        "95% to 99% is reabsorbed in the proximal tubule",
+        "the elevation is consistent with the degree of renal tubular injury.[16",
+        "difficult to pass through the glomerular filtration membrane",
+        "the detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[17",
+        "which mainly reflects the damage of glomerular filtration membrane charge selection barrier.[18",
+        "this study first investigated the incidence of early renal injury",
+        "this study clarified the value of multi-index combined detection for the diagnosis",
+        "some limitations that must be taken into account when considering its contribution",
+        "The cases found in this city are all imported cases",
+        "the number of cases included in this research is small",
+        "the type of research used in this study is designed as a descriptive study",
+        "which initially explores the basic characteristics of the disease",
+        "Early renal injury was common in patients with COVID-19",
+        "TRU was helpful for the diagnosis of early renal injury",
+        "This study found that early renal injury was common in patients",
+        "The 12 cases of COVID-19 reported in this study were all healed",
+        "with renal injury could be found in time by combining multiple indexes detection",
+        "Spearman rank correlation coefficient was used to analyze the linear correlation between two sets of continuous variables",
+        "The detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[17"
+    ],
+    "claims": [
+        "This study found that early renal injury was common in patients with COVID-19"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "It is identified as a pneumonia caused by a novel coronavirus infection.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "On February 11, 2020, the World Health Organization named the novel coronavirus-infected disease2019 novel coronavirus disease shorted for COVID-19",
+        "The latest research reports that the incidence of COVID-19 with organ dysfunction is about 33%, of which the acute renal injury is about 3 ~ 7%. [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Impaired renal function can lead to obstruction of excretion of metabolites and toxins in the body, which will adversely affect the maintenance of the electrolyte and acid-base balance of the human body",
+        "Detection of evidence of renal injury and timely effective interventions are of great significance for reducing complications and improving prognosis",
+        "This study intends to use a number of laboratory test indexes, including serum creatinine, blood urea nitrogen, urine creatinine, urine microalbumin and urine microglobulin et al to comprehensively assess renal function and determine the incidence of COVID-19 with early renal injury",
+        "Nasopharyngeal swab samples of all patients were tested positive for 2019-nCoV virus nucleic acid and confirmed to be infected with 2019-nCoV by Guangdong Province CDC (Center for Disease Control and Prevention)",
+        "The calculation of estimated glomerular filtration rate and creatinine clearance showed that early renal injury was common in COVID-19 patients",
+        "The results suggested that case 3, 5, 6, and 7 were significant early kidney injury cases",
+        "Urinary microprotein detection in diagnosis of early renal injury in COVI D-19 The area under curve of urine microalbumin, A1M, IGU, and TRU for the diagnosis of early renal injury in COVID-19 were 0.813, 0.813, 0.750, and 0.750 respectively, while the area under curve of the combined index of urine microalbumin + A1M + IGU + TRU was 0.875, suggesting that the multi-index combined was helpful for the diagnosis of early renal injury in COVID-19, as shown in Fig 1",
+        "Factors related to early renal injury in COVID-19 In this study, Spearman correlation coefficients were used to evaluate the correlation between renal function indicators and the obviously abnormal biochemical indicators (C-reactive protein (CRP), neutrophil ratio (NER), monocyte ratio (MOR), serum potassium (K), serum sodium (Na), and albumin (ALB))",
+        "As shown in Table 3, it was found that estimated glomerular filtration rate was negatively correlated with C-reactive protein and neutrophil ratio, and positively correlated with serum K, creatinine clearance was negatively correlated with C-reactive protein and neutrophil ratio, and positively correlated with MOR and serum Na, and urinary creatinine ratio was positively correlated with C-reactive protein, and negatively correlated with serum K (Fig 2)",
+        "In 2014, the International Virological Classification Committee classified them into four genera: \u03b1, \u03b2, \u03b3, and \u03b4 according to serotype and genomic characteristics",
+        "Previous case reports suggest that the spectrum of diseases caused by coronavirus infection is polarized",
+        "The diseases caused by its infection combines the characteristics of the previous six coronaviruses, and the disease spectrum is broad.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]",
+        "The pairwise protein sequence analysis of seven conserved non-structural proteins showed that this virus belongs to the species of severe acute respirator syndrome-related coronaviruses (SARSr-CoV)",
+        "All patients who eventually died had a progressive rise of serum creatinine, and the rise of serum creatinine was rapid in those who succumbed early in their illness",
+        "63% of the patients exhibited proteinuria, and 19% and 27% of the patients had an elevated level of serum creatinine and blood urea nitrogen respectively",
+        "The results suggested that renal injury was common in COVID-19, which may contribute to multiorgan failure and death eventually.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+        "All the patients still had normal level of serum creatinine and blood urea nitrogen, the high incidence of early renal injury in COVID-19 was found by calculating estimated glomerular filtration rate, CCR and urinary creatinine ratio",
+        "Combined detection of urine microalbumin, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19",
+        "Xin Zou et al[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] analyzed the single-cell RNA sequencing datasets to explore the expression of ACE2 in the main physiological systems of the human body, including the respiratory, cardiovascular, digestive and urinary system",
+        "Urine microprotein refers to some proteins that are difficult to detect by conventional qualitative or quantitative methods",
+        "Urine microalbumin is a sensitive indicator of early glomerular injury",
+        "Due to the charge selection barrier of the glomerular filtration membrane, the majority of urine microalbumin cannot pass through the filtration membrane under the action of electrostatic homogeneous repulsion",
+        "It is a glycoprotein with a molecular weight of 26,000 to 33,000 and is widely distributed in human body. \u03b11-microglobulin can pass through the glomerular filtration membrane, and 95% to 99% is reabsorbed in the proximal tubule, and it is not affected by pH",
+        "In the early stage of renal injury, the renal tubule reabsorption function reduced, resulting in urine \u03b11-microglobulin excretion increased, and the elevation is consistent with the degree of renal tubular injury.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]",
+        "The detection of urine immunoglobulin G can help to judge the degree of damage on the glomerular filtration membrane.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]",
+        "Urine transferrin is one of the indicators of early glomerular injury, which mainly reflects the damage of glomerular filtration membrane charge selection barrier.[18]",
+        "Strengths of this study are as follows: Firstly, this study first investigated the incidence of early renal injury in COVID-19 and revealed the prevalence of early renal injury in COVID-19 patients",
+        "This study clarified the value of multi-index combined detection for the diagnosis of early renal injury in COVID-19, and provided a basis for early detection and early intervention",
+        "Considering COVID-19 is a completely new disease, and we do not yet fully know the characteristics of its cases, the type of research used in this study is designed as a descriptive study, which initially explores the basic characteristics of the disease and does not set the control group",
+        "This study found that early renal injury was common in patients with COVID-19",
+        "The 12 cases of COVID-19 reported in this study were all healed and discharged after being treated with antivirals, maintaining water and electrolyte balance, enhancing immunity, oxygen therapy, and traditional chinses medicine treatment",
+        "In the diagnosis of early renal injury, evidence of COVID-19 with renal injury could be found in time by combining multiple indexes detection"
+    ],
+    "top_statements": [
+        "Since December 2019, unexplained clustered pneumonia cases have started to appear in Wuhan, Hubei Province, China",
+        "The latest research reports that the incidence of COVID-19 with organ dysfunction is about 33%, of which the acute renal injury is about 3 ~ 7%. [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Impaired renal function can lead to obstruction of excretion of metabolites and toxins in the body, which will adversely affect the maintenance of the electrolyte and acid-base balance of the human body",
+        "Factors related to early renal injury in COVID-19 In this study, Spearman correlation coefficients were used to evaluate the correlation between renal function indicators and the obviously abnormal biochemical indicators (C-reactive protein (CRP), neutrophil ratio (NER), monocyte ratio (MOR), serum potassium (K), serum sodium (Na), and albumin (ALB))",
+        "As shown in Table 3, it was found that estimated glomerular filtration rate was negatively correlated with C-reactive protein and neutrophil ratio, and positively correlated with serum K, creatinine clearance was negatively correlated with C-reactive protein and neutrophil ratio, and positively correlated with MOR and serum Na, and urinary creatinine ratio was positively correlated with C-reactive protein, and negatively correlated with serum K (Fig 2)",
+        "Combined detection of urine microalbumin, A1M, IGU, and TRU could be helpful for the diagnosis of early renal injury in COVID-19",
+        "This study found that early renal injury was common in patients with COVID-19"
+    ],
+    "headline": "Factors related to early renal injury in COVID-19 In this study, Spearman correlation coefficients were used to evaluate the correlation between renal function indicators and the obviously abnormal biochemical indicators, neutrophil ratio, monocyte ratio, serum potassium, serum sodium, and albumin )",
+    "contexts": [],
+    "abbreviations": {
+        "eGFR": "estimated glomerular filtration rate",
+        "Ccr": "creatinine clearance",
+        "UACR": "urinary creatinine ratio",
+        "UMA": "urine microalbumin",
+        "Scr": "serum creatinine",
+        "BUN": "blood urea nitrogen",
+        "AUC": "area under curve",
+        "CRP": "C-reactive protein",
+        "NER": "neutrophil ratio",
+        "WHO": "World Health Organization",
+        "ARDS": "acute respiratory distress syndrome",
+        "Ucr": "urine creatinine",
+        "ROC": "receiver operating characteristic",
+        "CT": "Computed tomography"
+    }
+}

@@ -1,0 +1,604 @@
+{
+    "filename": "2020.01.25.919787v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 1853763,
+    "metadata": {
+        "title": "Transmission dynamics of 2019 novel coronavirus (2019-nCoV) Tao Liu*, Jianxiong Hu*, Min Kang*, Lifeng Lin*, Haojie Zhong*, Jianpeng Xiao*, Guanhao He, Tie Song, Qiong Huang, Zuhua Rong, Aiping Deng, Weilin Zeng, Xiaohua Tan, Siqing Zeng, Zhihua Zhu, Jiansen Li, Donghua Wan, Jing Lu, Huihong Deng, Jianfeng He\u2020, Wenjun Ma\u2020 Guangdong Provincial Institute of Public Health, Guangdong Provincial Center for Disease Control and Prevention (T Liu PhD, J Hu MS, J Xiao PhD, G He PhD, Z Rong MS, W Zeng MS, S Zeng MD, Z Zhu MS, D Wan MS, J Lu PhD, W Ma PhD) Guangdong Provincial Center for Disease Control and Prevention (M Kang PhD, L Lin PhD, H Zhong MD, T Song MPH, Q Huang PhD, A Deng MPH, X Tan BS, J Li MPH., H Deng MD, J He MD,) *These authors contributed equally to this work \u2020These authors contributed equally to this work Correspondence to: Dr. Jianfeng He, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou 511430, China 1460035443@qq.com or Dr.Wenjun Ma, Guangdong Provincial Institute of Public Health, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou 511430, China mawj@gdiph.org.cn",
+        "date": 2020,
+        "affiliations": [
+            "Guangdong Provincial Institute of Public Health, Guangdong Provincial Center for Disease Control and Prevention (T Liu PhD, J Hu MS, J Xiao PhD, G He PhD, Z Rong MS, W Zeng MS, S Zeng MD, Z Zhu MS, D Wan MS, J Lu PhD, W Ma PhD) Guangdong Provincial Center for Disease Control and Prevention (M Kang PhD, L Lin PhD, H Zhong MD, T Song MPH, Q Huang PhD, A Deng MPH, X Tan BS, J Li MPH., H Deng MD, J He MD,)",
+            "These authors contributed equally to this work",
+            "These authors contributed equally to this work Correspondence to: Dr. Jianfeng He, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou 511430, China 1460035443@qq.com or Dr.Wenjun Ma, Guangdong Provincial Institute of Public Health, Guangdong Provincial Center for Disease Control and Prevention, Guangzhou 511430, China mawj@gdiph.org.cn",
+            "Funding National Key Research and Development Program of China, Science and Technology Program of Guangdong Province, and Guangzhou Science and technology Plan Project.",
+            "Due to limited information on GT from our data, we cannot calculate the GT of 2019-nCoV. So, we applied the GT of SARS in a previous study as the GT of 2019-nCoV (GT=8.4 days, SD=3.8 days).8"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.01.25.919787",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.01.25.919787v1.pdf"
+        },
+        "abstract": "Background Since December 29, 2019, pneumonia infection with 2019-nCoV has rapidly spread out from Wuhan, Hubei Province, China to most others provinces and other counties. However, the transmission dynamics of 2019-nCoV remain unclear. Methods Data of confirmed 2019-nCoV cases before January 23, 2020 were collected from medical records, epidemiological investigations or official websites. Data of severe acute respiratory syndrome (SARS) cases in Guangdong Province during 2002-2003 were obtained from Guangdong Provincial Center for Disease Control and Prevention (GDCDC). Exponential Growth (EG) and maximum likelihood estimation (ML) were applied to estimate the reproductive number (R) of 2019-nCoV and SARS. Findings As of January 23, 2020, a total of 830 confirmed 2019-nCoV cases were identified across China, and 9 cases were reported overseas. The average incubation duration of 2019-nCoV infection was 4.8days. The average period from onset of symptoms to isolation of 2019-nCoV and SARS cases were 2.9 and 4.2 days, respectively. The R values of 2019-nCoV were 2.90 (95%CI: 2.32-3.63) and 2.92 (95%CI: 2.28-3.67) estimated using EG and ML respectively, while the corresponding R values of SARS-CoV were 1.77 (95%CI: 1.37-2.27) and 1.85 (95%CI: 1.32-2.49). We observe a decreasing trend of the period from onset to isolation and R values of both 2019-nCoV and SARS-CoV. Interpretation The 2019-nCoV may have a higher pandemic risk than SARS broken out in 2003. The implemented",
+        "references": "@misc{orgnizaiton-a,\n  author = {Orgnizaiton, World Health},\n  title = {Summary of probable SARS cases with onset of illness from 1},\n  url = {https://www.who.int/csr/sars/country/table2004_04_21/en/.},\n  language = {}\n}\n@article{unknown2019a,\n  title = {The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. An Outbreak of NCIP},\n  date = {2019},\n  journal = {China CDC Weekly},\n  volume = {2020},\n  pages = {79\u201380},\n  source = {Infection in China \u2014 Wuhan, Hubei Province},\n  number = {2},\n  language = {}\n}\n@misc{organization-a,\n  author = {Organization, World Health},\n  title = {Coronavirus. 2020},\n  url = {https://www.who.int/healthtopics/coronavirus},\n  language = {},\n  urldate = {(1-21 2020).}\n}\n@article{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {The Lancet},\n  volume = {2020},\n  doi = {Doi:https://doi.org/10.1016/S0140-6736(20)30183-5},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown-a,\n  title = {the People's Republic of China. Epidemic situation of novel coronavirus infection},\n  url = {http://www.nhc.gov.cn/xcs/yqfkdt/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml},\n  language = {},\n  urldate = {(January 25 2020).},\n  institution = {National Health Commission of}\n}\n@article{lipsitch2003a,\n  author = {Lipsitch, M. and Cohen, T. and Cooper, B.},\n  title = {Transmission dynamics and control of severe acute respiratory syndrome},\n  journal = {Science},\n  date = {2003},\n  volume = {300},\n  pages = {1966\u201370},\n  more-authors = {true},\n  number = {5627},\n  language = {}\n}\n@article{park2019a,\n  author = {Park, S.W. and Champredon, D. and Weitz, J.S. and Dushoff, J.},\n  title = {A practical generation-interval-based approach to inferring the strength of epidemics from their speed},\n  journal = {Epidemics},\n  date = {2019},\n  volume = {27},\n  pages = {12\u20138},\n  language = {}\n}\n@article{wallinga2004a,\n  author = {Wallinga, J. and Teunis, P.},\n  title = {Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures},\n  journal = {American Journal of Epidemiology},\n  date = {2004},\n  volume = {160},\n  pages = {509},\n  number = {6},\n  language = {}\n}\n@article{wallinga2007a,\n  author = {Wallinga, J. and Lipsitch, M.},\n  title = {How generation intervals shape the relationship between growth rates and reproductive numbers},\n  journal = {Proceedings Biological Sciences},\n  date = {2007},\n  volume = {274},\n  pages = {599\u2013604},\n  number = {1609},\n  language = {}\n}\n@article{white2008a,\n  author = {White, L.F. and Pagano, M.},\n  title = {A likelihood-based method for real-time estimation of the serial interval and reproductive number of an epidemic},\n  journal = {Statistics in Medicine},\n  date = {2008},\n  volume = {27},\n  pages = {2999\u20133016},\n  number = {16},\n  language = {}\n}\n@article{parry-a,\n  author = {Parry, J.},\n  title = {China coronavirus: cases surge as official admits human to human transmission},\n  journal = {BMJ},\n  volume = {2020},\n  pages = {236},\n  number = {368},\n  language = {}\n}\n@article{bauch2005a,\n  author = {Bauch, C.T. and Lloyd-Smith, J.O. and Coffee, M.P. and Galvani, A.P.},\n  title = {Dynamically modeling SARS and other newly emerging respiratory illnesses: past, present, and future},\n  journal = {Epidemiology},\n  date = {2005},\n  volume = {16},\n  pages = {791\u2013801},\n  number = {6},\n  language = {}\n}\n@article{fraser2004a,\n  author = {Fraser, C. and Riley, S. and Anderson, R.M. and Ferguson, N.M.},\n  title = {Factors that make an infectious disease outbreak controllable},\n  journal = {PNAS},\n  date = {2004},\n  volume = {101},\n  pages = {6146\u201351},\n  number = {16},\n  language = {}\n}\n@article{peak2017a,\n  author = {Peak, C.M. and Childs, L.M. and Grad, Y.H. and Buckee, C.O.},\n  title = {Comparing nonpharmaceutical interventions for containing emerging epidemics},\n  journal = {PNAS},\n  date = {2017},\n  volume = {114},\n  pages = {4023\u20138},\n  number = {15},\n  language = {}\n}\n@misc{chan-a,\n  author = {Chan, J.F.-W. and Yuan, S. and Kok, K.-H.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet 2020},\n  doi = {Doi},\n  url = {https://doi.org/10.1016/S0140-6736},\n  more-authors = {true},\n  language = {}\n}\n",
+        "emails": [
+            "mawj@gdiph.org.cn",
+            "1460035443@qq.com"
+        ],
+        "references_ris": "TY  - GEN\nAU  - Orgnizaiton, World Health\nTI  - Summary of probable SARS cases with onset of illness from 1\nUR  - https://www.who.int/csr/sars/country/table2004_04_21/en/.\nLA  - \nER  - \n\nTY  - JOUR\nTI  - The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. An Outbreak of NCIP\nPY  - 2019\nDA  - 2019\nT2  - China CDC Weekly\nVL  - 2020\nSP  - 79\nEP  - 80\nT2  - Infection in China \u2014 Wuhan, Hubei Province\nIS  - 2\nLA  - \nER  - \n\nTY  - GEN\nAU  - Organization, World Health\nTI  - Coronavirus. 2020\nUR  - https://www.who.int/healthtopics/coronavirus\nLA  - \nC1  - (1-21 2020).\nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - The Lancet\nVL  - 2020\nDO  - Doi:https://doi.org/10.1016/S0140-6736(20)30183-5\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nTI  - the People's Republic of China. Epidemic situation of novel coronavirus infection\nUR  - http://www.nhc.gov.cn/xcs/yqfkdt/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml\nLA  - \nC1  - (January 25 2020).\nC1  - National Health Commission of\nER  - \n\nTY  - JOUR\nAU  - Lipsitch, M.\nAU  - Cohen, T.\nAU  - Cooper, B.\nTI  - Transmission dynamics and control of severe acute respiratory syndrome\nT2  - Science\nPY  - 2003\nDA  - 2003\nVL  - 300\nSP  - 1966\nEP  - 70\nC1  - true\nIS  - 5627\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Park, S.W.\nAU  - Champredon, D.\nAU  - Weitz, J.S.\nAU  - Dushoff, J.\nTI  - A practical generation-interval-based approach to inferring the strength of epidemics from their speed\nT2  - Epidemics\nPY  - 2019\nDA  - 2019\nVL  - 27\nSP  - 12\nEP  - 8\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Teunis, P.\nTI  - Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures\nT2  - American Journal of Epidemiology\nPY  - 2004\nDA  - 2004\nVL  - 160\nSP  - 509\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wallinga, J.\nAU  - Lipsitch, M.\nTI  - How generation intervals shape the relationship between growth rates and reproductive numbers\nT2  - Proceedings Biological Sciences\nPY  - 2007\nDA  - 2007\nVL  - 274\nSP  - 599\nEP  - 604\nIS  - 1609\nLA  - \nER  - \n\nTY  - JOUR\nAU  - White, L.F.\nAU  - Pagano, M.\nTI  - A likelihood-based method for real-time estimation of the serial interval and reproductive number of an epidemic\nT2  - Statistics in Medicine\nPY  - 2008\nDA  - 2008\nVL  - 27\nSP  - 2999\nEP  - 3016\nIS  - 16\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Parry, J.\nTI  - China coronavirus: cases surge as official admits human to human transmission\nT2  - BMJ\nVL  - 2020\nSP  - 236\nIS  - 368\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bauch, C.T.\nAU  - Lloyd-Smith, J.O.\nAU  - Coffee, M.P.\nAU  - Galvani, A.P.\nTI  - Dynamically modeling SARS and other newly emerging respiratory illnesses: past, present, and future\nT2  - Epidemiology\nPY  - 2005\nDA  - 2005\nVL  - 16\nSP  - 791\nEP  - 801\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fraser, C.\nAU  - Riley, S.\nAU  - Anderson, R.M.\nAU  - Ferguson, N.M.\nTI  - Factors that make an infectious disease outbreak controllable\nT2  - PNAS\nPY  - 2004\nDA  - 2004\nVL  - 101\nSP  - 6146\nEP  - 51\nIS  - 16\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peak, C.M.\nAU  - Childs, L.M.\nAU  - Grad, Y.H.\nAU  - Buckee, C.O.\nTI  - Comparing nonpharmaceutical interventions for containing emerging epidemics\nT2  - PNAS\nPY  - 2017\nDA  - 2017\nVL  - 114\nSP  - 4023\nEP  - 8\nIS  - 15\nLA  - \nER  - \n\nTY  - GEN\nAU  - Chan, J.F.-W.\nAU  - Yuan, S.\nAU  - Kok, K.-H.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet 2020\nDO  - Doi\nUR  - https://doi.org/10.1016/S0140-6736\nC1  - true\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The spatial distribution of confirmed 2019-nCoV cases, December 29, 2019 to January 23, 2020 Chart A: The global distribution of confirmed 2019-nCoV cases. Chart B: The distribution of confirmed 2019-nCoV cases in China. Pie in each province represents two types of 2019-nCoV cases. Blue in the pie represents the cases included in this study, and yellow in the pie represents the cases not included in this study"
+            },
+            {
+                "id": "2",
+                "caption": "The epidemic trend of confirmed 2019-nCoV and SARS cases included in this study Chart A: The epidemic trend of 164 confirmed 2019-nCoV cases. Chart B: The epidemic trend of SARS cases in Guangdong Province"
+            },
+            {
+                "id": "3",
+                "caption": "Frequency distribution and temporal change of the period from symptom onset to isolation in 2019-nCoV cases Chart A: The frequency distribution of the period from onset to isolation. Chart B: The temporal change of the period from onset to isolation"
+            },
+            {
+                "id": "4",
+                "caption": "The temporal distribution of R values in 2019-nCoV and SARS Chart A: The temporal distribution of R values in 2019-nCoV. Chart B: The temporal distribution of R values in SARS"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.25.919787v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.25.919787v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.25.919787v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.25.919787v1/img-003.png"
+        ]
+    },
+    "sections": {
+        "summary": [
+            "<strong>Summary Background Since</strong><br/><br/>December 29, 2019, pneumonia infection with 2019-nCoV has rapidly spread out from Wuhan, Hubei Province, China to most others provinces and other counties. However, the transmission dynamics of 2019-nCoV remain unclear. Methods Data of confirmed 2019-nCoV cases before January 23, 2020 were collected from medical records, epidemiological investigations or official websites. Data of severe acute respiratory syndrome (SARS) cases in Guangdong Province during 2002-2003 were obtained from Guangdong Provincial Center for Disease Control and Prevention (GDCDC). Exponential Growth (EG) and maximum likelihood estimation (ML) were applied to estimate the reproductive number (R) of 2019-nCoV and SARS. Findings As of January 23, 2020, a total of 830 confirmed 2019-nCoV cases were identified across China, and 9 cases were reported overseas. The average incubation duration of 2019-nCoV infection was 4.8days. The average period from onset of symptoms to isolation of 2019-nCoV and SARS cases were 2.9 and 4.2 days, respectively. The R values of 2019-nCoV were 2.90 (95%CI: 2.32-3.63) and 2.92 (95%CI: 2.28-3.67) estimated using EG and ML respectively, while the corresponding R values of SARS-CoV were 1.77 (95%CI: 1.37-2.27) and 1.85 (95%CI: 1.32-2.49). We observe a decreasing trend of the period from onset to isolation and R values of both 2019-nCoV and SARS-CoV. Interpretation The 2019-nCoV may have a higher pandemic risk than SARS broken out in 2003. The implemented public-health efforts have significantly decreased the pandemic risk of 2019-nCoV. However, more rigorous control and prevention strategies and measures to contain its further spread. Funding National Key Research and Development Program of China, Science and Technology Program of Guangdong Province, and Guangzhou Science and technology Plan Project.<br/><br/>Research in context Evidence before this study We searched PubMed and China National Knowledge Infrastructure database for articles published up to Jan 25, 2020, using the keywords \u201cWuhan\u201d, \u201cnovel coronavirus\u201d, \u201c2019 novel coronavirus\u201d or \u201c2019-nCoV\u201d. We found limited evidence of human-to-human transmission of 2019-nCoV from familial cluster, no published reports about the transmission dynamics. Added value of this study We reported the transmission dynamics of 2019 novel coronavirus (2019-nCoV) indicated by reproductive number (R), and found that 2019-nCoV may have a severer transmissibility than SARS-CoV. A decrease in the R values and periods from onset of symptoms to isolation during the spread of 2019-nCoV indicates the effectiveness of rigorous measures and actions that were conducted by China. Implications of all the available evidence Our findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility.<br/><br/>In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1 On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] As of January 24, 2020, the virus had spread to 29 provinces, regions and municipal cities across China. A total of 1965 suspected cases and 1287 confirmed cases with 41 fatality had been reported.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] With the cases spread widely in China, more and more cases were detected from medical staff and persons without exposure history of wildlife or visiting Wuhan within 14 days prior to the onset of illness, it is very evident that 2019-nCoV can spread fast between persons.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] However, a series of epidemiological parameters such as the incubation period, the humanto-human transmissibility as well as the time period from onset of symptoms to isolation are unclear. Understanding these parameters is critical to predict the trend of 2019-nCoV outbreak, as well as guide clinical management and prevention and control of the 2019-nCoV outbreak. In the study, we examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV."
+        ],
+        "methods": [
+            "Data Collection Data on confirmed cases of 2019-nCoV were collected as of January 23, 2020, including the date of exposure, symptom onset, and diagnosis. For the cases reported in Guangdong Province, China, the data were obtained from medical records and epidemiological investigations. For the cases reported in other regions of China or other countries, we extracted related information from official websites. We also collected the number of daily cases of SARS from November 16, 2002 to June 3, 2003 in Guangdong Province, China, which was provided by Guangdong Provincial Center for Disease Control and Prevention (GDCDC). Estimation of reproductive number (R) The basic reproductive number (R0) refers to the expected number of secondary infectious cases produced by a typical index case in an entirely susceptible population, which is a key indicator of transmissibility. When infection is spreading in a population, effective reproductive number (R) is more commonly used to describe transmissibility, which is defined as the average number of secondary cases generated by per infectious case. In the absence of control measures, R = R0\u03c7, where \u03c7 is the proportion of the susceptible population.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] R>1 means an increase of the number of cases will occur, while R<1 means the number of cases will decline. In order to calculate the R of 2019nCoV, we need obtain the generation time (GT), also known as generation interval or series interval, which is defined as the time interval between symptom onset in an index case and symptom onset in a secondary case.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] Due to limited information on GT from our data, we cannot calculate the GT of 2019-nCoV. So, we applied the GT of SARS in a previous study as the GT of 2019-nCoV (GT=8.4 days, SD=3.8 days).[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]<br/><br/>In the current study, we applied Exponential Growth (EG) and Maximum likelihood estimation (ML)<br/><br/>to estimate effective R value for 164 2019-nCoV cases with available symptom onset. As R value varied in different phase of an epidemic, in order to compare with the R of SARS-CoV, we further estimated the R value of SARS-CoV using the data in the early phase (December 26, 2002 to January<br/><br/>23, 2003) of the SARS outbreak in Guangdong Province.<br/><br/>Exponential growth<br/><br/>During the early phase of a disease epidemic, the reproductive rate was considered to be linked to exponential growth rate,[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] which was defined by the per capita change in number of new cases per unit of time. We used Poisson regression to fit the exponential growth rate, since the daily incidence data are integer. The estimation of reproductive number was described as:    =    1  (\u2212 )    (1)<br/><br/>where M denotes the moment generating function of the generation time distribution, and r denotes the fitted exponential growth rate.<br/><br/>Maximum likelihood estimation<br/><br/>The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10 Therefore, R can be estimated by maximizing the log-likelihood, as:    ( )<br/><br/>\u2211 =1 log\u2061(  \u2212    )    !    =   \u2211 =1  \u22121    (2-1) (2-2)<br/><br/>Where Nt denotes the number of symptoms onset cases observed on day t, w denotes the generation time distribution.<br/><br/>Estimation of the time dependent reproductive numbers (Rt)<br/><br/>The time-dependent reproduction number (Rt) is a real-time measure of disease transmissibility, which can be estimated over the course of disease progression. The Rt is particularly useful for monitoring epidemic trends, identifying \u201csuper-spreader events,\u201d measuring progress of interventions over time, as well as providing parameters for mathematical models. Based on previous studies,[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] we calculated Rt by averaging all transmission networks compatible with observations per two days, using the following equation:<br/><br/>\u2061 ( \u2212 ) \u2211 \u2260   ( \u2212 )    = \u2211    (3-1) (3-2)    \u2211{ = }    (3-3)<br/><br/>Where pij denotes the probability that case i with symptom onset at time ti was infected by case j with onset at time tj, Rj denotes the effective reproduction number for case j, and Rt average all cases with same date of symptom onset. The confidence interval (CI) for Rt can be obtained by simulation.<br/><br/>Statistical analysis We applied frequency and percentages (%) to describe categorical variables, and used mean\u00b1SD to describe the continuous variables. Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and then average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included. Period from symptoms onset to isolation was calculated using the date of diagnosis minus the date of symptoms onset among the cases (n=153) with complete information on these two dates. Sensitivity analysis A series of sensitivity analyses were conducted to quantify the effect of parameters changes on R value. We changed the shape parameter of Weibull distribution from 7.5 to 9.5 days. R software (version 3.6.0) was used for data analysis with \u201cR0\u201d package for calculating R and Rt values. Two tailed P<0.05 were considered statistically significant for all statistical tests."
+        ],
+        "results": [
+            "Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1). Hubei Province whose capital city is Wuhan reported the most cases (n=549). Of the 830 cases, 25 cases have died, with a fatality rate of 3.0%. Figure 2A displays the epidemic trend of 164 confirmed 2019-nCoV cases. The number of cases slowly increased before January 8, 2020, and rapidly inclined after then. Figure 2B describes the epidemic process of 1,512 SARS cases in Guangdong Province from November 16, 2002 to June 3, 2003, which shows a bell-shaped curve.<br/><br/>Incubation duration and period from onset of symptoms to isolation The average incubation duration was 4.8\u00b12.6 days, with ranging from 2 days to 11 days. The average period from onset of symptoms to isolation in all cases was 2.9\u00b13.0 days (Figure 3A), and decreased from 6.7 days in cases before January 9, to 0.7 days in cases after January 19 (Figure 3B). The average period from onset to isolation was 4.2\u00b13.7 days in SARS cases. Estimation of reproductive number (R) The R values of 2019-nCoV as of January 23 were 2.90 (95%CI: 2.32-3.63) and 2.92 (95%CI: 2.283.67) estimated by EG and ML, respectively. The temporal distribution of R values showed declining trend from 7.93 (95%CI: 5.00-12.00) to 2.60 (95%CI: 0.57-5.17). The R values for SARS before January 23, 2003 were 1.77 (95%CI: 1.37-2.27) and 1.85 (95%CI: 1.32-2.49) estimated by EG and ML, respectively. The R values decreased from 6.37 (95CI%: 4.508.00) to 1.20 (95CI%: 0.77-1.80) (Figure 4)<br/><br/>Sensitivity analyses The results of sensitivity analyses showed the R values of 2019-nCoV and SARS were robust to the changes of GT (Figure S1). For example, the R estimated by EG method changed from 2.59 (95%CI: 2.12-3.15) using GT=7.5 to 3.35 (95%CI:2.60-4.32) using GT=9.5. The R values were significantly larger than 1 using different GT values."
+        ],
+        "discussion": [
+            "Discussion The 2019-nCoV is a novel coronvirus, which is different from SARS and other SARS-like viruses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The number of 2019-nCoV cases has increased rapidly in China, and cases have been transmitting to other countries. However, the transmission dynamics of 2019-nCoV remain unknown,[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] which is not conducive to containing the ongoing outbreak of 2019-nCoV. In this study, we estimated effective R of 2019-nCoV using 164 confirmed cases, and found that R was around 2.9, which means 2.9 secondary cases generated by an index case of 2019-nCoV. This finding is comparable with that of SARS reported in several previous studies, ranging from 1.1 to 4.2 with most estimates between 2 and 3,12-14 but much higher than the effective R (1.77) in the early stage of SARS epidemic (period between December, 26 2002 and January 23, 2003) occurred in Guangdong Province. This discrepancy of effective R between SARS-CoV and 2019-nCoV may be partially explained by transmission patterns. Recent clinical evidence suggests that asymptomatic cases or mild cases could effectively transmit 2019-nCoV, which was different from SARS because most SARS cases were infected by \u201csuper spreaders\u201d, and cases in incubation period and mild cases could not infected susceptible.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Considering rapid spread across China of the ongoing outbreak, our finding suggests the ongoing 2019-nCoV epidemic may be much higher than SARS.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] With the outbreaks progress in near future, it is not strange that sustained human-to-human transmission will be observed in communities, even super-spreading events will be seen in high risk places such as hospitals.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Therefore, more rigorous control and prevention measures need to be strictly implemented. We further found that time-dependent R values of 2019-nCoV are decreasing with the process of the 2019-nCoV outbreak from December 29, 2019 to January 19, 2020, which means the transmissibility of this outbreak is going down. This finding indicates that rigorous measures of prevention and control taken by Chinese governments are taking into effect. Since the outbreak of 2019-nCoV, Chinese governments have implemented a series of rigorous strategies and measures to contain the outbreak (Figure S2). For example, as of January 23, a total of 9,507 close contacts were tracked and isolated. This successful management of contacts could effectively contain the further spread of 2019-nCoV across China. More importantly, almost all provinces and regions in China have initiated the highest level of public health emergency response, and epidemic data was released on time through various channels, which could improve the general public to understand the risk of the outbreak, and take voluntary actions to detect, diagnose and treat cases infected 2019nCoV earlier. This can be verified by decreasing period from onset to isolation from 6.7 days in cases before January 9, to 0.7 days in cases after January 19. This study has some strengths. First, this is the first study, to date, to assess the transmission dynamics of 2019-nCoV based on confirmed cases. In addition, we compared the transmission dynamics of 2019-nCoV with SARS. Third, we found measures previously taken by the governments are effective. These results could provide important information for successful control on the outbreak of 2019-nCoV. Our study has several limitations. First, we could not collect all confirmed cases of the outbreak, which may result in bias of our results. Second, some epidemiological information including the dates of illness onset, exposure, and diagnosis were not available for many cases. Third, we are in the early days of this outbreak, and there is much uncertainty in epidemiological parameters that affects transmissibility of 2019-nCoV. More studies are urgently needed to fill-in these knowledge gaps. In summary, 2019-nCoV may have a higher pandemic risk than SARS in 2003, and the efforts of containing the outbreak are taking into effect. Our findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility.<br/><br/>Author contributions WJM and JFH designed the study. JFH, MK, LFL, HJZ, TS, QH, APD, XHT, JSL, HHD participated in the field investigation. WJM, TL, JXH, JPX, JL, GHH, ZHR, WLZ, SQZ, ZHZ analysed and interpreted the data. WJM, JFH, TL, JXH, MK, LFL, HJZ, JPX, TS, QH, HHD interpreted the data. WJM, TL, JXH, JPX, GHH wrote the paper. WJM, TL, JXH, JL, JPX, GHH wrote the paper. JFH, MK, LFL, HJZ, TS, QH, HHD reviewed, revised and edited the manuscript."
+        ],
+        "disclosures": [
+            "All authors declare no competing interests"
+        ],
+        "acknowledgements": [
+            "We thank all the medical and nursing staff who assisted in the care of patients; the members from health department and CDC in Guangdong Province for their contribution in data collection, 2019nCoV control and prevention. This work was supported by National Key Research and Development Program of China (2018YFA0606200, 2018YFA0606202), the Science and Technology Program of Guangdong Province (2018B020207006, 2019B020208005, 2019B111103001), Guangzhou Science and technology Plan Project (201804010383)."
+        ],
+        "funding": [
+            "Funding National Key Research and Development Program of China (2018YFA0606200, 2018YFA0606202), the Science and Technology Program of Guangdong Province (2018B020207006, 2019B020208005, 2019B111103001), Guangzhou Science and technology Plan Project (201804010383)."
+        ],
+        "limitations": [
+            "Our study has several limitations. First, we could not collect all confirmed cases of the outbreak, which may result in bias of our results. Second, some epidemiological information including the dates of illness onset, exposure, and diagnosis were not available for many cases. Third, we are in the early days of this outbreak, and there is much uncertainty in epidemiological parameters that affects transmissibility of 2019-nCoV. More studies are urgently needed to fill-in these knowledge gaps. In summary, 2019-nCoV may have a higher pandemic risk than SARS in 2003, and the efforts of containing the outbreak are taking into effect. Our findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility."
+        ],
+        "data_availability": [
+            "Data sharing The data that support the findings of this study are available from the corresponding author on reasonable request"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Figure S1",
+                "Figure S2"
+            ]
+        },
+        "introduction": [
+            "In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1 On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] As of January 24, 2020, the virus had spread to 29 provinces, regions and municipal cities across China. A total of 1965 suspected cases and 1287 confirmed cases with 41 fatality had been reported.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] With the cases spread widely in China, more and more cases were detected from medical staff and persons without exposure history of wildlife or visiting Wuhan within 14 days prior to the onset of illness, it is very evident that 2019-nCoV can spread fast between persons.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] However, a series of epidemiological parameters such as the incubation period, the humanto-human transmissibility as well as the time period from onset of symptoms to isolation are unclear. Understanding these parameters is critical to predict the trend of 2019-nCoV outbreak, as well as guide clinical management and prevention and control of the 2019-nCoV outbreak. In the study, we examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV."
+        ]
+    },
+    "structured_content": {
+        "Methods": [
+            "Data Collection Data on confirmed cases of 2019-nCoV were collected as of January 23, 2020, including the date of exposure, symptom onset, and diagnosis. For the cases reported in Guangdong Province, China, the data were obtained from medical records and epidemiological investigations. For the cases reported in other regions of China or other countries, we extracted related information from official websites. We also collected the number of daily cases of SARS from November 16, 2002 to June 3, 2003 in Guangdong Province, China, which was provided by Guangdong Provincial Center for Disease Control and Prevention (GDCDC). Estimation of reproductive number (R) The basic reproductive number (R0) refers to the expected number of secondary infectious cases produced by a typical index case in an entirely susceptible population, which is a key indicator of transmissibility. When infection is spreading in a population, effective reproductive number (R) is more commonly used to describe transmissibility, which is defined as the average number of secondary cases generated by per infectious case. In the absence of control measures, R = R0\u03c7, where \u03c7 is the proportion of the susceptible population.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] R>1 means an increase of the number of cases will occur, while R<1 means the number of cases will decline. In order to calculate the R of 2019nCoV, we need obtain the generation time (GT), also known as generation interval or series interval, which is defined as the time interval between symptom onset in an index case and symptom onset in a secondary case.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] Due to limited information on GT from our data, we cannot calculate the GT of 2019-nCoV. So, we applied the GT of SARS in a previous study as the GT of 2019-nCoV (GT=8.4 days, SD=3.8 days).[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]",
+            "In the current study, we applied Exponential Growth (EG) and Maximum likelihood estimation (ML)",
+            "to estimate effective R value for 164 2019-nCoV cases with available symptom onset. As R value varied in different phase of an epidemic, in order to compare with the R of SARS-CoV, we further estimated the R value of SARS-CoV using the data in the early phase (December 26, 2002 to January",
+            "23, 2003) of the SARS outbreak in Guangdong Province.",
+            "During the early phase of a disease epidemic, the reproductive rate was considered to be linked to exponential growth rate,[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] which was defined by the per capita change in number of new cases per unit of time. We used Poisson regression to fit the exponential growth rate, since the daily incidence data are integer. The estimation of reproductive number was described as:",
+            "where M denotes the moment generating function of the generation time distribution, and r denotes the fitted exponential growth rate.",
+            "The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10 Therefore, R can be estimated by maximizing the log-likelihood, as:",
+            "Where Nt denotes the number of symptoms onset cases observed on day t, w denotes the generation time distribution.",
+            "The time-dependent reproduction number (Rt) is a real-time measure of disease transmissibility, which can be estimated over the course of disease progression. The Rt is particularly useful for monitoring epidemic trends, identifying \u201csuper-spreader events,\u201d measuring progress of interventions over time, as well as providing parameters for mathematical models. Based on previous studies,[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] we calculated Rt by averaging all transmission networks compatible with observations per two days, using the following equation:",
+            "Where pij denotes the probability that case i with symptom onset at time ti was infected by case j with onset at time tj, Rj denotes the effective reproduction number for case j, and Rt average all cases with same date of symptom onset. The confidence interval (CI) for Rt can be obtained by simulation.",
+            "Statistical analysis We applied frequency and percentages (%) to describe categorical variables, and used mean\u00b1SD to describe the continuous variables. Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and then average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included. Period from symptoms onset to isolation was calculated using the date of diagnosis minus the date of symptoms onset among the cases (n=153) with complete information on these two dates. Sensitivity analysis A series of sensitivity analyses were conducted to quantify the effect of parameters changes on R value. We changed the shape parameter of Weibull distribution from 7.5 to 9.5 days. R software (version 3.6.0) was used for data analysis with \u201cR0\u201d package for calculating R and Rt values. Two tailed P<0.05 were considered statistically significant for all statistical tests."
+        ],
+        "Results": [
+            "Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1). Hubei Province whose capital city is Wuhan reported the most cases (n=549). Of the 830 cases, 25 cases have died, with a fatality rate of 3.0%. Figure 2A displays the epidemic trend of 164 confirmed 2019-nCoV cases. The number of cases slowly increased before January 8, 2020, and rapidly inclined after then. Figure 2B describes the epidemic process of 1,512 SARS cases in Guangdong Province from November 16, 2002 to June 3, 2003, which shows a bell-shaped curve.",
+            "Incubation duration and period from onset of symptoms to isolation The average incubation duration was 4.8\u00b12.6 days, with ranging from 2 days to 11 days. The average period from onset of symptoms to isolation in all cases was 2.9\u00b13.0 days (Figure 3A), and decreased from 6.7 days in cases before January 9, to 0.7 days in cases after January 19 (Figure 3B). The average period from onset to isolation was 4.2\u00b13.7 days in SARS cases. Estimation of reproductive number (R) The R values of 2019-nCoV as of January 23 were 2.90 (95%CI: 2.32-3.63) and 2.92 (95%CI: 2.283.67) estimated by EG and ML, respectively. The temporal distribution of R values showed declining trend from 7.93 (95%CI: 5.00-12.00) to 2.60 (95%CI: 0.57-5.17). The R values for SARS before January 23, 2003 were 1.77 (95%CI: 1.37-2.27) and 1.85 (95%CI: 1.32-2.49) estimated by EG and ML, respectively. The R values decreased from 6.37 (95CI%: 4.508.00) to 1.20 (95CI%: 0.77-1.80) (Figure 4)",
+            "Sensitivity analyses The results of sensitivity analyses showed the R values of 2019-nCoV and SARS were robust to the changes of GT (Figure S1). For example, the R estimated by EG method changed from 2.59 (95%CI: 2.12-3.15) using GT=7.5 to 3.35 (95%CI:2.60-4.32) using GT=9.5. The R values were significantly larger than 1 using different GT values."
+        ],
+        "Discussion": [
+            "Discussion The 2019-nCoV is a novel coronvirus, which is different from SARS and other SARS-like viruses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The number of 2019-nCoV cases has increased rapidly in China, and cases have been transmitting to other countries. However, the transmission dynamics of 2019-nCoV remain unknown,[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] which is not conducive to containing the ongoing outbreak of 2019-nCoV. In this study, we estimated effective R of 2019-nCoV using 164 confirmed cases, and found that R was around 2.9, which means 2.9 secondary cases generated by an index case of 2019-nCoV. This finding is comparable with that of SARS reported in several previous studies, ranging from 1.1 to 4.2 with most estimates between 2 and 3,12-14 but much higher than the effective R (1.77) in the early stage of SARS epidemic (period between December, 26 2002 and January 23, 2003) occurred in Guangdong Province. This discrepancy of effective R between SARS-CoV and 2019-nCoV may be partially explained by transmission patterns. Recent clinical evidence suggests that asymptomatic cases or mild cases could effectively transmit 2019-nCoV, which was different from SARS because most SARS cases were infected by \u201csuper spreaders\u201d, and cases in incubation period and mild cases could not infected susceptible.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Considering rapid spread across China of the ongoing outbreak, our finding suggests the ongoing 2019-nCoV epidemic may be much higher than SARS.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] With the outbreaks progress in near future, it is not strange that sustained human-to-human transmission will be observed in communities, even super-spreading events will be seen in high risk places such as hospitals.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Therefore, more rigorous control and prevention measures need to be strictly implemented. We further found that time-dependent R values of 2019-nCoV are decreasing with the process of the 2019-nCoV outbreak from December 29, 2019 to January 19, 2020, which means the transmissibility of this outbreak is going down. This finding indicates that rigorous measures of prevention and control taken by Chinese governments are taking into effect. Since the outbreak of 2019-nCoV, Chinese governments have implemented a series of rigorous strategies and measures to contain the outbreak (Figure S2). For example, as of January 23, a total of 9,507 close contacts were tracked and isolated. This successful management of contacts could effectively contain the further spread of 2019-nCoV across China. More importantly, almost all provinces and regions in China have initiated the highest level of public health emergency response, and epidemic data was released on time through various channels, which could improve the general public to understand the risk of the outbreak, and take voluntary actions to detect, diagnose and treat cases infected 2019nCoV earlier. This can be verified by decreasing period from onset to isolation from 6.7 days in cases before January 9, to 0.7 days in cases after January 19. This study has some strengths. First, this is the first study, to date, to assess the transmission dynamics of 2019-nCoV based on confirmed cases. In addition, we compared the transmission dynamics of 2019-nCoV with SARS. Third, we found measures previously taken by the governments are effective. These results could provide important information for successful control on the outbreak of 2019-nCoV. Our study has several limitations. First, we could not collect all confirmed cases of the outbreak, which may result in bias of our results. Second, some epidemiological information including the dates of illness onset, exposure, and diagnosis were not available for many cases. Third, we are in the early days of this outbreak, and there is much uncertainty in epidemiological parameters that affects transmissibility of 2019-nCoV. More studies are urgently needed to fill-in these knowledge gaps. In summary, 2019-nCoV may have a higher pandemic risk than SARS in 2003, and the efforts of containing the outbreak are taking into effect. Our findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility.",
+            "Author contributions WJM and JFH designed the study. JFH, MK, LFL, HJZ, TS, QH, APD, XHT, JSL, HHD participated in the field investigation. WJM, TL, JXH, JPX, JL, GHH, ZHR, WLZ, SQZ, ZHZ analysed and interpreted the data. WJM, JFH, TL, JXH, MK, LFL, HJZ, JPX, TS, QH, HHD interpreted the data. WJM, TL, JXH, JPX, GHH wrote the paper. WJM, TL, JXH, JL, JPX, GHH wrote the paper. JFH, MK, LFL, HJZ, TS, QH, HHD reviewed, revised and edited the manuscript.",
+            "Declaration of interests All authors declare no competing interests.",
+            "Data sharing The data that support the findings of this study are available from the corresponding author on reasonable request. Participant data without names and identifiers will be made available after approval from the corresponding author. After publication of study findings, the data will be available for others to request. The research team will provide an email address for communication once the data are approved to be shared with others. The proposal with detailed description of study objectives and statistical analysis plan will be needed for evaluation of the reasonability to request for our data. The corresponding author will make a decision based on these materials. Additional materials may also be required during the process."
+        ],
+        "Acknowledgements": [
+            "We thank all the medical and nursing staff who assisted in the care of patients; the members from health department and CDC in Guangdong Province for their contribution in data collection, 2019nCoV control and prevention. This work was supported by National Key Research and Development Program of China (2018YFA0606200, 2018YFA0606202), the Science and Technology Program of Guangdong Province (2018B020207006, 2019B020208005, 2019B111103001), Guangzhou Science and technology Plan Project (201804010383).",
+            "Funding National Key Research and Development Program of China (2018YFA0606200, 2018YFA0606202), the Science and Technology Program of Guangdong Province (2018B020207006, 2019B020208005, 2019B111103001), Guangzhou Science and technology Plan Project (201804010383)."
+        ],
+        "References": [
+            "1. World Health Orgnizaiton. Summary of probable SARS cases with onset of illness from 1",
+            "November to",
+            "July",
+            "2003, https://www.who.int/csr/sars/country/table2004_04_21/en/.",
+            "2. The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. An Outbreak of NCIP (2019-nCoV) Infection in China \u2014 Wuhan, Hubei Province. China CDC Weekly",
+            "2020; 2(5): 79-80.",
+            "3. World Health Organization. Coronavirus. 2020. https://www.who.int/healthtopics/coronavirus (accessed 1-21 2020).",
+            "4. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 2020. Doi:https://doi.org/10.1016/S0140-",
+            "6736(20)30183-5",
+            "5. National Health Commission of the People's Republic of China. Epidemic situation of novel coronavirus infection.",
+            "http://www.nhc.gov.cn/xcs/yqfkdt/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml (accessed January 25 2020).",
+            "6. Lipsitch M, Cohen T, Cooper B, et al Transmission dynamics and control of severe acute respiratory syndrome. Science. 2003; 300(5627): 1966-70.",
+            "7. Park SW, Champredon D, Weitz JS, Dushoff J. A practical generation-interval-based approach to inferring the strength of epidemics from their speed. Epidemics 2019; 27: 12-8.",
+            "8. Wallinga J, Teunis P. Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology 2004; 160(6): 509-",
+            "16. 9. Wallinga J, Lipsitch M. How generation intervals shape the relationship between growth rates and reproductive numbers. Proceedings Biological Sciences 2007; 274(1609): 599-604. 10. White LF, Pagano M. A likelihood-based method for real-time estimation of the serial interval and reproductive number of an epidemic. Statistics in Medicine 2008; 27(16): 2999-3016. 11. Parry J. China coronavirus: cases surge as official admits human to human transmission. BMJ",
+            "2020; 368: m236. 12. Bauch CT, Lloyd-Smith JO, Coffee MP, Galvani AP. Dynamically modeling SARS and other newly emerging respiratory illnesses: past, present, and future. Epidemiology. 2005; 16(6): 791-801. 13. Fraser C, Riley S, Anderson RM, Ferguson NM. Factors that make an infectious disease outbreak controllable. PNAS. 2004; 101(16): 6146-51. 14. Peak CM, Childs LM, Grad YH, Buckee CO. Comparing nonpharmaceutical interventions for containing emerging epidemics. PNAS. 2017; 114(15): 4023-8. 15. Chan JF-W, Yuan S, Kok K-H, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet 2020. Doi: https://doi.org/10.1016/ S0140-6736(20)30154-9",
+            "Figure 1. The spatial distribution of confirmed 2019-nCoV cases, December 29, 2019 to January 23, 2020 Chart A: The global distribution of confirmed 2019-nCoV cases. Chart B: The distribution of confirmed 2019-nCoV cases in China. Pie in each province represents two types of 2019-nCoV cases. Blue in the pie represents the cases included in this study, and yellow in the pie represents the cases not included in this study. Figure 2. The epidemic trend of confirmed 2019-nCoV and SARS cases included in this study Chart A: The epidemic trend of 164 confirmed 2019-nCoV cases. Chart B: The epidemic trend of SARS cases in Guangdong Province. Figure 3. Frequency distribution and temporal change of the period from symptom onset to isolation in 2019-nCoV cases Chart A: The frequency distribution of the period from onset to isolation. Chart B: The temporal change of the period from onset to isolation. Figure 4. The temporal distribution of R values in 2019-nCoV and SARS Chart A: The temporal distribution of R values in 2019-nCoV. Chart B: The temporal distribution of R values in SARS."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 9,
+            "context": "Exponential Growth (EG) and maximum likelihood estimation (ML) were applied to estimate the reproductive number (R) of 2019-nCoV and SARS. <mark class=\"stats\">Findings As of January 23, 2020, a total of 830 confirmed 2019-nCoV cases were identified across China, and 9 cases were reported overseas</mark>. The average incubation duration of 2019-nCoV infection was 4.8days"
+        },
+        {
+            "participant": "cases",
+            "number": 16,
+            "context": "The confidence interval (CI) for Rt can be obtained by simulation.<br/><br/>Statistical analysis We applied frequency and percentages (%) to describe categorical variables, and used mean\u00b1SD to describe the continuous variables. <mark class=\"stats\">Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and then average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included</mark>. Period from symptoms onset to isolation was calculated using the date of diagnosis minus the date of symptoms onset among the cases (n=153) with complete information on these two dates"
+        },
+        {
+            "participant": "cases",
+            "number": 153,
+            "context": "Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and then average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included. <mark class=\"stats\">Period from symptoms onset to isolation was calculated using the date of diagnosis minus the date of symptoms onset among the cases (n=153) with complete information on these two dates</mark>. Sensitivity analysis A series of sensitivity analyses were conducted to quantify the effect of parameters changes on R value"
+        },
+        {
+            "participant": "cases",
+            "number": 16,
+            "context": "Statistical analysis We applied frequency and percentages (%) to describe categorical variables, and used mean\u00b1SD to describe the continuous variables. <mark class=\"stats\">Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and then average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included</mark>. Period from symptoms onset to isolation was calculated using the date of diagnosis minus the date of symptoms onset among the cases (n=153) with complete information on these two dates"
+        },
+        {
+            "participant": "cases with a fatality rate of 9",
+            "number": 8000,
+            "context": "The implemented. <mark class=\"stats\">In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1</mark>. On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+        },
+        {
+            "participant": "suspected cases",
+            "number": 1965,
+            "context": "As of January 24, 2020, the virus had spread to 29 provinces, regions and municipal cities across China. <mark class=\"stats\">A total of 1965 suspected cases and 1287 confirmed cases with 41 fatality had been reported.5</mark>. With the cases spread widely in China, more and more cases were detected from medical staff and persons without exposure history of wildlife or visiting Wuhan within 14 days prior to the onset of illness, it is very evident that 2019-nCoV can spread fast between persons.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 830,
+            "context": "Two tailed P<0.05 were considered statistically significant for all statistical tests. <mark class=\"stats\">Results Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1)</mark>. Hubei Province whose capital city is Wuhan reported the most cases (n=549)"
+        },
+        {
+            "participant": "cases",
+            "number": 549,
+            "context": "Results Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1). <mark class=\"stats\">Hubei Province whose capital city is Wuhan reported the most cases (n=549)</mark>. Of the 830 cases, 25 cases have died, with a fatality rate of 3.0%"
+        },
+        {
+            "participant": "cases",
+            "number": 830,
+            "context": "Hubei Province whose capital city is Wuhan reported the most cases (n=549). <mark class=\"stats\">Of the 830 cases, 25 cases have died, with a fatality rate of 3.0%</mark>. Figure 2A displays the epidemic trend of 164 confirmed 2019-nCoV cases"
+        },
+        {
+            "participant": "SARS cases",
+            "number": 1512,
+            "context": "The number of cases slowly increased before January 8, 2020, and rapidly inclined after then. <mark class=\"stats\">Figure 2B describes the epidemic process of 1,512 SARS cases in Guangdong Province from November 16, 2002 to June 3, 2003, which shows a bell-shaped curve</mark>. Incubation duration and period from onset of symptoms to isolation The average incubation duration was 4.8\u00b12.6 days, with ranging from 2 days to 11 days"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 164,
+            "context": "However, the transmission dynamics of 2019-nCoV remain unknown,[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] which is not conducive to containing the ongoing outbreak of 2019-nCoV. <mark class=\"stats\">In this study, we estimated effective R of 2019-nCoV using 164 confirmed cases, and found that R was around 2.9, which means 2.9 secondary cases generated by an index case of 2019-nCoV</mark>. This finding is comparable with that of SARS reported in several previous studies, ranging from 1.1 to 4.2 with most estimates between 2 and 3,12-14 but much higher than the effective R (1.77) in the early stage of SARS epidemic (period between December, 26 2002 and January 23, 2003) occurred in Guangdong Province"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Exponential Growth (EG) and maximum likelihood estimation (ML) were applied to estimate the reproductive number (R) of 2019-nCoV and SARS</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood estimation"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">So, we applied the GT of SARS in a previous study as the GT of 2019-nCoV (GT=8.4 days, SD=3.8 days).[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]<br/><br/>In the current study, we applied Exponential Growth (EG) and Maximum likelihood estimation (ML)<br/><br/>to estimate effective R value for 164 2019-nCoV cases with available symptom onset</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum likelihood estimation"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We used Poisson regression to fit the exponential growth rate, since the daily incidence data are integer</mark>",
+                "tests": [
+                    {
+                        "test": "Poisson regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The estimation of reproductive number was described as:    =    1  (\u2212 )    (1)<br/><br/>where M denotes the moment generating function of the generation time distribution, and r denotes the fitted exponential growth rate.<br/><br/>Maximum likelihood estimation<br/><br/>The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood estimation"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P<0.05",
+            "context": "R software (version 3.6.0) was used for data analysis with \u201cR0\u201d package for calculating R and Rt values. <mark class=\"stats\">Two tailed P<0.05 were considered statistically significant for all statistical tests.Data Collection Data on confirmed cases of 2019-nCoV were collected as of January 23, 2020, including the date of exposure, symptom onset, and diagnosis</mark>. For the cases reported in Guangdong Province, China, the data were obtained from medical records and epidemiological investigations",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Two tailed",
+                        "value": "P<0.05"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">In the current study, we applied Exponential Growth (EG) and Maximum likelihood estimation (ML)</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum likelihood estimation"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10</mark>",
+                "tests": [
+                    {
+                        "test": "maximum likelihood estimation"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P<0.05",
+            "context": "R software (version 3.6.0) was used for data analysis with \u201cR0\u201d package for calculating R and Rt values. <mark class=\"stats\">Two tailed P<0.05 were considered statistically significant for all statistical tests</mark>. ",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Two tailed",
+                        "value": "P<0.05"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P<0.05",
+            "context": "R software (version 3.6.0) was used for data analysis with \u201cR0\u201d package for calculating R and Rt values. <mark class=\"stats\">Two tailed P<0.05 were considered statistically significant for all statistical tests</mark>. Results Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1)",
+            "tests": {
+                "tests": [
+                    {
+                        "test": "Two tailed",
+                        "value": "P<0.05"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "generation time",
+        "reproductive numbers",
+        "ncov case",
+        "coronavirus",
+        "sars cov",
+        "transmission dynamics",
+        "public health",
+        "dynamics",
+        "incubation period",
+        "Exponential Growth",
+        "confidence interval",
+        "disease control",
+        "pneumonia infection",
+        "r value",
+        "maximum likelihood estimation",
+        "severe acute respiratory syndrome",
+        "guangdong provincial center"
+    ],
+    "keyword_relevance": {
+        "severe acute respiratory syndrome": 0.304,
+        "confidence interval": 0.136,
+        "generation time": 0.104,
+        "coronavirus": 0.088,
+        "reproductive numbers": 0.072,
+        "dynamics": 0.064,
+        "Exponential Growth": 0.064,
+        "maximum likelihood estimation": 0.056,
+        "transmission dynamics": 0.048,
+        "incubation period": 0.04,
+        "pneumonia infection": 0.016,
+        "public health": 0.008,
+        "ncov case": 0.0,
+        "sars cov": 0.0,
+        "disease control": 0.0,
+        "r value": 0.0,
+        "guangdong provincial center": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1 On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+        "A total of 1965 suspected cases and 1287 confirmed cases with 41 fatality had been reported.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] With the cases spread widely in China, more and more cases were detected from medical staff and persons without exposure history of wildlife or visiting Wuhan within 14 days prior to the onset of illness, it is very evident that 2019-nCoV can spread fast between persons.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] a series of epidemiological parameters such as the incubation period, the humanto-human transmissibility as well as the time period from onset of symptoms to isolation are unclear.",
+        "The authors examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV",
+        "<h2 style=\"display: inline\">Methods:</h2> Data Collection Data on confirmed cases of 2019-nCoV were collected as of January 23, 2020, including the date of exposure, symptom onset, and diagnosis.",
+        "The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10.",
+        "Two tailed P<0.05 were considered statistically significant for all statistical tests",
+        "<h2 style=\"display: inline\">Results:</h2> Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1).",
+        "Figure 2B describes the epidemic process of 1,512 SARS cases in Guangdong Province from November 16, 2002 to June 3, 2003, which shows a bell-shaped curve.",
+        "The average period from onset to isolation was 4.2\u00b13.7 days in SARS cases.",
+        "The R values for SARS before January 23, 2003 were 1.77 (95%CI: 1.37-2.27) and 1.85 (95%CI: 1.32-2.49) estimated by EG and ML, respectively.",
+        "Sensitivity analyses The results of sensitivity analyses showed the R values of 2019-nCoV and SARS were robust to the changes of GT (Figure S1).",
+        "The R values were significantly larger than 1 using different GT values",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Discussion The 2019-nCoV is a novel coronvirus, which is different from SARS and other SARS-like viruses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+        "Implications of all the available evidence The authors' findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility.",
+        "The authors examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1 On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>].",
+            "A total of 1965 suspected cases and 1287 confirmed cases with 41 fatality had been reported.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] With the cases spread widely in China, more and more cases were detected from medical staff and persons without exposure history of wildlife or visiting Wuhan within 14 days prior to the onset of illness, it is very evident that 2019-nCoV can spread fast between persons.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] a series of epidemiological parameters such as the incubation period, the humanto-human transmissibility as well as the time period from onset of symptoms to isolation are unclear.",
+            "The authors examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV"
+        ],
+        "Methods": [
+            "Data Collection Data on confirmed cases of 2019-nCoV were collected as of January 23, 2020, including the date of exposure, symptom onset, and diagnosis.",
+            "The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10.",
+            "Two tailed P<0.05 were considered statistically significant for all statistical tests"
+        ],
+        "Results": [
+            "Description of the outbreak Between December 29, 2019 and January 23, 2020, a total of 830 confirmed cases were identified in 29 provinces, regions and municipal cities across China, and 9 confirmed cases were identified overseas (Figure 1).",
+            "Figure 2B describes the epidemic process of 1,512 SARS cases in Guangdong Province from November 16, 2002 to June 3, 2003, which shows a bell-shaped curve.",
+            "The average period from onset to isolation was 4.2\u00b13.7 days in SARS cases.",
+            "The R values for SARS before January 23, 2003 were 1.77 (95%CI: 1.37-2.27) and 1.85 (95%CI: 1.32-2.49) estimated by EG and ML, respectively.",
+            "Sensitivity analyses The results of sensitivity analyses showed the R values of 2019-nCoV and SARS were robust to the changes of GT (Figure S1).",
+            "The R values were significantly larger than 1 using different GT values"
+        ],
+        "Conclusion": [
+            "Discussion The 2019-nCoV is a novel coronvirus, which is different from SARS and other SARS-like viruses[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "Implications of all the available evidence The authors' findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility.",
+            "The authors examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Orgnizaiton_0000_a",
+            "entry": "1. World Health Orgnizaiton. Summary of probable SARS cases with onset of illness from 1 https://www.who.int/csr/sars/country/table2004_04_21/en/.",
+            "url": "https://www.who.int/csr/sars/country/table2004_04_21/en/"
+        },
+        {
+            "id": "2",
+            "alt_id": "2._2019_a",
+            "entry": "2. The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q. An Outbreak of NCIP (2019-nCoV) Infection in China \u2014 Wuhan, Hubei Province. China CDC Weekly 2020; 2(5): 79-80.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=The%202019nCoV%20Outbreak%20Joint%20Field%20Epidemiology%20Investigation%20Team%20Li%20Q%20An%20Outbreak%20of%20NCIP%202019nCoV%20Infection%20in%20China%20%20Wuhan%20Hubei%20Province%20China%20CDC%20Weekly%202020%2025%207980",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=The%202019nCoV%20Outbreak%20Joint%20Field%20Epidemiology%20Investigation%20Team%20Li%20Q%20An%20Outbreak%20of%20NCIP%202019nCoV%20Infection%20in%20China%20%20Wuhan%20Hubei%20Province%20China%20CDC%20Weekly%202020%2025%207980",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=The%202019nCoV%20Outbreak%20Joint%20Field%20Epidemiology%20Investigation%20Team%20Li%20Q%20An%20Outbreak%20of%20NCIP%202019nCoV%20Infection%20in%20China%20%20Wuhan%20Hubei%20Province%20China%20CDC%20Weekly%202020%2025%207980"
+        },
+        {
+            "id": "3",
+            "alt_id": "Organization_2020_a",
+            "entry": "3. World Health Organization. Coronavirus. 2020. https://www.who.int/healthtopics/coronavirus (accessed 1-21 2020).",
+            "url": "https://www.who.int/healthtopics/coronavirus"
+        },
+        {
+            "id": "4",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "4. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 2020. Doi:https://doi.org/10.1016/S0140-6736(20)30183-5",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30183-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/S0140-6736%2820%2930183-5"
+        },
+        {
+            "id": "5",
+            "alt_id": "5._0000_a",
+            "entry": "5. National Health Commission of the People's Republic of China. Epidemic situation of novel coronavirus infection. http://www.nhc.gov.cn/xcs/yqfkdt/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml (accessed January 25 2020).",
+            "url": "http://www.nhc.gov.cn/xcs/yqfkdt/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml"
+        },
+        {
+            "id": "6",
+            "alt_id": "Lipsitch_et+al_2003_a",
+            "entry": "6. Lipsitch M, Cohen T, Cooper B, et al. Transmission dynamics and control of severe acute respiratory syndrome. Science. 2003; 300(5627): 1966-70.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lipsitch%2C%20M.%20Cohen%2C%20T.%20Cooper%2C%20B.%20Transmission%20dynamics%20and%20control%20of%20severe%20acute%20respiratory%20syndrome%202003"
+        },
+        {
+            "id": "7",
+            "alt_id": "Park_et+al_2019_a",
+            "entry": "7. Park SW, Champredon D, Weitz JS, Dushoff J. A practical generation-interval-based approach to inferring the strength of epidemics from their speed. Epidemics 2019; 27: 12-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Park%2C%20S.W.%20Champredon%2C%20D.%20Weitz%2C%20J.S.%20Dushoff%2C%20J.%20A%20practical%20generation-interval-based%20approach%20to%20inferring%20the%20strength%20of%20epidemics%20from%20their%20speed%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Park%2C%20S.W.%20Champredon%2C%20D.%20Weitz%2C%20J.S.%20Dushoff%2C%20J.%20A%20practical%20generation-interval-based%20approach%20to%20inferring%20the%20strength%20of%20epidemics%20from%20their%20speed%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Park%2C%20S.W.%20Champredon%2C%20D.%20Weitz%2C%20J.S.%20Dushoff%2C%20J.%20A%20practical%20generation-interval-based%20approach%20to%20inferring%20the%20strength%20of%20epidemics%20from%20their%20speed%202019"
+        },
+        {
+            "id": "8",
+            "alt_id": "Wallinga_2004_a",
+            "entry": "8. Wallinga J, Teunis P. Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology 2004; 160(6): 509-",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wallinga%2C%20J.%20Teunis%2C%20P.%20Different%20epidemic%20curves%20for%20severe%20acute%20respiratory%20syndrome%20reveal%20similar%20impacts%20of%20control%20measures%202004"
+        },
+        {
+            "id": "9",
+            "alt_id": "Wallinga_2007_a",
+            "entry": "9. Wallinga J, Lipsitch M. How generation intervals shape the relationship between growth rates and reproductive numbers. Proceedings Biological Sciences 2007; 274(1609): 599-604.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wallinga%2C%20J.%20Lipsitch%2C%20M.%20How%20generation%20intervals%20shape%20the%20relationship%20between%20growth%20rates%20and%20reproductive%20numbers%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wallinga%2C%20J.%20Lipsitch%2C%20M.%20How%20generation%20intervals%20shape%20the%20relationship%20between%20growth%20rates%20and%20reproductive%20numbers%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wallinga%2C%20J.%20Lipsitch%2C%20M.%20How%20generation%20intervals%20shape%20the%20relationship%20between%20growth%20rates%20and%20reproductive%20numbers%202007"
+        },
+        {
+            "id": "10",
+            "alt_id": "White_2008_a",
+            "entry": "10. White LF, Pagano M. A likelihood-based method for real-time estimation of the serial interval and reproductive number of an epidemic. Statistics in Medicine 2008; 27(16): 2999-3016.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=White%2C%20L.F.%20Pagano%2C%20M.%20A%20likelihood-based%20method%20for%20real-time%20estimation%20of%20the%20serial%20interval%20and%20reproductive%20number%20of%20an%20epidemic%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=White%2C%20L.F.%20Pagano%2C%20M.%20A%20likelihood-based%20method%20for%20real-time%20estimation%20of%20the%20serial%20interval%20and%20reproductive%20number%20of%20an%20epidemic%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=White%2C%20L.F.%20Pagano%2C%20M.%20A%20likelihood-based%20method%20for%20real-time%20estimation%20of%20the%20serial%20interval%20and%20reproductive%20number%20of%20an%20epidemic%202008"
+        },
+        {
+            "id": "11",
+            "alt_id": "Parry_0000_a",
+            "entry": "11. Parry J. China coronavirus: cases surge as official admits human to human transmission. BMJ 2020; 368: m236.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Parry%2C%20J.%20China%20coronavirus%3A%20cases%20surge%20as%20official%20admits%20human%20to%20human%20transmission",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Parry%2C%20J.%20China%20coronavirus%3A%20cases%20surge%20as%20official%20admits%20human%20to%20human%20transmission",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Parry%2C%20J.%20China%20coronavirus%3A%20cases%20surge%20as%20official%20admits%20human%20to%20human%20transmission"
+        },
+        {
+            "id": "12",
+            "alt_id": "Bauch_et+al_2005_a",
+            "entry": "12. Bauch CT, Lloyd-Smith JO, Coffee MP, Galvani AP. Dynamically modeling SARS and other newly emerging respiratory illnesses: past, present, and future. Epidemiology. 2005; 16(6): 791-801.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bauch%2C%20C.T.%20Lloyd-Smith%2C%20J.O.%20Coffee%2C%20M.P.%20Galvani%2C%20A.P.%20Dynamically%20modeling%20SARS%20and%20other%20newly%20emerging%20respiratory%20illnesses%3A%20past%2C%20present%2C%20and%20future%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bauch%2C%20C.T.%20Lloyd-Smith%2C%20J.O.%20Coffee%2C%20M.P.%20Galvani%2C%20A.P.%20Dynamically%20modeling%20SARS%20and%20other%20newly%20emerging%20respiratory%20illnesses%3A%20past%2C%20present%2C%20and%20future%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bauch%2C%20C.T.%20Lloyd-Smith%2C%20J.O.%20Coffee%2C%20M.P.%20Galvani%2C%20A.P.%20Dynamically%20modeling%20SARS%20and%20other%20newly%20emerging%20respiratory%20illnesses%3A%20past%2C%20present%2C%20and%20future%202005"
+        },
+        {
+            "id": "13",
+            "alt_id": "Fraser_et+al_2004_a",
+            "entry": "13. Fraser C, Riley S, Anderson RM, Ferguson NM. Factors that make an infectious disease outbreak controllable. PNAS. 2004; 101(16): 6146-51.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004"
+        },
+        {
+            "id": "14",
+            "alt_id": "Peak_et+al_2017_a",
+            "entry": "14. Peak CM, Childs LM, Grad YH, Buckee CO. Comparing nonpharmaceutical interventions for containing emerging epidemics. PNAS. 2017; 114(15): 4023-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Peak%2C%20C.M.%20Childs%2C%20L.M.%20Grad%2C%20Y.H.%20Buckee%2C%20C.O.%20Comparing%20nonpharmaceutical%20interventions%20for%20containing%20emerging%20epidemics%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Peak%2C%20C.M.%20Childs%2C%20L.M.%20Grad%2C%20Y.H.%20Buckee%2C%20C.O.%20Comparing%20nonpharmaceutical%20interventions%20for%20containing%20emerging%20epidemics%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Peak%2C%20C.M.%20Childs%2C%20L.M.%20Grad%2C%20Y.H.%20Buckee%2C%20C.O.%20Comparing%20nonpharmaceutical%20interventions%20for%20containing%20emerging%20epidemics%202017"
+        },
+        {
+            "id": "15",
+            "alt_id": "Chan_et+al_2019_a",
+            "entry": "15. Chan JF-W, Yuan S, Kok K-H, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet 2020. Doi: https://doi.org/10.1016/ S0140-6736(20)30154-9 ",
+            "url": "https://doi.org/10.1016/S0140-6736(20)30154-9"
+        }
+    ],
+    "facts": [
+        "2019-nCoV cases were identified across China",
+        "which caused more than 8000 cases with a fatality rate",
+        "a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan",
+        "the virus had spread to 29 provinces",
+        "more cases were detected from medical staff and persons without exposure history",
+        "critical to predict the trend of 2019-nCoV outbreak",
+        "For the cases reported in Guangdong Province",
+        "the data were obtained from medical records",
+        "For the cases reported in other regions of China",
+        "which was provided by Guangdong Provincial Center for Disease Control",
+        "Estimation of reproductive number The basic reproductive number refers to the expected number of secondary infectious cases produced by a typical index case",
+        "which is a key indicator of transmissibility",
+        "When infection is spreading in a population",
+        "which is defined as the average number of secondary cases generated by",
+        "where \u03c7 is the proportion of the susceptible population.[6",
+        "R>1 means an increase of the number of cases will occur",
+        "As R value varied in different phase of an epidemic",
+        "in order to compare with the R of SARS-CoV",
+        "the R value of SARS-CoV using the data in the early phase of the SARS outbreak",
+        "the reproductive rate was considered to be linked to exponential growth rate,[9",
+        "The maximum likelihood estimation is a common method for calculating R based on surveillance data",
+        "on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10 R can be estimated by maximizing the log-likelihood",
+        "Where Nt denotes the number of symptoms onset cases observed on day t",
+        "The time-dependent reproduction number is a real-time measure of disease transmissibility",
+        "which can be estimated over the course of disease progression",
+        "The Rt is useful for monitoring epidemic trends",
+        "with symptom onset at time ti was infected by case j with onset",
+        "Rt average all cases with same date of symptom onset",
+        "The confidence interval for Rt can be obtained by simulation",
+        "that a great number of cases only had the data of the arrival and departure time of Wuhan",
+        "the incubation period was calculated as follow",
+        "the cases who had traveled to Wuhan",
+        "min potential incubation period was estimated as date of the symptoms",
+        "Period from symptoms onset to isolation was calculated using the date of diagnosis",
+        "the date of symptoms onset among the cases with complete information",
+        "Sensitivity analysis A series of sensitivity analyses were conducted to quantify the effect of parameters changes on R value",
+        "R software was used for data analysis",
+        "cases have been transmitting to other countries",
+        "2.9 secondary cases generated by an index case",
+        "that of SARS reported in several previous studies",
+        "higher than the effective R in the early stage of SARS epidemic occurred in Guangdong Province",
+        "This discrepancy of effective R between SARS-CoV and 2019-nCoV may be partially explained by transmission patterns",
+        "Recent clinical evidence suggests that asymptomatic cases",
+        "which was different from SARS because most SARS cases were infected by",
+        "2019-nCoV epidemic may be much higher than SARS.[11",
+        "strange that sustained human-to-human transmission will be observed in communities",
+        "even super-spreading events will be seen in high risk places",
+        "which means the transmissibility of this outbreak is going",
+        "This finding indicates that rigorous measures of prevention and control taken by Chinese governments are taking into effect",
+        "Chinese governments have implemented a series of rigorous strategies and measures to contain the outbreak",
+        "all provinces and regions in China have initiated the highest level of public health emergency response",
+        "epidemic data was released on time through various channels",
+        "the general public to understand the risk of the outbreak",
+        "found measures previously taken by the governments are effective",
+        "which may result in bias of our results",
+        "some epidemiological information including the dates of illness onset",
+        "diagnosis were not available for many cases",
+        "the outbreak are taking into effect",
+        "Our findings indicate that more rigorous control and prevention measures on early detection",
+        "HHD participated in the field investigation",
+        "the transmission dynamics of 2019 novel coronavirus indicated by reproductive number",
+        "A decrease in the R values and periods from onset of symptoms to isolation during the spread",
+        "the effectiveness of rigorous measures and actions that were conducted by China",
+        "the available evidence Our findings indicate that more rigorous control and prevention measures on early detection",
+        "on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10"
+    ],
+    "claims": [
+        "In the study, we examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV",
+        "We further found that time-dependent R values of 2019-nCoV are decreasing with the process of the 2019-nCoV outbreak from December 29, 2019 to January 19, 2020, which means the transmissibility of this outbreak is going down",
+        "We found measures previously taken by the governments are effective"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1",
+        "On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+        "As of January 24, 2020, the virus had spread to 29 provinces, regions and municipal cities across China",
+        "A series of epidemiological parameters such as the incubation period, the humanto-human transmissibility as well as the time period from onset of symptoms to isolation are unclear. Understanding these parameters is critical to predict the trend of 2019-nCoV outbreak, as well as guide clinical management and prevention and control of the 2019-nCoV outbreak",
+        "We examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV",
+        "For the cases reported in other regions of China or other countries, we extracted related information from official websites",
+        "We collected the number of daily cases of severe acute respiratory syndrome from November 16, 2002 to June 3, 2003 in Guangdong Province, China, which was provided by Guangdong Provincial Center for Disease Control and Prevention (GDCDC)",
+        "When infection is spreading in a population, effective reproductive number (R) is more commonly used to describe transmissibility, which is defined as the average number of secondary cases generated by per infectious case",
+        "As R value varied in different phase of an epidemic, in order to compare with the R of severe acute respiratory syndrome-CoV, we further estimated the R value of severe acute respiratory syndrome-CoV using the data in the early phase (December 26, 2002 to January",
+        "The maximum likelihood estimation is a common method for calculating R based on surveillance data during a disease epidemic, and it relies on the assumption that the secondary cases infected by an index case were Poisson distribution with expected value R.10",
+        "Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included",
+        "Recent clinical evidence suggests that asymptomatic cases or mild cases could effectively transmit 2019-nCoV, which was different from severe acute respiratory syndrome because most severe acute respiratory syndrome cases were infected by \u201csuper spreaders\u201d, and cases in incubation period and mild cases could not infected susceptible.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "We further found that time-dependent R values of 2019-nCoV are decreasing with the process of the 2019-nCoV outbreak from December 29, 2019 to January 19, 2020, which means the transmissibility of this outbreak is going down",
+        "Almost all provinces and regions in China have initiated the highest level of public health emergency response, and epidemic data was released on time through various channels, which could improve the general public to understand the risk of the outbreak, and take voluntary actions to detect, diagnose and treat cases infected 2019nCoV earlier",
+        "Our findings indicate that more rigorous control and prevention measures on early detection, diagnosis and treatment of cases infected with 2019-nCoV are needed to contain its further spread, including shortening the period from symptom onset to isolation of patients, effective contact tracing, quarantine and isolation of exposed persons, wearing respirator in the public, and reducing gathering activities and population mobility",
+        "JFH, MK, LFL, HJZ, TS, QH, APD, XHT, JSL, HHD participated in the field investigation"
+    ],
+    "top_statements": [
+        "In 2002-2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) broke out globally, which caused more than 8000 cases with a fatality rate of 9.6%.1",
+        "On January 7, 2020, a novel coronavirus 2019-nCoV causing human pneumonia infection was identified in Wuhan, Hubei Province, China.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]",
+        "As of January 24, 2020, the virus had spread to 29 provinces, regions and municipal cities across China",
+        "We examined the incubation period, reproductive number (R) and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV",
+        "Given that a great number of cases only had the data of the arrival and departure time of Wuhan rather than the exact time of exposure to 2019-nCoV, the incubation period was calculated as follow: (1) in order to get a relatively precise exposure time, we selected the cases (n=16) who had traveled to Wuhan and stayed for no more than three days; (2) for each case, the max/min potential incubation period was estimated as date of the symptoms minus the arrival/departure date of Wuhan, and average them to get the incubation time; (3) the incubation time was the mean incubation time of the cases included"
+    ],
+    "headline": "We examined the incubation period, reproductive number and the period from onset of symptoms to isolation using confirmed 2019-nCoV cases data, and further compared them with that of SARSCoV",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "severe acute respiratory syndrome",
+        "EG": "Exponential Growth",
+        "ML": "maximum likelihood estimation",
+        "GT": "generation time",
+        "Rt": "reproductive numbers",
+        "CI": "confidence interval"
+    }
+}

@@ -1,0 +1,748 @@
+{
+    "filename": "2020.03.06.980037v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 468942,
+    "metadata": {
+        "title": "Monoclonal antibodies for the S2 subunit of spike of SARS-CoV cross-react with the newly-emerged SARS-CoV-2",
+        "author": "Zhiqiang Zheng, Vanessa M. Monteil, Sebastian Maurer-Stroh, Chow Wenn Yew, Carol Leong, Nur Khairiah Mohd-Ismail, Suganya Cheyyatraivendran Arularasu, Vincent Tak Kwong Chow, Raymond Lin Tzer Pin, Ali Mirazimi, Wanjin Hong, Yee-Joo Tan 1,7",
+        "date": 2020,
+        "affiliations": [
+            "Department of Microbiology and Immunology, Yong Loo Lin School of Medicine, National University Health System (NUHS), National University of Singapore.",
+            "Department of Laboratory Medicine, Karolinska Institute, Sweden.",
+            "Public Health Agency of Sweden, Sweden.",
+            "Bioinformatics Institute (BII), A*STAR (Agency for Science, Technology and Research), Singapore.",
+            "Department of Biological Sciences (DBS), National University of Singapore.",
+            "National Public Health Laboratory (NPHL), National Centre for Infectious Diseases (NCID), Singapore",
+            "Institute of Molecular and Cell Biology (IMCB), A*STAR (Agency for Science, Technology and Research), Singapore.",
+            "National Veterinary Institute, Sweden."
+        ],
+        "journal": "Keywords",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.06.980037",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.06.980037v1.pdf"
+        },
+        "abstract": "The emergence of a novel coronavirus, SARS-CoV-2, at the end of 2019 has resulted in 3 widespread human infections across the globe. While genetically distinct from SARS4 CoV, the etiological agent that caused an outbreak of severe acute respiratory syndrome 5 (SARS) in 2003, both coronaviruses exhibit receptor binding domain (RBD) conservation 6 and utilize the same host cell receptor, angiotensin-converting enzyme 2 (ACE2), for 7 virus entry. Therefore, it will be important to test the cross-reactivity of antibodies that 8 have been previously generated against the surface spike (S) glycoprotein of SARS-CoV 9 in order to aid research on the newly emerged SARS-CoV-2. Here, we show that an immunogenic domain in the S2 subunit of SARS-CoV S is highly conserved in multiple strains of SARS-CoV-2. Consistently, four murine monoclonal antibodies (mAbs) raised against this immunogenic SARS-CoV fragment were able to recognise the S protein of SARS-CoV-2 expressed in a mammalian cell line. Importantly, one of them (mAb 1A9) was demonstrated to detect S in SARS-CoV-2-infected cells. To our knowledge, this is the first study showing that mAbs targeting the S2 domain of SARS-CoV can cross-react with SARS-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit. These cross-reactive mAbs may serve as tools useful for SARS-CoV-2 research as well as for the development of diagnostic assays for its associated coronavirus disease COVID-19.",
+        "keywords": [
+            "Coronavirus Disease 2019 (COVID-19)",
+            "SARS-CoV-2",
+            "Spike protein",
+            "Cross22 reactive antibodies"
+        ],
+        "references": "@article{drosten2003a,\n  author = {Drosten, C. and Gunther, S. and Preiser, W.},\n  title = {Identification of a novel coronavirus in patients with severe acute respiratory syndrome},\n  journal = {N Engl J Med},\n  date = {2003-05-15},\n  volume = {348},\n  pages = {1967\u201376},\n  more-authors = {true},\n  number = {20},\n  language = {}\n}\n@article{ksiazek2003a,\n  author = {Ksiazek, T.G. and Erdman, D. and Goldsmith, C.S.},\n  title = {A novel coronavirus associated with severe acute respiratory syndrome},\n  journal = {N Engl J Med},\n  date = {2003-05-15},\n  volume = {348},\n  pages = {1953\u201366},\n  more-authors = {true},\n  number = {20},\n  language = {}\n}\n@article{zhou2020a,\n  author = {Zhou, P. and Yang, X.L. and Wang, X.G.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  journal = {Nature},\n  date = {2020-02-03},\n  more-authors = {true},\n  language = {}\n}\n@article{jiang2020a,\n  author = {Jiang, S. and Du, L. and Shi, Z.},\n  title = {An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for developing therapeutic and prophylactic strategies},\n  journal = {Emerg Microbes Infect},\n  date = {2020-12},\n  volume = {9},\n  pages = {275\u2013277},\n  number = {1},\n  language = {}\n}\n@article{li2020a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  date = {2020-01},\n  volume = {29},\n  more-authors = {true},\n  language = {}\n}\n@book{unknown-a,\n  title = {Coronavirus disease (COVID-19) outbreak},\n  publisher = {World Health Organization},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019},\n  language = {},\n  address = {Geneva}\n}\n@article{ceraolo2020a,\n  author = {Ceraolo, C. and Giorgi, F.M.},\n  title = {Genomic variance of the 2019-nCoV coronavirus},\n  journal = {J Med Virol},\n  date = {2020-02-06},\n  language = {}\n}\n@article{chan2020a,\n  author = {Chan, J.F. and Kok, K.H. and Zhu, Z.},\n  title = {Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan},\n  journal = {Emerg Microbes Infect},\n  date = {2020-12},\n  volume = {9},\n  pages = {221\u2013236},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{lu2020a,\n  author = {Lu, R. and Zhao, X. and Li, J.},\n  title = {Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding},\n  journal = {Lancet},\n  date = {2020-02},\n  volume = {22},\n  pages = {565\u2013574},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@article{li2003a,\n  author = {Li, W. and Moore, M.J. and Vasilieva, N.},\n  title = {Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus},\n  journal = {Nature},\n  date = {2003-11-27},\n  volume = {426},\n  pages = {450\u20134},\n  more-authors = {true},\n  number = {6965},\n  language = {}\n}\n@article{wan2020a,\n  author = {Wan, Y. and Shang, J. and Graham, R.},\n  title = {Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS},\n  journal = {J Virol},\n  date = {2020-01},\n  volume = {29},\n  more-authors = {true},\n  language = {}\n}\n@article{letko2020a,\n  author = {Letko, M. and Marzi, A. and Munster, V.},\n  title = {Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses},\n  journal = {Nat Microbiol},\n  date = {2020-02-24},\n  language = {}\n}\n@article{structure2016a,\n  author = {Structure, Li F. and Function},\n  title = {and Evolution of Coronavirus Spike Proteins},\n  journal = {Annu Rev Virol},\n  date = {2016-09-29},\n  volume = {3},\n  pages = {237\u2013261},\n  number = {1},\n  language = {}\n}\n@incollection{lau2005a,\n  author = {Lau, S.K. and Woo, P.C. and Li, K.S.},\n  title = {Severe acute respiratory syndrome coronaviruslike virus},\n  booktitle = {Chinese horseshoe bats. Proc Natl Acad Sci U},\n  pages = \"S\" # \"14040-5.\",\n  date = {2005-09-27},\n  volume = {102},\n  unmatched-author = {A.},\n  more-authors = {true},\n  unmatched-pages = {14040-5.},\n  number = {39},\n  language = {}\n}\n@article{ge2013a,\n  author = {Ge, X.Y. and Li, J.L. and Yang, X.L.},\n  title = {Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor},\n  journal = {Nature},\n  date = {2013-11-28},\n  volume = {503},\n  pages = {535\u20138},\n  more-authors = {true},\n  number = {7477},\n  language = {}\n}\n@article{hu2017a,\n  author = {Hu, B. and Zeng, L.P. and Yang, X.L.},\n  title = {Discovery of a rich gene pool of bat SARSrelated coronaviruses provides new insights into the origin of SARS coronavirus},\n  journal = {PLoS Pathog},\n  date = {2017-11},\n  volume = {13},\n  pages = {1006698},\n  more-authors = {true},\n  number = {11},\n  language = {}\n}\n@article{yang2015a,\n  author = {Yang, X.L. and Hu, B. and Wang, B.},\n  title = {Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus},\n  journal = {J Virol},\n  date = {2015-12-30},\n  volume = {90},\n  pages = {3253\u20136},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{graham2010a,\n  author = {Graham, R.L. and Recombination, Baric R.S. and reservoirs},\n  title = {and the modular spike: mechanisms of coronavirus cross-species transmission},\n  journal = {J Virol},\n  date = {2010-04},\n  volume = {84},\n  pages = {3134\u201346},\n  number = {7},\n  language = {}\n}\n@article{lip2006a,\n  author = {Lip, K.M. and Shen, S. and Yang, X.},\n  title = {Monoclonal antibodies targeting the HR2 domain and the region immediately upstream of the HR2 of the S protein neutralize in vitro infection of severe acute respiratory syndrome coronavirus},\n  journal = {J Virol},\n  date = {2006-01},\n  volume = {80},\n  pages = {941\u201350},\n  more-authors = {true},\n  number = {2},\n  language = {}\n}\n@article{ng2014a,\n  author = {Ng, O.W. and Keng, C.T. and Leung, C.S.},\n  title = {Substitution at aspartic acid 1128 in the SARS coronavirus spike glycoprotein mediates escape from a S2 domaintargeting neutralizing monoclonal antibody},\n  journal = {PLoS One},\n  date = {2014},\n  volume = {9},\n  pages = {102415},\n  more-authors = {true},\n  number = {7},\n  language = {}\n}\n@article{nakamura2018a,\n  author = {Nakamura, T. and Yamada, K.D. and Tomii, K.},\n  title = {Parallelization of MAFFT for largescale multiple sequence alignments},\n  journal = {Bioinformatics},\n  date = {2018-07-15},\n  volume = {34},\n  pages = {24902492},\n  more-authors = {true},\n  number = {14},\n  language = {}\n}\n@misc{waterhouse2009a,\n  editor = {Waterhouse, A.M. and Procter, J.B. and Martin, D.M.},\n  title = {analysis workbench. Bioinformatics},\n  date = {2009-05-01},\n  volume = {25},\n  pages = {1189\u201391},\n  more-editors = {true},\n  number = {9},\n  language = {}\n}\n@article{kumar2018a,\n  author = {Kumar, S. and Stecher, G. and Li, M.},\n  title = {MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms},\n  journal = {Mol Biol Evol},\n  date = {2018-06-01},\n  volume = {35},\n  pages = {15471549},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{keng2005a,\n  author = {Keng, C.T. and Zhang, A. and Shen, S.},\n  title = {Amino acids 1055 to 1192 in the S2 region of severe acute respiratory syndrome coronavirus S protein induce neutralizing antibodies: implications for the development of vaccines and antiviral agents},\n  journal = {J Virol},\n  date = {2005-03},\n  volume = {79},\n  pages = {3289\u201396},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{elbe2017a,\n  author = {Elbe, S. and Data, Buckland-Merrett G.},\n  title = {disease and diplomacy: GISAID's innovative contribution to global health},\n  journal = {Glob Chall},\n  date = {2017-01},\n  volume = {1},\n  pages = {33\u201346},\n  number = {1},\n  language = {}\n}\n@article{poh2009a,\n  author = {Poh, W.P. and Narasaraju, T. and Pereira, N.A.},\n  title = {Characterization of cytotoxic Tlymphocyte epitopes and immune responses to SARS coronavirus spike DNA vaccine expressing the RGD-integrin-binding motif},\n  journal = {J Med Virol},\n  date = {2009-07},\n  volume = {81},\n  pages = {1131\u20139},\n  more-authors = {true},\n  number = {7},\n  language = {}\n}\n@article{wrapp2020a,\n  author = {Wrapp, D. and Wang, N. and Corbett, K.S.},\n  title = {Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation},\n  journal = {Science},\n  date = {2020-02-19},\n  more-authors = {true},\n  language = {}\n}\n@article{tian2020a,\n  author = {Tian, X. and Li, C. and Huang, A.},\n  title = {Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody},\n  journal = {Emerg Microbes Infect},\n  date = {2020-12},\n  volume = {9},\n  pages = {382\u2013385},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{miyoshi-akiyama2011a,\n  author = {Miyoshi-Akiyama, T. and Ishida, I. and Fukushi, M.},\n  title = {Fully human monoclonal antibody directed to proteolytic cleavage site in severe acute respiratory syndrome (SARS) coronavirus S protein neutralizes the virus in a rhesus macaque SARS model},\n  journal = {J Infect Dis},\n  date = {2011-06-01},\n  volume = {203},\n  pages = {1574\u201381},\n  more-authors = {true},\n  number = {11},\n  language = {}\n}\n@article{zhong2005a,\n  author = {Zhong, X. and Yang, H. and Guo, Z.F.},\n  title = {B-cell responses in patients who have recovered from severe acute respiratory syndrome target a dominant site in the S2 domain of the surface spike glycoprotein},\n  journal = {J Virol},\n  date = {2005-03},\n  volume = {79},\n  pages = {3401\u20138},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{duan2005a,\n  author = {Duan, J. and Yan, X. and Guo, X.},\n  title = {A human SARS-CoV neutralizing antibody against epitope on S2 protein},\n  journal = {Biochem Biophys Res Commun},\n  date = {2005-07},\n  volume = {22},\n  pages = {18693},\n  more-authors = {true},\n  number = {333},\n  language = {}\n}\n",
+        "emails": [
+            "yee_joo_tan@nuhs.edu.sg"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Drosten, C.\nAU  - Gunther, S.\nAU  - Preiser, W.\nTI  - Identification of a novel coronavirus in patients with severe acute respiratory syndrome\nT2  - N Engl J Med\nPY  - 2003\nDA  - 2003/05/15\nVL  - 348\nSP  - 1967\nEP  - 76\nC1  - true\nIS  - 20\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ksiazek, T.G.\nAU  - Erdman, D.\nAU  - Goldsmith, C.S.\nTI  - A novel coronavirus associated with severe acute respiratory syndrome\nT2  - N Engl J Med\nPY  - 2003\nDA  - 2003/05/15\nVL  - 348\nSP  - 1953\nEP  - 66\nC1  - true\nIS  - 20\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nAU  - Yang, X.L.\nAU  - Wang, X.G.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nT2  - Nature\nPY  - 2020\nDA  - 2020/02/03\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jiang, S.\nAU  - Du, L.\nAU  - Shi, Z.\nTI  - An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for developing therapeutic and prophylactic strategies\nT2  - Emerg Microbes Infect\nPY  - 2020\nDA  - 2020/12\nVL  - 9\nSP  - 275\nEP  - 277\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020/01\nVL  - 29\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nTI  - Coronavirus disease (COVID-19) outbreak\nPB  - World Health Organization\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019\nLA  - \nCY  - Geneva\nER  - \n\nTY  - JOUR\nAU  - Ceraolo, C.\nAU  - Giorgi, F.M.\nTI  - Genomic variance of the 2019-nCoV coronavirus\nT2  - J Med Virol\nPY  - 2020\nDA  - 2020/02/06\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nAU  - Kok, K.H.\nAU  - Zhu, Z.\nTI  - Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan\nT2  - Emerg Microbes Infect\nPY  - 2020\nDA  - 2020/12\nVL  - 9\nSP  - 221\nEP  - 236\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lu, R.\nAU  - Zhao, X.\nAU  - Li, J.\nTI  - Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding\nT2  - Lancet\nPY  - 2020\nDA  - 2020/02\nVL  - 22\nSP  - 565\nEP  - 574\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, W.\nAU  - Moore, M.J.\nAU  - Vasilieva, N.\nTI  - Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus\nT2  - Nature\nPY  - 2003\nDA  - 2003/11/27\nVL  - 426\nSP  - 450\nEP  - 4\nC1  - true\nIS  - 6965\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wan, Y.\nAU  - Shang, J.\nAU  - Graham, R.\nTI  - Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS\nT2  - J Virol\nPY  - 2020\nDA  - 2020/01\nVL  - 29\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Letko, M.\nAU  - Marzi, A.\nAU  - Munster, V.\nTI  - Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses\nT2  - Nat Microbiol\nPY  - 2020\nDA  - 2020/02/24\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Structure, Li F.\nAU  - Function\nTI  - and Evolution of Coronavirus Spike Proteins\nT2  - Annu Rev Virol\nPY  - 2016\nDA  - 2016/09/29\nVL  - 3\nSP  - 237\nEP  - 261\nIS  - 1\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Lau, S.K.\nAU  - Woo, P.C.\nAU  - Li, K.S.\nTI  - Severe acute respiratory syndrome coronaviruslike virus\nT2  - Chinese horseshoe bats. Proc Natl Acad Sci U\nSP  - \"S\" # \"14040\nEP  - 5.\"\nPY  - 2005\nDA  - 2005/09/27\nVL  - 102\nC1  - A.\nC1  - true\nC1  - 14040-5.\nIS  - 39\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ge, X.Y.\nAU  - Li, J.L.\nAU  - Yang, X.L.\nTI  - Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor\nT2  - Nature\nPY  - 2013\nDA  - 2013/11/28\nVL  - 503\nSP  - 535\nEP  - 8\nC1  - true\nIS  - 7477\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hu, B.\nAU  - Zeng, L.P.\nAU  - Yang, X.L.\nTI  - Discovery of a rich gene pool of bat SARSrelated coronaviruses provides new insights into the origin of SARS coronavirus\nT2  - PLoS Pathog\nPY  - 2017\nDA  - 2017/11\nVL  - 13\nSP  - 1006698\nC1  - true\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, X.L.\nAU  - Hu, B.\nAU  - Wang, B.\nTI  - Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus\nT2  - J Virol\nPY  - 2015\nDA  - 2015/12/30\nVL  - 90\nSP  - 3253\nEP  - 6\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Graham, R.L.\nAU  - Recombination, Baric R.S.\nAU  - reservoirs\nTI  - and the modular spike: mechanisms of coronavirus cross-species transmission\nT2  - J Virol\nPY  - 2010\nDA  - 2010/04\nVL  - 84\nSP  - 3134\nEP  - 46\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lip, K.M.\nAU  - Shen, S.\nAU  - Yang, X.\nTI  - Monoclonal antibodies targeting the HR2 domain and the region immediately upstream of the HR2 of the S protein neutralize in vitro infection of severe acute respiratory syndrome coronavirus\nT2  - J Virol\nPY  - 2006\nDA  - 2006/01\nVL  - 80\nSP  - 941\nEP  - 50\nC1  - true\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ng, O.W.\nAU  - Keng, C.T.\nAU  - Leung, C.S.\nTI  - Substitution at aspartic acid 1128 in the SARS coronavirus spike glycoprotein mediates escape from a S2 domaintargeting neutralizing monoclonal antibody\nT2  - PLoS One\nPY  - 2014\nDA  - 2014\nVL  - 9\nSP  - 102415\nC1  - true\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nakamura, T.\nAU  - Yamada, K.D.\nAU  - Tomii, K.\nTI  - Parallelization of MAFFT for largescale multiple sequence alignments\nT2  - Bioinformatics\nPY  - 2018\nDA  - 2018/07/15\nVL  - 34\nSP  - 24902492\nC1  - true\nIS  - 14\nLA  - \nER  - \n\nTY  - GEN\nA2  - Waterhouse, A.M.\nA2  - Procter, J.B.\nA2  - Martin, D.M.\nTI  - analysis workbench. Bioinformatics\nPY  - 2009\nDA  - 2009/05/01\nVL  - 25\nSP  - 1189\nEP  - 91\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kumar, S.\nAU  - Stecher, G.\nAU  - Li, M.\nTI  - MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms\nT2  - Mol Biol Evol\nPY  - 2018\nDA  - 2018/06/01\nVL  - 35\nSP  - 15471549\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Keng, C.T.\nAU  - Zhang, A.\nAU  - Shen, S.\nTI  - Amino acids 1055 to 1192 in the S2 region of severe acute respiratory syndrome coronavirus S protein induce neutralizing antibodies: implications for the development of vaccines and antiviral agents\nT2  - J Virol\nPY  - 2005\nDA  - 2005/03\nVL  - 79\nSP  - 3289\nEP  - 96\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Elbe, S.\nAU  - Data, Buckland-Merrett G.\nTI  - disease and diplomacy: GISAID's innovative contribution to global health\nT2  - Glob Chall\nPY  - 2017\nDA  - 2017/01\nVL  - 1\nSP  - 33\nEP  - 46\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Poh, W.P.\nAU  - Narasaraju, T.\nAU  - Pereira, N.A.\nTI  - Characterization of cytotoxic Tlymphocyte epitopes and immune responses to SARS coronavirus spike DNA vaccine expressing the RGD-integrin-binding motif\nT2  - J Med Virol\nPY  - 2009\nDA  - 2009/07\nVL  - 81\nSP  - 1131\nEP  - 9\nC1  - true\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wrapp, D.\nAU  - Wang, N.\nAU  - Corbett, K.S.\nTI  - Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation\nT2  - Science\nPY  - 2020\nDA  - 2020/02/19\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tian, X.\nAU  - Li, C.\nAU  - Huang, A.\nTI  - Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody\nT2  - Emerg Microbes Infect\nPY  - 2020\nDA  - 2020/12\nVL  - 9\nSP  - 382\nEP  - 385\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Miyoshi-Akiyama, T.\nAU  - Ishida, I.\nAU  - Fukushi, M.\nTI  - Fully human monoclonal antibody directed to proteolytic cleavage site in severe acute respiratory syndrome (SARS) coronavirus S protein neutralizes the virus in a rhesus macaque SARS model\nT2  - J Infect Dis\nPY  - 2011\nDA  - 2011/06/01\nVL  - 203\nSP  - 1574\nEP  - 81\nC1  - true\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhong, X.\nAU  - Yang, H.\nAU  - Guo, Z.F.\nTI  - B-cell responses in patients who have recovered from severe acute respiratory syndrome target a dominant site in the S2 domain of the surface spike glycoprotein\nT2  - J Virol\nPY  - 2005\nDA  - 2005/03\nVL  - 79\nSP  - 3401\nEP  - 8\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Duan, J.\nAU  - Yan, X.\nAU  - Guo, X.\nTI  - A human SARS-CoV neutralizing antibody against epitope on S2 protein\nT2  - Biochem Biophys Res Commun\nPY  - 2005\nDA  - 2005/07\nVL  - 22\nSP  - 18693\nC1  - true\nIS  - 333\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "A) Multiple sequence alignment across relevant coronaviruses for the fragment 230 from S2 domain of SARS-CoV used to generate mAbs. (B) Pairwise amino acid identity 231 (%) for fragment region. (C) Pairwise amino acid identity (%) for full spike protein"
+            },
+            {
+                "id": "2",
+                "caption": "Mock-transfected COS-7 cells and cells expressing Myc-tagged SARS-CoV-2 233 S(aa1048-1206) fragment were used for (A) Western blot analysis using the indicated 234 primary antibodies, followed by HRP-conjugated secondary antibody. (B) 235 Immunofluorescence analysis using the indicated primary antibodies followed by Alexa 236 Fluor 488-conjugated secondary antibody. Nuclei were counterstained with DAPI (blue). 237 Scale bar = 50\u03bcm"
+            },
+            {
+                "id": "3",
+                "caption": "Immunofluorescence analysis was performed on mock-transfected COS-7 cells and cells expressing full-length SARS-CoV-2 S protein. The indicated primary antibodies were used followed by Alexa Fluor 488-conjugated secondary antibody. Nuclei were counterstained with DAPI (blue). Scale bar = 50\u03bcm"
+            },
+            {
+                "id": "4",
+                "caption": "A) Vero E6 cells were mock-infected or infected with SARS-CoV-2 (MOI of"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.980037v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.980037v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.980037v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.06.980037v1/img-003.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "The Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) is the etiological agent for the infectious disease, SARS, which first emerged 17 years ago [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. In<br/><br/>December of 2019, another novel coronavirus (SARS-CoV-2) appeared to have crossed species barriers to infect humans and was effectively transmitted from person to person, leading to a pneumonia outbreak in Wuhan, China [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. As of 1 March 2020, this coronavirus disease (COVID-19) has spread further within China and worldwide to 60 countries with over 87,000 confirmed cases and 2,980 fatalities [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. The outbreak has been declared a Public Health Emergency of International Concern by the World Health<br/><br/>Organization (WHO) and poses an increasing burden on global health and economy [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].<br/><br/>A study of 56 complete and partial SARS-CoV-2 genomes isolated from COVID-19 patients showed very high sequence conservation of more than 99%, indicating a recent introduction of the virus into the human population [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Phylogenetic analysis of SARS-<br/><br/>CoV-2 revealed that like SARS-CoV and bat-derived SARS-like coronaviruses (SL-<br/><br/>CoVs), it belongs to lineage B of the betacoronavirus genus [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. While SARS-CoV-2 shares higher whole-genome sequence identity with bat-SL-CoVZC45 and bat-SL-<br/><br/>CoVZXC21 (88 \u2013 89%) than with SARS-CoV (79 \u2013 82%), the receptor binding domain (RBD) of SARS-CoV-2 is more similar to SARS-CoV RBD, suggesting a possible common host cell receptor [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. In line with this, several groups have demonstrated that<br/><br/>SARS-CoV-2 utilizes the same host receptor, angiotensin-converting enzyme 2 (ACE2), as SARS-CoV for viral entry [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>-<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Due to its role in virus entry, the viral surface spike (S) glycoprotein has been the target for the generation of monoclonal antibodies (mAb). The S protein is functionally divided into two domains with the RBD-containing<br/><br/>S1 subunit being responsible for attachment to host cell while the S2 subunit mediates fusion between viral and host membranes (reviewed by Li, F.) [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Although the origin of SARS-CoV-2 has not been established, SARS-CoV is believed to have originated from<br/><br/>SL-CoVs residing in bats [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. For the majority of SL-CoVs, the S1 subunit has low sequence homology to that of SARS-CoV which indicates species-dependent receptor binding [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. On the other hand, the high amino acid sequence identity of more than<br/><br/>90% in the S2 subunit suggests that the fusion mechanism during virus infection is wellconserved [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].<br/><br/>In our previous work, we used an immunogenic fragment in the S2 subunit of SARS-CoV to generate a panel of murine mAbs [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. One of them, mAb 1A9, which binds to the S protein through a novel epitope within the S2 subunit at amino acids 1111-1130, has the ability to bind and cross-neutralize pseudotyped viruses expressing S of human SARS-<br/><br/>CoV, civet SARS-CoV and bat SL-CoV strains [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. In this study, we show that the sequence of the immunogen used to generate mAb 1A9, as well as three other mAbs, is conserved in multiple strains of SARS-CoV-2 and these mAbs bind to the spike protein of SARS-CoV-2 expressed in a mammalian cell line. Importantly, mAb 1A9 was demonstrated to detect S in SARS-CoV-2-infected cells."
+        ],
+        "methods": [
+            "Cells<br/><br/>Vero E6 and COS-7 cells were purchased from American Type Culture Collection (Manassas, VA, USA) and cultured in Dulbecco\u2019s Modified Eagle\u2019s Medium (DMEM; Thermo Scientific) supplemented with 10% foetal bovine serum (FBS; HyClone) and penicillin-streptomycin solution (Thermo Fisher Scientific). Cells were maintained at \u00b0C with 5% CO2.<br/><br/>Purification of antibody<br/><br/>The hybridoma for mAb 1A9 was previously generated [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. All mAbs were purified from cell culture supernatant using a HiTrap protein G HP affinity column (GE<br/><br/>Healthcare) and stored at -80 \u00b0C. The purity of the mAb was confirmed by sodium dodecyl sulphate-polyacrylamide gel electrophoretic (SDS-PAGE) analysis. The concentration of the purified mAb was determined using the Coomassie Plus protein assay reagent (Thermo Scientific).<br/><br/>Transient transfection and western blot analysis<br/><br/>COS-7 cells were seeded onto 6-well plates 24 hours prior to the transient transfection using Lipofectamine 2000 reagent (Thermo Scientific) according to the manufacturer\u2019s protocol. SARS-CoV-2 S-expressing plasmids were codon-optimized and generated by gene synthesis (Bio Basic Asia Pacific) according to GenBank accession QHD43416.1.<br/><br/>One plasmid is for expressing full-length S while the other is for expressing a fragment consisting of residues 1048-1206. At 48 hours post-transfection, cells were harvested, spun down by centrifugation and washed with cold PBS twice. Cells were then resuspended in RIPA buffer [50 mM Tris-HCl (pH 8.0), 150 mM NaCl, 0.5% NP40, 0.5%<br/><br/>deoxycholic acid, 0.005% SDS and 1 mM phenylmethylsulfonyl fluoride] and subjected to five freeze-thaw cycles. Clarified supernatant containing the protein of interest was obtained by spinning down the cell lysate at 13,000 rpm at 4 \u00b0C to remove the cell debris and further analyzed by Western blot (WB) analysis. 20 \u03bcg of total cell lysates were resolved using electrophoresis on SDS-PAGE gels and transferred onto nitrocellulose membrane (Bio-Rad). The membrane was blocked in 5% skimmed milk in Tris-buffered saline with 0.05% Tween 20 (TBST) for 1 hour at room temperature and incubated with primary antibodies at 4 \u00b0C overnight. After the membrane was washed with TBST, it was incubated with a HRP-conjugated secondary antibody (Thermo Scientific) at room temperature for 1 hour. The membrane was then washed with TBST again and detected with enhanced chemiluminescence substrate (Thermo Scientific).<br/><br/>Transient transfection and immunofluorescence analysis<br/><br/>For immunofluorescence (IF) analysis, COS-7 cells on glass coverslips were transfected as above and fixed at 24 hours post-transfection in 4% paraformaldehyde for 10 min at room temperature (RT) followed by permeabilization with 0.2% Triton X-100 (Sigma) for 5 min. Fixed cells were then blocked with PBS containing 10% fetal bovine serum for 30 min at RT. Cells were immunolabelled for 1 hour at RT with the indicated murine mAb and 45 min with Alexa Fluor 488-conjugated goat anti-mouse IgG antibody (Life<br/><br/>Technologies). Immunolabelled coverslips were counterstained with DAPI (Sigma), and mounted using ProLong\u00ae Gold Antifade Mountant (Molecular Probes). Images were acquired with Olympus CKX53 microscope using Olympus LCAch N 20x/0.40<br/><br/>iPC objective lens and Olympus DP27 colour camera with Olympus cellSens software.<br/><br/>Each channel was collected separately, with images at 1024 x 1024 pixels.<br/><br/>Virus infection and IF<br/><br/>All works with live virus has been performed in the BSL3 facility at the Public Health<br/><br/>Agency of Sweden. Vero-E6 cells were infected with SARS-CoV-2 (SARS-CoV-2-<br/><br/>Iso/01/human/2020/SWE, GenBank accession no. MT093571) at a multiplicity of infection (MOI) of 1 in DMEM 2% FBS (Thermo Fisher). At 24h post-infection, cells were fixed with chilled methanol/acetone and the cells were kept in -20\u00b0C overnight.<br/><br/>Cells were then stained using mAb 1A9 at 5\u03bcg/ml at 37\u00b0C for 30 minutes in immunofluorescence buffer (BSA 0.2%, Triton X100 0.1% in PBS, pH 7.4). They were then washed 3 times with PBS and incubated with goat anti-mouse conjugated to Alexa<br/><br/>Fluor 488-conjugated goat anti-mouse IgG antibody (Thermo Fisher) containing DAPI in immunofluorescence buffer for an additional incubation of 30 minutes. Cells were washed 3 times with PBS before reading in fluorescent microscopy.<br/><br/>Bioinformatics analysis<br/><br/>Spike glycoprotein reference protein sequences for SARS-CoV, SARS-CoV-2, batRaTG13, MERS and human common cold coronaviruses 229E, NL63, OC43 and<br/><br/>HKU1 were downloaded from NCBI (GenBank accessions in alignment in Figure 1A). A multiple sequence alignment was created with MAFFT using the slow but accurate L-<br/><br/>INS-I parameter settings [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>] and the alignment curated, cut to the target region 1029-<br/><br/>(SARS-CoV numbering) and visualized with Jalview [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. We used Mega X [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>] to calculate the number of amino acid differences for all sequence pairs in the alignment of the mAb target region (Figure 1B) and the full S protein (Figure 1C) normalized by the length of the aligned sequence of the respective reference protein to obtain percent amino acid identities.<br/><br/>To determine within-outbreak sequence diversity in the spike glycoprotein, 230 human and environmental outbreak virus sequences were downloaded from the GISAID database on March 1st 2020. We gratefully acknowledge the authors, originating and submitting laboratories of the sequences from GISAID\u2019s EpiCoVTM Database on which this part of the research is based. The list is detailed in Supplementary Table 1. The nucleotide sequences were searched with BLASTX against the reference spike glycoprotein. 174 hits covered the full length of the spike glycoprotein and amino acid mutations were counted and tabulated using a custom Perl script (Supplementary Table 2)."
+        ],
+        "results": [
+            "An immunogenic domain in the S2 subunit of SARS-CoV is highly conserved in SARS-<br/><br/>CoV-2 but not in endemic coronaviruses<br/><br/>By using five different fragments of SARS-CoV S to immunize rabbits, a fragment corresponding to residues 1029 to 1192 was found to stimulate neutralizing antibodies against SARS-CoV [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]. Interestingly, sequence alignment shows that this domain, which encompasses the heptad repeat (HR) 2 but not HR1, is highly conserved in SARS-<br/><br/>CoV-2 (Figure 1A). When compared with additional reference sequences from bat<br/><br/>RaTG13 (closest bat precursor), MERS and human common cold coronaviruses 229E, NL63, OC43 and HKU1 (Figure 1A), it becomes apparent that the amino acid identity between SARS-CoV-2 and SARS-CoV is much higher in this region (93%, Figure 1B)<br/><br/>than over the full protein length (78%, Figure 1C) and the similarity drops sharply (<40%<br/><br/>in this region) when considering MERS and the other coronaviruses infecting humans regularly.<br/><br/>We also studied within-outbreak sequence diversity across 174 full spike glycoproteins derived acknowledgement in Supplementary Table 1) [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]. Only 4 amino acid mutations were found within the putative antibody binding region compared to 30 mutations over the full length protein (Supplementary Table 2). 2 of these 4 amino acid mutations are from a sequence flagged in GISAID\u2019s EpiCoVTM database as lower quality due to many undetermined bases.<br/><br/>from nucleotide sequences shared via the<br/><br/>GISAID platform (full<br/><br/>Four murine mAbs bind to a fragment of the S protein of SARS-CoV-2<br/><br/>Subsequently, a panel of murine mAbs was generated using SARS-CoV S(aa1029-1192)<br/><br/>fragment and found to have neutralizing activities in vitro [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. Four mAbs with distinct binding profiles, as mapped by internal deletion mutagenesis study, were selected for testing to determine if they cross-react with SARS-CoV-2. A fragment containing residues 1048 to 1206 of the S protein of SARS-CoV-2 was expressed in COS-7 cells via transient transfection and Western blot analysis was performed using four mAbs, namely<br/><br/>2B2, 1A9, 4B12 and 1G10. As shown in Figure 2A, all 4 mAbs detected this fragment of<br/><br/>SARS-CoV-2, which is consistent with the sequence alignment shown in Figure 1A.<br/><br/>Similarly, immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the 4 mAbs to this S fragment of SARS-CoV-2 (Figure 2B).<br/><br/>Four murine mAbs bind to the full-length S protein of SARS-CoV-2<br/><br/>Next, the full-length S protein of SARS-CoV-2 was overexpressed in COS-7 cells and probed with each of the mAbs. As shown in Figure 3, all 4 mAbs bound to the full-length<br/><br/>S protein of SARS-CoV-2.<br/><br/>Mab1A9 binds to S expressed in SARS-CoV-2-infected cells<br/><br/>Since mAb 1A9 was previously shown to have broad cross-reactivity to civet SARS-CoV and bat SL-CoV strains [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>], it was tested on SARS-CoV-2-infected Vero-E6 cells. As shown in Figure 4, mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection."
+        ],
+        "discussion": [
+            "Numerous mAbs against the S protein of SARS-CoV have been generated for research and diagnostic assay development. Some of these may be able to cross-react with the S protein of SARS-CoV-2 and serve as tools to aid research on this newly emerged virus.<br/><br/>In this current study, an immunogenic domain in the S2 subunit of SARS-CoV was found to be highly conserved in multiple strains of SARS-CoV-2. Consistently, WB and IF analyses showed that 4 different mAbs generated using this SARS-CoV domain were cross-reactive against the S protein of SARS-CoV-2. In addition, mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection. Thus, these mAbs will be useful for studying the kinetics of SARS-CoV-2 replication in vitro and development of diagnostic assays for COVID-19. It is noteworthy that cytotoxic T-lymphocyte (CTL)<br/><br/>epitopes also reside at residues 884-891 and 1116-1123 within the S2 subunit of SARS-<br/><br/>CoV [<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. Interestingly, the latter CTL epitope overlaps with the epitope recognized by mAb 1A9 [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Hence, the S2 subunit may serve as an important antigen for inducing both humoral as well as cell-mediated immunity against SARS-CoV and SARS-CoV-2.<br/><br/>Recent cross-reactivity studies have evaluated SARS-CoV neutralizing antibodies that bind to the RBD-containing S1 subunit. Although both SARS-CoV and SARS-CoV-2 use<br/><br/>ACE2 as a receptor for viral entry [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], several SARS-CoV RBD-directed mAbs did not cross-react with SARS-CoV-2 RBD [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>,<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. Interestingly, CR3022, which was isolated from a SARS convalescent patient, showed cross-reactivity to SARS-CoV-2<br/><br/>RBD and recognizes an epitope that does not overlap with the ACE2 binding site [<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. To our knowledge, this is the first study showing that mAbs targeting the S2 domain of<br/><br/>SARS-CoV can cross-react with SARS-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit. Besides the mAbs characterized here, several other mAbs have been reported to bind to epitopes in the S2 subunit of SARS-<br/><br/>CoV [<a class=\"ref-link\" id=\"c29\" href=\"#r29\">29</a>-<a class=\"ref-link\" id=\"c31\" href=\"#r31\">31</a>]. Thus, it will be important to determine if these mAbs can also cross-react with SARS-CoV-2."
+        ],
+        "acknowledgements": [
+            "The work performed in NUS/NUHS was supported by NUHS Research Office under<br/><br/>Project Number NUHSRO/2020/033/RO5+5/CORONAVIRUS/LOA (WBS R-571-000-<br/><br/>071-733). The work performed in IMCB and BII was also supported by A*STAR through intramural funding and an A*CRUSE gap funding (ACCL/19-GAP064-R20H-    F)."
+        ],
+        "disclosures": [
+            "<strong>Declaration of interest statement</strong><br/><br/>WJH and YJT declare that they are involved in the licensing of mAb 1A9 to commercial companies as research or diagnostic reagents. The other authors have declared that no competing interests exist"
+        ],
+        "funding": [
+            "The work performed in NUS/NUHS was supported by NUHS Research Office under Project Number NUHSRO/2020/033/RO5+5/CORONAVIRUS/LOA (WBS R-571-000- 071-733)",
+            "The work performed in IMCB and BII was also supported by A*STAR through intramural funding and an A*CRUSE gap funding (ACCL/19-GAP064-R20H-  F)"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Supplementary Table 1.",
+                "Supplementary Table 2"
+            ]
+        }
+    },
+    "structured_content": {
+        "Abstract": [
+            "The emergence of a novel coronavirus, SARS-CoV-2, at the end of 2019 has resulted in widespread human infections across the globe. While genetically distinct from SARS-",
+            "CoV, the etiological agent that caused an outbreak of severe acute respiratory syndrome (SARS) in 2003, both coronaviruses exhibit receptor binding domain (RBD) conservation and utilize the same host cell receptor, angiotensin-converting enzyme 2 (ACE2), for virus entry. Therefore, it will be important to test the cross-reactivity of antibodies that have been previously generated against the surface spike (S) glycoprotein of SARS-CoV in order to aid research on the newly emerged SARS-CoV-2. Here, we show that an immunogenic domain in the S2 subunit of SARS-CoV S is highly conserved in multiple strains of SARS-CoV-2. Consistently, four murine monoclonal antibodies (mAbs) raised against this immunogenic SARS-CoV fragment were able to recognise the S protein of",
+            "SARS-CoV-2 expressed in a mammalian cell line. Importantly, one of them (mAb 1A9)",
+            "was demonstrated to detect S in SARS-CoV-2-infected cells. To our knowledge, this is the first study showing that mAbs targeting the S2 domain of SARS-CoV can cross-react with SARS-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit. These cross-reactive mAbs may serve as tools useful for SARS-CoV-2 research as well as for the development of diagnostic assays for its associated coronavirus disease COVID-19.",
+            "Keywords: Coronavirus Disease 2019 (COVID-19); SARS-CoV-2; Spike protein; Crossreactive antibodies"
+        ],
+        "Introduction": [
+            "The Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) is the etiological agent for the infectious disease, SARS, which first emerged 17 years ago [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. In",
+            "December of 2019, another novel coronavirus (SARS-CoV-2) appeared to have crossed species barriers to infect humans and was effectively transmitted from person to person, leading to a pneumonia outbreak in Wuhan, China [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. As of 1 March 2020, this coronavirus disease (COVID-19) has spread further within China and worldwide to 60 countries with over 87,000 confirmed cases and 2,980 fatalities [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. The outbreak has been declared a Public Health Emergency of International Concern by the World Health",
+            "Organization (WHO) and poses an increasing burden on global health and economy [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>].",
+            "A study of 56 complete and partial SARS-CoV-2 genomes isolated from COVID-19 patients showed very high sequence conservation of more than 99%, indicating a recent introduction of the virus into the human population [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Phylogenetic analysis of SARS-",
+            "CoVs), it belongs to lineage B of the betacoronavirus genus [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. While SARS-CoV-2 shares higher whole-genome sequence identity with bat-SL-CoVZC45 and bat-SL-",
+            "CoVZXC21 (88 \u2013 89%) than with SARS-CoV (79 \u2013 82%), the receptor binding domain (RBD) of SARS-CoV-2 is more similar to SARS-CoV RBD, suggesting a possible common host cell receptor [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>,<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. In line with this, several groups have demonstrated that",
+            "SARS-CoV-2 utilizes the same host receptor, angiotensin-converting enzyme 2 (ACE2), as SARS-CoV for viral entry [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>-<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Due to its role in virus entry, the viral surface spike (S) glycoprotein has been the target for the generation of monoclonal antibodies (mAb). The S protein is functionally divided into two domains with the RBD-containing",
+            "S1 subunit being responsible for attachment to host cell while the S2 subunit mediates fusion between viral and host membranes (reviewed by Li, F.) [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Although the origin of SARS-CoV-2 has not been established, SARS-CoV is believed to have originated from",
+            "SL-CoVs residing in bats [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. For the majority of SL-CoVs, the S1 subunit has low sequence homology to that of SARS-CoV which indicates species-dependent receptor binding [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. On the other hand, the high amino acid sequence identity of more than",
+            "90% in the S2 subunit suggests that the fusion mechanism during virus infection is wellconserved [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>,<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].",
+            "In our previous work, we used an immunogenic fragment in the S2 subunit of SARS-CoV to generate a panel of murine mAbs [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. One of them, mAb 1A9, which binds to the S protein through a novel epitope within the S2 subunit at amino acids 1111-1130, has the ability to bind and cross-neutralize pseudotyped viruses expressing S of human SARS-",
+            "CoV, civet SARS-CoV and bat SL-CoV strains [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. In this study, we show that the sequence of the immunogen used to generate mAb 1A9, as well as three other mAbs, is conserved in multiple strains of SARS-CoV-2 and these mAbs bind to the spike protein of SARS-CoV-2 expressed in a mammalian cell line. Importantly, mAb 1A9 was demonstrated to detect S in SARS-CoV-2-infected cells."
+        ],
+        "Materials and methods": [
+            "Vero E6 and COS-7 cells were purchased from American Type Culture Collection (Manassas, VA, USA) and cultured in Dulbecco\u2019s Modified Eagle\u2019s Medium (DMEM; Thermo Scientific) supplemented with 10% foetal bovine serum (FBS; HyClone) and penicillin-streptomycin solution (Thermo Fisher Scientific). Cells were maintained at \u00b0C with 5% CO2.",
+            "The hybridoma for mAb 1A9 was previously generated [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. All mAbs were purified from cell culture supernatant using a HiTrap protein G HP affinity column (GE",
+            "Healthcare) and stored at -80 \u00b0C. The purity of the mAb was confirmed by sodium dodecyl sulphate-polyacrylamide gel electrophoretic (SDS-PAGE) analysis. The concentration of the purified mAb was determined using the Coomassie Plus protein assay reagent (Thermo Scientific).",
+            "COS-7 cells were seeded onto 6-well plates 24 hours prior to the transient transfection using Lipofectamine 2000 reagent (Thermo Scientific) according to the manufacturer\u2019s protocol. SARS-CoV-2 S-expressing plasmids were codon-optimized and generated by gene synthesis (Bio Basic Asia Pacific) according to GenBank accession QHD43416.1.",
+            "One plasmid is for expressing full-length S while the other is for expressing a fragment consisting of residues 1048-1206. At 48 hours post-transfection, cells were harvested, spun down by centrifugation and washed with cold PBS twice. Cells were then resuspended in RIPA buffer [50 mM Tris-HCl (pH 8.0), 150 mM NaCl, 0.5% NP40, 0.5%",
+            "deoxycholic acid, 0.005% SDS and 1 mM phenylmethylsulfonyl fluoride] and subjected to five freeze-thaw cycles. Clarified supernatant containing the protein of interest was obtained by spinning down the cell lysate at 13,000 rpm at 4 \u00b0C to remove the cell debris and further analyzed by Western blot (WB) analysis. 20 \u03bcg of total cell lysates were resolved using electrophoresis on SDS-PAGE gels and transferred onto nitrocellulose membrane (Bio-Rad). The membrane was blocked in 5% skimmed milk in Tris-buffered saline with 0.05% Tween 20 (TBST) for 1 hour at room temperature and incubated with primary antibodies at 4 \u00b0C overnight. After the membrane was washed with TBST, it was incubated with a HRP-conjugated secondary antibody (Thermo Scientific) at room temperature for 1 hour. The membrane was then washed with TBST again and detected with enhanced chemiluminescence substrate (Thermo Scientific).",
+            "For immunofluorescence (IF) analysis, COS-7 cells on glass coverslips were transfected as above and fixed at 24 hours post-transfection in 4% paraformaldehyde for 10 min at room temperature (RT) followed by permeabilization with 0.2% Triton X-100 (Sigma) for 5 min. Fixed cells were then blocked with PBS containing 10% fetal bovine serum for 30 min at RT. Cells were immunolabelled for 1 hour at RT with the indicated murine mAb and 45 min with Alexa Fluor 488-conjugated goat anti-mouse IgG antibody (Life",
+            "Technologies). Immunolabelled coverslips were counterstained with DAPI (Sigma), and mounted using ProLong\u00ae Gold Antifade Mountant (Molecular Probes). Images were acquired with Olympus CKX53 microscope using Olympus LCAch N 20x/0.40",
+            "iPC objective lens and Olympus DP27 colour camera with Olympus cellSens software.",
+            "Each channel was collected separately, with images at 1024 x 1024 pixels.",
+            "All works with live virus has been performed in the BSL3 facility at the Public Health",
+            "Iso/01/human/2020/SWE, GenBank accession no. MT093571) at a multiplicity of infection (MOI) of 1 in DMEM 2% FBS (Thermo Fisher). At 24h post-infection, cells were fixed with chilled methanol/acetone and the cells were kept in -20\u00b0C overnight.",
+            "Cells were then stained using mAb 1A9 at 5\u03bcg/ml at 37\u00b0C for 30 minutes in immunofluorescence buffer (BSA 0.2%, Triton X100 0.1% in PBS, pH 7.4). They were then washed 3 times with PBS and incubated with goat anti-mouse conjugated to Alexa",
+            "Fluor 488-conjugated goat anti-mouse IgG antibody (Thermo Fisher) containing DAPI in immunofluorescence buffer for an additional incubation of 30 minutes. Cells were washed 3 times with PBS before reading in fluorescent microscopy.",
+            "Spike glycoprotein reference protein sequences for SARS-CoV, SARS-CoV-2, batRaTG13, MERS and human common cold coronaviruses 229E, NL63, OC43 and",
+            "HKU1 were downloaded from NCBI (GenBank accessions in alignment in Figure 1A). A multiple sequence alignment was created with MAFFT using the slow but accurate L-",
+            "INS-I parameter settings [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>] and the alignment curated, cut to the target region 1029-",
+            "(SARS-CoV numbering) and visualized with Jalview [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]. We used Mega X [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>] to calculate the number of amino acid differences for all sequence pairs in the alignment of the mAb target region (Figure 1B) and the full S protein (Figure 1C) normalized by the length of the aligned sequence of the respective reference protein to obtain percent amino acid identities.",
+            "To determine within-outbreak sequence diversity in the spike glycoprotein, 230 human and environmental outbreak virus sequences were downloaded from the GISAID database on March 1st 2020. We gratefully acknowledge the authors, originating and submitting laboratories of the sequences from GISAID\u2019s EpiCoVTM Database on which this part of the research is based. The list is detailed in Supplementary Table 1. The nucleotide sequences were searched with BLASTX against the reference spike glycoprotein. 174 hits covered the full length of the spike glycoprotein and amino acid mutations were counted and tabulated using a custom Perl script (Supplementary Table 2)."
+        ],
+        "Results": [
+            "By using five different fragments of SARS-CoV S to immunize rabbits, a fragment corresponding to residues 1029 to 1192 was found to stimulate neutralizing antibodies against SARS-CoV [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]. Interestingly, sequence alignment shows that this domain, which encompasses the heptad repeat (HR) 2 but not HR1, is highly conserved in SARS-",
+            "RaTG13 (closest bat precursor), MERS and human common cold coronaviruses 229E, NL63, OC43 and HKU1 (Figure 1A), it becomes apparent that the amino acid identity between SARS-CoV-2 and SARS-CoV is much higher in this region (93%, Figure 1B)",
+            "than over the full protein length (78%, Figure 1C) and the similarity drops sharply (<40%",
+            "in this region) when considering MERS and the other coronaviruses infecting humans regularly.",
+            "We also studied within-outbreak sequence diversity across 174 full spike glycoproteins derived acknowledgement in Supplementary Table 1) [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]. Only 4 amino acid mutations were found within the putative antibody binding region compared to 30 mutations over the full length protein (Supplementary Table 2). 2 of these 4 amino acid mutations are from a sequence flagged in GISAID\u2019s EpiCoVTM database as lower quality due to many undetermined bases.",
+            "fragment and found to have neutralizing activities in vitro [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. Four mAbs with distinct binding profiles, as mapped by internal deletion mutagenesis study, were selected for testing to determine if they cross-react with SARS-CoV-2. A fragment containing residues 1048 to 1206 of the S protein of SARS-CoV-2 was expressed in COS-7 cells via transient transfection and Western blot analysis was performed using four mAbs, namely",
+            "2B2, 1A9, 4B12 and 1G10. As shown in Figure 2A, all 4 mAbs detected this fragment of",
+            "SARS-CoV-2, which is consistent with the sequence alignment shown in Figure 1A.",
+            "Similarly, immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the 4 mAbs to this S fragment of SARS-CoV-2 (Figure 2B).",
+            "Next, the full-length S protein of SARS-CoV-2 was overexpressed in COS-7 cells and probed with each of the mAbs. As shown in Figure 3, all 4 mAbs bound to the full-length",
+            "S protein of SARS-CoV-2.",
+            "Since mAb 1A9 was previously shown to have broad cross-reactivity to civet SARS-CoV and bat SL-CoV strains [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>], it was tested on SARS-CoV-2-infected Vero-E6 cells. As shown in Figure 4, mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection."
+        ],
+        "Discussion": [
+            "Numerous mAbs against the S protein of SARS-CoV have been generated for research and diagnostic assay development. Some of these may be able to cross-react with the S protein of SARS-CoV-2 and serve as tools to aid research on this newly emerged virus.",
+            "In this current study, an immunogenic domain in the S2 subunit of SARS-CoV was found to be highly conserved in multiple strains of SARS-CoV-2. Consistently, WB and IF analyses showed that 4 different mAbs generated using this SARS-CoV domain were cross-reactive against the S protein of SARS-CoV-2. In addition, mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection. Thus, these mAbs will be useful for studying the kinetics of SARS-CoV-2 replication in vitro and development of diagnostic assays for COVID-19. It is noteworthy that cytotoxic T-lymphocyte (CTL)",
+            "epitopes also reside at residues 884-891 and 1116-1123 within the S2 subunit of SARS-",
+            "CoV [<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. Interestingly, the latter CTL epitope overlaps with the epitope recognized by mAb 1A9 [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Hence, the S2 subunit may serve as an important antigen for inducing both humoral as well as cell-mediated immunity against SARS-CoV and SARS-CoV-2.",
+            "Recent cross-reactivity studies have evaluated SARS-CoV neutralizing antibodies that bind to the RBD-containing S1 subunit. Although both SARS-CoV and SARS-CoV-2 use",
+            "ACE2 as a receptor for viral entry [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], several SARS-CoV RBD-directed mAbs did not cross-react with SARS-CoV-2 RBD [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>,<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. Interestingly, CR3022, which was isolated from a SARS convalescent patient, showed cross-reactivity to SARS-CoV-2",
+            "RBD and recognizes an epitope that does not overlap with the ACE2 binding site [<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. To our knowledge, this is the first study showing that mAbs targeting the S2 domain of",
+            "SARS-CoV can cross-react with SARS-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit. Besides the mAbs characterized here, several other mAbs have been reported to bind to epitopes in the S2 subunit of SARS-",
+            "CoV [<a class=\"ref-link\" id=\"c29\" href=\"#r29\">29</a>-<a class=\"ref-link\" id=\"c31\" href=\"#r31\">31</a>]. Thus, it will be important to determine if these mAbs can also cross-react with SARS-CoV-2."
+        ],
+        "Acknowledgements": [
+            "071-733). The work performed in IMCB and BII was also supported by A*STAR through intramural funding and an A*CRUSE gap funding (ACCL/19-GAP064-R20H-",
+            "F)."
+        ],
+        "Declaration of interest statement": [
+            "WJH and YJT declare that they are involved in the licensing of mAb 1A9 to commercial companies as research or diagnostic reagents. The other authors have declared that no competing interests exist.",
+            "S(aa1048-1206) fragment were used for (A) Western blot analysis using the indicated primary",
+            "Immunofluorescence analysis using the indicated primary antibodies followed by Alexa",
+            "Fluor 488-conjugated secondary antibody. Nuclei were counterstained with DAPI (blue).",
+            "Scale bar = 50\u03bcm.",
+            "1). At 24h post infection, the cells were stained with mAb 1A9 (5\u03bcg/ml) followed by",
+            "Alexa Fluor 488-conjugated secondary antibody. (B) Nuclei were counterstained with",
+            "(blue).",
+            "Merged antibody."
+        ],
+        "References": [
+            "Drosten C, Gunther S, Preiser W, et al Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003 May",
+            "15;348(20):1967-76.",
+            "Ksiazek TG, Erdman D, Goldsmith CS, et al A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1953-66.",
+            "Zhou P, Yang XL, Wang XG, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Feb 3.",
+            "Jiang S, Du L, Shi Z. An emerging coronavirus causing pneumonia outbreak in",
+            "Wuhan, China: calling for developing therapeutic and prophylactic strategies.",
+            "Emerg Microbes Infect. 2020 Dec;9(1):275-277.",
+            "Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of",
+            "Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29.",
+            "Coronavirus disease (COVID-19) outbreak Geneva: World Health Organization;",
+            "[cited",
+            "Feb",
+            "27].",
+            "Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+            "Ceraolo C, Giorgi FM. Genomic variance of the 2019-nCoV coronavirus. J Med",
+            "Virol. 2020 Feb 6.",
+            "Chan JF, Kok KH, Zhu Z, et al Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020 Dec;9(1):221-236.",
+            "Lu R, Zhao X, Li J, et al Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet.",
+            "Feb 22;395(10224):565-574.",
+            "Li W, Moore MJ, Vasilieva N, et al Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature. 2003 Nov",
+            "27;426(6965):450-4.",
+            "Wan Y, Shang J, Graham R, et al Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J",
+            "Virol. 2020 Jan 29.",
+            "Letko M, Marzi A, Munster V. Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses. Nat Microbiol.",
+            "Feb 24.",
+            "Li F. Structure, Function, and Evolution of Coronavirus Spike Proteins. Annu Rev",
+            "Virol. 2016 Sep 29;3(1):237-261.",
+            "Lau SK, Woo PC, Li KS, et al Severe acute respiratory syndrome coronaviruslike virus in Chinese horseshoe bats. Proc Natl Acad Sci U S A. 2005 Sep",
+            "27;102(39):14040-5.",
+            "Ge XY, Li JL, Yang XL, et al Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature. 2013 Nov 28;503(7477):535-8.",
+            "Hu B, Zeng LP, Yang XL, et al Discovery of a rich gene pool of bat SARSrelated coronaviruses provides new insights into the origin of SARS coronavirus.",
+            "PLoS Pathog. 2017 Nov;13(11):e1006698.",
+            "Yang XL, Hu B, Wang B, et al Isolation and Characterization of a Novel Bat",
+            "Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory",
+            "Syndrome Coronavirus. J Virol. 2015 Dec 30;90(6):3253-6.",
+            "Graham RL, Baric RS. Recombination, reservoirs, and the modular spike: mechanisms of coronavirus cross-species transmission. J Virol. 2010",
+            "Apr;84(7):3134-46.",
+            "Lip KM, Shen S, Yang X, et al Monoclonal antibodies targeting the HR2 domain and the region immediately upstream of the HR2 of the S protein neutralize in vitro infection of severe acute respiratory syndrome coronavirus. J Virol. 2006",
+            "Jan;80(2):941-50.",
+            "Ng OW, Keng CT, Leung CS, et al Substitution at aspartic acid 1128 in the",
+            "SARS coronavirus spike glycoprotein mediates escape from a S2 domaintargeting neutralizing monoclonal antibody. PLoS One. 2014;9(7):e102415.",
+            "Nakamura T, Yamada KD, Tomii K, et al Parallelization of MAFFT for largescale multiple sequence alignments. Bioinformatics. 2018 Jul 15;34(14):24902492.",
+            "Waterhouse AM, Procter JB, Martin DM, et al Jalview Version 2--a multiple sequence alignment editor and analysis workbench. Bioinformatics. 2009 May",
+            "1;25(9):1189-91.",
+            "Kumar S, Stecher G, Li M, et al MEGA X: Molecular Evolutionary Genetics",
+            "Analysis across Computing Platforms. Mol Biol Evol. 2018 Jun 1;35(6):15471549.",
+            "Keng CT, Zhang A, Shen S, et al Amino acids 1055 to 1192 in the S2 region of severe acute respiratory syndrome coronavirus S protein induce neutralizing antibodies: implications for the development of vaccines and antiviral agents. J",
+            "Virol. 2005 Mar;79(6):3289-96.",
+            "Elbe S, Buckland-Merrett G. Data, disease and diplomacy: GISAID's innovative contribution to global health. Glob Chall. 2017 Jan;1(1):33-46.",
+            "Poh WP, Narasaraju T, Pereira NA, et al Characterization of cytotoxic Tlymphocyte epitopes and immune responses to SARS coronavirus spike DNA vaccine expressing the RGD-integrin-binding motif. J Med Virol. 2009",
+            "Jul;81(7):1131-9.",
+            "Wrapp D, Wang N, Corbett KS, et al Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science. 2020 Feb 19.",
+            "Tian X, Li C, Huang A, et al Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody. Emerg",
+            "Microbes Infect. 2020 Dec;9(1):382-385.",
+            "Miyoshi-Akiyama T, Ishida I, Fukushi M, et al Fully human monoclonal antibody directed to proteolytic cleavage site in severe acute respiratory syndrome (SARS) coronavirus S protein neutralizes the virus in a rhesus macaque SARS model. J Infect Dis. 2011 Jun 1;203(11):1574-81.",
+            "Zhong X, Yang H, Guo ZF, et al B-cell responses in patients who have recovered from severe acute respiratory syndrome target a dominant site in the S2 domain of the surface spike glycoprotein. J Virol. 2005 Mar;79(6):3401-8.",
+            "Duan J, Yan X, Guo X, et al A human SARS-CoV neutralizing antibody against epitope on S2 protein. Biochem Biophys Res Commun. 2005 Jul 22;333(1):18693."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "murine monoclonal antibodies",
+            "number": 4,
+            "context": "Here, we show that an immunogenic domain in the S2 subunit of SARS-CoV S is highly conserved in multiple strains of SARS-CoV-2. <mark class=\"stats\">Consistently, four murine monoclonal antibodies (mAbs) raised against this immunogenic SARS-CoV fragment were able to recognise the S protein of SARS-CoV-2 expressed in a mammalian cell line</mark>. Importantly, one of them (mAb 1A9) was demonstrated to detect S in SARS-CoV-2-infected cells"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 87000,
+            "context": "December of 2019, another novel coronavirus (SARS-CoV-2) appeared to have crossed species barriers to infect humans and was effectively transmitted from person to person, leading to a pneumonia outbreak in Wuhan, China [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. <mark class=\"stats\">As of 1 March 2020, this coronavirus disease (COVID-19) has spread further within China and worldwide to 60 countries with over 87,000 confirmed cases and 2,980 fatalities [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]</mark>. The outbreak has been declared a Public Health Emergency of International Concern by the World Health"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "s2 subunit",
+        "bat sl",
+        "cytotoxic T-lymphocyte",
+        "coronavirus",
+        "monoclonal antibody",
+        "SARS-CoV-2",
+        "multiple strain",
+        "Coronavirus Disease 2019 (COVID-19)",
+        "COVID-19",
+        "cross reactivity",
+        "s protein",
+        "Western blot",
+        "severe acute respiratory syndrome 5",
+        "immunogenic",
+        "diagnostic assay",
+        "SARS-like coronaviruses",
+        "sars cov",
+        "monoclonal antibodies",
+        "World HealthOrganization",
+        "host cell",
+        "heptad repeat",
+        "Spike protein",
+        "Cross22 reactive antibodies",
+        "receptor binding domain",
+        "pneumonia",
+        "Tris-buffered saline with 0.05% Tween 20",
+        "angiotensin-converting enzyme 2"
+    ],
+    "keyword_relevance": {
+        "severe acute respiratory syndrome 5": 0.2947976878612717,
+        "monoclonal antibodies": 0.24855491329479767,
+        "SARS-CoV-2": 0.1416184971098266,
+        "coronavirus": 0.10115606936416185,
+        "receptor binding domain": 0.028901734104046242,
+        "heptad repeat": 0.02023121387283237,
+        "angiotensin-converting enzyme 2": 0.02023121387283237,
+        "COVID-19": 0.017341040462427744,
+        "Western blot": 0.017341040462427744,
+        "SARS-like coronaviruses": 0.017341040462427744,
+        "immunogenic": 0.014450867052023121,
+        "pneumonia": 0.011560693641618497,
+        "Tris-buffered saline with 0.05% Tween 20": 0.011560693641618497,
+        "cytotoxic T-lymphocyte": 0.008670520231213872,
+        "monoclonal antibody": 0.008670520231213872,
+        "multiple strain": 0.008670520231213872,
+        "diagnostic assay": 0.008670520231213872,
+        "host cell": 0.008670520231213872,
+        "Coronavirus Disease 2019 (COVID-19)": 0.002890173410404624,
+        "s protein": 0.002890173410404624,
+        "World HealthOrganization": 0.002890173410404624,
+        "Spike protein": 0.002890173410404624,
+        "s2 subunit": 0.0,
+        "bat sl": 0.0,
+        "cross reactivity": 0.0,
+        "sars cov": 0.0,
+        "Cross22 reactive antibodies": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) is the etiological agent for the infectious disease, SARS, which first emerged 17 years ago [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+        "MAb 1A9, which binds to the S protein through a novel epitope within the S2 subunit at amino acids 1111-1130, has the ability to bind and cross-neutralize pseudotyped viruses expressing S of human SARS-.",
+        "The authors show that the sequence of the immunogen used to generate mAb 1A9, as well as three other mAbs, is conserved in multiple strains of SARS-CoV-2 and these mAbs bind to the spike protein of SARS-CoV-2 expressed in a mammalian cell line.",
+        "MAb 1A9 was demonstrated to detect S in SARS-CoV-2-infected cells",
+        "<h2 style=\"display: inline\">Methods:</h2> Cells<br/><br/>Vero E6 and COS-7 cells were purchased from American Type Culture Collection (Manassas, VA, USA) and cultured in Dulbecco\u2019s Modified Eagle\u2019s Medium (DMEM; Thermo Scientific) supplemented with 10% foetal bovine serum (FBS; HyClone) and penicillin-streptomycin solution (Thermo Fisher Scientific).",
+        "Cells were stained using mAb 1A9 at 5\u03bcg/ml at 37\u00b0C for 30 minutes in immunofluorescence buffer (BSA 0.2%, Triton X100 0.1% in PBS, pH 7.4)",
+        "They were washed 3 times with PBS and incubated with goat anti-mouse conjugated to Alexa.",
+        "Fluor 488-conjugated goat anti-mouse IgG antibody (Thermo Fisher) containing DAPI in immunofluorescence buffer for an additional incubation of 30 minutes.",
+        "The nucleotide sequences were searched with BLASTX against the reference spike glycoprotein. 174 hits covered the full length of the spike glycoprotein and amino acid mutations were counted and tabulated using a custom Perl script (Supplementary Table 2)",
+        "<h2 style=\"display: inline\">Results:</h2> An immunogenic domain in the S2 subunit of SARS-CoV is highly conserved in SARS-<br/><br/>CoV-2 but not in endemic coronaviruses<br/><br/>By using five different fragments of SARS-CoV S to immunize rabbits, a fragment corresponding to residues 1029 to 1192 was found to stimulate neutralizing antibodies against SARS-CoV [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].",
+        "4 amino acid mutations were found within the putative antibody binding region compared to 30 mutations over the full length protein (Supplementary Table 2).",
+        "A fragment containing residues 1048 to 1206 of the S protein of SARS-CoV-2 was expressed in COS-7 cells via transient transfection and Western blot analysis was performed using four mAbs, namely.",
+        "Immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the 4 mAbs to this S fragment of SARS-CoV-2 (Figure 2B).",
+        "As shown in Figure 4, mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Numerous mAbs against the S protein of SARS-CoV have been generated for research and diagnostic assay development.",
+        "MAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection",
+        "These mAbs will be useful for studying the kinetics of SARS-CoV-2 replication in vitro and development of diagnostic assays for COVID-19.",
+        "RBD and recognizes an epitope that does not overlap with the ACE2 binding site [<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]",
+        "To the knowledge, this is the first study showing that mAbs targeting the S2 domain of.",
+        "It will be important to determine if these mAbs can cross-react with SARS-CoV-2"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) is the etiological agent for the infectious disease, SARS, which first emerged 17 years ago [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "MAb 1A9, which binds to the S protein through a novel epitope within the S2 subunit at amino acids 1111-1130, has the ability to bind and cross-neutralize pseudotyped viruses expressing S of human SARS-.",
+            "The authors show that the sequence of the immunogen used to generate mAb 1A9, as well as three other mAbs, is conserved in multiple strains of SARS-CoV-2 and these mAbs bind to the spike protein of SARS-CoV-2 expressed in a mammalian cell line.",
+            "MAb 1A9 was demonstrated to detect S in SARS-CoV-2-infected cells"
+        ],
+        "Methods": [
+            "Cells<br/><br/>Vero E6 and COS-7 cells were purchased from American Type Culture Collection (Manassas, VA, USA) and cultured in Dulbecco\u2019s Modified Eagle\u2019s Medium (DMEM; Thermo Scientific) supplemented with 10% foetal bovine serum (FBS; HyClone) and penicillin-streptomycin solution (Thermo Fisher Scientific).",
+            "Cells were stained using mAb 1A9 at 5\u03bcg/ml at 37\u00b0C for 30 minutes in immunofluorescence buffer (BSA 0.2%, Triton X100 0.1% in PBS, pH 7.4)",
+            "They were washed 3 times with PBS and incubated with goat anti-mouse conjugated to Alexa.",
+            "Fluor 488-conjugated goat anti-mouse IgG antibody (Thermo Fisher) containing DAPI in immunofluorescence buffer for an additional incubation of 30 minutes.",
+            "The nucleotide sequences were searched with BLASTX against the reference spike glycoprotein. 174 hits covered the full length of the spike glycoprotein and amino acid mutations were counted and tabulated using a custom Perl script (Supplementary Table 2)"
+        ],
+        "Results": [
+            "An immunogenic domain in the S2 subunit of SARS-CoV is highly conserved in SARS-<br/><br/>CoV-2 but not in endemic coronaviruses<br/><br/>By using five different fragments of SARS-CoV S to immunize rabbits, a fragment corresponding to residues 1029 to 1192 was found to stimulate neutralizing antibodies against SARS-CoV [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].",
+            "4 amino acid mutations were found within the putative antibody binding region compared to 30 mutations over the full length protein (Supplementary Table 2).",
+            "A fragment containing residues 1048 to 1206 of the S protein of SARS-CoV-2 was expressed in COS-7 cells via transient transfection and Western blot analysis was performed using four mAbs, namely.",
+            "Immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the 4 mAbs to this S fragment of SARS-CoV-2 (Figure 2B).",
+            "As shown in Figure 4, mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection"
+        ],
+        "Conclusion": [
+            "Numerous mAbs against the S protein of SARS-CoV have been generated for research and diagnostic assay development.",
+            "MAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S during infection",
+            "These mAbs will be useful for studying the kinetics of SARS-CoV-2 replication in vitro and development of diagnostic assays for COVID-19.",
+            "RBD and recognizes an epitope that does not overlap with the ACE2 binding site [<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]",
+            "To the knowledge, this is the first study showing that mAbs targeting the S2 domain of.",
+            "It will be important to determine if these mAbs can cross-react with SARS-CoV-2"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Drosten_et+al_2003_a",
+            "entry": "1. Drosten C, Gunther S, Preiser W, et al. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1967-76.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Drosten%2C%20C.%20Gunther%2C%20S.%20Preiser%2C%20W.%20Identification%20of%20a%20novel%20coronavirus%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%202003-05-15",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Drosten%2C%20C.%20Gunther%2C%20S.%20Preiser%2C%20W.%20Identification%20of%20a%20novel%20coronavirus%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%202003-05-15",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Drosten%2C%20C.%20Gunther%2C%20S.%20Preiser%2C%20W.%20Identification%20of%20a%20novel%20coronavirus%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%202003-05-15"
+        },
+        {
+            "id": "2",
+            "alt_id": "Ksiazek_et+al_2003_a",
+            "entry": "2. Ksiazek TG, Erdman D, Goldsmith CS, et al. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1953-66.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ksiazek%2C%20T.G.%20Erdman%2C%20D.%20Goldsmith%2C%20C.S.%20A%20novel%20coronavirus%20associated%20with%20severe%20acute%20respiratory%20syndrome%202003-05-15",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ksiazek%2C%20T.G.%20Erdman%2C%20D.%20Goldsmith%2C%20C.S.%20A%20novel%20coronavirus%20associated%20with%20severe%20acute%20respiratory%20syndrome%202003-05-15",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ksiazek%2C%20T.G.%20Erdman%2C%20D.%20Goldsmith%2C%20C.S.%20A%20novel%20coronavirus%20associated%20with%20severe%20acute%20respiratory%20syndrome%202003-05-15"
+        },
+        {
+            "id": "3",
+            "alt_id": "Zhou_et+al_2020_a",
+            "entry": "3. Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Feb 3.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20Yang%2C%20X.L.%20Wang%2C%20X.G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020-02-03",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20Yang%2C%20X.L.%20Wang%2C%20X.G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020-02-03",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20Yang%2C%20X.L.%20Wang%2C%20X.G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020-02-03"
+        },
+        {
+            "id": "4",
+            "alt_id": "Jiang_et+al_2020_a",
+            "entry": "4. Jiang S, Du L, Shi Z. An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for developing therapeutic and prophylactic strategies. Emerg Microbes Infect. 2020 Dec;9(1):275-277.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Jiang%2C%20S.%20Du%2C%20L.%20Shi%2C%20Z.%20An%20emerging%20coronavirus%20causing%20pneumonia%20outbreak%20in%20Wuhan%2C%20China%3A%20calling%20for%20developing%20therapeutic%20and%20prophylactic%20strategies%202020-12",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Jiang%2C%20S.%20Du%2C%20L.%20Shi%2C%20Z.%20An%20emerging%20coronavirus%20causing%20pneumonia%20outbreak%20in%20Wuhan%2C%20China%3A%20calling%20for%20developing%20therapeutic%20and%20prophylactic%20strategies%202020-12",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Jiang%2C%20S.%20Du%2C%20L.%20Shi%2C%20Z.%20An%20emerging%20coronavirus%20causing%20pneumonia%20outbreak%20in%20Wuhan%2C%20China%3A%20calling%20for%20developing%20therapeutic%20and%20prophylactic%20strategies%202020-12"
+        },
+        {
+            "id": "5",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "5. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020-01"
+        },
+        {
+            "id": "6",
+            "alt_id": "6._0000_a",
+            "entry": "6. Coronavirus disease (COVID-19) outbreak Geneva: World Health Organization; Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+        },
+        {
+            "id": "7",
+            "alt_id": "Ceraolo_2020_a",
+            "entry": "7. Ceraolo C, Giorgi FM. Genomic variance of the 2019-nCoV coronavirus. J Med Virol. 2020 Feb 6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ceraolo%20C%20Giorgi%20FM%20Genomic%20variance%20of%20the%202019nCoV%20coronavirus%20J%20Med%20Virol%202020%20Feb%206",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ceraolo%20C%20Giorgi%20FM%20Genomic%20variance%20of%20the%202019nCoV%20coronavirus%20J%20Med%20Virol%202020%20Feb%206",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ceraolo%20C%20Giorgi%20FM%20Genomic%20variance%20of%20the%202019nCoV%20coronavirus%20J%20Med%20Virol%202020%20Feb%206"
+        },
+        {
+            "id": "8",
+            "alt_id": "Chan_et+al_2020_a",
+            "entry": "8. Chan JF, Kok KH, Zhu Z, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020 Dec;9(1):221-236.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JF%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerg%20Microbes%20Infect%202020%20Dec91221236",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%20JF%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerg%20Microbes%20Infect%202020%20Dec91221236",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%20JF%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerg%20Microbes%20Infect%202020%20Dec91221236"
+        },
+        {
+            "id": "9",
+            "alt_id": "Lu_et+al_2020_a",
+            "entry": "9. Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet. 2020 Feb 22;395(10224):565-574.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lu%20R%20Zhao%20X%20Li%20J%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20Lancet%202020%20Feb%202239510224565574",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lu%20R%20Zhao%20X%20Li%20J%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20Lancet%202020%20Feb%202239510224565574",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lu%20R%20Zhao%20X%20Li%20J%20et%20al%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20Lancet%202020%20Feb%202239510224565574"
+        },
+        {
+            "id": "10",
+            "alt_id": "Li_et+al_2003_a",
+            "entry": "10. Li W, Moore MJ, Vasilieva N, et al. Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature. 2003 Nov 27;426(6965):450-4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20W.%20Moore%2C%20M.J.%20Vasilieva%2C%20N.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20coronavirus%202003-11-27",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20W.%20Moore%2C%20M.J.%20Vasilieva%2C%20N.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20coronavirus%202003-11-27",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20W.%20Moore%2C%20M.J.%20Vasilieva%2C%20N.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20coronavirus%202003-11-27"
+        },
+        {
+            "id": "11",
+            "alt_id": "Wan_et+al_2020_a",
+            "entry": "11. Wan Y, Shang J, Graham R, et al. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J Virol. 2020 Jan 29.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS%202020-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS%202020-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS%202020-01"
+        },
+        {
+            "id": "12",
+            "alt_id": "Letko_et+al_2020_a",
+            "entry": "12. Letko M, Marzi A, Munster V. Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses. Nat Microbiol. 2020 Feb 24.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Letko%2C%20M.%20Marzi%2C%20A.%20Munster%2C%20V.%20Functional%20assessment%20of%20cell%20entry%20and%20receptor%20usage%20for%20SARS-CoV-2%20and%20other%20lineage%20B%20betacoronaviruses%202020-02-24",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Letko%2C%20M.%20Marzi%2C%20A.%20Munster%2C%20V.%20Functional%20assessment%20of%20cell%20entry%20and%20receptor%20usage%20for%20SARS-CoV-2%20and%20other%20lineage%20B%20betacoronaviruses%202020-02-24",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Letko%2C%20M.%20Marzi%2C%20A.%20Munster%2C%20V.%20Functional%20assessment%20of%20cell%20entry%20and%20receptor%20usage%20for%20SARS-CoV-2%20and%20other%20lineage%20B%20betacoronaviruses%202020-02-24"
+        },
+        {
+            "id": "13",
+            "alt_id": "Structure_2016_a",
+            "entry": "13. Li F. Structure, Function, and Evolution of Coronavirus Spike Proteins. Annu Rev Virol. 2016 Sep 29;3(1):237-261.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Structure%2C%20Li%20F.%20Function%20and%20Evolution%20of%20Coronavirus%20Spike%20Proteins%202016-09-29",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Structure%2C%20Li%20F.%20Function%20and%20Evolution%20of%20Coronavirus%20Spike%20Proteins%202016-09-29",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Structure%2C%20Li%20F.%20Function%20and%20Evolution%20of%20Coronavirus%20Spike%20Proteins%202016-09-29"
+        },
+        {
+            "id": "14",
+            "alt_id": "Lau_et+al_2005_a",
+            "entry": "14. Lau SK, Woo PC, Li KS, et al. Severe acute respiratory syndrome coronaviruslike virus in Chinese horseshoe bats. Proc Natl Acad Sci U S A. 2005 Sep 27;102(39):14040-5.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20S.K.%20Woo%2C%20P.C.%20Li%2C%20K.S.%20Severe%20acute%20respiratory%20syndrome%20coronaviruslike%20virus%202005-09-27",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20S.K.%20Woo%2C%20P.C.%20Li%2C%20K.S.%20Severe%20acute%20respiratory%20syndrome%20coronaviruslike%20virus%202005-09-27",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20S.K.%20Woo%2C%20P.C.%20Li%2C%20K.S.%20Severe%20acute%20respiratory%20syndrome%20coronaviruslike%20virus%202005-09-27"
+        },
+        {
+            "id": "15",
+            "alt_id": "Ge_et+al_2013_a",
+            "entry": "15. Ge XY, Li JL, Yang XL, et al. Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature. 2013 Nov 28;503(7477):535-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ge%2C%20X.Y.%20Li%2C%20J.L.%20Yang%2C%20X.L.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20the%20ACE2%20receptor%202013-11-28",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ge%2C%20X.Y.%20Li%2C%20J.L.%20Yang%2C%20X.L.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20the%20ACE2%20receptor%202013-11-28",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ge%2C%20X.Y.%20Li%2C%20J.L.%20Yang%2C%20X.L.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20the%20ACE2%20receptor%202013-11-28"
+        },
+        {
+            "id": "16",
+            "alt_id": "Hu_et+al_2017_a",
+            "entry": "16. Hu B, Zeng LP, Yang XL, et al. Discovery of a rich gene pool of bat SARSrelated coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathog. 2017 Nov;13(11):e1006698.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hu%2C%20B.%20Zeng%2C%20L.P.%20Yang%2C%20X.L.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARSrelated%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017-11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hu%2C%20B.%20Zeng%2C%20L.P.%20Yang%2C%20X.L.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARSrelated%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017-11",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hu%2C%20B.%20Zeng%2C%20L.P.%20Yang%2C%20X.L.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARSrelated%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017-11"
+        },
+        {
+            "id": "17",
+            "alt_id": "Yang_et+al_2015_a",
+            "entry": "17. Yang XL, Hu B, Wang B, et al. Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus. J Virol. 2015 Dec 30;90(6):3253-6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20X.L.%20Hu%2C%20B.%20Wang%2C%20B.%20Isolation%20and%20Characterization%20of%20a%20Novel%20Bat%20Coronavirus%20Closely%20Related%20to%20the%20Direct%20Progenitor%20of%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202015-12-30",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20X.L.%20Hu%2C%20B.%20Wang%2C%20B.%20Isolation%20and%20Characterization%20of%20a%20Novel%20Bat%20Coronavirus%20Closely%20Related%20to%20the%20Direct%20Progenitor%20of%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202015-12-30",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20X.L.%20Hu%2C%20B.%20Wang%2C%20B.%20Isolation%20and%20Characterization%20of%20a%20Novel%20Bat%20Coronavirus%20Closely%20Related%20to%20the%20Direct%20Progenitor%20of%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202015-12-30"
+        },
+        {
+            "id": "18",
+            "alt_id": "Graham_et+al_2010_a",
+            "entry": "18. Graham RL, Baric RS. Recombination, reservoirs, and the modular spike: mechanisms of coronavirus cross-species transmission. J Virol. 2010 Apr;84(7):3134-46.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Graham%2C%20R.L.%20Recombination%2C%20Baric%20R.S.%20reservoirs%20and%20the%20modular%20spike%3A%20mechanisms%20of%20coronavirus%20cross-species%20transmission%202010-04",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Graham%2C%20R.L.%20Recombination%2C%20Baric%20R.S.%20reservoirs%20and%20the%20modular%20spike%3A%20mechanisms%20of%20coronavirus%20cross-species%20transmission%202010-04",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Graham%2C%20R.L.%20Recombination%2C%20Baric%20R.S.%20reservoirs%20and%20the%20modular%20spike%3A%20mechanisms%20of%20coronavirus%20cross-species%20transmission%202010-04"
+        },
+        {
+            "id": "19",
+            "alt_id": "Lip_et+al_2006_a",
+            "entry": "19. Lip KM, Shen S, Yang X, et al. Monoclonal antibodies targeting the HR2 domain and the region immediately upstream of the HR2 of the S protein neutralize in vitro infection of severe acute respiratory syndrome coronavirus. J Virol. 2006 Jan;80(2):941-50.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lip%2C%20K.M.%20Shen%2C%20S.%20Yang%2C%20X.%20Monoclonal%20antibodies%20targeting%20the%20HR2%20domain%20and%20the%20region%20immediately%20upstream%20of%20the%20HR2%20of%20the%20S%20protein%20neutralize%20in%20vitro%20infection%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202006-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lip%2C%20K.M.%20Shen%2C%20S.%20Yang%2C%20X.%20Monoclonal%20antibodies%20targeting%20the%20HR2%20domain%20and%20the%20region%20immediately%20upstream%20of%20the%20HR2%20of%20the%20S%20protein%20neutralize%20in%20vitro%20infection%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202006-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lip%2C%20K.M.%20Shen%2C%20S.%20Yang%2C%20X.%20Monoclonal%20antibodies%20targeting%20the%20HR2%20domain%20and%20the%20region%20immediately%20upstream%20of%20the%20HR2%20of%20the%20S%20protein%20neutralize%20in%20vitro%20infection%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202006-01"
+        },
+        {
+            "id": "20",
+            "alt_id": "Ng_et+al_2014_a",
+            "entry": "20. Ng OW, Keng CT, Leung CS, et al. Substitution at aspartic acid 1128 in the SARS coronavirus spike glycoprotein mediates escape from a S2 domaintargeting neutralizing monoclonal antibody. PLoS One. 2014;9(7):e102415.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ng%2C%20O.W.%20Keng%2C%20C.T.%20Leung%2C%20C.S.%20Substitution%20at%20aspartic%20acid%201128%20in%20the%20SARS%20coronavirus%20spike%20glycoprotein%20mediates%20escape%20from%20a%20S2%20domaintargeting%20neutralizing%20monoclonal%20antibody%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ng%2C%20O.W.%20Keng%2C%20C.T.%20Leung%2C%20C.S.%20Substitution%20at%20aspartic%20acid%201128%20in%20the%20SARS%20coronavirus%20spike%20glycoprotein%20mediates%20escape%20from%20a%20S2%20domaintargeting%20neutralizing%20monoclonal%20antibody%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ng%2C%20O.W.%20Keng%2C%20C.T.%20Leung%2C%20C.S.%20Substitution%20at%20aspartic%20acid%201128%20in%20the%20SARS%20coronavirus%20spike%20glycoprotein%20mediates%20escape%20from%20a%20S2%20domaintargeting%20neutralizing%20monoclonal%20antibody%202014"
+        },
+        {
+            "id": "21",
+            "alt_id": "Nakamura_et+al_2018_a",
+            "entry": "21. Nakamura T, Yamada KD, Tomii K, et al. Parallelization of MAFFT for largescale multiple sequence alignments. Bioinformatics. 2018 Jul 15;34(14):24902492.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nakamura%2C%20T.%20Yamada%2C%20K.D.%20Tomii%2C%20K.%20Parallelization%20of%20MAFFT%20for%20largescale%20multiple%20sequence%20alignments%202018-07-15",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nakamura%2C%20T.%20Yamada%2C%20K.D.%20Tomii%2C%20K.%20Parallelization%20of%20MAFFT%20for%20largescale%20multiple%20sequence%20alignments%202018-07-15",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nakamura%2C%20T.%20Yamada%2C%20K.D.%20Tomii%2C%20K.%20Parallelization%20of%20MAFFT%20for%20largescale%20multiple%20sequence%20alignments%202018-07-15"
+        },
+        {
+            "id": "22",
+            "alt_id": "Waterhouse_2009_a",
+            "entry": "22. Waterhouse AM, Procter JB, Martin DM, et al. Jalview Version 2--a multiple sequence alignment editor and analysis workbench. Bioinformatics. 2009 May 1;25(9):1189-91.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Waterhouse%20AM%20Procter%20JB%20Martin%20DM%20et%20al%20Jalview%20Version%202a%20multiple%20sequence%20alignment%20editor%20and%20analysis%20workbench%20Bioinformatics%202009%20May%201259118991"
+        },
+        {
+            "id": "23",
+            "alt_id": "Kumar_et+al_2018_a",
+            "entry": "23. Kumar S, Stecher G, Li M, et al. MEGA X: Molecular Evolutionary Genetics Analysis across Computing Platforms. Mol Biol Evol. 2018 Jun 1;35(6):15471549.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kumar%2C%20S.%20Stecher%2C%20G.%20Li%2C%20M.%20MEGA%20X%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20across%20Computing%20Platforms%202018-06-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kumar%2C%20S.%20Stecher%2C%20G.%20Li%2C%20M.%20MEGA%20X%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20across%20Computing%20Platforms%202018-06-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kumar%2C%20S.%20Stecher%2C%20G.%20Li%2C%20M.%20MEGA%20X%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20across%20Computing%20Platforms%202018-06-01"
+        },
+        {
+            "id": "24",
+            "alt_id": "Keng_et+al_2005_a",
+            "entry": "24. Keng CT, Zhang A, Shen S, et al. Amino acids 1055 to 1192 in the S2 region of severe acute respiratory syndrome coronavirus S protein induce neutralizing antibodies: implications for the development of vaccines and antiviral agents. J Virol. 2005 Mar;79(6):3289-96.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Keng%2C%20C.T.%20Zhang%2C%20A.%20Shen%2C%20S.%20Amino%20acids%201055%20to%201192%20in%20the%20S2%20region%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20S%20protein%20induce%20neutralizing%20antibodies%3A%20implications%20for%20the%20development%20of%20vaccines%20and%20antiviral%20agents%202005-03",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Keng%2C%20C.T.%20Zhang%2C%20A.%20Shen%2C%20S.%20Amino%20acids%201055%20to%201192%20in%20the%20S2%20region%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20S%20protein%20induce%20neutralizing%20antibodies%3A%20implications%20for%20the%20development%20of%20vaccines%20and%20antiviral%20agents%202005-03",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Keng%2C%20C.T.%20Zhang%2C%20A.%20Shen%2C%20S.%20Amino%20acids%201055%20to%201192%20in%20the%20S2%20region%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20S%20protein%20induce%20neutralizing%20antibodies%3A%20implications%20for%20the%20development%20of%20vaccines%20and%20antiviral%20agents%202005-03"
+        },
+        {
+            "id": "25",
+            "alt_id": "Elbe_2017_a",
+            "entry": "25. Elbe S, Buckland-Merrett G. Data, disease and diplomacy: GISAID's innovative contribution to global health. Glob Chall. 2017 Jan;1(1):33-46.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Elbe%2C%20S.%20Data%2C%20Buckland-Merrett%20G.%20disease%20and%20diplomacy%3A%20GISAID%27s%20innovative%20contribution%20to%20global%20health%202017-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Elbe%2C%20S.%20Data%2C%20Buckland-Merrett%20G.%20disease%20and%20diplomacy%3A%20GISAID%27s%20innovative%20contribution%20to%20global%20health%202017-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Elbe%2C%20S.%20Data%2C%20Buckland-Merrett%20G.%20disease%20and%20diplomacy%3A%20GISAID%27s%20innovative%20contribution%20to%20global%20health%202017-01"
+        },
+        {
+            "id": "26",
+            "alt_id": "Poh_et+al_2009_a",
+            "entry": "26. Poh WP, Narasaraju T, Pereira NA, et al. Characterization of cytotoxic Tlymphocyte epitopes and immune responses to SARS coronavirus spike DNA vaccine expressing the RGD-integrin-binding motif. J Med Virol. 2009 Jul;81(7):1131-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Poh%2C%20W.P.%20Narasaraju%2C%20T.%20Pereira%2C%20N.A.%20Characterization%20of%20cytotoxic%20Tlymphocyte%20epitopes%20and%20immune%20responses%20to%20SARS%20coronavirus%20spike%20DNA%20vaccine%20expressing%20the%20RGD-integrin-binding%20motif%202009-07",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Poh%2C%20W.P.%20Narasaraju%2C%20T.%20Pereira%2C%20N.A.%20Characterization%20of%20cytotoxic%20Tlymphocyte%20epitopes%20and%20immune%20responses%20to%20SARS%20coronavirus%20spike%20DNA%20vaccine%20expressing%20the%20RGD-integrin-binding%20motif%202009-07",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Poh%2C%20W.P.%20Narasaraju%2C%20T.%20Pereira%2C%20N.A.%20Characterization%20of%20cytotoxic%20Tlymphocyte%20epitopes%20and%20immune%20responses%20to%20SARS%20coronavirus%20spike%20DNA%20vaccine%20expressing%20the%20RGD-integrin-binding%20motif%202009-07"
+        },
+        {
+            "id": "27",
+            "alt_id": "Wrapp_et+al_2020_a",
+            "entry": "27. Wrapp D, Wang N, Corbett KS, et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science. 2020 Feb 19.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wrapp%20D%20Wang%20N%20Corbett%20KS%20et%20al%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%202020%20Feb%2019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wrapp%20D%20Wang%20N%20Corbett%20KS%20et%20al%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%202020%20Feb%2019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wrapp%20D%20Wang%20N%20Corbett%20KS%20et%20al%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%202020%20Feb%2019"
+        },
+        {
+            "id": "28",
+            "alt_id": "Tian_et+al_2020_a",
+            "entry": "28. Tian X, Li C, Huang A, et al. Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody. Emerg Microbes Infect. 2020 Dec;9(1):382-385.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tian%20X%20Li%20C%20Huang%20A%20et%20al%20Potent%20binding%20of%202019%20novel%20coronavirus%20spike%20protein%20by%20a%20SARS%20coronavirusspecific%20human%20monoclonal%20antibody%20Emerg%20Microbes%20Infect%202020%20Dec91382385",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tian%20X%20Li%20C%20Huang%20A%20et%20al%20Potent%20binding%20of%202019%20novel%20coronavirus%20spike%20protein%20by%20a%20SARS%20coronavirusspecific%20human%20monoclonal%20antibody%20Emerg%20Microbes%20Infect%202020%20Dec91382385",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tian%20X%20Li%20C%20Huang%20A%20et%20al%20Potent%20binding%20of%202019%20novel%20coronavirus%20spike%20protein%20by%20a%20SARS%20coronavirusspecific%20human%20monoclonal%20antibody%20Emerg%20Microbes%20Infect%202020%20Dec91382385"
+        },
+        {
+            "id": "29",
+            "alt_id": "Miyoshi-Akiyama_et+al_2011_a",
+            "entry": "29. Miyoshi-Akiyama T, Ishida I, Fukushi M, et al. Fully human monoclonal antibody directed to proteolytic cleavage site in severe acute respiratory syndrome (SARS) coronavirus S protein neutralizes the virus in a rhesus macaque SARS model. J Infect Dis. 2011 Jun 1;203(11):1574-81.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Miyoshi-Akiyama%2C%20T.%20Ishida%2C%20I.%20Fukushi%2C%20M.%20Fully%20human%20monoclonal%20antibody%20directed%20to%20proteolytic%20cleavage%20site%20in%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%20coronavirus%20S%20protein%20neutralizes%20the%20virus%20in%20a%20rhesus%20macaque%20SARS%20model%202011-06-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Miyoshi-Akiyama%2C%20T.%20Ishida%2C%20I.%20Fukushi%2C%20M.%20Fully%20human%20monoclonal%20antibody%20directed%20to%20proteolytic%20cleavage%20site%20in%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%20coronavirus%20S%20protein%20neutralizes%20the%20virus%20in%20a%20rhesus%20macaque%20SARS%20model%202011-06-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Miyoshi-Akiyama%2C%20T.%20Ishida%2C%20I.%20Fukushi%2C%20M.%20Fully%20human%20monoclonal%20antibody%20directed%20to%20proteolytic%20cleavage%20site%20in%20severe%20acute%20respiratory%20syndrome%20%28SARS%29%20coronavirus%20S%20protein%20neutralizes%20the%20virus%20in%20a%20rhesus%20macaque%20SARS%20model%202011-06-01"
+        },
+        {
+            "id": "30",
+            "alt_id": "Zhong_et+al_2005_a",
+            "entry": "30. Zhong X, Yang H, Guo ZF, et al. B-cell responses in patients who have recovered from severe acute respiratory syndrome target a dominant site in the S2 domain of the surface spike glycoprotein. J Virol. 2005 Mar;79(6):3401-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhong%2C%20X.%20Yang%2C%20H.%20Guo%2C%20Z.F.%20B-cell%20responses%20in%20patients%20who%20have%20recovered%20from%20severe%20acute%20respiratory%20syndrome%20target%20a%20dominant%20site%20in%20the%20S2%20domain%20of%20the%20surface%20spike%20glycoprotein%202005-03",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhong%2C%20X.%20Yang%2C%20H.%20Guo%2C%20Z.F.%20B-cell%20responses%20in%20patients%20who%20have%20recovered%20from%20severe%20acute%20respiratory%20syndrome%20target%20a%20dominant%20site%20in%20the%20S2%20domain%20of%20the%20surface%20spike%20glycoprotein%202005-03",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhong%2C%20X.%20Yang%2C%20H.%20Guo%2C%20Z.F.%20B-cell%20responses%20in%20patients%20who%20have%20recovered%20from%20severe%20acute%20respiratory%20syndrome%20target%20a%20dominant%20site%20in%20the%20S2%20domain%20of%20the%20surface%20spike%20glycoprotein%202005-03"
+        },
+        {
+            "id": "31",
+            "alt_id": "Duan_et+al_2005_a",
+            "entry": "31. Duan J, Yan X, Guo X, et al. A human SARS-CoV neutralizing antibody against epitope on S2 protein. Biochem Biophys Res Commun. 2005 Jul 22;333(1):18693. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Duan%2C%20J.%20Yan%2C%20X.%20Guo%2C%20X.%20A%20human%20SARS-CoV%20neutralizing%20antibody%20against%20epitope%20on%20S2%20protein%202005-07",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Duan%2C%20J.%20Yan%2C%20X.%20Guo%2C%20X.%20A%20human%20SARS-CoV%20neutralizing%20antibody%20against%20epitope%20on%20S2%20protein%202005-07",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Duan%2C%20J.%20Yan%2C%20X.%20Guo%2C%20X.%20A%20human%20SARS-CoV%20neutralizing%20antibody%20against%20epitope%20on%20S2%20protein%202005-07"
+        }
+    ],
+    "facts": [
+        "the etiological agent that caused an outbreak of severe acute respiratory syndrome 5",
+        "important to test the cross-reactivity of antibodies",
+        "that an immunogenic domain in the S2 subunit of SARS-CoV S is highly conserved in multiple strains of SARS-CoV-2",
+        "four murine monoclonal antibodies raised against this immunogenic SARS-CoV fragment were able to recognise the",
+        "S protein of SARS-CoV-2 expressed in a mammalian cell line",
+        "the first study showing that mAbs targeting the",
+        "S2 domain of SARS-CoV can cross-react with SARS-CoV-2",
+        "this observation is consistent with the high sequence conservation in the S2 subunit",
+        "These cross-reactive mAbs may serve as tools",
+        "The Severe Acute Respiratory Syndrome Coronavirus is the etiological agent for the infectious disease",
+        "partial SARS-CoV-2 genomes isolated from COVID-19 patients showed very high sequence conservation",
+        "the receptor binding domain of SARS-CoV-2 is more similar to SARS-CoV RBD",
+        "the viral surface spike glycoprotein has been the target for the generation of monoclonal antibodies",
+        "The S protein is functionally divided into two domains",
+        "S1 subunit being responsible for attachment to host cell while the S2 subunit mediates fusion",
+        "SL-CoVs residing in bats",
+        "90% in the S2 subunit suggests that the fusion mechanism during virus infection is wellconserved",
+        "an immunogenic fragment in the S2 subunit of SARS-CoV to generate a panel of murine mAbs",
+        "which binds to the S protein through a novel epitope",
+        "these mAbs bind to the spike protein of SARS-CoV-2 expressed in a mammalian cell line",
+        "COS-7 cells were purchased from American Type Culture Collection",
+        "in Dulbecco's Modified Eagle's Medium supplemented with 10% foetal bovine serum",
+        "Cells were maintained at \u00b0C with 5% CO2",
+        "All mAbs were purified from cell culture supernatant using a",
+        "The purity of the mAb was confirmed by sodium dodecyl sulphate-polyacrylamide gel electrophoretic analysis",
+        "COS-7 cells were seeded onto 6-well plates 24 hours",
+        "prior to the transient transfection using Lipofectamine 2000 reagent according to the manufacturer's protocol",
+        "by gene synthesis according to GenBank accession QHD43416.1",
+        "plasmid is for expressing full-length S",
+        "a fragment consisting of residues 1048-1206",
+        "Cells were resuspended in RIPA buffer",
+        "Clarified supernatant containing the protein of interest was obtained by spinning down the cell lysate",
+        "The membrane was blocked in 5% skimmed milk in Tris-buffered saline",
+        "After the membrane was washed with TBST",
+        "The membrane was washed with TBST",
+        "at 24 hours post-transfection in 4% paraformaldehyde for 10 min at room temperature followed by permeabilization with 0.2% Triton X-100",
+        "Fixed cells were blocked with PBS containing",
+        "Cells were immunolabelled for 1 hour at RT",
+        "Immunolabelled coverslips were counterstained with DAPI",
+        "Images were acquired with Olympus CKX53 microscope using Olympus LCAch N",
+        "All works with live virus has been performed in the BSL3 facility at the Public Health",
+        "Vero-E6 cells were infected with SARS-CoV-2 at a multiplicity",
+        "cells were fixed with chilled methanol",
+        "the cells were kept in -20\u00b0C",
+        "with goat anti-mouse conjugated to Alexa",
+        "A multiple sequence alignment was created with MAFFT using the slow",
+        "environmental outbreak virus sequences were downloaded from the GISAID database on March 1st 2020",
+        "The list is detailed in Supplementary Table 1",
+        "The nucleotide sequences were searched with BLASTX against the reference spike glycoprotein",
+        "174 hits covered the full length of the spike glycoprotein and amino acid mutations were counted",
+        "An immunogenic domain in the S2 subunit of SARS-CoV is highly conserved in SARS-",
+        "a fragment corresponding to residues 1029",
+        "sequence alignment shows that this domain",
+        "SARS-CoV is much higher in this region",
+        "Only 4 amino acid mutations were found within the putative antibody binding region compared to",
+        "of these 4 amino acid mutations are from a sequence flagged in",
+        "of the S protein of SARS-CoV-2 was expressed in COS-7 cells via transient transfection",
+        "which is consistent with the sequence alignment shown in",
+        "immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the",
+        "the full-length S protein of SARS-CoV-2 was overexpressed in COS-7 cells",
+        "all 4 mAbs bound to the full-length",
+        "Mab1A9 binds to S expressed in SARS-CoV-2-infected cells",
+        "mAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that",
+        "sensitive enough to detect the expression of S during infection",
+        "Numerous mAbs against the S protein of SARS-CoV have been generated for research",
+        "able to cross-react with the S protein of SARS-CoV-2",
+        "an immunogenic domain in the S2 subunit of SARS-CoV was found to be highly conserved in multiple strains of SARS-CoV-2",
+        "IF analyses showed that 4 different mAbs generated using this SARS-CoV domain were cross-reactive against the",
+        "these mAbs will be useful for studying the kinetics of SARS-CoV-2 replication",
+        "epitopes reside at residues 884-891",
+        "the latter CTL epitope overlaps with the epitope recognized by mAb 1A9",
+        "the S2 subunit may serve as an important antigen",
+        "Recent cross-reactivity studies have evaluated SARS-CoV neutralizing antibodies that bind to the RBD-containing S1 subunit",
+        "several SARS-CoV RBD-directed mAbs did not cross-react with SARS-CoV-2 RBD",
+        "which was isolated from a SARS convalescent patient",
+        "an epitope that does not overlap with the ACE2 binding site",
+        "SARS-CoV can cross-react with SARS-CoV-2",
+        "several other mAbs have been reported to bind to epitopes in the S2 subunit",
+        "important to determine if these mAbs can cross-react with SARS-CoV-2",
+        "4 amino acid mutations were found within the putative antibody binding region compared to",
+        "Immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the",
+        "MAb 1A9 stained a significant number of SARS-CoV-2-infected cells at 24h post-infection showing that",
+        "These mAbs will be useful for studying the kinetics of SARS-CoV-2 replication"
+    ],
+    "claims": [
+        "We show that an immunogenic domain in the S2 subunit of SARS-CoV S is highly conserved in multiple strains of SARS-CoV-2",
+        "In this study, we show that the sequence of the immunogen used to generate mAb 1A9, as well as three other mAbs, is conserved in multiple strains of SARS-CoV-2 and these mAbs bind to the spike protein of SARS-CoV-2 expressed in a mammalian cell line",
+        "We also studied within-outbreak sequence diversity across 174 full spike glycoproteins derived acknowledgement in Supplementary Table 1) [25]"
+    ],
+    "findings": [
+        "A study of 56 complete and partial SARS-CoV-2 genomes isolated from COVID-19 patients showed very high sequence conservation of more than 99%, indicating a recent introduction of the virus into the human population [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Was demonstrated to detect S in severe acute respiratory syndrome 5-CoV-2-infected cells. This is the first study showing that monoclonal antibodies targeting the S2 domain of severe acute respiratory syndrome 5-CoV can cross-react with severe acute respiratory syndrome 5-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit",
+        "We show that the sequence of the immunogen used to generate monoclonal antibodies 1A9, as well as three other monoclonal antibodies, is conserved in multiple strains of severe acute respiratory syndrome 5-CoV-2 and these monoclonal antibodies bind to the spike protein of severe acute respiratory syndrome 5-CoV-2 expressed in a mammalian cell line",
+        "An immunogenic domain in the S2 subunit of severe acute respiratory syndrome 5-CoV is highly conserved in severe acute respiratory syndrome 5-",
+        "Sequence alignment shows that this domain, which encompasses the heptad repeat (HR) 2 but not HR1, is highly conserved in severe acute respiratory syndrome 5-",
+        "RaTG13, MERS and human common cold coronaviruses 229E, NL63, OC43 and HKU1 (Figure 1A), it becomes apparent that the amino acid identity between severe acute respiratory syndrome 5-CoV-2 and severe acute respiratory syndrome 5-CoV is much higher in this region (93%, Figure 1B)",
+        "4 amino acid mutations were found within the putative antibody binding region compared to 30 mutations over the full length protein (Supplementary Table 2). 2 of these 4 amino acid mutations are from a sequence flagged in GISAID\u2019s EpiCoVTM database as lower quality due to many undetermined bases",
+        "A fragment containing residues 1048 to 1206 of the S protein of severe acute respiratory syndrome 5-CoV-2 was expressed in COS-7 cells via transient transfection and Western blot analysis was performed using four monoclonal antibodies, namely",
+        "Immunofluorescence analysis performed on transiently transfected COS-7 cells showed binding of the 4 monoclonal antibodies to this S fragment of severe acute respiratory syndrome 5-CoV-2 (Figure 2B)",
+        "The full-length S protein of severe acute respiratory syndrome 5-CoV-2 was overexpressed in COS-7 cells and probed with each of the monoclonal antibodies",
+        "Mab1A9 binds to S expressed in severe acute respiratory syndrome 5-CoV-2-infected cells",
+        "As shown in Figure 4, monoclonal antibodies 1A9 stained a significant number of severe acute respiratory syndrome 5-CoV-2-infected cells at 24h post-infection showing that it is sensitive enough to detect the expression of S",
+        "Numerous monoclonal antibodies against the S protein of severe acute respiratory syndrome 5-CoV have been generated for research and diagnostic assay development",
+        "An immunogenic domain in the S2 subunit of severe acute respiratory syndrome 5-CoV was found to be highly conserved in multiple strains of severe acute respiratory syndrome 5-CoV-2",
+        "The latter cytotoxic T-lymphocyte epitope overlaps with the epitope recognized by monoclonal antibodies 1A9 [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]",
+        "The S2 subunit may serve as an important antigen for inducing both humoral as well as cell-mediated immunity against severe acute respiratory syndrome 5-CoV and severe acute respiratory syndrome 5-CoV-2",
+        "angiotensin-converting enzyme 2 as a receptor for viral entry [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], several severe acute respiratory syndrome 5-CoV receptor binding domain-directed monoclonal antibodies did not cross-react with severe acute respiratory syndrome 5-CoV-2 receptor binding domain [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>,<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]",
+        "This is the first study showing that monoclonal antibodies targeting the S2 domain of",
+        "severe acute respiratory syndrome 5-CoV can cross-react with severe acute respiratory syndrome 5-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit",
+        "Besides the monoclonal antibodies characterized here, several other monoclonal antibodies have been reported to bind to epitopes in the S2 subunit of severe acute respiratory syndrome 5-"
+    ],
+    "top_statements": [
+        "The Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) is the etiological agent for the infectious disease, severe acute respiratory syndrome 5, which first emerged 17 years ago [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>,<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "Was demonstrated to detect S in severe acute respiratory syndrome 5-CoV-2-infected cells. This is the first study showing that monoclonal antibodies targeting the S2 domain of severe acute respiratory syndrome 5-CoV can cross-react with severe acute respiratory syndrome 5-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit",
+        "Numerous monoclonal antibodies against the S protein of severe acute respiratory syndrome 5-CoV have been generated for research and diagnostic assay development",
+        "An immunogenic domain in the S2 subunit of severe acute respiratory syndrome 5-CoV was found to be highly conserved in multiple strains of severe acute respiratory syndrome 5-CoV-2",
+        "angiotensin-converting enzyme 2 as a receptor for viral entry [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>], several severe acute respiratory syndrome 5-CoV receptor binding domain-directed monoclonal antibodies did not cross-react with severe acute respiratory syndrome 5-CoV-2 receptor binding domain [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>,<a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]"
+    ],
+    "headline": "Was demonstrated to detect S in severe acute respiratory syndrome 5-CoV-2-infected cells. This is the first study showing that monoclonal antibodies targeting the S2 domain of severe acute respiratory syndrome 5-CoV can cross-react with severe acute respiratory syndrome 5-CoV-2 and this observation is consistent with the high sequence conservation in the S2 subunit",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "severe acute respiratory syndrome 5",
+        "RBD": "receptor binding domain",
+        "ACE2": "angiotensin-converting enzyme 2",
+        "mAbs": "monoclonal antibodies",
+        "WHO": "World HealthOrganization",
+        "SL-CoVs": "SARS-like coronaviruses",
+        "mAb": "monoclonal antibodies",
+        "WB": "Western blot",
+        "TBST": "Tris-buffered saline with 0.05% Tween 20",
+        "HR": "heptad repeat",
+        "CTL": "cytotoxic T-lymphocyte"
+    }
+}

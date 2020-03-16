@@ -1,0 +1,779 @@
+{
+    "filename": "2020.03.05.20031591v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 216360,
+    "metadata": {
+        "title": "Full Title Page: Acute Myocardial Injury of Patients with Coronavirus Disease 2019",
+        "author": "Huayan Xu, MD, Keke Hou, MS, Hong Xu, MS, Zhenlin Li, MD, Huizhu Chen, MS, Na Zhang, MS, Rong Xu, MS, Hang Fu, MS, Ran Sun, MS, Lingyi Wen, MD, Linjun Xie, MS, Hui Liu, MS, Kun Zhang, MS, Joseph B. Selvanayagam, Chuan Fu, MS, Shihua Zhao, MD. PhD, Zhigang Yang, MD. PhD, Ming Yang, MS, Yingkun Guo, MD",
+        "date": 2020,
+        "affiliations": [
+            "Department of Radiology, Key Laboratory of Birth Defects and Related Diseases of Women and Children of Ministry of Education, West China Second University Hospital, Sichuan University, Chengdu, China",
+            "Department of Radiology, Public Health Clinical Center of Chengdu, Cheng Du, China",
+            "Department of Radiology, State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, China",
+            "Department of Radiology, Cardiac Imaging Center, Fuwai Hospital, National Center for Cardiovascular Diseases of China, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China",
+            "Department of Respiratory Medicine, Public Health Clinical Center of Chengdu, Cheng Du, China",
+            "Department of Cardiovascular Medicine, Flinders Medical Centre, Flinders University of South Australia, Adelaide, Australia",
+            "Department of Ultrasonography, West China Second University Hospital, Sichuan University, Chengdu, China",
+            "MD Department of Radiology; Key Laboratory of Obstetric & Gynecologic and Pediatric Diseases and Birth Defects of Ministry of Education; West China Second University Hospital, Sichuan University; 20# South Renmin Road, Chengdu, Sichuan 610041, China. E-mail: gykpanda@163.com"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.05.20031591",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.05.20031591v1.pdf"
+        },
+        "abstract": "Background: Since the outbreak of the Coronavirus Disease 2019 (COVID-19) in China, respiratory manifestations of the disease have been observed. However, as a fatal comorbidity, acute myocardial injury (AMI) in COVID-19 patients has not been previously investigated in detail. We investigated the clinical characteristics of COVID-19 patients with AMI and determined the risk factors for AMI in them. Methods: We analyzed data from 53 consecutive laboratory-confirmed and hospitalized COVID-19 patients (28 men, 25 women; age, 19\u201381 years). We collected information on epidemiological and demographic characteristics, clinical features, routine laboratory tests (including cardiac injury biomarkers), echocardiography, electrocardiography, imaging findings, management methods, and clinical outcomes.\nResults: Cardiac complications were found in 42 of the 53 (79.25%) patients: tachycardia (n=15), electrocardiography abnormities (n=11), diastolic dysfunction (n=20), elevated myocardial enzymes (n=30), and AMI (n=6). All the six AMI patients were aged >60 years; five of them had two or more underlying comorbidities (hypertension, diabetes, cardiovascular diseases, and chronic obstructive pulmonary disease). Novel coronavirus pneumonia (NCP) severity was higher in the AMI patients than in patients with non-definite AMI (p<0.001). All the AMI patients required care in intensive care unit; of them, three died, two remain hospitalized. Multivariate analyses showed that C-reactive protein (CRP) levels, NCP severity, and underlying comorbidities were the risk factors for cardiac abnormalities in COVID-19 patients.",
+        "references": "@article{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X. and Ren, L. and Zhao, J. and Hu, Y. and Zhang, L. and Fan, G. and Xu, J. and Gu, X. and Cheng, Z. and Yu, T. and Xia, J. and Wei, Y. and Wu, W. and Xie, X. and Yin, W. and Li, H. and Liu, M. and Xiao, Y. and Gao, H. and Guo, L. and Xie, J. and Wang, G. and Jiang, R. and Gao, Z. and Jin, Q. and Wang, J. and Cao, B.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {497\u2013506},\n  number = {395},\n  language = {}\n}\n@misc{zhu2019a,\n  author = {Zhu, Na and Zhang, Dingyu and Wang, Wenling and Li, Xingwang and Yang, Bo and Song, Jingdong and Zhao, Xiang and Huang, Baoying and Shi, Weifeng and Lu, Roujian and Niu, Peihua and Zhan, Faxian and Ma, Xuejun and Wang, Dayan and Xu, Wenbo and Wu, Guizhen and Gao, George F. and Phil, D. and Tan, Wenjie},\n  title = {for the China Novel Coronavirus Investigating and Research Team. A novel coronavirus from patients with pneumonia in China},\n  date = {2019},\n  language = {}\n}\n@article{newby2012a,\n  author = {Newby, L.K. and Jesse, R.L. and Babb, J.D. and Christenson, R.H. and De Fer, T.M. and Diamond, G.A. and Fesmire, F.M. and Geraci, S.A. and Gersh, B.J. and Larsen, G.C. and Kaul, S. and McKay, C.R. and Philippides, G.J. and Weintraub, W.S.},\n  title = {ACCF 2012 expert consensus document on practical clinical considerations in the interpretation of troponin elevations: a report of the American College of Cardiology Foundation task force on Clinical Expert Consensus Documents},\n  journal = {J Am Coll Cardiol},\n  date = {2012},\n  volume = {60},\n  pages = {2427\u201363},\n  number = {23},\n  language = {}\n}\n@article{li2003a,\n  author = {Li, S.S. and Cheng, C.W. and Fu, C.L. and Chan, Y.H. and Lee, M.P. and Chan, J.W. and Yiu, S.F.},\n  title = {Left ventricular performance in patients with severe acute respiratory syndrome: a 30-day echocardiographic follow-up study},\n  journal = {Circulation},\n  date = {2003},\n  volume = {108},\n  pages = {1798\u2013803},\n  number = {15},\n  language = {}\n}\n@article{alexander1993a,\n  author = {Alexander, L.K. and Keene, B.W. and Small, J.D. and B, Jr, Yount and Baric, R.S.},\n  title = {Electrocardiographic changes following rabbit coronavirus-induced myocarditis and dilated cardiomyopathy},\n  journal = {Adv Exp Med Biol},\n  date = {1993},\n  volume = {342},\n  pages = {365\u201370},\n  language = {}\n}\n@article{yu2006a,\n  author = {Yu, C.M. and Wong, R.S. and Wu, E.B. and Kong, S.L. and Wong, J. and Yip, G.W. and Soo, Y.O. and Chiu, M.L. and Chan, Y.S. and Hui, D. and Lee, N. and Wu, A. and Leung, C.B. and Sung, J.J.},\n  title = {Cardiovascular complications of severe acute respiratory syndrome},\n  journal = {Postgrad Med J},\n  date = {2006-02},\n  volume = {82},\n  pages = {140\u20134},\n  number = {964},\n  language = {}\n}\n@article{alhogbani2016a,\n  author = {Alhogbani, T.},\n  title = {Acute myocarditis associated with novel Middle east respiratory syndrome coronavirus},\n  journal = {Ann Saudi Med},\n  date = {2016},\n  volume = {36},\n  pages = {78\u201380},\n  number = {1},\n  language = {}\n}\n@misc{huang-b,\n  author = {Huang, Chaolin and Wang, Yeming and Li, Xingwang and Ren, Lili and Zhao, Jianping and Hu, Yi and Zhang, Li and Fan, Guohui and Xu, Jiuyang and Gu, Xiaoying and Cheng, Zhenshun and Yu, Ting and Xia, Jiaan and Wei, Yuan and Wu, Wenjuan and Xie, Xuelei and Yin, Wen and Li, Hui and Liu, Min and Xiao, Yan and Gao, Hong and Guo, Li},\n  title = {Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, Bin Cao. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet},\n  date = {January 24,},\n  volume = {2020},\n  url = {https://doi.org/10.1016/S0140-6736},\n  language = {}\n}\n@article{oudit2009a,\n  author = {Oudit, G.Y. and Kassiri, Z. and Jiang, C. and Liu, P.P. and Poutanen, S.M. and Penninger, J.M. and Butany, J.},\n  title = {SARS-coronavirus modulation of myocardial ACE2 expression and inflammation in patients with SARS},\n  journal = {Eur J Clin Invest},\n  date = {2009},\n  volume = {39},\n  pages = {618\u201325},\n  number = {7},\n  language = {}\n}\n@article{hamming2004a,\n  author = {Hamming, I. and Timens, W. and Bulthuis, M.L. and Lely, A.T. and Navis, G. and van Goor, H.},\n  title = {Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis},\n  journal = {J Pathol},\n  date = {2004},\n  volume = {203},\n  pages = {631\u20137},\n  number = {2},\n  language = {}\n}\n@article{wu-a,\n  author = {Wu, C. and Zheng, M.},\n  title = {Single-Cell RNA Expression Profiling Shows that ACE2, the Putative Receptor of Wuhan 2019-nCoV, Has Significant Expression in the Nasal, Mouth, Lung and Colon Tissues, and Tends to be Co-Expressed with HLA-DRB1 in the Four Tissues},\n  journal = {Preprints},\n  volume = {2020},\n  number = {2020020247},\n  language = {}\n}\n@article{de2016a,\n  author = {de Wit E and van Doremalen N and D, Falzarano and VJ, Munster},\n  title = {SARS and MERS: recent insights into emerging coronaviruses},\n  journal = {Nat Rev Microbiol},\n  date = {2016},\n  pages = {523\u2013534},\n  doi = {doi: 10.1038/nrmicro.2016.81},\n  language = {}\n}\n@article{unknown-a,\n  title = {The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020},\n  journal = {China CDC Weekly},\n  volume = {2020},\n  pages = {113\u2013122},\n  number = {2},\n  language = {}\n}\n@misc{guan2020a,\n  author = {Guan, Wei-jie and Ni, Zheng-yi and Hu, Yu and Liang, Wen-hua and Ou, Chun-quan and He, Jian-xing and Liu, Lei and Shan, Hong and Lei, Chun-liang and Hui, David S.C. and Du, Bin and Li, Lan-juan and Zeng, Guang and Yuen, Kwok-Yung and Chen, Ru-chong and Tang, Chun-li and Wang, Tao and Chen, Ping-yan and Xiang, Jie and Li, Shi-yue and Wang, Jin-lin and Liang, Zi-jing and Peng, Yi-xiang and Wei, Li and Liu, Yong and Hu, Ya-hua and Peng, Peng and Wang, Jian-ming and Liu, Ji-yang and Chen, Zhong and Li, Gang and Zheng, Zhi-jian and Qiu, Shao-qin and Luo, Jie and Ye, Chang-jiang and Zhu, Shao-yong and Zhong, Nan-shan},\n  title = {for the China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China},\n  date = {2020-02-28},\n  doi = {DOI: 10.1056/NEJMoa2002032},\n  language = {}\n}\n@article{yu2006b,\n  author = {Yu, C.M. and Wong, R.S. and Wu, E.B. and Kong, S.L. and Wong, J. and Yip, G.W. and Soo, Y.O. and Chiu, M.L. and Chan, Y.S. and Hui, D. and Lee, N. and Wu, A. and Leung, C.B. and Sung, J.J.},\n  title = {Cardiovascular complications of severe acute respiratory syndrome},\n  journal = {Postgrad Med J},\n  date = {2006},\n  volume = {82},\n  pages = {14},\n  number = {964},\n  language = {}\n}\n",
+        "links": [
+            "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200303-sitr"
+        ],
+        "emails": [
+            "gykpanda@163.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nAU  - Ren, L.\nAU  - Zhao, J.\nAU  - Hu, Y.\nAU  - Zhang, L.\nAU  - Fan, G.\nAU  - Xu, J.\nAU  - Gu, X.\nAU  - Cheng, Z.\nAU  - Yu, T.\nAU  - Xia, J.\nAU  - Wei, Y.\nAU  - Wu, W.\nAU  - Xie, X.\nAU  - Yin, W.\nAU  - Li, H.\nAU  - Liu, M.\nAU  - Xiao, Y.\nAU  - Gao, H.\nAU  - Guo, L.\nAU  - Xie, J.\nAU  - Wang, G.\nAU  - Jiang, R.\nAU  - Gao, Z.\nAU  - Jin, Q.\nAU  - Wang, J.\nAU  - Cao, B.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - Lancet\nVL  - 2020\nSP  - 497\nEP  - 506\nIS  - 395\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zhu, Na\nAU  - Zhang, Dingyu\nAU  - Wang, Wenling\nAU  - Li, Xingwang\nAU  - Yang, Bo\nAU  - Song, Jingdong\nAU  - Zhao, Xiang\nAU  - Huang, Baoying\nAU  - Shi, Weifeng\nAU  - Lu, Roujian\nAU  - Niu, Peihua\nAU  - Zhan, Faxian\nAU  - Ma, Xuejun\nAU  - Wang, Dayan\nAU  - Xu, Wenbo\nAU  - Wu, Guizhen\nAU  - Gao, George F.\nAU  - Phil, D.\nAU  - Tan, Wenjie\nTI  - for the China Novel Coronavirus Investigating and Research Team. A novel coronavirus from patients with pneumonia in China\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Newby, L.K.\nAU  - Jesse, R.L.\nAU  - Babb, J.D.\nAU  - Christenson, R.H.\nAU  - De Fer, T.M.\nAU  - Diamond, G.A.\nAU  - Fesmire, F.M.\nAU  - Geraci, S.A.\nAU  - Gersh, B.J.\nAU  - Larsen, G.C.\nAU  - Kaul, S.\nAU  - McKay, C.R.\nAU  - Philippides, G.J.\nAU  - Weintraub, W.S.\nTI  - ACCF 2012 expert consensus document on practical clinical considerations in the interpretation of troponin elevations: a report of the American College of Cardiology Foundation task force on Clinical Expert Consensus Documents\nT2  - J Am Coll Cardiol\nPY  - 2012\nDA  - 2012\nVL  - 60\nSP  - 2427\nEP  - 63\nIS  - 23\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, S.S.\nAU  - Cheng, C.W.\nAU  - Fu, C.L.\nAU  - Chan, Y.H.\nAU  - Lee, M.P.\nAU  - Chan, J.W.\nAU  - Yiu, S.F.\nTI  - Left ventricular performance in patients with severe acute respiratory syndrome: a 30-day echocardiographic follow-up study\nT2  - Circulation\nPY  - 2003\nDA  - 2003\nVL  - 108\nSP  - 1798\nEP  - 803\nIS  - 15\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Alexander, L.K.\nAU  - Keene, B.W.\nAU  - Small, J.D.\nAU  - B, Jr, Yount\nAU  - Baric, R.S.\nTI  - Electrocardiographic changes following rabbit coronavirus-induced myocarditis and dilated cardiomyopathy\nT2  - Adv Exp Med Biol\nPY  - 1993\nDA  - 1993\nVL  - 342\nSP  - 365\nEP  - 70\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yu, C.M.\nAU  - Wong, R.S.\nAU  - Wu, E.B.\nAU  - Kong, S.L.\nAU  - Wong, J.\nAU  - Yip, G.W.\nAU  - Soo, Y.O.\nAU  - Chiu, M.L.\nAU  - Chan, Y.S.\nAU  - Hui, D.\nAU  - Lee, N.\nAU  - Wu, A.\nAU  - Leung, C.B.\nAU  - Sung, J.J.\nTI  - Cardiovascular complications of severe acute respiratory syndrome\nT2  - Postgrad Med J\nPY  - 2006\nDA  - 2006/02\nVL  - 82\nSP  - 140\nEP  - 4\nIS  - 964\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Alhogbani, T.\nTI  - Acute myocarditis associated with novel Middle east respiratory syndrome coronavirus\nT2  - Ann Saudi Med\nPY  - 2016\nDA  - 2016\nVL  - 36\nSP  - 78\nEP  - 80\nIS  - 1\nLA  - \nER  - \n\nTY  - GEN\nAU  - Huang, Chaolin\nAU  - Wang, Yeming\nAU  - Li, Xingwang\nAU  - Ren, Lili\nAU  - Zhao, Jianping\nAU  - Hu, Yi\nAU  - Zhang, Li\nAU  - Fan, Guohui\nAU  - Xu, Jiuyang\nAU  - Gu, Xiaoying\nAU  - Cheng, Zhenshun\nAU  - Yu, Ting\nAU  - Xia, Jiaan\nAU  - Wei, Yuan\nAU  - Wu, Wenjuan\nAU  - Xie, Xuelei\nAU  - Yin, Wen\nAU  - Li, Hui\nAU  - Liu, Min\nAU  - Xiao, Yan\nAU  - Gao, Hong\nAU  - Guo, Li\nTI  - Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, Bin Cao. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet\nPY  - January 24,\nDA  - January 24,\nVL  - 2020\nUR  - https://doi.org/10.1016/S0140-6736\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Oudit, G.Y.\nAU  - Kassiri, Z.\nAU  - Jiang, C.\nAU  - Liu, P.P.\nAU  - Poutanen, S.M.\nAU  - Penninger, J.M.\nAU  - Butany, J.\nTI  - SARS-coronavirus modulation of myocardial ACE2 expression and inflammation in patients with SARS\nT2  - Eur J Clin Invest\nPY  - 2009\nDA  - 2009\nVL  - 39\nSP  - 618\nEP  - 25\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hamming, I.\nAU  - Timens, W.\nAU  - Bulthuis, M.L.\nAU  - Lely, A.T.\nAU  - Navis, G.\nAU  - van Goor, H.\nTI  - Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis\nT2  - J Pathol\nPY  - 2004\nDA  - 2004\nVL  - 203\nSP  - 631\nEP  - 7\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, C.\nAU  - Zheng, M.\nTI  - Single-Cell RNA Expression Profiling Shows that ACE2, the Putative Receptor of Wuhan 2019-nCoV, Has Significant Expression in the Nasal, Mouth, Lung and Colon Tissues, and Tends to be Co-Expressed with HLA-DRB1 in the Four Tissues\nT2  - Preprints\nVL  - 2020\nIS  - 2020020247\nLA  - \nER  - \n\nTY  - JOUR\nAU  - de Wit E\nAU  - van Doremalen N\nAU  - D, Falzarano\nAU  - VJ, Munster\nTI  - SARS and MERS: recent insights into emerging coronaviruses\nT2  - Nat Rev Microbiol\nPY  - 2016\nDA  - 2016\nSP  - 523\nEP  - 534\nDO  - 10.1038/nrmicro.2016.81\nLA  - \nER  - \n\nTY  - JOUR\nTI  - The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020\nT2  - China CDC Weekly\nVL  - 2020\nSP  - 113\nEP  - 122\nIS  - 2\nLA  - \nER  - \n\nTY  - GEN\nAU  - Guan, Wei-jie\nAU  - Ni, Zheng-yi\nAU  - Hu, Yu\nAU  - Liang, Wen-hua\nAU  - Ou, Chun-quan\nAU  - He, Jian-xing\nAU  - Liu, Lei\nAU  - Shan, Hong\nAU  - Lei, Chun-liang\nAU  - Hui, David S.C.\nAU  - Du, Bin\nAU  - Li, Lan-juan\nAU  - Zeng, Guang\nAU  - Yuen, Kwok-Yung\nAU  - Chen, Ru-chong\nAU  - Tang, Chun-li\nAU  - Wang, Tao\nAU  - Chen, Ping-yan\nAU  - Xiang, Jie\nAU  - Li, Shi-yue\nAU  - Wang, Jin-lin\nAU  - Liang, Zi-jing\nAU  - Peng, Yi-xiang\nAU  - Wei, Li\nAU  - Liu, Yong\nAU  - Hu, Ya-hua\nAU  - Peng, Peng\nAU  - Wang, Jian-ming\nAU  - Liu, Ji-yang\nAU  - Chen, Zhong\nAU  - Li, Gang\nAU  - Zheng, Zhi-jian\nAU  - Qiu, Shao-qin\nAU  - Luo, Jie\nAU  - Ye, Chang-jiang\nAU  - Zhu, Shao-yong\nAU  - Zhong, Nan-shan\nTI  - for the China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China\nPY  - 2020\nDA  - 2020/02/28\nDO  - 10.1056/NEJMoa2002032\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yu, C.M.\nAU  - Wong, R.S.\nAU  - Wu, E.B.\nAU  - Kong, S.L.\nAU  - Wong, J.\nAU  - Yip, G.W.\nAU  - Soo, Y.O.\nAU  - Chiu, M.L.\nAU  - Chan, Y.S.\nAU  - Hui, D.\nAU  - Lee, N.\nAU  - Wu, A.\nAU  - Leung, C.B.\nAU  - Sung, J.J.\nTI  - Cardiovascular complications of severe acute respiratory syndrome\nT2  - Postgrad Med J\nPY  - 2006\nDA  - 2006\nVL  - 82\nSP  - 14\nIS  - 964\nLA  - \nER  - \n\n",
+        "author_conclusions": [
+            "In summary, we found that cardiovascular complications are common in COVID-19 patients and include tachycardia, elevated myocardial enzyme levels, cardiac dysfunction, and even AMI. More importantly, CRP level elevation, NCP severity, and underlying cardiovascular diseases are the major risk factors for AMI in these patients."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Baseline characteristics"
+            },
+            {
+                "id": "2",
+                "caption": "Echocardiographic and electrocardiographic result during admission AMI group (n=6) Cardiac marker"
+            },
+            {
+                "id": "3",
+                "caption": "Main management strategies, comorbid conditions, and clinical outcomes"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Comorbidities in the COVID-19 patients. In the AMI patients, hypertension and cardiovascular diseases were the frequently occurring comorbidities. AMI, acute myocardial injury; COPD, chronic obstructive pulmonary diseases; COVID-19, Coronavirus Disease 2019"
+            },
+            {
+                "id": "2",
+                "caption": "Heterogeneity of NCP types in the COVID-19 patients. NCP, novel coronavirus pneumonia. Abbreviations are the same as those for Figures 1"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.05.20031591v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.05.20031591v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.05.20031591v1/img-001.png"
+        ]
+    },
+    "sections": {
+        "results": [
+            "Cardiac complications were found in 42 of the 53 (79.25%) patients: tachycardia (n=15), electrocardiography abnormities (n=11), diastolic dysfunction (n=20), elevated myocardial enzymes (n=30), and AMI (n=6). All the six AMI patients were aged >60 years; five of them had two or more underlying comorbidities (hypertension, diabetes, cardiovascular diseases, and chronic obstructive pulmonary disease). Novel coronavirus pneumonia (NCP) severity was higher in the AMI patients than in patients with non-definite AMI (p<0.001). All the AMI patients required care in intensive care unit; of them, three died, two remain hospitalized. Multivariate analyses showed that C-reactive protein (CRP) levels, NCP severity, and underlying comorbidities were the risk factors for cardiac abnormalities in COVID-19 patients.",
+            "Baseline data The baseline data of the 53 COVID-19 patients are listed in Table 1. Of them, six (11.32%) patients had AMI (all aged >60 years; median age, 78.5 years [IQR 60.5, 81.75]); 24 (45.38%) patients were defined as the cardiac marker abnormalities group (6 [25%] aged >60 years; median age, 48.50 years old [IQR 37.00, 62.75]). Cardiac markers of 23 (43.39%) patients were within the normal range (4 [17.39%] aged >60 years; median age, 40.00 years [IQR 23.00, 51.00]). There were no significant gender differences among the three subgroups. Epidemiology of all the groups was similar (all p>0.05), such as being a local resident, Wuhan residence exposure, and COVID-19 exposure. No patients had direct Huanan seafood market exposure. No exact epidemiological link was found between the first case and the later ones. Almost all the patients\u2019 first onset symptoms were fever (n=47, 88.68%) and dry cough (n=41, 77.36%). Furthermore, the mean systolic blood pressure of the AMI patients was higher than those of the other two groups (p<0.001). Fifteen (28%) of all the patients had tachycardia. High occurrence of hypertension was detected in the AMI patients (total patients with hypertension: n=8, 15.09%; AMI group: n=4, 66.67%; cardiac marker abnormalities group: n=2, 8.33%; without cardiac marker abnormalities group: n=2, 8.69%; p=0.001). Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001). Additionally, diabetes (n=8, 15.09%) and COPD (n=3, 5.6%) were found in all the patients, with a higher tendency in the AMI group (diabetes: n=2 and COPD: n=2) than in the other two groups (Figure 1). Notably, only the AMI patients had more than two comorbidities (n=5). Regarding CT or DR findings on admission, all the AMI patients and 21 (87.5%) non-definite AMI patients with cardiac marker abnormalities had bilateral multilobular and sub-segmental lung involvement; in the without cardiac marker abnormalities group, bilateral lobes were affected in only 15 (65.22%) patients.<br/><br/>Laboratory tests The laboratory test and blood gas analysis results are shown in Table S1 (see in supplementary appendix). CRP levels of all the AMI patients were increased above the normal range (0\u20135 mg/l) on admission and were higher than those of the other two groups; however, CRP levels were also increased in some patients in the groups with (n=9, 39.13%; CRP: median, 14.70 mg/ml [IQR 9.51, 24.53]) and without (n=4, 16.67%; CRP: median, 5.36 mg/ml [IQR 1.27,9.16]) cardiac marker abnormalities. D-dimer levels on admission were increased in the AMI patients (median, 1.65 \u03bcg/ml [IQR 1.23, 4.48]) and patients with abnormal cardiac markers (median, 0.79 \u03bcg/ml [IQR 0.62, 0.93]) and were higher than those in patients with normal cardiac markers (median, 0.55 \u03bcg/ml [IQR 0.46, 0.72]; p<0.001). Initial white blood cell counts of all the patients were within the normal range (3.50\u20139.50 \u00d7 109/l). Initial lymphocyte counts of five (83.33%) AMI patients were decreased below the normal range (0.80\u20134.00 \u00d7 109/l); these counts were decreased in only nine (37.5%) and eight (34.78%) patients with and without cardiac marker abnormalities, respectively. Furthermore, red blood cell count, hemoglobin level, and platelet count of the AMI group were lower than those of the other two groups (p<0.05); four (66.67%) AMI patients had procalcitonin levels above the normal range (0\u20130.5 ng/ml).<br/><br/>Cardiac marker, echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels. Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix). In the AMI group, cardiac marker levels continuously increased in three patients who died, with the levels being extremely high on the day of death (Figure S2 in supplementary appendix). Meanwhile, there were some differences in echo and ECG findings (Table 2). Of all the COVID-19 patients, 45.28% (n=24) patients exhibited echo abnormalities. Echo abnormalities more frequently occurred in the AMI group and included left atrial enlargement (n=2), left ventricular (LV) enlargement (n=2), LV diastolic dysfunction (n=3), mitral valve regurgitation (n=2), triple valve regurgitation (n=1), and aortic valve regurgitation (n=1). Three AMI patients had LV wall thickening. It is noteworthy that non-definite AMI patients with cardiac marker abnormalities also had high frequency of echo abnormalities (n=15, 62.50%), with 11(45.83%) of them having more than two of the abovementioned echo abnormalities. The most frequent echo abnormality in the cardiac marker abnormalities group was LV diastolic dysfunction (n=14, 58.33%). As shown in Table 3, 11 (20.75%) COIVD-19 patients had ECG abnormalities, including all the AMI patients and five (20.83%) non-definite AMI patients with cardiac marker abnormalities. Five of the AMI patients had more than two kinds of ECG abnormalities including atrioventricular block (n=2), ST-T/Q curve abnormalities (n=2), and arrhythmia (n=3); furthermore, ST-T/Q curve abnormalities (n=5, 20.83%) and arrhythmia (n=1, 4.27%) were the main abnormalities in patients with cardiac marker abnormalities. None of the patients without cardiac marker abnormalities exhibited ECG abnormalities.<br/><br/>Main management strategies, comorbid conditions, and clinical outcome data<br/><br/>Table 3 shows the main management strategies, comorbid conditions, and clinical outcomes of all the COVID-19 patients. In the AMI group, in addition to antiviral and antibiotic therapies, cardioprotective medications such as amiodarone and cedilla were used by four patients to improve the cardiac function. However, the non-definite AMI patients with and without cardiac markers abnormalities did not use cardioprotective medication. All the 53 patients were administered nasal cannula oxygen therapy during admission for respiratory support; non-invasive ventilation or high-flow nasal cannula oxygen therapy was performed for five AMI and three non-definite AMI patients with cardiac marker abnormalities. Notably, in the AMI group, invasive mechanical ventilation was used in three patients and ECMO in one patient due to extremely severe ARDS. ARDS occurred in all the six AMI patients and four non-definite AMI patients with cardiac marker abnormalities. Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001). Moreover, a total of five AMI patients had AKI, and four of them used continuous renal replacement therapy. Importantly, all the six AMI patients had critically severe NCP and needed care in intensive care unit (ICU). However, half of the patients with cardiac marker abnormalities (n=13, 54.17%) had the common NCP type, with only two (8.33%) of them having critically severe NCP needing ICU care. Meanwhile, the majority of patients (n=21, 91.30%) in the without cardiac marker abnormalities group had the common NCP type (Figure 2). Regarding clinical outcomes, in the AMI group, three patients died, two were still in admission, and one was discharged from hospital. Conversely, a majority of non-definite AMI patients with (n=20, 83.33%) and without (n=21, 91.30%) cardiac marker abnormalities were discharged, with no case of death.<br/><br/>Risk factors for AMI To determine the risk factors for AMI in the COVID-19 patients, a bivariate analysis of AMI occurrence with clinical data and laboratory findings was performed, showing that age (r=0.456, p=0.001), CRP levels (r=0.483, p<0.001), NCP severity (r=0.540, p<0.001), and presence of commodities (r=0.520, p<0.001) were associated with AMI occurrence (all p<0.05). Further analysis (Table S2 in supplementary appendix) demonstrated that increased CRP levels (OR, 1.186; 95CI% [1.047, 1.344]), representing the inflammatory condition of the body, may be a risk factor for AMI in COVID-19 patients. COVID-19 patients with more severe NCP type (OR, 2.896; 95CI% [1.266, 6.621]) may have a higher risk of AMI than other patients. It is worth mentioning that the presence of comorbidities (OR, 4.336; 95CI% [1.11, 38.55]) may be the most critical risk factor for AMI in COVID-19 patients."
+        ],
+        "conclusions": [
+            "Cardiac complications are common in COVID-19 patients. Elevated CRP levels, underlying comorbidities, and NCP severity are the main risk factors for cardiac complications in COVID-19 patients."
+        ],
+        "introduction": [
+            "The widespread outbreak of the Coronavirus Disease 2019 (COVID-19, previously known as 2019-nCoV) in China is a big challenge for public health and medical care. Since its first emergence in Wuhan city in late December 2019, COVID-19 has already spread to 26 countries. As of March 02, 2020, there were over 87137 confirmed cases worldwide, with 2977 deaths.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] To date, several latest studies have reported the clinical characteristics of hospitalized patients with 2019 novel coronavirus pneumonia (NCP), including signs, symptoms, laboratory test results, imaging features, therapeutic strategies and effects, and multiple organ dysfunction.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Notably, acute myocardial injury (AMI), defined as troponin T-hypersensitivity (TNT-HSST) serum levels > 99th percentile upper reference limit (>28 pg/ml) by the American College of Cardiology/American Heart Association Task Force for myocardial infarction and non-myocardial infarction diseases,[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] was detected in approximately 7.2%\u201312% COVID-19 patients in previous studies.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Furthermore, both severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) have been linked to acute myocarditis, AMI, and rapid-onset heart failure.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Reportedly,[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] nearly 40% of hospitalized patients with confirmed COVID-19 have underlying comorbidities such as cardiovascular or cerebrovascular diseases. Furthermore, among COVID-19 patients, those with underlying cardiovascular diseases can be more severely affected and may have more adverse outcomes than those without underlying diseases. Thus, undoubtedly, special medical attention should be paid to COVID-19 patients with cardiac complications and underlying cardiovascular diseases. On February 13, 2020, the ACC released an ACC Clinical Bulletin titled \u201cCardiac Implications of Novel Wuhan Coronavirus (COVID-19)\u201d[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] for addressing cardiac implications of this disease and offering early clinical guidance given the current uncertainty over COVID-19. However, detailed clinical characteristics of COVID-19 patients with cardiac involvement, especially those with AMI, have not been investigated in detail. Thus, we aimed to describe the clinical characteristics of COVID-19 patients with AMI and to further determine the risk factors for AMI in them."
+        ],
+        "methods": [
+            "Study population<br/><br/>The institutional ethics board of our institutes approved this study (No 2020.43). We retrospectively enrolled 53 laboratory-confirmed COVID-19 patients hospitalized between January 02, 2020 and February 14, 2020. The patients were diagnosed and classified according to the World Health Organization interim guidance.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] NCP types were classified as mild, common, severe, and critically severe according to the COVID-19 patient management guideline issued on February 8, 2020.11"
+        ],
+        "procedures": [
+            "Data on epidemiological and demographic characteristics, clinical signs and symptoms, underlying comorbidities, complications, and treatment management (such as antiviral or antibiotic therapy, respiratory support, continuous renal replacement therapy, and extracorporeal membrane oxygenation [ECMO]) were collected from the patients\u2019 medical records. Laboratory test results including those of blood routine tests, C-reactive protein (CRP) and D-dimer tests, and blood gas analysis were recorded and compared. The levels of cardiac injury markers including lactate dehydrogenase (LDH), hydroxybutyrate dehydrogenase, creatine kinase (CK), CK-MB, myoglobin (MYO), amino N-terminal pro-brain natriuretic peptide, and TNT-HSST were determined at admission. The AMI group was defined as patients with TNT-HSST serum levels > 99th percentile upper reference limit (>28 pg/ml).[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] The group with cardiac marker abnormalities but non-definite AMI was defined as patients with TNT-HSST serum levels < 28pg/ml but increase in the levels of any of the other abovementioned cardiac markers. The group without cardiac marker abnormalities comprised patients without elevation in the levels of any of the cardiac markers. Chest computed tomography (CT) was performed on the day of admission. The period of illness onset to admission was defined from the day when signs or symptoms were first noticed to the day of admission. All enrolled patients underwent two-dimensional echocardiography (2D echo) and electrocardiography (ECG) during hospitalization. Acute respiratory distress syndrome (ARDS) was identified according to the Berlin definition[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] and acute kidney injury (AKI) according to the Kidney Disease Improving Global Outcomes definition.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]<br/><br/>Statistical analysis<br/><br/>Statistical analysis was performed using SPSS version 21.0 (Armonk, NY; Graphpad version 7.00, San Diego, CA). Data were presented as median (interquartile range; IQR) if non-normally distributed and as mean (standard deviation; SD) if normally distributed. Categorical variables were presented as n (%). Kruskal\u2013Wallis analysis, Chi-square test, and one-way analysis of variance were used for multiple group comparisons according to data characteristics. Bivariate correlation was calculated using Pearson or Spearman method as appropriate to detect the potential risk factors for AMI. In all analyses, two-tailed p-values of <0.05 were considered significant."
+        ],
+        "discussion": [
+            "This is the first study to show that cardiac abnormalities including tachycardia (28%), elevated myocardial enzyme levels (56.6%), cardiac dysfunction (37.7%), and even<br/><br/>AMI (11.3%) are common in COVID-19 patients. Moreover, AMI was detected in 6 of the 53 hospitalized COVID-19 patients. All the six patients had severe or critically severe NCP and required ICU care. Of the six AMI patients, three died, two remained hospitalized, and one was discharged. Notably, CRP levels, NCP severity, and underlying comorbidities were the major risk factors for AMI in the COVID-19 patients. Interestingly, there were 24 (45%) COVID-19 patients with elevation in the levels of one or more myocardial enzymes and markers of myocardial damage whose features did not meet the strict definition of myocardial injury, with most of them having the common NCP type and experiencing quick recovery; however, 58.33% of these patients exhibited LV dysfunction on echo, and long-term outcomes should be observed via follow-up in a future study.<br/><br/>Our study results suggest that the rates of cardiac complications were high in the hospitalized COVID-19 patients, especially in patients with confirmed AMI from among those who required ICU care. As shown in a recent report on 138 hospitalized COVID-19 patients,2 16.7% of the patients developed arrhythmia and 7.2% developed acute cardiac injury. In another series of 41 cases of hospitalized COVID-19 patients, it has been reported that 5 (12%) patients were diagnosed with acute cardiac injury.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Similar to the cardiovascular complications of COVID-19, those of SARS include hypotension, tachycardia, arrhythmias, systolic and diastolic dysfunctions, and sudden death, with tachycardia particularly being the commonest condition persistent in nearly 40% of patients during follow-up.[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] Furthermore, MERS-induced myocarditis and myocardial damage has been reported.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] However, case series reporting elevated levels of myocardial enzymes and myocardial injury markers remain limited for SARS and MERS. Notably, although only six patients had clinically confirmed AMI based on strict inclusion criteria in our study, most patients had elevated levels of one or more cardiac injury biomarkers and LV diastolic dysfunction. Although long-term outcomes of COVID-19 patients with AMI need to be further validated, significantly more clinical attention should be paid to avoid underdiagnosis because of classic symptoms and because of the possible overshadowing of cardiac complications in the context of coronavirus, as cautioned by the ACC Clinical Bulletin.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]<br/><br/>To date, the underlying mechanisms of AMI and potential impacts in COVID-19 patients remain unknown. Clinically, the increased serum levels of proinflammatory cytokines, such as interleukin (IL)-1\u03b2, IL-6, IL-12, interferon-gamma, interferon-inducible protein 10, and monocyte chemoattractant protein-1, suggest that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is associated with cellular immune deficiency and coagulation activation.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Thus, the direct effects of the virus, cytokine storm induced by viral invasion, and sustained inflammatory response are presumed to be the main pathophysiological mechanisms underlying SARS-CoV-2 infection. Recently, a case report showing pathological findings from a severely infected COVID-19 patient revealed no obvious histological changes in heart tissue; however, the conclusion that SARS-CoV-2 infection might not directly impair the heart is debatable because this finding was observed in only one patient without AMI-related clinical evidences.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Because the three patients in our study who died all had extremely elevated cardiac marker levels, acute heart failure may play a fatal role in multiple organ dysfunction and accelerate death. However, further evidence is urgently needed to assess the mechanism of cardiac damage in large-sample autopsy or biopsy studies. Previous studies have indicated that SARS-CoV can mediate MI and damage associated with the downregulation of the myocardial angiotensin-converting enzyme 2 system; this may be responsible for the myocardial dysfunction and adverse cardiac outcomes in patients with SARS, which has also been detected in COVID-19 patients.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>-<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] Until now, the pathophysiology of SARS-CoV or MERS-CoV has not been completely understood. Although full-genome sequencing and phylogenic analysis has shown that SARS-CoV-2 is similar to SARS-CoV or MERS-CoV, the pathophysiological mechanism of cardiac infection or damage caused by SARS-CoV-2 needs to be further validated in future studies.[<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]<br/><br/>In our study, AMI usually occurred in COVID-19 patients with old age, underlying comorbidities, severe or critically severe NCP, and ARDS. Among 44,672 patients with confirmed COVID-19, as reported in the China CDC Weekly on Feb 11, 2020, approximately 31.2% patients were aged >60 years. The overall case fatality rate was 2.3% (1,023 deaths); more importantly, the majority (81%) of deaths occurred in patients aged \u226560 years or in those with underlying medical conditions.[<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>] Similarly, in our study, all the six AMI patients were aged >60 years and had one or more underlying conditions, including diabetes, hypertension, COPD, and cardiovascular diseases. As described in a retrospective study of 1,099 laboratory-confirmed cases, approximately 25.2% of the patients had at least one underlying disorder, such as hypertension and COPD, and an underlying disorder potentially acts as an important risk factor for poor outcomes.[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>] We found that the severity of NCP was closely correlated with the AMI occurrence. Meanwhile, ARDS was present in all the AMI patients. ARDS, as a severe complication, occurred in approximately 19%\u201329% NCP patients as per previous reports.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Thus, we must understand the mechanisms of heart\u2013lung interactions in ARDS patients, particularly the right ventricle function impairments caused by respiratory dysfunction.[<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>] Logistic regression analysis indicated that NCP severity was a risk factor for AMI in COVID-19 patients. Indeed, the outcomes of these patients need to be further determined in long-term follow-up studies.<br/><br/>Our study has some limitations. First, this is a modest-size case series of hospitalized COVID-19 patients; more standardized data from a larger cohort would beneficial for further determining the clinical characteristics. Second, our data showed the clinical characteristics of AMI induced by COVID-19, including the clinical presentations, electrophysiological abnormality, myocardial enzyme and myocardial injury marker levels, and cardiac dysfunction and enlargement. However, the tissue characteristics in myocardial damage (i.e., edema, fibrosis, and microcirculation disorder) should be further demonstrated via cardiac magnetic resonance imaging examination as far as possible under the premise of controlling transmission. Finally, most of the COVID-19 patients with AMI had severe or critically severe NCP and high fatality rate, but long-term follow-up should be performed to determine adverse cardiac events in the patients who could not be diagnosed with MI but had elevated levels of one or more myocardial enzymes and myocardial injury markers.<br/><br/>In summary, we found that cardiovascular complications are common in COVID-19 patients and include tachycardia, elevated myocardial enzyme levels, cardiac dysfunction, and even AMI. More importantly, CRP level elevation, NCP severity, and underlying cardiovascular diseases are the major risk factors for AMI in these patients."
+        ],
+        "acknowledgments": [
+            "We thank all our colleagues who helped us during the current study. We are also grateful to the many front-line medical sta for their dedication in the face of this outbreak, despite the potential threat to their own lives and the lives of their families."
+        ],
+        "funding": [
+            "Funding This work was supported by 2020 Novel coronavirus pneumonia prevention and control technology project of Chengdu (NO. 2020-YF05- 00007-SN); Clinical research finding of Chinese society of cardiovascular disease(CSC) of 2019 (NO. HFCSC2019B01); the National Natural Science Foundation of China (NO. 81771887, 81771897, 81971586,81901712); the Program for Young Scholars and Innovative Research Team in Sichuan Province (NO. 2017TD0005) of China; and 1\u00b73\u00b75 project for disciplines of excellence, West China Hospital, Sichuan University (NO.ZYGD18013)."
+        ],
+        "disclosures": [
+            "Conflict of Interest: none declared"
+        ],
+        "ethical_compliance": [
+            "The institutional ethics board of our institutes approved this study (No 2020.43)"
+        ],
+        "limitations": [
+            "Our study has some limitations. First, this is a modest-size case series of hospitalized COVID-19 patients; more standardized data from a larger cohort would beneficial for further determining the clinical characteristics. Second, our data showed the clinical characteristics of AMI induced by COVID-19, including the clinical presentations, electrophysiological abnormality, myocardial enzyme and myocardial injury marker levels, and cardiac dysfunction and enlargement. However, the tissue characteristics in myocardial damage (i.e., edema, fibrosis, and microcirculation disorder) should be further demonstrated via cardiac magnetic resonance imaging examination as far as possible under the premise of controlling transmission. Finally, most of the COVID-19 patients with AMI had severe or critically severe NCP and high fatality rate, but long-term follow-up should be performed to determine adverse cardiac events in the patients who could not be diagnosed with MI but had elevated levels of one or more myocardial enzymes and myocardial injury markers."
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Figure S1",
+                "Figure S2",
+                "Table S2"
+            ]
+        }
+    },
+    "structured_content": {
+        "Results": [
+            "Baseline data The baseline data of the 53 COVID-19 patients are listed in Table 1. Of them, six (11.32%) patients had AMI (all aged >60 years; median age, 78.5 years [IQR 60.5, 81.75]); 24 (45.38%) patients were defined as the cardiac marker abnormalities group (6 [25%] aged >60 years; median age, 48.50 years old [IQR 37.00, 62.75]). Cardiac markers of 23 (43.39%) patients were within the normal range (4 [17.39%] aged >60 years; median age, 40.00 years [IQR 23.00, 51.00]). There were no significant gender differences among the three subgroups. Epidemiology of all the groups was similar (all p>0.05), such as being a local resident, Wuhan residence exposure, and COVID-19 exposure. No patients had direct Huanan seafood market exposure. No exact epidemiological link was found between the first case and the later ones. Almost all the patients\u2019 first onset symptoms were fever (n=47, 88.68%) and dry cough (n=41, 77.36%). Furthermore, the mean systolic blood pressure of the AMI patients was higher than those of the other two groups (p<0.001). Fifteen (28%) of all the patients had tachycardia. High occurrence of hypertension was detected in the AMI patients (total patients with hypertension: n=8, 15.09%; AMI group: n=4, 66.67%; cardiac marker abnormalities group: n=2, 8.33%; without cardiac marker abnormalities group: n=2, 8.69%; p=0.001). Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001). Additionally, diabetes (n=8, 15.09%) and COPD (n=3, 5.6%) were found in all the patients, with a higher tendency in the AMI group (diabetes: n=2 and COPD: n=2) than in the other two groups (Figure 1). Notably, only the AMI patients had more than two comorbidities (n=5). Regarding CT or DR findings on admission, all the AMI patients and 21 (87.5%) non-definite AMI patients with cardiac marker abnormalities had bilateral multilobular and sub-segmental lung involvement; in the without cardiac marker abnormalities group, bilateral lobes were affected in only 15 (65.22%) patients.",
+            "Laboratory tests The laboratory test and blood gas analysis results are shown in Table S1 (see in supplementary appendix). CRP levels of all the AMI patients were increased above the normal range (0\u20135 mg/l) on admission and were higher than those of the other two groups; however, CRP levels were also increased in some patients in the groups with (n=9, 39.13%; CRP: median, 14.70 mg/ml [IQR 9.51, 24.53]) and without (n=4, 16.67%; CRP: median, 5.36 mg/ml [IQR 1.27,9.16]) cardiac marker abnormalities. D-dimer levels on admission were increased in the AMI patients (median, 1.65 \u03bcg/ml [IQR 1.23, 4.48]) and patients with abnormal cardiac markers (median, 0.79 \u03bcg/ml [IQR 0.62, 0.93]) and were higher than those in patients with normal cardiac markers (median, 0.55 \u03bcg/ml [IQR 0.46, 0.72]; p<0.001). Initial white blood cell counts of all the patients were within the normal range (3.50\u20139.50 \u00d7 109/l). Initial lymphocyte counts of five (83.33%) AMI patients were decreased below the normal range (0.80\u20134.00 \u00d7 109/l); these counts were decreased in only nine (37.5%) and eight (34.78%) patients with and without cardiac marker abnormalities, respectively. Furthermore, red blood cell count, hemoglobin level, and platelet count of the AMI group were lower than those of the other two groups (p<0.05); four (66.67%) AMI patients had procalcitonin levels above the normal range (0\u20130.5 ng/ml).",
+            "Cardiac marker, echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels. Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix). In the AMI group, cardiac marker levels continuously increased in three patients who died, with the levels being extremely high on the day of death (Figure S2 in supplementary appendix). Meanwhile, there were some differences in echo and ECG findings (Table 2). Of all the COVID-19 patients, 45.28% (n=24) patients exhibited echo abnormalities. Echo abnormalities more frequently occurred in the AMI group and included left atrial enlargement (n=2), left ventricular (LV) enlargement (n=2), LV diastolic dysfunction (n=3), mitral valve regurgitation (n=2), triple valve regurgitation (n=1), and aortic valve regurgitation (n=1). Three AMI patients had LV wall thickening. It is noteworthy that non-definite AMI patients with cardiac marker abnormalities also had high frequency of echo abnormalities (n=15, 62.50%), with 11(45.83%) of them having more than two of the abovementioned echo abnormalities. The most frequent echo abnormality in the cardiac marker abnormalities group was LV diastolic dysfunction (n=14, 58.33%). As shown in Table 3, 11 (20.75%) COIVD-19 patients had ECG abnormalities, including all the AMI patients and five (20.83%) non-definite AMI patients with cardiac marker abnormalities. Five of the AMI patients had more than two kinds of ECG abnormalities including atrioventricular block (n=2), ST-T/Q curve abnormalities (n=2), and arrhythmia (n=3); furthermore, ST-T/Q curve abnormalities (n=5, 20.83%) and arrhythmia (n=1, 4.27%) were the main abnormalities in patients with cardiac marker abnormalities. None of the patients without cardiac marker abnormalities exhibited ECG abnormalities.",
+            "Table 3 shows the main management strategies, comorbid conditions, and clinical outcomes of all the COVID-19 patients. In the AMI group, in addition to antiviral and antibiotic therapies, cardioprotective medications such as amiodarone and cedilla were used by four patients to improve the cardiac function. However, the non-definite AMI patients with and without cardiac markers abnormalities did not use cardioprotective medication. All the 53 patients were administered nasal cannula oxygen therapy during admission for respiratory support; non-invasive ventilation or high-flow nasal cannula oxygen therapy was performed for five AMI and three non-definite AMI patients with cardiac marker abnormalities. Notably, in the AMI group, invasive mechanical ventilation was used in three patients and ECMO in one patient due to extremely severe ARDS. ARDS occurred in all the six AMI patients and four non-definite AMI patients with cardiac marker abnormalities. Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001). Moreover, a total of five AMI patients had AKI, and four of them used continuous renal replacement therapy. Importantly, all the six AMI patients had critically severe NCP and needed care in intensive care unit (ICU). However, half of the patients with cardiac marker abnormalities (n=13, 54.17%) had the common NCP type, with only two (8.33%) of them having critically severe NCP needing ICU care. Meanwhile, the majority of patients (n=21, 91.30%) in the without cardiac marker abnormalities group had the common NCP type (Figure 2). Regarding clinical outcomes, in the AMI group, three patients died, two were still in admission, and one was discharged from hospital. Conversely, a majority of non-definite AMI patients with (n=20, 83.33%) and without (n=21, 91.30%) cardiac marker abnormalities were discharged, with no case of death.",
+            "Risk factors for AMI To determine the risk factors for AMI in the COVID-19 patients, a bivariate analysis of AMI occurrence with clinical data and laboratory findings was performed, showing that age (r=0.456, p=0.001), CRP levels (r=0.483, p<0.001), NCP severity (r=0.540, p<0.001), and presence of commodities (r=0.520, p<0.001) were associated with AMI occurrence (all p<0.05). Further analysis (Table S2 in supplementary appendix) demonstrated that increased CRP levels (OR, 1.186; 95CI% [1.047, 1.344]), representing the inflammatory condition of the body, may be a risk factor for AMI in COVID-19 patients. COVID-19 patients with more severe NCP type (OR, 2.896; 95CI% [1.266, 6.621]) may have a higher risk of AMI than other patients. It is worth mentioning that the presence of comorbidities (OR, 4.336; 95CI% [1.11, 38.55]) may be the most critical risk factor for AMI in COVID-19 patients."
+        ],
+        "Conclusions": [
+            "Cardiac complications are common in COVID-19 patients. Elevated CRP levels, underlying comorbidities, and NCP severity are the main risk factors for cardiac complications in COVID-19 patients."
+        ],
+        "Introduction": [
+            "The widespread outbreak of the Coronavirus Disease 2019 (COVID-19, previously known as 2019-nCoV) in China is a big challenge for public health and medical care. Since its first emergence in Wuhan city in late December 2019, COVID-19 has already spread to 26 countries. As of March 02, 2020, there were over 87137 confirmed cases worldwide, with 2977 deaths.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] To date, several latest studies have reported the clinical characteristics of hospitalized patients with 2019 novel coronavirus pneumonia (NCP), including signs, symptoms, laboratory test results, imaging features, therapeutic strategies and effects, and multiple organ dysfunction.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Notably, acute myocardial injury (AMI), defined as troponin T-hypersensitivity (TNT-HSST) serum levels > 99th percentile upper reference limit (>28 pg/ml) by the American College of Cardiology/American Heart Association Task Force for myocardial infarction and non-myocardial infarction diseases,[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] was detected in approximately 7.2%\u201312% COVID-19 patients in previous studies.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Furthermore, both severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) have been linked to acute myocarditis, AMI, and rapid-onset heart failure.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Reportedly,[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] nearly 40% of hospitalized patients with confirmed COVID-19 have underlying comorbidities such as cardiovascular or cerebrovascular diseases. Furthermore, among COVID-19 patients, those with underlying cardiovascular diseases can be more severely affected and may have more adverse outcomes than those without underlying diseases. Thus, undoubtedly, special medical attention should be paid to COVID-19 patients with cardiac complications and underlying cardiovascular diseases. On February 13, 2020, the ACC released an ACC Clinical Bulletin titled \u201cCardiac Implications of Novel Wuhan Coronavirus (COVID-19)\u201d[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] for addressing cardiac implications of this disease and offering early clinical guidance given the current uncertainty over COVID-19. However, detailed clinical characteristics of COVID-19 patients with cardiac involvement, especially those with AMI, have not been investigated in detail. Thus, we aimed to describe the clinical characteristics of COVID-19 patients with AMI and to further determine the risk factors for AMI in them."
+        ],
+        "Methods": [
+            "The institutional ethics board of our institutes approved this study (No 2020.43). We retrospectively enrolled 53 laboratory-confirmed COVID-19 patients hospitalized between January 02, 2020 and February 14, 2020. The patients were diagnosed and classified according to the World Health Organization interim guidance.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] NCP types were classified as mild, common, severe, and critically severe according to the COVID-19 patient management guideline issued on February 8, 2020.11"
+        ],
+        "Procedures": [
+            "Data on epidemiological and demographic characteristics, clinical signs and symptoms, underlying comorbidities, complications, and treatment management (such as antiviral or antibiotic therapy, respiratory support, continuous renal replacement therapy, and extracorporeal membrane oxygenation [ECMO]) were collected from the patients\u2019 medical records. Laboratory test results including those of blood routine tests, C-reactive protein (CRP) and D-dimer tests, and blood gas analysis were recorded and compared. The levels of cardiac injury markers including lactate dehydrogenase (LDH), hydroxybutyrate dehydrogenase, creatine kinase (CK), CK-MB, myoglobin (MYO), amino N-terminal pro-brain natriuretic peptide, and TNT-HSST were determined at admission. The AMI group was defined as patients with TNT-HSST serum levels > 99th percentile upper reference limit (>28 pg/ml).[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] The group with cardiac marker abnormalities but non-definite AMI was defined as patients with TNT-HSST serum levels < 28pg/ml but increase in the levels of any of the other abovementioned cardiac markers. The group without cardiac marker abnormalities comprised patients without elevation in the levels of any of the cardiac markers. Chest computed tomography (CT) was performed on the day of admission. The period of illness onset to admission was defined from the day when signs or symptoms were first noticed to the day of admission. All enrolled patients underwent two-dimensional echocardiography (2D echo) and electrocardiography (ECG) during hospitalization. Acute respiratory distress syndrome (ARDS) was identified according to the Berlin definition[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] and acute kidney injury (AKI) according to the Kidney Disease Improving Global Outcomes definition.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+            "Statistical analysis was performed using SPSS version 21.0 (Armonk, NY; Graphpad version 7.00, San Diego, CA). Data were presented as median (interquartile range; IQR) if non-normally distributed and as mean (standard deviation; SD) if normally distributed. Categorical variables were presented as n (%). Kruskal\u2013Wallis analysis, Chi-square test, and one-way analysis of variance were used for multiple group comparisons according to data characteristics. Bivariate correlation was calculated using Pearson or Spearman method as appropriate to detect the potential risk factors for AMI. In all analyses, two-tailed p-values of <0.05 were considered significant."
+        ],
+        "Discussion": [
+            "This is the first study to show that cardiac abnormalities including tachycardia (28%), elevated myocardial enzyme levels (56.6%), cardiac dysfunction (37.7%), and even",
+            "AMI (11.3%) are common in COVID-19 patients. Moreover, AMI was detected in 6 of the 53 hospitalized COVID-19 patients. All the six patients had severe or critically severe NCP and required ICU care. Of the six AMI patients, three died, two remained hospitalized, and one was discharged. Notably, CRP levels, NCP severity, and underlying comorbidities were the major risk factors for AMI in the COVID-19 patients. Interestingly, there were 24 (45%) COVID-19 patients with elevation in the levels of one or more myocardial enzymes and markers of myocardial damage whose features did not meet the strict definition of myocardial injury, with most of them having the common NCP type and experiencing quick recovery; however, 58.33% of these patients exhibited LV dysfunction on echo, and long-term outcomes should be observed via follow-up in a future study.",
+            "Our study results suggest that the rates of cardiac complications were high in the hospitalized COVID-19 patients, especially in patients with confirmed AMI from among those who required ICU care. As shown in a recent report on 138 hospitalized COVID-19 patients,2 16.7% of the patients developed arrhythmia and 7.2% developed acute cardiac injury. In another series of 41 cases of hospitalized COVID-19 patients, it has been reported that 5 (12%) patients were diagnosed with acute cardiac injury.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Similar to the cardiovascular complications of COVID-19, those of SARS include hypotension, tachycardia, arrhythmias, systolic and diastolic dysfunctions, and sudden death, with tachycardia particularly being the commonest condition persistent in nearly 40% of patients during follow-up.[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] Furthermore, MERS-induced myocarditis and myocardial damage has been reported.[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] However, case series reporting elevated levels of myocardial enzymes and myocardial injury markers remain limited for SARS and MERS. Notably, although only six patients had clinically confirmed AMI based on strict inclusion criteria in our study, most patients had elevated levels of one or more cardiac injury biomarkers and LV diastolic dysfunction. Although long-term outcomes of COVID-19 patients with AMI need to be further validated, significantly more clinical attention should be paid to avoid underdiagnosis because of classic symptoms and because of the possible overshadowing of cardiac complications in the context of coronavirus, as cautioned by the ACC Clinical Bulletin.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]",
+            "To date, the underlying mechanisms of AMI and potential impacts in COVID-19 patients remain unknown. Clinically, the increased serum levels of proinflammatory cytokines, such as interleukin (IL)-1\u03b2, IL-6, IL-12, interferon-gamma, interferon-inducible protein 10, and monocyte chemoattractant protein-1, suggest that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is associated with cellular immune deficiency and coagulation activation.[<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Thus, the direct effects of the virus, cytokine storm induced by viral invasion, and sustained inflammatory response are presumed to be the main pathophysiological mechanisms underlying SARS-CoV-2 infection. Recently, a case report showing pathological findings from a severely infected COVID-19 patient revealed no obvious histological changes in heart tissue; however, the conclusion that SARS-CoV-2 infection might not directly impair the heart is debatable because this finding was observed in only one patient without AMI-related clinical evidences.[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Because the three patients in our study who died all had extremely elevated cardiac marker levels, acute heart failure may play a fatal role in multiple organ dysfunction and accelerate death. However, further evidence is urgently needed to assess the mechanism of cardiac damage in large-sample autopsy or biopsy studies. Previous studies have indicated that SARS-CoV can mediate MI and damage associated with the downregulation of the myocardial angiotensin-converting enzyme 2 system; this may be responsible for the myocardial dysfunction and adverse cardiac outcomes in patients with SARS, which has also been detected in COVID-19 patients.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>-<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] Until now, the pathophysiology of SARS-CoV or MERS-CoV has not been completely understood. Although full-genome sequencing and phylogenic analysis has shown that SARS-CoV-2 is similar to SARS-CoV or MERS-CoV, the pathophysiological mechanism of cardiac infection or damage caused by SARS-CoV-2 needs to be further validated in future studies.[<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]",
+            "In our study, AMI usually occurred in COVID-19 patients with old age, underlying comorbidities, severe or critically severe NCP, and ARDS. Among 44,672 patients with confirmed COVID-19, as reported in the China CDC Weekly on Feb 11, 2020, approximately 31.2% patients were aged >60 years. The overall case fatality rate was 2.3% (1,023 deaths); more importantly, the majority (81%) of deaths occurred in patients aged \u226560 years or in those with underlying medical conditions.[<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>] Similarly, in our study, all the six AMI patients were aged >60 years and had one or more underlying conditions, including diabetes, hypertension, COPD, and cardiovascular diseases. As described in a retrospective study of 1,099 laboratory-confirmed cases, approximately 25.2% of the patients had at least one underlying disorder, such as hypertension and COPD, and an underlying disorder potentially acts as an important risk factor for poor outcomes.[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>] We found that the severity of NCP was closely correlated with the AMI occurrence. Meanwhile, ARDS was present in all the AMI patients. ARDS, as a severe complication, occurred in approximately 19%\u201329% NCP patients as per previous reports.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Thus, we must understand the mechanisms of heart\u2013lung interactions in ARDS patients, particularly the right ventricle function impairments caused by respiratory dysfunction.[<a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>] Logistic regression analysis indicated that NCP severity was a risk factor for AMI in COVID-19 patients. Indeed, the outcomes of these patients need to be further determined in long-term follow-up studies.",
+            "Our study has some limitations. First, this is a modest-size case series of hospitalized COVID-19 patients; more standardized data from a larger cohort would beneficial for further determining the clinical characteristics. Second, our data showed the clinical characteristics of AMI induced by COVID-19, including the clinical presentations, electrophysiological abnormality, myocardial enzyme and myocardial injury marker levels, and cardiac dysfunction and enlargement. However, the tissue characteristics in myocardial damage (i.e., edema, fibrosis, and microcirculation disorder) should be further demonstrated via cardiac magnetic resonance imaging examination as far as possible under the premise of controlling transmission. Finally, most of the COVID-19 patients with AMI had severe or critically severe NCP and high fatality rate, but long-term follow-up should be performed to determine adverse cardiac events in the patients who could not be diagnosed with MI but had elevated levels of one or more myocardial enzymes and myocardial injury markers.",
+            "In summary, we found that cardiovascular complications are common in COVID-19 patients and include tachycardia, elevated myocardial enzyme levels, cardiac dysfunction, and even AMI. More importantly, CRP level elevation, NCP severity, and underlying cardiovascular diseases are the major risk factors for AMI in these patients."
+        ],
+        "Acknowledgments": [
+            "We thank all our colleagues who helped us during the current study. We are also grateful to the many front-line medical sta for their dedication in the face of this outbreak, despite the potential threat to their own lives and the lives of their families.",
+            "Funding This work was supported by 2020 Novel coronavirus pneumonia prevention and control technology project of Chengdu (NO. 2020-YF05- 00007-SN); Clinical research finding of Chinese society of cardiovascular disease(CSC) of 2019 (NO. HFCSC2019B01); the National Natural Science Foundation of China (NO. 81771887, 81771897, 81971586,81901712); the Program for Young Scholars and Innovative Research Team in Sichuan Province (NO. 2017TD0005) of China; and 1\u00b73\u00b75 project for disciplines of excellence, West China Hospital, Sichuan University (NO.ZYGD18013).",
+            "Reference 1.Coronavirus disease 2019 (COVID-19) situation report-43.WHO. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200303-sitr ep-43-covid-19.pdf?sfvrsn=2c21c09c_2 2. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. 3. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020;395(10223):497-506. 4. Na Zhu, Dingyu Zhang, Wenling Wang, Xingwang Li, Bo Yang, Jingdong Song, Xiang Zhao, Baoying Huang, Weifeng Shi, Roujian Lu, Peihua Niu, Faxian Zhan, Xuejun Ma, Dayan Wang, Wenbo Xu, Guizhen Wu, George F. Gao, D.Phil, Wenjie Tan. for the China Novel Coronavirus Investigating and Research Team. A novel coronavirus from patients with pneumonia in China, 2019.",
+            "https://www.nejm.org/doi/full/10.1056/NEJMoa2001017?query=recirc_mostViewed_ railB_article 5. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. 6. Newby LK, Jesse RL, Babb JD, Christenson RH, De Fer TM, Diamond GA, Fesmire FM, Geraci SA, Gersh BJ, Larsen GC, Kaul S, McKay CR, Philippides GJ, Weintraub WS. ACCF 2012 expert consensus document on practical clinical considerations in the interpretation of troponin elevations: a report of the American College of Cardiology Foundation task force on Clinical Expert Consensus Documents. J Am Coll Cardiol. 2012;60(23):2427-63. 7. Li SS, Cheng CW, Fu CL, Chan YH, Lee MP, Chan JW, Yiu SF. Left ventricular performance in patients with severe acute respiratory syndrome: a 30-day echocardiographic follow-up study. Circulation. 2003;108(15):1798-803. 8. Alexander LK, Keene BW, Small JD, Yount B Jr, Baric RS. Electrocardiographic changes following rabbit coronavirus-induced myocarditis and dilated cardiomyopathy. Adv Exp Med Biol. 1993;342:365-70. 9. Yu CM, Wong RS, Wu EB, Kong SL, Wong J, Yip GW, Soo YO, Chiu ML, Chan YS, Hui D, Lee N, Wu A, Leung CB, Sung JJ. Cardiovascular complications of severe acute respiratory syndrome. Postgrad Med J. 2006 Feb;82(964):140-4. 10. Madjid M, et al ACC Clinical Bulletin: Cardiac Implications of Novel Wuhan",
+            "Coronavirus (2019-nCoV). Accessed Feb. 13, 2020.",
+            "11. National Health Commission of the People\u2019s Republic of China. Diagnosis and treatment protocols of pneumonia caused by a novel coronavirus (Revised version",
+            "8, http://www.nhc.gov.cn/xcs/zhengcwj/202002/d4b895337e19445f8d728fcaf1e3e13a.s html.",
+            "12. ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012;307(23):2526-33.",
+            "Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney Int",
+            "Suppl. 2012;2:1.",
+            "14. Ding Y, He L, Zhang Q, Huang Z, Che X, Hou J, Wang H, Shen H, Qiu L, Li Z, Geng J, Cai J, Han H, Li X, Kang W, Weng D, Liang P, Jiang S. Organ distribution of severe acute respiratory syndrome (SARS) associated coronavirus (SARS-CoV) in",
+            "Pathol. 2004;203(2):[622-30].",
+            "15. Alhogbani T. Acute myocarditis associated with novel Middle east respiratory syndrome coronavirus. Ann Saudi Med. 2016;36(1):[78\u201380].",
+            "Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, Bin Cao. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. January 24, 2020 https://doi.org/10.1016/S0140-6736(20)30183-5.",
+            "Liu, Peng Zhao, Hongxia Liu, Li Zhu, Yanhong Tai, Changqing Bai, Tingting Gao, Jinwen Song, Peng Xia, Jinghui Dong, Jingmin Zhao, Fu-Sheng Wang. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The",
+            "Medicine.",
+            "Published: 18, 2020DOI:https://doi.org/10.1016/S2213-2600(20)30076-X.",
+            "W, Bao L, Zhang B, Liu G, Wang Z, Chappell M, Liu Y, Zheng D, Leibbrandt A, Wada T, Slutsky AS, Liu D, Qin C, Jiang C, Penninger JM. A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury.",
+            "Nat Med. 2005;11(8):[875-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+            "20. Oudit GY, Kassiri Z, Jiang C, Liu PP, Poutanen SM, Penninger JM, Butany J.",
+            "SARS-coronavirus modulation of myocardial ACE2 expression and inflammation in patients with SARS. Eur J Clin Invest. 2009;39(7):[618-<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>].",
+            "21. Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis. J Pathol. 2004;203(2):631-7. 22. Wu, C, Zheng, M. Single-Cell RNA Expression Profiling Shows that ACE2, the Putative Receptor of Wuhan 2019-nCoV, Has Significant Expression in the Nasal, Mouth, Lung and Colon Tissues, and Tends to be Co-Expressed with HLA-DRB1 in the Four Tissues. Preprints 2020, 2020020247. 23. de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS and MERS: recent insights into emerging coronaviruses. Nat Rev Microbiol. 2016;14 (8):523-534. doi:10.1038/nrmicro.2016.81. 24. The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020. China CDC Weekly, 2020, 2(8): 113-122. http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51. 25. Wei-jie Guan, Zheng-yi Ni,Yu Hu, Wen-hua Liang, Chun-quan Ou, Jian-xing He, Lei Liu, Hong Shan, Chun-liang Lei, David S.C. Hui, Bin Du, Lan-juan Li, Guang Zeng, Kwok-Yung Yuen, Ru-chong Chen,Chun-li Tang, Tao Wang, Ping-yan Chen, Jie Xiang, Shi-yue Li, Jin-lin Wang, Zi-jing Liang, Yi-xiang Peng, Li Wei, Yong Liu, Ya-hua Hu, Peng Peng, Jian-ming Wang, Ji-yang Liu, Zhong Chen, Gang Li, Zhi-jian Zheng, Shao-qin Qiu, Jie Luo, Chang-jiang Ye, Shao-yong Zhu,and Nan-shan Zhong. for the China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. February 28, 2020.DOI: 10.1056/NEJMoa2002032.",
+            "26. Yu CM, Wong RS, Wu EB, Kong SL, Wong J, Yip GW, Soo YO, Chiu ML, Chan YS, Hui D, Lee N, Wu A, Leung CB, Sung JJ. Cardiovascular complications of severe acute respiratory syndrome. Postgrad Med J. 2006 ;82(964):[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]."
+        ],
+        "Tables": [
+            "Age, years Sex (man, n/%) Smoking, n/% Local residents of Wuhan, n/% Recently been to Wuhan, n/%",
+            "Wuhan residence exposure, n/% NCP patient exposure (n/%) Huanan seafood market exposure, n/% Days from illness onset to admission, d Days of admission, d T (\u00b0C) HR (beats/min) Respiratory rate (n/min) Systolic BP (mmHg)",
+            "Fever, n/% Dry cough, n/% Fatigue, n/% Chill, n/% Dyspnea, n/% Myalgia, n/% Expectoration, n/%",
+            "Note: Data are presented as median (IQR) or n/%. * mean p<0.05 compared with the AMI group; # p<0.05 compared with the group with cardiac marker abnormalities.",
+            "NCP, novel coronavirus pneumonia; T, temperature; HR, heart rate; BP, blood pressure; COPD, chronic obstructive pulmonary disease; IQR, interquartile range; AMI, acute myocardial injury; CT, computed tomography; DR, digital radiography.",
+            "Note: Data are presented as n (%). * mean p<0.05 compared with the AMI group; # p<0.05 compared with the group with cardiac marker abnormalities. LV, left ventricle; LA, left atrium; Echo, echocardiography; ECG, electrocardiogram; ARB, atrioventricular block; other abbreviations are the same as those in the footnote of Table 1.",
+            "Note: Data are presented as median (IQR) or n (%). * mean p<0.05 compared with the AMI group; # p<0.05 compared with the group with cardiac marker abnormalities.",
+            "ECMO, extracorporeal membrane oxygenation; ARDS, Acute respiratory distress syndrome; AKI, acute kidney injury; ICU, intensive care unit; other abbreviations the same as those in the footnote of Table 1.",
+            "Figure legends Figure 1. Comorbidities in the COVID-19 patients. In the AMI patients, hypertension and cardiovascular diseases were the frequently occurring comorbidities. AMI, acute myocardial injury; COPD, chronic obstructive pulmonary diseases; COVID-19, Coronavirus Disease 2019. Figure 2. Heterogeneity of NCP types in the COVID-19 patients. NCP, novel coronavirus pneumonia. Abbreviations are the same as those for Figures 1."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "men",
+            "number": 28,
+            "context": "We investigated the clinical characteristics of COVID-19 patients with AMI and determined the risk factors for AMI in them. <mark class=\"stats\">Methods: We analyzed data from 53 consecutive laboratory-confirmed and hospitalized COVID-19 patients (28 men, 25 women; age, 19\u201381 years)</mark>. We collected information on epidemiological and demographic characteristics, clinical features, routine laboratory tests (including cardiac injury biomarkers), echocardiography, electrocardiography, imaging findings, management methods, and clinical outcomes"
+        },
+        {
+            "participant": "data",
+            "number": 15,
+            "context": "We collected information on epidemiological and demographic characteristics, clinical features, routine laboratory tests (including cardiac injury biomarkers), echocardiography, electrocardiography, imaging findings, management methods, and clinical outcomes. <mark class=\"stats\">Results: Cardiac complications were found in 42 of the 53 (79.25%) patients: tachycardia (n=15), electrocardiography abnormities (n=11), diastolic dysfunction (n=20), elevated myocardial enzymes (n=30), and AMI (n=6)</mark>. All the six AMI patients were aged >60 years; five of them had two or more underlying comorbidities (hypertension, diabetes, cardiovascular diseases, and chronic obstructive pulmonary disease)"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 6,
+            "context": "Results: Cardiac complications were found in 42 of the 53 (79.25%) patients: tachycardia (n=15), electrocardiography abnormities (n=11), diastolic dysfunction (n=20), elevated myocardial enzymes (n=30), and AMI (n=6). <mark class=\"stats\">All the six AMI patients were aged >60 years; five of them had two or more underlying comorbidities (hypertension, diabetes, cardiovascular diseases, and chronic obstructive pulmonary disease)</mark>. Novel coronavirus pneumonia (NCP) severity was higher in the AMI patients than in patients with non-definite AMI (p<0.001)"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 87137,
+            "context": "Since its first emergence in Wuhan city in late December 2019, COVID-19 has already spread to 26 countries. <mark class=\"stats\">As of March 02, 2020, there were over 87137 confirmed cases worldwide, with 2977 deaths.1</mark>. To date, several latest studies have reported the clinical characteristics of hospitalized patients with 2019 novel coronavirus pneumonia (NCP), including signs, symptoms, laboratory test results, imaging features, therapeutic strategies and effects, and multiple organ dysfunction.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]"
+        },
+        {
+            "participant": "data",
+            "number": 47,
+            "context": "No exact epidemiological link was found between the first case and the later ones. <mark class=\"stats\">Almost all the patients\u2019 first onset symptoms were fever (n=47, 88.68%) and dry cough (n=41, 77.36%)</mark>. Furthermore, the mean systolic blood pressure of the AMI patients was higher than those of the other two groups (p<0.001)"
+        },
+        {
+            "participant": "patients",
+            "number": 8,
+            "context": "Fifteen (28%) of all the patients had tachycardia. <mark class=\"stats\">High occurrence of hypertension was detected in the AMI patients (total patients with hypertension: n=8, 15.09%; AMI group: n=4, 66.67%; cardiac marker abnormalities group: n=2, 8.33%; without cardiac marker abnormalities group: n=2, 8.69%; p=0.001)</mark>. Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001)"
+        },
+        {
+            "participant": "data",
+            "number": 8,
+            "context": "Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001). <mark class=\"stats\">Additionally, diabetes (n=8, 15.09%) and COPD (n=3, 5.6%) were found in all the patients, with a higher tendency in the AMI group (diabetes: n=2 and COPD: n=2) than in the other two groups (Figure 1)</mark>. Notably, only the AMI patients had more than two comorbidities (n=5)"
+        },
+        {
+            "participant": "data",
+            "number": 5,
+            "context": "Additionally, diabetes (n=8, 15.09%) and COPD (n=3, 5.6%) were found in all the patients, with a higher tendency in the AMI group (diabetes: n=2 and COPD: n=2) than in the other two groups (Figure 1). <mark class=\"stats\">Notably, only the AMI patients had more than two comorbidities (n=5)</mark>. Regarding CT or DR findings on admission, all the AMI patients and 21 (87.5%) non-definite AMI patients with cardiac marker abnormalities had bilateral multilobular and sub-segmental lung involvement; in the without cardiac marker abnormalities group, bilateral lobes were affected in only 15 (65.22%) patients"
+        },
+        {
+            "participant": "data",
+            "number": 9,
+            "context": "Laboratory tests The laboratory test and blood gas analysis results are shown in Table S1 (see in supplementary appendix). <mark class=\"stats\">CRP levels of all the AMI patients were increased above the normal range (0\u20135 mg/l) on admission and were higher than those of the other two groups; however, CRP levels were also increased in some patients in the groups with (n=9, 39.13%; CRP: median, 14.70 mg/ml [IQR 9.51, 24.53]) and without (n=4, 16.67%; CRP: median, 5.36 mg/ml [IQR 1.27,9.16]) cardiac marker abnormalities</mark>. D-dimer levels on admission were increased in the AMI patients (median, 1.65 \u03bcg/ml [IQR 1.23, 4.48]) and patients with abnormal cardiac markers (median, 0.79 \u03bcg/ml [IQR 0.62, 0.93]) and were higher than those in patients with normal cardiac markers (median, 0.55 \u03bcg/ml [IQR 0.46, 0.72]; p<0.001)"
+        },
+        {
+            "participant": "data",
+            "number": 30,
+            "context": "Furthermore, red blood cell count, hemoglobin level, and platelet count of the AMI group were lower than those of the other two groups (p<0.05); four (66.67%) AMI patients had procalcitonin levels above the normal range (0\u20130.5 ng/ml). <mark class=\"stats\">Cardiac marker, echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels</mark>. Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix)"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix). <mark class=\"stats\">In the AMI group, cardiac marker levels continuously increased in three patients who died, with the levels being extremely high on the day of death (Figure S2 in supplementary appendix)</mark>. Meanwhile, there were some differences in echo and ECG findings (Table 2)"
+        },
+        {
+            "participant": "data",
+            "number": 24,
+            "context": "Meanwhile, there were some differences in echo and ECG findings (Table 2). <mark class=\"stats\">Of all the COVID-19 patients, 45.28% (n=24) patients exhibited echo abnormalities</mark>. Echo abnormalities more frequently occurred in the AMI group and included left atrial enlargement (n=2), left ventricular (LV) enlargement (n=2), LV diastolic dysfunction (n=3), mitral valve regurgitation (n=2), triple valve regurgitation (n=1), and aortic valve regurgitation (n=1)"
+        },
+        {
+            "participant": "data",
+            "number": 2,
+            "context": "Of all the COVID-19 patients, 45.28% (n=24) patients exhibited echo abnormalities. <mark class=\"stats\">Echo abnormalities more frequently occurred in the AMI group and included left atrial enlargement (n=2), left ventricular (LV) enlargement (n=2), LV diastolic dysfunction (n=3), mitral valve regurgitation (n=2), triple valve regurgitation (n=1), and aortic valve regurgitation (n=1)</mark>. Three AMI patients had LV wall thickening"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 3,
+            "context": "Echo abnormalities more frequently occurred in the AMI group and included left atrial enlargement (n=2), left ventricular (LV) enlargement (n=2), LV diastolic dysfunction (n=3), mitral valve regurgitation (n=2), triple valve regurgitation (n=1), and aortic valve regurgitation (n=1). <mark class=\"stats\">Three AMI patients had LV wall thickening</mark>. It is noteworthy that non-definite AMI patients with cardiac marker abnormalities also had high frequency of echo abnormalities (n=15, 62.50%), with 11(45.83%) of them having more than two of the abovementioned echo abnormalities"
+        },
+        {
+            "participant": "data",
+            "number": 15,
+            "context": "Three AMI patients had LV wall thickening. <mark class=\"stats\">It is noteworthy that non-definite AMI patients with cardiac marker abnormalities also had high frequency of echo abnormalities (n=15, 62.50%), with 11(45.83%) of them having more than two of the abovementioned echo abnormalities</mark>. The most frequent echo abnormality in the cardiac marker abnormalities group was LV diastolic dysfunction (n=14, 58.33%)"
+        },
+        {
+            "participant": "data",
+            "number": 14,
+            "context": "It is noteworthy that non-definite AMI patients with cardiac marker abnormalities also had high frequency of echo abnormalities (n=15, 62.50%), with 11(45.83%) of them having more than two of the abovementioned echo abnormalities. <mark class=\"stats\">The most frequent echo abnormality in the cardiac marker abnormalities group was LV diastolic dysfunction (n=14, 58.33%)</mark>. As shown in Table 3, 11 (20.75%) COIVD-19 patients had ECG abnormalities, including all the AMI patients and five (20.83%) non-definite AMI patients with cardiac marker abnormalities"
+        },
+        {
+            "participant": "data",
+            "number": 2,
+            "context": "As shown in Table 3, 11 (20.75%) COIVD-19 patients had ECG abnormalities, including all the AMI patients and five (20.83%) non-definite AMI patients with cardiac marker abnormalities. <mark class=\"stats\">Five of the AMI patients had more than two kinds of ECG abnormalities including atrioventricular block (n=2), ST-T/Q curve abnormalities (n=2), and arrhythmia (n=3); furthermore, ST-T/Q curve abnormalities (n=5, 20.83%) and arrhythmia (n=1, 4.27%) were the main abnormalities in patients with cardiac marker abnormalities</mark>. None of the patients without cardiac marker abnormalities exhibited ECG abnormalities"
+        },
+        {
+            "participant": "patients",
+            "number": 4,
+            "context": "Table 3 shows the main management strategies, comorbid conditions, and clinical outcomes of all the COVID-19 patients. <mark class=\"stats\">In the AMI group, in addition to antiviral and antibiotic therapies, cardioprotective medications such as amiodarone and cedilla were used by four patients to improve the cardiac function</mark>. However, the non-definite AMI patients with and without cardiac markers abnormalities did not use cardioprotective medication"
+        },
+        {
+            "participant": "patients",
+            "number": 53,
+            "context": "However, the non-definite AMI patients with and without cardiac markers abnormalities did not use cardioprotective medication. <mark class=\"stats\">All the 53 patients were administered nasal cannula oxygen therapy during admission for respiratory support; non-invasive ventilation or high-flow nasal cannula oxygen therapy was performed for five AMI and three non-definite AMI patients with cardiac marker abnormalities</mark>. Notably, in the AMI group, invasive mechanical ventilation was used in three patients and ECMO in one patient due to extremely severe ARDS"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "All the 53 patients were administered nasal cannula oxygen therapy during admission for respiratory support; non-invasive ventilation or high-flow nasal cannula oxygen therapy was performed for five AMI and three non-definite AMI patients with cardiac marker abnormalities. <mark class=\"stats\">Notably, in the AMI group, invasive mechanical ventilation was used in three patients and ECMO in one patient due to extremely severe ARDS</mark>. ARDS occurred in all the six AMI patients and four non-definite AMI patients with cardiac marker abnormalities"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 6,
+            "context": "Notably, in the AMI group, invasive mechanical ventilation was used in three patients and ECMO in one patient due to extremely severe ARDS. <mark class=\"stats\">ARDS occurred in all the six AMI patients and four non-definite AMI patients with cardiac marker abnormalities</mark>. Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001)"
+        },
+        {
+            "participant": "study patients",
+            "number": 53,
+            "context": "ARDS occurred in all the six AMI patients and four non-definite AMI patients with cardiac marker abnormalities. <mark class=\"stats\">Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001)</mark>. Moreover, a total of five AMI patients had AKI, and four of them used continuous renal replacement therapy"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 5,
+            "context": "Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001). <mark class=\"stats\">Moreover, a total of five AMI patients had AKI, and four of them used continuous renal replacement therapy</mark>. Importantly, all the six AMI patients had critically severe NCP and needed care in intensive care unit (ICU)"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 6,
+            "context": "Moreover, a total of five AMI patients had AKI, and four of them used continuous renal replacement therapy. <mark class=\"stats\">Importantly, all the six AMI patients had critically severe NCP and needed care in intensive care unit (ICU)</mark>. However, half of the patients with cardiac marker abnormalities (n=13, 54.17%) had the common NCP type, with only two (8.33%) of them having critically severe NCP needing ICU care"
+        },
+        {
+            "participant": "patients with cardiac marker abnormalities",
+            "number": 13,
+            "context": "Importantly, all the six AMI patients had critically severe NCP and needed care in intensive care unit (ICU). <mark class=\"stats\">However, half of the patients with cardiac marker abnormalities (n=13, 54.17%) had the common NCP type, with only two (8.33%) of them having critically severe NCP needing ICU care</mark>. Meanwhile, the majority of patients (n=21, 91.30%) in the without cardiac marker abnormalities group had the common NCP type (Figure 2)"
+        },
+        {
+            "participant": "patients",
+            "number": 21,
+            "context": "However, half of the patients with cardiac marker abnormalities (n=13, 54.17%) had the common NCP type, with only two (8.33%) of them having critically severe NCP needing ICU care. <mark class=\"stats\">Meanwhile, the majority of patients (n=21, 91.30%) in the without cardiac marker abnormalities group had the common NCP type (Figure 2)</mark>. Regarding clinical outcomes, in the AMI group, three patients died, two were still in admission, and one was discharged from hospital"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Meanwhile, the majority of patients (n=21, 91.30%) in the without cardiac marker abnormalities group had the common NCP type (Figure 2). <mark class=\"stats\">Regarding clinical outcomes, in the AMI group, three patients died, two were still in admission, and one was discharged from hospital</mark>. Conversely, a majority of non-definite AMI patients with (n=20, 83.33%) and without (n=21, 91.30%) cardiac marker abnormalities were discharged, with no case of death"
+        },
+        {
+            "participant": "data",
+            "number": 20,
+            "context": "Regarding clinical outcomes, in the AMI group, three patients died, two were still in admission, and one was discharged from hospital. <mark class=\"stats\">Conversely, a majority of non-definite AMI patients with (n=20, 83.33%) and without (n=21, 91.30%) cardiac marker abnormalities were discharged, with no case of death</mark>. Risk factors for AMI To determine the risk factors for AMI in the COVID-19 patients, a bivariate analysis of AMI occurrence with clinical data and laboratory findings was performed, showing that age (r=0.456, p=0.001), CRP levels (r=0.483, p<0.001), NCP severity (r=0.540, p<0.001), and presence of commodities (r=0.520, p<0.001) were associated with AMI occurrence (all p<0.05)"
+        },
+        {
+            "participant": "patients",
+            "number": 6,
+            "context": "Moreover, AMI was detected in 6 of the 53 hospitalized COVID-19 patients. <mark class=\"stats\">All the six patients had severe or critically severe NCP and required ICU care</mark>. Of the six AMI patients, three died, two remained hospitalized, and one was discharged"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 6,
+            "context": "All the six patients had severe or critically severe NCP and required ICU care. <mark class=\"stats\">Of the six AMI patients, three died, two remained hospitalized, and one was discharged</mark>. Notably, CRP levels, NCP severity, and underlying comorbidities were the major risk factors for AMI in the COVID-19 patients"
+        },
+        {
+            "participant": "cases",
+            "number": 41,
+            "context": "As shown in a recent report on 138 hospitalized COVID-19 patients,2 16.7% of the patients developed arrhythmia and 7.2% developed acute cardiac injury. <mark class=\"stats\">In another series of 41 cases of hospitalized COVID-19 patients, it has been reported that 5 (12%) patients were diagnosed with acute cardiac injury.2-5</mark>. Similar to the cardiovascular complications of COVID-19, those of SARS include hypotension, tachycardia, arrhythmias, systolic and diastolic dysfunctions, and sudden death, with tachycardia particularly being the commonest condition persistent in nearly 40% of patients during follow-up.[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 6,
+            "context": "However, case series reporting elevated levels of myocardial enzymes and myocardial injury markers remain limited for SARS and MERS. <mark class=\"stats\">Notably, although only six patients had clinically confirmed AMI based on strict inclusion criteria in our study, most patients had elevated levels of one or more cardiac injury biomarkers and LV diastolic dysfunction</mark>. Although long-term outcomes of COVID-19 patients with AMI need to be further validated, significantly more clinical attention should be paid to avoid underdiagnosis because of classic symptoms and because of the possible overshadowing of cardiac complications in the context of coronavirus, as cautioned by the ACC Clinical Bulletin.[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Recently, a case report showing pathological findings from a severely infected COVID-19 patient revealed no obvious histological changes in heart tissue; however, the conclusion that SARS-CoV-2 infection might not directly impair the heart is debatable because this finding was observed in only one patient without AMI-related clinical evidences.18. <mark class=\"stats\">Because the three patients in our study who died all had extremely elevated cardiac marker levels, acute heart failure may play a fatal role in multiple organ dysfunction and accelerate death</mark>. However, further evidence is urgently needed to assess the mechanism of cardiac damage in large-sample autopsy or biopsy studies"
+        },
+        {
+            "participant": "patients with confirmed COVID-19",
+            "number": 44672,
+            "context": "In our study, AMI usually occurred in COVID-19 patients with old age, underlying comorbidities, severe or critically severe NCP, and ARDS. <mark class=\"stats\">Among 44,672 patients with confirmed COVID-19, as reported in the China CDC Weekly on Feb 11, 2020, approximately 31.2% patients were aged >60 years</mark>. The overall case fatality rate was 2.3% (1,023 deaths); more importantly, the majority (81%) of deaths occurred in patients aged \u226560 years or in those with underlying medical conditions.[<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>]"
+        },
+        {
+            "participant": "AMI patients",
+            "number": 6,
+            "context": "The overall case fatality rate was 2.3% (1,023 deaths); more importantly, the majority (81%) of deaths occurred in patients aged \u226560 years or in those with underlying medical conditions.24. <mark class=\"stats\">Similarly, in our study, all the six AMI patients were aged >60 years and had one or more underlying conditions, including diabetes, hypertension, COPD, and cardiovascular diseases</mark>. As described in a retrospective study of 1,099 laboratory-confirmed cases, approximately 25.2% of the patients had at least one underlying disorder, such as hypertension and COPD, and an underlying disorder potentially acts as an important risk factor for poor outcomes.[<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>]"
+        },
+        {
+            "participant": "laboratory-confirmed cases",
+            "number": 1099,
+            "context": "Similarly, in our study, all the six AMI patients were aged >60 years and had one or more underlying conditions, including diabetes, hypertension, COPD, and cardiovascular diseases. <mark class=\"stats\">As described in a retrospective study of 1,099 laboratory-confirmed cases, approximately 25.2% of the patients had at least one underlying disorder, such as hypertension and COPD, and an underlying disorder potentially acts as an important risk factor for poor outcomes.25</mark>. We found that the severity of NCP was closely correlated with the AMI occurrence"
+        }
+    ],
+    "statistics": [
+        {
+            "p_value": "p<0.001",
+            "context": "All the six AMI patients were aged >60 years; five of them had two or more underlying comorbidities (hypertension, diabetes, cardiovascular diseases, and chronic obstructive pulmonary disease). <mark class=\"stats\">Novel coronavirus pneumonia (NCP) severity was higher in the AMI patients than in patients with non-definite AMI (p<0.001)</mark>. All the AMI patients required care in intensive care unit; of them, three died, two remain hospitalized"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Kruskal\u2013Wallis analysis, Chi-square test, and one-way analysis of variance were used for multiple group comparisons according to data characteristics</mark>",
+                "tests": [
+                    {
+                        "test": "Kruskal\u2013Wallis"
+                    },
+                    {
+                        "test": "Chi-square test"
+                    },
+                    {
+                        "test": "one-way analysis of variance"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Bivariate correlation was calculated using Pearson or Spearman method as appropriate to detect the potential risk factors for AMI</mark>",
+                "tests": [
+                    {
+                        "test": "Pearson"
+                    },
+                    {
+                        "test": "Spearman method"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">In all analyses, two-tailed p-values of <0.05 were considered significant</mark>",
+                "tests": [
+                    {
+                        "test": "two-tailed",
+                        "value": "<0.05"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p<0.001",
+            "context": "Almost all the patients\u2019 first onset symptoms were fever (n=47, 88.68%) and dry cough (n=41, 77.36%). <mark class=\"stats\">Furthermore, the mean systolic blood pressure of the AMI patients was higher than those of the other two groups (p<0.001)</mark>. Fifteen (28%) of all the patients had tachycardia"
+        },
+        {
+            "p_value": "p=0.001",
+            "context": "Fifteen (28%) of all the patients had tachycardia. <mark class=\"stats\">High occurrence of hypertension was detected in the AMI patients (total patients with hypertension: n=8, 15.09%; AMI group: n=4, 66.67%; cardiac marker abnormalities group: n=2, 8.33%; without cardiac marker abnormalities group: n=2, 8.69%; p=0.001)</mark>. Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001)"
+        },
+        {
+            "p_value": "p=0.001",
+            "context": "High occurrence of hypertension was detected in the AMI patients (total patients with hypertension: n=8, 15.09%; AMI group: n=4, 66.67%; cardiac marker abnormalities group: n=2, 8.33%; without cardiac marker abnormalities group: n=2, 8.69%; p=0.001). <mark class=\"stats\">Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001)</mark>. Additionally, diabetes (n=8, 15.09%) and COPD (n=3, 5.6%) were found in all the patients, with a higher tendency in the AMI group (diabetes: n=2 and COPD: n=2) than in the other two groups (Figure 1)"
+        },
+        {
+            "p_value": "p<0.001",
+            "context": "CRP levels of all the AMI patients were increased above the normal range (0\u20135 mg/l) on admission and were higher than those of the other two groups; however, CRP levels were also increased in some patients in the groups with (n=9, 39.13%; CRP: median, 14.70 mg/ml [IQR 9.51, 24.53]) and without (n=4, 16.67%; CRP: median, 5.36 mg/ml [IQR 1.27,9.16]) cardiac marker abnormalities. <mark class=\"stats\">D-dimer levels on admission were increased in the AMI patients (median, 1.65 \u03bcg/ml [IQR 1.23, 4.48]) and patients with abnormal cardiac markers (median, 0.79 \u03bcg/ml [IQR 0.62, 0.93]) and were higher than those in patients with normal cardiac markers (median, 0.55 \u03bcg/ml [IQR 0.46, 0.72]; p<0.001)</mark>. Initial white blood cell counts of all the patients were within the normal range (3.50\u20139.50 \u00d7 109/l)"
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "Initial lymphocyte counts of five (83.33%) AMI patients were decreased below the normal range (0.80\u20134.00 \u00d7 109/l); these counts were decreased in only nine (37.5%) and eight (34.78%) patients with and without cardiac marker abnormalities, respectively. <mark class=\"stats\">Furthermore, red blood cell count, hemoglobin level, and platelet count of the AMI group were lower than those of the other two groups (p<0.05); four (66.67%) AMI patients had procalcitonin levels above the normal range (0\u20130.5 ng/ml)</mark>. Cardiac marker, echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels"
+        },
+        {
+            "p_value": "p<0.05",
+            "context": "Cardiac marker, echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels. <mark class=\"stats\">Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix)</mark>. In the AMI group, cardiac marker levels continuously increased in three patients who died, with the levels being extremely high on the day of death (Figure S2 in supplementary appendix)"
+        },
+        {
+            "p_value": "p<0.001",
+            "context": "ARDS occurred in all the six AMI patients and four non-definite AMI patients with cardiac marker abnormalities. <mark class=\"stats\">Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001)</mark>. Moreover, a total of five AMI patients had AKI, and four of them used continuous renal replacement therapy"
+        },
+        {
+            "p_value": "p=0.001",
+            "context": "Conversely, a majority of non-definite AMI patients with (n=20, 83.33%) and without (n=21, 91.30%) cardiac marker abnormalities were discharged, with no case of death. <mark class=\"stats\">Risk factors for AMI To determine the risk factors for AMI in the COVID-19 patients, a bivariate analysis of AMI occurrence with clinical data and laboratory findings was performed, showing that age (r=0.456, p=0.001), CRP levels (r=0.483, p<0.001), NCP severity (r=0.540, p<0.001), and presence of commodities (r=0.520, p<0.001) were associated with AMI occurrence (all p<0.05)</mark>. Further analysis (Table S2 in supplementary appendix) demonstrated that increased CRP levels (OR, 1.186; 95CI% [1.047, 1.344]), representing the inflammatory condition of the body, may be a risk factor for AMI in COVID-19 patients"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Logistic regression analysis indicated that NCP severity was a risk factor for AMI in COVID-19 patients</mark>",
+                "tests": [
+                    {
+                        "test": "Logistic regression"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "intensive care unit",
+        "myocardial injury",
+        "cardiac dysfunction",
+        "severe acute respiratory syndrome",
+        "tachycardia",
+        "creatine kinase",
+        "computed tomography",
+        "Middle East respiratory syndrome",
+        "acute kidney injury",
+        "novel coronavirus pneumonia",
+        "Acute respiratory distress syndrome",
+        "respiratory syndrome",
+        "COVID-19",
+        "lactate dehydrogenase",
+        "COPD",
+        "coronavirus pneumonia",
+        "diastolic dysfunction",
+        "ACE2",
+        "myocarditis",
+        "cardiovascular complications",
+        "ami patient",
+        "left ventricular",
+        "cardiac injury",
+        "cardiovascular disease",
+        "underlying comorbiditie",
+        "coronavirus disease",
+        "myocardial enzyme",
+        "acute myocardial injury",
+        "pneumonia",
+        "clinical characteristics",
+        "cardiac complications",
+        "risk factor",
+        "C-reactive protein"
+    ],
+    "keyword_relevance": {
+        "acute myocardial injury": 0.23622047244094488,
+        "COVID-19": 0.13910761154855644,
+        "novel coronavirus pneumonia": 0.07611548556430446,
+        "severe acute respiratory syndrome": 0.07086614173228346,
+        "C-reactive protein": 0.03412073490813648,
+        "Acute respiratory distress syndrome": 0.031496062992125984,
+        "risk factor": 0.031496062992125984,
+        "left ventricular": 0.028871391076115485,
+        "intensive care unit": 0.023622047244094488,
+        "myocardial injury": 0.02099737532808399,
+        "respiratory syndrome": 0.02099737532808399,
+        "cardiovascular disease": 0.02099737532808399,
+        "pneumonia": 0.02099737532808399,
+        "computed tomography": 0.01837270341207349,
+        "Middle East respiratory syndrome": 0.01837270341207349,
+        "COPD": 0.01837270341207349,
+        "underlying comorbiditie": 0.01837270341207349,
+        "myocardial enzyme": 0.01837270341207349,
+        "clinical characteristics": 0.01837270341207349,
+        "tachycardia": 0.015748031496062992,
+        "acute kidney injury": 0.015748031496062992,
+        "coronavirus pneumonia": 0.015748031496062992,
+        "diastolic dysfunction": 0.015748031496062992,
+        "cardiac injury": 0.013123359580052493,
+        "ACE2": 0.010498687664041995,
+        "myocarditis": 0.010498687664041995,
+        "cardiac complications": 0.010498687664041995,
+        "cardiac dysfunction": 0.007874015748031496,
+        "creatine kinase": 0.007874015748031496,
+        "lactate dehydrogenase": 0.005249343832020997,
+        "cardiovascular complications": 0.005249343832020997,
+        "ami patient": 0.0,
+        "coronavirus disease": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The widespread outbreak of the Coronavirus Disease 2019 (COVID-19, previously known as 2019-nCoV) in China is a big challenge for public health and medical care.",
+        "Special medical attention should be paid to COVID-19 patients with cardiac complications and underlying cardiovascular diseases.",
+        "Detailed clinical characteristics of COVID-19 patients with cardiac involvement, especially those with AMI, have not been investigated in detail.",
+        "The authors aimed to describe the clinical characteristics of COVID-19 patients with AMI and to further determine the risk factors for AMI in them",
+        "<h2 style=\"display: inline\">Methods:</h2> Study population<br/><br/>The institutional ethics board of the institutes approved this study (No 2020.43).",
+        "NCP types were classified as mild, common, severe, and critically severe according to the COVID-19 patient management guideline issued on February 8, 2020.11",
+        "<h2 style=\"display: inline\">Results:</h2> Cardiac complications were found in 42 of the 53 (79.25%) patients: tachycardia (n=15), electrocardiography abnormities (n=11), diastolic dysfunction (n=20), elevated myocardial enzymes (n=30), and AMI (n=6).",
+        "Multivariate analyses showed that C-reactive protein (CRP) levels, NCP severity, and underlying comorbidities were the risk factors for cardiac abnormalities in COVID-19 patients.",
+        "Echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels.",
+        "Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix).",
+        "It is worth mentioning that the presence of comorbidities (OR, 4.336; 95CI% [1.11, 38.55]) may be the most critical risk factor for AMI in COVID-19 patients",
+        "<h2 style=\"display: inline\">Conclusion:</h2> This is the first study to show that cardiac abnormalities including tachycardia (28%), elevated myocardial enzyme levels (56.6%), cardiac dysfunction (37.7%), and even<br/><br/>AMI (11.3%) are common in COVID-19 patients.",
+        "Most of the COVID-19 patients with AMI had severe or critically severe NCP and high fatality rate, but long-term follow-up should be performed to determine adverse cardiac events in the patients who could not be diagnosed with MI but had elevated levels of one or more myocardial enzymes and myocardial injury markers.",
+        "CRP level elevation, NCP severity, and underlying cardiovascular diseases are the major risk factors for AMI in these patients.Cardiac complications are common in COVID-19 patients.",
+        "Elevated CRP levels, underlying comorbidities, and NCP severity are the main risk factors for cardiac complications in COVID-19 patients"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The widespread outbreak of the Coronavirus Disease 2019 (COVID-19, previously known as 2019-nCoV) in China is a big challenge for public health and medical care.",
+            "Special medical attention should be paid to COVID-19 patients with cardiac complications and underlying cardiovascular diseases.",
+            "Detailed clinical characteristics of COVID-19 patients with cardiac involvement, especially those with AMI, have not been investigated in detail.",
+            "The authors aimed to describe the clinical characteristics of COVID-19 patients with AMI and to further determine the risk factors for AMI in them"
+        ],
+        "Methods": [
+            "Study population<br/><br/>The institutional ethics board of the institutes approved this study (No 2020.43).",
+            "NCP types were classified as mild, common, severe, and critically severe according to the COVID-19 patient management guideline issued on February 8, 2020.11"
+        ],
+        "Results": [
+            "Cardiac complications were found in 42 of the 53 (79.25%) patients: tachycardia (n=15), electrocardiography abnormities (n=11), diastolic dysfunction (n=20), elevated myocardial enzymes (n=30), and AMI (n=6).",
+            "Multivariate analyses showed that C-reactive protein (CRP) levels, NCP severity, and underlying comorbidities were the risk factors for cardiac abnormalities in COVID-19 patients.",
+            "Echo, and ECG abnormalities Over half (n=30, 56.6%) of the COVID-19 patients exhibited elevated cardiac marker levels.",
+            "Cardiac marker levels were higher in the AMI and non-definite AMI patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix).",
+            "It is worth mentioning that the presence of comorbidities (OR, 4.336; 95CI% [1.11, 38.55]) may be the most critical risk factor for AMI in COVID-19 patients"
+        ],
+        "Conclusion": [
+            "This is the first study to show that cardiac abnormalities including tachycardia (28%), elevated myocardial enzyme levels (56.6%), cardiac dysfunction (37.7%), and even<br/><br/>AMI (11.3%) are common in COVID-19 patients.",
+            "Most of the COVID-19 patients with AMI had severe or critically severe NCP and high fatality rate, but long-term follow-up should be performed to determine adverse cardiac events in the patients who could not be diagnosed with MI but had elevated levels of one or more myocardial enzymes and myocardial injury markers.",
+            "CRP level elevation, NCP severity, and underlying cardiovascular diseases are the major risk factors for AMI in these patients.Cardiac complications are common in COVID-19 patients.",
+            "Elevated CRP levels, underlying comorbidities, and NCP severity are the main risk factors for cardiac complications in COVID-19 patients"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "3",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "3. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020;395(10223):497-506.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20Wang%20Y%20Li%20X%20Ren%20L%20Zhao%20J%20Hu%20Y%20Zhang%20L%20Fan%20G%20Xu%20J%20Gu%20X%20Cheng%20Z%20Yu%20T%20Xia%20J%20Wei%20Y%20Wu%20W%20Xie%20X%20Yin%20W%20Li%20H%20Liu%20M%20Xiao%20Y%20Gao%20H%20Guo%20L%20Xie%20J%20Wang%20G%20Jiang%20R%20Gao%20Z%20Jin%20Q%20Wang%20J%20Cao%20B%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%20202039510223497506",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20Wang%20Y%20Li%20X%20Ren%20L%20Zhao%20J%20Hu%20Y%20Zhang%20L%20Fan%20G%20Xu%20J%20Gu%20X%20Cheng%20Z%20Yu%20T%20Xia%20J%20Wei%20Y%20Wu%20W%20Xie%20X%20Yin%20W%20Li%20H%20Liu%20M%20Xiao%20Y%20Gao%20H%20Guo%20L%20Xie%20J%20Wang%20G%20Jiang%20R%20Gao%20Z%20Jin%20Q%20Wang%20J%20Cao%20B%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%20202039510223497506",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20Wang%20Y%20Li%20X%20Ren%20L%20Zhao%20J%20Hu%20Y%20Zhang%20L%20Fan%20G%20Xu%20J%20Gu%20X%20Cheng%20Z%20Yu%20T%20Xia%20J%20Wei%20Y%20Wu%20W%20Xie%20X%20Yin%20W%20Li%20H%20Liu%20M%20Xiao%20Y%20Gao%20H%20Guo%20L%20Xie%20J%20Wang%20G%20Jiang%20R%20Gao%20Z%20Jin%20Q%20Wang%20J%20Cao%20B%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%20202039510223497506"
+        },
+        {
+            "id": "4",
+            "alt_id": "Zhu_et+al_2019_a",
+            "entry": "4. Na Zhu, Dingyu Zhang, Wenling Wang, Xingwang Li, Bo Yang, Jingdong Song, Xiang Zhao, Baoying Huang, Weifeng Shi, Roujian Lu, Peihua Niu, Faxian Zhan, Xuejun Ma, Dayan Wang, Wenbo Xu, Guizhen Wu, George F. Gao, D.Phil, Wenjie Tan. for the China Novel Coronavirus Investigating and Research Team. A novel coronavirus from patients with pneumonia in China, 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%2C%20Na%20Zhang%2C%20Dingyu%20Wang%2C%20Wenling%20Li%2C%20Xingwang%20for%20the%20China%20Novel%20Coronavirus%20Investigating%20and%20Research%20Team.%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019"
+        },
+        {
+            "id": "6",
+            "alt_id": "Newby_et+al_2012_a",
+            "entry": "6. Newby LK, Jesse RL, Babb JD, Christenson RH, De Fer TM, Diamond GA, Fesmire FM, Geraci SA, Gersh BJ, Larsen GC, Kaul S, McKay CR, Philippides GJ, Weintraub WS. ACCF 2012 expert consensus document on practical clinical considerations in the interpretation of troponin elevations: a report of the American College of Cardiology Foundation task force on Clinical Expert Consensus Documents. J Am Coll Cardiol. 2012;60(23):2427-63.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Newby%20LK%20Jesse%20RL%20Babb%20JD%20Christenson%20RH%20De%20Fer%20TM%20Diamond%20GA%20Fesmire%20FM%20Geraci%20SA%20Gersh%20BJ%20Larsen%20GC%20Kaul%20S%20McKay%20CR%20Philippides%20GJ%20Weintraub%20WS%20ACCF%202012%20expert%20consensus%20document%20on%20practical%20clinical%20considerations%20in%20the%20interpretation%20of%20troponin%20elevations%20a%20report%20of%20the%20American%20College%20of%20Cardiology%20Foundation%20task%20force%20on%20Clinical%20Expert%20Consensus%20Documents%20J%20Am%20Coll%20Cardiol%2020126023242763",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Newby%20LK%20Jesse%20RL%20Babb%20JD%20Christenson%20RH%20De%20Fer%20TM%20Diamond%20GA%20Fesmire%20FM%20Geraci%20SA%20Gersh%20BJ%20Larsen%20GC%20Kaul%20S%20McKay%20CR%20Philippides%20GJ%20Weintraub%20WS%20ACCF%202012%20expert%20consensus%20document%20on%20practical%20clinical%20considerations%20in%20the%20interpretation%20of%20troponin%20elevations%20a%20report%20of%20the%20American%20College%20of%20Cardiology%20Foundation%20task%20force%20on%20Clinical%20Expert%20Consensus%20Documents%20J%20Am%20Coll%20Cardiol%2020126023242763",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Newby%20LK%20Jesse%20RL%20Babb%20JD%20Christenson%20RH%20De%20Fer%20TM%20Diamond%20GA%20Fesmire%20FM%20Geraci%20SA%20Gersh%20BJ%20Larsen%20GC%20Kaul%20S%20McKay%20CR%20Philippides%20GJ%20Weintraub%20WS%20ACCF%202012%20expert%20consensus%20document%20on%20practical%20clinical%20considerations%20in%20the%20interpretation%20of%20troponin%20elevations%20a%20report%20of%20the%20American%20College%20of%20Cardiology%20Foundation%20task%20force%20on%20Clinical%20Expert%20Consensus%20Documents%20J%20Am%20Coll%20Cardiol%2020126023242763"
+        },
+        {
+            "id": "7",
+            "alt_id": "Li_et+al_2003_a",
+            "entry": "7. Li SS, Cheng CW, Fu CL, Chan YH, Lee MP, Chan JW, Yiu SF. Left ventricular performance in patients with severe acute respiratory syndrome: a 30-day echocardiographic follow-up study. Circulation. 2003;108(15):1798-803.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20S.S.%20Cheng%2C%20C.W.%20Fu%2C%20C.L.%20Chan%2C%20Y.H.%20Left%20ventricular%20performance%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%3A%20a%2030-day%20echocardiographic%20follow-up%20study%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20S.S.%20Cheng%2C%20C.W.%20Fu%2C%20C.L.%20Chan%2C%20Y.H.%20Left%20ventricular%20performance%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%3A%20a%2030-day%20echocardiographic%20follow-up%20study%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20S.S.%20Cheng%2C%20C.W.%20Fu%2C%20C.L.%20Chan%2C%20Y.H.%20Left%20ventricular%20performance%20in%20patients%20with%20severe%20acute%20respiratory%20syndrome%3A%20a%2030-day%20echocardiographic%20follow-up%20study%202003"
+        },
+        {
+            "id": "8",
+            "alt_id": "Alexander_et+al_1993_a",
+            "entry": "8. Alexander LK, Keene BW, Small JD, Yount B Jr, Baric RS. Electrocardiographic changes following rabbit coronavirus-induced myocarditis and dilated cardiomyopathy. Adv Exp Med Biol. 1993;342:365-70.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Alexander%2C%20L.K.%20Keene%2C%20B.W.%20Small%2C%20J.D.%20B%2C%20Jr%2C%20Yount%20Electrocardiographic%20changes%20following%20rabbit%20coronavirus-induced%20myocarditis%20and%20dilated%20cardiomyopathy%201993",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Alexander%2C%20L.K.%20Keene%2C%20B.W.%20Small%2C%20J.D.%20B%2C%20Jr%2C%20Yount%20Electrocardiographic%20changes%20following%20rabbit%20coronavirus-induced%20myocarditis%20and%20dilated%20cardiomyopathy%201993",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Alexander%2C%20L.K.%20Keene%2C%20B.W.%20Small%2C%20J.D.%20B%2C%20Jr%2C%20Yount%20Electrocardiographic%20changes%20following%20rabbit%20coronavirus-induced%20myocarditis%20and%20dilated%20cardiomyopathy%201993"
+        },
+        {
+            "id": "9",
+            "alt_id": "Yu_et+al_2006_a",
+            "entry": "9. Yu CM, Wong RS, Wu EB, Kong SL, Wong J, Yip GW, Soo YO, Chiu ML, Chan YS, Hui D, Lee N, Wu A, Leung CB, Sung JJ. Cardiovascular complications of severe acute respiratory syndrome. Postgrad Med J. 2006 Feb;82(964):140-4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yu%2C%20C.M.%20Wong%2C%20R.S.%20Wu%2C%20E.B.%20Kong%2C%20S.L.%20Cardiovascular%20complications%20of%20severe%20acute%20respiratory%20syndrome%202006-02",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yu%2C%20C.M.%20Wong%2C%20R.S.%20Wu%2C%20E.B.%20Kong%2C%20S.L.%20Cardiovascular%20complications%20of%20severe%20acute%20respiratory%20syndrome%202006-02",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yu%2C%20C.M.%20Wong%2C%20R.S.%20Wu%2C%20E.B.%20Kong%2C%20S.L.%20Cardiovascular%20complications%20of%20severe%20acute%20respiratory%20syndrome%202006-02"
+        },
+        {
+            "id": "15",
+            "alt_id": "Alhogbani_2016_a",
+            "entry": "15. Alhogbani T. Acute myocarditis associated with novel Middle east respiratory syndrome coronavirus. Ann Saudi Med. 2016;36(1):78\u201380.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Alhogbani%2C%20T.%20Acute%20myocarditis%20associated%20with%20novel%20Middle%20east%20respiratory%20syndrome%20coronavirus%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Alhogbani%2C%20T.%20Acute%20myocarditis%20associated%20with%20novel%20Middle%20east%20respiratory%20syndrome%20coronavirus%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Alhogbani%2C%20T.%20Acute%20myocarditis%20associated%20with%20novel%20Middle%20east%20respiratory%20syndrome%20coronavirus%202016"
+        },
+        {
+            "id": "17",
+            "alt_id": "Huang_et+al_January 24,_b",
+            "entry": "17. Chaolin Huang, Yeming Wang, Xingwang Li, Lili Ren, Jianping Zhao, Yi Hu, Li Zhang, Guohui Fan, Jiuyang Xu, Xiaoying Gu, Zhenshun Cheng, Ting Yu, Jiaan Xia, Yuan Wei, Wenjuan Wu, Xuelei Xie, Wen Yin, Hui Li, Min Liu, Yan Xiao, Hong Gao, Li Guo, Jungang Xie, Guangfa Wang, Rongmeng Jiang, Zhancheng Gao, Qi Jin, Jianwei Wang, Bin Cao. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. January 24, 2020 https://doi.org/10.1016/S0140-6736(20)30183-5.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30183-5"
+        },
+        {
+            "id": "20",
+            "alt_id": "Oudit_et+al_2009_a",
+            "entry": "20. Oudit GY, Kassiri Z, Jiang C, Liu PP, Poutanen SM, Penninger JM, Butany J. SARS-coronavirus modulation of myocardial ACE2 expression and inflammation in patients with SARS. Eur J Clin Invest. 2009;39(7):618-25.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Oudit%2C%20G.Y.%20Kassiri%2C%20Z.%20Jiang%2C%20C.%20Liu%2C%20P.P.%20SARS-coronavirus%20modulation%20of%20myocardial%20ACE2%20expression%20and%20inflammation%20in%20patients%20with%20SARS%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Oudit%2C%20G.Y.%20Kassiri%2C%20Z.%20Jiang%2C%20C.%20Liu%2C%20P.P.%20SARS-coronavirus%20modulation%20of%20myocardial%20ACE2%20expression%20and%20inflammation%20in%20patients%20with%20SARS%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Oudit%2C%20G.Y.%20Kassiri%2C%20Z.%20Jiang%2C%20C.%20Liu%2C%20P.P.%20SARS-coronavirus%20modulation%20of%20myocardial%20ACE2%20expression%20and%20inflammation%20in%20patients%20with%20SARS%202009"
+        },
+        {
+            "id": "21",
+            "alt_id": "Hamming_et+al_2004_a",
+            "entry": "21. Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis. J Pathol. 2004;203(2):631-7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hamming%2C%20I.%20Timens%2C%20W.%20Bulthuis%2C%20M.L.%20Lely%2C%20A.T.%20Tissue%20distribution%20of%20ACE2%20protein%2C%20the%20functional%20receptor%20for%20SARS%20coronavirus.%20A%20first%20step%20in%20understanding%20SARS%20pathogenesis%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hamming%2C%20I.%20Timens%2C%20W.%20Bulthuis%2C%20M.L.%20Lely%2C%20A.T.%20Tissue%20distribution%20of%20ACE2%20protein%2C%20the%20functional%20receptor%20for%20SARS%20coronavirus.%20A%20first%20step%20in%20understanding%20SARS%20pathogenesis%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hamming%2C%20I.%20Timens%2C%20W.%20Bulthuis%2C%20M.L.%20Lely%2C%20A.T.%20Tissue%20distribution%20of%20ACE2%20protein%2C%20the%20functional%20receptor%20for%20SARS%20coronavirus.%20A%20first%20step%20in%20understanding%20SARS%20pathogenesis%202004"
+        },
+        {
+            "id": "22",
+            "alt_id": "Wu_2019_a",
+            "entry": "22. Wu, C, Zheng, M. Single-Cell RNA Expression Profiling Shows that ACE2, the Putative Receptor of Wuhan 2019-nCoV, Has Significant Expression in the Nasal, Mouth, Lung and Colon Tissues, and Tends to be Co-Expressed with HLA-DRB1 in the Four Tissues. Preprints 2020, 2020020247.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%20C%20Zheng%20M%20SingleCell%20RNA%20Expression%20Profiling%20Shows%20that%20ACE2%20the%20Putative%20Receptor%20of%20Wuhan%202019nCoV%20Has%20Significant%20Expression%20in%20the%20Nasal%20Mouth%20Lung%20and%20Colon%20Tissues%20and%20Tends%20to%20be%20CoExpressed%20with%20HLADRB1%20in%20the%20Four%20Tissues%20Preprints%202020%202020020247",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%20C%20Zheng%20M%20SingleCell%20RNA%20Expression%20Profiling%20Shows%20that%20ACE2%20the%20Putative%20Receptor%20of%20Wuhan%202019nCoV%20Has%20Significant%20Expression%20in%20the%20Nasal%20Mouth%20Lung%20and%20Colon%20Tissues%20and%20Tends%20to%20be%20CoExpressed%20with%20HLADRB1%20in%20the%20Four%20Tissues%20Preprints%202020%202020020247",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%20C%20Zheng%20M%20SingleCell%20RNA%20Expression%20Profiling%20Shows%20that%20ACE2%20the%20Putative%20Receptor%20of%20Wuhan%202019nCoV%20Has%20Significant%20Expression%20in%20the%20Nasal%20Mouth%20Lung%20and%20Colon%20Tissues%20and%20Tends%20to%20be%20CoExpressed%20with%20HLADRB1%20in%20the%20Four%20Tissues%20Preprints%202020%202020020247"
+        },
+        {
+            "id": "23",
+            "alt_id": "de_Wit_et+al_2016_a",
+            "entry": "23. de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS and MERS: recent insights into emerging coronaviruses. Nat Rev Microbiol. 2016;14 (8):523-534. doi:10.1038/nrmicro.2016.81.",
+            "crossref": "https://dx.doi.org/10.1038/nrmicro.2016.81",
+            "scite": "https://scite.ai/reports/10.1038/nrmicro.2016.81",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nrmicro.2016.81"
+        },
+        {
+            "id": "24",
+            "alt_id": "24._2019_a",
+            "entry": "24. The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020. China CDC Weekly, 2020, 2(8): 113-122. http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51.",
+            "url": "http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=The%20Novel%20Coronavirus%20Pneumonia%20Emergency%20Response%20Epidemiology%20Team%20The%20Epidemiological%20Characteristics%20of%20an%20Outbreak%20of%202019%20Novel%20Coronavirus%20Diseases%20COVID19%20%20China%202020%20China%20CDC%20Weekly%202020%2028%20113122%20httpweeklychinacdccnenarticleide53946e2c6c441e99a9bfea8db1a8f51",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=The%20Novel%20Coronavirus%20Pneumonia%20Emergency%20Response%20Epidemiology%20Team%20The%20Epidemiological%20Characteristics%20of%20an%20Outbreak%20of%202019%20Novel%20Coronavirus%20Diseases%20COVID19%20%20China%202020%20China%20CDC%20Weekly%202020%2028%20113122%20httpweeklychinacdccnenarticleide53946e2c6c441e99a9bfea8db1a8f51"
+        },
+        {
+            "id": "25",
+            "alt_id": "Guan_et+al_2020_a",
+            "entry": "25. Wei-jie Guan, Zheng-yi Ni,Yu Hu, Wen-hua Liang, Chun-quan Ou, Jian-xing He, Lei Liu, Hong Shan, Chun-liang Lei, David S.C. Hui, Bin Du, Lan-juan Li, Guang Zeng, Kwok-Yung Yuen, Ru-chong Chen,Chun-li Tang, Tao Wang, Ping-yan Chen, Jie Xiang, Shi-yue Li, Jin-lin Wang, Zi-jing Liang, Yi-xiang Peng, Li Wei, Yong Liu, Ya-hua Hu, Peng Peng, Jian-ming Wang, Ji-yang Liu, Zhong Chen, Gang Li, Zhi-jian Zheng, Shao-qin Qiu, Jie Luo, Chang-jiang Ye, Shao-yong Zhu,and Nan-shan Zhong. for the China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. February 28, 2020.DOI: 10.1056/NEJMoa2002032.",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2002032",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2002032"
+        },
+        {
+            "id": "26",
+            "alt_id": "Yu_et+al_2006_b",
+            "entry": "26. Yu CM, Wong RS, Wu EB, Kong SL, Wong J, Yip GW, Soo YO, Chiu ML, Chan YS, Hui D, Lee N, Wu A, Leung CB, Sung JJ. Cardiovascular complications of severe acute respiratory syndrome. Postgrad Med J. 2006;82(964):14.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yu%2C%20C.M.%20Wong%2C%20R.S.%20Wu%2C%20E.B.%20Kong%2C%20S.L.%20Cardiovascular%20complications%20of%20severe%20acute%20respiratory%20syndrome%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yu%2C%20C.M.%20Wong%2C%20R.S.%20Wu%2C%20E.B.%20Kong%2C%20S.L.%20Cardiovascular%20complications%20of%20severe%20acute%20respiratory%20syndrome%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yu%2C%20C.M.%20Wong%2C%20R.S.%20Wu%2C%20E.B.%20Kong%2C%20S.L.%20Cardiovascular%20complications%20of%20severe%20acute%20respiratory%20syndrome%202006"
+        }
+    ],
+    "facts": [
+        "acute myocardial injury in COVID-19 patients has not been previously investigated in detail",
+        "Novel coronavirus pneumonia severity was higher in the AMI patients",
+        "several latest studies have reported the clinical characteristics of hospitalized patients with 2019 novel coronavirus pneumonia",
+        "Middle East respiratory syndrome have been linked to acute myocarditis",
+        "special medical attention should be paid to COVID-19 patients with cardiac complications",
+        "offering early clinical guidance given the current uncertainty over COVID-19",
+        "53 laboratory-confirmed COVID-19 patients hospitalized between January 02",
+        "critically severe according to the COVID-19 patient management guideline issued on February 8",
+        "24 patients were defined as the cardiac marker abnormalities group",
+        "Cardiac markers of 23 patients were within the normal range",
+        "No exact epidemiological link was found between the first case",
+        "myocardial injury markers remain limited for SARS and MERS",
+        "clinically confirmed AMI based on strict inclusion criteria in our study",
+        "that severe acute respiratory syndrome coronavirus 2 infection is associated with cellular immune deficiency and coagulation activation.[17",
+        "cytokine storm induced by viral invasion",
+        "the heart is debatable because this finding was observed in",
+        "acute heart failure may play a fatal role in multiple organ dysfunction",
+        "further evidence is urgently needed to assess the mechanism of cardiac damage",
+        "Previous studies have indicated that SARS-CoV can mediate MI and damage associated with the downregulation",
+        "which has been detected in COVID-19 patients.[19-22",
+        "full-genome sequencing and phylogenic analysis has shown that SARS-CoV-2 is similar to",
+        "the pathophysiological mechanism of cardiac infection or damage caused by SARS-CoV-2 needs to be further validated in future studies.[23",
+        "AMI usually occurred in COVID-19 patients with old age",
+        "the majority of deaths occurred in patients aged \u226560 years",
+        "an underlying disorder potentially acts as an important risk factor",
+        "that the severity of NCP was closely correlated with the AMI occurrence",
+        "the right ventricle function impairments caused by respiratory dysfunction.[26",
+        "Logistic regression analysis indicated that NCP severity was a risk factor",
+        "the outcomes of these patients need to be further determined in long-term follow-up studies",
+        "our data showed the clinical characteristics of AMI induced by COVID-19",
+        "the tissue characteristics in myocardial damage should be further demonstrated via cardiac magnetic resonance imaging examination",
+        "determine adverse cardiac events in the patients who could not be diagnosed with MI",
+        "that cardiovascular complications are common in COVID-19 patients",
+        "Cardiac complications are common in COVID-19 patients",
+        "The widespread outbreak of the Coronavirus Disease 2019 in China is a big challenge for public health",
+        "Special medical attention should be paid to COVID-19 patients with cardiac complications",
+        "Multivariate analyses showed that C-reactive protein levels",
+        "Cardiac marker levels were higher in the AMI",
+        "worth mentioning that the presence of comorbidities may be the",
+        "the first study to show that cardiac abnormalities including tachycardia",
+        "AMI are common in COVID-19 patients"
+    ],
+    "claims": [
+        "We investigated the clinical characteristics of COVID-19 patients with AMI and determined the risk factors for AMI in them",
+        "We aimed to describe the clinical characteristics of COVID-19 patients with AMI and to further determine the risk factors for AMI in them",
+        "We found that the severity of NCP was closely correlated with the AMI occurrence",
+        "We found that cardiovascular complications are common in COVID-19 patients and include tachycardia, elevated myocardial enzyme levels, cardiac dysfunction, and even AMI"
+    ],
+    "findings": [
+        "Novel coronavirus pneumonia (NCP) severity was higher in the AMI patients than in patients with non-definite AMI (p<0.001)",
+        "Furthermore, the mean systolic blood pressure of the AMI patients was higher than those of the other two groups (p<0.001)",
+        "High occurrence of hypertension was detected in the AMI patients (total patients with hypertension: n=8, 15.09%; AMI group: n=4, 66.67%; cardiac marker abnormalities group: n=2, 8.33%; without cardiac marker abnormalities group: n=2, 8.69%; p=0.001)",
+        "Cardiovascular diseases were more frequently found in the AMI patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting (total patients with cardiovascular disease: n=6, 11.32%; AMI group: n=4, 66.67%), compared with the groups with and without cardiac marker abnormalities (p=0.001)",
+        "D-dimer levels on admission were increased in the AMI patients (median, 1.65 \u03bcg/ml [IQR 1.23, 4.48]) and patients with abnormal cardiac markers (median, 0.79 \u03bcg/ml [IQR 0.62, 0.93]) and were higher than those in patients with normal cardiac markers (median, 0.55 \u03bcg/ml [IQR 0.46, 0.72]; p<0.001)",
+        "Hypoxemia was a common complication that affected 19 (35.85%) of the 53 study patients, with a significant difference in the number of affected patients between the AMI (n=6, 100%) and non-definite AMI with cardiac marker abnormalities (n=10, 41.67%) groups and the without cardiac marker abnormalities group (n=3, 13.04%; p<0.001)",
+        "Risk factors for AMI To determine the risk factors for AMI in the COVID-19 patients, a bivariate analysis of AMI occurrence with clinical data and laboratory findings was performed, showing that age (r=0.456, p=0.001), CRP levels (r=0.483, p<0.001), NCP severity (r=0.540, p<0.001), and presence of commodities (r=0.520, p<0.001) were associated with AMI occurrence (all p<0.05)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "Several latest studies have reported the clinical characteristics of hospitalized patients with 2019 novel coronavirus pneumonia (NCP), including signs, symptoms, laboratory test results, imaging features, therapeutic strategies and effects, and multiple organ dysfunction.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]",
+        "Special medical attention should be paid to COVID-19 patients with cardiac complications and underlying cardiovascular diseases",
+        "High occurrence of hypertension was detected in the acute myocardial injury patients",
+        "Cardiovascular diseases were more frequently found in the acute myocardial injury patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting, compared with the groups with and without cardiac marker abnormalities (p=0.001)",
+        "Cardiac marker levels were higher in the acute myocardial injury and non-definite acute myocardial injury patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix)",
+        "It is worth mentioning that the presence of comorbidities (OR, 4.336; 95CI% [1.11, 38.55]) may be the most critical risk factor for acute myocardial injury in COVID-19 patients. This is the first study to show that cardiac abnormalities including tachycardia (28%), elevated myocardial enzyme levels (56.6%), cardiac dysfunction (37.7%), and even",
+        "Case series reporting elevated levels of myocardial enzymes and myocardial injury markers remain limited for severe acute respiratory syndrome and Middle East respiratory syndrome",
+        "Only six patients had clinically confirmed acute myocardial injury based on strict inclusion criteria in our study, most patients had elevated levels of one or more cardiac injury biomarkers and left ventricular diastolic dysfunction",
+        "acute myocardial injury usually occurred in COVID-19 patients with old age, underlying comorbidities, severe or critically severe novel coronavirus pneumonia, and Acute respiratory distress syndrome",
+        "Logistic regression analysis indicated that novel coronavirus pneumonia severity was a risk factor for acute myocardial injury in COVID-19 patients",
+        "Our data showed the clinical characteristics of acute myocardial injury induced by COVID-19, including the clinical presentations, electrophysiological abnormality, myocardial enzyme and myocardial injury marker levels, and cardiac dysfunction and enlargement",
+        "Most of the COVID-19 patients with acute myocardial injury had severe or critically severe novel coronavirus pneumonia and high fatality rate, but long-term follow-up should be performed to determine adverse cardiac events in the patients who could not be diagnosed with MI but had elevated levels of one or more myocardial enzymes and myocardial injury markers",
+        "We found that cardiovascular complications are common in COVID-19 patients and include tachycardia, elevated myocardial enzyme levels, cardiac dysfunction, and even acute myocardial injury"
+    ],
+    "top_statements": [
+        "The widespread outbreak of the Coronavirus Disease 2019 (COVID-19, previously known as 2019-nCoV) in China is a big challenge for public health and medical care",
+        "High occurrence of hypertension was detected in the acute myocardial injury patients",
+        "Cardiovascular diseases were more frequently found in the acute myocardial injury patients, all of whom had coronary artery disease, with one having prior coronary artery bypass grafting, compared with the groups with and without cardiac marker abnormalities (p=0.001)",
+        "Cardiac marker levels were higher in the acute myocardial injury and non-definite acute myocardial injury patients than in those without cardiac marker abnormities (p<0.05; Figure S1 in supplementary appendix)",
+        "Our data showed the clinical characteristics of acute myocardial injury induced by COVID-19, including the clinical presentations, electrophysiological abnormality, myocardial enzyme and myocardial injury marker levels, and cardiac dysfunction and enlargement",
+        "We found that cardiovascular complications are common in COVID-19 patients and include tachycardia, elevated myocardial enzyme levels, cardiac dysfunction, and even acute myocardial injury"
+    ],
+    "headline": "High occurrence of hypertension was detected in the acute myocardial injury patients",
+    "contexts": [],
+    "abbreviations": {
+        "AMI": "acute myocardial injury",
+        "NCP": "novel coronavirus pneumonia",
+        "CRP": "C-reactive protein",
+        "SARS": "severe acute respiratory syndrome",
+        "MERS": "Middle East respiratory syndrome",
+        "LDH": "lactate dehydrogenase",
+        "CK": "creatine kinase",
+        "CT": "computed tomography",
+        "ARDS": "Acute respiratory distress syndrome",
+        "AKI": "acute kidney injury",
+        "LV": "left ventricular",
+        "ICU": "intensive care unit"
+    }
+}

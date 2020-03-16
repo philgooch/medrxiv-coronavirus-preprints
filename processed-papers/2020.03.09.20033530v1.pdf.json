@@ -1,0 +1,570 @@
+{
+    "filename": "2020.03.09.20033530v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 555313,
+    "metadata": {
+        "title": "Protocol of a randomized controlled trial testing inhaled Nitric Oxide in mechanically ventilated patients with severe acute respiratory syndrome in COVID-19 (SARS-CoV-2).",
+        "author": "Chong Lei, Binxiao Su, Hailong Dong, Andrea Bellavia, Raffaele Di Fenza, Bijan Safaee Fakhr, Stefano Gianni, Luigi Giuseppe Grassi, Riccardo Pinciroli, Emanuele Vassena, Lorenzo Berra,. 1. Department of Anesthesiology and Perioperative Medicine, Xijing Hospital, the Fourth",
+        "date": 2020,
+        "affiliations": [
+            "Department of Anesthesiology and Perioperative Medicine, Xijing Hospital, the Fourth",
+            "Military Medicial University. Xi\u2019an, Shaanxi, China.",
+            "Intensive Care Unit, Department of Anesthesiology and Perioperative Medicine, Xijing",
+            "Hospital, the Fourth Military Medicial University. Xi\u2019an, Shaanxi, China.",
+            "Deparment of Environmental Health, Harvard T.H. Chan School of Public Health, Boston,",
+            "Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts General",
+            "Hospital, Boston, Massachusetts, USA."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.09.20033530",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.09.20033530v1.pdf"
+        },
+        "abstract": "Introduction. Severe acute respiratory syndrome (SARS-CoV-2) due to novel Coronavirus (2019-nCoV) related infection (COVID-19) is characterized by severe ventilation perfusion mismatch leading to refractory hypoxemia. To date, there is no specific treatment available for 2019-nCoV. Nitric oxide is a selective pulmonary vasodilator gas used as a rescue therapy in refractory hypoxemia due to acute respiratory distress syndrome (ARDS). In has also shown invitro and clinical evidence that inhaled nitric oxide gas (iNO) has antiviral activity against other strains of coronavirus. The primary aim of this study is to determine whether inhaled NO improves oxygenation in patients with hypoxic SARS-CoV2. This is a multicenter randomized controlled trial with 1:1 individual allocation. Patients will be blinded to the treatment.",
+        "references": "@article{huang-a,\n  author = {Huang, C.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {The Lancet},\n  volume = {2020},\n  pages = {395\u201310223},\n  more-authors = {true},\n  language = {}\n}\n@article{zhu-a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  volume = {2020},\n  pages = {382\u20138},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown-a,\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019.},\n  institution = {WHO}\n}\n@misc{w-a,\n  author = {W.H.O.},\n  title = {Coronavirus disease 2019 (COVID-19) Situation Report - 37. 2020},\n  language = {}\n}\n@article{wang2020a,\n  author = {Wang, D.},\n  title = {Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China},\n  journal = {JAMA},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{yang2020a,\n  author = {Yang, X.},\n  title = {Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study},\n  journal = {The Lancet Respiratory Medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{xu2020a,\n  author = {Xu, Z.},\n  title = {Pathological findings of COVID-19 associated with acute respiratory distress syndrome},\n  journal = {The Lancet Respiratory Medicine},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{gebistorf-a,\n  author = {Gebistorf, F.},\n  title = {Inhaled nitric oxide for acute respiratory distress syndrome (ARDS) in children and adults},\n  journal = {Cochrane Database Syst Rev},\n  volume = {2016},\n  pages = {002787},\n  more-authors = {true},\n  number = {6},\n  language = {}\n}\n@article{chen2004a,\n  author = {Chen, L.},\n  title = {Inhalation of nitric oxide in the treatment of severe acute respiratory syndrome: a rescue trial in Beijing},\n  journal = {Clin Infect Dis},\n  date = {2004},\n  pages = {39\u201310},\n  more-authors = {true},\n  language = {}\n}\n@article{keyaerts2004a,\n  author = {Keyaerts, E.},\n  title = {Inhibition of SARS-coronavirus infection in vitro by S-nitroso-Nacetylpenicillamine, a nitric oxide donor compound},\n  journal = {Int J Infect Dis},\n  date = {2004},\n  pages = {8\u20134},\n  more-authors = {true},\n  language = {}\n}\n@article{wright1999a,\n  author = {Wright, R.O. and Lewander, W.J. and Woolf, A.D.},\n  title = {Methemoglobinemia: Etiology, Pharmacology, and Clinical Management},\n  journal = {Annals of Emergency Medicine},\n  date = {1999},\n  pages = {34\u20135},\n  language = {}\n}\n@article{feiner2010a,\n  author = {Feiner, J.R. and Bickler, P.E.},\n  title = {Improved Accuracy of Methemoglobin Detection by Pulse CO-Oximetry During Hypoxia},\n  journal = {Anesthesia & Analgesia},\n  date = {2010},\n  pages = {111\u20135},\n  language = {}\n}\n@article{lien2008a,\n  author = {Lien, T.-C.},\n  title = {Characteristic features and outcomes of severe acute respiratory syndrome found in severe acute respiratory syndrome intensive care unit patients},\n  journal = {Journal of Critical Care},\n  date = {2008},\n  pages = {23\u20134},\n  more-authors = {true},\n  language = {}\n}\n@article{talmor2008a,\n  author = {Talmor, D.},\n  title = {Mechanical Ventilation Guided by Esophageal Pressure in Acute Lung Injury},\n  journal = {New England Journal of Medicine},\n  date = {2008},\n  pages = {359\u201320},\n  more-authors = {true},\n  language = {}\n}\n",
+        "emails": [
+            "crystalleichong@126.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Huang, C.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - The Lancet\nVL  - 2020\nSP  - 395\nEP  - 10223\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nVL  - 2020\nSP  - 382\nEP  - 8\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019.\nC1  - WHO\nER  - \n\nTY  - GEN\nAU  - W.H.O.\nTI  - Coronavirus disease 2019 (COVID-19) Situation Report - 37. 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, D.\nTI  - Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, X.\nTI  - Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study\nT2  - The Lancet Respiratory Medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, Z.\nTI  - Pathological findings of COVID-19 associated with acute respiratory distress syndrome\nT2  - The Lancet Respiratory Medicine\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Gebistorf, F.\nTI  - Inhaled nitric oxide for acute respiratory distress syndrome (ARDS) in children and adults\nT2  - Cochrane Database Syst Rev\nVL  - 2016\nSP  - 002787\nC1  - true\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, L.\nTI  - Inhalation of nitric oxide in the treatment of severe acute respiratory syndrome: a rescue trial in Beijing\nT2  - Clin Infect Dis\nPY  - 2004\nDA  - 2004\nSP  - 39\nEP  - 10\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Keyaerts, E.\nTI  - Inhibition of SARS-coronavirus infection in vitro by S-nitroso-Nacetylpenicillamine, a nitric oxide donor compound\nT2  - Int J Infect Dis\nPY  - 2004\nDA  - 2004\nSP  - 8\nEP  - 4\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wright, R.O.\nAU  - Lewander, W.J.\nAU  - Woolf, A.D.\nTI  - Methemoglobinemia: Etiology, Pharmacology, and Clinical Management\nT2  - Annals of Emergency Medicine\nPY  - 1999\nDA  - 1999\nSP  - 34\nEP  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Feiner, J.R.\nAU  - Bickler, P.E.\nTI  - Improved Accuracy of Methemoglobin Detection by Pulse CO-Oximetry During Hypoxia\nT2  - Anesthesia & Analgesia\nPY  - 2010\nDA  - 2010\nSP  - 111\nEP  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lien, T.-C.\nTI  - Characteristic features and outcomes of severe acute respiratory syndrome found in severe acute respiratory syndrome intensive care unit patients\nT2  - Journal of Critical Care\nPY  - 2008\nDA  - 2008\nSP  - 23\nEP  - 4\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Talmor, D.\nTI  - Mechanical Ventilation Guided by Esophageal Pressure in Acute Lung Injury\nT2  - New England Journal of Medicine\nPY  - 2008\nDA  - 2008\nSP  - 359\nEP  - 20\nC1  - true\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Inclusion Criteria"
+            },
+            {
+                "id": "2",
+                "caption": "Exclusion Criteria"
+            }
+        ],
+        "figure_captions": [],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.09.20033530v1.xlsx"
+    },
+    "sections": {
+        "methods": [
+            "<strong>Methods and analysis</strong><br/><br/>Intubated patients admitted to the intensive care unit with confirmed SARS-CoV-2 infection and severe hypoxemia will be randomized to receive inhalation of NO (treatment group) or not (control group). Treatment will be stopped when patients are free from hypoxemia for more than 24 hours. The primary outcome evaluates levels of oxygenation between the two groups at 48 hours. Secondary outcomes include rate of survival rate at 28 and 90 days in the two groups, time to resolution of severe hypoxemia, time to achieve negativity of SARS-CoV-2 RT-PCR tests. Ethics and dissemination. The study protocol has been approved by the Investigational Review Board of Xijing Hospital (Xi\u2019an, China) and pending the Partners Human Research Committee (Boston, USA). Recruitment will start after approval of both IRBs and local IRBs at other enrolling centers. Results of this study will be published in scientific journals, presented at scientific meetings, reported through flyers and posters, and published on related website or media in combating against this widespread contagious diseases. Trial registration. Clinicaltrials.gov. NCT submitted",
+            "<strong>Methods and Analysis</strong><br/><br/>Study Setting. This is a multicenter, randomized (1:1) controlled, parallel-arm clinical trial. Given the absence of a targeted therapy, the refractory hypoxemia and the high mortality associated with SARS-CoV-2, we propose this protocol to all interested centers with SARSCoV-2 patients.<br/><br/>Eligibility criteria. Inclusion criteria are: (1) Adult patients, > 18 year-old; (2) admitted to the ICU; (3) intubated and mechanically ventilated; (4) confirmed diagnosis by positve rt-PCR 2019nCoV; (5) severe hypoxemia, defined by PaO2/FiO2 < 300 mmHg.<br/><br/>Exclusion criteria are: (1) patients intubated for more than 72 hours from initiation of the treatment gas; (2) physician being contrary to the involvement as participating in the trial is not in the patient's best interest, or any condition that does not allow the protocol to be followed safely; (3) pregnancy. Patients enrolled in other clinical interventional trials investigating potential targeted therapies against 2019-nCoV do not exclude participation to this trial.<br/><br/>Interventions. Eligible patients are randomized to receive either institutional standard of care with iNO addition (treatment arm) or plain institutional standard of care (control arm). Standards of care are delivered according to the institution own protocols (such as ventilation strategies and use and dosage of antivirals and antimicrobials, steroids, inotropic-vasopressor agents and initiation of extracorporeal membrane oxygenator [ECMO]). Patients in the treatment arm receive iNO at 80 ppm for the first 48 hours after enrollment, then reduce to 40 ppm until severe hypoxemia resolves. Weaning from NO will start when patients improve the level of oxygenation to PaO2/FiO2> 300 mmHg for more than 24 hours consecutively. Since abrupt discontinuation of iNO can sometimes result in rebound pulmonary hypertension, with possible oxygenation impairment and acute right heart failure, gradual discontinuation will be performed. Physicians will follow their own institution weaning protocols. In absence of institutional protocols, iNO will be reduced every 4 hours in stepwise fashion starting from 40 ppm to 20, 10, 5, 3, 2 and 1 ppm. If case of hypoxemia (SpO2< 93%) or acute hypotension (systolic blood pressure < 90 mmHg) during weaning, iNO should be increased to the prior higher concentration.<br/><br/>Safety. NO reacts with oxygen to form NO2, which may cause airway inflammation and damage to lung tissues. Moreover, NO oxidizes ferrous Hb to form Met-Hb, which is unable to transport and release oxygen to tissues. [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. The binding of NO to Hb is a rapidly reversible reaction, with a half-life of 15\u201320 min after NO discontinuation. The side effects and adverse events related to iNO delivery are well reported in the literature. Based on the present literature and Food and Drug Administration reports, the risks of breathing iNO at 80 ppm for 24 hours are minimal when Met-Hb levels and NO/NO2 delivery levels are carefully monitored [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. To improve safety, in the present trial, iNO is administered and monitored by trained clinicians. The<br/><br/>NO2 will be monitored and maintained at levels of below 2 ppm. Met-Hb is continuously monitored by non-invasive co-oximetry. If Met-Hb levels exceed 5% of circulating Hb, the concentration of NO delivered is halved and closely monitored until a reduction occurs. If MetHb levels persist above 5%, iNO is progressively halved until a reduction below 5% occurs.<br/><br/>Blinding. The study will be blinded to the patient. Outcome assessors, data analysts, the study personnel delivering the NO gas and monitoring patient\u2019s methemoglobin levels will not be blinded.<br/><br/>Outcomes. The primary outcome is the improvement of arterial oxygenation at 48 hours from enrollment between the two groups. If a patient dies before the initiation of the gas, the patient will not enter the trial. If a patient dies during the first 48 hours of treatment, the last available blood gas analysis will be used. Levels of oxygenation will be calculated by the PaO2/FiO2 ratio. Patients will be followed until 90 days from enrollment. Secondary outcomes include: (1) time to reach normoxia defined by a PaO2/FiO2> 300 for at least 24 hours during the first 28 days after enrollment. If a patient dies before day 28, the patient will be considered as \u201cnever recovered\u201d; (2) proportion of SARS-nCoV-2 free patients (i.e., normoxiemic patients) during the first 28 days after enrollment. If a patient dies before day 28, the patient will be considered as \u201cnever recovered\u201d; (3) Survival at 28 days and 90 days from enrollment. The following data will be collected to assess exploratory outcomes, such as: (1) Daily oxygenation in the two groups until day 28; (2) Need for new renal replacement therapy during the first 28 days; (3) Mechanical support of circulation (i.e., ECMO, intra-aortic balloon pump, VADs) during the first 28 days; (4) Days free of vasopressors during the first 28 days; (5) Ventilator-free day at 28 days; (6) Time to SARS-CoV-2 RT-PCR negative in upper respiratory tract specimen (assessed within the first 28 days); (7) ICU-free days at 28 days.<br/><br/>Sample size. We hypothesize that NO gas therapy leads to an improvement of oxygenation due to amelioration of ventilation perfusion matching in patients affected with SARS-CoV2. A difference of 20% in PaO2/FiO2 ratio between the two groups at 48 hours from enrollment is considered to be clinically relevant. Available data on oxygenation in SARS-CoV and SARS-<br/><br/>CoV2 patients in ICU are limited [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. A previous study in ARDS patients ventilated according to standard of treatment (ARDSnet table) reported a PaO2/FiO2 ratio at 72 hours of 190 + 71 mmHg [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. We hypothesize that iNO gas may increase the PaO2/FiO2 ratio by at least 20% in the treatment group. Assuming an alpha of 0.05 and a beta (power) of 0.9, we calculated with a two-sample means test (Satterthwaite's t test assuming unequal variances) a need for N1=91 and N2=91 patients. A 10% of dropouts after ICU discharge is foreseen and sample size is thereby increased to N=200 patients. Estimated sample sizes where calculated using Stata 14.1 software.<br/><br/>Recruitment. All patients admitted into recruiting ICUs with SARS-CoV2 and intubated for hypoxemia are screened for eligibility. If a patient is excluded, the reasons are noted on a screening log. To obtain informed consent, the details of the study are presented to the patient\u2019s healthcare proxy. A copy of the consent form will be given to the patient\u2019s healthcare proxy. Prior to the initiation of any study procedures, the proxy\u2019s written consent is obtained by a clinician.<br/><br/>Assignment of interventions. The randomization sequence is created by an independent statistician using Stata 14.1. A predetermined block randomization method (fixed block size of 10) is used to ensure equal distribution of participants to treatment arms and will be uploaded on Studytrax.<br/><br/>Data collection methods. Clinical information including medical history and laboratory exams will be obtained from the medical charts. Collection of study variables will be managed by the outcome assessors by using a dedicated patient\u2019s file on Studytrax.<br/><br/>Data management. Outcome assessors, treatment providers and the principal investigator will obtain unique usernames and password to transfer all data to a Studytrax page dedicated to the study.",
+            "Data analysis will be based on the Intention-to-treat principle. For patients dying during the first 48 hours of treatment, the last available blood gas analysis will be used to assess the primary outcome. For the proposed trial, we anticipate that no participants will miss the primary evaluation. Demographic and clinical characteristics will be presented as number (percentage), mean (SD), or median (interquartile range [IQR]). Comparisons between groups will be made using the \u03c72 test or Fisher\u2019s exact test for categorical variables and T-test or Wilcoxon\u2019s rank-sum test for continuous variables as appropriate. Effect sizes will be described with the probability of more favorable outcome (probabilistic index) and 95% CI will be calculated. The primary endpoint will be compared using T-test or Mann-Whitney U as appropriate. Time to reach normoxia will be compared within the two groups with a T-Test or Mann-Whitney U test, as appropriate. To exclude or confirm that the expected benefit in oxygenation by NO may be evident during the first days of treatment and then decrease we will consider the proportion of SARS-nCoV-2 free patients during 28 days and compare the two groups in terms of treatment success with a log-rank test. Survival curves will be generated via the Kaplan-Meier method and compared with a log-rank test. Rates of organ dysfunction will be compared using Fisher\u2019s exact test. Ventilator-free days, ICUfree days, days free of vasopressors and time to negative SARS-CoV2 rt-PCR will be compared using the T-test or Mann-Whitney U test, as appropriate. Fisher\u2019s exact test will be used to estimate treatment differences in the incidence of each specified adverse event. No adjustments will be made for multiple hypothesis evaluations of safety endpoints. For all analyses, a 2-sided alpha threshold of .05 will be considered significant. To adjust for additional influent factors not involved in the randomization process such as age, ARDS severity and co-administration of other experimental treatments, we will perform a multivariate logistic regession analysis on the primary outcome.<br/><br/>Data monitoring. Data quality and safety will be monitored by each site\u2019s PI, the study Medical Coordinating Center (MCC) and a Data Safety Monitoring Board (DSMB). The site PIs will continuously monitor the data quality according to data quality measures. In addition, recruitment rate, deviation from inclusion/exclusion criteria and protocol, and confidentiality of data and database will be monitored. A DSMB, drawing from persons with expertise in the area will be constituted. An interim analysis will be performed at 50% of planned enrollment. The DSMB will evaluate survival rate between the two groups. The DSMB will determine whether the study should continue or terminate. The DSMB will play a valuable role in advising the study leadership on the relevance of advances in the diagnosis and treatment of patients. A number of therapeutic or diagnostic testing advances may possibly occur during the course of the trial. If protocol modifications are warranted, close consultation among the DSMB and the study leadership will be required. A separate DSMB charter that outlines in detail the operating guidelines for the committee and the protocol for evaluation of data will be developed prior to the start of patient randomization and agreed upon in the initial meeting of the DSMB.<br/><br/>Harms. Organ failure, prolonged hospitalization and mortality will be recorded as part of the study defined outcomes. Other adverse events will be monitored by the site PI and research specialist in real time from the start of randomization to hospital discharge or death. Reportable adverse events will include hemodynamic change and deterioration of oxygenation related to NO inhalation and require the adjustment of NO concentration. A serious adverse event in this study will be defined as a reportable adverse event that is fatal, life-threatening, or permanently disabling. All adverse events will be indicated on the data forms for the study and on the specific adverse event report forms and all serious adverse events will be reported to the site IRB within 48 hours of the research team learning about the event followed by more detailed written report to the local IRB. The following information about adverse events will be collected: 1) the onset and resolution of the event, 2) an assessment of the severity or intensity of the event, 3) an assessment of the relationship of the event to the intervention, and 4) any action taken because of event. Sites will inform the principle investigators (CL and LB) at the coordinating centers (Xijing Hospital and Massachusetts General Hospital) for any related adverse events directly caused by inhalation of NO (non-serious) within 14 days of discovery. All fatal, life-threatening, or permanently disabling (regardless of relatedness) events due to inhalation of NO must be reported to the coordinating centers within 48 hours of discovery. The principle investigators will report these events to the DSMB and to the coordinating centers IRBs.<br/><br/>Patient and Public Involvement. Participants can be informed about their recruitment arm and study results only 1 year after randomization.<br/><br/>Ethics and dissemination. The study will be conducted following the Good Clinical Practices of the International Conference on Harmonization Good Clinical Practices (ICH-GCP) as well as local and national regulations. The results of the study will be published in scientific journals and presented at scientific meetings. Personal information about enrolled participants will be collected only through Studytrax platform.<br/><br/>Dissemination Policy. Results will be published and be accessible to healthcare professionals and the public."
+        ],
+        "introduction": [
+            "The first pneumonia case with unknown etiology were identified in Wuhan, China in early December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. The genomic sequence of this new pathogen and a diagnostic real-time reverse transcriptase polymerase (rt-PCR) chain assay were published in January 2020. Highthroughput sequencing of the bronchialveolar samples from these patients has revealed a novel betacoronavirus that is currently named SARS-CoV-2, as it resembled severe acute respiratory syndrome coronavirus [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].<br/><br/>SARS-CoV-2 has so far infected more than 110,000 people worldwide with more than 4,000 deaths (3.6% of diagnosed patients). The World Health Organization has declared the SARSCoV-2 infection as a public health emergency of international concern. [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The majority of the cases has been reported in China, but significant outbreaks are taking place in South Korea, Japan, Europe, Iran and more recently in USA [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. In the human host, SARS-CoV-2 infection may be asymptomatic or may cause a syndrome (named COVID-19) ranging from common cold to a severe pneumonia with acute respiratory syndrome and need of mechanical ventilation in intensive care unit (ICU). In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19, the median time from clinical onset to hospital admission was 7 days, 26% of patients were admitted to the ICU and 61% of them met clinical criteria for acute respiratory distress syndrome (ARDS) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Another retrospective Chinese study on critically ill patients with COVID-19 pneumonia showed that 67% of patients met ARDS criteria, with a mortality of 61.5% at 28 days. Reported casualties in the ICU are characterized of various profiles of multiorgan failure (81% of deceased patients had ARDS, 37.5% had AKI, 28% had cardiac injury and 28% had liver failure) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Autoptic findings in a published clinical case showed features resembling those of coronavirus-related infections such as Severe Acute Respiratory Distress Syndrome (SARS) and Middle Eastern Resporatory Syndrome (MERS), including bilateral diffuse alveolar damage with fibromyxoid exudates, desquamation of pneumocytes and hyaline membrane formation. Findings in cardiac and hepatic tissues may suggest the contribution of a viral infection as well[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].<br/><br/>COVID-19 is highly contagious and responsible for thousands of casualties and is now spreading to many countries. The combined effect of the high transmission and the reported high incidence of severe disease in symptomatic patients poses a threat to healthcare systems involved in the outbreaks in different ways, including: cumulative casualties, increased need for hospital and ICU beds causing work overload for all the healthcare staff and often forcing hospitals to shut down all elective surgical activity; high social and economic costs, dramatically reduction of the productivity by the rigorous quarantine requirements and strategies for curtailing disease spreading, which made economic pain that disrupt supply chains and stock markets . To-date, no treatment showed to increase survival and decrease the need for ventilatory support in patients with severe acute respiratory syndrome due to COVID-19. In responding to this epidemic, the treatment strategies should be safe, can be quickly pass through the regulatory reviews and can be used on a massive scale with low cost. Therefore, screen for the existing treatments seemed to be the potential choice. In clinical settings, NO gas has been approved by the US Federal Drug Administration for the treatment of pulmonary hypertension of the newborn in presence of hypoxic respiratory failure. However, NO gas has been advocated as rescue treatment in adults with hypoxic ARDS [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. In 2004, during the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) outbreak, Chen et al reported the use of inhaled NO gas (iNO) in six patients with severe symptoms. Treatment with iNO reversed pulmonary hypertension, improved remarkably severe hypoxemia and shortened the length of ventilatory support as compared to matched control patients with SARS-CoV [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. In a subsequent in-vitro study, nitric oxide (NO) donors (e.g. S-nitroso-Nacetylpenicillamine) greatly increased the survival rate of SARS-CoV-infected eukaryotic cells, suggesting direct antiviral effects of NO [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Coronavirus responsible for SARS-CoV shares most of the genome of COVID-19 virus indicating potential effectiveness of iNO therapy in these patients.<br/><br/>Due to similarities with the Coronavirus responsible for SARS and COVID-19, we hypothesize that in addition to improve the oxygenation of the severe cases, iNO gas retains potent antiviral activity against 2019-nCoV responsible for SARS-CoV-2. We designed this study to assess whether continuous delivery of iNO as rescue therapy may increase oxygenation and improves survival in patients with SARS-CoV-2."
+        ],
+        "statement": [
+            "<strong>Funding statement National Natural Science Foundation of</strong><br/><br/>China (# 81970448), Shaanxi Provincial International Science and Technology Collaboration Project (#2019KW-069), and Xijing Hospital funding (XJZT18Z13) to CL."
+        ],
+        "disclosures": [
+            "<strong>Competing interests statement</strong><br/><br/>LB salaries are partially supported by NIH/NHLBI 1 K23 HL128882-01A1"
+        ],
+        "ethical_compliance": [
+            "The study protocol has been approved by the Investigational Review Board of Xijing Hospital (Xi\u2019an, China) and pending the Partners Human Research Committee (Boston, USA)",
+            "Prior to the initiation of any study procedures, the proxy\u2019s written consent is obtained by a clinician",
+            "All authors have critically revised the study protocol and approved the final version"
+        ],
+        "limitations": [
+            "Strengths and limitations of this study \u23af Supplementation with nitric oxide (NO) might improve oxygenation and survival of SARS-CoV-2 patients. \u23af The antiviral activity of NO inhalation will be explored by measuring the time difference between the two groups to reach SARS-CoV-2 RT- PCR negativity. \u23af The spread of the disease worldwide determines the geographic areas of study and the recruitment rate of patients."
+        ]
+    },
+    "structured_content": {
+        "Introduction": [
+            "The first pneumonia case with unknown etiology were identified in Wuhan, China in early December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. The genomic sequence of this new pathogen and a diagnostic real-time reverse transcriptase polymerase (rt-PCR) chain assay were published in January 2020. Highthroughput sequencing of the bronchialveolar samples from these patients has revealed a novel betacoronavirus that is currently named SARS-CoV-2, as it resembled severe acute respiratory syndrome coronavirus [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "SARS-CoV-2 has so far infected more than 110,000 people worldwide with more than 4,000 deaths (3.6% of diagnosed patients). The World Health Organization has declared the SARSCoV-2 infection as a public health emergency of international concern. [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The majority of the cases has been reported in China, but significant outbreaks are taking place in South Korea, Japan, Europe, Iran and more recently in USA [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. In the human host, SARS-CoV-2 infection may be asymptomatic or may cause a syndrome (named COVID-19) ranging from common cold to a severe pneumonia with acute respiratory syndrome and need of mechanical ventilation in intensive care unit (ICU). In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19, the median time from clinical onset to hospital admission was 7 days, 26% of patients were admitted to the ICU and 61% of them met clinical criteria for acute respiratory distress syndrome (ARDS) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. Another retrospective Chinese study on critically ill patients with COVID-19 pneumonia showed that 67% of patients met ARDS criteria, with a mortality of 61.5% at 28 days. Reported casualties in the ICU are characterized of various profiles of multiorgan failure (81% of deceased patients had ARDS, 37.5% had AKI, 28% had cardiac injury and 28% had liver failure) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Autoptic findings in a published clinical case showed features resembling those of coronavirus-related infections such as Severe Acute Respiratory Distress Syndrome (SARS) and Middle Eastern Resporatory Syndrome (MERS), including bilateral diffuse alveolar damage with fibromyxoid exudates, desquamation of pneumocytes and hyaline membrane formation. Findings in cardiac and hepatic tissues may suggest the contribution of a viral infection as well[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>].",
+            "COVID-19 is highly contagious and responsible for thousands of casualties and is now spreading to many countries. The combined effect of the high transmission and the reported high incidence of severe disease in symptomatic patients poses a threat to healthcare systems involved in the outbreaks in different ways, including: cumulative casualties, increased need for hospital and ICU beds causing work overload for all the healthcare staff and often forcing hospitals to shut down all elective surgical activity; high social and economic costs, dramatically reduction of the productivity by the rigorous quarantine requirements and strategies for curtailing disease spreading, which made economic pain that disrupt supply chains and stock markets . To-date, no treatment showed to increase survival and decrease the need for ventilatory support in patients with severe acute respiratory syndrome due to COVID-19. In responding to this epidemic, the treatment strategies should be safe, can be quickly pass through the regulatory reviews and can be used on a massive scale with low cost. Therefore, screen for the existing treatments seemed to be the potential choice. In clinical settings, NO gas has been approved by the US Federal Drug Administration for the treatment of pulmonary hypertension of the newborn in presence of hypoxic respiratory failure. However, NO gas has been advocated as rescue treatment in adults with hypoxic ARDS [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. In 2004, during the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) outbreak, Chen et al reported the use of inhaled NO gas (iNO) in six patients with severe symptoms. Treatment with iNO reversed pulmonary hypertension, improved remarkably severe hypoxemia and shortened the length of ventilatory support as compared to matched control patients with SARS-CoV [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. In a subsequent in-vitro study, nitric oxide (NO) donors (e.g. S-nitroso-Nacetylpenicillamine) greatly increased the survival rate of SARS-CoV-infected eukaryotic cells, suggesting direct antiviral effects of NO [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Coronavirus responsible for SARS-CoV shares most of the genome of COVID-19 virus indicating potential effectiveness of iNO therapy in these patients.",
+            "Due to similarities with the Coronavirus responsible for SARS and COVID-19, we hypothesize that in addition to improve the oxygenation of the severe cases, iNO gas retains potent antiviral activity against 2019-nCoV responsible for SARS-CoV-2. We designed this study to assess whether continuous delivery of iNO as rescue therapy may increase oxygenation and improves survival in patients with SARS-CoV-2."
+        ],
+        "Methods and Analysis": [
+            "Study Setting. This is a multicenter, randomized (1:1) controlled, parallel-arm clinical trial. Given the absence of a targeted therapy, the refractory hypoxemia and the high mortality associated with SARS-CoV-2, we propose this protocol to all interested centers with SARSCoV-2 patients.",
+            "Eligibility criteria. Inclusion criteria are: (1) Adult patients, > 18 year-old; (2) admitted to the ICU; (3) intubated and mechanically ventilated; (4) confirmed diagnosis by positve rt-PCR 2019nCoV; (5) severe hypoxemia, defined by PaO2/FiO2 < 300 mmHg.",
+            "Exclusion criteria are: (1) patients intubated for more than 72 hours from initiation of the treatment gas; (2) physician being contrary to the involvement as participating in the trial is not in the patient's best interest, or any condition that does not allow the protocol to be followed safely; (3) pregnancy. Patients enrolled in other clinical interventional trials investigating potential targeted therapies against 2019-nCoV do not exclude participation to this trial.",
+            "Interventions. Eligible patients are randomized to receive either institutional standard of care with iNO addition (treatment arm) or plain institutional standard of care (control arm). Standards of care are delivered according to the institution own protocols (such as ventilation strategies and use and dosage of antivirals and antimicrobials, steroids, inotropic-vasopressor agents and initiation of extracorporeal membrane oxygenator [ECMO]). Patients in the treatment arm receive iNO at 80 ppm for the first 48 hours after enrollment, then reduce to 40 ppm until severe hypoxemia resolves. Weaning from NO will start when patients improve the level of oxygenation to PaO2/FiO2> 300 mmHg for more than 24 hours consecutively. Since abrupt discontinuation of iNO can sometimes result in rebound pulmonary hypertension, with possible oxygenation impairment and acute right heart failure, gradual discontinuation will be performed. Physicians will follow their own institution weaning protocols. In absence of institutional protocols, iNO will be reduced every 4 hours in stepwise fashion starting from 40 ppm to 20, 10, 5, 3, 2 and 1 ppm. If case of hypoxemia (SpO2< 93%) or acute hypotension (systolic blood pressure < 90 mmHg) during weaning, iNO should be increased to the prior higher concentration.",
+            "Safety. NO reacts with oxygen to form NO2, which may cause airway inflammation and damage to lung tissues. Moreover, NO oxidizes ferrous Hb to form Met-Hb, which is unable to transport and release oxygen to tissues. [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. The binding of NO to Hb is a rapidly reversible reaction, with a half-life of 15\u201320 min after NO discontinuation. The side effects and adverse events related to iNO delivery are well reported in the literature. Based on the present literature and Food and Drug Administration reports, the risks of breathing iNO at 80 ppm for 24 hours are minimal when Met-Hb levels and NO/NO2 delivery levels are carefully monitored [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. To improve safety, in the present trial, iNO is administered and monitored by trained clinicians. The",
+            "NO2 will be monitored and maintained at levels of below 2 ppm. Met-Hb is continuously monitored by non-invasive co-oximetry. If Met-Hb levels exceed 5% of circulating Hb, the concentration of NO delivered is halved and closely monitored until a reduction occurs. If MetHb levels persist above 5%, iNO is progressively halved until a reduction below 5% occurs.",
+            "Blinding. The study will be blinded to the patient. Outcome assessors, data analysts, the study personnel delivering the NO gas and monitoring patient\u2019s methemoglobin levels will not be blinded.",
+            "Outcomes. The primary outcome is the improvement of arterial oxygenation at 48 hours from enrollment between the two groups. If a patient dies before the initiation of the gas, the patient will not enter the trial. If a patient dies during the first 48 hours of treatment, the last available blood gas analysis will be used. Levels of oxygenation will be calculated by the PaO2/FiO2 ratio. Patients will be followed until 90 days from enrollment. Secondary outcomes include: (1) time to reach normoxia defined by a PaO2/FiO2> 300 for at least 24 hours during the first 28 days after enrollment. If a patient dies before day 28, the patient will be considered as \u201cnever recovered\u201d; (2) proportion of SARS-nCoV-2 free patients (i.e., normoxiemic patients) during the first 28 days after enrollment. If a patient dies before day 28, the patient will be considered as \u201cnever recovered\u201d; (3) Survival at 28 days and 90 days from enrollment. The following data will be collected to assess exploratory outcomes, such as: (1) Daily oxygenation in the two groups until day 28; (2) Need for new renal replacement therapy during the first 28 days; (3) Mechanical support of circulation (i.e., ECMO, intra-aortic balloon pump, VADs) during the first 28 days; (4) Days free of vasopressors during the first 28 days; (5) Ventilator-free day at 28 days; (6) Time to SARS-CoV-2 RT-PCR negative in upper respiratory tract specimen (assessed within the first 28 days); (7) ICU-free days at 28 days.",
+            "Sample size. We hypothesize that NO gas therapy leads to an improvement of oxygenation due to amelioration of ventilation perfusion matching in patients affected with SARS-CoV2. A difference of 20% in PaO2/FiO2 ratio between the two groups at 48 hours from enrollment is considered to be clinically relevant. Available data on oxygenation in SARS-CoV and SARS-",
+            "CoV2 patients in ICU are limited [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. A previous study in ARDS patients ventilated according to standard of treatment (ARDSnet table) reported a PaO2/FiO2 ratio at 72 hours of 190 + 71 mmHg [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. We hypothesize that iNO gas may increase the PaO2/FiO2 ratio by at least 20% in the treatment group. Assuming an alpha of 0.05 and a beta (power) of 0.9, we calculated with a two-sample means test (Satterthwaite's t test assuming unequal variances) a need for N1=91 and N2=91 patients. A 10% of dropouts after ICU discharge is foreseen and sample size is thereby increased to N=200 patients. Estimated sample sizes where calculated using Stata 14.1 software.",
+            "Recruitment. All patients admitted into recruiting ICUs with SARS-CoV2 and intubated for hypoxemia are screened for eligibility. If a patient is excluded, the reasons are noted on a screening log. To obtain informed consent, the details of the study are presented to the patient\u2019s healthcare proxy. A copy of the consent form will be given to the patient\u2019s healthcare proxy. Prior to the initiation of any study procedures, the proxy\u2019s written consent is obtained by a clinician.",
+            "Assignment of interventions. The randomization sequence is created by an independent statistician using Stata 14.1. A predetermined block randomization method (fixed block size of 10) is used to ensure equal distribution of participants to treatment arms and will be uploaded on Studytrax.",
+            "Data collection methods. Clinical information including medical history and laboratory exams will be obtained from the medical charts. Collection of study variables will be managed by the outcome assessors by using a dedicated patient\u2019s file on Studytrax.",
+            "Data management. Outcome assessors, treatment providers and the principal investigator will obtain unique usernames and password to transfer all data to a Studytrax page dedicated to the study.",
+            "Statistical methods. Data analysis will be based on the Intention-to-treat principle. For patients dying during the first 48 hours of treatment, the last available blood gas analysis will be used to assess the primary outcome. For the proposed trial, we anticipate that no participants will miss the primary evaluation. Demographic and clinical characteristics will be presented as number (percentage), mean (SD), or median (interquartile range [IQR]). Comparisons between groups will be made using the \u03c72 test or Fisher\u2019s exact test for categorical variables and T-test or Wilcoxon\u2019s rank-sum test for continuous variables as appropriate. Effect sizes will be described with the probability of more favorable outcome (probabilistic index) and 95% CI will be calculated. The primary endpoint will be compared using T-test or Mann-Whitney U as appropriate. Time to reach normoxia will be compared within the two groups with a T-Test or Mann-Whitney U test, as appropriate. To exclude or confirm that the expected benefit in oxygenation by NO may be evident during the first days of treatment and then decrease we will consider the proportion of SARS-nCoV-2 free patients during 28 days and compare the two groups in terms of treatment success with a log-rank test. Survival curves will be generated via the Kaplan-Meier method and compared with a log-rank test. Rates of organ dysfunction will be compared using Fisher\u2019s exact test. Ventilator-free days, ICUfree days, days free of vasopressors and time to negative SARS-CoV2 rt-PCR will be compared using the T-test or Mann-Whitney U test, as appropriate. Fisher\u2019s exact test will be used to estimate treatment differences in the incidence of each specified adverse event. No adjustments will be made for multiple hypothesis evaluations of safety endpoints. For all analyses, a 2-sided alpha threshold of .05 will be considered significant. To adjust for additional influent factors not involved in the randomization process such as age, ARDS severity and co-administration of other experimental treatments, we will perform a multivariate logistic regession analysis on the primary outcome.",
+            "Data monitoring. Data quality and safety will be monitored by each site\u2019s PI, the study Medical Coordinating Center (MCC) and a Data Safety Monitoring Board (DSMB). The site PIs will continuously monitor the data quality according to data quality measures. In addition, recruitment rate, deviation from inclusion/exclusion criteria and protocol, and confidentiality of data and database will be monitored. A DSMB, drawing from persons with expertise in the area will be constituted. An interim analysis will be performed at 50% of planned enrollment. The DSMB will evaluate survival rate between the two groups. The DSMB will determine whether the study should continue or terminate. The DSMB will play a valuable role in advising the study leadership on the relevance of advances in the diagnosis and treatment of patients. A number of therapeutic or diagnostic testing advances may possibly occur during the course of the trial. If protocol modifications are warranted, close consultation among the DSMB and the study leadership will be required. A separate DSMB charter that outlines in detail the operating guidelines for the committee and the protocol for evaluation of data will be developed prior to the start of patient randomization and agreed upon in the initial meeting of the DSMB.",
+            "Harms. Organ failure, prolonged hospitalization and mortality will be recorded as part of the study defined outcomes. Other adverse events will be monitored by the site PI and research specialist in real time from the start of randomization to hospital discharge or death. Reportable adverse events will include hemodynamic change and deterioration of oxygenation related to NO inhalation and require the adjustment of NO concentration. A serious adverse event in this study will be defined as a reportable adverse event that is fatal, life-threatening, or permanently disabling. All adverse events will be indicated on the data forms for the study and on the specific adverse event report forms and all serious adverse events will be reported to the site IRB within 48 hours of the research team learning about the event followed by more detailed written report to the local IRB. The following information about adverse events will be collected: 1) the onset and resolution of the event, 2) an assessment of the severity or intensity of the event, 3) an assessment of the relationship of the event to the intervention, and 4) any action taken because of event. Sites will inform the principle investigators (CL and LB) at the coordinating centers (Xijing Hospital and Massachusetts General Hospital) for any related adverse events directly caused by inhalation of NO (non-serious) within 14 days of discovery. All fatal, life-threatening, or permanently disabling (regardless of relatedness) events due to inhalation of NO must be reported to the coordinating centers within 48 hours of discovery. The principle investigators will report these events to the DSMB and to the coordinating centers IRBs.",
+            "Patient and Public Involvement. Participants can be informed about their recruitment arm and study results only 1 year after randomization.",
+            "Ethics and dissemination. The study will be conducted following the Good Clinical Practices of the International Conference on Harmonization Good Clinical Practices (ICH-GCP) as well as local and national regulations. The results of the study will be published in scientific journals and presented at scientific meetings. Personal information about enrolled participants will be collected only through Studytrax platform.",
+            "Dissemination Policy. Results will be published and be accessible to healthcare professionals and the public."
+        ],
+        "References": [
+            "1. Huang, C., et al, Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, 2020. 395(10223): p. 497-506.",
+            "2. Zhu, N., et al, A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, 2020. 382(8): p. 727-733.",
+            "3. WHO, https://www.who.int/emergencies/diseases/novel-coronavirus-2019. 4. WHO, Coronavirus disease 2019 (COVID-19) Situation Report - 37. 2020. 5. Wang, D., et al, Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel",
+            "Coronavirus-Infected Pneumonia in Wuhan, China. JAMA, 2020. 6. Yang, X., et al, Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine, 2020. 7. Xu, Z., et al, Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine, 2020. 8. Gebistorf, F., et al, Inhaled nitric oxide for acute respiratory distress syndrome (ARDS) in children and adults. Cochrane Database Syst Rev, 2016(6): p. CD002787. 9. Chen, L., et al, Inhalation of nitric oxide in the treatment of severe acute respiratory syndrome: a rescue trial in Beijing. Clin Infect Dis, 2004. 39(10): p. 1531-5. 10. Keyaerts, E., et al, Inhibition of SARS-coronavirus infection in vitro by S-nitroso-Nacetylpenicillamine, a nitric oxide donor compound. Int J Infect Dis, 2004. 8(4): p. 223-6. 11. Wright, R.O., W.J. Lewander, and A.D. Woolf, Methemoglobinemia: Etiology, Pharmacology, and Clinical Management. Annals of Emergency Medicine, 1999. 34(5): p. 646-656. 12. Feiner, J.R. and P.E. Bickler, Improved Accuracy of Methemoglobin Detection by Pulse CO-Oximetry During Hypoxia. Anesthesia & Analgesia, 2010. 111(5): p. 1160-1167. 13. Lien, T.-C., et al, Characteristic features and outcomes of severe acute respiratory syndrome found in severe acute respiratory syndrome intensive care unit patients. Journal of Critical Care, 2008. 23(4): p. 557-564. 14. Talmor, D., et al, Mechanical Ventilation Guided by Esophageal Pressure in Acute Lung Injury. New England Journal of Medicine, 2008. 359(20): p. 2095-2104.",
+            "Authors\u2019 contributions Authorship for this trial will be given to key personnel involved in trial design, personnel training, recruitment, data collection, statistical plan anddata analysis. There are no publication restrictions. CL, BS, HD, LB were responsible for conceptualising trial design. CL and LB managed patient safety protocol. CL, BS, HD and LB are responsible for recruitment, enrolment and data collection. AB, RDF are responsible for power calculation, statistical plan and data analysis. CL, BS, HD, LB, trained personnel for the clinical trial and built systems for nitric oxide delivery and monitoring. All authors have critically revised the study protocol and approved the final version. All authors agree to be accountable for the accuracy and integrity of all aspects of this trial.",
+            "Funding statement National Natural Science Foundation of China (# 81970448), Shaanxi Provincial International Science and Technology Collaboration Project (#2019KW-069), and Xijing Hospital funding (XJZT18Z13) to CL.",
+            "Competing interests statement LB salaries are partially supported by NIH/NHLBI 1 K23 HL128882-01A1.",
+            "Word Count: 3112"
+        ],
+        "Tables and Figures": []
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 91,
+            "context": "We hypothesize that iNO gas may increase the PaO2/FiO2 ratio by at least 20% in the treatment group. <mark class=\"stats\">Assuming an alpha of 0.05 and a beta (power) of 0.9, we calculated with a two-sample means test (Satterthwaite's t test assuming unequal variances) a need for N1=91 and N2=91 patients</mark>. A 10% of dropouts after ICU discharge is foreseen and sample size is thereby increased to N=200 patients"
+        },
+        {
+            "participant": "patients",
+            "number": 200,
+            "context": "Assuming an alpha of 0.05 and a beta (power) of 0.9, we calculated with a two-sample means test (Satterthwaite's t test assuming unequal variances) a need for N1=91 and N2=91 patients. <mark class=\"stats\">A 10% of dropouts after ICU discharge is foreseen and sample size is thereby increased to N=200 patients</mark>. Estimated sample sizes where calculated using Stata 14.1 software.<br/><br/>Recruitment"
+        },
+        {
+            "participant": "patients",
+            "number": 200,
+            "context": "Assuming an alpha of 0.05 and a beta (power) of 0.9, we calculated with a two-sample means test (Satterthwaite's t test assuming unequal variances) a need for N1=91 and N2=91 patients. <mark class=\"stats\">A 10% of dropouts after ICU discharge is foreseen and sample size is thereby increased to N=200 patients</mark>. Estimated sample sizes where calculated using Stata 14.1 software"
+        },
+        {
+            "participant": "people",
+            "number": 110000,
+            "context": "Highthroughput sequencing of the bronchialveolar samples from these patients has revealed a novel betacoronavirus that is currently named SARS-CoV-2, as it resembled severe acute respiratory syndrome coronavirus [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. <mark class=\"stats\">SARS-CoV-2 has so far infected more than 110,000 people worldwide with more than 4,000 deaths (3.6% of diagnosed patients)</mark>. The World Health Organization has declared the SARSCoV-2 infection as a public health emergency of international concern"
+        },
+        {
+            "participant": "consecutive patients",
+            "number": 138,
+            "context": "In the human host, SARS-CoV-2 infection may be asymptomatic or may cause a syndrome (named COVID-19) ranging from common cold to a severe pneumonia with acute respiratory syndrome and need of mechanical ventilation in intensive care unit (ICU). <mark class=\"stats\">In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19, the median time from clinical onset to hospital admission was 7 days, 26% of patients were admitted to the ICU and 61% of them met clinical criteria for acute respiratory distress syndrome (ARDS) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]</mark>. Another retrospective Chinese study on critically ill patients with COVID-19 pneumonia showed that 67% of patients met ARDS criteria, with a mortality of 61.5% at 28 days"
+        },
+        {
+            "participant": "patients with severe symptoms",
+            "number": 6,
+            "context": "However, NO gas has been advocated as rescue treatment in adults with hypoxic ARDS [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. <mark class=\"stats\">In 2004, during the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) outbreak, Chen et al reported the use of inhaled NO gas (iNO) in six patients with severe symptoms</mark>. Treatment with iNO reversed pulmonary hypertension, improved remarkably severe hypoxemia and shortened the length of ventilatory support as compared to matched control patients with SARS-CoV [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Assuming an alpha of 0.05 and a beta (power) of 0.9, we calculated with a two-sample means test (Satterthwaite's t test assuming unequal variances) a need for N1=91 and N2=91 patients</mark>",
+                "tests": [
+                    {
+                        "test": "t test",
+                        "value": "=91"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Comparisons between groups will be made using the \u03c72 test or Fisher\u2019s exact test for categorical variables and T-test or Wilcoxon\u2019s rank-sum test for continuous variables as appropriate</mark>",
+                "tests": [
+                    {
+                        "test": "\u03c72 test"
+                    },
+                    {
+                        "test": "Fisher\u2019s exact test"
+                    },
+                    {
+                        "test": "Wilcoxon\u2019s rank-sum test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The primary endpoint will be compared using T-test or Mann-Whitney U as appropriate</mark>",
+                "tests": [
+                    {
+                        "test": "Mann-Whitney U"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Time to reach normoxia will be compared within the two groups with a T-Test or Mann-Whitney U test, as appropriate</mark>",
+                "tests": [
+                    {
+                        "test": "Mann-Whitney U test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">To exclude or confirm that the expected benefit in oxygenation by NO may be evident during the first days of treatment and then decrease we will consider the proportion of SARS-nCoV-2 free patients during 28 days and compare the two groups in terms of treatment success with a log-rank test</mark>",
+                "tests": [
+                    {
+                        "test": "log-rank test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Survival curves will be generated via the Kaplan-Meier method and compared with a log-rank test</mark>",
+                "tests": [
+                    {
+                        "test": "Kaplan-Meier method"
+                    },
+                    {
+                        "test": "log-rank test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Rates of organ dysfunction will be compared using Fisher\u2019s exact test</mark>",
+                "tests": [
+                    {
+                        "test": "Fisher\u2019s exact test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Ventilator-free days, ICUfree days, days free of vasopressors and time to negative SARS-CoV2 rt-PCR will be compared using the T-test or Mann-Whitney U test, as appropriate</mark>",
+                "tests": [
+                    {
+                        "test": "Mann-Whitney U test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Fisher\u2019s exact test will be used to estimate treatment differences in the incidence of each specified adverse event</mark>",
+                "tests": [
+                    {
+                        "test": "Fisher\u2019s exact test"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "intensive care unit",
+        "inhaled nitric oxide gas",
+        "severe acute respiratory syndrome",
+        "Middle Eastern Resporatory Syndrome",
+        "coronavirus",
+        "hypoxemia",
+        "mechanical ventilation",
+        "nitric oxide",
+        "COVID-19",
+        "Medical Coordinating Center",
+        "nacetylpenicillamine",
+        "rescue therapy",
+        "etiology",
+        "Severe Acute Respiratory Distress Syndrome",
+        "Data Safety Monitoring Board",
+        "novel coronavirus",
+        "sars cov",
+        "acute respiratory distress syndrome",
+        "International Conference on Harmonization Good Clinical Practices",
+        "pneumonia",
+        "refractory hypoxemia",
+        "acute respiratory syndrome"
+    ],
+    "keyword_relevance": {
+        "nitric oxide": 0.2512820512820513,
+        "Severe Acute Respiratory Distress Syndrome": 0.1641025641025641,
+        "inhaled nitric oxide gas": 0.08717948717948718,
+        "intensive care unit": 0.06666666666666667,
+        "acute respiratory distress syndrome": 0.06666666666666667,
+        "hypoxemia": 0.05641025641025641,
+        "COVID-19": 0.05641025641025641,
+        "Data Safety Monitoring Board": 0.05128205128205128,
+        "acute respiratory syndrome": 0.041025641025641026,
+        "coronavirus": 0.035897435897435895,
+        "severe acute respiratory syndrome": 0.03076923076923077,
+        "pneumonia": 0.020512820512820513,
+        "refractory hypoxemia": 0.015384615384615385,
+        "Middle Eastern Resporatory Syndrome": 0.010256410256410256,
+        "Medical Coordinating Center": 0.010256410256410256,
+        "rescue therapy": 0.010256410256410256,
+        "International Conference on Harmonization Good Clinical Practices": 0.010256410256410256,
+        "mechanical ventilation": 0.005128205128205128,
+        "etiology": 0.005128205128205128,
+        "novel coronavirus": 0.005128205128205128,
+        "nacetylpenicillamine": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "The first pneumonia case with unknown etiology were identified in Wuhan, China in early December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "The primary aim of this study is to determine whether inhaled NO improves oxygenation in patients with hypoxic SARS-CoV2.",
+        "Intubated patients admitted to the intensive care unit with confirmed SARS-CoV-2 infection and severe hypoxemia will be randomized to receive inhalation of NO or not.",
+        "Strengths and limitations of this study \u23af Supplementation with nitric oxide (NO) might improve oxygenation and survival of SARS-CoV-2 patients.",
+        "In 2004, during the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) outbreak, Chen et al reported the use of inhaled NO gas in six patients with severe symptoms.",
+        "Treatment with iNO reversed pulmonary hypertension, improved remarkably severe hypoxemia and shortened the length of ventilatory support as compared to matched control patients with SARS-CoV [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+        "The authors designed this study to assess whether continuous delivery of iNO as rescue therapy may increase oxygenation and improves survival in patients with SARS-CoV-2.",
+        "Inclusion criteria are: (1) Adult patients, > 18 year-old; (2) admitted to the ICU; (3) intubated and mechanically ventilated; (4) confirmed diagnosis by positve rt-PCR 2019nCoV; (5) severe hypoxemia, defined by PaO2/FiO2 < 300 mmHg. Exclusion criteria are: (1) patients intubated for more than 72 hours from initiation of the treatment gas; (2) physician being contrary to the involvement as participating in the trial is not in the patient's best interest, or any condition that does not allow the protocol to be followed safely; (3) pregnancy.",
+        "The following data will be collected to assess exploratory outcomes, such as: (1) Daily oxygenation in the two groups until day 28; (2) Need for new renal replacement therapy during the first 28 days; (3) Mechanical support of circulation (i.e., ECMO, intra-aortic balloon pump, VADs) during the first 28 days; (4) Days free of vasopressors during the first 28 days; (5) Ventilator-free day at 28 days; (6) Time to SARS-CoV-2 RT-PCR negative in upper respiratory tract specimen; (7) ICU-free days at 28 days.",
+        "A previous study in ARDS patients ventilated according to standard of treatment (ARDSnet table) reported a PaO2/FiO2 ratio at 72 hours of 190 + 71 mmHg [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>].",
+        "For patients dying during the first 48 hours of treatment, the last available blood gas analysis will be used to assess the primary outcome.",
+        "To exclude or confirm that the expected benefit in oxygenation by NO may be evident during the first days of treatment and decrease the authors will consider the proportion of SARS-nCoV-2 free patients during 28 days and compare the two groups in terms of treatment success with a log-rank test."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The first pneumonia case with unknown etiology were identified in Wuhan, China in early December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "The primary aim of this study is to determine whether inhaled NO improves oxygenation in patients with hypoxic SARS-CoV2."
+        ],
+        "Results": [
+            "Intubated patients admitted to the intensive care unit with confirmed SARS-CoV-2 infection and severe hypoxemia will be randomized to receive inhalation of NO or not.",
+            "Strengths and limitations of this study \u23af Supplementation with nitric oxide (NO) might improve oxygenation and survival of SARS-CoV-2 patients.",
+            "In 2004, during the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) outbreak, Chen et al reported the use of inhaled NO gas in six patients with severe symptoms.",
+            "Treatment with iNO reversed pulmonary hypertension, improved remarkably severe hypoxemia and shortened the length of ventilatory support as compared to matched control patients with SARS-CoV [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+            "The authors designed this study to assess whether continuous delivery of iNO as rescue therapy may increase oxygenation and improves survival in patients with SARS-CoV-2.",
+            "Inclusion criteria are: (1) Adult patients, > 18 year-old; (2) admitted to the ICU; (3) intubated and mechanically ventilated; (4) confirmed diagnosis by positve rt-PCR 2019nCoV; (5) severe hypoxemia, defined by PaO2/FiO2 < 300 mmHg. Exclusion criteria are: (1) patients intubated for more than 72 hours from initiation of the treatment gas; (2) physician being contrary to the involvement as participating in the trial is not in the patient's best interest, or any condition that does not allow the protocol to be followed safely; (3) pregnancy.",
+            "The following data will be collected to assess exploratory outcomes, such as: (1) Daily oxygenation in the two groups until day 28; (2) Need for new renal replacement therapy during the first 28 days; (3) Mechanical support of circulation (i.e., ECMO, intra-aortic balloon pump, VADs) during the first 28 days; (4) Days free of vasopressors during the first 28 days; (5) Ventilator-free day at 28 days; (6) Time to SARS-CoV-2 RT-PCR negative in upper respiratory tract specimen; (7) ICU-free days at 28 days.",
+            "A previous study in ARDS patients ventilated according to standard of treatment (ARDSnet table) reported a PaO2/FiO2 ratio at 72 hours of 190 + 71 mmHg [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]."
+        ],
+        "Conclusion": [
+            "For patients dying during the first 48 hours of treatment, the last available blood gas analysis will be used to assess the primary outcome.",
+            "To exclude or confirm that the expected benefit in oxygenation by NO may be evident during the first days of treatment and decrease the authors will consider the proportion of SARS-nCoV-2 free patients during 28 days and compare the two groups in terms of treatment success with a log-rank test."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Huang_2019_a",
+            "entry": "1. Huang, C., et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, 2020. 395(10223): p. 497-506.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020%2039510223%20p%20497506",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020%2039510223%20p%20497506",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20The%20Lancet%202020%2039510223%20p%20497506"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhu_2019_a",
+            "entry": "2. Zhu, N., et al., A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, 2020. 382(8): p. 727-733.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020%203828%20p%20727733",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020%203828%20p%20727733",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020%203828%20p%20727733"
+        },
+        {
+            "id": "3",
+            "alt_id": "3._0000_a",
+            "entry": "3. WHO, https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+        },
+        {
+            "id": "4",
+            "alt_id": "W_2019_a",
+            "entry": "4. WHO, Coronavirus disease 2019 (COVID-19) Situation Report - 37. 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=WHO%20Coronavirus%20disease%202019%20COVID19%20Situation%20Report%20%2037%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Wang_2020_a",
+            "entry": "5. Wang, D., et al., Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20et%20al%20Clinical%20Characteristics%20of%20138%20Hospitalized%20Patients%20With%202019%20Novel%20CoronavirusInfected%20Pneumonia%20in%20Wuhan%20China%20JAMA%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%20D%20et%20al%20Clinical%20Characteristics%20of%20138%20Hospitalized%20Patients%20With%202019%20Novel%20CoronavirusInfected%20Pneumonia%20in%20Wuhan%20China%20JAMA%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%20D%20et%20al%20Clinical%20Characteristics%20of%20138%20Hospitalized%20Patients%20With%202019%20Novel%20CoronavirusInfected%20Pneumonia%20in%20Wuhan%20China%20JAMA%202020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Yang_2020_a",
+            "entry": "6. Yang, X., et al., Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%2C%20X.%20Clinical%20course%20and%20outcomes%20of%20critically%20ill%20patients%20with%20SARS-CoV-2%20pneumonia%20in%20Wuhan%2C%20China%3A%20a%20single-centered%2C%20retrospective%2C%20observational%20study%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%2C%20X.%20Clinical%20course%20and%20outcomes%20of%20critically%20ill%20patients%20with%20SARS-CoV-2%20pneumonia%20in%20Wuhan%2C%20China%3A%20a%20single-centered%2C%20retrospective%2C%20observational%20study%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%2C%20X.%20Clinical%20course%20and%20outcomes%20of%20critically%20ill%20patients%20with%20SARS-CoV-2%20pneumonia%20in%20Wuhan%2C%20China%3A%20a%20single-centered%2C%20retrospective%2C%20observational%20study%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Xu_2020_a",
+            "entry": "7. Xu, Z., et al., Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xu%2C%20Z.%20Pathological%20findings%20of%20COVID-19%20associated%20with%20acute%20respiratory%20distress%20syndrome%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xu%2C%20Z.%20Pathological%20findings%20of%20COVID-19%20associated%20with%20acute%20respiratory%20distress%20syndrome%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xu%2C%20Z.%20Pathological%20findings%20of%20COVID-19%20associated%20with%20acute%20respiratory%20distress%20syndrome%202020"
+        },
+        {
+            "id": "8",
+            "alt_id": "Gebistorf_0000_a",
+            "entry": "8. Gebistorf, F., et al., Inhaled nitric oxide for acute respiratory distress syndrome (ARDS) in children and adults. Cochrane Database Syst Rev, 2016(6): p. CD002787.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Gebistorf%2C%20F.%20Inhaled%20nitric%20oxide%20for%20acute%20respiratory%20distress%20syndrome%20%28ARDS%29%20in%20children%20and%20adults",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Gebistorf%2C%20F.%20Inhaled%20nitric%20oxide%20for%20acute%20respiratory%20distress%20syndrome%20%28ARDS%29%20in%20children%20and%20adults",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Gebistorf%2C%20F.%20Inhaled%20nitric%20oxide%20for%20acute%20respiratory%20distress%20syndrome%20%28ARDS%29%20in%20children%20and%20adults"
+        },
+        {
+            "id": "9",
+            "alt_id": "Chen_2004_a",
+            "entry": "9. Chen, L., et al., Inhalation of nitric oxide in the treatment of severe acute respiratory syndrome: a rescue trial in Beijing. Clin Infect Dis, 2004. 39(10): p. 1531-5.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20L.%20Inhalation%20of%20nitric%20oxide%20in%20the%20treatment%20of%20severe%20acute%20respiratory%20syndrome%3A%20a%20rescue%20trial%20in%20Beijing%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20L.%20Inhalation%20of%20nitric%20oxide%20in%20the%20treatment%20of%20severe%20acute%20respiratory%20syndrome%3A%20a%20rescue%20trial%20in%20Beijing%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20L.%20Inhalation%20of%20nitric%20oxide%20in%20the%20treatment%20of%20severe%20acute%20respiratory%20syndrome%3A%20a%20rescue%20trial%20in%20Beijing%202004"
+        },
+        {
+            "id": "10",
+            "alt_id": "Keyaerts_2004_a",
+            "entry": "10. Keyaerts, E., et al., Inhibition of SARS-coronavirus infection in vitro by S-nitroso-Nacetylpenicillamine, a nitric oxide donor compound. Int J Infect Dis, 2004. 8(4): p. 223-6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Keyaerts%2C%20E.%20Inhibition%20of%20SARS-coronavirus%20infection%20in%20vitro%20by%20S-nitroso-Nacetylpenicillamine%2C%20a%20nitric%20oxide%20donor%20compound%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Keyaerts%2C%20E.%20Inhibition%20of%20SARS-coronavirus%20infection%20in%20vitro%20by%20S-nitroso-Nacetylpenicillamine%2C%20a%20nitric%20oxide%20donor%20compound%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Keyaerts%2C%20E.%20Inhibition%20of%20SARS-coronavirus%20infection%20in%20vitro%20by%20S-nitroso-Nacetylpenicillamine%2C%20a%20nitric%20oxide%20donor%20compound%202004"
+        },
+        {
+            "id": "11",
+            "alt_id": "Wright_et+al_1999_a",
+            "entry": "11. Wright, R.O., W.J. Lewander, and A.D. Woolf, Methemoglobinemia: Etiology, Pharmacology, and Clinical Management. Annals of Emergency Medicine, 1999. 34(5): p. 646-656.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wright%2C%20R.O.%20Lewander%2C%20W.J.%20Woolf%2C%20A.D.%20Methemoglobinemia%3A%20Etiology%2C%20Pharmacology%2C%20and%20Clinical%20Management%201999",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wright%2C%20R.O.%20Lewander%2C%20W.J.%20Woolf%2C%20A.D.%20Methemoglobinemia%3A%20Etiology%2C%20Pharmacology%2C%20and%20Clinical%20Management%201999",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wright%2C%20R.O.%20Lewander%2C%20W.J.%20Woolf%2C%20A.D.%20Methemoglobinemia%3A%20Etiology%2C%20Pharmacology%2C%20and%20Clinical%20Management%201999"
+        },
+        {
+            "id": "12",
+            "alt_id": "Feiner_2010_a",
+            "entry": "12. Feiner, J.R. and P.E. Bickler, Improved Accuracy of Methemoglobin Detection by Pulse CO-Oximetry During Hypoxia. Anesthesia & Analgesia, 2010. 111(5): p. 1160-1167.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Feiner%2C%20J.R.%20Bickler%2C%20P.E.%20Improved%20Accuracy%20of%20Methemoglobin%20Detection%20by%20Pulse%20CO-Oximetry%20During%20Hypoxia%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Feiner%2C%20J.R.%20Bickler%2C%20P.E.%20Improved%20Accuracy%20of%20Methemoglobin%20Detection%20by%20Pulse%20CO-Oximetry%20During%20Hypoxia%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Feiner%2C%20J.R.%20Bickler%2C%20P.E.%20Improved%20Accuracy%20of%20Methemoglobin%20Detection%20by%20Pulse%20CO-Oximetry%20During%20Hypoxia%202010"
+        },
+        {
+            "id": "13",
+            "alt_id": "Lien_2008_a",
+            "entry": "13. Lien, T.-C., et al., Characteristic features and outcomes of severe acute respiratory syndrome found in severe acute respiratory syndrome intensive care unit patients. Journal of Critical Care, 2008. 23(4): p. 557-564.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lien%2C%20T.-C.%20Characteristic%20features%20and%20outcomes%20of%20severe%20acute%20respiratory%20syndrome%20found%20in%20severe%20acute%20respiratory%20syndrome%20intensive%20care%20unit%20patients%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lien%2C%20T.-C.%20Characteristic%20features%20and%20outcomes%20of%20severe%20acute%20respiratory%20syndrome%20found%20in%20severe%20acute%20respiratory%20syndrome%20intensive%20care%20unit%20patients%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lien%2C%20T.-C.%20Characteristic%20features%20and%20outcomes%20of%20severe%20acute%20respiratory%20syndrome%20found%20in%20severe%20acute%20respiratory%20syndrome%20intensive%20care%20unit%20patients%202008"
+        },
+        {
+            "id": "14",
+            "alt_id": "Talmor_2008_a",
+            "entry": "14. Talmor, D., et al., Mechanical Ventilation Guided by Esophageal Pressure in Acute Lung Injury. New England Journal of Medicine, 2008. 359(20): p. 2095-2104. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Talmor%2C%20D.%20Mechanical%20Ventilation%20Guided%20by%20Esophageal%20Pressure%20in%20Acute%20Lung%20Injury%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Talmor%2C%20D.%20Mechanical%20Ventilation%20Guided%20by%20Esophageal%20Pressure%20in%20Acute%20Lung%20Injury%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Talmor%2C%20D.%20Mechanical%20Ventilation%20Guided%20by%20Esophageal%20Pressure%20in%20Acute%20Lung%20Injury%202008"
+        }
+    ],
+    "facts": [
+        "due to novel Coronavirus related infection is characterized by severe ventilation perfusion mismatch leading to refractory hypoxemia",
+        "a selective pulmonary vasodilator gas used as a rescue therapy in refractory hypoxemia",
+        "Patients will be blinded to the treatment",
+        "The first pneumonia case with unknown etiology were identified in Wuhan",
+        "a diagnostic real-time reverse transcriptase polymerase chain assay were published in January 2020",
+        "SARS-CoV-2 has so far infected more than 110,000 people",
+        "The majority of the cases has been reported in China",
+        "a syndrome ranging from common cold to a severe pneumonia",
+        "In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19",
+        "26% of patients were admitted to the ICU",
+        "Another retrospective Chinese study on critically ill patients with COVID-19 pneumonia showed that 67% of patients met ARDS criteria",
+        "Reported casualties in the ICU are characterized of various profiles of multiorgan failure",
+        "hepatic tissues may suggest the contribution of a viral infection as well[7",
+        "the reported high incidence of severe disease in symptomatic patients poses a threat to healthcare systems involved in the outbreaks",
+        "NO gas has been approved by the US Federal Drug Administration for the treatment",
+        "NO gas has been advocated as rescue treatment in adults",
+        "Chen et al reported the use of inhaled NO gas in six patients with severe symptoms",
+        "in addition to improve the oxygenation of the severe cases",
+        "this study to assess whether continuous delivery of iNO",
+        "Intubated patients admitted to the intensive care unit with confirmed SARS-CoV-2 infection",
+        "when patients are free from hypoxemia",
+        "The study protocol has been approved by the Investigational Review Board of Xijing Hospital",
+        "Recruitment will start after approval of both IRBs",
+        "Results of this study will be published in scientific journals",
+        "the high mortality associated with SARS-CoV-2",
+        "Since abrupt discontinuation of iNO can sometimes result in rebound pulmonary hypertension",
+        "every 4 hours in stepwise fashion starting from 40 ppm",
+        "adverse events related to iNO delivery are well reported in the literature",
+        "Met-Hb is continuously monitored by non-invasive co-oximetry",
+        "If MetHb levels persist above 5%",
+        "iNO is progressively halved until a reduction below 5% occurs",
+        "The study will be blinded to the patient",
+        "The primary outcome is the improvement of arterial oxygenation at 48 hours",
+        "If a patient dies before the initiation of the gas",
+        "Levels of oxygenation will be calculated by the PaO2/FiO2 ratio",
+        "Patients will be followed until 90 days from enrollment",
+        "time to reach normoxia defined by a PaO2/FiO2",
+        "If a patient dies before day 28",
+        "Time to SARS-CoV-2 RT-PCR negative in upper respiratory tract specimen",
+        "that NO gas therapy leads to an improvement of oxygenation",
+        "to amelioration of ventilation perfusion matching in patients affected with SARS-CoV2",
+        "A previous study in ARDS patients ventilated according to standard of treatment reported a",
+        "with a two-sample means test a need for N1=91",
+        "sample size is thereby increased to N=200 patients",
+        "All patients admitted into recruiting ICUs with SARS-CoV2",
+        "for hypoxemia are screened for eligibility",
+        "the reasons are noted on a screening log",
+        "the details of the study are presented to the patient's healthcare proxy",
+        "A copy of the consent form will be given to the patient's healthcare proxy",
+        "the proxy's written consent is obtained by a clinician",
+        "The randomization sequence is created by an independent statistician using Stata 14.1",
+        "Clinical information including medical history and laboratory exams will be obtained from the medical charts",
+        "Collection of study variables will be managed by the outcome assessors",
+        "all data to a Studytrax page dedicated to the study",
+        "Data analysis will be based on the Intention-to-treat principle",
+        "clinical characteristics will be presented as number",
+        "Wilcoxon's rank-sum test for continuous variables as appropriate. Effect sizes will be described with the probability of more favorable outcome",
+        "The primary endpoint will be compared using T-test or Mann-Whitney U as appropriate. Time to reach normoxia will be compared within the two groups with a T-Test or Mann-Whitney U test",
+        "Survival curves will be generated via the Kaplan-Meier method",
+        "No adjustments will be made for multiple hypothesis evaluations of safety endpoints",
+        "for additional influent factors not involved in the randomization process",
+        "Data quality and safety will be monitored by each site's PI",
+        "the data quality according to data quality measures",
+        "An interim analysis will be performed at 50% of planned enrollment",
+        "The DSMB will determine whether the study should continue",
+        "diagnostic testing advances may possibly occur during the course of the trial",
+        "prolonged hospitalization and mortality will be recorded as part of the study defined outcomes",
+        "Other adverse events will be monitored by the site PI and research specialist in real time",
+        "Reportable adverse events will include hemodynamic change and deterioration of oxygenation related to NO inhalation",
+        "A serious adverse event in this study will be defined as a reportable adverse event",
+        "Sites will inform the principle investigators at the coordinating centers for any related adverse events directly caused by inhalation",
+        "The principle investigators will report these events to the DSMB",
+        "Participants can be informed about their recruitment arm and study results only 1 year after randomization",
+        "The results of the study will be published in scientific journals"
+    ],
+    "claims": [
+        "Given the absence of a targeted therapy, the refractory hypoxemia and the high mortality associated with SARS-CoV-2, we propose this protocol to all interested centers with SARSCoV-2 patients"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Nitric oxide is a selective pulmonary vasodilator gas used as a rescue therapy in refractory hypoxemia due to acute respiratory distress syndrome (ARDS)",
+        "Intubated patients admitted to the intensive care unit with confirmed Severe Acute Respiratory Distress Syndrome-CoV-2 infection and severe hypoxemia will be randomized to receive inhalation of nitric oxide or not",
+        "Treatment will be stopped when patients are free from hypoxemia for more than 24 hours",
+        "The study protocol has been approved by the Investigational Review Board of Xijing Hospital (Xi\u2019an, China) and pending the Partners Human Research Committee (Boston, USA)",
+        "The first pneumonia case with unknown etiology were identified in Wuhan, China in early December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "Severe Acute Respiratory Distress Syndrome-CoV-2 has so far infected more than 110,000 people worldwide with more than 4,000 deaths (3.6% of diagnosed patients)",
+        "In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19, the median time from clinical onset to hospital admission was 7 days, 26% of patients were admitted to the intensive care unit and 61% of them met clinical criteria for acute respiratory distress syndrome (ARDS) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]",
+        "Another retrospective Chinese study on critically ill patients with COVID-19 pneumonia showed that 67% of patients met acute respiratory distress syndrome criteria, with a mortality of 61.5% at 28 days",
+        "Reported casualties in the intensive care unit are characterized of various profiles of multiorgan failure (81% of deceased patients had acute respiratory distress syndrome, 37.5% had AKI, 28% had cardiac injury and 28% had liver failure) [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "Findings in cardiac and hepatic tissues may suggest the contribution of a viral infection as well[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]",
+        "The combined effect of the high transmission and the reported high incidence of severe disease in symptomatic patients poses a threat to healthcare systems involved in the outbreaks in different ways, including: cumulative casualties, increased need for hospital and intensive care unit beds causing work overload for all the healthcare staff and often forcing hospitals to shut down all elective surgical activity; high social and economic costs, dramatically reduction of the productivity by the rigorous quarantine requirements and strategies for curtailing disease spreading, which made economic pain that disrupt supply chains and stock markets",
+        "nitric oxide gas has been approved by the US Federal Drug Administration for the treatment of pulmonary hypertension of the newborn in presence of hypoxic respiratory failure",
+        "nitric oxide gas has been advocated as rescue treatment in adults with hypoxic acute respiratory distress syndrome [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]",
+        "Due to similarities with the Coronavirus responsible for Severe Acute Respiratory Distress Syndrome and COVID-19, we hypothesize that in addition to improve the oxygenation of the severe cases, inhaled nitric oxide gas gas retains potent antiviral activity against 2019-nCoV responsible for Severe Acute Respiratory Distress Syndrome-CoV-2",
+        "We designed this study to assess whether continuous delivery of inhaled nitric oxide gas as rescue therapy may increase oxygenation and improves survival in patients with Severe Acute Respiratory Distress Syndrome-CoV-2",
+        "Given the absence of a targeted therapy, the refractory hypoxemia and the high mortality associated with Severe Acute Respiratory Distress Syndrome-CoV-2, we propose this protocol to all interested centers with SARSCoV-2 patients",
+        "Since abrupt discontinuation of inhaled nitric oxide gas can sometimes result in rebound pulmonary hypertension, with possible oxygenation impairment and acute right heart failure, gradual discontinuation will be performed",
+        "In absence of institutional protocols, inhaled nitric oxide gas will be reduced every 4 hours in stepwise fashion starting from 40 ppm to 20, 10, 5, 3, 2 and 1 ppm",
+        "The side effects and adverse events related to inhaled nitric oxide gas delivery are well reported in the literature",
+        "If MetHb levels persist above 5%, inhaled nitric oxide gas is progressively halved until a reduction below 5% occurs",
+        "Secondary outcomes include: (1) time to reach normoxia defined by a PaO2/FiO2> 300 for at least 24 hours during the first 28 days after enrollment",
+        "If a patient dies before day 28, the patient will be considered as \u201cnever recovered\u201d; (2) proportion of Severe Acute Respiratory Distress Syndrome-nCoV-2 free patients during the first 28 days after enrollment",
+        "The following data will be collected to assess exploratory outcomes, such as: (1) Daily oxygenation in the two groups until day 28; (2) Need for new renal replacement therapy during the first 28 days; (3) Mechanical support of circulation (i.e., ECMO, intra-aortic balloon pump, VADs) during the first 28 days; (4) Days free of vasopressors during the first 28 days; (5) Ventilator-free day at 28 days; (6) Time to Severe Acute Respiratory Distress Syndrome-CoV-2 RT-PCR negative in upper respiratory tract specimen; (7) intensive care unit-free days at 28 days",
+        "We hypothesize that nitric oxide gas therapy leads to an improvement of oxygenation due to amelioration of ventilation perfusion matching in patients affected with Severe Acute Respiratory Distress Syndrome-CoV2",
+        "A 10% of dropouts after intensive care unit discharge is foreseen and sample size is thereby increased to N=200 patients",
+        "All patients admitted into recruiting intensive care unit with Severe Acute Respiratory Distress Syndrome-CoV2 and intubated for hypoxemia are screened for eligibility",
+        "If a patient is excluded, the reasons are noted on a screening log",
+        "To adjust for additional influent factors not involved in the randomization process such as age, acute respiratory distress syndrome severity and co-administration of other experimental treatments, we will perform a multivariate logistic regession analysis on the primary outcome"
+    ],
+    "top_statements": [
+        "The first pneumonia case with unknown etiology were identified in Wuhan, China in early December 2019 [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "Nitric oxide is a selective pulmonary vasodilator gas used as a rescue therapy in refractory hypoxemia due to acute respiratory distress syndrome (ARDS)",
+        "In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19, the median time from clinical onset to hospital admission was 7 days, 26% of patients were admitted to the intensive care unit and 61% of them met clinical criteria for acute respiratory distress syndrome (ARDS) [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]",
+        "Another retrospective Chinese study on critically ill patients with COVID-19 pneumonia showed that 67% of patients met acute respiratory distress syndrome criteria, with a mortality of 61.5% at 28 days",
+        "Given the absence of a targeted therapy, the refractory hypoxemia and the high mortality associated with Severe Acute Respiratory Distress Syndrome-CoV-2, we propose this protocol to all interested centers with SARSCoV-2 patients",
+        "All patients admitted into recruiting intensive care unit with Severe Acute Respiratory Distress Syndrome-CoV2 and intubated for hypoxemia are screened for eligibility"
+    ],
+    "headline": "In a retrospective Chinese study on 138 consecutive patients admitted with COVID-19, the median time from clinical onset to hospital admission was 7 days, 26% of patients were admitted to the intensive care unit and 61% of them met clinical criteria for acute respiratory distress syndrome",
+    "contexts": [],
+    "abbreviations": {
+        "ARDS": "acute respiratory distress syndrome",
+        "iNO": "inhaled nitric oxide gas",
+        "ICU": "intensive care unit",
+        "SARS": "Severe Acute Respiratory Distress Syndrome",
+        "MERS": "Middle Eastern Resporatory Syndrome",
+        "NO": "nitric oxide",
+        "MCC": "Medical Coordinating Center",
+        "DSMB": "Data Safety Monitoring Board",
+        "ICH-GCP": "International Conference on Harmonization Good Clinical Practices"
+    }
+}

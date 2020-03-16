@@ -1,0 +1,257 @@
+{
+    "filename": "2020.03.12.20034793v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 452366,
+    "metadata": {
+        "title": "Infrared assessment of human facial temperature in the presence and absence of common cosmetics",
+        "author": "Kaikai Zheng,\u00a71 Ruoyu Dong,\u00a71 Huan Wang,\u00a71 and Steve Granick",
+        "date": 2020,
+        "affiliations": [
+            "Center for Soft and Living Matter, Institute for Basic Science (IBS), Ulsan 44919, South Korea",
+            "Department of Chemistry, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, South Korea \u00a7 these authors contributed equally"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.12.20034793",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.12.20034793v1.pdf"
+        },
+        "abstract": "Using a sensitive research-grade infrared camera, we find that common facial cosmetics and lotions mask skin temperature in assays of the human forehead. We test a family of 10 commonly-used cosmetic products and find that volatile liquids and creams lower thermal skin temperature by at least 2 C for up to 5-10 min and at least 1 C for up to 20 min, respectively. Powder and cream that contains brightening agent lower indefinitely the skin temperature sensed by infrared camera. With the qualification that these experiments were performed in a controlled laboratory setting rather than the mass crowd screening environment where infrared temperature sensing of humans sees widespread use, our tests suggest that for human subjects whose face was treated with certain cosmetics and lotions, infrared-based screening for elevated facial temperature (fever) can be unreliable.",
+        "emails": [
+            "sgranick@gmail.com"
+        ],
+        "references": "",
+        "references_ris": "",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "I",
+                "caption": "Family of 10 commercially-available cosmetics that were tested, identified by number-code and function. As the sources used are believed to be representative of the functions, brands are not identified"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Raw data. Left panel: representative infrared image of the subject\u2019s face. Data regarding temperature depression were quantified as the difference between the blank (\u201cB\u201d) and cosmetic-containing (\u201cC\u201d) regions of the forehead. The image includes a color bar identifying temperature. Right panel: Absolute skin temperature monitored in region C (open symbols) and B (filled symbols) versus time, showing excellent stability of the measurement"
+            },
+            {
+                "id": "2",
+                "caption": "Cream and powder influence on thermal temperature measurement. Temperature depression is plotted against time for cosmetic #1, marketed as a tone-up brightening cream; cosmetic #2, marketed as a natural moisturizing cream; and cosmetic #3, a powder highlighter. The inset, a thermal image of the subject\u2019s face, illustrates the cosmetic-coated region of the forehead"
+            },
+            {
+                "id": "3",
+                "caption": "Sunscreen influence on thermal temperature measurement. Temperature depression is plotted against time for cosmetic #4, an emulsion sunscreen, and cosmetic #5, a broad-spectrum cream sunscreen. The remarkably strong temperature depression of cosmetic #5, despite its lower SPF value, appears to be because it is a cream. The inset, a thermal image of the subject\u2019s face, illustrates the cosmetic-coated region of the forehead"
+            },
+            {
+                "id": "4",
+                "caption": "Other cosmetics. Depression of skin temperature is plotted against time for 5 additional cosmetics with the strong temperature-depression effect of cosmetic #1 included for reference: cosmetic #6, a color foundation common in facial makeup; cosmetic #7, a lotion with more volatile components; cosmetic #8, a toner; cosmetic #9, a water-like gel cream; and cosmetic #10, a facial mask used to moisturize the skin"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.12.20034793v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.12.20034793v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.12.20034793v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.12.20034793v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.12.20034793v1/img-003.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "The average person trusts the validity of fever screening by noncontact infrared-based (IR) temperature measurement, which has become a staple of modern screening for elevated temperatures associated with coronavirus COVID-19 and other illness1-8. Such people with elevated temperature potentially should be denied access to sensitive locations such as a meeting room or hospital, or potentially should even be quarantined. It is interesting and relevant to consider limitations of the measurement on the basis of which such decisions are made, especially as the premise of this test is that skin temperature is an accurate proxy for body temperature.<br/><br/>This study assesses the hypothesis that skin temperature can be lowered simply by applying facial cosmetics. In this hypothesis, skin coating using creams, powders, sunscreen, and other instruments of personal care might lower the temperature measured by infrared imaging. Testing the hypothesis, we present here the results of screening a large family of 10 common cosmetic products.<br/><br/>while the other side contained applied cosmetic. Temperature difference between these two spots was quantified. Usually the area of each spot was round, at least 2 cm in diameter.<br/><br/>Samples of cosmetics were selected from among those in common personal care use by researchers in our immediate environment. They were equilibrated at room temperature. Depending on the texture, they were applied in different ways. Toners and lotions were applied using common cosmetic cotton pads. Emulsions and creams were applied with hand. Powders were applied with makeup brush. Amounts similar to or slightly larger than those for daily use were applied."
+        ],
+        "results": [
+            "The 10 cosmetic products that we investigated are summarized in Table I.    II. EXPERIMENTAL<br/><br/>For noncontact infrared thermal measurement9,10, we used a low-noise, high-performance mid-infrared research grade camera, FLIR A8303sc (FLIR, Inc., Wilsonville, OR, USA) with nominal resolution <0.02 \u25e6C. The measurements were quantified using the company\u2019s software, FLIR ResearchIR MAX. The measurements, made at 3 Hz, were averaged over 30 s to produce the data presented here.<br/><br/>Function Brightening Cream Cream Powder Highlighter Sunscreen (Emulsion) Sunscreen (Cream) Foundation Lotion Toner Gel Cream Mask<br/><br/>Raw data. Fig. 1 illustrates raw data. The left panel (Fig. 1a), a typical thermal image, shows skin temperature measured in different regions of the subject\u2019s face. One complication is that the subject inevitably shifted position of his head during the long measurement times, thereby presenting the possibility that the apparent temperature might shift owing to change in the measurement focus. To compensate for this possibility, we made differential measurements between two regions of the forehead, one blank region (cosmetic-free), one region to which cosmetics were applied. Showing the excellent reproducibility of the measurement over extended times, Fig. 1b illustrates apparent absolute temperature plotted against time. Naturally, this healthy subject\u2019s skin temperature of \u2248 34.35 C was below his body temperature, which was normal.<br/><br/>is plotted against time after the cosmetic was applied. Cosmetic #1, marketed as a tone-up brightening cream, produced the largest depression of skin temperature. Skin temperature was depressed by at least 2 C for 15 min and 1 C for 20 min, likely because evaporation of volatile components lowers temperature. The evaporation rate was notably slow, perhaps because the volatile components (water) also dissolve in the skin. After the cosmetic had remained on the skin for 40 min, it was washed with cosmetic remover and strikingly, the skin temperature remained depressed by \u2248 0.8 C. This semi-permanent depression of skin temperature likely reflects the presence of residual solid-state brightener specified as an active ingredient in the product\u2019s marketing.<br/><br/>Cosmetic #2, marketed as a natural moisturizing cream, also depressed the skin temperature by at least 2 C for 15 min and 1 C for 20 min. After this time, the skin temperature continued to decrease, probably reflecting the continuing absorption of cream into skin. After 40 min, no further change was observed.<br/><br/>Cosmetic #3, a powder highlighter containing dry powder, mica and talc, produced similar depression of skin temperature as the long-time effect of cosmetic #1, except that it lacked the strong temperature depression associated with evaporation of copious volatile liquid. The steady-state temperature depression was \u2248 0.8 C.<br/><br/>Creams, powder. In Fig. 2, the effect of applying cosmetic is considered. Depression of skin temperature<br/><br/>Sunscreen. In Fig. 3, depression of skin temperature is plotted against time after sunscreens were applied. Cosmetic #4, an emulsion sunscreen, produced no depression of skin temperature after 5 min, reflecting rapid evaporation of the alcohol carrier liquid. However, cosmetic #5, a broad-spectrum cream sunscreen, produced markedly long-lived depression of the skin temperature for times extending beyond 30 min.<br/><br/>Evidently these effects are not in proportion to the SPF (sun protection value) as SPF=50 and 30 for the former and latter, respectively. Skin temperature depression was less for the sunscreen with higher SPF. Instead, the remarkably strong temperature depression produced by cosmetic #5 appears to be that, just as for cosmetics #1 and #2, it is a cream.<br/><br/>Other cosmetics. In Fig. 4, depression of skin temperature is plotted against time for 5 additional cosmetics and for reference the strong temperaturedepression effect of cosmetic #1 is included. Cosmetic #6, a foundation common in facial makeup, showed negligible effect after 5 min, despite the fact that the likely major components of residue are talc, mica, silica, dimethicone, zinc stearate, and titanium oxide. Cosmetic #7, a lotion with more volatile components, produced stronger temperature depression during the initial 5 min, but after 10 min there was no effect. For cosmetic #8, a toner, and cosmetic #9, a water-like gel cream, the effect likewise disappeared after 10 min.<br/><br/>amount of depression falls into the following categories: (1) Cosmetics that lower skin temperature by the physical principle of evaporative cooling. The fact that liquids absorb heat to evaporate has been used for thousands of years for air conditioning, at least as long ago as in ancient Egypt, Persia, and India.11 In cosmetics, this short-term effect appears to disappear after 5-15 min. (2) Cosmetics that lower skin temperature by acting as a barrier layer between skin and surrounding air. The effect is marked for creams but the effect appears to disappear after 20-30 min, perhaps as cream is absorbed into the skin. (3) Cosmetics that lower skin temperature because they contain solids. The effect was most marked for brightening cream and powder highlighter, cosmetics #1 and #3, respectively. Depression of skin temperature appears to persist semi-indefinitely, probably because solid particles in the cosmetic, with lower emissivity than skin, are embedded in the skin. However, this effect is less prominent for foundation (cosmetic #6), suggesting that size of the solid particles matters.<br/><br/>Cosmetic #10, a facial mask used to moisturize the skin, was left on the face for 30 min and skin temperature was monitored subsequently. A large effect was observed for the initial 10 min but there was no effect after 15 min."
+        ],
+        "conclusion": [
+            "The application of cosmetics to the human face can depress the temperature read in noncontact thermal imaging. The<br/><br/>The study will also apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that we used here.1-8 However, it has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum.<br/><br/>It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, we simply employed cosmetics that are in common use in our cultural environment. Also it will be interesting and relevant, in future work, to understand the influence of the amount of cosmetic that is applied; as noted above, we simply employed thickness roughly that which we find in common use around us. The purpose of this report is to call attention to the importance of the phenomenon and to show that cosmetics disguise actual skin temperature. Finally, in future work it will be interesting and relevant to understand better the physical reasons behind the phenomena reported above. Human skin has very high emissivity, 0.98, close to 1. Lower emissivity (higher reflectivity) will result in a lower value of temperature measured by the infrared (IR) camera. The IR camera does not measure true temperature, but actually measures radiated light from the object, which is then material and surface property dependent"
+        ],
+        "acknowledgments": [
+            "This work was supported by the taxpayers of South Korea through the Institute for Basic Science, project code IBS-R020-D1."
+        ],
+        "funding": [
+            "This work was supported by the taxpayers of South Korea through the Institute for Basic Science, project code IBS-R020-D1"
+        ]
+    },
+    "structured_content": {
+        "I. INTRODUCTION": [
+            "The average person trusts the validity of fever screening by noncontact infrared-based (IR) temperature measurement, which has become a staple of modern screening for elevated temperatures associated with coronavirus COVID-19 and other illness1-8. Such people with elevated temperature potentially should be denied access to sensitive locations such as a meeting room or hospital, or potentially should even be quarantined. It is interesting and relevant to consider limitations of the measurement on the basis of which such decisions are made, especially as the premise of this test is that skin temperature is an accurate proxy for body temperature.",
+            "This study assesses the hypothesis that skin temperature can be lowered simply by applying facial cosmetics. In this hypothesis, skin coating using creams, powders, sunscreen, and other instruments of personal care might lower the temperature measured by infrared imaging. Testing the hypothesis, we present here the results of screening a large family of 10 common cosmetic products.",
+            "while the other side contained applied cosmetic. Temperature difference between these two spots was quantified. Usually the area of each spot was round, at least 2 cm in diameter.",
+            "Samples of cosmetics were selected from among those in common personal care use by researchers in our immediate environment. They were equilibrated at room temperature. Depending on the texture, they were applied in different ways. Toners and lotions were applied using common cosmetic cotton pads. Emulsions and creams were applied with hand. Powders were applied with makeup brush. Amounts similar to or slightly larger than those for daily use were applied."
+        ],
+        "III. RESULTS": [
+            "The 10 cosmetic products that we investigated are summarized in Table I."
+        ],
+        "II. EXPERIMENTAL": [
+            "For noncontact infrared thermal measurement9,10, we used a low-noise, high-performance mid-infrared research grade camera, FLIR A8303sc (FLIR, Inc., Wilsonville, OR, USA) with nominal resolution <0.02 \u25e6C. The measurements were quantified using the company\u2019s software, FLIR ResearchIR MAX. The measurements, made at 3 Hz, were averaged over 30 s to produce the data presented here.",
+            "Function Brightening Cream Cream Powder Highlighter Sunscreen (Emulsion) Sunscreen (Cream) Foundation Lotion Toner Gel Cream Mask",
+            "Raw data. Fig. 1 illustrates raw data. The left panel (Fig. 1a), a typical thermal image, shows skin temperature measured in different regions of the subject\u2019s face. One complication is that the subject inevitably shifted position of his head during the long measurement times, thereby presenting the possibility that the apparent temperature might shift owing to change in the measurement focus. To compensate for this possibility, we made differential measurements between two regions of the forehead, one blank region (cosmetic-free), one region to which cosmetics were applied. Showing the excellent reproducibility of the measurement over extended times, Fig. 1b illustrates apparent absolute temperature plotted against time. Naturally, this healthy subject\u2019s skin temperature of \u2248 34.35 C was below his body temperature, which was normal.",
+            "is plotted against time after the cosmetic was applied. Cosmetic #1, marketed as a tone-up brightening cream, produced the largest depression of skin temperature. Skin temperature was depressed by at least 2 C for 15 min and 1 C for 20 min, likely because evaporation of volatile components lowers temperature. The evaporation rate was notably slow, perhaps because the volatile components (water) also dissolve in the skin. After the cosmetic had remained on the skin for 40 min, it was washed with cosmetic remover and strikingly, the skin temperature remained depressed by \u2248 0.8 C. This semi-permanent depression of skin temperature likely reflects the presence of residual solid-state brightener specified as an active ingredient in the product\u2019s marketing.",
+            "Cosmetic #2, marketed as a natural moisturizing cream, also depressed the skin temperature by at least 2 C for 15 min and 1 C for 20 min. After this time, the skin temperature continued to decrease, probably reflecting the continuing absorption of cream into skin. After 40 min, no further change was observed.",
+            "Cosmetic #3, a powder highlighter containing dry powder, mica and talc, produced similar depression of skin temperature as the long-time effect of cosmetic #1, except that it lacked the strong temperature depression associated with evaporation of copious volatile liquid. The steady-state temperature depression was \u2248 0.8 C.",
+            "Creams, powder. In Fig. 2, the effect of applying cosmetic is considered. Depression of skin temperature",
+            "Sunscreen. In Fig. 3, depression of skin temperature is plotted against time after sunscreens were applied. Cosmetic #4, an emulsion sunscreen, produced no depression of skin temperature after 5 min, reflecting rapid evaporation of the alcohol carrier liquid. However, cosmetic #5, a broad-spectrum cream sunscreen, produced markedly long-lived depression of the skin temperature for times extending beyond 30 min.",
+            "Evidently these effects are not in proportion to the SPF (sun protection value) as SPF=50 and 30 for the former and latter, respectively. Skin temperature depression was less for the sunscreen with higher SPF. Instead, the remarkably strong temperature depression produced by cosmetic #5 appears to be that, just as for cosmetics #1 and #2, it is a cream.",
+            "Other cosmetics. In Fig. 4, depression of skin temperature is plotted against time for 5 additional cosmetics and for reference the strong temperaturedepression effect of cosmetic #1 is included. Cosmetic #6, a foundation common in facial makeup, showed negligible effect after 5 min, despite the fact that the likely major components of residue are talc, mica, silica, dimethicone, zinc stearate, and titanium oxide. Cosmetic #7, a lotion with more volatile components, produced stronger temperature depression during the initial 5 min, but after 10 min there was no effect. For cosmetic #8, a toner, and cosmetic #9, a water-like gel cream, the effect likewise disappeared after 10 min.",
+            "amount of depression falls into the following categories: (1) Cosmetics that lower skin temperature by the physical principle of evaporative cooling. The fact that liquids absorb heat to evaporate has been used for thousands of years for air conditioning, at least as long ago as in ancient Egypt, Persia, and India.11 In cosmetics, this short-term effect appears to disappear after 5-15 min. (2) Cosmetics that lower skin temperature by acting as a barrier layer between skin and surrounding air. The effect is marked for creams but the effect appears to disappear after 20-30 min, perhaps as cream is absorbed into the skin. (3) Cosmetics that lower skin temperature because they contain solids. The effect was most marked for brightening cream and powder highlighter, cosmetics #1 and #3, respectively. Depression of skin temperature appears to persist semi-indefinitely, probably because solid particles in the cosmetic, with lower emissivity than skin, are embedded in the skin. However, this effect is less prominent for foundation (cosmetic #6), suggesting that size of the solid particles matters.",
+            "Cosmetic #10, a facial mask used to moisturize the skin, was left on the face for 30 min and skin temperature was monitored subsequently. A large effect was observed for the initial 10 min but there was no effect after 15 min."
+        ],
+        "IV. CONCLUSION": [
+            "The application of cosmetics to the human face can depress the temperature read in noncontact thermal imaging. The",
+            "The study will also apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that we used here.1-8 However, it has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum.",
+            "It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, we simply employed cosmetics that are in common use in our cultural environment. Also it will be interesting and relevant, in future work, to understand the influence of the amount of cosmetic that is applied; as noted above, we simply employed thickness roughly that which we find in common use around us. The purpose of this report is to call attention to the importance of the phenomenon and to show that cosmetics disguise actual skin temperature. Finally, in future work it will be interesting and relevant to understand better the physical reasons behind the phenomena reported above. Human skin has very high emissivity, 0.98, close to 1. Lower emissivity (higher reflectivity) will result in a lower value of temperature measured by the infrared (IR) camera. The IR camera does not measure true temperature, but actually measures radiated light from the object, which is then material and surface property dependent",
+            "These conclusions are important as they show that the temperature \u201cseen\u201d by infrared thermal screening can be easily disguised by common cosmetics. They are relevant to evaluating screening of human populations for the COVID-19 virus and other illnesses that cause fever. They suggest conclusions with two potential security implications: Fever of nearly 1 C (1-2 degrees Fahrenheit) could be masked by applying, to the human forehead, common cosmetics that contain solid particles.",
+            "Fever of 1-2 C (almost 2-4 degrees Fahrenheit) could be masked temporarily, for up to 20-30 min, by applying common cosmetics to the human forehead."
+        ],
+        "ACKNOWLEDGMENTS": [
+            "This work was supported by the taxpayers of South Korea through the Institute for Basic Science, project code IBS-R020-D1."
+        ],
+        "REFERENCES": [
+            "1Ghassemi, P; Pfefer, TJ ; Casamento, JP; Simpson, R; Wang, QZ, \u201cBest practices for standardized performance testing of infrared thermographs intended for fever screening,\u201d PLOS ONE 13, e0203302 (2018). 2Sun, G; Nakayama, Y; Dagdanpurev, S; Abe, S; Nishimura, H; Kirimoto, T; Matsui, T, \u201cRemote sensing of multiple vital signs using a CMOS camera-equipped infrared thermography system and its clinical application in rapidly screening patients with suspected infectious disease,\u201d International J. of Infectious Diseases 55, 113 (2017). 3Short, NJ; Yuffa, AJ; Videen, G; Hu, S, \u201cEffects of surface materials on polarimetric thermal measurements: applications to face,\u201d Applied Optics 55, 5526 (2016). 4Tay, MR; Low, YL; Zhao, X; Cook, AR; Lee, VJ, \u201cComparison of Infrared Thermal Detection Systems for mass fever screening in a tropical healthcare setting,\u201d Public Health 129, 1471 (2015). 5Cho, KS; Yoon, J, \u201cFever screening and detection of febrile arrivals at an international airport in Korea: association among self-reported fever, infrared thermal camera scanning, and tympanic temperature,\u201d Epidemiology and Health 36, e2014004 (2014). 6Mercer, JB; Ring, FJ, \u201cFever screening and infrared thermal imaging: concerns and guidelines,\u201d Thermology International 19, 67 (2009). 7Bitar, D; Goubar, A; Desenclos, JC, \u201cInternational travels and fever screening during epidemics: a literature review on the effectiveness and potential use of non-contact infrared thermometers,\u201d Eurosurveillance 14, 1 (2009). 8Ng, EHK, \u201cIs thermal scanner losing its bite in mass screening of fever due to SARS?,\u201d Medical Physics 32, 93 (2005). 9Lahiri, BB; Bagavathiappan, T; Jayakumar, T; Philip, J, \u201cMedical applications of infrared thermography: a review,\u201d Infrared Physics and Technology, 55, 221 (2012). 10Fraden, J, \u201cNoncontact Fever Screening System,\u201d US Patent US 2007/0153871 A1 (2017). 11Emdadi, Z; Asim, N; Yarmo, MA; Shamsudin, R; Mohammad, M; Sopian, K, \u201cGreen Material Prospects for Passive Evaporative Cooling Systems: Geopolymers,\u201d Energies 9, 586 (2016). 12Kim, DW; Zhang, HY; Yoo, JH; Park, YS; Song, HJ; Yang, KH, \u201cThe correlation between tympanic membrane temperature and specific region of face temperature,\u201d Quantitatative Infrared Thermal Tomography J 16, 1 (2019)."
+        ]
+    },
+    "participants": [],
+    "statistics": [],
+    "keywords": [
+        "facial temperature",
+        "future work",
+        "facial cosmetic",
+        "cosmetics",
+        "personal care",
+        "skin temperature",
+        "elevated temperature",
+        "COVID-19",
+        "common cosmetic"
+    ],
+    "keyword_relevance": {
+        "skin temperature": 0.3939393939393939,
+        "cosmetics": 0.3181818181818182,
+        "common cosmetic": 0.09090909090909091,
+        "future work": 0.045454545454545456,
+        "facial temperature": 0.030303030303030304,
+        "facial cosmetic": 0.030303030303030304,
+        "personal care": 0.030303030303030304,
+        "elevated temperature": 0.030303030303030304,
+        "COVID-19": 0.030303030303030304
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The average person trusts the validity of fever screening by noncontact infrared-based (IR) temperature measurement, which has become a staple of modern screening for elevated temperatures associated with coronavirus COVID-19 and other illness1-8.",
+        "This study assesses the hypothesis that skin temperature can be lowered by applying facial cosmetics",
+        "In this hypothesis, skin coating using creams, powders, sunscreen, and other instruments of personal care might lower the temperature measured by infrared imaging.",
+        "Samples of cosmetics were selected from among those in common personal care use by researchers in the immediate environment",
+        "They were equilibrated at room temperature.",
+        "Amounts similar to or slightly larger than those for daily use were applied",
+        "<h2 style=\"display: inline\">Results:</h2> The 10 cosmetic products that the authors investigated are summarized in Table I.",
+        "Cosmetic #5, a broad-spectrum cream sunscreen, produced markedly long-lived depression of the skin temperature for times extending beyond 30 min.",
+        "These effects are not in proportion to the SPF as SPF=50 and 30 for the former and latter, respectively.",
+        "A large effect was observed for the initial 10 min but there was no effect after 15 min",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The application of cosmetics to the human face can depress the temperature read in noncontact thermal imaging.",
+        "The study will apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that the authors used here.1-8",
+        "It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum.",
+        "It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, the authors employed cosmetics that are in common use in the cultural environment.",
+        "The IR camera does not measure true temperature, but measures radiated light from the object, which is material and surface property dependent"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The average person trusts the validity of fever screening by noncontact infrared-based (IR) temperature measurement, which has become a staple of modern screening for elevated temperatures associated with coronavirus COVID-19 and other illness1-8.",
+            "This study assesses the hypothesis that skin temperature can be lowered by applying facial cosmetics",
+            "In this hypothesis, skin coating using creams, powders, sunscreen, and other instruments of personal care might lower the temperature measured by infrared imaging.",
+            "Samples of cosmetics were selected from among those in common personal care use by researchers in the immediate environment",
+            "They were equilibrated at room temperature.",
+            "Amounts similar to or slightly larger than those for daily use were applied"
+        ],
+        "Results": [
+            "The 10 cosmetic products that the authors investigated are summarized in Table I.",
+            "Cosmetic #5, a broad-spectrum cream sunscreen, produced markedly long-lived depression of the skin temperature for times extending beyond 30 min.",
+            "These effects are not in proportion to the SPF as SPF=50 and 30 for the former and latter, respectively.",
+            "A large effect was observed for the initial 10 min but there was no effect after 15 min"
+        ],
+        "Conclusion": [
+            "The application of cosmetics to the human face can depress the temperature read in noncontact thermal imaging.",
+            "The study will apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that the authors used here.1-8",
+            "It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum.",
+            "It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, the authors employed cosmetics that are in common use in the cultural environment.",
+            "The IR camera does not measure true temperature, but measures radiated light from the object, which is material and surface property dependent"
+        ]
+    },
+    "reference_links": [],
+    "facts": [
+        "the skin temperature sensed by infrared camera",
+        "With the qualification that these experiments were performed in a controlled laboratory setting",
+        "for human subjects whose face was treated with certain cosmetics and lotions",
+        "The average person trusts the validity of fever screening by noncontact infrared-based temperature measurement",
+        "which has become a staple of modern screening for elevated temperatures associated with coronavirus COVID-19",
+        "especially as the premise of this test is that skin temperature is an accurate proxy for body temperature",
+        "the hypothesis that skin temperature can be lowered by applying facial cosmetics",
+        "the temperature measured by infrared imaging",
+        "Emulsions and creams were applied with hand",
+        "Powders were applied with makeup brush",
+        "shows skin temperature measured in different regions of the subject's face",
+        "One complication is that the subject inevitably shifted position of his head",
+        "the possibility that the apparent temperature might shift owing to change in the measurement focus",
+        "1b illustrates apparent absolute temperature plotted against time",
+        "this healthy subject's skin temperature of \u2248 34.35 C was below his body temperature",
+        "perhaps because the volatile components dissolve in the skin",
+        "After the cosmetic had remained on the skin for 40 min",
+        "0.8 C. This semi-permanent depression of skin temperature likely reflects the presence of residual solid-state brightener specified as an active ingredient",
+        "the strong temperature depression associated with evaporation of copious volatile liquid",
+        "depression of skin temperature is plotted against time after sunscreens were applied",
+        "markedly long-lived depression of the skin temperature for times extending beyond 30 min",
+        "Skin temperature depression was less for the sunscreen with higher SPF",
+        "depression of skin temperature is plotted against time for 5 additional cosmetics",
+        "the effect likewise disappeared after 10 min",
+        "amount of depression falls into the following categories",
+        "The fact that liquids absorb heat to evaporate has been used for thousands of years",
+        "this short-term effect appears to disappear after 5-15 min",
+        "The effect is marked for creams",
+        "the effect appears to disappear after 20-30 min",
+        "perhaps as cream is absorbed into the skin",
+        "The effect was most marked for brightening cream and powder highlighter",
+        "this effect is less prominent for foundation",
+        "the temperature read in noncontact thermal imaging",
+        "The study will apply to the reliability of portable temperature scanners",
+        "as cosmetics are not applied to the eardrum",
+        "employed cosmetics that are in common use in our cultural environment",
+        "Lower emissivity will result in a lower value of temperature measured by the infrared camera"
+    ],
+    "claims": [
+        "Using a sensitive research-grade infrared camera, we find that common facial cosmetics and lotions mask skin temperature in assays of the human forehead",
+        "Testing the hypothesis, we present here the results of screening a large family of 10 common cosmetic products",
+        "The 10 cosmetic products that we investigated are summarized in Table I",
+        "Also it will be interesting and relevant, in future work, to understand the influence of the amount of cosmetic that is applied; as noted above, we simply employed thickness roughly that which we find in common use around us"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "The 10 cosmetic products that we investigated are summarized in Table I",
+        "After the cosmetic had remained on the skin for 40 min, it was washed with cosmetic remover and strikingly, the skin temperature remained depressed by \u2248 0.8 C",
+        "Cosmetic #3, a powder highlighter containing dry powder, mica and talc, produced similar depression of skin temperature as the long-time effect of cosmetic #1, except that it lacked the strong temperature depression associated with evaporation of copious volatile liquid",
+        "In Fig. 3, depression of skin temperature is plotted against time after sunscreens were applied",
+        "Cosmetic #5, a broad-spectrum cream sunscreen, produced markedly long-lived depression of the skin temperature for times extending beyond 30 min",
+        "Skin temperature depression was less for the sunscreen with higher SPF",
+        "In Fig. 4, depression of skin temperature is plotted against time for 5 additional cosmetics and for reference the strong temperaturedepression effect of cosmetic #1 is included",
+        "For cosmetic #8, a toner, and cosmetic #9, a water-like gel cream, the effect likewise disappeared after 10 min",
+        "Amount of depression falls into the following categories: (1) Cosmetics that lower skin temperature by the physical principle of evaporative cooling",
+        "The fact that liquids absorb heat to evaporate has been used for thousands of years for air conditioning, at least as long ago as in ancient Egypt, Persia, and India.11. This short-term effect appears to disappear after 5-15 min",
+        "The effect was most marked for brightening cream and powder highlighter, cosmetics #1 and #3, respectively",
+        "Depression of skin temperature appears to persist semi-indefinitely, probably because solid particles in the cosmetic, with lower emissivity than skin, are embedded in the skin. This effect is less prominent for foundation, suggesting that size of the solid particles matters",
+        "The application of cosmetics to the human face can depress the temperature read in noncontact thermal imaging",
+        "The study will apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that we used here.1-8. It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum",
+        "The study will apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that we used here.1-8. It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum. It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, we employed cosmetics that are in common use in our cultural environment",
+        "It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum. It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, we employed cosmetics that are in common use in our cultural environment. It will be interesting and relevant, in future work, to understand the influence of the amount of cosmetic that is applied; as noted above, we employed thickness roughly that which we find in common use around us"
+    ],
+    "top_statements": [
+        "The average person trusts the validity of fever screening by noncontact infrared-based (IR) temperature measurement, which has become a staple of modern screening for elevated temperatures associated with coronavirus COVID-19 and other illness1-8",
+        "After the cosmetic had remained on the skin for 40 min, it was washed with cosmetic remover and strikingly, the skin temperature remained depressed by \u2248 0.8 C",
+        "Cosmetic #3, a powder highlighter containing dry powder, mica and talc, produced similar depression of skin temperature as the long-time effect of cosmetic #1, except that it lacked the strong temperature depression associated with evaporation of copious volatile liquid",
+        "Cosmetic #5, a broad-spectrum cream sunscreen, produced markedly long-lived depression of the skin temperature for times extending beyond 30 min",
+        "The study will apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that we used here.1-8. It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum. It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, we employed cosmetics that are in common use in our cultural environment",
+        "It will be interesting and relevant, in future work, to understand the influence of the amount of cosmetic that is applied; as noted above, we employed thickness roughly that which we find in common use around us"
+    ],
+    "headline": "The study will apply to the reliability of portable temperature scanners which do not require imaging and pixel reading that we used here.1-8. It has no implication for infrared measurements of ear temperature12, as cosmetics are not applied to the eardrum. It will be interesting and relevant, in future work, to understand how the ingredients of different cosmetic brands matters; in this study, we employed cosmetics that are in common use in our cultural environment",
+    "contexts": [],
+    "abbreviations": {}
+}

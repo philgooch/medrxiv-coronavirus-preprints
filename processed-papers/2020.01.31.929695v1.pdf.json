@@ -1,0 +1,475 @@
+{
+    "filename": "2020.01.31.929695v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 7124983,
+    "metadata": {
+        "title": "Molecular Modeling Evaluation of the Binding Abilities of Ritonavir and Lopinavir to Wuhan Pneumonia Coronavirus Proteases",
+        "author": "Shen Lin, Runnan Shen, Xushun Guo",
+        "date": 2020,
+        "affiliations": [
+            "Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Xushun Guo Zhongshan School of Medicine, Sun Yat-sen University 74, 2nd Yat-sen Road, Guangzhou 510080, China E-mail: guoxsh3@mail2.sysu.edu.cn ORCID: 0000-0003-0859-7991"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.01.31.929695",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.01.31.929695v1.pdf"
+        },
+        "abstract": "An anti-HIV drug named Kaletra, composed of two protease inhibitors, ritonavir and lopinavir, might have therapeutic effect on coronavirus diseases like Wuhan pneumonia. In this study, we built the structure models of two Wuhan pneumonia coronavirus proteases, coronavirus endopeptidase C30 and papain like viral protease, by homology modeling, followed by docking ritonavir and lopinavir to the protease models, respectively. In all the simulations, the binding between ritonavir and coronavirus endopeptidase C30 was most suitable. In addition, both ritonavir and lopinavir seemed more suitable to bind to coronavirus endopeptidase C30 than papain like viral protease. According to these results, we suggest that the therapeutic effect of Kaletra on Wuhan pneumonia, might be mainly due to the inhibitory effect of ritonavir on coronavirus endopeptidase C30.",
+        "keywords": [
+            "Coronavirus",
+            "Homology Modeling",
+            "Molecular Docking",
+            "Lopinavir",
+            "Ritonavir",
+            "Wuhan Pneumonia"
+        ],
+        "references": "@article{cui2019a,\n  author = {Cui, J. and Li, F. and Shi, Z.L.},\n  title = {Origin and evolution of pathogenic coronaviruses},\n  journal = {Nat Rev Microbiol},\n  date = {2019},\n  pages = {17\u20133},\n  language = {}\n}\n@article{shi2016a,\n  author = {Shi, Z.L. and Guo, D. and Rottier, P.J.},\n  title = {Coronavirus: epidemiology, genome replication and the interactions with their hosts},\n  journal = {Virol Sin},\n  date = {2016},\n  pages = {31\u20131},\n  language = {}\n}\n@article{cauchemez2013a,\n  author = {Cauchemez, S.},\n  title = {Transmission scenarios for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and how to tell them apart},\n  journal = {Euro Surveill},\n  date = {2013},\n  volume = {18},\n  more-authors = {true},\n  number = {24},\n  language = {}\n}\n@article{huang2020a,\n  author = {Huang, C.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {Lancet},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{tai2007a,\n  author = {Tai, D.Y.},\n  title = {Pharmacologic treatment of SARS: current knowledge and recommendations},\n  journal = {Ann Acad Med Singapore},\n  date = {2007},\n  pages = {36\u20136},\n  language = {}\n}\n@article{chu2004a,\n  author = {Chu, C.M.},\n  title = {Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings},\n  journal = {Thorax},\n  date = {2004},\n  pages = {59\u20133},\n  more-authors = {true},\n  language = {}\n}\n@article{nukoolkarn2008a,\n  author = {Nukoolkarn, V.},\n  title = {Molecular dynamic simulations analysis of ritonavir and lopinavir as SARSCoV 3CL(pro) inhibitors},\n  journal = {J Theor Biol},\n  date = {2008},\n  pages = {254\u20134},\n  more-authors = {true},\n  language = {}\n}\n@article{chong2015a,\n  author = {Chong, Y.P.},\n  title = {Antiviral Treatment Guidelines for Middle East Respiratory Syndrome},\n  journal = {Infect Chemother},\n  date = {2015},\n  pages = {47\u20133},\n  more-authors = {true},\n  language = {}\n}\n@article{arabi2018a,\n  author = {Arabi, Y.M.},\n  title = {Treatment of Middle East Respiratory Syndrome with a combination of lopinavirritonavir and interferon-beta1b (MIRACLE trial): study protocol for a randomized controlled trial},\n  journal = {Trials},\n  date = {2018},\n  volume = {19},\n  pages = {81},\n  more-authors = {true},\n  number = {1},\n  language = {}\n}\n@article{corman2019a,\n  author = {Corman, V.M.},\n  title = {Detection of 2019 novel coronavirus},\n  date = {2019},\n  journal = {Euro Surveill},\n  volume = {2020},\n  more-authors = {true},\n  source = {by real-time RT-PCR},\n  number = {25},\n  language = {}\n}\n@article{du2020a,\n  author = {Du Toit, A.},\n  title = {Outbreak of a novel coronavirus},\n  journal = {Nat Rev Microbiol},\n  date = {2020},\n  language = {}\n}\n@article{wu-a,\n  author = {Wu, P.},\n  title = {Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020},\n  journal = {Euro Surveill},\n  volume = {2020},\n  more-authors = {true},\n  number = {25},\n  language = {}\n}\n@article{marchler-bauer2017a,\n  author = {Marchler-Bauer, A.},\n  title = {CDD/SPARCLE: functional classification of proteins via subfamily domain architectures},\n  journal = {Nucleic Acids Res},\n  date = {2017},\n  pages = {45\u20131},\n  more-authors = {true},\n  language = {}\n}\n@article{marchler-bauer2015a,\n  author = {Marchler-Bauer, A.},\n  title = {CDD: NCBI's conserved domain database},\n  journal = {Nucleic Acids Res},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@article{marchler-bauer2011a,\n  author = {Marchler-Bauer, A.},\n  title = {CDD: a Conserved Domain Database for the functional annotation of proteins},\n  journal = {Nucleic Acids Res},\n  date = {2011},\n  volume = {issue):},\n  pages = {225\u20139},\n  more-authors = {true},\n  language = {}\n}\n@article{marchler-bauer2004a,\n  author = {Marchler-Bauer, A. and Bryant, S.H.},\n  title = {CD-Search: protein domain annotations on the fly},\n  journal = {Nucleic Acids Res},\n  date = {2004},\n  pages = {327\u201331},\n  source = {32(Web Server issue},\n  language = {}\n}\n@article{waterhouse2018a,\n  author = {Waterhouse, A.},\n  title = {SWISS-MODEL: homology modelling of protein structures and complexes},\n  journal = {Nucleic Acids Res},\n  date = {2018},\n  pages = {46\u20131},\n  more-authors = {true},\n  language = {}\n}\n@article{bienert2017a,\n  author = {Bienert, S.},\n  title = {The SWISS-MODEL Repository-new features and functionality},\n  journal = {Nucleic Acids Res},\n  date = {2017},\n  pages = {45\u20131},\n  more-authors = {true},\n  language = {}\n}\n@article{guex2009a,\n  author = {Guex, N. and Peitsch, M.C. and Schwede, T.},\n  title = {Automated comparative protein structure modeling with SWISS-MODEL and Swiss-PdbViewer: a historical perspective},\n  journal = {Electrophoresis},\n  date = {2009},\n  language = {}\n}\n@article{benkert2011a,\n  author = {Benkert, P. and Biasini, M. and Schwede, T.},\n  title = {Toward the estimation of the absolute quality of individual protein structure models},\n  journal = {Bioinformatics},\n  date = {2011},\n  pages = {27\u20133},\n  language = {}\n}\n@article{bertoni2017a,\n  author = {Bertoni, M.},\n  title = {Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology},\n  journal = {Sci Rep},\n  date = {2017},\n  pages = {7\u20131},\n  more-authors = {true},\n  language = {}\n}\n",
+        "links": [
+            "https://servicesn.mbi.ucla.edu/SAVES/",
+            "http://www.nhc.gov.cn/",
+            "https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi",
+            "https://swissmodel.expasy.org/"
+        ],
+        "emails": [
+            "guoxsh3@mail2.sysu.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Cui, J.\nAU  - Li, F.\nAU  - Shi, Z.L.\nTI  - Origin and evolution of pathogenic coronaviruses\nT2  - Nat Rev Microbiol\nPY  - 2019\nDA  - 2019\nSP  - 17\nEP  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shi, Z.L.\nAU  - Guo, D.\nAU  - Rottier, P.J.\nTI  - Coronavirus: epidemiology, genome replication and the interactions with their hosts\nT2  - Virol Sin\nPY  - 2016\nDA  - 2016\nSP  - 31\nEP  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cauchemez, S.\nTI  - Transmission scenarios for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and how to tell them apart\nT2  - Euro Surveill\nPY  - 2013\nDA  - 2013\nVL  - 18\nC1  - true\nIS  - 24\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - Lancet\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tai, D.Y.\nTI  - Pharmacologic treatment of SARS: current knowledge and recommendations\nT2  - Ann Acad Med Singapore\nPY  - 2007\nDA  - 2007\nSP  - 36\nEP  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chu, C.M.\nTI  - Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings\nT2  - Thorax\nPY  - 2004\nDA  - 2004\nSP  - 59\nEP  - 3\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nukoolkarn, V.\nTI  - Molecular dynamic simulations analysis of ritonavir and lopinavir as SARSCoV 3CL(pro) inhibitors\nT2  - J Theor Biol\nPY  - 2008\nDA  - 2008\nSP  - 254\nEP  - 4\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chong, Y.P.\nTI  - Antiviral Treatment Guidelines for Middle East Respiratory Syndrome\nT2  - Infect Chemother\nPY  - 2015\nDA  - 2015\nSP  - 47\nEP  - 3\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Arabi, Y.M.\nTI  - Treatment of Middle East Respiratory Syndrome with a combination of lopinavirritonavir and interferon-beta1b (MIRACLE trial): study protocol for a randomized controlled trial\nT2  - Trials\nPY  - 2018\nDA  - 2018\nVL  - 19\nSP  - 81\nC1  - true\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Corman, V.M.\nTI  - Detection of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Euro Surveill\nVL  - 2020\nC1  - true\nT2  - by real-time RT-PCR\nIS  - 25\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Du Toit, A.\nTI  - Outbreak of a novel coronavirus\nT2  - Nat Rev Microbiol\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, P.\nTI  - Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020\nT2  - Euro Surveill\nVL  - 2020\nC1  - true\nIS  - 25\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Marchler-Bauer, A.\nTI  - CDD/SPARCLE: functional classification of proteins via subfamily domain architectures\nT2  - Nucleic Acids Res\nPY  - 2017\nDA  - 2017\nSP  - 45\nEP  - 1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Marchler-Bauer, A.\nTI  - CDD: NCBI's conserved domain database\nT2  - Nucleic Acids Res\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Marchler-Bauer, A.\nTI  - CDD: a Conserved Domain Database for the functional annotation of proteins\nT2  - Nucleic Acids Res\nPY  - 2011\nDA  - 2011\nVL  - issue):\nSP  - 225\nEP  - 9\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Marchler-Bauer, A.\nAU  - Bryant, S.H.\nTI  - CD-Search: protein domain annotations on the fly\nT2  - Nucleic Acids Res\nPY  - 2004\nDA  - 2004\nSP  - 327\nEP  - 31\nT2  - 32(Web Server issue\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Waterhouse, A.\nTI  - SWISS-MODEL: homology modelling of protein structures and complexes\nT2  - Nucleic Acids Res\nPY  - 2018\nDA  - 2018\nSP  - 46\nEP  - 1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bienert, S.\nTI  - The SWISS-MODEL Repository-new features and functionality\nT2  - Nucleic Acids Res\nPY  - 2017\nDA  - 2017\nSP  - 45\nEP  - 1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guex, N.\nAU  - Peitsch, M.C.\nAU  - Schwede, T.\nTI  - Automated comparative protein structure modeling with SWISS-MODEL and Swiss-PdbViewer: a historical perspective\nT2  - Electrophoresis\nPY  - 2009\nDA  - 2009\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Benkert, P.\nAU  - Biasini, M.\nAU  - Schwede, T.\nTI  - Toward the estimation of the absolute quality of individual protein structure models\nT2  - Bioinformatics\nPY  - 2011\nDA  - 2011\nSP  - 27\nEP  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bertoni, M.\nTI  - Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology\nT2  - Sci Rep\nPY  - 2017\nDA  - 2017\nSP  - 7\nEP  - 1\nC1  - true\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The detail information, evaluation scores and Ramachandran plots of structure models of CEP_C30 and PLVP. The structure model of CEP_C30 is a homo-dimer with no ligand, built by taking PDB: 4MDS.1.A as template. Each chain of the model of CEP_C30 is consist of 273 amino acid residues, with 95.60% sequence identity with the template. The structure model of PLVP is a monomer with a zinc ion ligand, built by taking PDB: 5TL7.1.B as template. The model of PLVP is consist of 317 amino acid residues, with 82.86% sequence identity with the template. The evaluation scores and Ramachandran plots of two models were automatically created by Structure Analysis and Verification server (version 5.0, https://servicesn.mbi.ucla.edu/SAVES/). There are three scores used to evaluate the models: Verify score, Errat score and Prove score. The higher Verify score and Errat score are, as well as the lower Prove score is, the more reasonably the model is built"
+            },
+            {
+                "id": "2",
+                "caption": "The interactions between components of Kaletra and proteases at the optimal poses. (A) The interactions between ritonavir and CEP_C30; (B) the interactions between lopinavir and CEP_C30; (C) the interactions between ritonavir and PLVP; and (D) the interactions lopinavir and PLVP at the optimal poses. The main chains of CEP_C30 are shown in white, and of PLVP are shown in green. The side chains of CEP_C30 and PLVP which interact with ritonavir or lopinavir are shown in blue. Ritonavir and lopinavir are shown in red. The hydrogen bonds are shown in white interrupted lines"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.31.929695v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.31.929695v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.31.929695v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.31.929695v1/img-006.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.31.929695v1/img-008.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.01.31.929695v1/img-010.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "Coronavirus is a group of positive single-stranded RNA virus with coronary appearance [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Besides the recently discovered coronavirus which causes Wuhan pneumonia, six other coronaviruses have been found infectious to human [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Like Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS), Wuhan pneumonia can also cause severe respiratory disease [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] . Finding drugs that can fight against new coronavirus is a top priority. According to the previous studies, an anti-HIV drug named Kaletra, which is composed of two protease inhibitors, ritonavir (CAS#: 155213-67-5) and lopinavir (CAS#: 192725-17-0), might have therapeutic effect on SARS and MERS [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Recently, the diagnosis and treatment guideline of pneumonia caused by new coronavirus infection (trial fourth edition) issued by the National Health Commission of the People\u2019s Republic of China (http://www.nhc.gov.cn/), also recommends Kaletra to treat Wuhan pneumonia. At the same time, many randomize clinical control trials are carried out on studying the efficacy of Kaletra on new Coronavirus in China. However, the mechanism of that Kaletra treat coronavirus diseases is still unclear. As coronaviruses, including Wuhan pneumonia coronavirus, synthesize polyproteins followed by hydrolyzed to produce their structure and function proteins [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>-<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], it is suggested that Kaletra may block their multiplication cycle by inhibiting their proteases. To preliminarily understand the inhibitory effect of Kaletra on Wuhan pneumonia coronavirus proteases, in this study, we built molecular models of the proteases by homology modeling, followed by docking the two components of Kaletra, ritonavir and lopinavir, to the proteases in order to evaluate their inhibitory effects."
+        ],
+        "results": [
+            "2.1 Selection of Proteases Sequences<br/><br/>Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, we chose to find the protease-like conserved domains in the polyprotein of the virus first. We analyzed the orf1ab polyprotein (GenBank: QHO60603.1) by    NCBI    Conserved    Domain    Search<br/><br/>Service (https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi) [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], and found two proteaselike conserved domains. One domain is coronavirus endopeptidase C30 (CEP_C30), located from 3292 to 3569 of the polyprotein sequence; the other domain is papain like viral protease (PLVP), located from 1564 to 1880 of the sequence. We used these two sequences for further modeling and analysis.<br/><br/>2.2 Homology Modeling of Proteases We modeled CEP_C30 and PLVP by Homology Modeling through SWISS-MODEL (https://swissmodel.expasy.org/) [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Before modeling CEP_C30, we deleted the 5 residues at the C-terminal of the sequence to minimize disordered structures. While modeling CEP_C30, 8 models were built according to 8 automatically found templates. The top-rated model in the 8 models is a homo-dimer with no ligand, and was selected to represent the structure of CEP_C30. While modeling PLVP, 29 models were built according to 16 automatically found templates. The top-rated model in the 29 models is a monomer with a zinc ion ligand, and was selected to represent the structure of PLVP. The structures of the two selected models are available in Supplemental Files S1 and S2. The detail information, evaluation scores and Ramachandran plots of the two models are shown in Figure 1.<br/><br/>2.3 Molecular Docking of Ritonavir and Lopinavir We used Discovery Studio software (version 2.5) to dock ritonavir and lopinavir to the proteases, respectively. First we set CEP_C30 as receptor, and found all its possible docking sites. A sphere whose radius was 17 units was set in the optimal docking site, followed by rigid docking of ritonavir and lopinavir to CEP_C30, respectively. While docking, the dockligands (libdock) module of Discovery Studio software was used, and the ritonavir or lopinavir were limited in the defined sphere. The same procedure was executed to dock ritonavir and lopinavir to PLVP, respectively. Through docking, 100 poses were found when docking ritonavir to CEP_C30, with the libdock score of the optimal pose 192.346; 88 poses were found when docking lopinavir to CEP_C30, with the libdock score of the optimal pose 147.123; only 4 poses were found when docking ritonavir to PLVP, with the libdock score of the optimal pose 164.153; and only 3 poses were found when docking lopinavir to PLVP, with the libdock score of the optimal pose 107.137. The interactions between the proteases and drugs at the optimal pose are shown in Figure 2, with the interactions between PLVP and the drugs obviously less than between CEP_C30 and the drugs. The structures of the docking proteases and drugs at the optimal pose are available in Supplemental Files S3, S4, S5, and S6."
+        ],
+        "discussion": [
+            "In this study, we built two models of two protease-like domains, CEP_C30 and PLVP, of orf1ab polyprotein of Wuhan pneumonia coronavirus. Since these two models were built by taking highly homologous crystal structures, their qualities are quite considerable. As it is difficult to obtain the crystal structure of CEP_C30 and PLVP in a short time, there is great significance to use these reliable structure models to predict their dynamic interactions with other molecules. As the catalytic mechanisms of CEP_C30 and PLVP domains are both unknown, it is unable to determine whether ritonavir and lopinavir are competitive or non-competitive inhibitors, although these two drugs are both peptide analogues and seem to be competitive. However, as both competitive and non-competitive inhibitors need to bind tightly to the enzyme, we evaluated the binding abilities of ritonavir and lopinavir to the proteases in order to preliminarily estimate their inhibitor effects on these proteases. It is suggested that the binding between CEP_C30 and ritonavir is most suitable in all our simulations, considering both libdock scores and intermolecular interactions. In addition, compared with CEP_C30, both ritonavir and lopinavir seem not suitable to bind to PLVP. Therefore, we speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on CEP_C30, which suggests that further studies should focus on finding the catalytic mechanism of CEP_C30, and figuring out the how ritonavir blocks this procedure."
+        ],
+        "supplemental": [
+            "Materials Supplemental File S1. The structure model of CEP_C30. Supplemental File S2. The structure model of PLVP. Supplemental File S3. The structures of docking CEP_C30 and ritonavir at the optimal pose. Supplemental File S4. The structures of docking CEP_C30 and lopinavir at the optimal pose. Supplemental File S5. The structures of docking PLVP and ritonavir at the optimal pose. Supplemental File S6. The structures of docking PLVP and lopinavir at the optimal pose."
+        ],
+        "acknowledgments": [
+            "We thank Wufei Wang (School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu, China) and Xinhao Li (Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China) for proofreading the manuscript.<br/><br/>Declarations There is no conflict of interest to declare.<br/><br/>Figure legends Figure 1. The detail information, evaluation scores and Ramachandran plots of structure models of CEP_C30 and PLVP. The structure model of CEP_C30 is a homo-dimer with no ligand, built by taking PDB: 4MDS.1.A as template. Each chain of the model of CEP_C30 is consist of 273 amino acid residues, with 95.60% sequence identity with the template. The structure model of PLVP is a monomer with a zinc ion ligand, built by taking PDB: 5TL7.1.B as template. The model of PLVP is consist of 317 amino acid residues, with 82.86% sequence identity with the template. The evaluation scores and Ramachandran plots of two models were automatically created by Structure Analysis and Verification server (version 5.0, https://servicesn.mbi.ucla.edu/SAVES/). There are three scores used to evaluate the models: Verify score, Errat score and Prove score. The higher Verify score and Errat score are, as well as the lower Prove score is, the more reasonably the model is built."
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [
+                "supplemental materials",
+                "Supplemental Files"
+            ],
+            "supplementary_figure_references": []
+        }
+    },
+    "structured_content": {
+        "1. Introduction": [
+            "Coronavirus is a group of positive single-stranded RNA virus with coronary appearance [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Besides the recently discovered coronavirus which causes Wuhan pneumonia, six other coronaviruses have been found infectious to human [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Like Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS), Wuhan pneumonia can also cause severe respiratory disease [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] . Finding drugs that can fight against new coronavirus is a top priority. According to the previous studies, an anti-HIV drug named Kaletra, which is composed of two protease inhibitors, ritonavir (CAS#: 155213-67-5) and lopinavir (CAS#: 192725-17-0), might have therapeutic effect on SARS and MERS [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>-<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>]. Recently, the diagnosis and treatment guideline of pneumonia caused by new coronavirus infection (trial fourth edition) issued by the National Health Commission of the People\u2019s Republic of China (http://www.nhc.gov.cn/), also recommends Kaletra to treat Wuhan pneumonia. At the same time, many randomize clinical control trials are carried out on studying the efficacy of Kaletra on new Coronavirus in China. However, the mechanism of that Kaletra treat coronavirus diseases is still unclear. As coronaviruses, including Wuhan pneumonia coronavirus, synthesize polyproteins followed by hydrolyzed to produce their structure and function proteins [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>-<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], it is suggested that Kaletra may block their multiplication cycle by inhibiting their proteases. To preliminarily understand the inhibitory effect of Kaletra on Wuhan pneumonia coronavirus proteases, in this study, we built molecular models of the proteases by homology modeling, followed by docking the two components of Kaletra, ritonavir and lopinavir, to the proteases in order to evaluate their inhibitory effects."
+        ],
+        "2. Methods and Results": [],
+        "2.1 Selection of Proteases Sequences": [
+            "Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, we chose to find the protease-like conserved domains in the polyprotein of the virus first. We analyzed the orf1ab polyprotein (GenBank: QHO60603.1) by",
+            "Service (https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi) [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>], and found two proteaselike conserved domains. One domain is coronavirus endopeptidase C30 (CEP_C30), located from 3292 to 3569 of the polyprotein sequence; the other domain is papain like viral protease (PLVP), located from 1564 to 1880 of the sequence. We used these two sequences for further modeling and analysis.",
+            "2.2 Homology Modeling of Proteases We modeled CEP_C30 and PLVP by Homology Modeling through SWISS-MODEL (https://swissmodel.expasy.org/) [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Before modeling CEP_C30, we deleted the 5 residues at the C-terminal of the sequence to minimize disordered structures. While modeling CEP_C30, 8 models were built according to 8 automatically found templates. The top-rated model in the 8 models is a homo-dimer with no ligand, and was selected to represent the structure of CEP_C30. While modeling PLVP, 29 models were built according to 16 automatically found templates. The top-rated model in the 29 models",
+            "is a monomer with a zinc ion ligand, and was selected to represent the structure of PLVP. The structures of the two selected models are available in Supplemental Files S1 and S2. The detail information, evaluation scores and Ramachandran plots of the two models are shown in Figure 1.",
+            "2.3 Molecular Docking of Ritonavir and Lopinavir We used Discovery Studio software (version 2.5) to dock ritonavir and lopinavir to the proteases, respectively. First we set CEP_C30 as receptor, and found all its possible docking sites. A sphere whose radius was 17 units was set in the optimal docking site, followed by rigid docking of ritonavir and lopinavir to CEP_C30, respectively. While docking, the dockligands (libdock) module of Discovery Studio software was used, and the ritonavir or lopinavir were limited in the defined sphere. The same procedure was executed to dock ritonavir and lopinavir to PLVP, respectively. Through docking, 100 poses were found when docking ritonavir to CEP_C30, with the libdock score of the optimal pose 192.346; 88 poses were found when docking lopinavir to CEP_C30, with the libdock score of the optimal pose 147.123; only 4 poses were found when docking ritonavir to PLVP, with the libdock score of the optimal pose 164.153; and only 3 poses were found when docking lopinavir to PLVP, with the libdock score of the optimal pose 107.137. The interactions between the proteases and drugs at the optimal pose are shown in Figure 2, with the interactions between PLVP and the drugs obviously less than between CEP_C30 and the drugs. The structures of the docking proteases and drugs at the optimal pose are available in Supplemental Files S3, S4, S5, and S6."
+        ],
+        "3. Discussion": [
+            "In this study, we built two models of two protease-like domains, CEP_C30 and PLVP, of orf1ab polyprotein of Wuhan pneumonia coronavirus. Since these two models were built by taking highly homologous crystal structures, their qualities are quite considerable. As it is difficult to obtain the crystal structure of CEP_C30 and PLVP in a short time, there is great significance to use these reliable structure models to predict their dynamic interactions with other molecules. As the catalytic mechanisms of CEP_C30 and PLVP domains are both unknown, it is unable to determine whether ritonavir and lopinavir are competitive or non-competitive inhibitors, although these two drugs are both peptide analogues and seem to be competitive. However, as both competitive and non-competitive inhibitors need to bind tightly to the enzyme, we evaluated the binding abilities of ritonavir and lopinavir to the proteases in order to preliminarily estimate their inhibitor effects on these proteases. It is suggested that the binding between CEP_C30 and ritonavir is most suitable in all our simulations, considering both libdock scores and intermolecular interactions. In addition, compared with CEP_C30, both ritonavir and lopinavir seem not suitable to bind to PLVP. Therefore, we speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on CEP_C30, which suggests that further studies should focus on finding the catalytic mechanism of CEP_C30, and figuring out the how ritonavir blocks this procedure."
+        ],
+        "Supplemental": [
+            "Materials Supplemental File S1. The structure model of CEP_C30. Supplemental File S2. The structure model of PLVP. Supplemental File S3. The structures of docking CEP_C30 and ritonavir at the optimal pose. Supplemental File S4. The structures of docking CEP_C30 and lopinavir at the optimal pose. Supplemental File S5. The structures of docking PLVP and ritonavir at the optimal pose. Supplemental File S6. The structures of docking PLVP and lopinavir at the optimal pose."
+        ],
+        "Acknowledgments": [
+            "We thank Wufei Wang (School of Aeronautics and Astronautics, University of Electronic Science and Technology of China, Chengdu, China) and Xinhao Li (Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China) for proofreading the manuscript.",
+            "Declarations There is no conflict of interest to declare.",
+            "Figure legends Figure 1. The detail information, evaluation scores and Ramachandran plots of structure models of CEP_C30 and PLVP. The structure model of CEP_C30 is a homo-dimer with no ligand, built by taking PDB: 4MDS.1.A as template. Each chain of the model of CEP_C30 is consist of 273 amino acid residues, with 95.60% sequence identity with the template. The structure model of PLVP is a monomer with a zinc ion ligand, built by taking PDB: 5TL7.1.B as template. The model of PLVP is consist of 317 amino acid residues, with 82.86% sequence identity with the template. The evaluation scores and Ramachandran plots of two models were automatically created by Structure Analysis and Verification server (version 5.0, https://servicesn.mbi.ucla.edu/SAVES/). There are three scores used to evaluate the models: Verify score, Errat score and Prove score. The higher Verify score and Errat score are, as well as the lower Prove score is, the more reasonably the model is built."
+        ],
+        "References": [
+            "[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] Cui, J., F. Li, and Z.L. Shi, Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol, 2019. 17(3): p. 181-192.",
+            "[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] Shi, Z.L., D. Guo, and P.J. Rottier, Coronavirus: epidemiology, genome replication and the interactions with their hosts. Virol Sin, 2016. 31(1): p. 1-2.",
+            "[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] Cauchemez, S., et al, Transmission scenarios for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and how to tell them apart. Euro Surveill, 2013. 18(24).",
+            "[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] Huang, C., et al, Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020.",
+            "[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] Tai, D.Y., Pharmacologic treatment of SARS: current knowledge and recommendations. Ann Acad Med Singapore, 2007. 36(6): p. 438-43.",
+            "[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] Chu, C.M., et al, Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings. Thorax, 2004. 59(3): p. 252-6.",
+            "[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>] Nukoolkarn, V., et al, Molecular dynamic simulations analysis of ritonavir and lopinavir as SARSCoV 3CL(pro) inhibitors. J Theor Biol, 2008. 254(4): p. 861-7.",
+            "[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Chong, Y.P., et al, Antiviral Treatment Guidelines for Middle East Respiratory Syndrome. Infect Chemother, 2015. 47(3): p. 212-22.",
+            "[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] Arabi, Y.M., et al, Treatment of Middle East Respiratory Syndrome with a combination of lopinavirritonavir and interferon-beta1b (MIRACLE trial): study protocol for a randomized controlled trial. Trials, 2018. 19(1): p. 81.",
+            "[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Corman, V.M., et al, Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill, 2020. 25(3).",
+            "[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Du Toit, A., Outbreak of a novel coronavirus. Nat Rev Microbiol, 2020. [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>] Wu, P., et al, Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020. Euro Surveill, 2020. 25(3). [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] Marchler-Bauer, A., et al, CDD/SPARCLE: functional classification of proteins via subfamily domain architectures. Nucleic Acids Res, 2017. 45(D1): p. D200-d203. [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] Marchler-Bauer, A., et al, CDD: NCBI's conserved domain database. Nucleic Acids Res, 2015.",
+            "43(Database issue): p. D222-6. [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Marchler-Bauer, A., et al, CDD: a Conserved Domain Database for the functional annotation of proteins. Nucleic Acids Res, 2011. 39(Database issue): p. D225-9. [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>] Marchler-Bauer, A. and S.H. Bryant, CD-Search: protein domain annotations on the fly. Nucleic",
+            "Acids Res, 2004. 32(Web Server issue): p. W327-31. [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>] Waterhouse, A., et al, SWISS-MODEL: homology modelling of protein structures and complexes.",
+            "Nucleic Acids Res, 2018. 46(W1): p. W296-w303. [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] Bienert, S., et al, The SWISS-MODEL Repository-new features and functionality. Nucleic Acids",
+            "Res, 2017. 45(D1): p. D313-d319. [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] Guex, N., M.C. Peitsch, and T. Schwede, Automated comparative protein structure modeling with",
+            "SWISS-MODEL and Swiss-PdbViewer: a historical perspective. Electrophoresis, 2009. 30 Suppl 1: p. S162-73. [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>] Benkert, P., M. Biasini, and T. Schwede, Toward the estimation of the absolute quality of individual protein structure models. Bioinformatics, 2011. 27(3): p. 343-50. [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>] Bertoni, M., et al, Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology. Sci Rep, 2017. 7(1): p. 10480.",
+            "Syntax Error: Unknown character collection 'Adobe-GB1'",
+            "$&1@$",
+            "1-71",
+            "\"NJOPBDJESFTJEVFT",
+            "#JPVOJUPMJHPTUBUF",
+            "IPNPEJNFS",
+            "NPOPNFS",
+            "-JHBOE",
+            "OPOF",
+            "\u0080[JODJPO",
+            "5FNQMBUF1%#*%",
+            "4FRVFODFJEFOUJUZ XJUIUFNQMBUF",
+            "7FSJGZTDPSF",
+            ".%4\"",
+            "5-#",
+            "&SSBUTDPSF",
+            "1SPWFTDPSF",
+            "3BNBDIBOESBOQMPU",
+            "3FTJEVFTJONPTUGBWPVSFESFHJPOT 3FTJEVFTJOBEEJUJPOBMBMMPXFESFHJPOT 3FTJEVFTJOHFOFSPVTMZBMMPXFESFHJPOT",
+            "3FTJEVFTJOEJTBMMPXFESFHJPOT 'JHVSF5IFEFUBJMJOGPSNBUJPO\rFWBMVBUJPOTDPSFTBOE3BNBDIBOESBOQMPUTPGTUSVDUVSFNPEFMT PG$&1@$BOE1-71 5IF TUSVDUVSF NPEFM PG $&1@$ JT B IPNPEJNFS XJUI OP MJHBOE\r CVJMU CZ UBLJOH 1%# .%4\"BTUFNQMBUF&BDIDIBJOPGUIFNPEFMPG$&1@$JTDPOTJTUPGBNJOPBDJESFTJ EVFT\rXJUITFRVFODFJEFOUJUZXJUIUIFUFNQMBUF5IFTUSVDUVSFNPEFMPG1-71JTBNPOP NFSXJUIB[JODJPOMJHBOE\rCVJMUCZUBLJOH1%#5-#BTUFNQMBUF5IFNPEFMPG1-71JTDPO TJTUPGBNJOPBDJESFTJEVFT\rXJUITFRVFODFJEFOUJUZXJUIUIFUFNQMBUF5IFFWBMVBUJPO TDPSFTBOE3BNBDIBOESBOQMPUTPGUXPNPEFMTXFSFBVUPNBUJDBMMZDSFBUFECZ4USVDUVSF\"OBMZTJT BOE 7FSJGJDBUJPO TFSWFS WFSTJPO \r IUUQTTFSWJDFTONCJVDMBFEV4\"7&4",
+            "5IFSF BSF UISFF TDPSFTVTFEUPFWBMVBUFUIFNPEFMT7FSJGZTDPSF\r&SSBUTDPSFBOE1SPWFTDPSF5IFIJHIFS7FSJGZ TDPSFBOE&SSBUTDPSFBSF\rBTXFMMBTUIFMPXFS1SPWFTDPSFJT\rUIFNPSFSFBTPOBCMZUIFNPEFMJT CVJMU \"",
+            "#",
+            "$",
+            "%",
+            "'JHVSF5IFJOUFSBDUJPOTCFUXFFODPNQPOFOUTPG,BMFUSB BOEQSPUFBTFTBUUIFPQUJNBMQPTFT \"",
+            "5IFJOUFSBDUJPOTCFUXFFOSJUPOBWJSBOE$&1@$ #",
+            "UIFJOUFSBDUJPOTCFUXFFOMPQJOBWJSBOE$&1@$ $",
+            "UIF JOUFSBDUJPOTCFUXFFOSJUPOBWJSBOE1-71BOE %",
+            "UIFJO UFSBDUJPOT MPQJOBWJS BOE 1-71 BU UIF PQUJNBM QPTFT 5IF NBJODIBJOTPG$&1@$BSFTIPXOJOXIJUF\rBOEPG1-71 BSFTIPXOJOHSFFO5IFTJEFDIBJOTPG$&1@$BOE1-71 XIJDIJOUFSBDUXJUISJUPOBWJSPSMPQJOBWJSBSFTIPXOJOCMVF 3JUPOBWJS BOE MPQJOBWJS BSF TIPXO JO SFE 5IF IZESPHFO CPOETBSFTIPXOJOXIJUFJOUFSSVQUFEMJOFT"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "Wuhan pneumonia coronavirus genes",
+            "number": 10,
+            "context": "2.1 Selection of Proteases Sequences. <mark class=\"stats\">Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, we chose to find the protease-like conserved domains in the polyprotein of the virus first</mark>. We analyzed the orf1ab polyprotein (GenBank: QHO60603.1) by"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "inhibitory effect",
+        "Coronavirus",
+        "wuhan pneumonia coronavirus",
+        "East Respiratory syndrome",
+        "pneumonia coronavirus protease",
+        "coronavirus disease",
+        "Severe Acute Respiratory Syndrome",
+        "catalytic",
+        "new coronavirus",
+        "protease inhibitor",
+        "viral protease",
+        "Molecular Docking",
+        "coronavirus infection",
+        "structure model",
+        "Wuhan Pneumonia",
+        "lopinavir",
+        "Homology Modeling",
+        "middle east respiratory syndrome",
+        "therapeutic effect",
+        "papain like viral protease",
+        "hiv drug",
+        "Ritonavir",
+        "coronavirus endopeptidase c30"
+    ],
+    "keyword_relevance": {
+        "coronavirus endopeptidase C30": 0.20149253731343283,
+        "papain like viral protease": 0.1865671641791045,
+        "lopinavir": 0.17164179104477612,
+        "structure model": 0.06716417910447761,
+        "Coronavirus": 0.04477611940298507,
+        "Severe Acute Respiratory Syndrome": 0.04477611940298507,
+        "inhibitory effect": 0.029850746268656716,
+        "therapeutic effect": 0.029850746268656716,
+        "Ritonavir": 0.029850746268656716,
+        "coronavirus disease": 0.022388059701492536,
+        "viral protease": 0.022388059701492536,
+        "Homology Modeling": 0.022388059701492536,
+        "Middle East Respiratory Syndrome": 0.022388059701492536,
+        "pneumonia coronavirus protease": 0.014925373134328358,
+        "catalytic": 0.014925373134328358,
+        "new coronavirus": 0.014925373134328358,
+        "protease inhibitor": 0.014925373134328358,
+        "Molecular Docking": 0.014925373134328358,
+        "coronavirus infection": 0.014925373134328358,
+        "Wuhan Pneumonia": 0.014925373134328358,
+        "wuhan pneumonia coronavirus": 0.0,
+        "East Respiratory syndrome": 0.0,
+        "middle east respiratory syndrome": 0.0,
+        "hiv drug": 0.0,
+        "coronavirus endopeptidase c30": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Coronavirus is a group of positive single-stranded RNA virus with coronary appearance [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "Besides the recently discovered coronavirus which causes Wuhan pneumonia, six other coronaviruses have been found infectious to human [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+        "The diagnosis and treatment guideline of pneumonia caused by new coronavirus infection issued by the National Health Commission of the People\u2019s Republic of China, recommends Kaletra to treat Wuhan pneumonia.",
+        "To preliminarily understand the inhibitory effect of Kaletra on Wuhan pneumonia coronavirus proteases, in this study, the authors built molecular models of the proteases by homology modeling, followed by docking the two components of Kaletra, ritonavir and lopinavir, to the proteases in order to evaluate their inhibitory effects",
+        "<h2 style=\"display: inline\">Results:</h2> 2.1 Selection of Proteases Sequences<br/><br/>Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, the authors chose to find the protease-like conserved domains in the polyprotein of the virus first.",
+        "One domain is coronavirus endopeptidase C30 (CEP_C30), located from 3292 to 3569 of the polyprotein sequence; the other domain is papain like viral protease (PLVP), located from 1564 to 1880 of the sequence.",
+        "The authors used these two sequences for further modeling and analysis.",
+        "The structures of the docking proteases and drugs at the optimal pose are available in Supplemental Files S3, S4, S5, and S6",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors built two models of two protease-like domains, CEP_C30 and PLVP, of orf1ab polyprotein of Wuhan pneumonia coronavirus.",
+        "Since these two models were built by taking highly homologous crystal structures, their qualities are quite considerable.",
+        "As the catalytic mechanisms of CEP_C30 and PLVP domains are both unknown, it is unable to determine whether ritonavir and lopinavir are competitive or non-competitive inhibitors, these two drugs are both peptide analogues and seem to be competitive.",
+        "The authors speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on CEP_C30, which suggests that further studies should focus on finding the catalytic mechanism of CEP_C30, and figuring out the how ritonavir blocks this procedure"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Coronavirus is a group of positive single-stranded RNA virus with coronary appearance [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "Besides the recently discovered coronavirus which causes Wuhan pneumonia, six other coronaviruses have been found infectious to human [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "The diagnosis and treatment guideline of pneumonia caused by new coronavirus infection issued by the National Health Commission of the People\u2019s Republic of China, recommends Kaletra to treat Wuhan pneumonia.",
+            "To preliminarily understand the inhibitory effect of Kaletra on Wuhan pneumonia coronavirus proteases, in this study, the authors built molecular models of the proteases by homology modeling, followed by docking the two components of Kaletra, ritonavir and lopinavir, to the proteases in order to evaluate their inhibitory effects"
+        ],
+        "Results": [
+            "2.1 Selection of Proteases Sequences<br/><br/>Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, the authors chose to find the protease-like conserved domains in the polyprotein of the virus first.",
+            "One domain is coronavirus endopeptidase C30 (CEP_C30), located from 3292 to 3569 of the polyprotein sequence; the other domain is papain like viral protease (PLVP), located from 1564 to 1880 of the sequence.",
+            "The authors used these two sequences for further modeling and analysis.",
+            "The structures of the docking proteases and drugs at the optimal pose are available in Supplemental Files S3, S4, S5, and S6"
+        ],
+        "Conclusion": [
+            "The authors built two models of two protease-like domains, CEP_C30 and PLVP, of orf1ab polyprotein of Wuhan pneumonia coronavirus.",
+            "Since these two models were built by taking highly homologous crystal structures, their qualities are quite considerable.",
+            "As the catalytic mechanisms of CEP_C30 and PLVP domains are both unknown, it is unable to determine whether ritonavir and lopinavir are competitive or non-competitive inhibitors, these two drugs are both peptide analogues and seem to be competitive.",
+            "The authors speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on CEP_C30, which suggests that further studies should focus on finding the catalytic mechanism of CEP_C30, and figuring out the how ritonavir blocks this procedure"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Cui_et+al_2019_a",
+            "entry": "[1] Cui, J., F. Li, and Z.L. Shi, Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol, 2019. 17(3): p. 181-192.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cui%2C%20J.%20Li%2C%20F.%20Shi%2C%20Z.L.%20Origin%20and%20evolution%20of%20pathogenic%20coronaviruses%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cui%2C%20J.%20Li%2C%20F.%20Shi%2C%20Z.L.%20Origin%20and%20evolution%20of%20pathogenic%20coronaviruses%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cui%2C%20J.%20Li%2C%20F.%20Shi%2C%20Z.L.%20Origin%20and%20evolution%20of%20pathogenic%20coronaviruses%202019"
+        },
+        {
+            "id": "2",
+            "alt_id": "Shi_et+al_2016_a",
+            "entry": "[2] Shi, Z.L., D. Guo, and P.J. Rottier, Coronavirus: epidemiology, genome replication and the interactions with their hosts. Virol Sin, 2016. 31(1): p. 1-2.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shi%2C%20Z.L.%20Guo%2C%20D.%20Rottier%2C%20P.J.%20Coronavirus%3A%20epidemiology%2C%20genome%20replication%20and%20the%20interactions%20with%20their%20hosts%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shi%2C%20Z.L.%20Guo%2C%20D.%20Rottier%2C%20P.J.%20Coronavirus%3A%20epidemiology%2C%20genome%20replication%20and%20the%20interactions%20with%20their%20hosts%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shi%2C%20Z.L.%20Guo%2C%20D.%20Rottier%2C%20P.J.%20Coronavirus%3A%20epidemiology%2C%20genome%20replication%20and%20the%20interactions%20with%20their%20hosts%202016"
+        },
+        {
+            "id": "3",
+            "alt_id": "Cauchemez_2013_a",
+            "entry": "[3] Cauchemez, S., et al., Transmission scenarios for Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and how to tell them apart. Euro Surveill, 2013. 18(24).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cauchemez%2C%20S.%20Transmission%20scenarios%20for%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20%28MERS-CoV%29%20and%20how%20to%20tell%20them%20apart%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cauchemez%2C%20S.%20Transmission%20scenarios%20for%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20%28MERS-CoV%29%20and%20how%20to%20tell%20them%20apart%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cauchemez%2C%20S.%20Transmission%20scenarios%20for%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20%28MERS-CoV%29%20and%20how%20to%20tell%20them%20apart%202013"
+        },
+        {
+            "id": "4",
+            "alt_id": "Huang_2020_a",
+            "entry": "[4] Huang, C., et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Tai_2007_a",
+            "entry": "[5] Tai, D.Y., Pharmacologic treatment of SARS: current knowledge and recommendations. Ann Acad Med Singapore, 2007. 36(6): p. 438-43.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tai%2C%20D.Y.%20Pharmacologic%20treatment%20of%20SARS%3A%20current%20knowledge%20and%20recommendations%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tai%2C%20D.Y.%20Pharmacologic%20treatment%20of%20SARS%3A%20current%20knowledge%20and%20recommendations%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tai%2C%20D.Y.%20Pharmacologic%20treatment%20of%20SARS%3A%20current%20knowledge%20and%20recommendations%202007"
+        },
+        {
+            "id": "6",
+            "alt_id": "Chu_2004_a",
+            "entry": "[6] Chu, C.M., et al., Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings. Thorax, 2004. 59(3): p. 252-6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chu%2C%20C.M.%20Role%20of%20lopinavir/ritonavir%20in%20the%20treatment%20of%20SARS%3A%20initial%20virological%20and%20clinical%20findings%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chu%2C%20C.M.%20Role%20of%20lopinavir/ritonavir%20in%20the%20treatment%20of%20SARS%3A%20initial%20virological%20and%20clinical%20findings%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chu%2C%20C.M.%20Role%20of%20lopinavir/ritonavir%20in%20the%20treatment%20of%20SARS%3A%20initial%20virological%20and%20clinical%20findings%202004"
+        },
+        {
+            "id": "7",
+            "alt_id": "Nukoolkarn_2008_a",
+            "entry": "[7] Nukoolkarn, V., et al., Molecular dynamic simulations analysis of ritonavir and lopinavir as SARSCoV 3CL(pro) inhibitors. J Theor Biol, 2008. 254(4): p. 861-7.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nukoolkarn%2C%20V.%20Molecular%20dynamic%20simulations%20analysis%20of%20ritonavir%20and%20lopinavir%20as%20SARSCoV%203CL%28pro%29%20inhibitors%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nukoolkarn%2C%20V.%20Molecular%20dynamic%20simulations%20analysis%20of%20ritonavir%20and%20lopinavir%20as%20SARSCoV%203CL%28pro%29%20inhibitors%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nukoolkarn%2C%20V.%20Molecular%20dynamic%20simulations%20analysis%20of%20ritonavir%20and%20lopinavir%20as%20SARSCoV%203CL%28pro%29%20inhibitors%202008"
+        },
+        {
+            "id": "8",
+            "alt_id": "Chong_2015_a",
+            "entry": "[8] Chong, Y.P., et al., Antiviral Treatment Guidelines for Middle East Respiratory Syndrome. Infect Chemother, 2015. 47(3): p. 212-22.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chong%2C%20Y.P.%20Antiviral%20Treatment%20Guidelines%20for%20Middle%20East%20Respiratory%20Syndrome%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chong%2C%20Y.P.%20Antiviral%20Treatment%20Guidelines%20for%20Middle%20East%20Respiratory%20Syndrome%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chong%2C%20Y.P.%20Antiviral%20Treatment%20Guidelines%20for%20Middle%20East%20Respiratory%20Syndrome%202015"
+        },
+        {
+            "id": "9",
+            "alt_id": "Arabi_2018_a",
+            "entry": "[9] Arabi, Y.M., et al., Treatment of Middle East Respiratory Syndrome with a combination of lopinavirritonavir and interferon-beta1b (MIRACLE trial): study protocol for a randomized controlled trial. Trials, 2018. 19(1): p. 81.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Arabi%2C%20Y.M.%20Treatment%20of%20Middle%20East%20Respiratory%20Syndrome%20with%20a%20combination%20of%20lopinavirritonavir%20and%20interferon-beta1b%20%28MIRACLE%20trial%29%3A%20study%20protocol%20for%20a%20randomized%20controlled%20trial%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Arabi%2C%20Y.M.%20Treatment%20of%20Middle%20East%20Respiratory%20Syndrome%20with%20a%20combination%20of%20lopinavirritonavir%20and%20interferon-beta1b%20%28MIRACLE%20trial%29%3A%20study%20protocol%20for%20a%20randomized%20controlled%20trial%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Arabi%2C%20Y.M.%20Treatment%20of%20Middle%20East%20Respiratory%20Syndrome%20with%20a%20combination%20of%20lopinavirritonavir%20and%20interferon-beta1b%20%28MIRACLE%20trial%29%3A%20study%20protocol%20for%20a%20randomized%20controlled%20trial%202018"
+        },
+        {
+            "id": "10",
+            "alt_id": "Corman_2019_a",
+            "entry": "[10] Corman, V.M., et al., Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill, 2020. 25(3).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Corman%20VM%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%202020%20253",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Corman%20VM%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%202020%20253",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Corman%20VM%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%202020%20253"
+        },
+        {
+            "id": "11",
+            "alt_id": "Du_2020_a",
+            "entry": "[11] Du Toit, A., Outbreak of a novel coronavirus. Nat Rev Microbiol, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Du%20Toit%2C%20A.%20Outbreak%20of%20a%20novel%20coronavirus%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Du%20Toit%2C%20A.%20Outbreak%20of%20a%20novel%20coronavirus%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Du%20Toit%2C%20A.%20Outbreak%20of%20a%20novel%20coronavirus%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Wu_2020_a",
+            "entry": "[12] Wu, P., et al., Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020. Euro Surveill, 2020. 25(3).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%20P%20et%20al%20Realtime%20tentative%20assessment%20of%20the%20epidemiological%20characteristics%20of%20novel%20coronavirus%20infections%20in%20Wuhan%20China%20as%20at%2022%20January%202020%20Euro%20Surveill%202020%20253",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%20P%20et%20al%20Realtime%20tentative%20assessment%20of%20the%20epidemiological%20characteristics%20of%20novel%20coronavirus%20infections%20in%20Wuhan%20China%20as%20at%2022%20January%202020%20Euro%20Surveill%202020%20253",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%20P%20et%20al%20Realtime%20tentative%20assessment%20of%20the%20epidemiological%20characteristics%20of%20novel%20coronavirus%20infections%20in%20Wuhan%20China%20as%20at%2022%20January%202020%20Euro%20Surveill%202020%20253"
+        },
+        {
+            "id": "13",
+            "alt_id": "Marchler-Bauer_2017_a",
+            "entry": "[13] Marchler-Bauer, A., et al., CDD/SPARCLE: functional classification of proteins via subfamily domain architectures. Nucleic Acids Res, 2017. 45(D1): p. D200-d203.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Marchler-Bauer%2C%20A.%20CDD/SPARCLE%3A%20functional%20classification%20of%20proteins%20via%20subfamily%20domain%20architectures%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Marchler-Bauer%2C%20A.%20CDD/SPARCLE%3A%20functional%20classification%20of%20proteins%20via%20subfamily%20domain%20architectures%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Marchler-Bauer%2C%20A.%20CDD/SPARCLE%3A%20functional%20classification%20of%20proteins%20via%20subfamily%20domain%20architectures%202017"
+        },
+        {
+            "id": "14",
+            "alt_id": "Marchler-Bauer_2015_a",
+            "entry": "[14] Marchler-Bauer, A., et al., CDD: NCBI's conserved domain database. Nucleic Acids Res, 2015.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Marchler-Bauer%2C%20A.%20CDD%3A%20NCBI%27s%20conserved%20domain%20database%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Marchler-Bauer%2C%20A.%20CDD%3A%20NCBI%27s%20conserved%20domain%20database%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Marchler-Bauer%2C%20A.%20CDD%3A%20NCBI%27s%20conserved%20domain%20database%202015"
+        },
+        {
+            "id": "15",
+            "alt_id": "Marchler-Bauer_2011_a",
+            "entry": "[15] Marchler-Bauer, A., et al., CDD: a Conserved Domain Database for the functional annotation of proteins. Nucleic Acids Res, 2011. 39(Database issue): p. D225-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Marchler-Bauer%2C%20A.%20CDD%3A%20a%20Conserved%20Domain%20Database%20for%20the%20functional%20annotation%20of%20proteins%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Marchler-Bauer%2C%20A.%20CDD%3A%20a%20Conserved%20Domain%20Database%20for%20the%20functional%20annotation%20of%20proteins%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Marchler-Bauer%2C%20A.%20CDD%3A%20a%20Conserved%20Domain%20Database%20for%20the%20functional%20annotation%20of%20proteins%202011"
+        },
+        {
+            "id": "16",
+            "alt_id": "Marchler-Bauer_2004_a",
+            "entry": "[16] Marchler-Bauer, A. and S.H. Bryant, CD-Search: protein domain annotations on the fly. Nucleic Acids Res, 2004. 32(Web Server issue): p. W327-31.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Marchler-Bauer%2C%20A.%20Bryant%2C%20S.H.%20CD-Search%3A%20protein%20domain%20annotations%20on%20the%20fly%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Marchler-Bauer%2C%20A.%20Bryant%2C%20S.H.%20CD-Search%3A%20protein%20domain%20annotations%20on%20the%20fly%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Marchler-Bauer%2C%20A.%20Bryant%2C%20S.H.%20CD-Search%3A%20protein%20domain%20annotations%20on%20the%20fly%202004"
+        },
+        {
+            "id": "17",
+            "alt_id": "Waterhouse_2018_a",
+            "entry": "[17] Waterhouse, A., et al., SWISS-MODEL: homology modelling of protein structures and complexes. Nucleic Acids Res, 2018. 46(W1): p. W296-w303.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Waterhouse%2C%20A.%20SWISS-MODEL%3A%20homology%20modelling%20of%20protein%20structures%20and%20complexes%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Waterhouse%2C%20A.%20SWISS-MODEL%3A%20homology%20modelling%20of%20protein%20structures%20and%20complexes%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Waterhouse%2C%20A.%20SWISS-MODEL%3A%20homology%20modelling%20of%20protein%20structures%20and%20complexes%202018"
+        },
+        {
+            "id": "18",
+            "alt_id": "Bienert_2017_a",
+            "entry": "[18] Bienert, S., et al., The SWISS-MODEL Repository-new features and functionality. Nucleic Acids Res, 2017. 45(D1): p. D313-d319.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bienert%2C%20S.%20The%20SWISS-MODEL%20Repository-new%20features%20and%20functionality%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bienert%2C%20S.%20The%20SWISS-MODEL%20Repository-new%20features%20and%20functionality%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bienert%2C%20S.%20The%20SWISS-MODEL%20Repository-new%20features%20and%20functionality%202017"
+        },
+        {
+            "id": "19",
+            "alt_id": "Guex_et+al_2009_a",
+            "entry": "[19] Guex, N., M.C. Peitsch, and T. Schwede, Automated comparative protein structure modeling with SWISS-MODEL and Swiss-PdbViewer: a historical perspective. Electrophoresis, 2009.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Guex%2C%20N.%20Peitsch%2C%20M.C.%20Schwede%2C%20T.%20Automated%20comparative%20protein%20structure%20modeling%20with%20SWISS-MODEL%20and%20Swiss-PdbViewer%3A%20a%20historical%20perspective%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Guex%2C%20N.%20Peitsch%2C%20M.C.%20Schwede%2C%20T.%20Automated%20comparative%20protein%20structure%20modeling%20with%20SWISS-MODEL%20and%20Swiss-PdbViewer%3A%20a%20historical%20perspective%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Guex%2C%20N.%20Peitsch%2C%20M.C.%20Schwede%2C%20T.%20Automated%20comparative%20protein%20structure%20modeling%20with%20SWISS-MODEL%20and%20Swiss-PdbViewer%3A%20a%20historical%20perspective%202009"
+        },
+        {
+            "id": "20",
+            "alt_id": "Benkert_et+al_2011_a",
+            "entry": "[20] Benkert, P., M. Biasini, and T. Schwede, Toward the estimation of the absolute quality of individual protein structure models. Bioinformatics, 2011. 27(3): p. 343-50.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Benkert%2C%20P.%20Biasini%2C%20M.%20Schwede%2C%20T.%20Toward%20the%20estimation%20of%20the%20absolute%20quality%20of%20individual%20protein%20structure%20models%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Benkert%2C%20P.%20Biasini%2C%20M.%20Schwede%2C%20T.%20Toward%20the%20estimation%20of%20the%20absolute%20quality%20of%20individual%20protein%20structure%20models%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Benkert%2C%20P.%20Biasini%2C%20M.%20Schwede%2C%20T.%20Toward%20the%20estimation%20of%20the%20absolute%20quality%20of%20individual%20protein%20structure%20models%202011"
+        },
+        {
+            "id": "21",
+            "alt_id": "Bertoni_2017_a",
+            "entry": "[21] Bertoni, M., et al., Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology. Sci Rep, 2017. 7(1): p. 10480. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bertoni%2C%20M.%20Modeling%20protein%20quaternary%20structure%20of%20homo-%20and%20hetero-oligomers%20beyond%20binary%20interactions%20by%20homology%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bertoni%2C%20M.%20Modeling%20protein%20quaternary%20structure%20of%20homo-%20and%20hetero-oligomers%20beyond%20binary%20interactions%20by%20homology%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bertoni%2C%20M.%20Modeling%20protein%20quaternary%20structure%20of%20homo-%20and%20hetero-oligomers%20beyond%20binary%20interactions%20by%20homology%202017"
+        }
+    ],
+    "facts": [
+        "suitable to bind to coronavirus endopeptidase C30",
+        "Finding drugs that can fight against new coronavirus is a top priority",
+        "which is composed of two protease inhibitors",
+        "the diagnosis and treatment guideline of pneumonia caused by new coronavirus infection issued by the",
+        "no gene of protease identified in the ten Wuhan pneumonia coronavirus genes",
+        "the other domain is papain like viral protease",
+        "The top-rated model in the 8 models is a homo-dimer with no ligand",
+        "The top-rated model in the 29 models is a monomer with a zinc ion ligand",
+        "The structures of the two selected models are available in Supplemental Files S1",
+        "Ramachandran plots of the two models are shown in Figure 1",
+        "17 units was set in the optimal docking site",
+        "the ritonavir or lopinavir were limited in the defined sphere",
+        "The interactions between the proteases and drugs at the optimal pose are shown in Figure 2",
+        "The structures of the docking proteases and drugs at the optimal pose are available in Supplemental Files S3",
+        "unable to determine whether ritonavir and lopinavir are competitive",
+        "between CEP-C30 and ritonavir is most suitable in all our simulations",
+        "suitable to bind to PLVP",
+        "other coronavirus disease may be mainly due to the inhibitory effect of ritonavir",
+        "which suggests that further studies should focus on finding the catalytic mechanism of",
+        "The diagnosis and treatment guideline of pneumonia caused by new coronavirus infection issued by the"
+    ],
+    "claims": [
+        "2.2 Homology Modeling of Proteases We modeled CEP_C30 and PLVP by Homology Modeling through SWISS-MODEL (https://swissmodel.expasy.org/) [17-21]",
+        "As both competitive and non-competitive inhibitors need to bind tightly to the enzyme, we evaluated the binding abilities of ritonavir and lopinavir to the proteases in order to preliminarily estimate their inhibitor effects on these proteases"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, we chose to find the protease-like conserved domains in the polyprotein of the virus first",
+        "One domain is coronavirus endopeptidase C30 (CEP_C30), located from 3292 to 3569 of the polyprotein sequence; the other domain is papain like viral protease (PLVP), located from 1564 to 1880 of the sequence",
+        "A sphere whose radius was 17 units was set in the optimal docking site, followed by rigid docking of ritonavir and lopinavir to coronavirus endopeptidase C30, respectively",
+        "The dockligands module of Discovery Studio software was used, and the ritonavir or lopinavir were limited in the defined sphere",
+        "The interactions between the proteases and drugs at the optimal pose are shown in Figure 2, with the interactions between papain like viral protease and the drugs obviously less than between coronavirus endopeptidase C30 and the drugs",
+        "As the catalytic mechanisms of coronavirus endopeptidase C30 and papain like viral protease domains are both unknown, it is unable to determine whether ritonavir and lopinavir are competitive or non-competitive inhibitors, these two drugs are both peptide analogues and seem to be competitive",
+        "Compared with coronavirus endopeptidase C30, both ritonavir and lopinavir seem not suitable to bind to papain like viral protease",
+        "We speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on coronavirus endopeptidase C30, which suggests that further studies should focus on finding the catalytic mechanism of coronavirus endopeptidase C30, and figuring out the how ritonavir blocks this procedure"
+    ],
+    "top_statements": [
+        "Coronavirus is a group of positive single-stranded RNA virus with coronary appearance [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "Since there was no gene of protease identified in the ten Wuhan pneumonia coronavirus genes directly, we chose to find the protease-like conserved domains in the polyprotein of the virus first",
+        "One domain is coronavirus endopeptidase C30 (CEP_C30), located from 3292 to 3569 of the polyprotein sequence; the other domain is papain like viral protease (PLVP), located from 1564 to 1880 of the sequence",
+        "As the catalytic mechanisms of coronavirus endopeptidase C30 and papain like viral protease domains are both unknown, it is unable to determine whether ritonavir and lopinavir are competitive or non-competitive inhibitors, these two drugs are both peptide analogues and seem to be competitive",
+        "Compared with coronavirus endopeptidase C30, both ritonavir and lopinavir seem not suitable to bind to papain like viral protease",
+        "We speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on coronavirus endopeptidase C30, which suggests that further studies should focus on finding the catalytic mechanism of coronavirus endopeptidase C30, and figuring out the how ritonavir blocks this procedure"
+    ],
+    "headline": "We speculate that the therapeutic effect of Kaletra on Wuhan pneumonia and other coronavirus disease may be mainly due to the inhibitory effect of ritonavir on coronavirus endopeptidase C30, which suggests that further studies should focus on finding the catalytic mechanism of coronavirus endopeptidase C30, and figuring out the how ritonavir blocks this procedure",
+    "contexts": [],
+    "abbreviations": {
+        "SARS": "Severe Acute Respiratory Syndrome",
+        "MERS": "Middle East Respiratory Syndrome",
+        "CEP_C30": "coronavirus endopeptidase C30",
+        "PLVP": "papain like viral protease"
+    }
+}

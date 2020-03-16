@@ -1,0 +1,639 @@
+{
+    "filename": "2020.02.10.20021824v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 3559419,
+    "metadata": {
+        "title": "Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China",
+        "date": 2020,
+        "author": "Zeliang Chen,#, Qi Zhang,#, Yi Lu,#, Zhongmin Guo,#, Xi Zhang,#, Wenjun Zhang,#, Cheng Guo, Conghui Liao, Qianlin Li, Xiaohu Han, Jiahai Lu",
+        "affiliations": [
+            "School of Public Health, Sun Yat-sen University, Guangzhou, P. R. China",
+            "Department of Health Law, Policy and Management, School of Public Health, Boston University",
+            "Animal Experiment Center, Sun Yat-sen University, 510080, P. R. China",
+            "School of Life Sciences, Sun Yat-sen University, Guangzhou, P. R. China",
+            "Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.",
+            "Shenyang Agricultural University, Shenyang, P. R. China",
+            "FUNDINGS National Key Research and Development Program of China, National Major Project for Control and Prevention of Infectious Disease in China, State Key Program of National Natural Science of China."
+        ],
+        "journal": "Keywords",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.02.10.20021824",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.02.10.20021824v1.pdf"
+        },
+        "abstract": "BACKGROUNDS The ongoing new coronavirus (2019-nCoV) pneumonia outbreak is spreading in China and has not reached its peak. Five millions of people had emigrated from Wuhan before the city lockdown, which potentially represent a source of virus spreaders. Case distribution and its correlation with population emigration from Wuhan in early epidemic are of great importance for early warning and prevention of future outbreak. METHODS The officially reported cases of 2019-nCoV pneumonia were collected as of January 30, 2020. Time and location information of these cases were extracted analyzed with ArcGIS and WinBUGS. Population migration data of Wuhan City and Hubei province were extracted from Baidu Qianxi and analyzed for their correlation with case number. FINDINGS The 2019-nCoV pneumonia cases were predominantly distributed in Hubei and other provinces of South China. Hot spot provinces included Sichuan and Yunnan provinces that are adjacent to Hubei. While Wuhan city has the highest number of cases, the time risk is relatively stable. Numbers of cases in some cities are relatively low, but the time risks are continuously rising. The case numbers of different provinces and cities of Hubei province were highly correlated with the emigrated populations from Wuhan. Lockdown of 19 cities of Hubei province, and implementation of nationwide control measures efficiently prevented the exponential growth of case number.",
+        "keywords": [
+            "2019-nCoV",
+            "Temporal",
+            "Spatial",
+            "Distribution",
+            "Outbreak"
+        ],
+        "references": "@article{li2005a,\n  author = {Li, W. and Shi, Z. and Yu, M.},\n  title = {Bats are natural reservoirs of SARS-like coronaviruses},\n  journal = {Science},\n  date = {2005},\n  volume = {310},\n  pages = {676\u20139},\n  more-authors = {true},\n  number = {5748},\n  language = {}\n}\n@article{morens2004a,\n  author = {Morens, D.M. and Folkers, G.K. and Fauci, A.S.},\n  title = {The challenge of emerging and re-emerging infectious diseases},\n  journal = {Nature},\n  date = {2004},\n  volume = {430},\n  pages = {242\u20139},\n  number = {6996},\n  language = {}\n}\n@article{suwantarat2015a,\n  author = {Suwantarat, N. and Apisarnthanarak, A.},\n  title = {Risks to healthcare workers with emerging diseases: lessons from MERS-CoV, Ebola, SARS, and avian flu},\n  journal = {Curr Opin Infect Dis},\n  date = {2015},\n  volume = {28},\n  pages = {349\u201361},\n  number = {4},\n  language = {}\n}\n@article{krupovic2019a,\n  author = {Krupovic, M. and Dolja, VV, Koonin and E.V.},\n  title = {Origin of viruses: primordial replicators recruiting capsids from hosts},\n  journal = {Nat Rev Microbiol},\n  date = {2019},\n  volume = {17},\n  pages = {449\u201358},\n  number = {7},\n  language = {}\n}\n@article{holshue2020a,\n  author = {Holshue, M.L. and DeBolt, C. and Lindquist, S.},\n  title = {First Case of 2019 Novel Coronavirus in the United States},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N. and Zhang, D. and Wang, W.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{carlos2019a,\n  author = {Carlos, W.G. and Dela Cruz, C.S. and Cao, B. and Pasnick, S. and Jamil, S.},\n  title = {Novel Wuhan},\n  date = {2019},\n  journal = {Am J Respir Crit Care Med},\n  source = {Coronavirus},\n  language = {}\n}\n@incollection{lu2019a,\n  author = {Lu, H.},\n  title = {Drug treatment options for the 2019-new coronavirus},\n  date = {2019},\n  source = {Biosci Trends 2020},\n  language = {}\n}\n@misc{the-a,\n  author = {The, L.},\n  title = {Emerging understandings of 2019-nCoV. Lancet 2020},\n  language = {}\n}\n@article{li2020a,\n  author = {Li, Q. and Guan, X. and Wu, P.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{bohning2000a,\n  author = {Bohning, D. and Dietz, E. and Schlattmann, P.},\n  title = {Space-time mixture modelling of public health data},\n  journal = {Stat Med},\n  date = {2000},\n  volume = {19},\n  pages = {2333\u201344},\n  number = {17-18},\n  language = {}\n}\n@article{lyl-a,\n  author = {LYL, Chen H.Y. and X, Zhang N.},\n  title = {Spatial and Temporal Analysis of Neural Tube Defects in Yuanping County, Shanxi Province},\n  journal = {Journal of Geo-infor-mation Science},\n  date = {( 04):},\n  pages = {70\u20138},\n  language = {}\n}\n@article{demirhan2015a,\n  author = {Demirhan, H. and Kalaylioglu, Z.},\n  title = {Joint prior distributions for variance parameters in Bayesian analysis of normal hierarchical models},\n  journal = {Journal of Multivariate Analysis},\n  date = {2015},\n  language = {}\n}\n@article{besag1991a,\n  author = {Besag, J. and York, J. and Molli\u00e9, A.},\n  title = {Bayesian image restoration, with two applications in spatial statistics},\n  journal = {Annals of the Institute of Statistical Mathematics},\n  date = {1991},\n  volume = {43},\n  pages = {1\u201320},\n  number = {1},\n  language = {}\n}\n@article{richardson-a,\n  author = {Richardson, S. and Thomson, A. and Best, N. and Elliott, P.},\n  title = {Interpreting Posterior Relative Risk Estimates in Disease-Mapping Studies},\n  journal = {Environmental Health Perspectives},\n  volume = {112},\n  pages = {1016\u201325},\n  number = {9},\n  language = {}\n}\n@article{nishiura2020a,\n  author = {Nishiura, H. and Jung, S.M. and Linton, N.M.},\n  title = {The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020},\n  journal = {J Clin Med},\n  date = {2020},\n  volume = {9},\n  unmatched-author = {Wang W, Tang J, Wei F.},\n  more-authors = {true},\n  source = {Updated understanding of the outbreak of 2019 novel coronavirus},\n  unmatched-journal = {J Med Virol},\n  number = {2},\n  language = {}\n}\n@article{cheng2020a,\n  author = {Cheng, V.C.C. and Wong, S.C. and To, K.K.W. and Ho, P.L. and Yuen, K.Y.},\n  title = {Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China},\n  journal = {J Hosp Infect},\n  date = {2020},\n  language = {}\n}\n@article{parry-a,\n  author = {Parry, J.},\n  title = {Wuhan: Britons to be evacuated as scientists estimate 44 000 cases of 2019-nCOV in the city},\n  journal = {BMJ},\n  volume = {2020},\n  pages = {351},\n  number = {368},\n  language = {}\n}\n@incollection{chan2003a,\n  author = {Chan, P.K. and Ip, M. and Ng, K.C.},\n  title = {Severe acute respiratory syndrome-associated coronavirus infection. Emerg Infect Dis},\n  date = {2003},\n  volume = {9},\n  pages = {1453\u20134},\n  edtior = {A},\n  more-authors = {true},\n  source = {Figure 1 2019-nCoV Case Report of China and Hubei Province A-D, Daily report on national increased and cumulative confirmed cases (A), death case (B), suspected cases (C), and increased severe cases (D). E, Increased and cumulative case number of Hubei Province; D, Increased and cumulative death case number of Hubei province},\n  number = {11},\n  language = {}\n}\n",
+        "links": [
+            "http://qianxi.baidu.com/"
+        ],
+        "emails": [
+            "lujiahai@mail.sysu.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Li, W.\nAU  - Shi, Z.\nAU  - Yu, M.\nTI  - Bats are natural reservoirs of SARS-like coronaviruses\nT2  - Science\nPY  - 2005\nDA  - 2005\nVL  - 310\nSP  - 676\nEP  - 9\nC1  - true\nIS  - 5748\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Morens, D.M.\nAU  - Folkers, G.K.\nAU  - Fauci, A.S.\nTI  - The challenge of emerging and re-emerging infectious diseases\nT2  - Nature\nPY  - 2004\nDA  - 2004\nVL  - 430\nSP  - 242\nEP  - 9\nIS  - 6996\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Suwantarat, N.\nAU  - Apisarnthanarak, A.\nTI  - Risks to healthcare workers with emerging diseases: lessons from MERS-CoV, Ebola, SARS, and avian flu\nT2  - Curr Opin Infect Dis\nPY  - 2015\nDA  - 2015\nVL  - 28\nSP  - 349\nEP  - 61\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Krupovic, M.\nAU  - Dolja, VV, Koonin\nAU  - E.V.\nTI  - Origin of viruses: primordial replicators recruiting capsids from hosts\nT2  - Nat Rev Microbiol\nPY  - 2019\nDA  - 2019\nVL  - 17\nSP  - 449\nEP  - 58\nIS  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Holshue, M.L.\nAU  - DeBolt, C.\nAU  - Lindquist, S.\nTI  - First Case of 2019 Novel Coronavirus in the United States\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nAU  - Zhang, D.\nAU  - Wang, W.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Carlos, W.G.\nAU  - Dela Cruz, C.S.\nAU  - Cao, B.\nAU  - Pasnick, S.\nAU  - Jamil, S.\nTI  - Novel Wuhan\nPY  - 2019\nDA  - 2019\nT2  - Am J Respir Crit Care Med\nT2  - Coronavirus\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Lu, H.\nTI  - Drug treatment options for the 2019-new coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Biosci Trends 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - The, L.\nTI  - Emerging understandings of 2019-nCoV. Lancet 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nAU  - Guan, X.\nAU  - Wu, P.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bohning, D.\nAU  - Dietz, E.\nAU  - Schlattmann, P.\nTI  - Space-time mixture modelling of public health data\nT2  - Stat Med\nPY  - 2000\nDA  - 2000\nVL  - 19\nSP  - 2333\nEP  - 44\nIS  - 17-18\nLA  - \nER  - \n\nTY  - JOUR\nAU  - LYL, Chen H.Y.\nAU  - X, Zhang N.\nTI  - Spatial and Temporal Analysis of Neural Tube Defects in Yuanping County, Shanxi Province\nT2  - Journal of Geo-infor-mation Science\nPY  - ( 04):\nDA  - ( 04):\nSP  - 70\nEP  - 8\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Demirhan, H.\nAU  - Kalaylioglu, Z.\nTI  - Joint prior distributions for variance parameters in Bayesian analysis of normal hierarchical models\nT2  - Journal of Multivariate Analysis\nPY  - 2015\nDA  - 2015\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Besag, J.\nAU  - York, J.\nAU  - Molli\u00e9, A.\nTI  - Bayesian image restoration, with two applications in spatial statistics\nT2  - Annals of the Institute of Statistical Mathematics\nPY  - 1991\nDA  - 1991\nVL  - 43\nSP  - 1\nEP  - 20\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Richardson, S.\nAU  - Thomson, A.\nAU  - Best, N.\nAU  - Elliott, P.\nTI  - Interpreting Posterior Relative Risk Estimates in Disease-Mapping Studies\nT2  - Environmental Health Perspectives\nVL  - 112\nSP  - 1016\nEP  - 25\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nishiura, H.\nAU  - Jung, S.M.\nAU  - Linton, N.M.\nTI  - The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020\nT2  - J Clin Med\nPY  - 2020\nDA  - 2020\nVL  - 9\nC1  - Wang W, Tang J, Wei F.\nC1  - true\nT2  - Updated understanding of the outbreak of 2019 novel coronavirus\nC1  - J Med Virol\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cheng, V.C.C.\nAU  - Wong, S.C.\nAU  - To, K.K.W.\nAU  - Ho, P.L.\nAU  - Yuen, K.Y.\nTI  - Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China\nT2  - J Hosp Infect\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Parry, J.\nTI  - Wuhan: Britons to be evacuated as scientists estimate 44 000 cases of 2019-nCOV in the city\nT2  - BMJ\nVL  - 2020\nSP  - 351\nIS  - 368\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Chan, P.K.\nAU  - Ip, M.\nAU  - Ng, K.C.\nTI  - Severe acute respiratory syndrome-associated coronavirus infection. Emerg Infect Dis\nPY  - 2003\nDA  - 2003\nVL  - 9\nSP  - 1453\nEP  - 4\nC1  - A\nC1  - true\nT2  - Figure 1 2019-nCoV Case Report of China and Hubei Province A-D, Daily report on national increased and cumulative confirmed cases (A), death case (B), suspected cases (C), and increased severe cases (D). E, Increased and cumulative case number of Hubei Province; D, Increased and cumulative death case number of Hubei province\nIS  - 11\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "2",
+                "caption": "Nationwide Case distribution and change trends A, Case distribution, B, Hot and cold spot of case distribution; C, model convergence analysis; D, Changing trends of case distribution"
+            },
+            {
+                "id": "5",
+                "caption": "Correlation between Migration and Case Number A, Migration index from and into Wuhan city and Hubei province during spring festival transport. Yellow, 2020, Gray, 2019. B, Migration out (emigration) and into Hubei Province; C, Emigration and immigration of Wuhan City and Hubei province from Jan 10 to 23, 2020; D, Correlation between case number and emigration from Hubei province; E, Correlation between case number and emigration from Wuhan city (interprovince); F, Correlation between case number and emigration from Wuhan city (intraprovince)"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.10.20021824v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.10.20021824v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.10.20021824v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.10.20021824v1/img-006.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.02.10.20021824v1/img-008.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "Emerging infectious diseases are still great challenges in the 21st century. In recent years, worldwide outbreaks of Ebola and Middle East Respiratory Syndrome (MERS) caused great health and economic losses[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The ongoing pneumonia outbreak caused by the new coronavirus, 2019-nCoV, is becoming a global public health problem. The 2019-nCoV outbreak is highly similar to the Severe Acute Respiratory Syndrome (SARS) in 2003 that they were both caused by new coronaviruses and happened in time periods including Chinese Spring Festival[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. On December 31, 2019, the Wuhan Municipal Health and Health Committee reported 27 cases of pneumonia with an unknown cause, and many cases were related to the Wuhan Southern China Seafood Market, which was subsequently closed on January 1, 20204. On January 7, 2020, laboratory test results showed that the pathogen of unexplained pneumonia was a new type of coronavirus, which was then officially named 2019-nCoV by the World Health Organization (WHO)[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. The 2019-nCoV outbreak started in Wuhan, and then spread rapidly to other provinces and countries[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. As of January 30, 2020, a total of 34 provinces and regions in China have reported 9,692 cases. Nearly all imported cases were derived from Wuhan, Hubei province[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].<br/><br/>The 2019-nCoV pneumonia was defined as a class B infectious disease but managed as class A infectious disease by the Chinese government. Daily case reports are being released and any omission or concealment is punishable by law. At present, the number of cases is still increasing and the epidemic has not yet reached its peak, but the situation differs by province. . Information about the temporal and spatial distributions of the cases is important for preparation of a targeted treatment and prevention strategy. Because the return peak of<br/><br/>Spring Festival transport is coming, the information on possible changes in incidence in different cities will help us to prepare in advance. Therefore, we investigated the temporal and spatial distributions of the early epidemic to reveal the dynamic changes and trends. These results will provide valuable information for the disease prevention for both individuals and organizations."
+        ],
+        "methods": [
+            "Case data collection All officially reported confirmed, suspected, severe cases and deaths of 2019-nCoV pneumonia were collected from the internet (website:). Case data were imported into Excel and incidence per 100,000 was calculated. No ethical approval is needed for this study. Temporal and spatial distribution and risk analysis<br/><br/>The national and Hubei province shapefiles are used for ArcGIS analysis. The map is linked to Excel file with time and spatial information. The risk analysis of the 2019-nCoV pneumonia is based on the Bayesian space-time model of WinBUGS software[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>,<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. The model is divided into three levels:<br/><br/>(1) Data model For the statistical data of low incidence, it is assumed to follow the Poisson distribution of the parameters ni and \u03bcit: yit ~ Poiss (ni\u03bcit), where Hubei province yit is i (1,...., 16) cities at t (1,..., 11) the number of cases that occurred during the day. The nationwide yit is the number of cases that occurred in t (1,..., 11) days in i (1,...., 240) cities. We assume that there is no change in the number of people at risk in each city during the study period, where ni is the number of people at risk in the town (i), and \u03bcit is the corresponding disease risk in the city (t) per day (i).<br/><br/>(2) Process model<br/><br/>The \u03bcit's logarithmic transformation of disease risk allows relative risk to be expressed as a linear combination of a spatial component, a temporal component, and a spatiotemporal interaction component. The mathematical expression is shown in equation (2).<br/><br/>log (\u03bcit) = \u03b1 + si + (b0t*+\u03c5t) + b1it*+\u03b5it (2)<br/><br/>Where \u03b1 is the fixed effect of the overall relative risk of the entire study area within 11 days; t* = t-5.5 is the time span relative to the intermediate time point. In this model, the risk of disease is broken down into three parts: spatial change, temporal change, and space-time interaction; and si is a component of spatial variability, describing the urban disease risk relative to the entire study region over an 11-day observation period; b0t*+\u03c5t is the amount of change over time, which describes the overall trend of disease risk in the entire study area relative to the medium-term observation day, including the linear trend b* 0t and the time random effect \u03c5t, b0 is the time coefficient, represents the time trend of the study area; b1it*<br/><br/>allows each city to have different time-varying trends and is part of the spatiotemporal interaction. Relative to b0, it is the local change trend of each city based on b0; \u03b5it is used to explain local changes that cannot be explained by spatiotemporal random effects.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]<br/><br/>(3) Parametric model<br/><br/>According to the BYM model[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>], a spatial structure effect is defined by a prior conditional autoregressive (CAR) structure. In this process, a spatial adjacency weight matrix needs to be defined. The weight adjacency is wij=1, otherwise the weight wij=0, and the special wij=0.<br/><br/>Similarly, b1i is also assumed to follow the BYM process. For the time structure effect \u03c5t, a conditional autoregressive process is used, and the adjacency weight matrix in time is defined. For the over-discrete parameter \u03b5it, according to Gelman, the normal distribution with a mean value of 0 and a variance of \u03c32\u03b5, is generally assumed and the variance of each parameter obeys Gamma (a, b).[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Based on this model, through the spatial component si and its posterior probability, high-risk or low-risk cities with respect to the average risk (\u03b1) of the entire study area can be identified. By calculating the probability of spatial relative risk, exp (si) is greater than 1 and divided into five categories: areas with probability> 0.8, 0.6-0.8, 0.4-0.6, 0.2-0.4, and <0.2 are defined as hot spots, secondary hot spots, warm-spots, sub-cold spots, and cold-spots respectively. Similarly, based on the probability threshold, the differences in these classification regions can be identified based on the trend over time. The probability that exp (b1i) is greater than 1 is divided into five categories: cities with an incidence risk probability greater than 0.8 have a rapid change trend relative to the overall risk change; between 0.6 and 0.8 indicate that the change trend of the incidence risk is greater than the overall risk change; 0.4 to 0.6 indicates that the occurrence risk is the same as the overall risk change trend; 0.2 to 0.4 indicates that the change trend of the disease risk is slower than the overall risk change; the change trend of the disease risk in cities with a probability less than 0.2 is more slower than the overall risk. Correlation between case number and population migration<br/><br/>Population migration data were collected from Baidu dataset (http://qianxi.baidu.com/). Data on emigration from Wuhan City and Hubei province to other cities and provinces were extracted and edited with Excel of windows Microsoft office. Emigration intensity was calculated as migration index multiplied with proportions of the province or city."
+        ],
+        "results": [
+            "To obtain a general profile of the distribution, we first analyzed all the available cases during this 2019-nCoV pneumonia outbreak[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. As shown in Figure 1A, the number of cases remained stable from January 11 to 15, 2020, and the number of newly added and cumulative cases increased rapidly after January 16. The first death was reported on January 10, and the number of deaths began to increase rapidly from January 17, with the cumulative death number reaching 312 on January 30 (Figure 1B)[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. After the nucleic acid assay becoming available, suspected cases waiting for laboratory confirmation could now be diagnosed more rapidly 17. After January 19, suspected cases increased rapidly, and about 40-50% of these suspected cases were then diagnosed as confirmed cases (Figure 1C). Before January 19, the number of severe cases, remained at a low level but increased steadily since January 20 (Figure 1D). Because Wuhan is the capital city of Hubei province and the cases have spread to the rest of Hubei province quickly, we also analyzed the change in number of cases in Hubei province. On January 9, 41 cases were first reported, and by January 30, 5,806 cases were reported, accounting for 59.91% of the total cases in China (Figure 1E). The cumulative number of deaths in Hubei province is 249, accounting for 96.14% of total deaths in China (Figure 1F). These data indicated that both the incidence and mortality of 2019-nCoV disease is the highest in Hubei province[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].<br/><br/>Before January 16, cases were mainly reported in Hubei province. From January 17 onward, the outbreak spread to many provinces and the number of cases increased rapidly. Therefore, our spatial and temporal analyses used data from January 17 to January 30, 2020. Location of each case was extracted from official reports and mapped on the national map to city level with ArcGIS. Of the 362 cities, 307 (84.8%) had reported cases. In general, the core outbreak area, Wuhan and its surrounding cities, had the highest number of cases, followed by cities with high population that are transportation hubs (Figure 2A). Spatial distribution was then analyzed with a Bayesian model using WinBUGS13,14. After iterating nearly 100,000 times, the model converged successfully. After the model converged, it iterated another 110,000 times to obtain parameter estimations. A ratio close to 1 indicates that the two chain iterative sequences are close, and that the model has a good convergence and is stable (Figure 2B). With the established model and parameters, hot and cold spots were identified. The results showed that Sichuan, Yunnan, Guizhou, Hainan, and Taiwan were hot spots, and Inner Mongolia, Gansu, Ningxia, Qinghai, Xinjiang, Chongqing, Hunan, and Guangxi were secondary hot spots. Generally, hot spots clustered in the Midwest and cold spots clustered in the Southeast (Figure 2D).<br/><br/>The overall temporal trend was calculated using the time risk model (exp(b0t*+vt)), which described the general incidence risk by time during the period from January 16 to January 30, 2020. The results showed that b0 is estimated to be 0.4604, that is, the disease risk on the following day is approximately 1.585 times higher than the previous day. The relative risk by time increased steadily from January 20 and remained in an upward trend as of January 30 (Figure 2C). From this, it can be estimated that the number of cases nationwide is on the rise. As shown in Figure 2E, Heilongjiang, Hebei, Beijing, Tianjin, Xinjiang, Ningxia, Jiangsu, Hunan, Taiwan, and Hainan showed faster increased in cases than the overall national trend. The increase of cases in Jilin, Liaoning, Shanxi, Guangxi, and Fujian provinces were also relatively fast. The increase of cases in other provinces were consistent with or lower than the overall national trend. Since Hubei province had the highest number of cases, we analyzed the temporal and spatial distribution in different cities of Hubei province. According to the reported cases, Wuhan had the highest number of cases, followed by Huanggang and Xiaogan city. Suizhou, Jingmen, and Xianning city are among the second group with a high number of cases (Figure 3A). The spatial convergence analysis converged 100,000 iterations (Figure 3B). Hot spots are identified in the east regions and cold spots are in the west regions (Figure 3D). The overall temporal trend in the model estimation was calculated for the change in the number of cases. The average time trend coefficient b0 was estimated to be 0.6727, meaning the time risk (occurrence probability in time) on a following day is 1.960 times higher than the previous day, indicating that the daily number of cases in Hubei Province is on the rise (Figure 3C). Xiangyang, Suizhou, Yichang, and Ezhou showed the highest increase rates, and Shiyan, Shenlongjia, Xiaogan and Huangshi showed relative high increase rates (Figure 3E). Other cities had a growth slower than the overall growth in the province (Table S1). The increase rate of Hubei province (1.960) was higher than the whole country (1.585), indicating the increase rate in Hubei province is significantly higher than other provinces in China.<br/><br/>In addition to changes in number of cases, we also analyzed the change in incidence, which could incorporate the population information of each city. Consistent with the trend of number of cases, Wuhan had the highest incidence, followed by Xiaogan and Huanggang (Figure 4A). Model converged after 110,000 iterations (Figure 4B). Spatial distribution trend analysis showed that Jingmen, Xiaogan, Qianjiang, Xiantao, Ezhou, and Huangshi were hot spots with high incidence, and Huanggang, Wuhan, Tianmen, Jingzhou, Xianning were cold spot with relatively low incidence (Figure 4C). Temporal change trend analysis results that the average time trend coefficient b0 was 0.5087, and the disease risk on the following day was approximately 1.663 times higher than the previous day, indicating an upward trend (Figure 4D). The change in incidence is different from the change in number of cases.<br/><br/>The outbreak started from Wuhan, and nearly all the early cases were derived from Wuhan, Hubei province. Because the outbreak happened just before Spring Festival, large scale population migration during this period is an inducing factor for subsequent epidemic. From Jan 1 to 23, 2020, the population migrated out of Wuhan city and Hubei province increase steadily and peaked at Jan 22 and 21 respectively (Figure 5A). Wuhan city is lockdown on Jan 23, and after that population migration greatly inhibited. As experienced 2019, high population migration occurred Jan 31, this timely city lockdown prevented subsequent burst. We then analyzed the migration out and into Wuhan city and Hubei province. The top target provinces of emigration included Henan and Hunan province (Figure 5B). More people migrated out of Wuhan than those into the city (Figure 5C). To analyze the correlation between case number and the emigration population for Wuhan city and Hubei province, population migration data was collected from Baidu Migration. The correlation coefficient between provincial case number and emigration of Hubei province was up to 0.821 (Figure 5D). The correlation coefficient between provincial case number and emigration from Wuhan was increased to 0.8895, and the highest one was 0.9918 between Wuhan and other cities of Hubei provinces (Figure 5E, F, Table S3, S4). These data strongly indicated that the case number is highly related with population emigration from Wuhan. Although we do not know the exact population emigrated from Wuhan, 5 million was an astonishing number, for each of them might be a virus spreader. If no control measures implemented, case number would exponentially increase. Of the 5 million emigrants, 74.22% were emigrated to other cities of Hubei province (Figure S2, Table S3). Fortunately, 19 cities of Hubei province were lockdown from Jan 23 to 26 (Figure S5). After lockdown of Wuhan and other cities of Hubei province, the outbreak burst was prevented, and case number increase only steadily without exponential growth.<br/><br/>In on our previous trend analysis of the early spread of this outbreak and the previous SARS outbreak, we estimated that the cumulative number of 2019-nCoV cases might be 2-3 times the cumulative number of SARS cases and reaches between 16,000 and 24,000 cases.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] Because the outbreak duration overlaps the Spring Festival transport waves, large scale migration will be a decisive factor of this outbreak. We analyzed the migration in the 3 days before the Spring Festival. The top 50 cities that were exporting migrants before Spring Festival are mainly located in the south and east of China. The top 4 exporting cities include Beijing, Shenzhen, Shanghai, and Guangzhou, which account for over 15% of the migration population (Figure S1). However, the cities with high population of imported migrants were relatively scattered. Chongqing had the highest population of imported migrants, which accounted for 1.50% of the total imported migrants (Figure 5). As the migrants will be traveling back to work after the Spring Festival, these previous \u201cexporting\u201d cities may have a high risk of emergence of another wave of new cases caused by the returned migrants."
+        ],
+        "discussion": [
+            "The 2019-nCoV pneumonia are causing great public health and economic losses for China. The case number increased rapidly, with over 50% were from Hubei province. As of Jan<br/><br/>30, the case number has exceeded the total number of the SARS-CoV outbreak[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. To cope with the outbreak, the Spring Festival holiday had been extended for two times. Prevention and control of the outbreak became a concerted action of the whole people in China. Although all people participated in the campaign against the outbreak, people in area with low case number considered that the disease is far away. Therefore, awareness of high-risk regions is import for preparation and responses for all the people, particularly those in regions with low incidence. Another reason we need to keep in mind is that 5 millions of persons have been emigrated from Wuhan to all over the country, we do not know exact who of them are virus carriers, and it is impossible to track and diagnose them all. Therefore, isolation at home and less contact with others is the most efficient measure to prevent infection and transmission.<br/><br/>With the reported cases, we analyzed the temporal and spatial distribution. In general, the number of cases is still on the rise. For Hubei Province, which has the highest number of cases and deaths, the growing trend is relatively stable. Conversely in other hot spots, the number of cases were not so high, but the rate of growth continues to rise and therefore should be closely monitored. It is particularly noteworthy that cities with the fastest change in temporal risk, such as Chongqing, have large population movements and rapid temporal risk. If they are not strictly monitored, there may be more outbreaks. In order to prevent disease outbreaks caused by the returning travel wave to the city after the Spring Festival, the country has extended the Spring Festival holiday twice to February 9, 2020. However, as the number of new cases is still increasing, the outbreak is unlikely to end before the end of the holiday. Therefore, we must act together to stop the spread of the disease. At present, the state has adopted mobility control measures to encourage people to avoid going to public places and wear masks when going out to reduce the risk of human to human transmission. We believe that with the joint efforts of everyone, the number of cases and losses will be kept to a minimum."
+        ],
+        "acknowledgements": [
+            "We thank Andre Kiesel for critical revision of this manuscript. This work was supported by the National Science and Technology Major Project (No 2018ZX10101002-001-001), National Key Research and Development Program Projects of China (2017YFD0500305), the State Key Program of National Natural Science of China (U1808202), NSFC International (regional) cooperation and exchange program (31961143024), the Key-Area Research and Development Program of Guangdong Province (2018B020241002), and the Guangdong Provincial Science and Technology Project (2018B020207013).<br/><br/>Authors\u2019contribution Z. Chen and J. Lu conceived and directed the study, Q. Zhang performed the temporal and spatial distribution analysis, Y. Lu, Z. Guo, W. Zhang, C. Guo participated in discussion and improvement of the contents, Q. Zhang and X. Zhang participated in figure and table preparation. C. Liao, X. Han and Q. Li collected the case data. Y. Lu performed critical revision of the manuscript. Z. Chen wrote the paper with help from all others."
+        ],
+        "disclosures": [
+            "All authors declare no competing interests."
+        ],
+        "funding": [
+            "This work was supported by the National Science and Technology Major Project (No 2018ZX10101002-001-001), National Key Research and Development Program Projects of China (2017YFD0500305), the State Key Program of National Natural Science of China (U1808202), NSFC International (regional) cooperation and exchange program (31961143024), the Key-Area Research and Development Program of Guangdong Province (2018B020241002), and the Guangdong Provincial Science and Technology Project (2018B020207013). Authors\u2019contribution Z"
+        ],
+        "ethical_compliance": [
+            "No ethical approval is needed for this study"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Table S3",
+                "Figure S2",
+                "Figure S5",
+                "Figure S1"
+            ]
+        }
+    },
+    "structured_content": {
+        "Introduction": [
+            "Emerging infectious diseases are still great challenges in the 21st century. In recent years, worldwide outbreaks of Ebola and Middle East Respiratory Syndrome (MERS) caused great health and economic losses[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. The ongoing pneumonia outbreak caused by the new coronavirus, 2019-nCoV, is becoming a global public health problem. The 2019-nCoV outbreak is highly similar to the Severe Acute Respiratory Syndrome (SARS) in 2003 that they were both caused by new coronaviruses and happened in time periods including Chinese Spring Festival[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. On December 31, 2019, the Wuhan Municipal Health and Health Committee reported 27 cases of pneumonia with an unknown cause, and many cases were related to the Wuhan Southern China Seafood Market, which was subsequently closed on January 1, 20204. On January 7, 2020, laboratory test results showed that the pathogen of unexplained pneumonia was a new type of coronavirus, which was then officially named 2019-nCoV by the World Health Organization (WHO)[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. The 2019-nCoV outbreak started in Wuhan, and then spread rapidly to other provinces and countries[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. As of January 30, 2020, a total of 34 provinces and regions in China have reported 9,692 cases. Nearly all imported cases were derived from Wuhan, Hubei province[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+            "The 2019-nCoV pneumonia was defined as a class B infectious disease but managed as class A infectious disease by the Chinese government. Daily case reports are being released and any omission or concealment is punishable by law. At present, the number of cases is still increasing and the epidemic has not yet reached its peak, but the situation differs by province. . Information about the temporal and spatial distributions of the cases is important for preparation of a targeted treatment and prevention strategy. Because the return peak of",
+            "Spring Festival transport is coming, the information on possible changes in incidence in different cities will help us to prepare in advance. Therefore, we investigated the temporal and spatial distributions of the early epidemic to reveal the dynamic changes and trends. These results will provide valuable information for the disease prevention for both individuals and organizations."
+        ],
+        "Methods": [
+            "Case data collection All officially reported confirmed, suspected, severe cases and deaths of 2019-nCoV pneumonia were collected from the internet (website:). Case data were imported into Excel and incidence per 100,000 was calculated. No ethical approval is needed for this study. Temporal and spatial distribution and risk analysis",
+            "The national and Hubei province shapefiles are used for ArcGIS analysis. The map is linked to Excel file with time and spatial information. The risk analysis of the 2019-nCoV pneumonia is based on the Bayesian space-time model of WinBUGS software[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>,<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. The model is divided into three levels:",
+            "(1) Data model For the statistical data of low incidence, it is assumed to follow the Poisson distribution of the parameters ni and \u03bcit: yit ~ Poiss (ni\u03bcit), where Hubei province yit is i (1,...., 16) cities at t (1,..., 11) the number of cases that occurred during the day. The nationwide yit is the number of cases that occurred in t (1,..., 11) days in i (1,...., 240) cities. We assume that there is no change in the number of people at risk in each city during the study period, where ni is the number of people at risk in the town (i), and \u03bcit is the corresponding disease risk in the city (t) per day (i).",
+            "The \u03bcit's logarithmic transformation of disease risk allows relative risk to be expressed as a linear combination of a spatial component, a temporal component, and a spatiotemporal interaction component. The mathematical expression is shown in equation (2).",
+            "Where \u03b1 is the fixed effect of the overall relative risk of the entire study area within 11 days; t* = t-5.5 is the time span relative to the intermediate time point. In this model, the risk of disease is broken down into three parts: spatial change, temporal change, and space-time interaction; and si is a component of spatial variability, describing the urban disease risk relative to the entire study region over an 11-day observation period; b0t*+\u03c5t is the amount of change over time, which describes the overall trend of disease risk in the entire study area relative to the medium-term observation day, including the linear trend b* 0t and the time random effect \u03c5t, b0 is the time coefficient, represents the time trend of the study area; b1it*",
+            "allows each city to have different time-varying trends and is part of the spatiotemporal interaction. Relative to b0, it is the local change trend of each city based on b0; \u03b5it is used to explain local changes that cannot be explained by spatiotemporal random effects.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+            "According to the BYM model[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>], a spatial structure effect is defined by a prior conditional autoregressive (CAR) structure. In this process, a spatial adjacency weight matrix needs to be defined. The weight adjacency is wij=1, otherwise the weight wij=0, and the special wij=0.",
+            "Similarly, b1i is also assumed to follow the BYM process. For the time structure effect \u03c5t, a conditional autoregressive process is used, and the adjacency weight matrix in time is defined. For the over-discrete parameter \u03b5it, according to Gelman, the normal distribution with a mean value of 0 and a variance of \u03c32\u03b5, is generally assumed and the variance of each parameter obeys Gamma (a, b).[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Based on this model, through the spatial component si and its posterior probability, high-risk or low-risk cities with respect to the average risk (\u03b1) of the entire study area can be identified. By calculating the probability of spatial relative risk, exp (si) is greater than 1 and divided into five categories: areas with probability> 0.8, 0.6-0.8, 0.4-0.6, 0.2-0.4, and <0.2 are defined as hot spots, secondary hot spots, warm-spots, sub-cold spots, and cold-spots respectively. Similarly, based on the probability threshold, the differences in these classification regions can be identified based on the trend over time. The probability that exp (b1i) is greater than 1 is divided into five categories: cities with an incidence risk probability greater than 0.8 have a rapid change trend relative to the overall risk change; between 0.6 and 0.8 indicate that the change trend of the incidence risk is greater than the overall risk change; 0.4 to 0.6 indicates that the occurrence risk is the same as the overall risk change trend; 0.2 to 0.4 indicates that the change trend of the disease risk is slower than the overall risk change; the change trend of the disease risk in cities with a probability less than 0.2 is more slower than the overall risk. Correlation between case number and population migration",
+            "Population migration data were collected from Baidu dataset (http://qianxi.baidu.com/). Data on emigration from Wuhan City and Hubei province to other cities and provinces were extracted and edited with Excel of windows Microsoft office. Emigration intensity was calculated as migration index multiplied with proportions of the province or city."
+        ],
+        "Results": [
+            "To obtain a general profile of the distribution, we first analyzed all the available cases during this 2019-nCoV pneumonia outbreak[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. As shown in Figure 1A, the number of cases remained stable from January 11 to 15, 2020, and the number of newly added and cumulative cases increased rapidly after January 16. The first death was reported on January 10, and the number of deaths began to increase rapidly from January 17, with the cumulative death number reaching 312 on January 30 (Figure 1B)[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. After the nucleic acid assay becoming available, suspected cases waiting for laboratory confirmation could now be diagnosed more rapidly 17. After January 19, suspected cases increased rapidly, and about 40-50% of these suspected cases were then diagnosed as confirmed cases (Figure 1C). Before January 19, the number of severe cases, remained at a low level but increased steadily since January 20 (Figure 1D). Because Wuhan is the capital city of Hubei province and the cases have spread to the rest of Hubei province quickly, we also analyzed the change in number of cases in Hubei province. On January 9, 41 cases were first reported, and by January 30, 5,806 cases were reported, accounting for 59.91% of the total cases in China (Figure 1E). The cumulative number of deaths in Hubei province is 249, accounting for 96.14% of total deaths in China (Figure 1F). These data indicated that both the incidence and mortality of 2019-nCoV disease is the highest in Hubei province[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].",
+            "Before January 16, cases were mainly reported in Hubei province. From January 17 onward, the outbreak spread to many provinces and the number of cases increased rapidly. Therefore, our spatial and temporal analyses used data from January 17 to January 30, 2020. Location of each case was extracted from official reports and mapped on the national map to city level with ArcGIS. Of the 362 cities, 307 (84.8%) had reported cases. In general, the core outbreak area, Wuhan and its surrounding cities, had the highest number of cases, followed by cities with high population that are transportation hubs (Figure 2A). Spatial distribution was then analyzed with a Bayesian model using WinBUGS13,14. After iterating nearly 100,000 times, the model converged successfully. After the model converged, it iterated another 110,000 times to obtain parameter estimations. A ratio close to 1 indicates that the two chain iterative sequences are close, and that the model has a good convergence and is stable (Figure 2B). With the established model and parameters, hot and cold spots were identified. The results showed that Sichuan, Yunnan, Guizhou, Hainan, and Taiwan were hot spots, and Inner Mongolia, Gansu, Ningxia, Qinghai, Xinjiang, Chongqing, Hunan, and Guangxi were secondary hot spots. Generally, hot spots clustered in the Midwest and cold spots clustered in the Southeast (Figure 2D).",
+            "The overall temporal trend was calculated using the time risk model (exp(b0t*+vt)), which described the general incidence risk by time during the period from January 16 to January 30, 2020. The results showed that b0 is estimated to be 0.4604, that is, the disease risk on the following day is approximately 1.585 times higher than the previous day. The relative risk by time increased steadily from January 20 and remained in an upward trend as of January 30 (Figure 2C). From this, it can be estimated that the number of cases nationwide is on the rise. As shown in Figure 2E, Heilongjiang, Hebei, Beijing, Tianjin, Xinjiang, Ningxia, Jiangsu, Hunan, Taiwan, and Hainan showed faster increased in cases than the overall national trend. The increase of cases in Jilin, Liaoning, Shanxi, Guangxi, and Fujian provinces were also relatively fast. The increase of cases in other provinces were consistent with or lower than the overall national trend. Since Hubei province had the highest number of cases, we analyzed the temporal and spatial distribution in different cities of Hubei province. According to the reported cases, Wuhan had the highest number of cases, followed by Huanggang and Xiaogan city. Suizhou, Jingmen, and Xianning city are among the second group with a high number of cases (Figure 3A). The spatial convergence analysis converged 100,000 iterations (Figure 3B). Hot spots are identified in the east regions and cold spots are in the west regions (Figure 3D). The overall temporal trend in the model estimation was calculated for the change in the number of cases. The average time trend coefficient b0 was estimated to be 0.6727, meaning the time risk (occurrence probability in time) on a following day is 1.960 times higher than the previous day, indicating that the daily number of cases in Hubei Province is on the rise (Figure 3C). Xiangyang, Suizhou, Yichang, and Ezhou showed the highest increase rates, and Shiyan, Shenlongjia, Xiaogan and Huangshi showed relative high increase rates (Figure 3E). Other cities had a growth slower than the overall growth in the province (Table S1). The increase rate of Hubei province (1.960) was higher than the whole country (1.585), indicating the increase rate in Hubei province is significantly higher than other provinces in China.",
+            "In addition to changes in number of cases, we also analyzed the change in incidence, which could incorporate the population information of each city. Consistent with the trend of number of cases, Wuhan had the highest incidence, followed by Xiaogan and Huanggang (Figure 4A). Model converged after 110,000 iterations (Figure 4B). Spatial distribution trend analysis showed that Jingmen, Xiaogan, Qianjiang, Xiantao, Ezhou, and Huangshi were hot spots with high incidence, and Huanggang, Wuhan, Tianmen, Jingzhou, Xianning were cold spot with relatively low incidence (Figure 4C). Temporal change trend analysis results that the average time trend coefficient b0 was 0.5087, and the disease risk on the following day was approximately 1.663 times higher than the previous day, indicating an upward trend (Figure 4D). The change in incidence is different from the change in number of cases.",
+            "The outbreak started from Wuhan, and nearly all the early cases were derived from Wuhan, Hubei province. Because the outbreak happened just before Spring Festival, large scale population migration during this period is an inducing factor for subsequent epidemic. From Jan 1 to 23, 2020, the population migrated out of Wuhan city and Hubei province increase steadily and peaked at Jan 22 and 21 respectively (Figure 5A). Wuhan city is lockdown on Jan 23, and after that population migration greatly inhibited. As experienced 2019, high population migration occurred Jan 31, this timely city lockdown prevented subsequent burst. We then analyzed the migration out and into Wuhan city and Hubei province. The top target provinces of emigration included Henan and Hunan province (Figure 5B). More people migrated out of Wuhan than those into the city (Figure 5C). To analyze the correlation between case number and the emigration population for Wuhan city and Hubei province, population migration data was collected from Baidu Migration. The correlation coefficient between provincial case number and emigration of Hubei province was up to 0.821 (Figure 5D). The correlation coefficient between provincial case number and emigration from Wuhan was increased to 0.8895, and the highest one was 0.9918 between Wuhan and other cities of Hubei provinces (Figure 5E, F, Table S3, S4). These data strongly indicated that the case number is highly related with population emigration from Wuhan. Although we do not know the exact population emigrated from Wuhan, 5 million was an astonishing number, for each of them might be a virus spreader. If no control measures implemented, case number would exponentially increase. Of the 5 million emigrants, 74.22% were emigrated to other cities of Hubei province (Figure S2, Table S3). Fortunately, 19 cities of Hubei province were lockdown from Jan 23 to 26 (Figure S5). After lockdown of Wuhan and other cities of Hubei province, the outbreak burst was prevented, and case number increase only steadily without exponential growth.",
+            "In on our previous trend analysis of the early spread of this outbreak and the previous SARS outbreak, we estimated that the cumulative number of 2019-nCoV cases might be 2-3 times the cumulative number of SARS cases and reaches between 16,000 and 24,000 cases.[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>] Because the outbreak duration overlaps the Spring Festival transport waves, large scale migration will be a decisive factor of this outbreak. We analyzed the migration in the 3 days before the Spring Festival. The top 50 cities that were exporting migrants before Spring Festival are mainly located in the south and east of China. The top 4 exporting cities include Beijing, Shenzhen, Shanghai, and Guangzhou, which account for over 15% of the migration population (Figure S1). However, the cities with high population of imported migrants were relatively scattered. Chongqing had the highest population of imported migrants, which accounted for 1.50% of the total imported migrants (Figure 5). As the migrants will be traveling back to work after the Spring Festival, these previous \u201cexporting\u201d cities may have a high risk of emergence of another wave of new cases caused by the returned migrants."
+        ],
+        "Discussion": [
+            "The 2019-nCoV pneumonia are causing great public health and economic losses for China. The case number increased rapidly, with over 50% were from Hubei province. As of Jan",
+            "30, the case number has exceeded the total number of the SARS-CoV outbreak[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. To cope with the outbreak, the Spring Festival holiday had been extended for two times. Prevention and control of the outbreak became a concerted action of the whole people in China. Although all people participated in the campaign against the outbreak, people in area with low case number considered that the disease is far away. Therefore, awareness of high-risk regions is import for preparation and responses for all the people, particularly those in regions with low incidence. Another reason we need to keep in mind is that 5 millions of persons have been emigrated from Wuhan to all over the country, we do not know exact who of them are virus carriers, and it is impossible to track and diagnose them all. Therefore, isolation at home and less contact with others is the most efficient measure to prevent infection and transmission.",
+            "With the reported cases, we analyzed the temporal and spatial distribution. In general, the number of cases is still on the rise. For Hubei Province, which has the highest number of cases and deaths, the growing trend is relatively stable. Conversely in other hot spots, the number of cases were not so high, but the rate of growth continues to rise and therefore should be closely monitored. It is particularly noteworthy that cities with the fastest change in temporal risk, such as Chongqing, have large population movements and rapid temporal risk. If they are not strictly monitored, there may be more outbreaks. In order to prevent disease outbreaks caused by the returning travel wave to the city after the Spring Festival, the country has extended the Spring Festival holiday twice to February 9, 2020. However, as the number of new cases is still increasing, the outbreak is unlikely to end before the end of the holiday. Therefore, we must act together to stop the spread of the disease. At present, the state has adopted mobility control measures to encourage people to avoid going to public places and wear masks when going out to reduce the risk of human to human transmission. We believe that with the joint efforts of everyone, the number of cases and losses will be kept to a minimum."
+        ],
+        "Acknowledgements": [
+            "We thank Andre Kiesel for critical revision of this manuscript. This work was supported by the National Science and Technology Major Project (No 2018ZX10101002-001-001), National Key Research and Development Program Projects of China (2017YFD0500305), the State Key Program of National Natural Science of China (U1808202), NSFC International (regional) cooperation and exchange program (31961143024), the Key-Area Research and Development Program of Guangdong Province (2018B020241002), and the Guangdong Provincial Science and Technology Project (2018B020207013).",
+            "Authors\u2019contribution Z. Chen and J. Lu conceived and directed the study, Q. Zhang performed the temporal and spatial distribution analysis, Y. Lu, Z. Guo, W. Zhang, C. Guo participated in discussion and improvement of the contents, Q. Zhang and X. Zhang participated in figure and table preparation. C. Liao, X. Han and Q. Li collected the case data. Y. Lu performed critical revision of the manuscript. Z. Chen wrote the paper with help from all others.",
+            "Declaration of interests All authors declare no competing interests."
+        ],
+        "References": [
+            "1. Li W, Shi Z, Yu M, et al Bats are natural reservoirs of SARS-like coronaviruses. Science 2005; 310(5748): 676-9. 2. Morens DM, Folkers GK, Fauci AS. The challenge of emerging and re-emerging infectious diseases. Nature 2004; 430(6996): 242-9. 3. Suwantarat N, Apisarnthanarak A. Risks to healthcare workers with emerging diseases: lessons from MERS-CoV, Ebola, SARS, and avian flu. Curr Opin Infect Dis 2015; 28(4): 349-61. 4. Krupovic M, Dolja VV, Koonin EV. Origin of viruses: primordial replicators recruiting capsids from hosts. Nat Rev Microbiol 2019; 17(7): 449-58. 5. Holshue ML, DeBolt C, Lindquist S, et al First Case of 2019 Novel Coronavirus in the United States. N Engl J Med 2020. 6. Zhu N, Zhang D, Wang W, et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020. 7. Carlos WG, Dela Cruz CS, Cao B, Pasnick S, Jamil S. Novel Wuhan (2019-nCoV) Coronavirus. Am J Respir Crit Care Med 2020. 8. Lu H. Drug treatment options for the 2019-new coronavirus (2019-nCoV). Biosci Trends 2020. 9. The L. Emerging understandings of 2019-nCoV. Lancet 2020. 10. Li Q, Guan X, Wu P, et al Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020. 11. Bohning D, Dietz E, Schlattmann P. Space-time mixture modelling of public health data. Stat Med 2000; 19(17-18): 2333-44. 12. Chen H Y LYL, Zhang N X. Spatial and Temporal Analysis of Neural Tube Defects in Yuanping County, Shanxi Province. Journal of Geo-infor-mation Science; (04): 70-8. 13. Demirhan H, Kalaylioglu Z. Joint prior distributions for variance parameters in Bayesian analysis of normal hierarchical models. Journal of Multivariate Analysis 2015; 135. 14. Besag J, York J, Molli\u00e9 A. Bayesian image restoration, with two applications in spatial statistics. Annals of the Institute of Statistical Mathematics 1991; 43(1): 1-20. 15. Richardson S, Thomson A, Best N, Elliott P. Interpreting Posterior Relative Risk Estimates in Disease-Mapping Studies. Environmental Health Perspectives; 112(9): 1016-25. 16. Nishiura H, Jung SM, Linton NM, et al The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020. J Clin Med 2020; 9(2). 17. Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan, China. J Med Virol 2020. 18. Cheng VCC, Wong SC, To KKW, Ho PL, Yuen KY. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect 2020. 19. Parry J. Wuhan: Britons to be evacuated as scientists estimate 44 000 cases of 2019-nCOV in the city. BMJ 2020; 368: m351. 20. Chan PK, Ip M, Ng KC, et al Severe acute respiratory syndrome-associated coronavirus infection. Emerg Infect Dis 2003; 9(11): 1453-4.",
+            "Figure 1 2019-nCoV Case Report of China and Hubei Province A-D, Daily report on national increased and cumulative confirmed cases (A), death case (B), suspected cases (C), and increased severe cases (D). E, Increased and cumulative case number of Hubei Province; D, Increased and cumulative death case number of Hubei province. A, Daily increased and cumulative case number.",
+            "Figure 2 Nationwide Case distribution and change trends A, Case distribution, B, Hot and cold spot of case distribution; C, model convergence analysis; D, Changing trends of case distribution.",
+            "Figure 3 2019-nCoV Case distribution of Hubei province A, Case distribution of Hubei province; B, Model convergence case distribution; C, Relative time risk with time; D, Hot spot and cold spot of case distribution; E, Incidence changing trends of different cities of Hubei Province.",
+            "Figure 4 2019-nCoV incidence distribution and change trends of Hubei province A, Incidence distribution of Hubei province; B, Model convergence of incidence distribution; C, Hot spot and cold spot of incidence distribution; D, Incidence changing trends of different cities of Hubei Province.",
+            "Figure 5 Correlation between Migration and Case Number A, Migration index from and into Wuhan city and Hubei province during spring festival transport. Yellow, 2020, Gray, 2019. B, Migration out (emigration) and into Hubei Province; C, Emigration and immigration of Wuhan City and Hubei province from Jan 10 to 23, 2020; D, Correlation between case number and emigration from Hubei province; E, Correlation between case number and emigration from Wuhan city (interprovince); F, Correlation between case number and emigration from Wuhan city (intraprovince)."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "millions of people",
+            "number": 5,
+            "context": "BACKGROUNDS The ongoing new coronavirus (2019-nCoV) pneumonia outbreak is spreading in China and has not reached its peak. <mark class=\"stats\">Five millions of people had emigrated from Wuhan before the city lockdown, which potentially represent a source of virus spreaders</mark>. Case distribution and its correlation with population emigration from Wuhan in early epidemic are of great importance for early warning and prevention of future outbreak"
+        },
+        {
+            "participant": "cases",
+            "number": 27,
+            "context": "The 2019-nCoV outbreak is highly similar to the Severe Acute Respiratory Syndrome (SARS) in 2003 that they were both caused by new coronaviruses and happened in time periods including Chinese Spring Festival1. <mark class=\"stats\">On December 31, 2019, the Wuhan Municipal Health and Health Committee reported 27 cases of pneumonia with an unknown cause, and many cases were related to the Wuhan Southern China Seafood Market, which was subsequently closed on January 1, 20204</mark>. On January 7, 2020, laboratory test results showed that the pathogen of unexplained pneumonia was a new type of coronavirus, which was then officially named 2019-nCoV by the World Health Organization (WHO)[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]"
+        },
+        {
+            "participant": "cases",
+            "number": 9692,
+            "context": "The 2019-nCoV outbreak started in Wuhan, and then spread rapidly to other provinces and countries7,8. <mark class=\"stats\">As of January 30, 2020, a total of 34 provinces and regions in China have reported 9,692 cases</mark>. Nearly all imported cases were derived from Wuhan, Hubei province[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>,<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]"
+        },
+        {
+            "participant": "cases",
+            "number": 41,
+            "context": "Because Wuhan is the capital city of Hubei province and the cases have spread to the rest of Hubei province quickly, we also analyzed the change in number of cases in Hubei province. <mark class=\"stats\">On January 9, 41 cases were first reported, and by January 30, 5,806 cases were reported, accounting for 59.91% of the total cases in China (Figure 1E)</mark>. The cumulative number of deaths in Hubei province is 249, accounting for 96.14% of total deaths in China (Figure 1F)"
+        },
+        {
+            "participant": "cases",
+            "number": 24000,
+            "context": "After lockdown of Wuhan and other cities of Hubei province, the outbreak burst was prevented, and case number increase only steadily without exponential growth. <mark class=\"stats\">In on our previous trend analysis of the early spread of this outbreak and the previous SARS outbreak, we estimated that the cumulative number of 2019-nCoV cases might be 2-3 times the cumulative number of SARS cases and reaches between 16,000 and 24,000 cases.19</mark>. Because the outbreak duration overlaps the Spring Festival transport waves, large scale migration will be a decisive factor of this outbreak"
+        },
+        {
+            "participant": "millions of persons",
+            "number": 5,
+            "context": "Therefore, awareness of high-risk regions is import for preparation and responses for all the people, particularly those in regions with low incidence. <mark class=\"stats\">Another reason we need to keep in mind is that 5 millions of persons have been emigrated from Wuhan to all over the country, we do not know exact who of them are virus carriers, and it is impossible to track and diagnose them all</mark>. Therefore, isolation at home and less contact with others is the most efficient measure to prevent infection and transmission"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The mathematical expression is shown in equation (2).<br/><br/>log (\u03bcit) = \u03b1 + si + (b0t*+\u03c5t) + b1it*+\u03b5it (2)<br/><br/>Where \u03b1 is the fixed effect of the overall relative risk of the entire study area within 11 days; t* = t-5.5 is the time span relative to the intermediate time point</mark>",
+                "tests": [
+                    {
+                        "test": "fixed effect"
+                    },
+                    {
+                        "test": "relative risk"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Relative to b0, it is the local change trend of each city based on b0; \u03b5it is used to explain local changes that cannot be explained by spatiotemporal random effects.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]<br/><br/>(3) Parametric model<br/><br/>According to the BYM model[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>], a spatial structure effect is defined by a prior conditional autoregressive (CAR) structure</mark>",
+                "tests": [
+                    {
+                        "test": "random effects"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">By calculating the probability of spatial relative risk, exp (si) is greater than 1 and divided into five categories: areas with probability> 0.8, 0.6-0.8, 0.4-0.6, 0.2-0.4, and <0.2 are defined as hot spots, secondary hot spots, warm-spots, sub-cold spots, and cold-spots respectively</mark>",
+                "tests": [
+                    {
+                        "test": "relative risk"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Relative to b0, it is the local change trend of each city based on b0; \u03b5it is used to explain local changes that cannot be explained by spatiotemporal random effects.[<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]</mark>",
+                "tests": [
+                    {
+                        "test": "random effects"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Relative to b0, it is the local change trend of each city based on b0; \u03b5it is used to explain local changes that cannot be explained by spatiotemporal random effects.13 (3) Parametric model</mark>",
+                "tests": [
+                    {
+                        "test": "random effects"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Spatial distribution was then analyzed with a Bayesian model using WinBUGS13,14</mark>",
+                "tests": [
+                    {
+                        "test": "Bayesian model"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "wuhan city",
+        "coronavirus",
+        "control measure",
+        "Severe Acute Respiratory Syndrome",
+        "high number",
+        "hot spot",
+        "time risk",
+        "ncov pneumonia",
+        "respiratory syndrome",
+        "conditional autoregressive",
+        "case number",
+        "Temporal",
+        "World Health Organization",
+        "Middle East Respiratory Syndrome",
+        "new coronavirus",
+        "public health",
+        "infectious disease",
+        "Outbreak",
+        "2019-nCoV",
+        "Distribution",
+        "spatial distribution",
+        "hubei province",
+        "population emigration",
+        "early epidemic",
+        "Spatial",
+        "pneumonia outbreak"
+    ],
+    "keyword_relevance": {
+        "2019-nCoV": 0.19166666666666668,
+        "case number": 0.16666666666666666,
+        "coronavirus": 0.075,
+        "Severe Acute Respiratory Syndrome": 0.058333333333333334,
+        "hot spot": 0.058333333333333334,
+        "spatial distribution": 0.05,
+        "time risk": 0.041666666666666664,
+        "control measure": 0.03333333333333333,
+        "Temporal": 0.03333333333333333,
+        "new coronavirus": 0.03333333333333333,
+        "infectious disease": 0.03333333333333333,
+        "Spatial": 0.03333333333333333,
+        "conditional autoregressive": 0.025,
+        "Middle East Respiratory Syndrome": 0.025,
+        "public health": 0.025,
+        "pneumonia outbreak": 0.025,
+        "World Health Organization": 0.016666666666666666,
+        "Distribution": 0.016666666666666666,
+        "population emigration": 0.016666666666666666,
+        "early epidemic": 0.016666666666666666,
+        "high number": 0.008333333333333333,
+        "respiratory syndrome": 0.008333333333333333,
+        "Outbreak": 0.008333333333333333,
+        "wuhan city": 0.0,
+        "ncov pneumonia": 0.0,
+        "hubei province": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Emerging infectious diseases are still great challenges in the 21st century. In recent years, worldwide outbreaks of Ebola and Middle East Respiratory Syndrome (MERS) caused great health and economic losses[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+        "The ongoing pneumonia outbreak caused by the new coronavirus, 2019-nCoV, is becoming a global public health problem.",
+        "The authors investigated the temporal and spatial distributions of the early epidemic to reveal the dynamic changes and trends.",
+        "These results will provide valuable information for the disease prevention for both individuals and organizations",
+        "<h2 style=\"display: inline\">Methods:</h2> Case data collection All officially reported confirmed, suspected, severe cases and deaths of 2019-nCoV pneumonia were collected from the internet.",
+        "For the over-discrete parameter \u03b5it, according to Gelman, the normal distribution with a mean value of 0 and a variance of \u03c32\u03b5, is generally assumed and the variance of each parameter obeys Gamma (a, b).[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Based on this model, through the spatial component si and its posterior probability, high-risk or low-risk cities with respect to the average risk (\u03b1) of the entire study area can be identified.",
+        "Emigration intensity was calculated as migration index multiplied with proportions of the province or city",
+        "<h2 style=\"display: inline\">Results:</h2> To obtain a general profile of the distribution, the authors first analyzed all the available cases during this 2019-nCoV pneumonia outbreak[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].",
+        "The correlation coefficient between provincial case number and emigration from Wuhan was increased to 0.8895, and the highest one was 0.9918 between Wuhan and other cities of Hubei provinces (Figure 5E, F, Table S3, S4).",
+        "These data strongly indicated that the case number is highly related with population emigration from Wuhan.",
+        "As the migrants will be traveling back to work after the Spring Festival, these previous \u201cexporting\u201d cities may have a high risk of emergence of another wave of new cases caused by the returned migrants",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The 2019-nCoV pneumonia are causing great public health and economic losses for China.",
+        "Awareness of high-risk regions is import for preparation and responses for all the people, those in regions with low incidence.",
+        "It is noteworthy that cities with the fastest change in temporal risk, such as Chongqing, have large population movements and rapid temporal risk",
+        "If they are not strictly monitored, there may be more outbreaks.",
+        "The authors believe that with the joint efforts of everyone, the number of cases and losses will be kept to a minimum"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Emerging infectious diseases are still great challenges in the 21st century. In recent years, worldwide outbreaks of Ebola and Middle East Respiratory Syndrome (MERS) caused great health and economic losses[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "The ongoing pneumonia outbreak caused by the new coronavirus, 2019-nCoV, is becoming a global public health problem.",
+            "The authors investigated the temporal and spatial distributions of the early epidemic to reveal the dynamic changes and trends.",
+            "These results will provide valuable information for the disease prevention for both individuals and organizations"
+        ],
+        "Methods": [
+            "Case data collection All officially reported confirmed, suspected, severe cases and deaths of 2019-nCoV pneumonia were collected from the internet.",
+            "For the over-discrete parameter \u03b5it, according to Gelman, the normal distribution with a mean value of 0 and a variance of \u03c32\u03b5, is generally assumed and the variance of each parameter obeys Gamma (a, b).[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] Based on this model, through the spatial component si and its posterior probability, high-risk or low-risk cities with respect to the average risk (\u03b1) of the entire study area can be identified.",
+            "Emigration intensity was calculated as migration index multiplied with proportions of the province or city"
+        ],
+        "Results": [
+            "To obtain a general profile of the distribution, the authors first analyzed all the available cases during this 2019-nCoV pneumonia outbreak[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].",
+            "The correlation coefficient between provincial case number and emigration from Wuhan was increased to 0.8895, and the highest one was 0.9918 between Wuhan and other cities of Hubei provinces (Figure 5E, F, Table S3, S4).",
+            "These data strongly indicated that the case number is highly related with population emigration from Wuhan.",
+            "As the migrants will be traveling back to work after the Spring Festival, these previous \u201cexporting\u201d cities may have a high risk of emergence of another wave of new cases caused by the returned migrants"
+        ],
+        "Conclusion": [
+            "The 2019-nCoV pneumonia are causing great public health and economic losses for China.",
+            "Awareness of high-risk regions is import for preparation and responses for all the people, those in regions with low incidence.",
+            "It is noteworthy that cities with the fastest change in temporal risk, such as Chongqing, have large population movements and rapid temporal risk",
+            "If they are not strictly monitored, there may be more outbreaks.",
+            "The authors believe that with the joint efforts of everyone, the number of cases and losses will be kept to a minimum"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Li_et+al_2005_a",
+            "entry": "1. Li W, Shi Z, Yu M, et al. Bats are natural reservoirs of SARS-like coronaviruses. Science 2005; 310(5748): 676-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20W.%20Shi%2C%20Z.%20Yu%2C%20M.%20Bats%20are%20natural%20reservoirs%20of%20SARS-like%20coronaviruses%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20W.%20Shi%2C%20Z.%20Yu%2C%20M.%20Bats%20are%20natural%20reservoirs%20of%20SARS-like%20coronaviruses%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20W.%20Shi%2C%20Z.%20Yu%2C%20M.%20Bats%20are%20natural%20reservoirs%20of%20SARS-like%20coronaviruses%202005"
+        },
+        {
+            "id": "2",
+            "alt_id": "Morens_et+al_2004_a",
+            "entry": "2. Morens DM, Folkers GK, Fauci AS. The challenge of emerging and re-emerging infectious diseases. Nature 2004; 430(6996): 242-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Morens%2C%20D.M.%20Folkers%2C%20G.K.%20Fauci%2C%20A.S.%20The%20challenge%20of%20emerging%20and%20re-emerging%20infectious%20diseases%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Morens%2C%20D.M.%20Folkers%2C%20G.K.%20Fauci%2C%20A.S.%20The%20challenge%20of%20emerging%20and%20re-emerging%20infectious%20diseases%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Morens%2C%20D.M.%20Folkers%2C%20G.K.%20Fauci%2C%20A.S.%20The%20challenge%20of%20emerging%20and%20re-emerging%20infectious%20diseases%202004"
+        },
+        {
+            "id": "3",
+            "alt_id": "Suwantarat_2015_a",
+            "entry": "3. Suwantarat N, Apisarnthanarak A. Risks to healthcare workers with emerging diseases: lessons from MERS-CoV, Ebola, SARS, and avian flu. Curr Opin Infect Dis 2015; 28(4): 349-61.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Suwantarat%2C%20N.%20Apisarnthanarak%2C%20A.%20Risks%20to%20healthcare%20workers%20with%20emerging%20diseases%3A%20lessons%20from%20MERS-CoV%2C%20Ebola%2C%20SARS%2C%20and%20avian%20flu%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Suwantarat%2C%20N.%20Apisarnthanarak%2C%20A.%20Risks%20to%20healthcare%20workers%20with%20emerging%20diseases%3A%20lessons%20from%20MERS-CoV%2C%20Ebola%2C%20SARS%2C%20and%20avian%20flu%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Suwantarat%2C%20N.%20Apisarnthanarak%2C%20A.%20Risks%20to%20healthcare%20workers%20with%20emerging%20diseases%3A%20lessons%20from%20MERS-CoV%2C%20Ebola%2C%20SARS%2C%20and%20avian%20flu%202015"
+        },
+        {
+            "id": "4",
+            "alt_id": "Krupovic_et+al_2019_a",
+            "entry": "4. Krupovic M, Dolja VV, Koonin EV. Origin of viruses: primordial replicators recruiting capsids from hosts. Nat Rev Microbiol 2019; 17(7): 449-58.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Krupovic%2C%20M.%20Dolja%2C%20VV%2C%20Koonin%20E.V.%20Origin%20of%20viruses%3A%20primordial%20replicators%20recruiting%20capsids%20from%20hosts%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Krupovic%2C%20M.%20Dolja%2C%20VV%2C%20Koonin%20E.V.%20Origin%20of%20viruses%3A%20primordial%20replicators%20recruiting%20capsids%20from%20hosts%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Krupovic%2C%20M.%20Dolja%2C%20VV%2C%20Koonin%20E.V.%20Origin%20of%20viruses%3A%20primordial%20replicators%20recruiting%20capsids%20from%20hosts%202019"
+        },
+        {
+            "id": "5",
+            "alt_id": "Holshue_et+al_2020_a",
+            "entry": "5. Holshue ML, DeBolt C, Lindquist S, et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Holshue%20ML%20DeBolt%20C%20Lindquist%20S%20et%20al%20First%20Case%20of%202019%20Novel%20Coronavirus%20in%20the%20United%20States%20N%20Engl%20J%20Med%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Holshue%20ML%20DeBolt%20C%20Lindquist%20S%20et%20al%20First%20Case%20of%202019%20Novel%20Coronavirus%20in%20the%20United%20States%20N%20Engl%20J%20Med%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Holshue%20ML%20DeBolt%20C%20Lindquist%20S%20et%20al%20First%20Case%20of%202019%20Novel%20Coronavirus%20in%20the%20United%20States%20N%20Engl%20J%20Med%202020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Zhu_et+al_2020_a",
+            "entry": "6. Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20Zhang%20D%20Wang%20W%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "Carlos_et+al_2019_a",
+            "entry": "7. Carlos WG, Dela Cruz CS, Cao B, Pasnick S, Jamil S. Novel Wuhan (2019-nCoV) Coronavirus. Am J Respir Crit Care Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Carlos%2C%20W.G.%20Dela%20Cruz%2C%20C.S.%20Cao%2C%20B.%20Pasnick%2C%20S.%20Novel%20Wuhan%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Carlos%2C%20W.G.%20Dela%20Cruz%2C%20C.S.%20Cao%2C%20B.%20Pasnick%2C%20S.%20Novel%20Wuhan%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Carlos%2C%20W.G.%20Dela%20Cruz%2C%20C.S.%20Cao%2C%20B.%20Pasnick%2C%20S.%20Novel%20Wuhan%202019"
+        },
+        {
+            "id": "8",
+            "alt_id": "Lu_2019_a",
+            "entry": "8. Lu H. Drug treatment options for the 2019-new coronavirus (2019-nCoV). Biosci Trends 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lu%20H%20Drug%20treatment%20options%20for%20the%202019new%20coronavirus%202019nCoV%20Biosci%20Trends%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lu%20H%20Drug%20treatment%20options%20for%20the%202019new%20coronavirus%202019nCoV%20Biosci%20Trends%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lu%20H%20Drug%20treatment%20options%20for%20the%202019new%20coronavirus%202019nCoV%20Biosci%20Trends%202020"
+        },
+        {
+            "id": "9",
+            "alt_id": "The_2019_a",
+            "entry": "9. The L. Emerging understandings of 2019-nCoV. Lancet 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=The%20L%20Emerging%20understandings%20of%202019nCoV%20Lancet%202020"
+        },
+        {
+            "id": "10",
+            "alt_id": "Li_et+al_2020_a",
+            "entry": "10. Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Q.%20Guan%2C%20X.%20Wu%2C%20P.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus-Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "11",
+            "alt_id": "Bohning_et+al_2000_a",
+            "entry": "11. Bohning D, Dietz E, Schlattmann P. Space-time mixture modelling of public health data. Stat Med 2000; 19(17-18): 2333-44.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bohning%2C%20D.%20Dietz%2C%20E.%20Schlattmann%2C%20P.%20Space-time%20mixture%20modelling%20of%20public%20health%20data%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bohning%2C%20D.%20Dietz%2C%20E.%20Schlattmann%2C%20P.%20Space-time%20mixture%20modelling%20of%20public%20health%20data%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bohning%2C%20D.%20Dietz%2C%20E.%20Schlattmann%2C%20P.%20Space-time%20mixture%20modelling%20of%20public%20health%20data%202000"
+        },
+        {
+            "id": "12",
+            "alt_id": "Lyl_( 04):_a",
+            "entry": "12. Chen H Y LYL, Zhang N X. Spatial and Temporal Analysis of Neural Tube Defects in Yuanping County, Shanxi Province. Journal of Geo-infor-mation Science; (04): 70-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=LYL%2C%20Chen%20H.Y.%20X%2C%20Zhang%20N.%20Spatial%20and%20Temporal%20Analysis%20of%20Neural%20Tube%20Defects%20in%20Yuanping%20County%2C%20Shanxi%20Province%20%28%2004%29%3A",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=LYL%2C%20Chen%20H.Y.%20X%2C%20Zhang%20N.%20Spatial%20and%20Temporal%20Analysis%20of%20Neural%20Tube%20Defects%20in%20Yuanping%20County%2C%20Shanxi%20Province%20%28%2004%29%3A",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=LYL%2C%20Chen%20H.Y.%20X%2C%20Zhang%20N.%20Spatial%20and%20Temporal%20Analysis%20of%20Neural%20Tube%20Defects%20in%20Yuanping%20County%2C%20Shanxi%20Province%20%28%2004%29%3A"
+        },
+        {
+            "id": "13",
+            "alt_id": "Demirhan_2015_a",
+            "entry": "13. Demirhan H, Kalaylioglu Z. Joint prior distributions for variance parameters in Bayesian analysis of normal hierarchical models. Journal of Multivariate Analysis 2015; 135.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Demirhan%2C%20H.%20Kalaylioglu%2C%20Z.%20Joint%20prior%20distributions%20for%20variance%20parameters%20in%20Bayesian%20analysis%20of%20normal%20hierarchical%20models%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Demirhan%2C%20H.%20Kalaylioglu%2C%20Z.%20Joint%20prior%20distributions%20for%20variance%20parameters%20in%20Bayesian%20analysis%20of%20normal%20hierarchical%20models%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Demirhan%2C%20H.%20Kalaylioglu%2C%20Z.%20Joint%20prior%20distributions%20for%20variance%20parameters%20in%20Bayesian%20analysis%20of%20normal%20hierarchical%20models%202015"
+        },
+        {
+            "id": "14",
+            "alt_id": "Besag_et+al_1991_a",
+            "entry": "14. Besag J, York J, Molli\u00e9 A. Bayesian image restoration, with two applications in spatial statistics. Annals of the Institute of Statistical Mathematics 1991; 43(1): 1-20.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Besag%2C%20J.%20York%2C%20J.%20Molli%C3%A9%2C%20A.%20Bayesian%20image%20restoration%2C%20with%20two%20applications%20in%20spatial%20statistics%201991",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Besag%2C%20J.%20York%2C%20J.%20Molli%C3%A9%2C%20A.%20Bayesian%20image%20restoration%2C%20with%20two%20applications%20in%20spatial%20statistics%201991",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Besag%2C%20J.%20York%2C%20J.%20Molli%C3%A9%2C%20A.%20Bayesian%20image%20restoration%2C%20with%20two%20applications%20in%20spatial%20statistics%201991"
+        },
+        {
+            "id": "15",
+            "alt_id": "Richardson_et+al_0000_a",
+            "entry": "15. Richardson S, Thomson A, Best N, Elliott P. Interpreting Posterior Relative Risk Estimates in Disease-Mapping Studies. Environmental Health Perspectives; 112(9): 1016-25.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Richardson%2C%20S.%20Thomson%2C%20A.%20Best%2C%20N.%20Elliott%2C%20P.%20Interpreting%20Posterior%20Relative%20Risk%20Estimates%20in%20Disease-Mapping%20Studies",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Richardson%2C%20S.%20Thomson%2C%20A.%20Best%2C%20N.%20Elliott%2C%20P.%20Interpreting%20Posterior%20Relative%20Risk%20Estimates%20in%20Disease-Mapping%20Studies",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Richardson%2C%20S.%20Thomson%2C%20A.%20Best%2C%20N.%20Elliott%2C%20P.%20Interpreting%20Posterior%20Relative%20Risk%20Estimates%20in%20Disease-Mapping%20Studies"
+        },
+        {
+            "id": "16",
+            "alt_id": "Nishiura_et+al_2020_a",
+            "entry": "16. Nishiura H, Jung SM, Linton NM, et al. The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020. J Clin Med 2020; 9(2). 17. Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan, China. J Med Virol 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nishiura%20H%20Jung%20SM%20Linton%20NM%20et%20al%20The%20Extent%20of%20Transmission%20of%20Novel%20Coronavirus%20in%20Wuhan%20China%202020%20J%20Clin%20Med%202020%2092%2017%20Wang%20W%20Tang%20J%20Wei%20F%20Updated%20understanding%20of%20the%20outbreak%20of%202019%20novel%20coronavirus%202019nCoV%20in%20Wuhan%20China%20J%20Med%20Virol%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nishiura%20H%20Jung%20SM%20Linton%20NM%20et%20al%20The%20Extent%20of%20Transmission%20of%20Novel%20Coronavirus%20in%20Wuhan%20China%202020%20J%20Clin%20Med%202020%2092%2017%20Wang%20W%20Tang%20J%20Wei%20F%20Updated%20understanding%20of%20the%20outbreak%20of%202019%20novel%20coronavirus%202019nCoV%20in%20Wuhan%20China%20J%20Med%20Virol%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nishiura%20H%20Jung%20SM%20Linton%20NM%20et%20al%20The%20Extent%20of%20Transmission%20of%20Novel%20Coronavirus%20in%20Wuhan%20China%202020%20J%20Clin%20Med%202020%2092%2017%20Wang%20W%20Tang%20J%20Wei%20F%20Updated%20understanding%20of%20the%20outbreak%20of%202019%20novel%20coronavirus%202019nCoV%20in%20Wuhan%20China%20J%20Med%20Virol%202020"
+        },
+        {
+            "id": "18",
+            "alt_id": "Cheng_et+al_2020_a",
+            "entry": "18. Cheng VCC, Wong SC, To KKW, Ho PL, Yuen KY. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cheng%2C%20V.C.C.%20Wong%2C%20S.C.%20To%2C%20K.K.W.%20Ho%2C%20P.L.%20Preparedness%20and%20proactive%20infection%20control%20measures%20against%20the%20emerging%20Wuhan%20coronavirus%20pneumonia%20in%20China%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cheng%2C%20V.C.C.%20Wong%2C%20S.C.%20To%2C%20K.K.W.%20Ho%2C%20P.L.%20Preparedness%20and%20proactive%20infection%20control%20measures%20against%20the%20emerging%20Wuhan%20coronavirus%20pneumonia%20in%20China%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cheng%2C%20V.C.C.%20Wong%2C%20S.C.%20To%2C%20K.K.W.%20Ho%2C%20P.L.%20Preparedness%20and%20proactive%20infection%20control%20measures%20against%20the%20emerging%20Wuhan%20coronavirus%20pneumonia%20in%20China%202020"
+        },
+        {
+            "id": "19",
+            "alt_id": "Parry_2019_a",
+            "entry": "19. Parry J. Wuhan: Britons to be evacuated as scientists estimate 44 000 cases of 2019-nCOV in the city. BMJ 2020; 368: m351.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Parry%20J%20Wuhan%20Britons%20to%20be%20evacuated%20as%20scientists%20estimate%2044%20000%20cases%20of%202019nCOV%20in%20the%20city%20BMJ%202020%20368%20m351",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Parry%20J%20Wuhan%20Britons%20to%20be%20evacuated%20as%20scientists%20estimate%2044%20000%20cases%20of%202019nCOV%20in%20the%20city%20BMJ%202020%20368%20m351",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Parry%20J%20Wuhan%20Britons%20to%20be%20evacuated%20as%20scientists%20estimate%2044%20000%20cases%20of%202019nCOV%20in%20the%20city%20BMJ%202020%20368%20m351"
+        },
+        {
+            "id": "20",
+            "alt_id": "Chan_et+al_2003_a",
+            "entry": "20. Chan PK, Ip M, Ng KC, et al. Severe acute respiratory syndrome-associated coronavirus infection. Emerg Infect Dis 2003; 9(11): 1453-4. Figure 1 2019-nCoV Case Report of China and Hubei Province A-D, Daily report on national increased and cumulative confirmed cases (A), death case (B), suspected cases (C), and increased severe cases (D). E, Increased and cumulative case number of Hubei Province; D, Increased and cumulative death case number of Hubei province. A, Daily increased and cumulative case number.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%2C%20P.K.%20Ip%2C%20M.%20Ng%2C%20K.C.%20Severe%20acute%20respiratory%20syndrome-associated%20coronavirus%20infection.%20Emerg%20Infect%20Dis%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%2C%20P.K.%20Ip%2C%20M.%20Ng%2C%20K.C.%20Severe%20acute%20respiratory%20syndrome-associated%20coronavirus%20infection.%20Emerg%20Infect%20Dis%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%2C%20P.K.%20Ip%2C%20M.%20Ng%2C%20K.C.%20Severe%20acute%20respiratory%20syndrome-associated%20coronavirus%20infection.%20Emerg%20Infect%20Dis%202003"
+        }
+    ],
+    "facts": [
+        "BACKGROUNDS The ongoing new coronavirus pneumonia outbreak is spreading in China",
+        "Five millions of people had emigrated from Wuhan before the city lockdown",
+        "which potentially represent a source of virus spreaders",
+        "its correlation with population emigration from Wuhan in early epidemic are of great importance for early warning and prevention",
+        "Time and location information of these cases were extracted analyzed with ArcGIS",
+        "Hubei province were extracted from Baidu Qianxi",
+        "FINDINGS The 2019-nCoV pneumonia cases were predominantly distributed in Hubei",
+        "that are adjacent to Hubei",
+        "While Wuhan city has the highest number of cases",
+        "The case numbers of different provinces and cities of Hubei province were highly correlated with the emigrated populations from Wuhan",
+        "implementation of nationwide control measures efficiently prevented the exponential growth of case number",
+        "The ongoing pneumonia outbreak caused by the new coronavirus",
+        "The 2019-nCoV outbreak is highly similar to the Severe Acute Respiratory Syndrome",
+        "many cases were related to the Wuhan Southern China Seafood Market",
+        "which was subsequently closed on January 1",
+        "laboratory test results showed that the pathogen of unexplained pneumonia was a new type of coronavirus",
+        "The 2019-nCoV outbreak started in Wuhan",
+        "all imported cases were derived from Wuhan",
+        "The 2019-nCoV pneumonia was defined as a class B infectious disease",
+        "any omission or concealment is punishable by law",
+        "the situation differs by province",
+        "spatial distributions of the cases is important for preparation of a targeted treatment and prevention strategy",
+        "severe cases and deaths of 2019-nCoV pneumonia were collected from the internet",
+        "Case data were imported into Excel and incidence",
+        "No ethical approval is needed for this study",
+        "Hubei province shapefiles are used for ArcGIS analysis",
+        "The map is linked to Excel file with time",
+        "The risk analysis of the 2019-nCoV pneumonia is based on the Bayesian space-time model of WinBUGS software[11,12",
+        "The model is divided into three levels",
+        "cities at t the number of cases that occurred during the day",
+        "The nationwide yit is the number of cases",
+        "that occurred in t days",
+        "where ni is the number of people at risk",
+        "The \u03bcit's logarithmic transformation of disease risk allows relative risk to be expressed as a linear combination of a spatial component",
+        "The mathematical expression is shown in equation",
+        "si is a component of spatial variability",
+        "b0t*+\u03c5t is the amount of change over time",
+        "which describes the overall trend of disease risk in the entire study area",
+        "the local change trend of each city based on b0",
+        "explain local changes that cannot be explained by spatiotemporal random effects.[13",
+        "a spatial structure effect is defined by a prior conditional autoregressive structure",
+        "the number of cases remained stable from January 11",
+        "The first death was reported on January 10",
+        "suspected cases waiting for laboratory confirmation could be diagnosed",
+        "about 40-50% of these suspected cases were diagnosed as confirmed cases",
+        "the cases have spread to the rest of Hubei province",
+        "cases were mainly reported in Hubei province",
+        "the outbreak spread to many provinces",
+        "Location of each case was extracted from official reports",
+        "Spatial distribution was analyzed with a Bayesian model using WinBUGS13,14",
+        "The results showed that Sichuan",
+        "hot spots clustered in the Midwest",
+        "cold spots clustered in the Southeast",
+        "The results showed that b0 is estimated to be",
+        "that the number of cases nationwide is on the rise",
+        "Hainan showed faster increased in cases than the overall national trend",
+        "Since Hubei province had the highest number of cases",
+        "Wuhan had the highest number of cases",
+        "Xianning city are among the second group with a high number",
+        "Hot spots are identified in the east regions",
+        "cold spots are in the west regions",
+        "The overall temporal trend in the model estimation was calculated for the change in the number",
+        "that the daily number of cases in Hubei Province is on the rise",
+        "The increase rate of Hubei province was higher than the whole country",
+        "the increase rate in Hubei province is significantly higher than other provinces in China",
+        "Model converged after 110,000 iterations",
+        "Spatial distribution trend analysis showed that Jingmen",
+        "Temporal change trend analysis results that the average time trend coefficient b0 was",
+        "The change in incidence is different from the change in number",
+        "The outbreak started from Wuhan",
+        "the early cases were derived from Wuhan",
+        "Wuhan city is lockdown on Jan 23",
+        "population migration data was collected from Baidu Migration",
+        "These data strongly indicated that the case number is highly related with population emigration",
+        "the exact population emigrated from Wuhan",
+        "74.22% were emigrated to other cities of Hubei province",
+        "19 cities of Hubei province were lockdown from Jan 23",
+        "large scale migration will be a decisive factor of this outbreak",
+        "were exporting migrants before Spring Festival are mainly located in the south and east of China",
+        "Chongqing had the highest population of imported migrants",
+        "which accounted for 1.50%",
+        "cities may have a high risk of emergence of another wave",
+        "of new cases caused by the returned migrants",
+        "over 50% were from Hubei province",
+        "the case number has exceeded the total number of the SARS-CoV",
+        "the Spring Festival holiday had been extended for two times",
+        "Prevention and control of the outbreak became a concerted action of the whole people in China",
+        "all people participated in the campaign against the outbreak",
+        "people in area with low case number considered that the disease is",
+        "in mind is that 5 millions of persons have been emigrated from",
+        "which has the highest number of cases and deaths",
+        "In order to prevent disease outbreaks caused by the returning travel wave to the city",
+        "unlikely to end before the end of the holiday",
+        "the state has adopted mobility control measures to encourage people to avoid going to public places",
+        "the number of cases and losses will be kept to a minimum",
+        "Emigration intensity was calculated as migration index multiplied with proportions"
+    ],
+    "claims": [
+        "We investigated the temporal and spatial distributions of the early epidemic to reveal the dynamic changes and trends"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "The ongoing pneumonia outbreak caused by the new coronavirus, 2019-nCoV, is becoming a global public health problem",
+        "The 2019-nCoV outbreak is highly similar to the Severe Acute Respiratory Syndrome (SARS) in 2003 that they were both caused by new coronaviruses and happened in time periods including Chinese Spring Festival[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "The risk of disease is broken down into three parts: spatial change, temporal change, and space-time interaction; and si is a component of spatial variability, describing the urban disease risk relative to the entire study region over an 11-day observation period; b0t*+\u03c5t is the amount of change over time, which describes the overall trend of disease risk in the entire study area relative to the medium-term observation day, including the linear trend b* 0t and the time random effect \u03c5t, b0 is the time coefficient, represents the time trend of the study area; b1it*",
+        "Before January 16, cases were mainly reported in Hubei province",
+        "From January 17 onward, the outbreak spread to many provinces and the number of cases increased rapidly",
+        "The results showed that Sichuan, Yunnan, Guizhou, Hainan, and Taiwan were hot spots, and Inner Mongolia, Gansu, Ningxia, Qinghai, Xinjiang, Chongqing, Hunan, and Guangxi were secondary hot spots",
+        "Hot spots clustered in the Midwest and cold spots clustered in the Southeast (Figure 2D)",
+        "Since Hubei province had the highest number of cases, we analyzed the temporal and spatial distribution in different cities of Hubei province",
+        "Jingmen, and Xianning city are among the second group with a high number of cases (Figure 3A)",
+        "Hot spots are identified in the east regions and cold spots are in the west regions (Figure 3D)",
+        "The average time trend coefficient b0 was estimated to be 0.6727, meaning the time risk on a following day is 1.960 times higher than the previous day, indicating that the daily number of cases in Hubei Province is on the rise (Figure 3C)",
+        "The increase rate of Hubei province (1.960) was higher than the whole country (1.585), indicating the increase rate in Hubei province is significantly higher than other provinces in China",
+        "Spatial distribution trend analysis showed that Jingmen, Xiaogan, Qianjiang, Xiantao, Ezhou, and Huangshi were hot spots with high incidence, and Huanggang, Wuhan, Tianmen, Jingzhou, Xianning were cold spot with relatively low incidence (Figure 4C)",
+        "Temporal change trend analysis results that the average time trend coefficient b0 was 0.5087, and the disease risk on the following day was approximately 1.663 times higher than the previous day, indicating an upward trend (Figure 4D)",
+        "The outbreak started from Wuhan, and nearly all the early cases were derived from Wuhan, Hubei province",
+        "To analyze the correlation between case number and the emigration population for Wuhan city and Hubei province, population migration data was collected from Baidu Migration",
+        "The correlation coefficient between provincial case number and emigration from Wuhan was increased to 0.8895, and the highest one was 0.9918 between Wuhan and other cities of Hubei provinces (Figure 5E, F, Table S3, S4). These data strongly indicated that the case number is highly related with population emigration from Wuhan",
+        "Because the outbreak duration overlaps the Spring Festival transport waves, large scale migration will be a decisive factor of this outbreak",
+        "As the migrants will be traveling back to work after the Spring Festival, these previous \u201cexporting\u201d cities may have a high risk of emergence of another wave of new cases caused by the returned migrants",
+        "The case number increased rapidly, with over 50% were from Hubei province",
+        "30, the case number has exceeded the total number of the Severe Acute Respiratory Syndrome-CoV outbreak[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]",
+        "Prevention and control of the outbreak became a concerted action of the whole people in China",
+        "All people participated in the campaign against the outbreak, people in area with low case number considered that the disease is far away",
+        "Awareness of high-risk regions is import for preparation and responses for all the people, those in regions with low incidence. Another reason we need to keep in mind is that 5 millions of persons have been emigrated from Wuhan to all over the country, we do not know exact who of them are virus carriers, and it is impossible to track and diagnose them all",
+        "In order to prevent disease outbreaks caused by the returning travel wave to the city after the Spring Festival, the country has extended the Spring Festival holiday twice to February 9, 2020",
+        "The state has adopted mobility control measures to encourage people to avoid going to public places and wear masks when going out to reduce the risk of human to human transmission"
+    ],
+    "top_statements": [
+        "Emerging infectious diseases are still great challenges in the 21st century",
+        "Since Hubei province had the highest number of cases, we analyzed the temporal and spatial distribution in different cities of Hubei province",
+        "Hot spots are identified in the east regions and cold spots are in the west regions (Figure 3D)",
+        "Spatial distribution trend analysis showed that Jingmen, Xiaogan, Qianjiang, Xiantao, Ezhou, and Huangshi were hot spots with high incidence, and Huanggang, Wuhan, Tianmen, Jingzhou, Xianning were cold spot with relatively low incidence (Figure 4C)",
+        "The outbreak started from Wuhan, and nearly all the early cases were derived from Wuhan, Hubei province",
+        "All people participated in the campaign against the outbreak, people in area with low case number considered that the disease is far away"
+    ],
+    "headline": "All people participated in the campaign against the outbreak, people in area with low case number considered that the disease is far away",
+    "contexts": [],
+    "abbreviations": {
+        "MERS": "Middle East Respiratory Syndrome",
+        "SARS": "Severe Acute Respiratory Syndrome",
+        "WHO": "World Health Organization",
+        "CAR": "conditional autoregressive"
+    }
+}

@@ -1,0 +1,687 @@
+{
+    "filename": "2020.03.08.982637v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 83200,
+    "metadata": {
+        "title": "Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak",
+        "author": "Yuan Liu, Ph.D., Zhi Ning, Ph.D., Yu Chen, Ph.D., Ming Guo, Ph.D., Yingle Liu, Ph.D., Nirmal Kumar Gali, Ph.D., Li Sun, M.Sc., Yusen Duan, M.Sc., Jing Cai, Ph.D., Dane Westerdahl, D.Env., Xinjin Liu, M.Sc., Kin-fai Ho, Ph.D., Haidong Kan, Ph.D., Qingyan Fu, Ph.D., Ke Lan, MD, PhD, 1",
+        "date": 2020,
+        "affiliations": [
+            "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, 430072, P. R. China;",
+            "Division of Environment and Sustainability, The Hong Kong University of Science and Technology, Hong Kong SAR, P. R. China;",
+            "Shanghai Environmental Monitoring Center, Shanghai 200235, P. R. China;",
+            "Ke Lan, State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, 430072, P. R. China. E-mail: klan@whu.edu.cn",
+            "The Hong Kong University of Science and Technology, Hong Kong SAR, P. R. China. E-mail:zhining@ust.hk",
+            "Yu Chen, State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, 430072, P. R. China. E-mail: chenyu@whu.edu.cn",
+            "Shanghai Environmental Monitoring Center, Shanghai 200235, P. R.China. E-mail: qingyanf@sheemc.cn",
+            "JC School of Public Health and Primary Care, The Chinese University of Hong Kong, Hong Kong SAR, P. R. China. Email: kfho@cuhk.edu.hk"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.08.982637",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.08.982637v1.pdf"
+        },
+        "abstract": "Background: The ongoing outbreak of COVID-19 has spread rapidly and sparked global concern. While the transmission of SARS-CoV-2 through human respiratory droplets and contact with infected persons is clear, the aerosol transmission of SARS-CoV-2 has been little studied.\nMethods: Thirty-five aerosol samples of three different types (total suspended particle, size segregated and deposition aerosol) were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak. A robust droplet digital polymerase chain reaction (ddPCR) method was employed to quantitate the viral SARS-CoV-2 RNA genome and determine aerosol RNA concentration.\nResults: The ICU, CCU and general patient rooms inside Renmin, patient hall inside Fangcang had undetectable or low airborne SARS-CoV-2 concentration but deposition samples inside ICU and air sample in Fangcang patient toilet tested positive. The airborne SARS-CoV-2 in Fangcang MSA had bimodal distribution with higher concentration than those in Renmin during the outbreak but turned negative after patients number reduced and rigorous sanitization implemented. PUA had undetectable airborne SARS-CoV-2 concentration but obviously increased with accumulating crowd flow.\nConclusions: Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2. The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2.",
+        "references": "@techreport{unknown-a,\n  title = {Committee on Taxonomy of V. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol 2020},\n  language = {},\n  institution = {Coronaviridae Study Group of the International}\n}\n@article{chen-a,\n  author = {Chen, L. and Liu, W. and Zhang, Q.},\n  title = {RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak},\n  journal = {Emerg Microbes Infect},\n  volume = {2020},\n  pages = {313\u20139},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{zhou2020a,\n  author = {Zhou, P. and Yang, X.L. and Wang, X.G.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  journal = {Nature},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{unknown-b,\n  title = {How COVID-19 spreads. CDC, 2020},\n  url = {https://www.cdc.gov/coronavirus/2019ncov/about/transmission.html.},\n  language = {}\n}\n@misc{unknown-c,\n  title = {How COVID-19 is spread. 2020},\n  url = {https://www.the-scientist.com/news-opinion/howcovid-19-is-spread-67143.},\n  language = {}\n}\n@misc{unknown-d,\n  title = {Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) World Health Organization, 2020},\n  url = {https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf.},\n  language = {}\n}\n@article{leclair1980a,\n  author = {Leclair, J.M. and Zaia, J.A. and Levin, M.J. and Congdon, R.G. and Goldmann, D.A.},\n  title = {Airborne transmission of chickenpox in a hospital},\n  journal = {The New England journal of medicine},\n  date = {1980},\n  volume = {302},\n  pages = {450\u20133},\n  language = {}\n}\n@article{escombe2007a,\n  author = {Escombe, A.R. and Oeser, C. and Gilman, R.H.},\n  title = {The detection of airborne transmission of tuberculosis from HIV-infected patients, using an in vivo air sampling model},\n  journal = {Clin Infect Dis},\n  date = {2007},\n  volume = {44},\n  pages = {1349\u201357},\n  more-authors = {true},\n  language = {}\n}\n@article{yu2014a,\n  author = {Yu, I.T. and Qiu, H. and Tse, L.A. and Wong, T.W.},\n  title = {Severe acute respiratory syndrome beyond Amoy Gardens: completing the incomplete legacy},\n  journal = {Clin Infect Dis},\n  date = {2014},\n  volume = {58},\n  pages = {683\u20136},\n  language = {}\n}\n@misc{suo-a,\n  author = {Suo, T. and Liu, X. and Guo, M.},\n  title = {ddPCR: a more sensitive and accurate tool for SARSCoV-2 detection in low viral load specimens. medRxiv 2020: 2020.02.29.20029439},\n  more-authors = {true},\n  language = {}\n}\n@article{ong2020a,\n  author = {Ong, S.W.X. and Tan, Y.K. and Chia, P.Y.},\n  title = {and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient},\n  journal = {JAMA},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{bai2020a,\n  author = {Bai, Y. and Yao, L. and Wei, T.},\n  title = {Presumed Asymptomatic Carrier Transmission of COVID19},\n  journal = {JAMA},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{rothe-a,\n  author = {Rothe, C. and Schunk, M. and Sothmann, P.},\n  title = {Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany},\n  journal = {The New England journal of medicine},\n  volume = {2020},\n  pages = {9701},\n  more-authors = {true},\n  number = {382},\n  language = {}\n}\n@misc{unknown-e,\n  title = {Zone C Workstation#},\n  language = {}\n}\n@misc{mobile-a,\n  author = {Mobile, Patient},\n  title = {Toilet Room TSP},\n  language = {}\n}\n@techreport{unknown-f,\n  institution = {Intensive Care Unit (ICU}\n}\n@incollection{unknown-g,\n  booktitle = {Intensive Care Unit (ICU) 7. Intensive Care Unit (ICU) 8. Coronary Care Unit (CCU)},\n  language = {}\n}\n@misc{unknown-h,\n  title = {Zone A Protective Apparel Removal},\n  language = {}\n}\n@misc{zone-a,\n  author = {Zone, B.},\n  title = {Protective Apparel Removal Room (PARR) Size Segregated},\n  language = {}\n}\n@misc{zone-b,\n  author = {Zone, C.},\n  title = {Protective Apparel Removal Size Segregateda},\n  language = {}\n}\n@misc{unknown-i,\n  title = {Female Staff Change Room TSP},\n  language = {}\n}\n@book{unknown-j,\n  publisher = {Medical Staff\u2019s Office},\n  language = {}\n}\n@misc{unknown-k,\n  title = {Meeting Room TSP},\n  language = {}\n}\n@misc{unknown-l,\n  title = {Fangcang Hospital Pharmacy TSP},\n  language = {}\n}\n@book{unknown-m,\n  title = {Renmin Hospital Doctor},\n  publisher = {Office},\n  language = {}\n}\n@book{unknown-n,\n  title = {Renmin Hospital Outpatient},\n  publisher = {Hall TSP},\n  language = {}\n}\n@misc{unknown-o,\n  title = {Renmin Hospital Outdoor},\n  language = {}\n}\n@techreport{unknown-p,\n  title = {Doorside TSP},\n  language = {},\n  institution = {University Office}\n}\n@book{unknown-q,\n  title = {Outpatient},\n  publisher = {Hall},\n  language = {},\n  organization = {University Hospital}\n}\n@misc{unknown-r,\n  title = {Community Check Point TSP},\n  language = {}\n}\n@misc{unknown-s,\n  title = {Residential Building},\n  language = {}\n}\n@misc{unknown-t,\n  title = {Supermarket TSP},\n  language = {}\n}\n@misc{unknown-u,\n  title = {Department Store 1},\n  language = {}\n}\n@book{store-a,\n  author = {Store, Department},\n  volume = {2},\n  publisher = {Blank Control},\n  number = {31},\n  language = {}\n}\n",
+        "emails": [
+            "qingyanf@sheemc.cn",
+            "klan@whu.edu.cn",
+            "chenyu@whu.edu.cn",
+            "kanh@fudan.edu.cn",
+            "kfho@cuhk.edu.hk",
+            "E-mail:zhining@ust.hk"
+        ],
+        "references_ris": "TY  - RPRT\nTI  - Committee on Taxonomy of V. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol 2020\nLA  - \nC1  - Coronaviridae Study Group of the International\nER  - \n\nTY  - JOUR\nAU  - Chen, L.\nAU  - Liu, W.\nAU  - Zhang, Q.\nTI  - RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak\nT2  - Emerg Microbes Infect\nVL  - 2020\nSP  - 313\nEP  - 9\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nAU  - Yang, X.L.\nAU  - Wang, X.G.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nT2  - Nature\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nTI  - How COVID-19 spreads. CDC, 2020\nUR  - https://www.cdc.gov/coronavirus/2019ncov/about/transmission.html.\nLA  - \nER  - \n\nTY  - GEN\nTI  - How COVID-19 is spread. 2020\nUR  - https://www.the-scientist.com/news-opinion/howcovid-19-is-spread-67143.\nLA  - \nER  - \n\nTY  - GEN\nTI  - Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) World Health Organization, 2020\nUR  - https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Leclair, J.M.\nAU  - Zaia, J.A.\nAU  - Levin, M.J.\nAU  - Congdon, R.G.\nAU  - Goldmann, D.A.\nTI  - Airborne transmission of chickenpox in a hospital\nT2  - The New England journal of medicine\nPY  - 1980\nDA  - 1980\nVL  - 302\nSP  - 450\nEP  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Escombe, A.R.\nAU  - Oeser, C.\nAU  - Gilman, R.H.\nTI  - The detection of airborne transmission of tuberculosis from HIV-infected patients, using an in vivo air sampling model\nT2  - Clin Infect Dis\nPY  - 2007\nDA  - 2007\nVL  - 44\nSP  - 1349\nEP  - 57\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yu, I.T.\nAU  - Qiu, H.\nAU  - Tse, L.A.\nAU  - Wong, T.W.\nTI  - Severe acute respiratory syndrome beyond Amoy Gardens: completing the incomplete legacy\nT2  - Clin Infect Dis\nPY  - 2014\nDA  - 2014\nVL  - 58\nSP  - 683\nEP  - 6\nLA  - \nER  - \n\nTY  - GEN\nAU  - Suo, T.\nAU  - Liu, X.\nAU  - Guo, M.\nTI  - ddPCR: a more sensitive and accurate tool for SARSCoV-2 detection in low viral load specimens. medRxiv 2020: 2020.02.29.20029439\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ong, S.W.X.\nAU  - Tan, Y.K.\nAU  - Chia, P.Y.\nTI  - and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bai, Y.\nAU  - Yao, L.\nAU  - Wei, T.\nTI  - Presumed Asymptomatic Carrier Transmission of COVID19\nT2  - JAMA\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rothe, C.\nAU  - Schunk, M.\nAU  - Sothmann, P.\nTI  - Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany\nT2  - The New England journal of medicine\nVL  - 2020\nSP  - 9701\nC1  - true\nIS  - 382\nLA  - \nER  - \n\nTY  - GEN\nTI  - Zone C Workstation#\nLA  - \nER  - \n\nTY  - GEN\nAU  - Mobile, Patient\nTI  - Toilet Room TSP\nLA  - \nER  - \n\nTY  - RPRT\nC1  - Intensive Care Unit (ICU\nER  - \n\nTY  - CHAP\nT2  - Intensive Care Unit (ICU) 7. Intensive Care Unit (ICU) 8. Coronary Care Unit (CCU)\nLA  - \nER  - \n\nTY  - GEN\nTI  - Zone A Protective Apparel Removal\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zone, B.\nTI  - Protective Apparel Removal Room (PARR) Size Segregated\nLA  - \nER  - \n\nTY  - GEN\nAU  - Zone, C.\nTI  - Protective Apparel Removal Size Segregateda\nLA  - \nER  - \n\nTY  - GEN\nTI  - Female Staff Change Room TSP\nLA  - \nER  - \n\nTY  - BOOK\nPB  - Medical Staff\u2019s Office\nLA  - \nER  - \n\nTY  - GEN\nTI  - Meeting Room TSP\nLA  - \nER  - \n\nTY  - GEN\nTI  - Fangcang Hospital Pharmacy TSP\nLA  - \nER  - \n\nTY  - BOOK\nTI  - Renmin Hospital Doctor\nPB  - Office\nLA  - \nER  - \n\nTY  - BOOK\nTI  - Renmin Hospital Outpatient\nPB  - Hall TSP\nLA  - \nER  - \n\nTY  - GEN\nTI  - Renmin Hospital Outdoor\nLA  - \nER  - \n\nTY  - RPRT\nTI  - Doorside TSP\nLA  - \nC1  - University Office\nER  - \n\nTY  - BOOK\nTI  - Outpatient\nPB  - Hall\nLA  - \nC1  - University Hospital\nER  - \n\nTY  - GEN\nTI  - Community Check Point TSP\nLA  - \nER  - \n\nTY  - GEN\nTI  - Residential Building\nLA  - \nER  - \n\nTY  - GEN\nTI  - Supermarket TSP\nLA  - \nER  - \n\nTY  - GEN\nTI  - Department Store 1\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Store, Department\nVL  - 2\nPB  - Blank Control\nIS  - 31\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Concentration of airborne SARS-CoV-2 at different locations in Wuhan"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Concentration of airborne SARS-CoV-2 RNA in different aerosol size bins"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.08.982637v1.xlsx",
+        "figure_urls": []
+    },
+    "sections": {
+        "background": [
+            "The ongoing outbreak of COVID-19 has spread rapidly and sparked global concern. While the transmission of SARS-CoV-2 through human respiratory droplets and contact with infected persons is clear, the aerosol transmission of SARS-CoV-2 has been little studied.",
+            "Circulating in China and 94 other countries and territories, the COVID-19 epidemic has resulted in 103,168 confirmed cases including 22,355 outside mainland China, with 3,507 deaths reported (March 7, 2020). Due to its increasing threat to global health, WHO has declared that the COVID-19 epidemic was a global public health emergency. The causative pathogen of the COVID-19 outbreak has been identified as a highly infectious novel coronavirus which is referred to as the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]<br/><br/>The transmission of SARS-CoV-2 in humans is thought to be via at least 3 sources: 1) inhalation of liquid droplets produced by and/or 2) close contact with infected persons and 3) contact with surfaces contaminated with SARS-CoV-2.4 Moreover, aerosol transmission of pathogens has been shown in confined spaces.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] There are many respiratory diseases spread by the airborne route such as tuberculosis, measles and chickenpox.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] A retrospective cohort study conducted after the SARS epidemic in Hong Kong in 2003 suggested that airborne spread may have played an important role in the transmission of that disease.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] At present, there is little information on the characteristics of airborne SARS-<br/><br/>CoV-2 containing aerosols, their concentration patterns and behaviour during airborne transmission due to the difficulties in sampling virus-laden aerosols and challenges in their quantification at low concentration. Such a lack of understanding limits effective risk assessment, prevention and control of COVID-19 disease outbreaks. This study on airborne SARS-CoV-2 was conducted in different areas inside two hospitals and public areas in Wuhan, China, the epicenter city during the initial disease outbreak. We aimed to 1) quantify the concentrations of airborne SARS-CoV-2 both inside the hospitals and in outdoor public areas, 2) evaluate the aerodynamic size distributions of SARS-CoV-2 aerosols that may mediate its airborne transmission, and 3) determine the dry deposition rate of the airborne SARS-CoV-2 in a patient ward room."
+        ],
+        "methods": [
+            "Thirty-five aerosol samples of three different types (total suspended particle, size segregated and deposition aerosol) were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak. A robust droplet digital polymerase chain reaction (ddPCR) method was employed to quantitate the viral SARS-CoV-2 RNA genome and determine aerosol RNA concentration.",
+            "1. Study design<br/><br/>This study is an experimental investigation on the concentration and aerodynamic characteristics of airborne SARS-CoV-2 aerosol in different areas of two hospitals: the Renmin Hospital of Wuhan University, designated for treatment of severe symptom COVID19 patient during the disease outbreak and the Wuchang Fangcang Field Hospital, one of the first temporary hospitals which was renovated from an indoor sports stadium to quarantine and treat mildly symptom patients, and outdoor public areas in Wuhan during the coronavirus outbreak. We further classified the sampling locations into three categories according to their accessibility by different groups: 1) Patient Areas (PAA), where the COVID-19 patients have physical presence. These include the Intensive Care Units (ICU), Coronary Care Units (CCU) and ward rooms inside Renmin Hospital, a toilet and staff workstations inside Fangcang Hospital; 2) Medical Staff Areas (MSA), the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients and 3) Public Areas (PUA), which were venues open for the general public. The description and characteristics of sampling sites are shown in Table S1.<br/><br/>Three types of aerosol samples were collected: 1) Aerosol samples of total suspended particles (TSP) with no upper size limit to quantify RNA concentration of SARSCoV-2 aerosol; 2) Aerodynamic size segregated aerosol samples to determine the size distribution of airborne SARS-CoV-2; 3) Aerosol deposition samples to determine the deposition rate of airborne SARS-CoV-2.<br/><br/>2. Sample collection<br/><br/>The sampling was conducted between February 17 and March 2, 2020 in the locations by two batches as shown in Table 1. All aerosol samples were collected on presterilized gelatin filters (Sartorius, Germany). Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes (SKC Inc, US) and sampled air at a fixed flow rate of 5.0 litre per minute (LPM) using a portable pump (APEX2, Casella, US). Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (><br/><br/>2.5 \u03bcm, 1.0 to 2.5 \u03bcm, 0.50 to 1.0 \u03bcm and 0.25 to 0.50 \u03bcm on 25 mm filter substrates, and 0<br/><br/>to 0.25 \u03bcm on 37 mm filters) at a flow rate of 9.0 LPM. Total of 2 aerosol deposition samples were collected using 80 mm diameter filters packed into a holder with an effective deposition area of 43.0 cm[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] and the filters were placed on the floor in two corners of Renmin Hospital ICU room intact for 7 days. Sampling durations and operation periods are detailed in Table S1. Prior to the field sampling, the integrity and robustness of experiment protocol was examined in the laboratory and described in Supplementary Appendix (Table S2).<br/><br/>3. Analytical method and data analysis<br/><br/>After aerosol sample collection, all samples were handled immediately in the BSL-2 laboratory of Wuhan University. The 25, 37mm and 80 mm filter samples were dissolved in deionized water, then TRIzol LS Reagent (Invitrogen) was added to inactivate SARS-CoV-2 viruses and extract RNA according to the manufacturer\u2019s instruction. First strand cDNA was synthesized using PrimeScript RT kit (TakaRa). Optimized ddPCR was used to detect the presence of SARS-CoV-2 viruses following our previous study.[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Analysis of the ddPCR data was performed with QuantaSoft software (Bio-Rad). The concentration reported by the procedure equals copies of template per microliter of the final 1x ddPCR reaction, which was normalized to copies m-3 in all the results, and hence the virus or viral RNA concentration in aerosol is expressed in copies m-3 hereafter. A detailed protocol is provided in Supplementary Appendix."
+        ],
+        "results": [
+            "The ICU, CCU and general patient rooms inside Renmin, patient hall inside Fangcang had undetectable or low airborne SARS-CoV-2 concentration but deposition samples inside ICU and air sample in Fangcang patient toilet tested positive. The airborne SARS-CoV-2 in Fangcang MSA had bimodal distribution with higher concentration than those in Renmin during the outbreak but turned negative after patients number reduced and rigorous sanitization implemented. PUA had undetectable airborne SARS-CoV-2 concentration but obviously increased with accumulating crowd flow.",
+            "1. Airborne SARS-CoV-2 concentrations<br/><br/>The airborne SARS-CoV-2 concentrations in different categorized sites are shown in Table 1. The ICU, CCU and ward room in PAA of Renmin Hospital had negative test results. Fangcang Hospital workstations in different zones had low concentrations (1-9 copies m-3) of SARS-CoV-2 aerosol. The highest concentration in PAA of two hospitals was observed inside the patient mobile toilet room (19 copies m-3). In MSAs, the two sampling sites in Renmin Hospital had low concentration of 6 copies m-3, while the sites in Fangcang Hospital in general had higher concentrations. Particularly, the Protective Apparel Removal Rooms (PARRs) in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration from 18 to 42 copies m-3 in the first batch of sampling. During the second batch of sampling, the two TSP samples in the PARRs had negative test results with reduced number of medical staff and more rigorous sanitization processes in Fangcang. In PUA, SARS-CoV-2 aerosol concentrations were below 3 copies m-3, except for two occasions: one crowd gathering site near the entrance of a department store with frequent customer flow and one outdoor site next to Renmin Hospital with outpatients and passengers passing by.<br/><br/>2. Size distribution of SARS-CoV-2 aerosol<br/><br/>Figure 1 shows the SARS-CoV-2 aerosol concentrations in different aerodynamic size bins collected from PARRs in Zone B and C, and Medical Staff\u2019s Office in Fangcang<br/><br/>Hospital. The peak concentration of SARS-CoV-2 aerosols appears in two distinct size ranges, one in the submicron region with aerodynamic diameter dominant between 0.25 to 1.0 \u03bcm, and the other peak in supermicron region with diameter larger than 2.5 \u03bcm. The submicron region was dominantly noted in PARRs in Zone B and C of Fangcang Hospital (Figure 1a and 1b) with peak concentration of 40 and 9 copies m-3 in 0.25 to 0.5 \u03bcm and 0.5 to 1.0 \u03bcm, respectively. Whereas the supermicron region was observed in Fangcang Hospital Zone C PARR and Medical Staff\u2019s Office (Figure 1b and 1c) with 7 and 9 copies m-3. The two concentration peaks in sub- and supermicron ranges have independent existence in SARS-CoV-2 aerosols and they do not necessarily co-exist indicating possible different formation mechanisms.<br/><br/>3. Deposition rate of SARS-CoV-2 aerosol<br/><br/>The aerosol deposition sample collected from the Renmin Hospital ICU room had raw counts of SARS-CoV-2 RNA significantly above the detection limit as shown in Table S1, although the TSP aerosol sample concentration inside this ICU room was below detection limit during the 3 hour sampling period. The much longer integration time of 7 days for the deposition sample has contributed to the accumulation of virus sediment. The area normalized deposition rate inside the ICU room is calculated to be 31 and 113 copies m-2 hour-1. The sample with the higher deposition rate was placed in the hindrance-free corner of the room, approximately 3 meters from the patient\u2019s bed. The other sample recorded lower virus copies and it was placed in another corner with medical equipment above, and approximately 2 meters from the patient\u2019s bed. This may have blocked the path of virus aerosol sediment."
+        ],
+        "conclusions": [
+            "Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2. The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2."
+        ],
+        "discussion": [
+            "Generally undetectable or very low concentrations of airborne SARS-CoV-2 were found in most PAA inside the two hospitals in Wuhan. The negative pressure ventilation and high air exchange rate inside ICU, CCU and ward room of Renmin Hospital are effective in minimizing airborne SARS-CoV-2. Fangcang Hospital hosted over 200 mild symptom patients in each zone during the peak of the COVID-19 outbreak. However, the SARS-CoV2 aerosol concentrations inside the patient hall were very low during the two batches of sampling periods, showing the protective and preventive measures taken in Fangcang<br/><br/>Hospital are effective in hindering the aerosol transmission and reducing the potential infection risks of the medical staff. Inside the Renmin Hospital ICU rooms, the two aerosol deposition samples tested positive with an estimated deposition rate of 31 and 113 copies m2 hr-1. The deposited virus may come from respiratory droplet or virus-laden aerosol transmission. Our findings add support to a hypothesis that virus-laden aerosol deposition may play a role in surface contamination and subsequent contact by susceptible people resulting in human infection.<br/><br/>This study also recorded an elevated airborne SARS-CoV-2 concentration inside the patient mobile toilet of Fangcang Hospital. This may come from either the patient's breath or the aerosolization of the virus-laden aerosol from patient\u2019s faeces or urine during use. Ong et al has found the wipe samples from room surfaces of toilets used by SARS-CoV-2 patients tested positive.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Our finding has confirmed the aerosol transmission as an important pathway for surface contamination. We call for extra care and attention on the proper design, use and disinfection of the toilets in hospitals and in communities to minimize the potential source of the virus-laden aerosol.<br/><br/>MSAs in general have higher concentration of SARS-CoV-2 aerosol with biomodal size distributions compared to PAA in both hospitals during the first batch of sampling in the peak of COVID-19 outbreak. For Renmin Hospital sampling sites, the air circulation in MSA by design is isolated from that of the patient rooms. While for Fangcang Hospital, the nonventilated temporary PARR has limited air penetration from the patient hall where the SARSCoV-2 aerosol concentration was generally low. We believe one direct source of the high SARS-CoV-2 aerosol concentration may be the resuspension of virus-laden aerosol from the surface of medical staff protective apparel while they are being removed. These resuspended virus-laden aerosol originally may come from the direct deposition of respiratory droplets or virus-laden aerosol onto the protective apparel while medical staff having long working hours inside PAA, as shown from the SARS-CoV-2 deposition results in ICU room. Another possible source is the resuspension of floor dust aerosol containing virus that were transferred from PAA to MSA. The two virus-laden aerosol sources also appear to correspond to the sub- and supermicron peaks found in size-segregated samples. We hypothesize the submicron aerosol may come from the resuspension of virus-laden aerosol from staff apparel due to its higher mobility while the supermicron virus-laden aerosol may come from the resuspension of dust particles from the floors or other hard surfaces. The findings suggest virus-laden aerosols could first deposit on the surface of medical staff protective apparel and the floors in patient areas and are then resuspended by the movements of medical staff. The second batch of TSP samples taken in Fangcang MSAs all tested negative with reduced number of patients from > 200 to 100 per zone and implementation of more rigorous and thorough sanitization measures in Fangcang. The comparison of the two batches of samples showed the effectiveness and importance of sanitization in reducing the airborne SARS-CoV-2 in high risk areas.<br/><br/>In PUA outside the hospitals, we found the majority of the sites have undetectable or very low concentrations of SARS-CoV-2 aerosol, except for one crowd gathering site about 1 meter to the entrance of a department store with customers frequently passing through, and the other site next to Renmin Hospital where the outpatients and passengers passed by. It is possible that asymptomatic carriers of COVID-19 in the crowd may have contributed as the source of virus-laden aerosol during the sampling period.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] The results showed overall low risks in the public venues but do reinforce the importance of avoiding crowded gatherings and implementing early identification and diagnosis of asymptomatic carriers for early quarantine or treatment. Personal protection equipment such as wearing masks in public places or while in transit may reduce aerosol exposure and transmission.<br/><br/>The results from this study provide the first field report on the characteristics of airborne SARS-CoV-2 in Wuhan with important implications for the public health prevention and medical staff protection. We call for particular attentions on 1) the proper use and cleaning of toilets (e.g. ventilation and sterilization), as a potential spread source of coronavirus with relatively high risk caused by aerosolization of virus and contamination of surfaces after use; 2) for the general public, the proper use of personal protection measures, such as wearing masks and avoiding busy crowds; 3) the effective sanitization of the high risk area and the use of high level protection masks for medical staff with direct contact with the COVID-19 patients or with long stay in high risk area; 4) the renovation of large stadiums as field hospitals with nature ventilation and protective measures is an effective approach to quarantine and treat mild symptom patients so as to reduce the COVID-19 transmission among the public; 5) the virus may be resuspended from the contaminated protective apparel surface to the air while taking off and from the floor surface with the movement of medical staff. Thus, surface sanitization of the apparel before they are taken off may also help reduce the infection risk for medical staff."
+        ],
+        "acknowledgement": [
+            "This study was supported by Special Fund for COVID-19 Research of Wuhan University. We are grateful to Taikang Insurance Group Co., Ltd, Beijing Taikang Yicai Foundation, Renmin Hospital and Wuchang Fangcang Hospital for their great support to this work. We would like to thank Prof. Hongmei Xu from Xi\u2019an Jiaotong University, Qingdao Laoying Environmental Technology Co., Ltd, Beijing Top Science Co.,Ltd, Shanghai Leon Scientific Instrument Co.,Ltd, Shanghai Eureka Environmental Protection Hi-tech. Ltd, Sapiens Environmental Technology Co., Ltd for their support in providing the sampling devices and technical support in this study. The authors also thank Cuiping Wang, Qingli Zhang, Guoping Liang, Zhao Song for their assistance in filter sample preparation and logistics support.    Reference<br/><br/>1. Coronaviridae Study Group of the International Committee on Taxonomy of V. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol 2020. 2. Chen L, Liu W, Zhang Q, et al RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. Emerg Microbes Infect 2020;9:313-9. 3. Zhou P, Yang XL, Wang XG, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020. 4. How COVID-19 spreads. CDC, 2020. at https://www.cdc.gov/coronavirus/2019ncov/about/transmission.html.) 5. How COVID-19 is spread. 2020. at https://www.the-scientist.com/news-opinion/howcovid-19-is-spread-67143.)<br/><br/>6. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) World Health Organization, 2020. at https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf.) 7. Leclair JM, Zaia JA, Levin MJ, Congdon RG, Goldmann DA. Airborne transmission of chickenpox in a hospital. The New England journal of medicine 1980;302:450-3. 8. Escombe AR, Oeser C, Gilman RH, et al The detection of airborne transmission of tuberculosis from HIV-infected patients, using an in vivo air sampling model. Clin Infect Dis 2007;44:1349-57. 9. Yu IT, Qiu H, Tse LA, Wong TW. Severe acute respiratory syndrome beyond Amoy Gardens: completing the incomplete legacy. Clin Infect Dis 2014;58:683-6. 10. Suo T, Liu X, Guo M, et al ddPCR: a more sensitive and accurate tool for SARSCoV-2 detection in low viral load specimens. medRxiv 2020:2020.02.29.20029439. 11. Ong SWX, Tan YK, Chia PY, et al Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient. JAMA 2020. 12. Bai Y, Yao L, Wei T, et al Presumed Asymptomatic Carrier Transmission of COVID19. JAMA 2020. 13. Rothe C, Schunk M, Sothmann P, et al Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. The New England journal of medicine 2020;382:9701    Category Sites    Sample Type<br/><br/>Concentration (copies m-3)<br/><br/>Patient Areas (PAA) 1. Zone A Workstation#    TSPa    TSPb<br/><br/>Fangcang 2. Zone B Workstation    Hospital<br/><br/>3. Zone C Workstation#    TSP<br/><br/>4. Patient Mobile Toilet Room<br/><br/>5. Intensive Care Unit (ICU)    Renmin Hospital<br/><br/>6. Intensive Care Unit (ICU) 7. Intensive Care Unit (ICU) 8. Coronary Care Unit (CCU)<br/><br/>Deposition Deposition    31* 113*    9. Ward Zone 16<br/><br/>Medical Staff Areas (MSA)<br/><br/>10. Zone A Protective Apparel Removal    Room (PARR) #<br/><br/>11. Zone B Protective Apparel Removal Room (PARR)    Size Segregated<br/><br/>12. Zone C Protective Apparel Removal Size Segregateda<br/><br/>Fangcang Room (PARR) #<br/><br/>Hospital 13. Male Staff Change Room<br/><br/>14. Female Staff Change Room<br/><br/>15. Medical Staff\u2019s Office    16. Meeting Room    17. Warehouse #<br/><br/>Renmin 18. Passageway for Medical Staff<br/><br/>Hospital 19. Dining Room for Medical Staff<br/><br/>Public Areas (PUA)<br/><br/>20. Fangcang Hospital Pharmacy<br/><br/>21. Renmin Hospital Doctor Office<br/><br/>22. Renmin Hospital Outpatient Hall<br/><br/>23. Renmin Hospital Outdoor<br/><br/>24. University Office Doorside<br/><br/>25. University Hospital Outpatient Hall<br/><br/>26. Community Check Point<br/><br/>27. Residential Building    28. Supermarket<br/><br/>29. Department Store 1<br/><br/>30. Department Store 2 31. Blank Control #    Field Blanka    Field Blankb    Note:"
+        ],
+        "funding": [
+            "This study was supported by Special Fund for COVID-19 Research of Wuhan University"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Table S2"
+            ]
+        }
+    },
+    "structured_content": {
+        "Abstract": [],
+        "Background": [
+            "Circulating in China and 94 other countries and territories, the COVID-19 epidemic has resulted in 103,168 confirmed cases including 22,355 outside mainland China, with 3,507 deaths reported (March 7, 2020). Due to its increasing threat to global health, WHO has declared that the COVID-19 epidemic was a global public health emergency. The causative pathogen of the COVID-19 outbreak has been identified as a highly infectious novel coronavirus which is referred to as the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>-<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]",
+            "The transmission of SARS-CoV-2 in humans is thought to be via at least 3 sources: 1) inhalation of liquid droplets produced by and/or 2) close contact with infected persons and 3) contact with surfaces contaminated with SARS-CoV-2.4 Moreover, aerosol transmission of pathogens has been shown in confined spaces.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] There are many respiratory diseases spread by the airborne route such as tuberculosis, measles and chickenpox.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] A retrospective cohort study conducted after the SARS epidemic in Hong Kong in 2003 suggested that airborne spread may have played an important role in the transmission of that disease.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] At present, there is little information on the characteristics of airborne SARS-",
+            "CoV-2 containing aerosols, their concentration patterns and behaviour during airborne transmission due to the difficulties in sampling virus-laden aerosols and challenges in their quantification at low concentration. Such a lack of understanding limits effective risk assessment, prevention and control of COVID-19 disease outbreaks. This study on airborne SARS-CoV-2 was conducted in different areas inside two hospitals and public areas in Wuhan, China, the epicenter city during the initial disease outbreak. We aimed to 1) quantify the concentrations of airborne SARS-CoV-2 both inside the hospitals and in outdoor public areas, 2) evaluate the aerodynamic size distributions of SARS-CoV-2 aerosols that may mediate its airborne transmission, and 3) determine the dry deposition rate of the airborne SARS-CoV-2 in a patient ward room."
+        ],
+        "Methods": [],
+        "Results": [],
+        "Conclusions": [
+            "Room ventilation, open space, proper use and disinfection of toilet can effectively limit aerosol transmission of SARS-CoV-2. Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2. The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2."
+        ],
+        "1. Study design": [
+            "This study is an experimental investigation on the concentration and aerodynamic characteristics of airborne SARS-CoV-2 aerosol in different areas of two hospitals: the Renmin Hospital of Wuhan University, designated for treatment of severe symptom COVID19 patient during the disease outbreak and the Wuchang Fangcang Field Hospital, one of the first temporary hospitals which was renovated from an indoor sports stadium to quarantine and treat mildly symptom patients, and outdoor public areas in Wuhan during the coronavirus outbreak. We further classified the sampling locations into three categories according to their accessibility by different groups: 1) Patient Areas (PAA), where the COVID-19 patients have physical presence. These include the Intensive Care Units (ICU), Coronary Care Units (CCU) and ward rooms inside Renmin Hospital, a toilet and staff workstations inside Fangcang Hospital; 2) Medical Staff Areas (MSA), the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients and 3) Public Areas (PUA), which were venues open for the general public. The description and characteristics of sampling sites are shown in Table S1.",
+            "Three types of aerosol samples were collected: 1) Aerosol samples of total suspended particles (TSP) with no upper size limit to quantify RNA concentration of SARSCoV-2 aerosol; 2) Aerodynamic size segregated aerosol samples to determine the size distribution of airborne SARS-CoV-2; 3) Aerosol deposition samples to determine the deposition rate of airborne SARS-CoV-2."
+        ],
+        "2. Sample collection": [
+            "The sampling was conducted between February 17 and March 2, 2020 in the locations by two batches as shown in Table 1. All aerosol samples were collected on presterilized gelatin filters (Sartorius, Germany). Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes (SKC Inc, US) and sampled air at a fixed flow rate of 5.0 litre per minute (LPM) using a portable pump (APEX2, Casella, US). Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (>",
+            "2.5 \u03bcm, 1.0 to 2.5 \u03bcm, 0.50 to 1.0 \u03bcm and 0.25 to 0.50 \u03bcm on 25 mm filter substrates, and 0",
+            "to 0.25 \u03bcm on 37 mm filters) at a flow rate of 9.0 LPM. Total of 2 aerosol deposition samples were collected using 80 mm diameter filters packed into a holder with an effective deposition area of 43.0 cm[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] and the filters were placed on the floor in two corners of Renmin Hospital ICU room intact for 7 days. Sampling durations and operation periods are detailed in Table S1. Prior to the field sampling, the integrity and robustness of experiment protocol was examined in the laboratory and described in Supplementary Appendix (Table S2)."
+        ],
+        "3. Analytical method and data analysis": [
+            "After aerosol sample collection, all samples were handled immediately in the BSL-2 laboratory of Wuhan University. The 25, 37mm and 80 mm filter samples were dissolved in deionized water, then TRIzol LS Reagent (Invitrogen) was added to inactivate SARS-CoV-2 viruses and extract RNA according to the manufacturer\u2019s instruction. First strand cDNA was synthesized using PrimeScript RT kit (TakaRa). Optimized ddPCR was used to detect the presence of SARS-CoV-2 viruses following our previous study.[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Analysis of the ddPCR data was performed with QuantaSoft software (Bio-Rad). The concentration reported by the procedure equals copies of template per microliter of the final 1x ddPCR reaction, which was normalized to copies m-3 in all the results, and hence the virus or viral RNA concentration in aerosol is expressed in copies m-3 hereafter. A detailed protocol is provided in Supplementary Appendix."
+        ],
+        "1. Airborne SARS-CoV-2 concentrations": [
+            "The airborne SARS-CoV-2 concentrations in different categorized sites are shown in Table 1. The ICU, CCU and ward room in PAA of Renmin Hospital had negative test results. Fangcang Hospital workstations in different zones had low concentrations (1-9 copies m-3) of SARS-CoV-2 aerosol. The highest concentration in PAA of two hospitals was observed inside the patient mobile toilet room (19 copies m-3). In MSAs, the two sampling sites in Renmin Hospital had low concentration of 6 copies m-3, while the sites in Fangcang Hospital in general had higher concentrations. Particularly, the Protective Apparel Removal Rooms (PARRs) in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration from 18 to 42 copies m-3 in the first batch of sampling. During the second batch of sampling, the two TSP samples in the PARRs had negative test results with reduced number of medical staff and more rigorous sanitization processes in Fangcang. In PUA, SARS-CoV-2 aerosol concentrations were below 3 copies m-3, except for two occasions: one crowd gathering site near the entrance of a department store with frequent customer flow and one outdoor site next to Renmin Hospital with outpatients and passengers passing by."
+        ],
+        "2. Size distribution of SARS-CoV-2 aerosol": [
+            "Figure 1 shows the SARS-CoV-2 aerosol concentrations in different aerodynamic size bins collected from PARRs in Zone B and C, and Medical Staff\u2019s Office in Fangcang",
+            "Hospital. The peak concentration of SARS-CoV-2 aerosols appears in two distinct size ranges, one in the submicron region with aerodynamic diameter dominant between 0.25 to 1.0 \u03bcm, and the other peak in supermicron region with diameter larger than 2.5 \u03bcm. The submicron region was dominantly noted in PARRs in Zone B and C of Fangcang Hospital (Figure 1a and 1b) with peak concentration of 40 and 9 copies m-3 in 0.25 to 0.5 \u03bcm and 0.5 to 1.0 \u03bcm, respectively. Whereas the supermicron region was observed in Fangcang Hospital Zone C PARR and Medical Staff\u2019s Office (Figure 1b and 1c) with 7 and 9 copies m-3. The two concentration peaks in sub- and supermicron ranges have independent existence in SARS-CoV-2 aerosols and they do not necessarily co-exist indicating possible different formation mechanisms."
+        ],
+        "3. Deposition rate of SARS-CoV-2 aerosol": [
+            "The aerosol deposition sample collected from the Renmin Hospital ICU room had raw counts of SARS-CoV-2 RNA significantly above the detection limit as shown in Table S1, although the TSP aerosol sample concentration inside this ICU room was below detection limit during the 3 hour sampling period. The much longer integration time of 7 days for the deposition sample has contributed to the accumulation of virus sediment. The area normalized deposition rate inside the ICU room is calculated to be 31 and 113 copies m-2 hour-1. The sample with the higher deposition rate was placed in the hindrance-free corner of the room, approximately 3 meters from the patient\u2019s bed. The other sample recorded lower virus copies and it was placed in another corner with medical equipment above, and approximately 2 meters from the patient\u2019s bed. This may have blocked the path of virus aerosol sediment."
+        ],
+        "Discussion": [
+            "Generally undetectable or very low concentrations of airborne SARS-CoV-2 were found in most PAA inside the two hospitals in Wuhan. The negative pressure ventilation and high air exchange rate inside ICU, CCU and ward room of Renmin Hospital are effective in minimizing airborne SARS-CoV-2. Fangcang Hospital hosted over 200 mild symptom patients in each zone during the peak of the COVID-19 outbreak. However, the SARS-CoV2 aerosol concentrations inside the patient hall were very low during the two batches of sampling periods, showing the protective and preventive measures taken in Fangcang",
+            "Hospital are effective in hindering the aerosol transmission and reducing the potential infection risks of the medical staff. Inside the Renmin Hospital ICU rooms, the two aerosol deposition samples tested positive with an estimated deposition rate of 31 and 113 copies m2 hr-1. The deposited virus may come from respiratory droplet or virus-laden aerosol transmission. Our findings add support to a hypothesis that virus-laden aerosol deposition may play a role in surface contamination and subsequent contact by susceptible people resulting in human infection.",
+            "This study also recorded an elevated airborne SARS-CoV-2 concentration inside the patient mobile toilet of Fangcang Hospital. This may come from either the patient's breath or the aerosolization of the virus-laden aerosol from patient\u2019s faeces or urine during use. Ong et al has found the wipe samples from room surfaces of toilets used by SARS-CoV-2 patients tested positive.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Our finding has confirmed the aerosol transmission as an important pathway for surface contamination. We call for extra care and attention on the proper design, use and disinfection of the toilets in hospitals and in communities to minimize the potential source of the virus-laden aerosol.",
+            "MSAs in general have higher concentration of SARS-CoV-2 aerosol with biomodal size distributions compared to PAA in both hospitals during the first batch of sampling in the peak of COVID-19 outbreak. For Renmin Hospital sampling sites, the air circulation in MSA by design is isolated from that of the patient rooms. While for Fangcang Hospital, the nonventilated temporary PARR has limited air penetration from the patient hall where the SARSCoV-2 aerosol concentration was generally low. We believe one direct source of the high SARS-CoV-2 aerosol concentration may be the resuspension of virus-laden aerosol from the surface of medical staff protective apparel while they are being removed. These resuspended virus-laden aerosol originally may come from the direct deposition of respiratory droplets or virus-laden aerosol onto the protective apparel while medical staff having long working hours inside PAA, as shown from the SARS-CoV-2 deposition results in ICU room. Another possible source is the resuspension of floor dust aerosol containing virus that were transferred from PAA to MSA. The two virus-laden aerosol sources also appear to correspond to the sub- and supermicron peaks found in size-segregated samples. We hypothesize the submicron aerosol may come from the resuspension of virus-laden aerosol from staff apparel due to its higher mobility while the supermicron virus-laden aerosol may come from the resuspension of dust particles from the floors or other hard surfaces. The findings suggest virus-laden aerosols could first deposit on the surface of medical staff protective apparel and the floors in patient areas and are then resuspended by the movements of medical staff. The second batch of TSP samples taken in Fangcang MSAs all tested negative with reduced number of patients from > 200 to 100 per zone and implementation of more rigorous and thorough sanitization measures in Fangcang. The comparison of the two batches of samples showed the effectiveness and importance of sanitization in reducing the airborne SARS-CoV-2 in high risk areas.",
+            "In PUA outside the hospitals, we found the majority of the sites have undetectable or very low concentrations of SARS-CoV-2 aerosol, except for one crowd gathering site about 1 meter to the entrance of a department store with customers frequently passing through, and the other site next to Renmin Hospital where the outpatients and passengers passed by. It is possible that asymptomatic carriers of COVID-19 in the crowd may have contributed as the source of virus-laden aerosol during the sampling period.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] The results showed overall low risks in the public venues but do reinforce the importance of avoiding crowded gatherings and implementing early identification and diagnosis of asymptomatic carriers for early quarantine or treatment. Personal protection equipment such as wearing masks in public places or while in transit may reduce aerosol exposure and transmission.",
+            "The results from this study provide the first field report on the characteristics of airborne SARS-CoV-2 in Wuhan with important implications for the public health prevention and medical staff protection. We call for particular attentions on 1) the proper use and cleaning of toilets (e.g. ventilation and sterilization), as a potential spread source of coronavirus with relatively high risk caused by aerosolization of virus and contamination of surfaces after use; 2) for the general public, the proper use of personal protection measures, such as wearing masks and avoiding busy crowds; 3) the effective sanitization of the high risk area and the use of high level protection masks for medical staff with direct contact with the COVID-19 patients or with long stay in high risk area; 4) the renovation of large stadiums as field hospitals with nature ventilation and protective measures is an effective approach to quarantine and treat mild symptom patients so as to reduce the COVID-19 transmission among the public; 5) the virus may be resuspended from the contaminated protective apparel surface to the air while taking off and from the floor surface with the movement of medical staff. Thus, surface sanitization of the apparel before they are taken off may also help reduce the infection risk for medical staff."
+        ],
+        "Acknowledgement": [
+            "This study was supported by Special Fund for COVID-19 Research of Wuhan University. We are grateful to Taikang Insurance Group Co., Ltd, Beijing Taikang Yicai Foundation, Renmin Hospital and Wuchang Fangcang Hospital for their great support to this work. We would like to thank Prof. Hongmei Xu from Xi\u2019an Jiaotong University, Qingdao Laoying Environmental Technology Co., Ltd, Beijing Top Science Co.,Ltd, Shanghai Leon Scientific Instrument Co.,Ltd, Shanghai Eureka Environmental Protection Hi-tech. Ltd, Sapiens Environmental Technology Co., Ltd for their support in providing the sampling devices and technical support in this study. The authors also thank Cuiping Wang, Qingli Zhang, Guoping Liang, Zhao Song for their assistance in filter sample preparation and logistics support.",
+            "1. Coronaviridae Study Group of the International Committee on Taxonomy of V. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol 2020. 2. Chen L, Liu W, Zhang Q, et al RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. Emerg Microbes Infect 2020;9:313-9. 3. Zhou P, Yang XL, Wang XG, et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020. 4. How COVID-19 spreads. CDC, 2020. at https://www.cdc.gov/coronavirus/2019ncov/about/transmission.html.) 5. How COVID-19 is spread. 2020. at https://www.the-scientist.com/news-opinion/howcovid-19-is-spread-67143.)",
+            "6. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) World Health Organization, 2020. at https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf.) 7. Leclair JM, Zaia JA, Levin MJ, Congdon RG, Goldmann DA. Airborne transmission of chickenpox in a hospital. The New England journal of medicine 1980;302:450-3. 8. Escombe AR, Oeser C, Gilman RH, et al The detection of airborne transmission of tuberculosis from HIV-infected patients, using an in vivo air sampling model. Clin Infect Dis 2007;44:1349-57. 9. Yu IT, Qiu H, Tse LA, Wong TW. Severe acute respiratory syndrome beyond Amoy Gardens: completing the incomplete legacy. Clin Infect Dis 2014;58:683-6. 10. Suo T, Liu X, Guo M, et al ddPCR: a more sensitive and accurate tool for SARSCoV-2 detection in low viral load specimens. medRxiv 2020:2020.02.29.20029439. 11. Ong SWX, Tan YK, Chia PY, et al Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient. JAMA 2020. 12. Bai Y, Yao L, Wei T, et al Presumed Asymptomatic Carrier Transmission of COVID19. JAMA 2020. 13. Rothe C, Schunk M, Sothmann P, et al Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. The New England journal of medicine 2020;382:9701"
+        ],
+        "4. Patient Mobile Toilet Room": [
+            "6. Intensive Care Unit (ICU) 7. Intensive Care Unit (ICU) 8. Coronary Care Unit (CCU)"
+        ],
+        "9. Ward Zone 16": [],
+        "10. Zone A Protective Apparel Removal": [],
+        "12. Zone C Protective Apparel Removal Size Segregateda": [],
+        "14. Female Staff Change Room": [],
+        "15. Medical Staff\u2019s Office": [],
+        "16. Meeting Room": [],
+        "20. Fangcang Hospital Pharmacy": [],
+        "21. Renmin Hospital Doctor Office": [],
+        "22. Renmin Hospital Outpatient Hall": [],
+        "23. Renmin Hospital Outdoor": [],
+        "24. University Office Doorside": [],
+        "25. University Hospital Outpatient Hall": [],
+        "26. Community Check Point": [],
+        "27. Residential Building": [],
+        "28. Supermarket": [],
+        "29. Department Store 1": [
+            "Note:"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "aerosol samples",
+            "number": 35,
+            "context": "While the transmission of SARS-CoV-2 through human respiratory droplets and contact with infected persons is clear, the aerosol transmission of SARS-CoV-2 has been little studied. <mark class=\"stats\">Methods: Thirty-five aerosol samples of three different types (total suspended particle, size segregated and deposition aerosol) were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak</mark>. A robust droplet digital polymerase chain reaction (ddPCR) method was employed to quantitate the viral SARS-CoV-2 RNA genome and determine aerosol RNA concentration"
+        },
+        {
+            "participant": "aerosol samples",
+            "number": 35,
+            "context": "The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2. <mark class=\"stats\">Thirty-five aerosol samples of three different types (total suspended particle, size segregated and deposition aerosol) were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak</mark>. A robust droplet digital polymerase chain reaction (ddPCR) method was employed to quantitate the viral SARS-CoV-2 RNA genome and determine aerosol RNA concentration"
+        },
+        {
+            "participant": "types of aerosol samples",
+            "number": 3,
+            "context": "These include the Intensive Care Units (ICU), Coronary Care Units (CCU) and ward rooms inside Renmin Hospital, a toilet and staff workstations inside Fangcang Hospital; 2) Medical Staff Areas (MSA), the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients and 3) Public Areas (PUA), which were venues open for the general public. <mark class=\"stats\">The description and characteristics of sampling sites are shown in Table S1.<br/><br/>Three types of aerosol samples were collected: 1) Aerosol samples of total suspended particles (TSP) with no upper size limit to quantify RNA concentration of SARSCoV-2 aerosol; 2) Aerodynamic size segregated aerosol samples to determine the size distribution of airborne SARS-CoV-2; 3) Aerosol deposition samples to determine the deposition rate of airborne SARS-CoV-2.<br/><br/>2</mark>. Sample collection<br/><br/>The sampling was conducted between February 17 and March 2, 2020 in the locations by two batches as shown in Table 1"
+        },
+        {
+            "participant": "TSP aerosol samples",
+            "number": 30,
+            "context": "All aerosol samples were collected on presterilized gelatin filters (Sartorius, Germany). <mark class=\"stats\">Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes (SKC Inc, US) and sampled air at a fixed flow rate of 5.0 litre per minute (LPM) using a portable pump (APEX2, Casella, US)</mark>. Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (><br/><br/>2.5 \u03bcm, 1.0 to 2.5 \u03bcm, 0.50 to 1.0 \u03bcm and 0.25 to 0.50 \u03bcm on 25 mm filter substrates, and 0<br/><br/>to 0.25 \u03bcm on 37 mm filters) at a flow rate of 9.0 LPM"
+        },
+        {
+            "participant": "size segregated aerosol samples",
+            "number": 3,
+            "context": "Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes (SKC Inc, US) and sampled air at a fixed flow rate of 5.0 litre per minute (LPM) using a portable pump (APEX2, Casella, US). <mark class=\"stats\">Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (><br/><br/>2.5 \u03bcm, 1.0 to 2.5 \u03bcm, 0.50 to 1.0 \u03bcm and 0.25 to 0.50 \u03bcm on 25 mm filter substrates, and 0<br/><br/>to 0.25 \u03bcm on 37 mm filters) at a flow rate of 9.0 LPM</mark>. Total of 2 aerosol deposition samples were collected using 80 mm diameter filters packed into a holder with an effective deposition area of 43.0 cm[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] and the filters were placed on the floor in two corners of Renmin Hospital ICU room intact for 7 days"
+        },
+        {
+            "participant": "aerosol deposition samples",
+            "number": 2,
+            "context": "Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (><br/><br/>2.5 \u03bcm, 1.0 to 2.5 \u03bcm, 0.50 to 1.0 \u03bcm and 0.25 to 0.50 \u03bcm on 25 mm filter substrates, and 0<br/><br/>to 0.25 \u03bcm on 37 mm filters) at a flow rate of 9.0 LPM. <mark class=\"stats\">Total of 2 aerosol deposition samples were collected using 80 mm diameter filters packed into a holder with an effective deposition area of 43.0 cm[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] and the filters were placed on the floor in two corners of Renmin Hospital ICU room intact for 7 days</mark>. Sampling durations and operation periods are detailed in Table S1"
+        },
+        {
+            "participant": "mm filter samples",
+            "number": 80,
+            "context": "Analytical method and data analysis<br/><br/>After aerosol sample collection, all samples were handled immediately in the BSL-2 laboratory of Wuhan University. <mark class=\"stats\">The 25, 37mm and 80 mm filter samples were dissolved in deionized water, then TRIzol LS Reagent (Invitrogen) was added to inactivate SARS-CoV-2 viruses and extract RNA according to the manufacturer\u2019s instruction</mark>. First strand cDNA was synthesized using PrimeScript RT kit (TakaRa)"
+        },
+        {
+            "participant": "confirmed cases",
+            "number": 103168,
+            "context": "The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2. <mark class=\"stats\">Circulating in China and 94 other countries and territories, the COVID-19 epidemic has resulted in 103,168 confirmed cases including 22,355 outside mainland China, with 3,507 deaths reported (March 7, 2020)</mark>. Due to its increasing threat to global health, WHO has declared that the COVID-19 epidemic was a global public health emergency"
+        },
+        {
+            "participant": "types of aerosol samples",
+            "number": 3,
+            "context": "The description and characteristics of sampling sites are shown in Table S1. <mark class=\"stats\">Three types of aerosol samples were collected: 1) Aerosol samples of total suspended particles (TSP) with no upper size limit to quantify RNA concentration of SARSCoV-2 aerosol; 2) Aerodynamic size segregated aerosol samples to determine the size distribution of airborne SARS-CoV-2; 3) Aerosol deposition samples to determine the deposition rate of airborne SARS-CoV-2</mark>. 2"
+        },
+        {
+            "participant": "TSP aerosol samples",
+            "number": 30,
+            "context": "All aerosol samples were collected on presterilized gelatin filters (Sartorius, Germany). <mark class=\"stats\">Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes (SKC Inc, US) and sampled air at a fixed flow rate of 5.0 litre per minute (LPM) using a portable pump (APEX2, Casella, US)</mark>. Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (>"
+        },
+        {
+            "participant": "size segregated aerosol samples",
+            "number": 3,
+            "context": "Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes (SKC Inc, US) and sampled air at a fixed flow rate of 5.0 litre per minute (LPM) using a portable pump (APEX2, Casella, US). <mark class=\"stats\">Total of 3 size segregated aerosol samples were collected using a miniature cascade impactor (Sioutas impactor, SKC Inc., US) that separate aerosol into five ranges (></mark>. 2.5 \u03bcm, 1.0 to 2.5 \u03bcm, 0.50 to 1.0 \u03bcm and 0.25 to 0.50 \u03bcm on 25 mm filter substrates, and 0"
+        },
+        {
+            "participant": "aerosol deposition samples",
+            "number": 2,
+            "context": "to 0.25 \u03bcm on 37 mm filters) at a flow rate of 9.0 LPM. <mark class=\"stats\">Total of 2 aerosol deposition samples were collected using 80 mm diameter filters packed into a holder with an effective deposition area of 43.0 cm[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] and the filters were placed on the floor in two corners of Renmin Hospital ICU room intact for 7 days</mark>. Sampling durations and operation periods are detailed in Table S1"
+        },
+        {
+            "participant": "mm filter samples",
+            "number": 80,
+            "context": "After aerosol sample collection, all samples were handled immediately in the BSL-2 laboratory of Wuhan University. <mark class=\"stats\">The 25, 37mm and 80 mm filter samples were dissolved in deionized water, then TRIzol LS Reagent (Invitrogen) was added to inactivate SARS-CoV-2 viruses and extract RNA according to the manufacturer\u2019s instruction</mark>. First strand cDNA was synthesized using PrimeScript RT kit (TakaRa)"
+        },
+        {
+            "participant": "TSP samples",
+            "number": 2,
+            "context": "Particularly, the Protective Apparel Removal Rooms (PARRs) in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration from 18 to 42 copies m-3 in the first batch of sampling. <mark class=\"stats\">During the second batch of sampling, the two TSP samples in the PARRs had negative test results with reduced number of medical staff and more rigorous sanitization processes in Fangcang</mark>. In PUA, SARS-CoV-2 aerosol concentrations were below 3 copies m-3, except for two occasions: one crowd gathering site near the entrance of a department store with frequent customer flow and one outdoor site next to Renmin Hospital with outpatients and passengers passing by"
+        },
+        {
+            "participant": "mild symptom patients",
+            "number": 200,
+            "context": "The negative pressure ventilation and high air exchange rate inside ICU, CCU and ward room of Renmin Hospital are effective in minimizing airborne SARS-CoV-2. <mark class=\"stats\">Fangcang Hospital hosted over 200 mild symptom patients in each zone during the peak of the COVID-19 outbreak</mark>. However, the SARS-CoV2 aerosol concentrations inside the patient hall were very low during the two batches of sampling periods, showing the protective and preventive measures taken in Fangcang"
+        },
+        {
+            "participant": "aerosol deposition samples",
+            "number": 2,
+            "context": "Hospital are effective in hindering the aerosol transmission and reducing the potential infection risks of the medical staff. <mark class=\"stats\">Inside the Renmin Hospital ICU rooms, the two aerosol deposition samples tested positive with an estimated deposition rate of 31 and 113 copies m2 hr-1</mark>. The deposited virus may come from respiratory droplet or virus-laden aerosol transmission"
+        },
+        {
+            "participant": "batches of samples",
+            "number": 2,
+            "context": "The second batch of TSP samples taken in Fangcang MSAs all tested negative with reduced number of patients from > 200 to 100 per zone and implementation of more rigorous and thorough sanitization measures in Fangcang. <mark class=\"stats\">The comparison of the two batches of samples showed the effectiveness and importance of sanitization in reducing the airborne SARS-CoV-2 in high risk areas</mark>. In PUA outside the hospitals, we found the majority of the sites have undetectable or very low concentrations of SARS-CoV-2 aerosol, except for one crowd gathering site about 1 meter to the entrance of a department store with customers frequently passing through, and the other site next to Renmin Hospital where the outpatients and passengers passed by"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "renmin hospital",
+        "Patient Areas",
+        "airborne sars cov",
+        "coronavirus",
+        "PARR",
+        "Public Areas",
+        "SARS",
+        "aerosol deposition",
+        "COVID-19",
+        "medical staff",
+        "potential transmission",
+        "protective apparel",
+        "Protective Apparel Removal Rooms",
+        "droplet digital polymerase chain reaction",
+        "Acute Respiratory syndrome",
+        "patient hall",
+        "virus laden aerosol",
+        "sars cov",
+        "infected person",
+        "aerosol transmission",
+        "pneumonia",
+        "Medical Staff Areas",
+        "respiratory droplet"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.30113636363636365,
+        "COVID-19": 0.09659090909090909,
+        "Patient Areas": 0.06818181818181818,
+        "Medical Staff Areas": 0.06818181818181818,
+        "medical staff": 0.0625,
+        "Protective Apparel Removal Rooms": 0.056818181818181816,
+        "PARR": 0.05113636363636364,
+        "Public Areas": 0.05113636363636364,
+        "coronavirus": 0.045454545454545456,
+        "aerosol transmission": 0.03977272727272727,
+        "aerosol deposition": 0.03409090909090909,
+        "droplet digital polymerase chain reaction": 0.03409090909090909,
+        "protective apparel": 0.028409090909090908,
+        "patient hall": 0.017045454545454544,
+        "respiratory droplet": 0.017045454545454544,
+        "infected person": 0.011363636363636364,
+        "pneumonia": 0.011363636363636364,
+        "potential transmission": 0.005681818181818182,
+        "renmin hospital": 0.0,
+        "airborne sars cov": 0.0,
+        "Acute Respiratory syndrome": 0.0,
+        "virus laden aerosol": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The ongoing outbreak of COVID-19 has spread rapidly and sparked global concern. While the transmission of SARS-CoV-2 through human respiratory droplets and contact with infected persons is clear, the aerosol transmission of SARS-CoV-2 has been little studied.",
+        "The transmission of SARS-CoV-2 in humans is thought to be via at least 3 sources: 1) inhalation of liquid droplets produced by and/or 2) close contact with infected persons and 3) contact with surfaces contaminated with SARS-CoV-2.4 aerosol transmission of pathogens has been shown in confined spaces.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] There are many respiratory diseases spread by the airborne route such as tuberculosis, measles and chickenpox.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] A retrospective cohort study conducted after the SARS epidemic in Hong Kong in 2003 suggested that airborne spread may have played an important role in the transmission of that disease.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] At present, there is little information on the characteristics of airborne SARS-.",
+        "The authors aimed to 1) quantify the concentrations of airborne SARS-CoV-2 both inside the hospitals and in outdoor public areas, 2) evaluate the aerodynamic size distributions of SARS-CoV-2 aerosols that may mediate its airborne transmission, and 3) determine the dry deposition rate of the airborne SARS-CoV-2 in a patient ward room",
+        "<h2 style=\"display: inline\">Methods:</h2> Thirty-five aerosol samples of three different types were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak.",
+        "The authors further classified the sampling locations into three categories according to their accessibility by different groups: 1) Patient Areas (PAA), where the COVID-19 patients have physical presence",
+        "These include the Intensive Care Units (ICU), Coronary Care Units (CCU) and ward rooms inside Renmin Hospital, a toilet and staff workstations inside Fangcang Hospital; 2) Medical Staff Areas (MSA), the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients and 3) Public Areas (PUA), which were venues open for the general public.",
+        "<h2 style=\"display: inline\">Results:</h2> The ICU, CCU and general patient rooms inside Renmin, patient hall inside Fangcang had undetectable or low airborne SARS-CoV-2 concentration but deposition samples inside ICU and air sample in Fangcang patient toilet tested positive.",
+        "Fangcang Hospital workstations in different zones had low concentrations (1-9 copies m-3) of SARS-CoV-2 aerosol.",
+        "The Protective Apparel Removal Rooms (PARRs) in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration from 18 to 42 copies m-3 in the first batch of sampling.",
+        "Figure 1 shows the SARS-CoV-2 aerosol concentrations in different aerodynamic size bins collected from PARRs in Zone B and C, and Medical Staff\u2019s Office in Fangcang.",
+        "This may have blocked the path of virus aerosol sediment",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Undetectable or very low concentrations of airborne SARS-CoV-2 were found in most PAA inside the two hospitals in Wuhan.",
+        "It is possible that asymptomatic carriers of COVID-19 in the crowd may have contributed as the source of virus-laden aerosol during the sampling period.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] The results showed overall low risks in the public venues but do reinforce the importance of avoiding crowded gatherings and implementing early identification and diagnosis of asymptomatic carriers for early quarantine or treatment",
+        "Personal protection equipment such as wearing masks in public places or while in transit may reduce aerosol exposure and transmission.",
+        "The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The ongoing outbreak of COVID-19 has spread rapidly and sparked global concern. While the transmission of SARS-CoV-2 through human respiratory droplets and contact with infected persons is clear, the aerosol transmission of SARS-CoV-2 has been little studied.",
+            "The transmission of SARS-CoV-2 in humans is thought to be via at least 3 sources: 1) inhalation of liquid droplets produced by and/or 2) close contact with infected persons and 3) contact with surfaces contaminated with SARS-CoV-2.4 aerosol transmission of pathogens has been shown in confined spaces.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>,<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] There are many respiratory diseases spread by the airborne route such as tuberculosis, measles and chickenpox.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>,<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] A retrospective cohort study conducted after the SARS epidemic in Hong Kong in 2003 suggested that airborne spread may have played an important role in the transmission of that disease.[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>] At present, there is little information on the characteristics of airborne SARS-.",
+            "The authors aimed to 1) quantify the concentrations of airborne SARS-CoV-2 both inside the hospitals and in outdoor public areas, 2) evaluate the aerodynamic size distributions of SARS-CoV-2 aerosols that may mediate its airborne transmission, and 3) determine the dry deposition rate of the airborne SARS-CoV-2 in a patient ward room"
+        ],
+        "Methods": [
+            "Thirty-five aerosol samples of three different types were collected in Patient Areas (PAA) and Medical Staff Areas (MSA) of Renmin Hospital of Wuhan University (Renmin) and Wuchang Fangcang Field Hospital (Fangcang), and Public Areas (PUA) in Wuhan, China during COVID-19 outbreak.",
+            "The authors further classified the sampling locations into three categories according to their accessibility by different groups: 1) Patient Areas (PAA), where the COVID-19 patients have physical presence",
+            "These include the Intensive Care Units (ICU), Coronary Care Units (CCU) and ward rooms inside Renmin Hospital, a toilet and staff workstations inside Fangcang Hospital; 2) Medical Staff Areas (MSA), the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients and 3) Public Areas (PUA), which were venues open for the general public."
+        ],
+        "Results": [
+            "The ICU, CCU and general patient rooms inside Renmin, patient hall inside Fangcang had undetectable or low airborne SARS-CoV-2 concentration but deposition samples inside ICU and air sample in Fangcang patient toilet tested positive.",
+            "Fangcang Hospital workstations in different zones had low concentrations (1-9 copies m-3) of SARS-CoV-2 aerosol.",
+            "The Protective Apparel Removal Rooms (PARRs) in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration from 18 to 42 copies m-3 in the first batch of sampling.",
+            "Figure 1 shows the SARS-CoV-2 aerosol concentrations in different aerodynamic size bins collected from PARRs in Zone B and C, and Medical Staff\u2019s Office in Fangcang.",
+            "This may have blocked the path of virus aerosol sediment"
+        ],
+        "Conclusion": [
+            "Undetectable or very low concentrations of airborne SARS-CoV-2 were found in most PAA inside the two hospitals in Wuhan.",
+            "It is possible that asymptomatic carriers of COVID-19 in the crowd may have contributed as the source of virus-laden aerosol during the sampling period.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] The results showed overall low risks in the public venues but do reinforce the importance of avoiding crowded gatherings and implementing early identification and diagnosis of asymptomatic carriers for early quarantine or treatment",
+            "Personal protection equipment such as wearing masks in public places or while in transit may reduce aerosol exposure and transmission.",
+            "The virus aerosol deposition on protective apparel or floor surface and their subsequent resuspension is a potential transmission pathway and effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "1._2019_a",
+            "entry": "1. Coronaviridae Study Group of the International Committee on Taxonomy of V. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Coronaviridae%20Study%20Group%20of%20the%20International%20Committee%20on%20Taxonomy%20of%20V%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20classifying%202019nCoV%20and%20naming%20it%20SARSCoV2%20Nat%20Microbiol%202020"
+        },
+        {
+            "id": "2",
+            "alt_id": "Chen_et+al_2019_a",
+            "entry": "2. Chen L, Liu W, Zhang Q, et al. RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. Emerg Microbes Infect 2020;9:313-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%20L%20Liu%20W%20Zhang%20Q%20et%20al%20RNA%20based%20mNGS%20approach%20identifies%20a%20novel%20human%20coronavirus%20from%20two%20individual%20pneumonia%20cases%20in%202019%20Wuhan%20outbreak%20Emerg%20Microbes%20Infect%20202093139",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%20L%20Liu%20W%20Zhang%20Q%20et%20al%20RNA%20based%20mNGS%20approach%20identifies%20a%20novel%20human%20coronavirus%20from%20two%20individual%20pneumonia%20cases%20in%202019%20Wuhan%20outbreak%20Emerg%20Microbes%20Infect%20202093139",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%20L%20Liu%20W%20Zhang%20Q%20et%20al%20RNA%20based%20mNGS%20approach%20identifies%20a%20novel%20human%20coronavirus%20from%20two%20individual%20pneumonia%20cases%20in%202019%20Wuhan%20outbreak%20Emerg%20Microbes%20Infect%20202093139"
+        },
+        {
+            "id": "3",
+            "alt_id": "Zhou_et+al_2020_a",
+            "entry": "3. Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20Yang%2C%20X.L.%20Wang%2C%20X.G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20Yang%2C%20X.L.%20Wang%2C%20X.G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20Yang%2C%20X.L.%20Wang%2C%20X.G.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "4._2020_b",
+            "entry": "4. How COVID-19 spreads. CDC, 2020. at https://www.cdc.gov/coronavirus/2019ncov/about/transmission.html.)",
+            "url": "https://www.cdc.gov/coronavirus/2019ncov/about/transmission.html"
+        },
+        {
+            "id": "5",
+            "alt_id": "5._2020_c",
+            "entry": "5. How COVID-19 is spread. 2020. at https://www.the-scientist.com/news-opinion/howcovid-19-is-spread-67143.)",
+            "url": "https://www.the-scientist.com/news-opinion/howcovid-19-is-spread-67143"
+        },
+        {
+            "id": "6",
+            "alt_id": "6._2019_d",
+            "entry": "6. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19) World Health Organization, 2020. at https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf.)",
+            "url": "https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf"
+        },
+        {
+            "id": "7",
+            "alt_id": "Leclair_et+al_1980_a",
+            "entry": "7. Leclair JM, Zaia JA, Levin MJ, Congdon RG, Goldmann DA. Airborne transmission of chickenpox in a hospital. The New England journal of medicine 1980;302:450-3.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Leclair%2C%20J.M.%20Zaia%2C%20J.A.%20Levin%2C%20M.J.%20Congdon%2C%20R.G.%20Airborne%20transmission%20of%20chickenpox%20in%20a%20hospital%201980",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Leclair%2C%20J.M.%20Zaia%2C%20J.A.%20Levin%2C%20M.J.%20Congdon%2C%20R.G.%20Airborne%20transmission%20of%20chickenpox%20in%20a%20hospital%201980",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Leclair%2C%20J.M.%20Zaia%2C%20J.A.%20Levin%2C%20M.J.%20Congdon%2C%20R.G.%20Airborne%20transmission%20of%20chickenpox%20in%20a%20hospital%201980"
+        },
+        {
+            "id": "8",
+            "alt_id": "Escombe_et+al_2007_a",
+            "entry": "8. Escombe AR, Oeser C, Gilman RH, et al. The detection of airborne transmission of tuberculosis from HIV-infected patients, using an in vivo air sampling model. Clin Infect Dis 2007;44:1349-57.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Escombe%2C%20A.R.%20Oeser%2C%20C.%20Gilman%2C%20R.H.%20The%20detection%20of%20airborne%20transmission%20of%20tuberculosis%20from%20HIV-infected%20patients%2C%20using%20an%20in%20vivo%20air%20sampling%20model%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Escombe%2C%20A.R.%20Oeser%2C%20C.%20Gilman%2C%20R.H.%20The%20detection%20of%20airborne%20transmission%20of%20tuberculosis%20from%20HIV-infected%20patients%2C%20using%20an%20in%20vivo%20air%20sampling%20model%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Escombe%2C%20A.R.%20Oeser%2C%20C.%20Gilman%2C%20R.H.%20The%20detection%20of%20airborne%20transmission%20of%20tuberculosis%20from%20HIV-infected%20patients%2C%20using%20an%20in%20vivo%20air%20sampling%20model%202007"
+        },
+        {
+            "id": "9",
+            "alt_id": "Yu_et+al_2014_a",
+            "entry": "9. Yu IT, Qiu H, Tse LA, Wong TW. Severe acute respiratory syndrome beyond Amoy Gardens: completing the incomplete legacy. Clin Infect Dis 2014;58:683-6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yu%2C%20I.T.%20Qiu%2C%20H.%20Tse%2C%20L.A.%20Wong%2C%20T.W.%20Severe%20acute%20respiratory%20syndrome%20beyond%20Amoy%20Gardens%3A%20completing%20the%20incomplete%20legacy%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yu%2C%20I.T.%20Qiu%2C%20H.%20Tse%2C%20L.A.%20Wong%2C%20T.W.%20Severe%20acute%20respiratory%20syndrome%20beyond%20Amoy%20Gardens%3A%20completing%20the%20incomplete%20legacy%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yu%2C%20I.T.%20Qiu%2C%20H.%20Tse%2C%20L.A.%20Wong%2C%20T.W.%20Severe%20acute%20respiratory%20syndrome%20beyond%20Amoy%20Gardens%3A%20completing%20the%20incomplete%20legacy%202014"
+        },
+        {
+            "id": "10",
+            "alt_id": "Suo_et+al_2020_a",
+            "entry": "10. Suo T, Liu X, Guo M, et al. ddPCR: a more sensitive and accurate tool for SARSCoV-2 detection in low viral load specimens. medRxiv 2020:2020.02.29.20029439.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Suo%20T%20Liu%20X%20Guo%20M%20et%20al%20ddPCR%20a%20more%20sensitive%20and%20accurate%20tool%20for%20SARSCoV2%20detection%20in%20low%20viral%20load%20specimens%20medRxiv%2020202020022920029439"
+        },
+        {
+            "id": "11",
+            "alt_id": "Ong_et+al_2020_a",
+            "entry": "11. Ong SWX, Tan YK, Chia PY, et al. Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient. JAMA 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ong%2C%20S.W.X.%20Tan%2C%20Y.K.%20Chia%2C%20P.Y.%20and%20Personal%20Protective%20Equipment%20Contamination%20by%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202%20%28SARS-CoV-2%29%20From%20a%20Symptomatic%20Patient%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ong%2C%20S.W.X.%20Tan%2C%20Y.K.%20Chia%2C%20P.Y.%20and%20Personal%20Protective%20Equipment%20Contamination%20by%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202%20%28SARS-CoV-2%29%20From%20a%20Symptomatic%20Patient%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ong%2C%20S.W.X.%20Tan%2C%20Y.K.%20Chia%2C%20P.Y.%20and%20Personal%20Protective%20Equipment%20Contamination%20by%20Severe%20Acute%20Respiratory%20Syndrome%20Coronavirus%202%20%28SARS-CoV-2%29%20From%20a%20Symptomatic%20Patient%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Bai_et+al_2020_a",
+            "entry": "12. Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID19. JAMA 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bai%2C%20Y.%20Yao%2C%20L.%20Wei%2C%20T.%20Presumed%20Asymptomatic%20Carrier%20Transmission%20of%20COVID19%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bai%2C%20Y.%20Yao%2C%20L.%20Wei%2C%20T.%20Presumed%20Asymptomatic%20Carrier%20Transmission%20of%20COVID19%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bai%2C%20Y.%20Yao%2C%20L.%20Wei%2C%20T.%20Presumed%20Asymptomatic%20Carrier%20Transmission%20of%20COVID19%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Rothe_et+al_2019_a",
+            "entry": "13. Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. The New England journal of medicine 2020;382:9701",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rothe%20C%20Schunk%20M%20Sothmann%20P%20et%20al%20Transmission%20of%202019nCoV%20Infection%20from%20an%20Asymptomatic%20Contact%20in%20Germany%20The%20New%20England%20journal%20of%20medicine%2020203829701",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rothe%20C%20Schunk%20M%20Sothmann%20P%20et%20al%20Transmission%20of%202019nCoV%20Infection%20from%20an%20Asymptomatic%20Contact%20in%20Germany%20The%20New%20England%20journal%20of%20medicine%2020203829701",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rothe%20C%20Schunk%20M%20Sothmann%20P%20et%20al%20Transmission%20of%202019nCoV%20Infection%20from%20an%20Asymptomatic%20Contact%20in%20Germany%20The%20New%20England%20journal%20of%20medicine%2020203829701"
+        },
+        {
+            "id": "3",
+            "alt_id": "3._0000_e",
+            "entry": "3. Zone C Workstation#",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zone%20C%20Workstation"
+        },
+        {
+            "id": "4",
+            "alt_id": "Mobile_0000_a",
+            "entry": "4. Patient Mobile Toilet Room TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mobile%2C%20Patient%20Toilet%20Room%20TSP"
+        },
+        {
+            "id": "5",
+            "alt_id": "5._0000_f",
+            "entry": "5. Intensive Care Unit (ICU)",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Intensive%20Care%20Unit%20ICU"
+        },
+        {
+            "id": "6",
+            "alt_id": "6._0000_g",
+            "entry": "6. Intensive Care Unit (ICU) 7. Intensive Care Unit (ICU) 8. Coronary Care Unit (CCU)",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Intensive%20Care%20Unit%20ICU%207%20Intensive%20Care%20Unit%20ICU%208%20Coronary%20Care%20Unit%20CCU",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Intensive%20Care%20Unit%20ICU%207%20Intensive%20Care%20Unit%20ICU%208%20Coronary%20Care%20Unit%20CCU",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Intensive%20Care%20Unit%20ICU%207%20Intensive%20Care%20Unit%20ICU%208%20Coronary%20Care%20Unit%20CCU"
+        },
+        {
+            "id": "10",
+            "alt_id": "10._0000_h",
+            "entry": "10. Zone A Protective Apparel Removal",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zone%20A%20Protective%20Apparel%20Removal"
+        },
+        {
+            "id": "11",
+            "alt_id": "Zone_0000_a",
+            "entry": "11. Zone B Protective Apparel Removal Room (PARR) Size Segregated",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zone%2C%20B.%20Protective%20Apparel%20Removal%20Room%20%28PARR%29%20Size%20Segregated"
+        },
+        {
+            "id": "12",
+            "alt_id": "Zone_0000_b",
+            "entry": "12. Zone C Protective Apparel Removal Size Segregateda",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zone%2C%20C.%20Protective%20Apparel%20Removal%20Size%20Segregateda"
+        },
+        {
+            "id": "14",
+            "alt_id": "14._0000_i",
+            "entry": "14. Female Staff Change Room TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Female%20Staff%20Change%20Room%20TSP"
+        },
+        {
+            "id": "15",
+            "alt_id": "15._0000_j",
+            "entry": "15. Medical Staff\u2019s Office",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Medical%20Staffs%20Office"
+        },
+        {
+            "id": "16",
+            "alt_id": "16._0000_k",
+            "entry": "16. Meeting Room TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Meeting%20Room%20TSP"
+        },
+        {
+            "id": "20",
+            "alt_id": "20._0000_l",
+            "entry": "20. Fangcang Hospital Pharmacy TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fangcang%20Hospital%20Pharmacy%20TSP"
+        },
+        {
+            "id": "21",
+            "alt_id": "21._0000_m",
+            "entry": "21. Renmin Hospital Doctor Office",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Renmin%20Hospital%20Doctor%20Office"
+        },
+        {
+            "id": "22",
+            "alt_id": "22._0000_n",
+            "entry": "22. Renmin Hospital Outpatient Hall TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Renmin%20Hospital%20Outpatient%20Hall%20TSP"
+        },
+        {
+            "id": "23",
+            "alt_id": "23._0000_o",
+            "entry": "23. Renmin Hospital Outdoor",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Renmin%20Hospital%20Outdoor"
+        },
+        {
+            "id": "24",
+            "alt_id": "24._0000_p",
+            "entry": "24. University Office Doorside TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=University%20Office%20Doorside%20TSP"
+        },
+        {
+            "id": "25",
+            "alt_id": "25._0000_q",
+            "entry": "25. University Hospital Outpatient Hall",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=University%20Hospital%20Outpatient%20Hall"
+        },
+        {
+            "id": "26",
+            "alt_id": "26._0000_r",
+            "entry": "26. Community Check Point TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Community%20Check%20Point%20TSP"
+        },
+        {
+            "id": "27",
+            "alt_id": "27._0000_s",
+            "entry": "27. Residential Building",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Residential%20Building"
+        },
+        {
+            "id": "28",
+            "alt_id": "28._0000_t",
+            "entry": "28. Supermarket TSP",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Supermarket%20TSP"
+        },
+        {
+            "id": "29",
+            "alt_id": "29._0000_u",
+            "entry": "29. Department Store 1",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Department%20Store%201"
+        },
+        {
+            "id": "30",
+            "alt_id": "Store_0000_a",
+            "entry": "30. Department Store 2 31. Blank Control # ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Department%20Store%202%2031%20Blank%20Control"
+        }
+    ],
+    "facts": [
+        "Thirty-five aerosol samples of three different types were collected in Hospital",
+        "Gathering of crowds with asymptomatic carriers is a potential source of airborne SARS-CoV-2",
+        "effective sanitization is critical in minimizing aerosol transmission of SARS-CoV-2",
+        "the COVID-19 epidemic has resulted in 103,168 confirmed cases including",
+        "WHO has declared that the COVID-19 epidemic was a global public health emergency",
+        "contact with surfaces contaminated with SARS-CoV-2.4 aerosol transmission of pathogens has been shown in confined",
+        "There are many respiratory diseases spread by the airborne route",
+        "A retrospective cohort study conducted after the SARS epidemic in Hong Kong",
+        "that airborne spread may have played an important role in the transmission of that disease.[9",
+        "This study on airborne SARS-CoV-2 was conducted in different areas inside two hospitals",
+        "This study is an experimental investigation on the concentration",
+        "of the first temporary hospitals which was renovated from an indoor sports stadium to quarantine",
+        "the sampling locations into three categories according to their accessibility by different groups",
+        "the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients",
+        "The description and characteristics of sampling sites are shown in Table S1",
+        "The sampling was conducted between February 17",
+        "All aerosol samples were collected on presterilized gelatin filters",
+        "Total of 30 TSP aerosol samples were collected on 25 mm diameter filters loaded into styrene filter cassettes",
+        "80 mm diameter filters packed into a holder with an effective deposition area",
+        "the filters were placed on the floor in two corners",
+        "Sampling durations and operation periods are detailed in Table S1",
+        "the integrity and robustness of experiment protocol was examined in the laboratory",
+        "80 mm filter samples were dissolved in deionized water",
+        "extract RNA according to the manufacturer's instruction",
+        "Optimized ddPCR was used to detect the presence of SARS-CoV-2 viruses following our previous study.[10",
+        "Analysis of the ddPCR data was performed with QuantaSoft software",
+        "The concentration reported by the procedure equals copies of template",
+        "which was normalized to copies m-3",
+        "viral RNA concentration in aerosol is expressed in copies m-3",
+        "A detailed protocol is provided in Supplementary Appendix",
+        "categorized sites are shown in Table 1",
+        "The highest concentration in PAA of two hospitals was observed inside the patient mobile toilet room",
+        "the Protective Apparel Removal Rooms in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration",
+        "SARS-CoV-2 aerosol concentrations were below 3 copies m-3",
+        "the SARS-CoV-2 aerosol concentrations in different aerodynamic size bins collected from PARRs in Zone B",
+        "The peak concentration of SARS-CoV-2 aerosols appears in two distinct size ranges",
+        "The submicron region was dominantly noted in PARRs in Zone B",
+        "Whereas the supermicron region was observed in Fangcang Hospital Zone C PARR",
+        "The two concentration peaks in sub- and supermicron ranges have independent existence in SARS-CoV-2 aerosols",
+        "The aerosol deposition sample collected from the Renmin Hospital ICU room had raw counts of SARS-CoV-2 RNA",
+        "the TSP aerosol sample concentration inside this ICU room was below detection limit during the 3 hour sampling period",
+        "much longer integration time of 7 days for the deposition sample has contributed to the accumulation of virus sediment",
+        "The sample with the higher deposition rate was placed in the hindrance-free corner of the room",
+        "very low concentrations of airborne SARS-CoV-2 were found in most PAA inside the two hospitals",
+        "CCU and ward room of Renmin Hospital are effective in minimizing airborne SARS-CoV-2",
+        "Fangcang Hospital hosted over 200 mild symptom patients in each zone",
+        "the SARS-CoV2 aerosol concentrations inside the patient hall were very low during the two batches of sampling periods",
+        "preventive measures taken in Fangcang",
+        "the two aerosol deposition samples tested positive with an estimated deposition rate",
+        "Our findings add support to a hypothesis that virus-laden aerosol deposition may play a role in surface contamination",
+        "subsequent contact by susceptible people resulting in human infection",
+        "the wipe samples from room surfaces of toilets used by SARS-CoV-2 patients tested positive.[11",
+        "in communities to minimize the potential source of the virus-laden aerosol",
+        "have higher concentration of SARS-CoV-2 aerosol with biomodal size distributions compared to PAA in both hospitals",
+        "one direct source of the high SARS-CoV-2 aerosol concentration may be the resuspension of virus-laden aerosol from the surface",
+        "These resuspended virus-laden aerosol originally may come from the direct deposition of respiratory droplets",
+        "Another possible source is the resuspension of floor dust aerosol containing virus",
+        "that were transferred from PAA to MSA",
+        "The two virus-laden aerosol sources appear to correspond to the sub- and supermicron peaks found in size-segregated samples",
+        "the submicron aerosol may come from the resuspension of virus-laden aerosol",
+        "to its higher mobility while the supermicron virus-laden aerosol may come from the resuspension of dust particles",
+        "The findings suggest virus-laden aerosols could first deposit on the surface of medical staff protective apparel",
+        "The second batch of TSP samples taken in Fangcang MSAs",
+        "possible that asymptomatic carriers of COVID-19 in the crowd may have contributed as the source of virus-laden aerosol",
+        "as a potential spread source of coronavirus with relatively high risk caused by aerosolization of virus and contamination",
+        "the virus may be resuspended from the contaminated protective apparel surface to the air",
+        "The Protective Apparel Removal Rooms in three different zones inside Fangcang Hospital are among the upper range of airborne SARS-CoV-2 concentration"
+    ],
+    "claims": [
+        "In PUA outside the hospitals, we found the majority of the sites have undetectable or very low concentrations of SARS-CoV-2 aerosol, except for one crowd gathering site about 1 meter to the entrance of a department store with customers frequently passing through, and the other site next to Renmin Hospital where the outpatients and passengers passed by",
+        "The results from this study provide the first field report on the characteristics of airborne SARS-CoV-2 in Wuhan with important implications for the public health prevention and medical staff protection"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Circulating in China and 94 other countries and territories, the COVID-19 epidemic has resulted in 103,168 confirmed cases including 22,355 outside mainland China, with 3,507 deaths reported (March 7, 2020)",
+        "Due to its increasing threat to global health, WHO has declared that the COVID-19 epidemic was a global public health emergency",
+        "This study on airborne SARS-CoV-2 was conducted in different areas inside two hospitals and public areas in Wuhan, China, the epicenter city during the initial disease outbreak",
+        "This study is an experimental investigation on the concentration and aerodynamic characteristics of airborne SARS-CoV-2 aerosol in different areas of two hospitals: the Renmin Hospital of Wuhan University, designated for treatment of severe symptom COVID19 patient during the disease outbreak and the Wuchang Fangcang Field Hospital, one of the first temporary hospitals which was renovated from an indoor sports stadium to quarantine and treat mildly symptom patients, and outdoor public areas in Wuhan during the coronavirus outbreak",
+        "We further classified the sampling locations into three categories according to their accessibility by different groups: 1) Patient Areas (PAA), where the COVID-19 patients have physical presence",
+        "These include the Intensive Care Units (ICU), Coronary Care Units (CCU) and ward rooms inside Renmin Hospital, a toilet and staff workstations inside Fangcang Hospital; 2) Medical Staff Areas (MSA), the workplaces in the two hospitals exclusively accessed by the medical staff who had direct contact with the patients and 3) Public Areas (PUA), which were venues open for the general public",
+        "Total of 2 aerosol deposition samples were collected using 80 mm diameter filters packed into a holder with an effective deposition area of 43.0 cm[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] and the filters were placed on the floor in two corners of Renmin Hospital ICU room intact for 7 days",
+        "Analysis of the droplet digital polymerase chain reaction data was performed with QuantaSoft software (Bio-Rad)",
+        "The concentration reported by the procedure equals copies of template per microliter of the final 1x droplet digital polymerase chain reaction reaction, which was normalized to copies m-3 in all the results, and the virus or viral RNA concentration in aerosol is expressed in copies m-3 hereafter",
+        "The airborne SARS-CoV-2 concentrations in different categorized sites are shown in Table 1",
+        "The highest concentration in Patient Areas of two hospitals was observed inside the patient mobile toilet room (19 copies m-3)",
+        "In Public Areas, SARS-CoV-2 aerosol concentrations were below 3 copies m-3, except for two occasions: one crowd gathering site near the entrance of a department store with frequent customer flow and one outdoor site next to Renmin Hospital with outpatients and passengers passing by",
+        "The peak concentration of SARS-CoV-2 aerosols appears in two distinct size ranges, one in the submicron region with aerodynamic diameter dominant between 0.25 to 1.0 \u03bcm, and the other peak in supermicron region with diameter larger than 2.5 \u03bcm",
+        "The submicron region was dominantly noted in Protective Apparel Removal Rooms in Zone B and C of Fangcang Hospital (Figure 1a and 1b) with peak concentration of 40 and 9 copies m-3 in 0.25 to 0.5 \u03bcm and 0.5 to 1.0 \u03bcm, respectively",
+        "Whereas the supermicron region was observed in Fangcang Hospital Zone C Protective Apparel Removal Rooms and Medical Staff\u2019s Office (Figure 1b and 1c) with 7 and 9 copies m-3",
+        "The two concentration peaks in sub- and supermicron ranges have independent existence in SARS-CoV-2 aerosols and they do not necessarily co-exist indicating possible different formation mechanisms",
+        "The aerosol deposition sample collected from the Renmin Hospital ICU room had raw counts of SARS-CoV-2 RNA significantly above the detection limit as shown in Table S1, the TSP aerosol sample concentration inside this ICU room was below detection limit during the 3 hour sampling period",
+        "Undetectable or very low concentrations of airborne SARS-CoV-2 were found in most Patient Areas inside the two hospitals in Wuhan",
+        "The negative pressure ventilation and high air exchange rate inside ICU, CCU and ward room of Renmin Hospital are effective in minimizing airborne SARS-CoV-2",
+        "The SARS-CoV2 aerosol concentrations inside the patient hall were very low during the two batches of sampling periods, showing the protective and preventive measures taken in Fangcang",
+        "Inside the Renmin Hospital ICU rooms, the two aerosol deposition samples tested positive with an estimated deposition rate of 31 and 113 copies m2 hr-1",
+        "Our findings add support to a hypothesis that virus-laden aerosol deposition may play a role in surface contamination and subsequent contact by susceptible people resulting in human infection",
+        "Medical Staff Areas in general have higher concentration of SARS-CoV-2 aerosol with biomodal size distributions compared to Patient Areas in both hospitals during the first batch of sampling in the peak of COVID-19 outbreak",
+        "We believe one direct source of the high SARS-CoV-2 aerosol concentration may be the resuspension of virus-laden aerosol from the surface of medical staff protective apparel while they are being removed",
+        "These resuspended virus-laden aerosol originally may come from the direct deposition of respiratory droplets or virus-laden aerosol onto the protective apparel while medical staff having long working hours inside Patient Areas, as shown from the SARS-CoV-2 deposition results in ICU room",
+        "Another possible source is the resuspension of floor dust aerosol containing virus that were transferred from Patient Areas to Medical Staff Areas",
+        "We hypothesize the submicron aerosol may come from the resuspension of virus-laden aerosol from staff apparel due to its higher mobility while the supermicron virus-laden aerosol may come from the resuspension of dust particles from the floors or other hard surfaces",
+        "The findings suggest virus-laden aerosols could first deposit on the surface of medical staff protective apparel and the floors in patient areas and are resuspended by the movements of medical staff",
+        "In Public Areas outside the hospitals, we found the majority of the sites have undetectable or very low concentrations of SARS-CoV-2 aerosol, except for one crowd gathering site about 1 meter to the entrance of a department store with customers frequently passing through, and the other site next to Renmin Hospital where the outpatients and passengers passed by",
+        "It is possible that asymptomatic carriers of COVID-19 in the crowd may have contributed as the source of virus-laden aerosol during the sampling period.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>,<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+        "The results from this study provide the first field report on the characteristics of airborne SARS-CoV-2 in Wuhan with important implications for the public health prevention and medical staff protection",
+        "We call for particular attentions on 1) the proper use and cleaning of toilets, as a potential spread source of coronavirus with relatively high risk caused by aerosolization of virus and contamination of surfaces after use; 2) for the general public, the proper use of personal protection measures, such as wearing masks and avoiding busy crowds; 3) the effective sanitization of the high risk area and the use of high level protection masks for medical staff with direct contact with the COVID-19 patients or with long stay in high risk area; 4) the renovation of large stadiums as field hospitals with nature ventilation and protective measures is an effective approach to quarantine and treat mild symptom patients so as to reduce the COVID-19 transmission among the public; 5) the virus may be resuspended from the contaminated protective apparel surface to the air while taking off and from the floor surface with the movement of medical staff"
+    ],
+    "top_statements": [
+        "The ongoing outbreak of COVID-19 has spread rapidly and sparked global concern",
+        "In Public Areas, SARS-CoV-2 aerosol concentrations were below 3 copies m-3, except for two occasions: one crowd gathering site near the entrance of a department store with frequent customer flow and one outdoor site next to Renmin Hospital with outpatients and passengers passing by",
+        "The submicron region was dominantly noted in Protective Apparel Removal Rooms in Zone B and C of Fangcang Hospital (Figure 1a and 1b) with peak concentration of 40 and 9 copies m-3 in 0.25 to 0.5 \u03bcm and 0.5 to 1.0 \u03bcm, respectively",
+        "Whereas the supermicron region was observed in Fangcang Hospital Zone C Protective Apparel Removal Rooms and Medical Staff\u2019s Office (Figure 1b and 1c) with 7 and 9 copies m-3",
+        "The aerosol deposition sample collected from the Renmin Hospital ICU room had raw counts of SARS-CoV-2 RNA significantly above the detection limit as shown in Table S1, the TSP aerosol sample concentration inside this ICU room was below detection limit during the 3 hour sampling period",
+        "We call for particular attentions on 1) the proper use and cleaning of toilets, as a potential spread source of coronavirus with relatively high risk caused by aerosolization of virus and contamination of surfaces after use; 2) for the general public, the proper use of personal protection measures, such as wearing masks and avoiding busy crowds; 3) the effective sanitization of the high risk area and the use of high level protection masks for medical staff with direct contact with the COVID-19 patients or with long stay in high risk area; 4) the renovation of large stadiums as field hospitals with nature ventilation and protective measures is an effective approach to quarantine and treat mild symptom patients so as to reduce the COVID-19 transmission among the public; 5) the virus may be resuspended from the contaminated protective apparel surface to the air while taking off and from the floor surface with the movement of medical staff"
+    ],
+    "headline": "The aerosol deposition sample collected from the Renmin Hospital ICU room had raw counts of SARS-CoV-2 RNA significantly above the detection limit as shown in Table S1, the TSP aerosol sample concentration inside this ICU room was below detection limit during the 3 hour sampling period",
+    "contexts": [],
+    "abbreviations": {
+        "PAA": "Patient Areas",
+        "MSA": "Medical Staff Areas",
+        "PUA": "Public Areas",
+        "ddPCR": "droplet digital polymerase chain reaction",
+        "PARRs": "Protective Apparel Removal Rooms"
+    }
+}

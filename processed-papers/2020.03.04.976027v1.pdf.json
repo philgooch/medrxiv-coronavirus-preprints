@@ -1,0 +1,703 @@
+{
+    "filename": "2020.03.04.976027v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 3709043,
+    "metadata": {
+        "title": "In silico study of the spike protein from SARS-CoV-2 interaction with ACE2: similarity with SARS-CoV, hot-spot analysis and effect of the receptor polymorphism",
+        "keywords": [
+            "COVID-19",
+            "ACE2",
+            "viral spike Receptor Binding Domain",
+            "1 homology-based protein-protein docking",
+            "variants"
+        ],
+        "author": "Houcemeddine Othman, Zied Bouslama 2, Jean-Tristan Brandenburg 1, Jorge da Rocha, Yosr Hamdi, Kais Ghedira, Najet-Srairi Abid, Scott Hazelhurst",
+        "date": 2020,
+        "affiliations": [
+            "Sydney Brenner Institute for Molecular Bioscience, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.",
+            "Laboratory of veterinary epidemiology and microbiology LR16IPT03. Institut Pasteur of Tunis. University of Tunis El Manar, Tunis, Tunisia.",
+            "Laboratory of Biomedical Genomics and Oncogenetics, LR16IPT05, Pasteur Institute of Tunis, University of Tunis El Manar, Tunis, Tunisia.",
+            "Laboratory of Bioinformatics, Biomathematics and Biostatistics LR16IPT09, Pasteur Institute of Tunis, University Tunis El Manar, Tunis, Tunisia.",
+            "Universite de Tunis El Manar, Institut Pasteur de Tunis, LR11IPT08 Venins et Biomolecules Therapeutiques, 1002, Tunis, Tunisia.",
+            "School of Electrical and Information Engineering, University of the Witwatersrand, Johannesburg, South Africa."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.04.976027",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.04.976027v1.pdf"
+        },
+        "abstract": "The spread of the COVID-19 caused by the SARS-CoV-2 outbreak has been growing since its first identification in December 2019. The publishing of the first SARS-CoV-2 genome made a valuable source of data to study the details about its phylogeny, evolution, and interaction with the host. Proteinprotein binding assays have confirmed that Angiotensin-converting enzyme 2 (ACE2) is more likely to be the cell receptor via which the virus invades the host cell. In the present work, we provide an insight into the interaction of the viral spike Receptor Binding Domain (RBD) from different coronavirus isolates with host ACE2 protein. We used homology-based protein-protein",
+        "references": "@article{aloy2003a,\n  author = {Aloy, P. and Ceulemans, H. and Stark, A. and Russell, R.B.},\n  title = {The relationship between sequence and interaction divergence in proteins},\n  journal = {J. Mol. Biol},\n  volume = {332},\n  pages = {989\u2013998},\n  date = {2003-10},\n  number = {5},\n  language = {}\n}\n@article{chan2020a,\n  author = {Chan, J.F. and Yuan, S. and Kok, K.H. and To, K.K. and Chu, H. and Yang, J. and Xing, F. and Liu, J. and Yip, C.C. and Poon, R.W. and Tsoi, H.W. and Lo, S.K. and Chan, K.H. and Poon, V.K. and Chan, W.M. and Ip, J.D. and Cai, J.P. and Cheng, V.C. and Chen, H. and Hui, C.K. and Yuen, K.Y.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster},\n  journal = {Lancet},\n  volume = {395},\n  pages = {514\u2013523},\n  date = {2020-02},\n  number = {10223},\n  language = {}\n}\n@article{delgado2019a,\n  author = {Delgado, J. and Radusky, L.G. and Cianferoni, D. and Serrano, L.},\n  title = {FoldX 5.0: working with RNA, small molecules and a new graphical interface},\n  journal = {Bioinformatics},\n  volume = {35},\n  pages = {4168\u20134169},\n  date = {2019-10},\n  number = {20},\n  language = {}\n}\n@misc{he2019a,\n  author = {He, J. and Tao, H. and Yan, Y. and Huang, S.-Y. and Xiao, Y.},\n  title = {Molecular mechanism of evolution and human infection with the novel coronavirus},\n  date = {2019},\n  volume = {bioRxiv,},\n  language = {}\n}\n@article{janies2008a,\n  author = {Janies, D. and Habib, F. and Alexandrov, B. and Hill, A. and Pol, D.},\n  title = {Evolution of genomes, host shifts and the geographic spread of sars-cov and related coronaviruses},\n  journal = {Cladistics},\n  volume = {24},\n  pages = {111\u2013130},\n  date = {2008},\n  number = {2},\n  language = {}\n}\n@article{ji2020a,\n  author = {Ji, W. and Wang, W. and Zhao, X. and Zai, J. and Li, X.},\n  title = {Cross-species transmission of the newly identified coronavirus 2019-nCoV},\n  journal = {J. Med. Virol},\n  volume = {92},\n  pages = {433\u2013440},\n  date = {2020-04},\n  number = {4},\n  language = {}\n}\n@misc{k2019a,\n  author = {},\n  title = {Variation across 141,456 human exomes and genomes reveals the spectrum of loss-of-function intolerance across human protein-coding genes},\n  date = {2019},\n  language = {},\n  address = {bioRxiv}\n}\n@article{katoh2019a,\n  author = {Katoh, K. and Rozewicki, J. and Yamada, K.D.},\n  title = {MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization},\n  journal = {Brief. Bioinformatics},\n  volume = {20},\n  pages = {1160\u20131166},\n  date = {2019},\n  unmatched-volume = {07},\n  number = {4},\n  language = {}\n}\n@article{kaytes1988a,\n  author = {Kaytes, P. and Wood, L. and Theriault, N. and Kurkinen, M. and Vogeli, G.},\n  title = {Head-to-head arrangement of murine type IV collagen genes},\n  journal = {J. Biol. Chem},\n  volume = {263},\n  pages = {19274\u201319277},\n  date = {1988-12},\n  number = {36},\n  language = {}\n}\n@article{kundrotas2012a,\n  author = {Kundrotas, P.J. and Zhu, Z. and Janin, J. and Vakser, I.A.},\n  title = {Templates are available to model nearly all complexes of structurally characterized proteins},\n  journal = {Proc. Natl. Acad. Sci. U. S. A},\n  volume = {109},\n  pages = {9438\u20139441},\n  date = {2012-06},\n  number = {24},\n  language = {}\n}\n@article{kurcinski2019a,\n  author = {Kurcinski, M. and Oleniecki, T. and Ciemny, M.P. and Kuriata, A. and Kolinski, A. and Kmiecik, S.},\n  title = {CABS-flex standalone: a simulation environment for fast modeling of protein flexibility},\n  journal = {Bioinformatics},\n  volume = {35},\n  pages = {694\u2013695},\n  date = {2019},\n  unmatched-volume = {02},\n  number = {4},\n  language = {}\n}\n@misc{lan2020a,\n  author = {Lan, J. and Ge, J. and Yu, J. and Shan, S. and Zhou, H. and Fan, S. and Zhang, Q. and Shi, X. and Wang, Q. and Zhang, L. and Wang, X.},\n  title = {Crystal structure of the 2019-ncov spike receptor-binding domain bound with the ace2 receptor},\n  date = {2020},\n  language = {},\n  address = {bioRxiv}\n}\n@article{letunic2019a,\n  author = {Letunic, I. and Bork, P.},\n  title = {Interactive Tree Of Life (iTOL) v4: recent updates and new developments},\n  journal = {Nucleic Acids Res},\n  volume = {47},\n  pages = {256\u2013259},\n  date = {2019-07},\n  number = {1},\n  language = {}\n}\n@article{lu2020a,\n  author = {Lu, R. and Zhao, X. and Li, J. and Niu, P. and Yang, B. and Wu, H. and Wang, W. and Song, H. and Huang, B. and Zhu, N. and Bi, Y. and Ma, X. and Zhan, F. and Wang, L. and Hu, T. and Zhou, H. and Hu, Z. and Zhou, W. and Zhao, L. and Chen, J. and Meng, Y. and Wang, J. and Lin, Y. and Yuan, J. and Xie, Z. and Ma, J. and Liu, W.J. and Wang, D. and Xu, W. and Holmes, E.C. and Gao, G.F. and Wu, G. and Chen, W. and Shi, W. and Tan, W.},\n  title = {Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding},\n  journal = {Lancet},\n  volume = {395},\n  pages = {565\u2013574},\n  date = {2020-02},\n  number = {10224},\n  language = {}\n}\n@article{paraskevis2019a,\n  author = {Paraskevis, D. and Kostaki, E.G. and Magiorkinis, G. and Panayiotakopoulos, G. and Sourvinos, G. and Tsiodras, S.},\n  title = {Full-genome evolutionary analysis of the novel corona virus},\n  date = {2019-04},\n  journal = {Infect. Genet. Evol},\n  volume = {79},\n  pages = {104212},\n  source = {rejects the hypothesis of emergence as a result of a recent recombination event},\n  language = {}\n}\n@article{rice2000a,\n  author = {Rice, P. and Longden, I. and Bleasby, A.},\n  title = {EMBOSS: the European Molecular Biology Open Software Suite},\n  journal = {Trends Genet},\n  volume = {16},\n  pages = {276\u2013277},\n  date = {2000-06},\n  number = {6},\n  language = {}\n}\n@article{rodrigues2018a,\n  author = {Rodrigues, C.H. and Pires, D.E. and Ascher, D.B.},\n  title = {DynaMut: predicting the impact of mutations on protein conformation, flexibility and stability},\n  journal = {Nucleic Acids Res},\n  volume = {46},\n  pages = {350\u2013355},\n  date = {2018},\n  unmatched-volume = {07},\n  number = {1},\n  language = {}\n}\n@article{sali1993a,\n  author = {Sali, A. and Blundell, T.L.},\n  title = {Comparative protein modelling by satisfaction of spatial restraints},\n  journal = {J. Mol. Biol},\n  volume = {234},\n  pages = {779\u2013815},\n  date = {1993-12},\n  number = {3},\n  language = {}\n}\n@article{shen2006a,\n  author = {Shen, M.Y. and Sali, A.},\n  title = {Statistical potential for assessment and prediction of protein structures},\n  journal = {Protein Sci},\n  volume = {15},\n  pages = {2507\u20132524},\n  date = {2006-11},\n  number = {11},\n  language = {}\n}\n@article{shi2008a,\n  author = {Shi, Z. and Hu, Z.},\n  title = {A review of studies on animal reservoirs of the SARS coronavirus},\n  journal = {Virus Res},\n  volume = {133},\n  pages = {74\u201387},\n  date = {2008-04},\n  number = {1},\n  language = {}\n}\n@article{tamura2013a,\n  author = {Tamura, K. and Stecher, G. and Peterson, D. and Filipski, A. and Kumar, S.},\n  title = {MEGA6: Molecular Evolutionary Genetics Analysis version 6.0},\n  journal = {Mol. Biol. Evol},\n  volume = {30},\n  pages = {2725\u20132729},\n  date = {2013-12},\n  number = {12},\n  language = {}\n}\n@article{wan2020a,\n  author = {Wan, Y. and Shang, J. and Graham, R. and Baric, R.S. and Li, F.},\n  title = {Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS},\n  journal = {J. Virol},\n  date = {2020-01},\n  language = {}\n}\n@article{weng2019a,\n  author = {Weng, G. and Wang, E. and Wang, Z. and Liu, H. and Zhu, F. and Li, D. and Hou, T.},\n  title = {HawkDock: a web server to predict and analyze the protein-protein complex based on computational docking and MM/GBSA},\n  journal = {Nucleic Acids Res},\n  volume = {47},\n  pages = {322\u2013330},\n  date = {2019-07},\n  number = {1},\n  language = {}\n}\n@article{whelan2001a,\n  author = {Whelan, S. and Goldman, N.},\n  title = {A General Empirical Model of Protein Evolution Derived from Multiple Protein Families Using a MaximumLikelihood Approach},\n  journal = {Molecular Biology and Evolution},\n  volume = {18},\n  pages = {691},\n  date = {2001},\n  unmatched-volume = {699, 05},\n  number = {5},\n  language = {}\n}\n@article{wrapp2020a,\n  author = {Wrapp, D. and Wang, N. and Corbett, K.S. and Goldsmith, J.A. and Hsieh, C.L. and Abiona, O. and Graham, B.S. and McLellan, J.S.},\n  title = {Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation},\n  journal = {Science},\n  date = {2020-02},\n  language = {}\n}\n@article{xu2020a,\n  author = {Xu, X. and Chen, P. and Wang, J. and Feng, J. and Zhou, H. and Li, X. and Zhong, W. and Hao, P.},\n  title = {Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission},\n  journal = {Sci China Life Sci},\n  volume = {63},\n  pages = {457\u2013460},\n  date = {2020-03},\n  number = {3},\n  language = {}\n}\n@article{xue2016a,\n  author = {Xue, L.C. and Rodrigues, J.P. and Kastritis, P.L. and Bonvin, A.M. and Vangone, A.},\n  title = {PRODIGY: a web server for predicting the binding affinity of protein-protein complexes},\n  journal = {Bioinformatics},\n  volume = {32},\n  pages = {3676},\n  date = {2016},\n  unmatched-volume = {3678, 12},\n  number = {23},\n  language = {}\n}\n@misc{yan2020a,\n  author = {Yan, R. and Zhang, Y. and Guo, Y. and Xia, L. and Zhou, Q.},\n  title = {Structural basis for the recognition of the 2019-ncov by human ace2},\n  date = {2020},\n  language = {},\n  address = {bioRxiv}\n}\n",
+        "emails": [
+            "houcemoo@gmail.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Aloy, P.\nAU  - Ceulemans, H.\nAU  - Stark, A.\nAU  - Russell, R.B.\nTI  - The relationship between sequence and interaction divergence in proteins\nT2  - J. Mol. Biol\nVL  - 332\nSP  - 989\nEP  - 998\nPY  - 2003\nDA  - 2003/10\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.\nAU  - Yuan, S.\nAU  - Kok, K.H.\nAU  - To, K.K.\nAU  - Chu, H.\nAU  - Yang, J.\nAU  - Xing, F.\nAU  - Liu, J.\nAU  - Yip, C.C.\nAU  - Poon, R.W.\nAU  - Tsoi, H.W.\nAU  - Lo, S.K.\nAU  - Chan, K.H.\nAU  - Poon, V.K.\nAU  - Chan, W.M.\nAU  - Ip, J.D.\nAU  - Cai, J.P.\nAU  - Cheng, V.C.\nAU  - Chen, H.\nAU  - Hui, C.K.\nAU  - Yuen, K.Y.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster\nT2  - Lancet\nVL  - 395\nSP  - 514\nEP  - 523\nPY  - 2020\nDA  - 2020/02\nIS  - 10223\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Delgado, J.\nAU  - Radusky, L.G.\nAU  - Cianferoni, D.\nAU  - Serrano, L.\nTI  - FoldX 5.0: working with RNA, small molecules and a new graphical interface\nT2  - Bioinformatics\nVL  - 35\nSP  - 4168\nEP  - 4169\nPY  - 2019\nDA  - 2019/10\nIS  - 20\nLA  - \nER  - \n\nTY  - GEN\nAU  - He, J.\nAU  - Tao, H.\nAU  - Yan, Y.\nAU  - Huang, S.-Y.\nAU  - Xiao, Y.\nTI  - Molecular mechanism of evolution and human infection with the novel coronavirus\nPY  - 2019\nDA  - 2019\nVL  - bioRxiv,\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Janies, D.\nAU  - Habib, F.\nAU  - Alexandrov, B.\nAU  - Hill, A.\nAU  - Pol, D.\nTI  - Evolution of genomes, host shifts and the geographic spread of sars-cov and related coronaviruses\nT2  - Cladistics\nVL  - 24\nSP  - 111\nEP  - 130\nPY  - 2008\nDA  - 2008\nIS  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ji, W.\nAU  - Wang, W.\nAU  - Zhao, X.\nAU  - Zai, J.\nAU  - Li, X.\nTI  - Cross-species transmission of the newly identified coronavirus 2019-nCoV\nT2  - J. Med. Virol\nVL  - 92\nSP  - 433\nEP  - 440\nPY  - 2020\nDA  - 2020/04\nIS  - 4\nLA  - \nER  - \n\nTY  - GEN\nTI  - Variation across 141,456 human exomes and genomes reveals the spectrum of loss-of-function intolerance across human protein-coding genes\nPY  - 2019\nDA  - 2019\nLA  - \nCY  - bioRxiv\nER  - \n\nTY  - JOUR\nAU  - Katoh, K.\nAU  - Rozewicki, J.\nAU  - Yamada, K.D.\nTI  - MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization\nT2  - Brief. Bioinformatics\nVL  - 20\nSP  - 1160\nEP  - 1166\nPY  - 2019\nDA  - 2019\nC1  - 07\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kaytes, P.\nAU  - Wood, L.\nAU  - Theriault, N.\nAU  - Kurkinen, M.\nAU  - Vogeli, G.\nTI  - Head-to-head arrangement of murine type IV collagen genes\nT2  - J. Biol. Chem\nVL  - 263\nSP  - 19274\nEP  - 19277\nPY  - 1988\nDA  - 1988/12\nIS  - 36\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kundrotas, P.J.\nAU  - Zhu, Z.\nAU  - Janin, J.\nAU  - Vakser, I.A.\nTI  - Templates are available to model nearly all complexes of structurally characterized proteins\nT2  - Proc. Natl. Acad. Sci. U. S. A\nVL  - 109\nSP  - 9438\nEP  - 9441\nPY  - 2012\nDA  - 2012/06\nIS  - 24\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kurcinski, M.\nAU  - Oleniecki, T.\nAU  - Ciemny, M.P.\nAU  - Kuriata, A.\nAU  - Kolinski, A.\nAU  - Kmiecik, S.\nTI  - CABS-flex standalone: a simulation environment for fast modeling of protein flexibility\nT2  - Bioinformatics\nVL  - 35\nSP  - 694\nEP  - 695\nPY  - 2019\nDA  - 2019\nC1  - 02\nIS  - 4\nLA  - \nER  - \n\nTY  - GEN\nAU  - Lan, J.\nAU  - Ge, J.\nAU  - Yu, J.\nAU  - Shan, S.\nAU  - Zhou, H.\nAU  - Fan, S.\nAU  - Zhang, Q.\nAU  - Shi, X.\nAU  - Wang, Q.\nAU  - Zhang, L.\nAU  - Wang, X.\nTI  - Crystal structure of the 2019-ncov spike receptor-binding domain bound with the ace2 receptor\nPY  - 2020\nDA  - 2020\nLA  - \nCY  - bioRxiv\nER  - \n\nTY  - JOUR\nAU  - Letunic, I.\nAU  - Bork, P.\nTI  - Interactive Tree Of Life (iTOL) v4: recent updates and new developments\nT2  - Nucleic Acids Res\nVL  - 47\nSP  - 256\nEP  - 259\nPY  - 2019\nDA  - 2019/07\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lu, R.\nAU  - Zhao, X.\nAU  - Li, J.\nAU  - Niu, P.\nAU  - Yang, B.\nAU  - Wu, H.\nAU  - Wang, W.\nAU  - Song, H.\nAU  - Huang, B.\nAU  - Zhu, N.\nAU  - Bi, Y.\nAU  - Ma, X.\nAU  - Zhan, F.\nAU  - Wang, L.\nAU  - Hu, T.\nAU  - Zhou, H.\nAU  - Hu, Z.\nAU  - Zhou, W.\nAU  - Zhao, L.\nAU  - Chen, J.\nAU  - Meng, Y.\nAU  - Wang, J.\nAU  - Lin, Y.\nAU  - Yuan, J.\nAU  - Xie, Z.\nAU  - Ma, J.\nAU  - Liu, W.J.\nAU  - Wang, D.\nAU  - Xu, W.\nAU  - Holmes, E.C.\nAU  - Gao, G.F.\nAU  - Wu, G.\nAU  - Chen, W.\nAU  - Shi, W.\nAU  - Tan, W.\nTI  - Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding\nT2  - Lancet\nVL  - 395\nSP  - 565\nEP  - 574\nPY  - 2020\nDA  - 2020/02\nIS  - 10224\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Paraskevis, D.\nAU  - Kostaki, E.G.\nAU  - Magiorkinis, G.\nAU  - Panayiotakopoulos, G.\nAU  - Sourvinos, G.\nAU  - Tsiodras, S.\nTI  - Full-genome evolutionary analysis of the novel corona virus\nPY  - 2019\nDA  - 2019/04\nT2  - Infect. Genet. Evol\nVL  - 79\nSP  - 104212\nT2  - rejects the hypothesis of emergence as a result of a recent recombination event\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rice, P.\nAU  - Longden, I.\nAU  - Bleasby, A.\nTI  - EMBOSS: the European Molecular Biology Open Software Suite\nT2  - Trends Genet\nVL  - 16\nSP  - 276\nEP  - 277\nPY  - 2000\nDA  - 2000/06\nIS  - 6\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rodrigues, C.H.\nAU  - Pires, D.E.\nAU  - Ascher, D.B.\nTI  - DynaMut: predicting the impact of mutations on protein conformation, flexibility and stability\nT2  - Nucleic Acids Res\nVL  - 46\nSP  - 350\nEP  - 355\nPY  - 2018\nDA  - 2018\nC1  - 07\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Sali, A.\nAU  - Blundell, T.L.\nTI  - Comparative protein modelling by satisfaction of spatial restraints\nT2  - J. Mol. Biol\nVL  - 234\nSP  - 779\nEP  - 815\nPY  - 1993\nDA  - 1993/12\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shen, M.Y.\nAU  - Sali, A.\nTI  - Statistical potential for assessment and prediction of protein structures\nT2  - Protein Sci\nVL  - 15\nSP  - 2507\nEP  - 2524\nPY  - 2006\nDA  - 2006/11\nIS  - 11\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shi, Z.\nAU  - Hu, Z.\nTI  - A review of studies on animal reservoirs of the SARS coronavirus\nT2  - Virus Res\nVL  - 133\nSP  - 74\nEP  - 87\nPY  - 2008\nDA  - 2008/04\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tamura, K.\nAU  - Stecher, G.\nAU  - Peterson, D.\nAU  - Filipski, A.\nAU  - Kumar, S.\nTI  - MEGA6: Molecular Evolutionary Genetics Analysis version 6.0\nT2  - Mol. Biol. Evol\nVL  - 30\nSP  - 2725\nEP  - 2729\nPY  - 2013\nDA  - 2013/12\nIS  - 12\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wan, Y.\nAU  - Shang, J.\nAU  - Graham, R.\nAU  - Baric, R.S.\nAU  - Li, F.\nTI  - Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS\nT2  - J. Virol\nPY  - 2020\nDA  - 2020/01\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Weng, G.\nAU  - Wang, E.\nAU  - Wang, Z.\nAU  - Liu, H.\nAU  - Zhu, F.\nAU  - Li, D.\nAU  - Hou, T.\nTI  - HawkDock: a web server to predict and analyze the protein-protein complex based on computational docking and MM/GBSA\nT2  - Nucleic Acids Res\nVL  - 47\nSP  - 322\nEP  - 330\nPY  - 2019\nDA  - 2019/07\nIS  - 1\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Whelan, S.\nAU  - Goldman, N.\nTI  - A General Empirical Model of Protein Evolution Derived from Multiple Protein Families Using a MaximumLikelihood Approach\nT2  - Molecular Biology and Evolution\nVL  - 18\nSP  - 691\nPY  - 2001\nDA  - 2001\nC1  - 699, 05\nIS  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wrapp, D.\nAU  - Wang, N.\nAU  - Corbett, K.S.\nAU  - Goldsmith, J.A.\nAU  - Hsieh, C.L.\nAU  - Abiona, O.\nAU  - Graham, B.S.\nAU  - McLellan, J.S.\nTI  - Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation\nT2  - Science\nPY  - 2020\nDA  - 2020/02\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, X.\nAU  - Chen, P.\nAU  - Wang, J.\nAU  - Feng, J.\nAU  - Zhou, H.\nAU  - Li, X.\nAU  - Zhong, W.\nAU  - Hao, P.\nTI  - Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission\nT2  - Sci China Life Sci\nVL  - 63\nSP  - 457\nEP  - 460\nPY  - 2020\nDA  - 2020/03\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xue, L.C.\nAU  - Rodrigues, J.P.\nAU  - Kastritis, P.L.\nAU  - Bonvin, A.M.\nAU  - Vangone, A.\nTI  - PRODIGY: a web server for predicting the binding affinity of protein-protein complexes\nT2  - Bioinformatics\nVL  - 32\nSP  - 3676\nPY  - 2016\nDA  - 2016\nC1  - 3678, 12\nIS  - 23\nLA  - \nER  - \n\nTY  - GEN\nAU  - Yan, R.\nAU  - Zhang, Y.\nAU  - Guo, Y.\nAU  - Xia, L.\nAU  - Zhou, Q.\nTI  - Structural basis for the recognition of the 2019-ncov by human ace2\nPY  - 2020\nDA  - 2020\nLA  - \nCY  - bioRxiv\nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Population frequencies of hACE2 missense variants located on the interaction surface with SARS-CoV-2 RBD (\u00d710\u22125)"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Phylogeny and sequence analysis based on full genome and RBDs from the different isolates included in this study. (A) Phylogeny trees are opposed to each other to show the clade discrepancies and discontinuous lines shows the equivalent taxon between each tree. (B) Multiple sequence alignment of the interface residues of RBD. Blocks in red indicate the residues with similar biochemical properties to the positions in SARS-CoV2. Conserved residues are colored in blue"
+            },
+            {
+                "id": "2",
+                "caption": "Homology based protein-protein docking of RBD/ACE2 and binding energy analysis of spike RBD with ACE2 receptor. (A) Homology based protein-protein docking complex of SARS-CoV-2 RBD with hACE2. The red spheres are the interface residues of the RBD. (B) Binding energies were converted to Kd values calculated for spike RBD from different coronavirus isolates interacting with hACE2. (C) Dissociation constant estimation calculated between SARS-CoV-2 RBD and homologous ACE2 from different model animals"
+            },
+            {
+                "id": "3",
+                "caption": "Analysis of the interaction between RBD and hACE2. Decomposition of the MMGBSA energy for each amino acid of the binding surface from SARS-CoV-2 (A) and SARS-CoV Sino1-11 isolate (B). Position of the hotspot residues of the complexes RBD-SARS-CoV-2/hACE2 (C) and RBD-SARS-CoV/hACE2 (D). (E) Flexibility of RBD interface residue expressed as Root Mean Square Fluctuation (RMSF) for two forms of RBD-SARS-CoV-2, T499 and P499"
+            },
+            {
+                "id": "4",
+                "caption": "Estimation of the energy changing upon mutation for hACE2 variants. Both Enthalpy and entropy terms are computed"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.04.976027v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.976027v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.976027v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.976027v1/img-004.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "The coronavirus SARS-CoV-2 (previously known as nCoV-19) has been associated with the recent epidemic of acute respiratory distress syndrome [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Recent studies have suggested that the virus binds to the ACE2 receptor on the surface of the host cell using the spike protein and explored the binary interaction of these two partners [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. In this work, we focused our analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor; (2) How the affinity of SARS-COV-2-RBD and<br/><br/>SARS-CoV-RBD toward different ACE2 homologous proteins from different species is dictated by a divergent interface sequences (3); A comparison of the interaction hotspots between SARS-CoV and SARS-CoV-2; and finally,<br/><br/>(4) whether any of the studied ACE2 variants may show a different binding property compared to the reference allele. To tackle these questions we used multiscale modelling approaches combined to sequence and phylogeny analysis.<br/><br/>author/funder. It is made available under a CC-BY-ND 4.0 International license."
+        ],
+        "methods": [
+            "Sequences and data retrieval<br/><br/>Full genome sequences of 10 Coronaviruses isolates were retrieved from NCBI<br/><br/>GeneBank corresponding to the following accessions: AY485277.1 (SARS coronavirus Sino1-11), FJ882957.1 (SARS coronavirus MA15), MG772933.1<br/><br/>(Bat SARS-like coronavirus isolate bat-SL-CoVZC45), MG772934.1 (Bat<br/><br/>SARS-like coronavirus isolate bat-SL-CoVZXC21), DQ412043.1 (Bat SARS coronavirus Rm1), AY304488.1 (SARS coronavirus SZ16), AY395003.1<br/><br/>(SARS coronavirus ZS-C), KT444582.1 (SARS-like coronavirus WIV16), MN996532.1 (Bat coronavirus RaTG13) in addition to Wuhan seafood market pneumonia virus commonly known as SARS-CoV-2 (accession    MN908947.3).<br/><br/>The sequences of the surface glycoprotein were extracted from the Coding<br/><br/>Segment (CDS) translation feature from each genome annotation or by locally aligning the protein from SARS-CoV-2 with all possible ORFs from the translated genomes. ACE2 orthologous sequences from Human (Uniprot sequence Q9BYF1), Masked palm civet (NCBI protein AAX63775.1 from<br/><br/>Paguma larvata), Chinese rufous horseshoe bat (NCBI protein AGZ48803.1 from Rhinolophus sinicus), King cobra snake (NCBI protein ETE61880.1 from Ophiophagus hannah), chicken (NCBI protein XP 416822.2, Gallus gallus), domestic dog (NCBI protein XP 005641049.1, Canis lupus familiaris), Wild boar (NCBI protein XP 020935033.1, Sus scrofa) and Brown rat (NCBI protein NP 001012006.1 Rattus norvegicus) were also computed and retrieved.<br/><br/>Human variants of the ACE2 gene were collected from the gnomAD database [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Only variants that map to the protein coding region and belonging to the interface of interaction with the RBD of the spike protein were retained for further analyses.<br/><br/>Sequence analysis and phylogeny tree calculation<br/><br/>MAFFT was used to align the whole genome sequences and the protein sequences of viral RBDs [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. For the genome comparison, we selected the best site model based on lowest Bayesian Information Criterion calculated using model selection tool implemented in MEGA 6 software [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. The<br/><br/>General Time Reversible (GTR) model was chosen as the best fitting model for nucleotide substitution with discrete Gamma distribution (+G) with 5 rate categories. For the RBD sequences, the best substitution model for<br/><br/>ML calculation was selected using a model selection tool implemented on<br/><br/>MEGA 6 software based on the lowest Bayesian Information criterion (BIC)<br/><br/>score. Therefore, the WAG model [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>] using a discrete Gamma distribution (+G) with 5 rate categories has been selected.<br/><br/>Phylogenetic trees were generated using a maximum likelihood (ML)<br/><br/>method in MEGA 6. The consistency of the topology, for the RBD sequences, was assessed using a bootstrap method with 1000 replicates. The resulting phylogenetic tree was edited with iTOL [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].<br/><br/>Homology based protein-protein docking and binding energy estimation<br/><br/>The co-crystal structure of the spike protein of SARS coronavirus complexed to human human-civet chimeric receptor ACE2 was solved at 3 \u00c5of resolution (PDB code 3SCL). We used this structure as a template to build the complex of spike protein from different virus isolates with the human<br/><br/>ACE2 protein (Uniprot sequence Q9BYF1). The template sequences of the ligand (spike protein) and the receptor (ACE2) were aligned locally with the target sequences using the program Water from the EMBOSS package [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].<br/><br/>Modeller version 9.22 [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] was then used to predict the complex model of each spike protein with the ACE2 using a slow refining protocol. For each model, we generated ten conformers from which we selected the model with the best DOPE score [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].<br/><br/>To calculate the binding energy we used the PRODIGY server [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>].<br/><br/>The Calculation of contribution of each amino acid in a protein partner was computed with MM-GBSA method implemented in the HawkDock server [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. Different 3D structures of hACE2, each comprising one of identified variants, were modeled using the BuildModel module of FoldX5 [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].<br/><br/>Because it is more adapted to predict the effect of punctual variations of amino acids, we used DynaMut at this stage of analysis [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>].<br/><br/>Flexibility analysis<br/><br/>We ran a protocol to simulate the spike RBD fluctuation of SARS-CoV-2 and<br/><br/>SARS-Cov using the standalone program CABS-flex (version 0.9.14) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].<br/><br/>Three replicates of the simulation with different seeds were conducted using a temperature value of 1.4 (dimensionless value related to the physical temperature). The protein backbone was kept fully flexible and the number of the Monte carlo cycles was set to 100."
+        ],
+        "results": [
+            "Sequence and phylogeny analysis<br/><br/>Phylogenetic analysis of the different RBD sequences revealed two well supported clades. Clade 2 includes SARS-CoV-2, RatG13, SZ16, ZS-C, WIV16, MA15, and SARS-CoV-Sino1-11 isolates (Figure 1A). SARS-CoV-2 and RatG13 sequences are the closest to the common ancestor of this clade.<br/><br/>Clade 1 includes Rm1 isolate, Bat-SL-CoVZC45 and Bat-SL-CoVZXC21.<br/><br/>These three isolates are closely related to SARS-CoV-2 as revealed by the phylogenetic tree constructed from the entire genome (Figure 1A). The exact tree topology is reproduced when we used only the RBD segment corresponding to the interface residues with hACE2. This is a linear sequence spanning from residue N481 to N501 in SARS-CoV-2.<br/><br/>Multiple sequence alignment showed that the interface segment of SARSCoV-2 shares higher similarity to sequences from clade 2 (Figure 1B).<br/><br/>However, we noticed that S494, Q498 and P499 are exclusively similar to their equivalent amino acids in sequences from clade 1. SARS-CoV-2 interface sequence is closely related to Bat-CovRaTG13 sequence, isolated from a Rhinolophus affinis bat.<br/><br/>Prediction of the RBD/hACE2 complex structure<br/><br/>To investigate whether the interface of the spike protein isolates evolves by increasing the affinity toward the ACE2 receptor in the final host, we predicted the interaction models of the envelope anchored spike protein (SP)<br/><br/>from several clinically relevant Coronavirus isolates with the human receptor<br/><br/>RBDs from the different isolates included in this study. (A) Phylogeny trees are opposed to each other to show the clade discrepancies and discontinuous lines shows the equivalent taxon between each tree. (B) Multiple sequence alignment of the interface residues of RBD. Blocks in red indicate the residues with similar biochemical properties to the positions in SARS-CoV2. Conserved residues are colored in blue.<br/><br/>ACE2 (hACE2). The construction of the complex applies a comparativebased approach that uses a template structure in which both partners (ligand and receptor) are closely related to those in the target system respectively. In our study, we only modeled the interaction of the RBD which was shown to be implicated in the physical interaction with ACE2 receptor (Figure 2A). The lowest sequence identity of the modeled spike proteins as well as those of any of the orthologous ACE2 sequences (Human, civet, bat, pig, rat, chicken and snake) do not fall below 63% compared to their respective templates. At such values of sequence identities between the equivalent partners of the receptor or the ligand, it is expected that the template and the target complexes share the same binding mode [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].<br/><br/>Analysis of energy Interaction of hACE2 with other virus<br/><br/>We calculated the binding energy of RBD from different virus isolates interacting with hACE2 using the PRODIGY method (Figure 2b). The binding energies are converted to dissociation constant estimations (Kd).<br/><br/>SP proteins from bat-SL-CoVZC45, bat-SL-CoVZXC21 and Rm1-Cov show the highest values (least favorable) which are all above 50 nM. All the other estimations fall below 18 nM. The interaction between hACE2 and the<br/><br/>RBDs of SARS-CoV-2 isolate (Whuhan-Hu-1) and the SARS-CoV-Sino1-11 show Kd values of 5.1 and 18 nM, respectively.<br/><br/>The red spheres are the interface residues of the RBD. (B) Binding energies were converted to Kd values calculated for spike RBD from different coronavirus isolates interacting with hACE2. (C) Dissociation constant estimation calculated between SARS-CoV-2 RBD and homologous ACE2 from different model animals.<br/><br/>Energy analyses of human SARS-CoV-2 and SARS-135<br/><br/>CoV with different animal ACE2 receptors<br/><br/>We made this analysis to investigate the tendency of SARS-CoV-2 and<br/><br/>SARS-CoV to interact with different orthologous forms of ACE2 which is dictated by the divergence in their interacting surfaces. Homology based protein-protein docking was conducted to generate the interaction model of SARS-CoV-2 RBD with ACE2 receptor from different animal species (Figure 2C). We noticed that for the civet, dog, chicken and snake forms, the interaction energy is very low and very similar either for SARS-CoV-2 or SARS-CoV. Although the Kd are relatively low for the rat and bat forms interacting with SARS-CoV RBD, those of SARS-CoV-2 are high and go beyond 50 nM. On the other hand, it seems that the interaction with pig<br/><br/>ACE2 is more favorable for SARS-CoV-2 isolate since the estimated Kd is folds lesser compared to SARS-CoV-2.<br/><br/>Decomposition of the interaction energy<br/><br/>The MM-GBSA calculation allowed us to assign the contribution in the binding energy of each amino acid in the interface with hACE2. We carried this analysis using both sequences of the SARS-CoV-2 Wuhan-Hu-1<br/><br/>(Figure 3A) and the Sino1-11 SARS-CoV (Figure 3B) isolates. Residues<br/><br/>F486, Y489, Q493, G496, T500 and N501 of SARS-CoV-2 RBD form the hotspots of the interface with hACE2 protein were investigated (we only consider values > 1 or < 1 kcal/mol to ignore the effect due to the thermal fluctuation). All these amino acids form three patches of interaction spread along the linear interface segment (Figure 3C): two from the N and C termini and one central. T500 establishes two hydrogen bonds using its side and main chains with Y41 and N330 of hACE2. N501 forms another hydrogen bond with ACE2 residue K353 buried within the interface. On the other hand, SARS-CoV RBD interface contains five residues (Figure 3D), L473, Y476, Y485, T487 and T488 corresponding to the equivalent hotspot residues of RBD from SARS-CoV-2 F487, Y490, G497, T501 and N502.<br/><br/>Therefore, Q493 as a hotspot amino acid is specific to SARS-CoV-2 interface.<br/><br/>The equivalent residue N480 in SARS-CoV only shows a non-significant contribution of 0.18 kcal/mol.<br/><br/>Sequence analysis and the visual inspection of RBD/hACE2 complex might reflect the substitution of P499 in SARS-CoV-2 RBD as a form of adaptation toward a better affinity with the receptor. In order to further investigate its role, we performed a flexibility analysis using a reference structure (SARS-CoV-2 RBD containing P499) and an in silico mutated form P499T, a residue found in SARS-CoV and most of the clade 2. Our results show that the mutation caused a significant decrease in stability for nine residues of the interface corresponding to segment 482-491 (Figure 3E). Indeed, the<br/><br/>RMSF variability per amino acid for this sequence increases compared to the reference structure.<br/><br/>RBD-SARS-CoV/hACE2 (D). (E) Flexibility of RBD interface residue expressed as Root Mean Square Fluctuation (RMSF) for two forms of<br/><br/>RBD-SARS-CoV-2, T499 and P499.<br/><br/>Analysis of ACE2 variability and affinity with the virus<br/><br/>A total of eight variants of hACE2 that map to the interaction surface are described in the gnomAD database. All these variants are rare (Table 1) and mostly found in European non-Finnish and African populations.<br/><br/>Considering both the enthalpy (ddG) and the vibrational entropy in our calculation (ddS), we found no significant change in the interaction energy (> 1 or < 1 kcal/mol) (Figure 4)."
+        ],
+        "discussion": [
+            "Since the Covid-2019 outbreak, several milestone papers have been published to examine the particularity of SARS-CoV-2 spike protein and its putative interaction with ACE2 as a receptor [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>, <a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. In the current study, we focused our analysis on the interface segments of SARS-CoV-2 spike RBD interacting with ACE2 from different species by estimating interaction energy profiles.<br/><br/>We have studied the effect of eight variants of ACE2 in order to detect polymorphisms that may increase or decrease the virulence in the host. We concluded that if ACE2 is the only route for the infection in humans, variants interacting physically with RBD are not likely to disrupt the formation of the complex and would have a marginal effect on the affinity. Therefore, it is unlikely that any form of resistance to the virus, related to the ACE2 gene, exists. However, this analysis merits to be investigated in depth in different ethnic groups for a better assessment of the contribution of genetic variability in host-pathogen interaction. The binding of SARS-CoV-2 RBD to different forms of ACE2 shows similar values compared to SARS-CoV which is in agreement with the ability of the virus to cross the species barrier.<br/><br/>However, although we estimated low Kd value between SARS-CoV RBD and Gallus gallus ACE2, there have been no reported cases of SARS-CoV isolated from chicken. On the other hand, while Kd is high for SARS-CoV<br/><br/>RBD interacting with porcine ACE2, there are only few reported cases of such type [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Indeed, host-pathogen interaction is a complex process unlikely to be controlled only by the binding of the spike protein with<br/><br/>ACE2 [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. For model animals where Kd values are very low, ACE2 analysis may play a key role in targeting the main animal reservoir of SARS-CoV-2.<br/><br/>For high Kd values, other factors might regulate the infection including the implication of different receptors or the response of the immune system but that does not mean that the infection is unlikely to occur. On the other hand, whole-genome phylogenetic analysis of the different isolates included in this study is consistent with previous works that place the Wuhan-Hu-1 isolate close to Bat-SL-CoVZC45 and Bat-SL-CoVZXC21 isolates [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>,<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>,<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]<br/><br/>within the Betacoronavirus genus. The use of RBD sequences, however, places the virus in a clade that comprises SARS-CoV related homologs including isolates from Bat and Civet. The clade swapping as seen in figure 1A, seems also to occur for RaTG13 and Rm1 isolated from bat. This is expected as the use of different phylogenetic markers may considerably affect the topology of the tree. However, given the functional implication of the spike RBD in host-pathogen infection, we have raised the question about where the virus obtained its RBD binding interface. The binding of the spike glycoprotein to ACE2 receptor requires a certain level of affinity.<br/><br/>In the case where the RBD evolves from an ancestral form closer to that of<br/><br/>Bat-SL-CoVZC45 and Bat-SL-CoVZXC21, we expected a decrease of the binding energy through the evolution process following incremental changes in the RBD. In such a scenario, we presume that there are other intermediary forms of coronavirus that describe such variation of the binding energy to reach a level where the pathogen can cross the species barriers and infect humans with high affinity toward hACE2. On the other hand, our results show that the binding energy and the interface sequence of SARS-CoV-2<br/><br/>RBD are closer to SARS-CoV related isolates (either from Human or other species). Therefore a recombination event involving the spike protein that might have occurred between SARS-CoV and an ancestral form of the current SARS-CoV-2 virus might be also possible. This will allow for the virus to acquire a minimum set of residues for the interaction with hACE2.<br/><br/>The recombination in the spike protein gene has been previously suggested by Wei et al in their phylogenetic analysis [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Thereafter, incremental changes in the binding interface segment will occur in order to reach a better affinity toward the receptor. One of these changes may involve P499 residue which substitution to threonine seems to drastically destabilize the interface segment and has a distant effect. Moreover, the decomposition of the interaction energy showed that 5 out of 6 hotspot amino acids in<br/><br/>SARS-CoV-2 have their equivalent in SARS-CoV including N501. Contrary to what Wan et al [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] have stated, the single mutation N501T does not seem to enhance the affinity. Rather, the residue Q493 might be responsible for such higher affinity due to a better satisfaction of the Van der Waals by the longer polar side chain of asparagine. Indeed, when we made the same analysis while mutating Q493 to N493, the favorable contribution decreases from -2.55 kcal/mol to a non significant value of -0.01 kcal/mol, thus supporting our claim."
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "The spread of the COVID-19 caused by the SARS-CoV-2 outbreak has been growing since its first identification in December 2019. The publishing of the first SARS-CoV-2 genome made a valuable source of data to study the details about its phylogeny, evolution, and interaction with the host. Proteinprotein binding assays have confirmed that Angiotensin-converting enzyme 2",
+            "(ACE2) is more likely to be the cell receptor via which the virus invades the host cell. In the present work, we provide an insight into the interaction of the viral spike Receptor Binding Domain (RBD) from different coronavirus isolates with host ACE2 protein. We used homology-based protein-protein docking, binding energy estimation, and decomposition, aiming to predict both qualitative and quantitative aspects of the interaction. Using in silico structural modelling, we brought additional evidence that the interface segment of the spike protein RBD might be acquired by SARS-CoV-2 via a complex evolutionary process rather than mutation accumulation. We also highlighted the relevance of Q493 and P499 amino acid residues of",
+            "SARS-CoV-2 RBD for binding to hACE2 and maintaining the stability of the interface. Finally, we studied the impact of eight different variants located at the interaction surface of ACE2, on the complex formation with",
+            "SARS-CoV-2 RBD. We found that none of them is likely to disrupt the interaction with the viral RBD of SARS-CoV-2.",
+            "key words: COVID-19, ACE2, viral spike Receptor Binding Domain, homology-based protein-protein docking, variants."
+        ],
+        "Introduction": [
+            "The coronavirus SARS-CoV-2 (previously known as nCoV-19) has been associated with the recent epidemic of acute respiratory distress syndrome [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. Recent studies have suggested that the virus binds to the ACE2 receptor on the surface of the host cell using the spike protein and explored the binary interaction of these two partners [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. In this work, we focused our analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor; (2) How the affinity of SARS-COV-2-RBD and",
+            "SARS-CoV-RBD toward different ACE2 homologous proteins from different species is dictated by a divergent interface sequences (3); A comparison of the interaction hotspots between SARS-CoV and SARS-CoV-2; and finally,",
+            "(4) whether any of the studied ACE2 variants may show a different binding property compared to the reference allele. To tackle these questions we used multiscale modelling approaches combined to sequence and phylogeny analysis.",
+            "author/funder. It is made available under a CC-BY-ND 4.0 International license."
+        ],
+        "Materials and Methods": [
+            "GeneBank corresponding to the following accessions: AY485277.1 (SARS coronavirus Sino1-11), FJ882957.1 (SARS coronavirus MA15), MG772933.1",
+            "SARS-like coronavirus isolate bat-SL-CoVZXC21), DQ412043.1 (Bat SARS coronavirus Rm1), AY304488.1 (SARS coronavirus SZ16), AY395003.1",
+            "(SARS coronavirus ZS-C), KT444582.1 (SARS-like coronavirus WIV16), MN996532.1 (Bat coronavirus RaTG13) in addition to Wuhan seafood market pneumonia virus commonly known as SARS-CoV-2 (accession",
+            "MN908947.3).",
+            "Segment (CDS) translation feature from each genome annotation or by locally aligning the protein from SARS-CoV-2 with all possible ORFs from the translated genomes. ACE2 orthologous sequences from Human (Uniprot sequence Q9BYF1), Masked palm civet (NCBI protein AAX63775.1 from",
+            "Paguma larvata), Chinese rufous horseshoe bat (NCBI protein AGZ48803.1 from Rhinolophus sinicus), King cobra snake (NCBI protein ETE61880.1 from Ophiophagus hannah), chicken (NCBI protein XP 416822.2, Gallus gallus), domestic dog (NCBI protein XP 005641049.1, Canis lupus familiaris), Wild boar (NCBI protein XP 020935033.1, Sus scrofa) and Brown rat (NCBI protein NP 001012006.1 Rattus norvegicus) were also computed and retrieved.",
+            "Human variants of the ACE2 gene were collected from the gnomAD database [<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Only variants that map to the protein coding region and belonging to the interface of interaction with the RBD of the spike protein were retained for further analyses.",
+            "MAFFT was used to align the whole genome sequences and the protein sequences of viral RBDs [<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. For the genome comparison, we selected the best site model based on lowest Bayesian Information Criterion calculated using model selection tool implemented in MEGA 6 software [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. The",
+            "General Time Reversible (GTR) model was chosen as the best fitting model for nucleotide substitution with discrete Gamma distribution (+G) with 5 rate categories. For the RBD sequences, the best substitution model for",
+            "score. Therefore, the WAG model [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>] using a discrete Gamma distribution (+G) with 5 rate categories has been selected.",
+            "method in MEGA 6. The consistency of the topology, for the RBD sequences, was assessed using a bootstrap method with 1000 replicates. The resulting phylogenetic tree was edited with iTOL [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].",
+            "The co-crystal structure of the spike protein of SARS coronavirus complexed to human human-civet chimeric receptor ACE2 was solved at 3 \u00c5of resolution (PDB code 3SCL). We used this structure as a template to build the complex of spike protein from different virus isolates with the human",
+            "ACE2 protein (Uniprot sequence Q9BYF1). The template sequences of the ligand (spike protein) and the receptor (ACE2) were aligned locally with the target sequences using the program Water from the EMBOSS package [<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>].",
+            "Modeller version 9.22 [<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>] was then used to predict the complex model of each spike protein with the ACE2 using a slow refining protocol. For each model, we generated ten conformers from which we selected the model with the best DOPE score [<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].",
+            "To calculate the binding energy we used the PRODIGY server [<a class=\"ref-link\" id=\"c27\" href=\"#r27\">27</a>].",
+            "The Calculation of contribution of each amino acid in a protein partner was computed with MM-GBSA method implemented in the HawkDock server [<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>]. Different 3D structures of hACE2, each comprising one of identified variants, were modeled using the BuildModel module of FoldX5 [<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "Because it is more adapted to predict the effect of punctual variations of amino acids, we used DynaMut at this stage of analysis [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>].",
+            "SARS-Cov using the standalone program CABS-flex (version 0.9.14) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>].",
+            "Three replicates of the simulation with different seeds were conducted using a temperature value of 1.4 (dimensionless value related to the physical temperature). The protein backbone was kept fully flexible and the number of the Monte carlo cycles was set to 100."
+        ],
+        "Results": [
+            "Phylogenetic analysis of the different RBD sequences revealed two well supported clades. Clade 2 includes SARS-CoV-2, RatG13, SZ16, ZS-C, WIV16, MA15, and SARS-CoV-Sino1-11 isolates (Figure 1A). SARS-CoV-2 and RatG13 sequences are the closest to the common ancestor of this clade.",
+            "Clade 1 includes Rm1 isolate, Bat-SL-CoVZC45 and Bat-SL-CoVZXC21.",
+            "These three isolates are closely related to SARS-CoV-2 as revealed by the phylogenetic tree constructed from the entire genome (Figure 1A). The exact tree topology is reproduced when we used only the RBD segment corresponding to the interface residues with hACE2. This is a linear sequence spanning from residue N481 to N501 in SARS-CoV-2.",
+            "Multiple sequence alignment showed that the interface segment of SARSCoV-2 shares higher similarity to sequences from clade 2 (Figure 1B).",
+            "However, we noticed that S494, Q498 and P499 are exclusively similar to their equivalent amino acids in sequences from clade 1. SARS-CoV-2 interface sequence is closely related to Bat-CovRaTG13 sequence, isolated from a Rhinolophus affinis bat.",
+            "To investigate whether the interface of the spike protein isolates evolves by increasing the affinity toward the ACE2 receptor in the final host, we predicted the interaction models of the envelope anchored spike protein (SP)",
+            "RBDs from the different isolates included in this study. (A) Phylogeny trees are opposed to each other to show the clade discrepancies and discontinuous lines shows the equivalent taxon between each tree. (B) Multiple sequence alignment of the interface residues of RBD. Blocks in red indicate the residues with similar biochemical properties to the positions in SARS-CoV2. Conserved residues are colored in blue.",
+            "ACE2 (hACE2). The construction of the complex applies a comparativebased approach that uses a template structure in which both partners (ligand and receptor) are closely related to those in the target system respectively. In our study, we only modeled the interaction of the RBD which was shown to be implicated in the physical interaction with ACE2 receptor (Figure 2A). The lowest sequence identity of the modeled spike proteins as well as those of any of the orthologous ACE2 sequences (Human, civet, bat, pig, rat, chicken and snake) do not fall below 63% compared to their respective templates. At such values of sequence identities between the equivalent partners of the receptor or the ligand, it is expected that the template and the target complexes share the same binding mode [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+            "We calculated the binding energy of RBD from different virus isolates interacting with hACE2 using the PRODIGY method (Figure 2b). The binding energies are converted to dissociation constant estimations (Kd).",
+            "SP proteins from bat-SL-CoVZC45, bat-SL-CoVZXC21 and Rm1-Cov show the highest values (least favorable) which are all above 50 nM. All the other estimations fall below 18 nM. The interaction between hACE2 and the",
+            "RBDs of SARS-CoV-2 isolate (Whuhan-Hu-1) and the SARS-CoV-Sino1-11 show Kd values of 5.1 and 18 nM, respectively.",
+            "The red spheres are the interface residues of the RBD. (B) Binding energies were converted to Kd values calculated for spike RBD from different coronavirus isolates interacting with hACE2. (C) Dissociation constant estimation calculated between SARS-CoV-2 RBD and homologous ACE2 from different model animals.",
+            "SARS-CoV to interact with different orthologous forms of ACE2 which is dictated by the divergence in their interacting surfaces. Homology based protein-protein docking was conducted to generate the interaction model of SARS-CoV-2 RBD with ACE2 receptor from different animal species (Figure 2C). We noticed that for the civet, dog, chicken and snake forms, the interaction energy is very low and very similar either for SARS-CoV-2 or SARS-CoV. Although the Kd are relatively low for the rat and bat forms interacting with SARS-CoV RBD, those of SARS-CoV-2 are high and go beyond 50 nM. On the other hand, it seems that the interaction with pig",
+            "ACE2 is more favorable for SARS-CoV-2 isolate since the estimated Kd is folds lesser compared to SARS-CoV-2.",
+            "The MM-GBSA calculation allowed us to assign the contribution in the binding energy of each amino acid in the interface with hACE2. We carried this analysis using both sequences of the SARS-CoV-2 Wuhan-Hu-1",
+            "F486, Y489, Q493, G496, T500 and N501 of SARS-CoV-2 RBD form the hotspots of the interface with hACE2 protein were investigated (we only consider values > 1 or < 1 kcal/mol to ignore the effect due to the thermal fluctuation). All these amino acids form three patches of interaction spread along the linear interface segment (Figure 3C): two from the N and C termini and one central. T500 establishes two hydrogen bonds using its side and main chains with Y41 and N330 of hACE2. N501 forms another hydrogen bond with ACE2 residue K353 buried within the interface. On the other hand, SARS-CoV RBD interface contains five residues (Figure 3D), L473, Y476, Y485, T487 and T488 corresponding to the equivalent hotspot residues of RBD from SARS-CoV-2 F487, Y490, G497, T501 and N502.",
+            "Therefore, Q493 as a hotspot amino acid is specific to SARS-CoV-2 interface.",
+            "The equivalent residue N480 in SARS-CoV only shows a non-significant contribution of 0.18 kcal/mol.",
+            "Sequence analysis and the visual inspection of RBD/hACE2 complex might reflect the substitution of P499 in SARS-CoV-2 RBD as a form of adaptation toward a better affinity with the receptor. In order to further investigate its role, we performed a flexibility analysis using a reference structure (SARS-CoV-2 RBD containing P499) and an in silico mutated form P499T, a residue found in SARS-CoV and most of the clade 2. Our results show that the mutation caused a significant decrease in stability for nine residues of the interface corresponding to segment 482-491 (Figure 3E). Indeed, the",
+            "RMSF variability per amino acid for this sequence increases compared to the reference structure.",
+            "RBD-SARS-CoV/hACE2 (D). (E) Flexibility of RBD interface residue expressed as Root Mean Square Fluctuation (RMSF) for two forms of",
+            "RBD-SARS-CoV-2, T499 and P499.",
+            "A total of eight variants of hACE2 that map to the interaction surface are described in the gnomAD database. All these variants are rare (Table 1) and mostly found in European non-Finnish and African populations.",
+            "Considering both the enthalpy (ddG) and the vibrational entropy in our calculation (ddS), we found no significant change in the interaction energy (> 1 or < 1 kcal/mol) (Figure 4)."
+        ],
+        "Discussion": [
+            "Since the Covid-2019 outbreak, several milestone papers have been published to examine the particularity of SARS-CoV-2 spike protein and its putative interaction with ACE2 as a receptor [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>, <a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>]. In the current study, we focused our analysis on the interface segments of SARS-CoV-2 spike RBD interacting with ACE2 from different species by estimating interaction energy profiles.",
+            "We have studied the effect of eight variants of ACE2 in order to detect polymorphisms that may increase or decrease the virulence in the host. We concluded that if ACE2 is the only route for the infection in humans, variants interacting physically with RBD are not likely to disrupt the formation of the complex and would have a marginal effect on the affinity. Therefore, it is unlikely that any form of resistance to the virus, related to the ACE2 gene, exists. However, this analysis merits to be investigated in depth in different ethnic groups for a better assessment of the contribution of genetic variability in host-pathogen interaction. The binding of SARS-CoV-2 RBD to different forms of ACE2 shows similar values compared to SARS-CoV which is in agreement with the ability of the virus to cross the species barrier.",
+            "However, although we estimated low Kd value between SARS-CoV RBD and Gallus gallus ACE2, there have been no reported cases of SARS-CoV isolated from chicken. On the other hand, while Kd is high for SARS-CoV",
+            "RBD interacting with porcine ACE2, there are only few reported cases of such type [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. Indeed, host-pathogen interaction is a complex process unlikely to be controlled only by the binding of the spike protein with",
+            "ACE2 [<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. For model animals where Kd values are very low, ACE2 analysis may play a key role in targeting the main animal reservoir of SARS-CoV-2.",
+            "For high Kd values, other factors might regulate the infection including the implication of different receptors or the response of the immune system but that does not mean that the infection is unlikely to occur. On the other hand, whole-genome phylogenetic analysis of the different isolates included in this study is consistent with previous works that place the Wuhan-Hu-1 isolate close to Bat-SL-CoVZC45 and Bat-SL-CoVZXC21 isolates [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>,<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>,<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>]",
+            "within the Betacoronavirus genus. The use of RBD sequences, however, places the virus in a clade that comprises SARS-CoV related homologs including isolates from Bat and Civet. The clade swapping as seen in figure 1A, seems also to occur for RaTG13 and Rm1 isolated from bat. This is expected as the use of different phylogenetic markers may considerably affect the topology of the tree. However, given the functional implication of the spike RBD in host-pathogen infection, we have raised the question about where the virus obtained its RBD binding interface. The binding of the spike glycoprotein to ACE2 receptor requires a certain level of affinity.",
+            "Bat-SL-CoVZC45 and Bat-SL-CoVZXC21, we expected a decrease of the binding energy through the evolution process following incremental changes in the RBD. In such a scenario, we presume that there are other intermediary forms of coronavirus that describe such variation of the binding energy to reach a level where the pathogen can cross the species barriers and infect humans with high affinity toward hACE2. On the other hand, our results show that the binding energy and the interface sequence of SARS-CoV-2",
+            "RBD are closer to SARS-CoV related isolates (either from Human or other species). Therefore a recombination event involving the spike protein that might have occurred between SARS-CoV and an ancestral form of the current SARS-CoV-2 virus might be also possible. This will allow for the virus to acquire a minimum set of residues for the interaction with hACE2.",
+            "The recombination in the spike protein gene has been previously suggested by Wei et al in their phylogenetic analysis [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. Thereafter, incremental changes in the binding interface segment will occur in order to reach a better affinity toward the receptor. One of these changes may involve P499 residue which substitution to threonine seems to drastically destabilize the interface segment and has a distant effect. Moreover, the decomposition of the interaction energy showed that 5 out of 6 hotspot amino acids in",
+            "SARS-CoV-2 have their equivalent in SARS-CoV including N501. Contrary to what Wan et al [<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] have stated, the single mutation N501T does not seem to enhance the affinity. Rather, the residue Q493 might be responsible for such higher affinity due to a better satisfaction of the Van der Waals by the longer polar side chain of asparagine. Indeed, when we made the same analysis while mutating Q493 to N493, the favorable contribution decreases from -2.55 kcal/mol to a non significant value of -0.01 kcal/mol, thus supporting our claim."
+        ],
+        "References": [
+            "1. P. Aloy, H. Ceulemans, A. Stark, and R. B. Russell. The relationship between sequence and interaction divergence in proteins. J. Mol.",
+            "Biol., 332(5):989\u2013998, Oct 2003.",
+            "2. J. F. Chan, S. Yuan, K. H. Kok, K. K. To, H. Chu, J. Yang, F. Xing, J. Liu, C. C. Yip, R. W. Poon, H. W. Tsoi, S. K. Lo, K. H. Chan, V. K.",
+            "Poon, W. M. Chan, J. D. Ip, J. P. Cai, V. C. Cheng, H. Chen, C. K.",
+            "Hui, and K. Y. Yuen. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission:",
+            "a study of a family cluster. Lancet, 395(10223):514\u2013523, Feb 2020.",
+            "3. J. Delgado, L. G. Radusky, D. Cianferoni, and L. Serrano. FoldX 5.0: working with RNA, small molecules and a new graphical interface.",
+            "Bioinformatics, 35(20):4168\u20134169, Oct 2019.",
+            "4. J. He, H. Tao, Y. Yan, S.-Y. Huang, and Y. Xiao. Molecular mechanism of evolution and human infection with the novel coronavirus (2019-ncov). bioRxiv, 2020.",
+            "5. D. Janies, F. Habib, B. Alexandrov, A. Hill, and D. Pol. Evolution of genomes, host shifts and the geographic spread of sars-cov and related coronaviruses. Cladistics, 24(2):111\u2013130, 2008.",
+            "6. W. Ji, W. Wang, X. Zhao, J. Zai, and X. Li. Cross-species transmission of the newly identified coronavirus 2019-nCoV. J. Med. Virol., 92(4):433\u2013440, Apr 2020.",
+            "7. K. J. Karczewski, L. C. Francioli, G. Tiao, B. B. Cummings, J. Alf\u00f6ldi, Q. Wang, R. L. Collins, K. M. Laricchia, A. Ganna, D. P. Birnbaum, L. D. Gauthier, H. Brand, M. Solomonson, N. A. Watts, D. Rhodes, M. Singer-Berk, E. M. England, E. G. Seaby, J. A. Kosmicki, R. K.",
+            "Walters, K. Tashman, Y. Farjoun, E. Banks, T. Poterba, A. Wang, C. Seed, N. Whiffin, J. X. Chong, K. E. Samocha, E. Pierce-Hoffman, Z. Zappala, A. H. O\u2019Donnell-Luria, E. V. Minikel, B. Weisburd, M. Lek, J. S. Ware, C. Vittal, I. M. Armean, L. Bergelson, K. Cibulskis, K. M. Connolly, M. Covarrubias, S. Donnelly, S. Ferriera, S. Gabriel, J. Gentry, N. Gupta, T. Jeandet, D. Kaplan, C. Llanwarne, R. Munshi, S. Novod, N. Petrillo, D. Roazen, V. RuanoRubio, A. Saltzman, M. Schleicher, J. Soto, K. Tibbetts, C. Tolonen, G. Wade, M. E. Talkowski, , B. M. Neale, M. J. Daly, and D. G.",
+            "MacArthur. Variation across 141,456 human exomes and genomes reveals the spectrum of loss-of-function intolerance across human protein-coding genes. bioRxiv, 2019.",
+            "8. K. Katoh, J. Rozewicki, and K. D. Yamada. MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization. Brief. Bioinformatics, 20(4):1160\u20131166, 07 2019.",
+            "9. P. Kaytes, L. Wood, N. Theriault, M. Kurkinen, and G. Vogeli.",
+            "Head-to-head arrangement of murine type IV collagen genes. J. Biol.",
+            "Chem., 263(36):19274\u201319277, Dec 1988.",
+            "10. P. J. Kundrotas, Z. Zhu, J. Janin, and I. A. Vakser. Templates are available to model nearly all complexes of structurally characterized proteins. Proc. Natl. Acad. Sci. U.S.A., 109(24):9438\u20139441, Jun 2012.",
+            "11. M. Kurcinski, T. Oleniecki, M. P. Ciemny, A. Kuriata, A. Kolinski, and S. Kmiecik. CABS-flex standalone: a simulation environment for fast modeling of protein flexibility. Bioinformatics, 35(4):694\u2013695, 12. J. Lan, J. Ge, J. Yu, S. Shan, H. Zhou, S. Fan, Q. Zhang, X. Shi, Q. Wang, L. Zhang, and X. Wang. Crystal structure of the 2019-ncov spike receptor-binding domain bound with the ace2 receptor. bioRxiv, 13. I. Letunic and P. Bork. Interactive Tree Of Life (iTOL) v4: recent updates and new developments. Nucleic Acids Res., 47(W1):W256\u2013",
+            "W259, Jul 2019.",
+            "14. R. Lu, X. Zhao, J. Li, P. Niu, B. Yang, H. Wu, W. Wang, H. Song, B. Huang, N. Zhu, Y. Bi, X. Ma, F. Zhan, L. Wang, T. Hu, H. Zhou, Z. Hu, W. Zhou, L. Zhao, J. Chen, Y. Meng, J. Wang, Y. Lin, J. Yuan, Z. Xie, J. Ma, W. J. Liu, D. Wang, W. Xu, E. C. Holmes, G. F. Gao, G. Wu, W. Chen, W. Shi, and W. Tan. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet, 395(10224):565\u2013574, Feb 2020.",
+            "15. D. Paraskevis, E. G. Kostaki, G. Magiorkinis, G. Panayiotakopoulos, G. Sourvinos, and S. Tsiodras. Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event. Infect. Genet.",
+            "Evol., 79:104212, Apr 2020.",
+            "16. P. Rice, I. Longden, and A. Bleasby. EMBOSS: the European Molecular Biology Open Software Suite. Trends Genet., 16(6):276\u2013277, Jun 2000.",
+            "17. C. H. Rodrigues, D. E. Pires, and D. B. Ascher. DynaMut: predicting the impact of mutations on protein conformation, flexibility and stability. Nucleic Acids Res., 46(W1):W350\u2013W355, 07 2018.",
+            "18. A. Sali and T. L. Blundell. Comparative protein modelling by satisfaction of spatial restraints. J. Mol. Biol., 234(3):779\u2013815, Dec",
+            "19. M. Y. Shen and A. Sali. Statistical potential for assessment and prediction of protein structures. Protein Sci., 15(11):2507\u20132524, Nov",
+            "20. Z. Shi and Z. Hu. A review of studies on animal reservoirs of the",
+            "SARS coronavirus. Virus Res., 133(1):74\u201387, Apr 2008.",
+            "21. K. Tamura, G. Stecher, D. Peterson, A. Filipski, and S. Kumar.",
+            "MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Mol.",
+            "Biol. Evol., 30(12):2725\u20132729, Dec 2013.",
+            "22. Y. Wan, J. Shang, R. Graham, R. S. Baric, and F. Li. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J. Virol., Jan 2020.",
+            "23. G. Weng, E. Wang, Z. Wang, H. Liu, F. Zhu, D. Li, and T. Hou.",
+            "HawkDock: a web server to predict and analyze the protein-protein complex based on computational docking and MM/GBSA. Nucleic",
+            "Acids Res., 47(W1):W322\u2013W330, Jul 2019.",
+            "24. S. Whelan and N. Goldman. A General Empirical Model of Protein",
+            "Evolution Derived from Multiple Protein Families Using a MaximumLikelihood Approach. Molecular Biology and Evolution, 18(5):691\u2013",
+            "699, 05 2001.",
+            "25. D. Wrapp, N. Wang, K. S. Corbett, J. A. Goldsmith, C. L. Hsieh, O. Abiona, B. S. Graham, and J. S. McLellan. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, Feb",
+            "26. X. Xu, P. Chen, J. Wang, J. Feng, H. Zhou, X. Li, W. Zhong, and P. Hao. Evolution of the novel coronavirus from the ongoing",
+            "Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci, 63(3):457\u2013460, Mar 2020.",
+            "27. L. C. Xue, J. P. Rodrigues, P. L. Kastritis, A. M. Bonvin, and",
+            "A. Vangone. PRODIGY: a web server for predicting the binding affinity of protein-protein complexes. Bioinformatics, 32(23):3676\u2013",
+            "3678, 12 2016.",
+            "28. R. Yan, Y. Zhang, Y. Guo, L. Xia, and Q. Zhou. Structural basis for the recognition of the 2019-ncov by human ace2. bioRxiv, 2020.",
+            "rs ID rs961360700",
+            "rs143936283",
+            "rs146676783",
+            "rs759579097",
+            "rs370610075",
+            "rs766996587",
+            "rs73635825",
+            "rs781255386",
+            "European (non-Finnish) African Latino Ashkenazi Jewish East Asian South Asian Finnish Other Global",
+            "1.17",
+            "19.05 3.443",
+            "32.22",
+            "0.1056 0",
+            "1.274",
+            "26.23",
+            "332.3",
+            "7.303",
+            "Table 1. Population frequencies of hACE2 missense variants located on the interaction surface with SARS-CoV-2 RBD (\u00d710\u22125 )"
+        ]
+    },
+    "participants": [
+        {
+            "participant": "main subjects",
+            "number": 4,
+            "context": "Recent studies have suggested that the virus binds to the ACE2 receptor on the surface of the host cell using the spike protein and explored the binary interaction of these two partners [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c28\" href=\"#r28\">28</a>]. <mark class=\"stats\">In this work, we focused our analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor; (2) How the affinity of SARS-COV-2-RBD and</mark>. SARS-CoV-RBD toward different ACE2 homologous proteins from different species is dictated by a divergent interface sequences (3); A comparison of the interaction hotspots between SARS-CoV and SARS-CoV-2; and finally, (4) whether any of the studied ACE2 variants may show a different binding property compared to the reference allele"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "Gallus gallus",
+        "Root Mean Square Fluctuation",
+        "bat sl",
+        "maximum likelihood",
+        "coronavirus",
+        "spike protein",
+        "Bayesian Information criterion",
+        "phylogenetic analysis",
+        "SARS",
+        "General Time Reversible",
+        "variants",
+        "different species",
+        "pathogen interaction",
+        "Receptor Binding Domain",
+        "COVID-19",
+        "kd value",
+        "ACE2",
+        "cov rbd",
+        "host pathogen",
+        "1 homology-based protein-protein docking",
+        "Q493",
+        "interaction energy",
+        "Angiotensin-converting enzyme 2",
+        "sars cov",
+        "host cell",
+        "interface sequence",
+        "ace2 receptor",
+        "viral spike Receptor Binding Domain",
+        "interface segment"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.2303370786516854,
+        "Angiotensin-converting enzyme 2": 0.17415730337078653,
+        "ACE2": 0.17134831460674158,
+        "Receptor Binding Domain": 0.14887640449438203,
+        "coronavirus": 0.06460674157303371,
+        "spike protein": 0.05337078651685393,
+        "variants": 0.033707865168539325,
+        "interface segment": 0.016853932584269662,
+        "Q493": 0.014044943820224719,
+        "interaction energy": 0.014044943820224719,
+        "Root Mean Square Fluctuation": 0.008426966292134831,
+        "maximum likelihood": 0.008426966292134831,
+        "interface sequence": 0.008426966292134831,
+        "Gallus gallus": 0.0056179775280898875,
+        "Bayesian Information criterion": 0.0056179775280898875,
+        "phylogenetic analysis": 0.0056179775280898875,
+        "General Time Reversible": 0.0056179775280898875,
+        "different species": 0.0056179775280898875,
+        "pathogen interaction": 0.0056179775280898875,
+        "COVID-19": 0.0056179775280898875,
+        "host cell": 0.0056179775280898875,
+        "viral spike Receptor Binding Domain": 0.0056179775280898875,
+        "ace2 receptor": 0.0028089887640449437,
+        "bat sl": 0.0,
+        "kd value": 0.0,
+        "cov rbd": 0.0,
+        "host pathogen": 0.0,
+        "1 homology-based protein-protein docking": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [
+        "Gallus gallus"
+    ],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The coronavirus SARS-CoV-2 has been associated with the recent epidemic of acute respiratory distress syndrome [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+        "The authors focused the analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor; (2) How the affinity of SARS-COV-2-RBD and.",
+        "(4) whether any of the studied ACE2 variants may show a different binding property compared to the reference allele.",
+        "To tackle these questions the authors used multiscale modelling approaches combined to sequence and phylogeny analysis.",
+        "It is made available under a CC-BY-ND 4.0 International license",
+        "<h2 style=\"display: inline\">Methods:</h2> Sequences and data retrieval<br/><br/>Full genome sequences of 10 Coronaviruses isolates were retrieved from NCBI<br/><br/>GeneBank corresponding to the following accessions: AY485277.1 (SARS coronavirus Sino1-11), FJ882957.1 (SARS coronavirus MA15), MG772933.1<br/><br/>(Bat SARS-like coronavirus isolate bat-SL-CoVZC45), MG772934.1 (Bat<br/><br/>SARS-like coronavirus isolate bat-SL-CoVZXC21), DQ412043.1 (Bat SARS coronavirus Rm1), AY304488.1 (SARS coronavirus SZ16), AY395003.1<br/><br/>(SARS coronavirus ZS-C), KT444582.1 (SARS-like coronavirus WIV16), MN996532.1 (Bat coronavirus RaTG13) in addition to Wuhan seafood market pneumonia virus commonly known as SARS-CoV-2.<br/><br/>The sequences of the surface glycoprotein were extracted from the Coding<br/><br/>Segment (CDS) translation feature from each genome annotation or by locally aligning the protein from SARS-CoV-2 with all possible ORFs from the translated genomes.",
+        "The co-crystal structure of the spike protein of SARS coronavirus complexed to human human-civet chimeric receptor ACE2 was solved at 3 \u00c5of resolution (PDB code 3SCL).",
+        "The authors used this structure as a template to build the complex of spike protein from different virus isolates with the human.",
+        "The protein backbone was kept fully flexible and the number of the Monte carlo cycles was set to 100",
+        "<h2 style=\"display: inline\">Results:</h2> Sequence and phylogeny analysis<br/><br/>Phylogenetic analysis of the different RBD sequences revealed two well supported clades.",
+        "The MM-GBSA calculation allowed them to assign the contribution in the binding energy of each amino acid in the interface with hACE2",
+        "The authors carried this analysis using both sequences of the SARS-CoV-2 Wuhan-Hu-1.",
+        "F486, Y489, Q493, G496, T500 and N501 of SARS-CoV-2 RBD form the hotspots of the interface with hACE2 protein were investigated",
+        "All these amino acids form three patches of interaction spread along the linear interface segment (Figure 3C): two from the N and C termini and one central.",
+        "Considering both the enthalpy and the vibrational entropy in the calculation, the authors found no significant change in the interaction energy (> 1 or < 1 kcal/mol) (Figure 4)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Since the Covid-2019 outbreak, several milestone papers have been published to examine the particularity of SARS-CoV-2 spike protein and its putative interaction with ACE2 as a receptor [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>, <a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>].",
+        "Bat-SL-CoVZC45 and Bat-SL-CoVZXC21, the authors expected a decrease of the binding energy through the evolution process following incremental changes in the RBD",
+        "In such a scenario, the authors presume that there are other intermediary forms of coronavirus that describe such variation of the binding energy to reach a level where the pathogen can cross the species barriers and infect humans with high affinity toward hACE2.",
+        "When the authors made the same analysis while mutating Q493 to N493, the favorable contribution decreases from -2.55 kcal/mol to a non significant value of -0.01 kcal/mol, supporting the claim"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The coronavirus SARS-CoV-2 has been associated with the recent epidemic of acute respiratory distress syndrome [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "The authors focused the analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor; (2) How the affinity of SARS-COV-2-RBD and.",
+            "(4) whether any of the studied ACE2 variants may show a different binding property compared to the reference allele.",
+            "To tackle these questions the authors used multiscale modelling approaches combined to sequence and phylogeny analysis.",
+            "It is made available under a CC-BY-ND 4.0 International license"
+        ],
+        "Methods": [
+            "Sequences and data retrieval<br/><br/>Full genome sequences of 10 Coronaviruses isolates were retrieved from NCBI<br/><br/>GeneBank corresponding to the following accessions: AY485277.1 (SARS coronavirus Sino1-11), FJ882957.1 (SARS coronavirus MA15), MG772933.1<br/><br/>(Bat SARS-like coronavirus isolate bat-SL-CoVZC45), MG772934.1 (Bat<br/><br/>SARS-like coronavirus isolate bat-SL-CoVZXC21), DQ412043.1 (Bat SARS coronavirus Rm1), AY304488.1 (SARS coronavirus SZ16), AY395003.1<br/><br/>(SARS coronavirus ZS-C), KT444582.1 (SARS-like coronavirus WIV16), MN996532.1 (Bat coronavirus RaTG13) in addition to Wuhan seafood market pneumonia virus commonly known as SARS-CoV-2.<br/><br/>The sequences of the surface glycoprotein were extracted from the Coding<br/><br/>Segment (CDS) translation feature from each genome annotation or by locally aligning the protein from SARS-CoV-2 with all possible ORFs from the translated genomes.",
+            "The co-crystal structure of the spike protein of SARS coronavirus complexed to human human-civet chimeric receptor ACE2 was solved at 3 \u00c5of resolution (PDB code 3SCL).",
+            "The authors used this structure as a template to build the complex of spike protein from different virus isolates with the human.",
+            "The protein backbone was kept fully flexible and the number of the Monte carlo cycles was set to 100"
+        ],
+        "Results": [
+            "Sequence and phylogeny analysis<br/><br/>Phylogenetic analysis of the different RBD sequences revealed two well supported clades.",
+            "The MM-GBSA calculation allowed them to assign the contribution in the binding energy of each amino acid in the interface with hACE2",
+            "The authors carried this analysis using both sequences of the SARS-CoV-2 Wuhan-Hu-1.",
+            "F486, Y489, Q493, G496, T500 and N501 of SARS-CoV-2 RBD form the hotspots of the interface with hACE2 protein were investigated",
+            "All these amino acids form three patches of interaction spread along the linear interface segment (Figure 3C): two from the N and C termini and one central.",
+            "Considering both the enthalpy and the vibrational entropy in the calculation, the authors found no significant change in the interaction energy (> 1 or < 1 kcal/mol) (Figure 4)"
+        ],
+        "Conclusion": [
+            "Since the Covid-2019 outbreak, several milestone papers have been published to examine the particularity of SARS-CoV-2 spike protein and its putative interaction with ACE2 as a receptor [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>, <a class=\"ref-link\" id=\"c26\" href=\"#r26\">26</a>].",
+            "Bat-SL-CoVZC45 and Bat-SL-CoVZXC21, the authors expected a decrease of the binding energy through the evolution process following incremental changes in the RBD",
+            "In such a scenario, the authors presume that there are other intermediary forms of coronavirus that describe such variation of the binding energy to reach a level where the pathogen can cross the species barriers and infect humans with high affinity toward hACE2.",
+            "When the authors made the same analysis while mutating Q493 to N493, the favorable contribution decreases from -2.55 kcal/mol to a non significant value of -0.01 kcal/mol, supporting the claim"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Aloy_et+al_2003_a",
+            "entry": "1. P. Aloy, H. Ceulemans, A. Stark, and R. B. Russell. The relationship between sequence and interaction divergence in proteins. J. Mol. Biol., 332(5):989\u2013998, Oct 2003.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Aloy%2C%20P.%20Ceulemans%2C%20H.%20Stark%2C%20A.%20Russell%2C%20R.B.%20The%20relationship%20between%20sequence%20and%20interaction%20divergence%20in%20proteins%202003-10",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Aloy%2C%20P.%20Ceulemans%2C%20H.%20Stark%2C%20A.%20Russell%2C%20R.B.%20The%20relationship%20between%20sequence%20and%20interaction%20divergence%20in%20proteins%202003-10",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Aloy%2C%20P.%20Ceulemans%2C%20H.%20Stark%2C%20A.%20Russell%2C%20R.B.%20The%20relationship%20between%20sequence%20and%20interaction%20divergence%20in%20proteins%202003-10"
+        },
+        {
+            "id": "2",
+            "alt_id": "Chan_et+al_2020_a",
+            "entry": "2. J. F. Chan, S. Yuan, K. H. Kok, K. K. To, H. Chu, J. Yang, F. Xing, J. Liu, C. C. Yip, R. W. Poon, H. W. Tsoi, S. K. Lo, K. H. Chan, V. K. Poon, W. M. Chan, J. D. Ip, J. P. Cai, V. C. Cheng, H. Chen, C. K. Hui, and K. Y. Yuen. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet, 395(10223):514\u2013523, Feb 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20F%20Chan%20S%20Yuan%20K%20H%20Kok%20K%20K%20To%20H%20Chu%20J%20Yang%20F%20Xing%20J%20Liu%20C%20C%20Yip%20R%20W%20Poon%20H%20W%20Tsoi%20S%20K%20Lo%20K%20H%20Chan%20V%20K%20Poon%20W%20M%20Chan%20J%20D%20Ip%20J%20P%20Cai%20V%20C%20Cheng%20H%20Chen%20C%20K%20Hui%20and%20K%20Y%20Yuen%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%2039510223514523%20Feb%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J%20F%20Chan%20S%20Yuan%20K%20H%20Kok%20K%20K%20To%20H%20Chu%20J%20Yang%20F%20Xing%20J%20Liu%20C%20C%20Yip%20R%20W%20Poon%20H%20W%20Tsoi%20S%20K%20Lo%20K%20H%20Chan%20V%20K%20Poon%20W%20M%20Chan%20J%20D%20Ip%20J%20P%20Cai%20V%20C%20Cheng%20H%20Chen%20C%20K%20Hui%20and%20K%20Y%20Yuen%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%2039510223514523%20Feb%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J%20F%20Chan%20S%20Yuan%20K%20H%20Kok%20K%20K%20To%20H%20Chu%20J%20Yang%20F%20Xing%20J%20Liu%20C%20C%20Yip%20R%20W%20Poon%20H%20W%20Tsoi%20S%20K%20Lo%20K%20H%20Chan%20V%20K%20Poon%20W%20M%20Chan%20J%20D%20Ip%20J%20P%20Cai%20V%20C%20Cheng%20H%20Chen%20C%20K%20Hui%20and%20K%20Y%20Yuen%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%2039510223514523%20Feb%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Delgado_et+al_2019_a",
+            "entry": "3. J. Delgado, L. G. Radusky, D. Cianferoni, and L. Serrano. FoldX 5.0: working with RNA, small molecules and a new graphical interface. Bioinformatics, 35(20):4168\u20134169, Oct 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Delgado%2C%20J.%20Radusky%2C%20L.G.%20Cianferoni%2C%20D.%20Serrano%2C%20L.%20FoldX%205.0%3A%20working%20with%20RNA%2C%20small%20molecules%20and%20a%20new%20graphical%20interface%202019-10",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Delgado%2C%20J.%20Radusky%2C%20L.G.%20Cianferoni%2C%20D.%20Serrano%2C%20L.%20FoldX%205.0%3A%20working%20with%20RNA%2C%20small%20molecules%20and%20a%20new%20graphical%20interface%202019-10",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Delgado%2C%20J.%20Radusky%2C%20L.G.%20Cianferoni%2C%20D.%20Serrano%2C%20L.%20FoldX%205.0%3A%20working%20with%20RNA%2C%20small%20molecules%20and%20a%20new%20graphical%20interface%202019-10"
+        },
+        {
+            "id": "4",
+            "alt_id": "He_et+al_2019_a",
+            "entry": "4. J. He, H. Tao, Y. Yan, S.-Y. Huang, and Y. Xiao. Molecular mechanism of evolution and human infection with the novel coronavirus (2019-ncov). bioRxiv, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=He%2C%20J.%20Tao%2C%20H.%20Yan%2C%20Y.%20Huang%2C%20S.-Y.%20Molecular%20mechanism%20of%20evolution%20and%20human%20infection%20with%20the%20novel%20coronavirus%202019"
+        },
+        {
+            "id": "5",
+            "alt_id": "Janies_et+al_2008_a",
+            "entry": "5. D. Janies, F. Habib, B. Alexandrov, A. Hill, and D. Pol. Evolution of genomes, host shifts and the geographic spread of sars-cov and related coronaviruses. Cladistics, 24(2):111\u2013130, 2008.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Janies%2C%20D.%20Habib%2C%20F.%20Alexandrov%2C%20B.%20Hill%2C%20A.%20Evolution%20of%20genomes%2C%20host%20shifts%20and%20the%20geographic%20spread%20of%20sars-cov%20and%20related%20coronaviruses%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Janies%2C%20D.%20Habib%2C%20F.%20Alexandrov%2C%20B.%20Hill%2C%20A.%20Evolution%20of%20genomes%2C%20host%20shifts%20and%20the%20geographic%20spread%20of%20sars-cov%20and%20related%20coronaviruses%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Janies%2C%20D.%20Habib%2C%20F.%20Alexandrov%2C%20B.%20Hill%2C%20A.%20Evolution%20of%20genomes%2C%20host%20shifts%20and%20the%20geographic%20spread%20of%20sars-cov%20and%20related%20coronaviruses%202008"
+        },
+        {
+            "id": "6",
+            "alt_id": "Ji_et+al_2020_a",
+            "entry": "6. W. Ji, W. Wang, X. Zhao, J. Zai, and X. Li. Cross-species transmission of the newly identified coronavirus 2019-nCoV. J. Med. Virol., 92(4):433\u2013440, Apr 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=W%20Ji%20W%20Wang%20X%20Zhao%20J%20Zai%20and%20X%20Li%20Crossspecies%20transmission%20of%20the%20newly%20identified%20coronavirus%202019nCoV%20J%20Med%20Virol%20924433440%20Apr%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=W%20Ji%20W%20Wang%20X%20Zhao%20J%20Zai%20and%20X%20Li%20Crossspecies%20transmission%20of%20the%20newly%20identified%20coronavirus%202019nCoV%20J%20Med%20Virol%20924433440%20Apr%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=W%20Ji%20W%20Wang%20X%20Zhao%20J%20Zai%20and%20X%20Li%20Crossspecies%20transmission%20of%20the%20newly%20identified%20coronavirus%202019nCoV%20J%20Med%20Virol%20924433440%20Apr%202020"
+        },
+        {
+            "id": "7",
+            "alt_id": "K_2019_a",
+            "entry": "7. K. J. Karczewski, L. C. Francioli, G. Tiao, B. B. Cummings, J. Alfoldi, Q. Wang, R. L. Collins, K. M. Laricchia, A. Ganna, D. P. Birnbaum, L. D. Gauthier, H. Brand, M. Solomonson, N. A. Watts, D. Rhodes, M. Singer-Berk, E. M. England, E. G. Seaby, J. A. Kosmicki, R. K. Walters, K. Tashman, Y. Farjoun, E. Banks, T. Poterba, A. Wang, C. Seed, N. Whiffin, J. X. Chong, K. E. Samocha, E. Pierce-Hoffman, Z. Zappala, A. H. O\u2019Donnell-Luria, E. V. Minikel, B. Weisburd, M. Lek, J. S. Ware, C. Vittal, I. M. Armean, L. Bergelson, K. Cibulskis, K. M. Connolly, M. Covarrubias, S. Donnelly, S. Ferriera, S. Gabriel, J. Gentry, N. Gupta, T. Jeandet, D. Kaplan, C. Llanwarne, R. Munshi, S. Novod, N. Petrillo, D. Roazen, V. RuanoRubio, A. Saltzman, M. Schleicher, J. Soto, K. Tibbetts, C. Tolonen, G. Wade, M. E. Talkowski,, B. M. Neale, M. J. Daly, and D. G. MacArthur. Variation across 141,456 human exomes and genomes reveals the spectrum of loss-of-function intolerance across human protein-coding genes. bioRxiv, 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=K%20J%20Karczewski%20L%20C%20Francioli%20G%20Tiao%20B%20B%20Cummings%20J%20Alfoldi%20Q%20Wang%20R%20L%20Collins%20K%20M%20Laricchia%20A%20Ganna%20D%20P%20Birnbaum%20L%20D%20Gauthier%20H%20Brand%20M%20Solomonson%20N%20A%20Watts%20D%20Rhodes%20M%20SingerBerk%20E%20M%20England%20E%20G%20Seaby%20J%20A%20Kosmicki%20R%20K%20Walters%20K%20Tashman%20Y%20Farjoun%20E%20Banks%20T%20Poterba%20A%20Wang%20C%20Seed%20N%20Whiffin%20J%20X%20Chong%20K%20E%20Samocha%20E%20PierceHoffman%20Z%20Zappala%20A%20H%20ODonnellLuria%20E%20V%20Minikel%20B%20Weisburd%20M%20Lek%20J%20S%20Ware%20C%20Vittal%20I%20M%20Armean%20L%20Bergelson%20K%20Cibulskis%20K%20M%20Connolly%20M%20Covarrubias%20S%20Donnelly%20S%20Ferriera%20S%20Gabriel%20J%20Gentry%20N%20Gupta%20T%20Jeandet%20D%20Kaplan%20C%20Llanwarne%20R%20Munshi%20S%20Novod%20N%20Petrillo%20D%20Roazen%20V%20RuanoRubio%20A%20Saltzman%20M%20Schleicher%20J%20Soto%20K%20Tibbetts%20C%20Tolonen%20G%20Wade%20M%20E%20Talkowski%20B%20M%20Neale%20M%20J%20Daly%20and%20D%20G%20MacArthur%20Variation%20across%20141456%20human%20exomes%20and%20genomes%20reveals%20the%20spectrum%20of%20lossoffunction%20intolerance%20across%20human%20proteincoding%20genes%20bioRxiv%202019"
+        },
+        {
+            "id": "8",
+            "alt_id": "Katoh_et+al_2019_a",
+            "entry": "8. K. Katoh, J. Rozewicki, and K. D. Yamada. MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization. Brief. Bioinformatics, 20(4):1160\u20131166, 07 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Katoh%2C%20K.%20Rozewicki%2C%20J.%20Yamada%2C%20K.D.%20MAFFT%20online%20service%3A%20multiple%20sequence%20alignment%2C%20interactive%20sequence%20choice%20and%20visualization%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Katoh%2C%20K.%20Rozewicki%2C%20J.%20Yamada%2C%20K.D.%20MAFFT%20online%20service%3A%20multiple%20sequence%20alignment%2C%20interactive%20sequence%20choice%20and%20visualization%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Katoh%2C%20K.%20Rozewicki%2C%20J.%20Yamada%2C%20K.D.%20MAFFT%20online%20service%3A%20multiple%20sequence%20alignment%2C%20interactive%20sequence%20choice%20and%20visualization%202019"
+        },
+        {
+            "id": "9",
+            "alt_id": "Kaytes_et+al_1988_a",
+            "entry": "9. P. Kaytes, L. Wood, N. Theriault, M. Kurkinen, and G. Vogeli. Head-to-head arrangement of murine type IV collagen genes. J. Biol. Chem., 263(36):19274\u201319277, Dec 1988.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kaytes%2C%20P.%20Wood%2C%20L.%20Theriault%2C%20N.%20Kurkinen%2C%20M.%20Head-to-head%20arrangement%20of%20murine%20type%20IV%20collagen%20genes%201988-12",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kaytes%2C%20P.%20Wood%2C%20L.%20Theriault%2C%20N.%20Kurkinen%2C%20M.%20Head-to-head%20arrangement%20of%20murine%20type%20IV%20collagen%20genes%201988-12",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kaytes%2C%20P.%20Wood%2C%20L.%20Theriault%2C%20N.%20Kurkinen%2C%20M.%20Head-to-head%20arrangement%20of%20murine%20type%20IV%20collagen%20genes%201988-12"
+        },
+        {
+            "id": "10",
+            "alt_id": "Kundrotas_et+al_2012_a",
+            "entry": "10. P. J. Kundrotas, Z. Zhu, J. Janin, and I. A. Vakser. Templates are available to model nearly all complexes of structurally characterized proteins. Proc. Natl. Acad. Sci. U.S.A., 109(24):9438\u20139441, Jun 2012.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kundrotas%2C%20P.J.%20Zhu%2C%20Z.%20Janin%2C%20J.%20Vakser%2C%20I.A.%20Templates%20are%20available%20to%20model%20nearly%20all%20complexes%20of%20structurally%20characterized%20proteins%202012-06",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kundrotas%2C%20P.J.%20Zhu%2C%20Z.%20Janin%2C%20J.%20Vakser%2C%20I.A.%20Templates%20are%20available%20to%20model%20nearly%20all%20complexes%20of%20structurally%20characterized%20proteins%202012-06",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kundrotas%2C%20P.J.%20Zhu%2C%20Z.%20Janin%2C%20J.%20Vakser%2C%20I.A.%20Templates%20are%20available%20to%20model%20nearly%20all%20complexes%20of%20structurally%20characterized%20proteins%202012-06"
+        },
+        {
+            "id": "11",
+            "alt_id": "Kurcinski_et+al_2019_a",
+            "entry": "11. M. Kurcinski, T. Oleniecki, M. P. Ciemny, A. Kuriata, A. Kolinski, and S. Kmiecik. CABS-flex standalone: a simulation environment for fast modeling of protein flexibility. Bioinformatics, 35(4):694\u2013695, 02 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kurcinski%2C%20M.%20Oleniecki%2C%20T.%20Ciemny%2C%20M.P.%20Kuriata%2C%20A.%20CABS-flex%20standalone%3A%20a%20simulation%20environment%20for%20fast%20modeling%20of%20protein%20flexibility%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kurcinski%2C%20M.%20Oleniecki%2C%20T.%20Ciemny%2C%20M.P.%20Kuriata%2C%20A.%20CABS-flex%20standalone%3A%20a%20simulation%20environment%20for%20fast%20modeling%20of%20protein%20flexibility%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kurcinski%2C%20M.%20Oleniecki%2C%20T.%20Ciemny%2C%20M.P.%20Kuriata%2C%20A.%20CABS-flex%20standalone%3A%20a%20simulation%20environment%20for%20fast%20modeling%20of%20protein%20flexibility%202019"
+        },
+        {
+            "id": "12",
+            "alt_id": "Lan_et+al_2020_a",
+            "entry": "12. J. Lan, J. Ge, J. Yu, S. Shan, H. Zhou, S. Fan, Q. Zhang, X. Shi, Q. Wang, L. Zhang, and X. Wang. Crystal structure of the 2019-ncov spike receptor-binding domain bound with the ace2 receptor. bioRxiv, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20Lan%20J%20Ge%20J%20Yu%20S%20Shan%20H%20Zhou%20S%20Fan%20Q%20Zhang%20X%20Shi%20Q%20Wang%20L%20Zhang%20and%20X%20Wang%20Crystal%20structure%20of%20the%202019ncov%20spike%20receptorbinding%20domain%20bound%20with%20the%20ace2%20receptor%20bioRxiv%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Letunic_2019_a",
+            "entry": "13. I. Letunic and P. Bork. Interactive Tree Of Life (iTOL) v4: recent updates and new developments. Nucleic Acids Res., 47(W1):W256\u2013 W259, Jul 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Letunic%2C%20I.%20Bork%2C%20P.%20Interactive%20Tree%20Of%20Life%20%28iTOL%29%20v4%3A%20recent%20updates%20and%20new%20developments%202019-07",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Letunic%2C%20I.%20Bork%2C%20P.%20Interactive%20Tree%20Of%20Life%20%28iTOL%29%20v4%3A%20recent%20updates%20and%20new%20developments%202019-07",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Letunic%2C%20I.%20Bork%2C%20P.%20Interactive%20Tree%20Of%20Life%20%28iTOL%29%20v4%3A%20recent%20updates%20and%20new%20developments%202019-07"
+        },
+        {
+            "id": "14",
+            "alt_id": "Lu_et+al_2020_a",
+            "entry": "14. R. Lu, X. Zhao, J. Li, P. Niu, B. Yang, H. Wu, W. Wang, H. Song, B. Huang, N. Zhu, Y. Bi, X. Ma, F. Zhan, L. Wang, T. Hu, H. Zhou, Z. Hu, W. Zhou, L. Zhao, J. Chen, Y. Meng, J. Wang, Y. Lin, J. Yuan, Z. Xie, J. Ma, W. J. Liu, D. Wang, W. Xu, E. C. Holmes, G. F. Gao, G. Wu, W. Chen, W. Shi, and W. Tan. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet, 395(10224):565\u2013574, Feb 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=R%20Lu%20X%20Zhao%20J%20Li%20P%20Niu%20B%20Yang%20H%20Wu%20W%20Wang%20H%20Song%20B%20Huang%20N%20Zhu%20Y%20Bi%20X%20Ma%20F%20Zhan%20L%20Wang%20T%20Hu%20H%20Zhou%20Z%20Hu%20W%20Zhou%20L%20Zhao%20J%20Chen%20Y%20Meng%20J%20Wang%20Y%20Lin%20J%20Yuan%20Z%20Xie%20J%20Ma%20W%20J%20Liu%20D%20Wang%20W%20Xu%20E%20C%20Holmes%20G%20F%20Gao%20G%20Wu%20W%20Chen%20W%20Shi%20and%20W%20Tan%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20Lancet%2039510224565574%20Feb%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=R%20Lu%20X%20Zhao%20J%20Li%20P%20Niu%20B%20Yang%20H%20Wu%20W%20Wang%20H%20Song%20B%20Huang%20N%20Zhu%20Y%20Bi%20X%20Ma%20F%20Zhan%20L%20Wang%20T%20Hu%20H%20Zhou%20Z%20Hu%20W%20Zhou%20L%20Zhao%20J%20Chen%20Y%20Meng%20J%20Wang%20Y%20Lin%20J%20Yuan%20Z%20Xie%20J%20Ma%20W%20J%20Liu%20D%20Wang%20W%20Xu%20E%20C%20Holmes%20G%20F%20Gao%20G%20Wu%20W%20Chen%20W%20Shi%20and%20W%20Tan%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20Lancet%2039510224565574%20Feb%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=R%20Lu%20X%20Zhao%20J%20Li%20P%20Niu%20B%20Yang%20H%20Wu%20W%20Wang%20H%20Song%20B%20Huang%20N%20Zhu%20Y%20Bi%20X%20Ma%20F%20Zhan%20L%20Wang%20T%20Hu%20H%20Zhou%20Z%20Hu%20W%20Zhou%20L%20Zhao%20J%20Chen%20Y%20Meng%20J%20Wang%20Y%20Lin%20J%20Yuan%20Z%20Xie%20J%20Ma%20W%20J%20Liu%20D%20Wang%20W%20Xu%20E%20C%20Holmes%20G%20F%20Gao%20G%20Wu%20W%20Chen%20W%20Shi%20and%20W%20Tan%20Genomic%20characterisation%20and%20epidemiology%20of%202019%20novel%20coronavirus%20implications%20for%20virus%20origins%20and%20receptor%20binding%20Lancet%2039510224565574%20Feb%202020"
+        },
+        {
+            "id": "15",
+            "alt_id": "Paraskevis_et+al_2019_a",
+            "entry": "15. D. Paraskevis, E. G. Kostaki, G. Magiorkinis, G. Panayiotakopoulos, G. Sourvinos, and S. Tsiodras. Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event. Infect. Genet. Evol., 79:104212, Apr 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Paraskevis%2C%20D.%20Kostaki%2C%20E.G.%20Magiorkinis%2C%20G.%20Panayiotakopoulos%2C%20G.%20Full-genome%20evolutionary%20analysis%20of%20the%20novel%20corona%20virus%202019-04",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Paraskevis%2C%20D.%20Kostaki%2C%20E.G.%20Magiorkinis%2C%20G.%20Panayiotakopoulos%2C%20G.%20Full-genome%20evolutionary%20analysis%20of%20the%20novel%20corona%20virus%202019-04",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Paraskevis%2C%20D.%20Kostaki%2C%20E.G.%20Magiorkinis%2C%20G.%20Panayiotakopoulos%2C%20G.%20Full-genome%20evolutionary%20analysis%20of%20the%20novel%20corona%20virus%202019-04"
+        },
+        {
+            "id": "16",
+            "alt_id": "Rice_et+al_2000_a",
+            "entry": "16. P. Rice, I. Longden, and A. Bleasby. EMBOSS: the European Molecular Biology Open Software Suite. Trends Genet., 16(6):276\u2013277, Jun 2000.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rice%2C%20P.%20Longden%2C%20I.%20Bleasby%2C%20A.%20EMBOSS%3A%20the%20European%20Molecular%20Biology%20Open%20Software%20Suite%202000-06",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rice%2C%20P.%20Longden%2C%20I.%20Bleasby%2C%20A.%20EMBOSS%3A%20the%20European%20Molecular%20Biology%20Open%20Software%20Suite%202000-06",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rice%2C%20P.%20Longden%2C%20I.%20Bleasby%2C%20A.%20EMBOSS%3A%20the%20European%20Molecular%20Biology%20Open%20Software%20Suite%202000-06"
+        },
+        {
+            "id": "17",
+            "alt_id": "Rodrigues_et+al_2018_a",
+            "entry": "17. C. H. Rodrigues, D. E. Pires, and D. B. Ascher. DynaMut: predicting the impact of mutations on protein conformation, flexibility and stability. Nucleic Acids Res., 46(W1):W350\u2013W355, 07 2018.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rodrigues%2C%20C.H.%20Pires%2C%20D.E.%20Ascher%2C%20D.B.%20DynaMut%3A%20predicting%20the%20impact%20of%20mutations%20on%20protein%20conformation%2C%20flexibility%20and%20stability%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rodrigues%2C%20C.H.%20Pires%2C%20D.E.%20Ascher%2C%20D.B.%20DynaMut%3A%20predicting%20the%20impact%20of%20mutations%20on%20protein%20conformation%2C%20flexibility%20and%20stability%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rodrigues%2C%20C.H.%20Pires%2C%20D.E.%20Ascher%2C%20D.B.%20DynaMut%3A%20predicting%20the%20impact%20of%20mutations%20on%20protein%20conformation%2C%20flexibility%20and%20stability%202018"
+        },
+        {
+            "id": "18",
+            "alt_id": "Sali_1993_a",
+            "entry": "18. A. Sali and T. L. Blundell. Comparative protein modelling by satisfaction of spatial restraints. J. Mol. Biol., 234(3):779\u2013815, Dec 1993.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Sali%2C%20A.%20Blundell%2C%20T.L.%20Comparative%20protein%20modelling%20by%20satisfaction%20of%20spatial%20restraints%201993-12",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Sali%2C%20A.%20Blundell%2C%20T.L.%20Comparative%20protein%20modelling%20by%20satisfaction%20of%20spatial%20restraints%201993-12",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Sali%2C%20A.%20Blundell%2C%20T.L.%20Comparative%20protein%20modelling%20by%20satisfaction%20of%20spatial%20restraints%201993-12"
+        },
+        {
+            "id": "19",
+            "alt_id": "Shen_2006_a",
+            "entry": "19. M. Y. Shen and A. Sali. Statistical potential for assessment and prediction of protein structures. Protein Sci., 15(11):2507\u20132524, Nov 2006.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shen%2C%20M.Y.%20Sali%2C%20A.%20Statistical%20potential%20for%20assessment%20and%20prediction%20of%20protein%20structures%202006-11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shen%2C%20M.Y.%20Sali%2C%20A.%20Statistical%20potential%20for%20assessment%20and%20prediction%20of%20protein%20structures%202006-11",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shen%2C%20M.Y.%20Sali%2C%20A.%20Statistical%20potential%20for%20assessment%20and%20prediction%20of%20protein%20structures%202006-11"
+        },
+        {
+            "id": "20",
+            "alt_id": "Shi_2008_a",
+            "entry": "20. Z. Shi and Z. Hu. A review of studies on animal reservoirs of the SARS coronavirus. Virus Res., 133(1):74\u201387, Apr 2008.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shi%2C%20Z.%20Hu%2C%20Z.%20A%20review%20of%20studies%20on%20animal%20reservoirs%20of%20the%20SARS%20coronavirus%202008-04",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shi%2C%20Z.%20Hu%2C%20Z.%20A%20review%20of%20studies%20on%20animal%20reservoirs%20of%20the%20SARS%20coronavirus%202008-04",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shi%2C%20Z.%20Hu%2C%20Z.%20A%20review%20of%20studies%20on%20animal%20reservoirs%20of%20the%20SARS%20coronavirus%202008-04"
+        },
+        {
+            "id": "21",
+            "alt_id": "Tamura_et+al_2013_a",
+            "entry": "21. K. Tamura, G. Stecher, D. Peterson, A. Filipski, and S. Kumar. MEGA6: Molecular Evolutionary Genetics Analysis version 6.0. Mol. Biol. Evol., 30(12):2725\u20132729, Dec 2013.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tamura%2C%20K.%20Stecher%2C%20G.%20Peterson%2C%20D.%20Filipski%2C%20A.%20MEGA6%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20version%206.0%202013-12",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tamura%2C%20K.%20Stecher%2C%20G.%20Peterson%2C%20D.%20Filipski%2C%20A.%20MEGA6%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20version%206.0%202013-12",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tamura%2C%20K.%20Stecher%2C%20G.%20Peterson%2C%20D.%20Filipski%2C%20A.%20MEGA6%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20version%206.0%202013-12"
+        },
+        {
+            "id": "22",
+            "alt_id": "Wan_et+al_2020_a",
+            "entry": "22. Y. Wan, J. Shang, R. Graham, R. S. Baric, and F. Li. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J. Virol., Jan 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Baric%2C%20R.S.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS%202020-01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Baric%2C%20R.S.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS%202020-01",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wan%2C%20Y.%20Shang%2C%20J.%20Graham%2C%20R.%20Baric%2C%20R.S.%20Receptor%20recognition%20by%20novel%20coronavirus%20from%20Wuhan%3A%20An%20analysis%20based%20on%20decade-long%20structural%20studies%20of%20SARS%202020-01"
+        },
+        {
+            "id": "23",
+            "alt_id": "Weng_et+al_2019_a",
+            "entry": "23. G. Weng, E. Wang, Z. Wang, H. Liu, F. Zhu, D. Li, and T. Hou. HawkDock: a web server to predict and analyze the protein-protein complex based on computational docking and MM/GBSA. Nucleic Acids Res., 47(W1):W322\u2013W330, Jul 2019.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Weng%2C%20G.%20Wang%2C%20E.%20Wang%2C%20Z.%20Liu%2C%20H.%20HawkDock%3A%20a%20web%20server%20to%20predict%20and%20analyze%20the%20protein-protein%20complex%20based%20on%20computational%20docking%20and%20MM/GBSA%202019-07",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Weng%2C%20G.%20Wang%2C%20E.%20Wang%2C%20Z.%20Liu%2C%20H.%20HawkDock%3A%20a%20web%20server%20to%20predict%20and%20analyze%20the%20protein-protein%20complex%20based%20on%20computational%20docking%20and%20MM/GBSA%202019-07",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Weng%2C%20G.%20Wang%2C%20E.%20Wang%2C%20Z.%20Liu%2C%20H.%20HawkDock%3A%20a%20web%20server%20to%20predict%20and%20analyze%20the%20protein-protein%20complex%20based%20on%20computational%20docking%20and%20MM/GBSA%202019-07"
+        },
+        {
+            "id": "24",
+            "alt_id": "Whelan_2001_a",
+            "entry": "24. S. Whelan and N. Goldman. A General Empirical Model of Protein Evolution Derived from Multiple Protein Families Using a MaximumLikelihood Approach. Molecular Biology and Evolution, 18(5):691\u2013 699, 05 2001.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Whelan%2C%20S.%20Goldman%2C%20N.%20A%20General%20Empirical%20Model%20of%20Protein%20Evolution%20Derived%20from%20Multiple%20Protein%20Families%20Using%20a%20MaximumLikelihood%20Approach%202001",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Whelan%2C%20S.%20Goldman%2C%20N.%20A%20General%20Empirical%20Model%20of%20Protein%20Evolution%20Derived%20from%20Multiple%20Protein%20Families%20Using%20a%20MaximumLikelihood%20Approach%202001",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Whelan%2C%20S.%20Goldman%2C%20N.%20A%20General%20Empirical%20Model%20of%20Protein%20Evolution%20Derived%20from%20Multiple%20Protein%20Families%20Using%20a%20MaximumLikelihood%20Approach%202001"
+        },
+        {
+            "id": "25",
+            "alt_id": "Wrapp_et+al_2020_a",
+            "entry": "25. D. Wrapp, N. Wang, K. S. Corbett, J. A. Goldsmith, C. L. Hsieh, O. Abiona, B. S. Graham, and J. S. McLellan. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, Feb 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=D%20Wrapp%20N%20Wang%20K%20S%20Corbett%20J%20A%20Goldsmith%20C%20L%20Hsieh%20O%20Abiona%20B%20S%20Graham%20and%20J%20S%20McLellan%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%20Feb%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=D%20Wrapp%20N%20Wang%20K%20S%20Corbett%20J%20A%20Goldsmith%20C%20L%20Hsieh%20O%20Abiona%20B%20S%20Graham%20and%20J%20S%20McLellan%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%20Feb%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=D%20Wrapp%20N%20Wang%20K%20S%20Corbett%20J%20A%20Goldsmith%20C%20L%20Hsieh%20O%20Abiona%20B%20S%20Graham%20and%20J%20S%20McLellan%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20conformation%20Science%20Feb%202020"
+        },
+        {
+            "id": "26",
+            "alt_id": "Xu_et+al_2020_a",
+            "entry": "26. X. Xu, P. Chen, J. Wang, J. Feng, H. Zhou, X. Li, W. Zhong, and P. Hao. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci, 63(3):457\u2013460, Mar 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xu%2C%20X.%20Chen%2C%20P.%20Wang%2C%20J.%20Feng%2C%20J.%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission%202020-03",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xu%2C%20X.%20Chen%2C%20P.%20Wang%2C%20J.%20Feng%2C%20J.%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission%202020-03",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xu%2C%20X.%20Chen%2C%20P.%20Wang%2C%20J.%20Feng%2C%20J.%20Evolution%20of%20the%20novel%20coronavirus%20from%20the%20ongoing%20Wuhan%20outbreak%20and%20modeling%20of%20its%20spike%20protein%20for%20risk%20of%20human%20transmission%202020-03"
+        },
+        {
+            "id": "27",
+            "alt_id": "Xue_et+al_2016_a",
+            "entry": "27. L. C. Xue, J. P. Rodrigues, P. L. Kastritis, A. M. Bonvin, and A. Vangone. PRODIGY: a web server for predicting the binding affinity of protein-protein complexes. Bioinformatics, 32(23):3676\u2013 3678, 12 2016.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xue%2C%20L.C.%20Rodrigues%2C%20J.P.%20Kastritis%2C%20P.L.%20Bonvin%2C%20A.M.%20PRODIGY%3A%20a%20web%20server%20for%20predicting%20the%20binding%20affinity%20of%20protein-protein%20complexes%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xue%2C%20L.C.%20Rodrigues%2C%20J.P.%20Kastritis%2C%20P.L.%20Bonvin%2C%20A.M.%20PRODIGY%3A%20a%20web%20server%20for%20predicting%20the%20binding%20affinity%20of%20protein-protein%20complexes%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xue%2C%20L.C.%20Rodrigues%2C%20J.P.%20Kastritis%2C%20P.L.%20Bonvin%2C%20A.M.%20PRODIGY%3A%20a%20web%20server%20for%20predicting%20the%20binding%20affinity%20of%20protein-protein%20complexes%202016"
+        },
+        {
+            "id": "28",
+            "alt_id": "Yan_et+al_2020_a",
+            "entry": "28. R. Yan, Y. Zhang, Y. Guo, L. Xia, and Q. Zhou. Structural basis for the recognition of the 2019-ncov by human ace2. bioRxiv, 2020. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=R%20Yan%20Y%20Zhang%20Y%20Guo%20L%20Xia%20and%20Q%20Zhou%20Structural%20basis%20for%20the%20recognition%20of%20the%202019ncov%20by%20human%20ace2%20bioRxiv%202020"
+        }
+    ],
+    "facts": [
+        "The spread of the COVID-19 caused by the SARS-CoV-2 outbreak has been growing since its first identification",
+        "The publishing of the first SARS-CoV-2 genome made a valuable source of data to study the details about its phylogeny",
+        "Proteinprotein binding assays have confirmed that Angiotensin-converting enzyme 2 is more likely to be the cell receptor",
+        "an insight into the interaction of the viral spike Receptor Binding Domain from different coronavirus isolates with host ACE2 protein",
+        "The coronavirus SARS-CoV-2 has been associated with the recent epidemic of acute respiratory distress syndrome",
+        "Recent studies have suggested that the virus binds to the ACE2 receptor",
+        "whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor",
+        "SARS-CoV-RBD toward different ACE2 homologous proteins from different species is dictated by a divergent interface sequences",
+        "a different binding property compared to the reference allele",
+        "GeneBank corresponding to the following accessions",
+        "MN996532.1 in addition to Wuhan seafood market pneumonia virus commonly known as SARS-CoV-2",
+        "The sequences of the surface glycoprotein were extracted from the Coding",
+        "Human variants of the ACE2 gene were collected from the gnomAD database",
+        "Only variants that map to the protein coding region",
+        "to the interface of interaction with the RBD of the spike protein were retained for further analyses",
+        "the best site model based on lowest Bayesian Information Criterion calculated using model selection tool implemented in",
+        "General Time Reversible model was chosen as the best fitting model for nucleotide substitution",
+        "MEGA 6 software based on the lowest Bayesian Information criterion",
+        "The resulting phylogenetic tree was edited with iTOL",
+        "The co-crystal structure of the spike protein of SARS coronavirus complexed to human human-civet chimeric receptor ACE2 was solved at",
+        "this structure as a template to build the complex of spike protein from different virus isolates with the human",
+        "The Calculation of contribution of each amino acid in a protein partner was computed with MM-GBSA method implemented in the",
+        "These three isolates are closely related to SARS-CoV-2",
+        "by the phylogenetic tree constructed from the entire genome",
+        "the RBD segment corresponding to the interface residues with",
+        "a linear sequence spanning from residue N481 to N501",
+        "Multiple sequence alignment showed that the interface segment of SARSCoV-2 shares higher similarity",
+        "P499 are exclusively similar to their equivalent amino acids in sequences",
+        "SARS-CoV-2 interface sequence is closely related to Bat-CovRaTG13 sequence",
+        "clinically relevant Coronavirus isolates with the human receptor",
+        "RBDs from the different isolates included in this study",
+        "discontinuous lines shows the equivalent taxon between each tree",
+        "Blocks in red indicate the residues with similar biochemical properties to the positions",
+        "the interaction of the RBD which was shown to be implicated in the physical interaction with ACE2 receptor",
+        "any of the orthologous ACE2 sequences do not fall below 63% compared to their respective templates",
+        "The binding energies are converted to dissociation constant estimations",
+        "the other estimations fall below 18 nM. The interaction",
+        "Binding energies were converted to Kd values calculated for spike",
+        "Dissociation constant estimation calculated between SARS-CoV-2 RBD",
+        "this analysis to investigate the tendency of SARS-CoV-2",
+        "SARS-CoV to interact with different orthologous forms of ACE2",
+        "which is dictated by the divergence in their interacting surfaces",
+        "the Kd are relatively low for the rat and bat forms interacting with",
+        "ACE2 is more favorable for SARS-CoV-2 isolate since the estimated",
+        "Kd is folds lesser compared to SARS-CoV-2",
+        "this analysis using both sequences of the SARS-CoV-2 Wuhan-Hu-1",
+        "N501 of SARS-CoV-2 RBD form the hotspots of the interface with hACE2 protein were investigated",
+        "focused our analysis on the interface segments of SARS-CoV-2 spike RBD interacting with ACE2 from different species",
+        "if ACE2 is the only route for the infection in humans",
+        "likely to disrupt the formation of the complex",
+        "this analysis merits to be investigated in depth in different ethnic groups",
+        "The binding of SARS-CoV-2 RBD to different forms of ACE2 shows similar values compared to SARS-CoV",
+        "which is in agreement with the ability",
+        "no reported cases of SARS-CoV isolated from chicken",
+        "while Kd is high for SARS-CoV",
+        "RBD interacting with porcine ACE2",
+        "the infection including the implication of different receptors",
+        "whole-genome phylogenetic analysis of the different isolates included in this study is consistent with previous works",
+        "comprises SARS-CoV related homologs including isolates from Bat",
+        "The clade swapping as seen in figure 1A",
+        "for RaTG13 and Rm1 isolated from bat",
+        "as the use of different phylogenetic markers may considerably affect the topology of the tree",
+        "The binding of the spike glycoprotein to ACE2 receptor requires a certain level of affinity",
+        "our results show that the binding energy",
+        "RBD are closer to SARS-CoV related isolates",
+        "the spike protein that might have occurred between SARS-CoV",
+        "for the virus to acquire a minimum set of residues for the interaction",
+        "The recombination in the spike protein gene has been previously suggested by Wei et al in their phylogenetic analysis",
+        "incremental changes in the binding interface segment will occur in order to reach a better affinity toward the receptor",
+        "the residue Q493 might be responsible for such higher affinity",
+        "three patches of interaction spread along the linear interface segment",
+        "Our results show that the mutation caused a significant decrease in stability",
+        "for nine residues of the interface corresponding to segment 482-491"
+    ],
+    "claims": [
+        "In the present work, we provide an insight into the interaction of the viral spike Receptor Binding Domain (RBD) from different coronavirus isolates with host ACE2 protein",
+        "In this work, we focused our analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the ACE2 receptor; (2) How the affinity of SARS-COV-2-RBD and",
+        "In our study, we only modeled the interaction of the RBD",
+        "Our results show that the mutation caused a significant decrease in stability for nine residues of the interface corresponding to segment 482-491 (Figure 3E)",
+        "Considering both the enthalpy (ddG) and the vibrational entropy in our calculation (ddS), we found no significant change in the interaction energy",
+        "In the current study, we focused our analysis on the interface segments of SARS-CoV-2 spike RBD",
+        "We have studied the effect of eight variants of ACE2 in order to detect polymorphisms that may increase or decrease the virulence in the host",
+        "On the other hand, our results show that the binding energy and the interface sequence of SARS-CoV-2"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "We focused our analysis on the interface residues to get insight into four main subjects: (1) The architecture of the interface of the spike protein and whether its evolution in many isolates supports an increase in affinity toward the Angiotensin-converting enzyme 2 receptor; (2) How the affinity of SARS-COV-2-Receptor Binding Domain and",
+        "SARS-CoV-Receptor Binding Domain toward different Angiotensin-converting enzyme 2 homologous proteins from different species is dictated by a divergent interface sequences (3); A comparison of the interaction hotspots between SARS-CoV and SARS-CoV-2; and (4) whether any of the studied Angiotensin-converting enzyme 2 variants may show a different binding property compared to the reference allele",
+        "Variants that map to the protein coding region and belonging to the interface of interaction with the Receptor Binding Domain of the spike protein were retained for further analyses",
+        "Clade 1 includes Rm1 isolate, Bat-SL-CoVZC45 and Bat-SL-CoVZXC21. These three isolates are closely related to SARS-CoV-2 as revealed by the phylogenetic tree constructed from the entire genome (Figure 1A)",
+        "The exact tree topology is reproduced when we used only the Receptor Binding Domain segment corresponding to the interface residues with hACE2",
+        "Multiple sequence alignment showed that the interface segment of SARSCoV-2 shares higher similarity to sequences from clade 2 (Figure 1B)",
+        "SARS-CoV-2 interface sequence is closely related to Bat-CovRaTG13 sequence, isolated from a Rhinolophus affinis bat",
+        "Receptor Binding Domain from the different isolates included in this study. (A) Phylogeny trees are opposed to each other to show the clade discrepancies and discontinuous lines shows the equivalent taxon between each tree. (B) Multiple sequence alignment of the interface residues of Receptor Binding Domain",
+        "The red spheres are the interface residues of the Receptor Binding Domain. (B) Binding energies were converted to Kd values calculated for spike Receptor Binding Domain from different coronavirus isolates interacting with hACE2. (C) Dissociation constant estimation calculated between SARS-CoV-2 Receptor Binding Domain and homologous Angiotensin-converting enzyme 2 from different model animals",
+        "SARS-CoV to interact with different orthologous forms of Angiotensin-converting enzyme 2 which is dictated by the divergence in their interacting surfaces",
+        "The Kd are relatively low for the rat and bat forms interacting with SARS-CoV Receptor Binding Domain, those of SARS-CoV-2 are high and go beyond 50 nM",
+        "Angiotensin-converting enzyme 2 is more favorable for SARS-CoV-2 isolate since the estimated Kd is folds lesser compared to SARS-CoV-2",
+        "F486, Y489, Q493, G496, T500 and N501 of SARS-CoV-2 Receptor Binding Domain form the hotspots of the interface with hACE2 protein were investigated",
+        "All these amino acids form three patches of interaction spread along the linear interface segment (Figure 3C): two from the N and C",
+        "Our results show that the mutation caused a significant decrease in stability for nine residues of the interface corresponding to segment 482-491 (Figure 3E)",
+        "We focused our analysis on the interface segments of SARS-CoV-2 spike Receptor Binding Domain",
+        "We have studied the effect of eight variants of Angiotensin-converting enzyme 2 in order to detect polymorphisms that may increase or decrease the virulence in the host",
+        "We concluded that if Angiotensin-converting enzyme 2 is the only route for the infection in humans, variants interacting physically with Receptor Binding Domain are not likely to disrupt the formation of the complex and would have a marginal effect on the affinity",
+        "Is unlikely that any form of resistance to the virus, related to the Angiotensin-converting enzyme 2 gene, exists. This analysis merits to be investigated in depth in different ethnic groups for a better assessment of the contribution of genetic variability in host-pathogen interaction",
+        "Receptor Binding Domain interacting with porcine Angiotensin-converting enzyme 2, there are only few reported cases of such type [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]",
+        "The use of Receptor Binding Domain sequences, places the virus in a clade that comprises SARS-CoV related homologs including isolates from Bat and Civet",
+        "The binding of the spike glycoprotein to Angiotensin-converting enzyme 2 receptor requires a certain level of affinity",
+        "Our results show that the binding energy and the interface sequence of SARS-CoV-2",
+        "Receptor Binding Domain are closer to SARS-CoV related isolates",
+        "A recombination event involving the spike protein that might have occurred between SARS-CoV and an ancestral form of the current SARS-CoV-2 virus might be possible",
+        "The recombination in the spike protein gene has been previously suggested by Wei et al in their phylogenetic analysis [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]",
+        "Thereafter, incremental changes in the binding interface segment will occur in order to reach a better affinity toward the receptor",
+        "The residue Q493 might be responsible for such higher affinity due to a better satisfaction of the Van der Waals by the longer polar side chain of asparagine"
+    ],
+    "top_statements": [
+        "The coronavirus SARS-CoV-2 has been associated with the recent epidemic of acute respiratory distress syndrome [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]",
+        "The red spheres are the interface residues of the Receptor Binding Domain. (B) Binding energies were converted to Kd values calculated for spike Receptor Binding Domain from different coronavirus isolates interacting with hACE2. (C) Dissociation constant estimation calculated between SARS-CoV-2 Receptor Binding Domain and homologous Angiotensin-converting enzyme 2 from different model animals",
+        "Angiotensin-converting enzyme 2 is more favorable for SARS-CoV-2 isolate since the estimated Kd is folds lesser compared to SARS-CoV-2",
+        "We have studied the effect of eight variants of Angiotensin-converting enzyme 2 in order to detect polymorphisms that may increase or decrease the virulence in the host",
+        "We concluded that if Angiotensin-converting enzyme 2 is the only route for the infection in humans, variants interacting physically with Receptor Binding Domain are not likely to disrupt the formation of the complex and would have a marginal effect on the affinity",
+        "Receptor Binding Domain interacting with porcine Angiotensin-converting enzyme 2, there are only few reported cases of such type [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]"
+    ],
+    "headline": "We concluded that if Angiotensin-converting enzyme 2 is the only route for the infection in humans, variants interacting physically with Receptor Binding Domain are not likely to disrupt the formation of the complex and would have a marginal effect on the affinity",
+    "contexts": [],
+    "abbreviations": {
+        "ACE2": "Angiotensin-converting enzyme 2",
+        "RBD": "Receptor Binding Domain",
+        "GTR": "General Time Reversible",
+        "BIC": "Bayesian Information criterion",
+        "ML": "maximum likelihood",
+        "SP": "spike protein",
+        "RMSF": "Root Mean Square Fluctuation"
+    }
+}

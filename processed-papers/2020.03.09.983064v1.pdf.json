@@ -1,0 +1,648 @@
+{
+    "filename": "2020.03.09.983064v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 1718395,
+    "metadata": {
+        "title": "Development of Reverse Transcription Loop-mediated Isothermal Amplification (RT-LAMP) Assays Targeting SARS-CoV-2",
+        "author": "Gun-Soo Park, Keunbon Ku, Seung-Hwa Beak, Seong Jun Kim, Seung Il Kim, Bum-Tae Kim, Jin-Soo Maeng, 2",
+        "date": 2020,
+        "affiliations": [
+            "Center for Convergent Research of Emerging Virus Infection, Korea Research Institute of Chemical Technology, Daejeon 34114, Republic of Korea",
+            "Research Group of Food Processing, Korea Food Research Institute, Wanju-gun, Jeollabuk-do 55365, Republic of Korea",
+            "Department of Predictive Toxicology, Korea Institute of Toxicology, Daejeon 34114, Republic of Korea",
+            "Research Center for Bioconvergence Analysis, Korea Basic Science Institute, Cheongju 28119, Republic of Korea"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.09.983064",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.09.983064v1.pdf"
+        },
+        "abstract": "Epidemics of Coronavirus Disease 2019 (COVID-19) now have more than 100,000 confirmed cases worldwide. Diagnosis of COVID-19 is currently performed by RT-qPCR methods, but the capacity of RT-qPCR methods is limited by its requirement of high-level facilities and instruments. Here, we developed and evaluated RT-LAMP assays to detect genomic RNA of SARS-CoV-2, the causative virus of COVID-19. RT-LAMP assays in this study can detect as low as 100 copies of SARS-CoV-2 RNA. Cross-reactivity of RT-LAMP assays to other human Coronaviruses was not observed. We also adapted a colorimetric detection method for our RT-LAMP assay so that the tests potentially performed in higher throughput.",
+        "keywords": [
+            "SARS-CoV-2",
+            "COVID-19",
+            "LAMP",
+            "RT-LAMP"
+        ],
+        "references": "@misc{unknown-a,\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-2019.}\n}\n@article{zhou2020a,\n  author = {Zhou, P.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable bat origin},\n  journal = {Nature},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{wu2020a,\n  author = {Wu, F.},\n  title = {A new coronavirus associated with human respiratory disease in China},\n  journal = {Nature},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{huang-a,\n  author = {Huang, C.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {395\u201310223},\n  more-authors = {true},\n  language = {}\n}\n@incollection{w2019a,\n  author = {W.H.O.},\n  title = {Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans},\n  source = {2020;},\n  url = {https://www.who.int/emergencies/diseases/novel-coronavirus-},\n  date = {2019},\n  language = {}\n}\n@article{corman2019a,\n  author = {Corman, V.M.},\n  title = {Detection of 2019 novel coronavirus},\n  date = {2019},\n  journal = {Euro Surveill},\n  volume = {2020},\n  more-authors = {true},\n  source = {by real-time RT-PCR},\n  number = {25},\n  language = {}\n}\n@article{chu2019a,\n  author = {Chu, D.K.W.},\n  title = {Molecular Diagnosis of a Novel Coronavirus},\n  date = {2019},\n  journal = {Clin Chem},\n  more-authors = {true},\n  source = {Causing an Outbreak of Pneumonia},\n  language = {}\n}\n@article{nayak2017a,\n  author = {Nayak, S.},\n  title = {Point-of-Care Diagnostics: Recent Developments in a Connected Age},\n  journal = {Anal Chem},\n  date = {2017},\n  pages = {89\u20131},\n  more-authors = {true},\n  language = {}\n}\n@article{niemz2011a,\n  author = {Niemz, A. and Ferguson, T.M. and Boyle, D.S.},\n  title = {Point-of-care nucleic acid testing for infectious diseases},\n  journal = {Trends Biotechnol},\n  date = {2011},\n  pages = {29\u20135},\n  language = {}\n}\n@article{notomi2000a,\n  author = {Notomi, T.},\n  title = {Loop-mediated isothermal amplification of DNA},\n  journal = {Nucleic Acids Res},\n  date = {2000},\n  pages = {28\u201312},\n  more-authors = {true},\n  language = {}\n}\n@article{shirato2014a,\n  author = {Shirato, K.},\n  title = {Detection of Middle East respiratory syndrome coronavirus using reverse transcription loop-mediated isothermal amplification (RT-LAMP). Virol},\n  journal = {J},\n  date = {2014},\n  pages = {11\u2013139},\n  more-authors = {true},\n  language = {}\n}\n@misc{oscorbin2016a,\n  author = {Oscorbin, I.P.},\n  title = {Comparison of fluorescent intercalating dyes for quantitative loop-mediated isothermal amplification (qLAMP). Biotechniques},\n  date = {2016},\n  pages = {61\u20131},\n  more-authors = {true},\n  language = {}\n}\n@article{goto2009a,\n  author = {Goto, M.},\n  title = {Colorimetric detection of loop-mediated isothermal amplification reaction by using hydroxy naphthol blue},\n  journal = {Biotechniques},\n  date = {2009},\n  volume = {46},\n  pages = {167\u201372},\n  more-authors = {true},\n  number = {3},\n  language = {}\n}\n@article{miyamoto2015a,\n  author = {Miyamoto, S.},\n  title = {Method for colorimetric detection of double-stranded nucleic acid using leuco triphenylmethane dyes},\n  journal = {Anal Biochem},\n  date = {2015},\n  pages = {473\u201328},\n  more-authors = {true},\n  language = {}\n}\n@article{tanner2015a,\n  author = {Tanner, N.A. and Zhang, Y. and Evans, Jr, T.C.},\n  title = {Visual detection of isothermal nucleic acid amplification using pH-sensitive dyes},\n  journal = {Biotechniques},\n  date = {2015},\n  pages = {58\u20132},\n  language = {}\n}\n@article{nie2012a,\n  author = {Nie, K.},\n  title = {Evaluation of a direct reverse transcription loop-mediated isothermal amplification method without RNA extraction for the detection of human enterovirus 71 subgenotype C4 in nasopharyngeal swab specimens},\n  journal = {PLoS One},\n  date = {2012},\n  pages = {7\u201312},\n  more-authors = {true},\n  language = {}\n}\n@article{nyan2014a,\n  author = {Nyan, D.C.},\n  title = {Rapid detection of hepatitis B virus in blood plasma by a specific and sensitive loop-mediated isothermal amplification assay},\n  journal = {Clin Infect Dis},\n  date = {2014},\n  pages = {59\u20131},\n  more-authors = {true},\n  language = {}\n}\n@article{lee2016a,\n  author = {Lee, D.},\n  title = {Simple and Highly Sensitive Molecular Diagnosis of Zika Virus by Lateral Flow Assays},\n  journal = {Anal Chem},\n  date = {2016},\n  pages = {88\u201324},\n  more-authors = {true},\n  language = {}\n}\n@article{jung2020a,\n  author = {Jung, Y.J.},\n  title = {Comparative analysis of primer-probe sets for the laboratory confirmation of SARS-CoV-2},\n  journal = {BioRxiv},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{corman2012a,\n  author = {Corman, V.M.},\n  title = {Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction},\n  journal = {Euro Surveill},\n  date = {2012},\n  volume = {17},\n  more-authors = {true},\n  number = {39},\n  language = {}\n}\n@article{kumar2016a,\n  author = {Kumar, S. and Stecher, G. and Tamura, K.},\n  title = {MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets},\n  journal = {Mol Biol Evol},\n  date = {2016},\n  pages = {33\u20137},\n  language = {}\n}\n@article{hiscox1995a,\n  author = {Hiscox, J.A. and Cavanagh, D. and Britton, P.},\n  title = {Quantification of individual subgenomic mRNA species during replication of the coronavirus transmissible gastroenteritis virus},\n  journal = {Virus Res},\n  date = {1995},\n  pages = {36\u20132},\n  language = {}\n}\n@article{khorosheva2016a,\n  author = {Khorosheva, E.M.},\n  title = {Lack of correlation between reaction speed and analytical sensitivity in isothermal amplification reveals the value of digital methods for optimization: validation using digital real-time RT-LAMP},\n  journal = {Nucleic Acids Res},\n  date = {2016},\n  pages = {44\u20132},\n  more-authors = {true},\n  language = {}\n}\n@article{zou2020a,\n  author = {Zou, L.},\n  title = {SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients},\n  journal = {N Engl J Med},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n",
+        "links": [
+            "http://primerexplorer.jp/lampv5e/index.html"
+        ],
+        "emails": [
+            "maengjs@krict.re.kr",
+            "pcdhmk@krict.re.kr"
+        ],
+        "references_ris": "TY  - GEN\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-2019.\nER  - \n\nTY  - JOUR\nAU  - Zhou, P.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable bat origin\nT2  - Nature\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, F.\nTI  - A new coronavirus associated with human respiratory disease in China\nT2  - Nature\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - Lancet\nVL  - 2020\nSP  - 395\nEP  - 10223\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - W.H.O.\nTI  - Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans\nT2  - 2020;\nUR  - https://www.who.int/emergencies/diseases/novel-coronavirus-\nPY  - 2019\nDA  - 2019\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Corman, V.M.\nTI  - Detection of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Euro Surveill\nVL  - 2020\nC1  - true\nT2  - by real-time RT-PCR\nIS  - 25\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chu, D.K.W.\nTI  - Molecular Diagnosis of a Novel Coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Clin Chem\nC1  - true\nT2  - Causing an Outbreak of Pneumonia\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nayak, S.\nTI  - Point-of-Care Diagnostics: Recent Developments in a Connected Age\nT2  - Anal Chem\nPY  - 2017\nDA  - 2017\nSP  - 89\nEP  - 1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Niemz, A.\nAU  - Ferguson, T.M.\nAU  - Boyle, D.S.\nTI  - Point-of-care nucleic acid testing for infectious diseases\nT2  - Trends Biotechnol\nPY  - 2011\nDA  - 2011\nSP  - 29\nEP  - 5\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Notomi, T.\nTI  - Loop-mediated isothermal amplification of DNA\nT2  - Nucleic Acids Res\nPY  - 2000\nDA  - 2000\nSP  - 28\nEP  - 12\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shirato, K.\nTI  - Detection of Middle East respiratory syndrome coronavirus using reverse transcription loop-mediated isothermal amplification (RT-LAMP). Virol\nT2  - J\nPY  - 2014\nDA  - 2014\nSP  - 11\nEP  - 139\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Oscorbin, I.P.\nTI  - Comparison of fluorescent intercalating dyes for quantitative loop-mediated isothermal amplification (qLAMP). Biotechniques\nPY  - 2016\nDA  - 2016\nSP  - 61\nEP  - 1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Goto, M.\nTI  - Colorimetric detection of loop-mediated isothermal amplification reaction by using hydroxy naphthol blue\nT2  - Biotechniques\nPY  - 2009\nDA  - 2009\nVL  - 46\nSP  - 167\nEP  - 72\nC1  - true\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Miyamoto, S.\nTI  - Method for colorimetric detection of double-stranded nucleic acid using leuco triphenylmethane dyes\nT2  - Anal Biochem\nPY  - 2015\nDA  - 2015\nSP  - 473\nEP  - 28\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tanner, N.A.\nAU  - Zhang, Y.\nAU  - Evans, Jr, T.C.\nTI  - Visual detection of isothermal nucleic acid amplification using pH-sensitive dyes\nT2  - Biotechniques\nPY  - 2015\nDA  - 2015\nSP  - 58\nEP  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nie, K.\nTI  - Evaluation of a direct reverse transcription loop-mediated isothermal amplification method without RNA extraction for the detection of human enterovirus 71 subgenotype C4 in nasopharyngeal swab specimens\nT2  - PLoS One\nPY  - 2012\nDA  - 2012\nSP  - 7\nEP  - 12\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Nyan, D.C.\nTI  - Rapid detection of hepatitis B virus in blood plasma by a specific and sensitive loop-mediated isothermal amplification assay\nT2  - Clin Infect Dis\nPY  - 2014\nDA  - 2014\nSP  - 59\nEP  - 1\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lee, D.\nTI  - Simple and Highly Sensitive Molecular Diagnosis of Zika Virus by Lateral Flow Assays\nT2  - Anal Chem\nPY  - 2016\nDA  - 2016\nSP  - 88\nEP  - 24\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jung, Y.J.\nTI  - Comparative analysis of primer-probe sets for the laboratory confirmation of SARS-CoV-2\nT2  - BioRxiv\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Corman, V.M.\nTI  - Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction\nT2  - Euro Surveill\nPY  - 2012\nDA  - 2012\nVL  - 17\nC1  - true\nIS  - 39\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kumar, S.\nAU  - Stecher, G.\nAU  - Tamura, K.\nTI  - MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets\nT2  - Mol Biol Evol\nPY  - 2016\nDA  - 2016\nSP  - 33\nEP  - 7\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hiscox, J.A.\nAU  - Cavanagh, D.\nAU  - Britton, P.\nTI  - Quantification of individual subgenomic mRNA species during replication of the coronavirus transmissible gastroenteritis virus\nT2  - Virus Res\nPY  - 1995\nDA  - 1995\nSP  - 36\nEP  - 2\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Khorosheva, E.M.\nTI  - Lack of correlation between reaction speed and analytical sensitivity in isothermal amplification reveals the value of digital methods for optimization: validation using digital real-time RT-LAMP\nT2  - Nucleic Acids Res\nPY  - 2016\nDA  - 2016\nSP  - 44\nEP  - 2\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zou, L.\nTI  - SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients\nT2  - N Engl J Med\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\n",
+        "author_conclusions": [
+            "In conclusion, we developed highly specific RT-LAMP assays for detection of SARS-CoV-2. The results of these RT-LAMP assays can be detected within 30 minutes after amplification reaction begin. In addition, we provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests."
+        ],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "LAMP primers of which assays optimized and LoD evaluated"
+            },
+            {
+                "id": "2",
+                "caption": "LoD of RT-LAMP assays targeting SARS-CoV-2"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "LAMP primer positions on aligned sequences of SARS-CoV-2 and SARS-CoV Primer binding sites of (A) \u201cNsp3_1-61\u201d and (B) \u201cNsp3_2-24\u201d LAMP primer sets are depicted on aligned sequences of five SARS-CoV-2 (from up, MN908947, MN938384, MN988713, MN985325, MN975262) and seven SARS-CoV (from up, NC_004718, AY613947, AY313906, AY559094, AY502924, AY278491, AY502927). Conserved sites are toggled at 50% level by MEGA7 software so that SARS-CoV-2 specific residues versus SARS-CoV are background colored"
+            },
+            {
+                "id": "2",
+                "caption": "Cross-reactivity to other Coronaviruses tested for RT-LAMP assay targeting SARS-CoV-2 Real-time amplification fluorescence signal and end-point LCV colorimetric detection results of crossreactivity test for (A) \u201cNsp3_1-61\u201d and (B) \u201cNsp3_2-24\u201d LAMP primer sets. Reactions are performed with 20U/reaction of reverse transcriptase and optimized temperature, dNTP concentration and Mg2+ concentration for each primer set. RNA copy number of each viral RNAs are as follow: hCoV-229E \u2013 1.6 x 106, hCoV-OC43 \u2013 1.6 x 106, MERS-CoV \u2013 4.5 x 106, SARS-CoV-2 \u2013 2.5 x 103"
+            },
+            {
+                "id": "Supplementary 1",
+                "caption": "Sensitivity of SARS-CoV-2 LAMP assays to cDNA dilutions (A) Real-time amplification fluorescence signal and (B) end-point LCV colorimetric detection results of four SARS-CoV-2 LAMP primer sets that were subjected to reaction optimization. Color of amplification signal curve and LCV detection label for each cDNA dilution are matched. Designated copy number is corresponding reverse transcription input RNA copy number. Some low fluorescence of amplification signal plateaus are due to baseline correction process of LightCycler 96 software"
+            },
+            {
+                "id": "Supplementary 2",
+                "caption": "Colorimetric detection of SARS-CoV-2 RT-LAMP LoD tests for \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d. SARS-CoV-2 RNA 1000 500 200 100 50 20"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.09.983064v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-182.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-184.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-186.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-188.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-190.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-192.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-194.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-196.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-198.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-200.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-208.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-209.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-210.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-211.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-212.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-214.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-216.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-218.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-220.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-234.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.09.983064v1/img-235.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "SARS-CoV-2 is the causative viral pathogen of COVID-19 of which the outbreaks resulted in<br/><br/>106,893 confirmed cases involving 3,639 deaths over 103 countries, areas or territories as of 07 March 2020.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] As the name suggests, SARS-CoV-2 is closely related to a group of severe acute respiratory syndrome-related coronaviruses (SARSr-CoV), namely subgenus Sarbecovirus, showing 96% identity to a bat coronavirus [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].<br/><br/>Diagnosis of COVID-19 can be done through CT scan of suspicious patients and confirmatory lab test is performed using RT-qPCR methods [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>-<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. Although RT-qPCR methods are used as the goldstandard for detection of pathogens due to its high sensitivity and specificity, it still have some caveats. Briefly, lab-level facility such as reliable supply of electricity, expensive instruments and trained personnel are required to properly perform RT-qPCR tests. These restrictions hinder to utilize RTqPCR methods for various point-of-care where pathogen detection might be required [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].<br/><br/>To overcome such cost-restriction of RT-qPCR and still detect pathogens\u2019 nucleic acids, isothermal amplification methods have been developed [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. Among such methods, Loop-mediated isothermal amplification (LAMP) method has some advantages to be applied for point-of-care test (POCT) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Well optimized LAMP assay shows sensitivity comparable to that of PCR, less than 10 copies per reaction [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Intercalating fluorescent dyes are compatible with LAMP reaction so that we can observe amplification in real-time [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Because amplification efficiency of LAMP reaction is very high, changes in reaction mixture components made it possible to detect the result with colorimetric detection methods [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. Moreover, unpurified sample can be directly used for LAMP [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. This indicates that high-throughput test is possible when use of unpurified specimen is combined with noninstrumental (e.g. colorimetric) detection.<br/><br/>In this study, we designed and evaluated one-step reverse transcription LAMP (RT-LAMP) methods to detect SARS-CoV-2. We provide a pair of LAMP primer sets that is specific to SARS-CoV-2 and accompanying optimized reaction conditions. To achieve colorimetric detection of LAMP reaction, leuco crystal violet (LCV) method is applied [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]."
+        ],
+        "methods": [
+            "Viral RNA preparation<br/><br/>SARS-CoV-2 viral RNA was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. hCoV-229E and hCoVOC43 viral RNA were isolated from culture media of infected MRC-5 cells (ATCC\u00ae CCL-171TM). MERSCoV RNA was isolated from cell pellet lysate of infected Vero cells (ATCC\u00ae CCL-81TM).<br/><br/>Viral RNA titration In vitro transcribed standard RNA for SARS-CoV-2 was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>].<br/><br/>To prepare standard RNA for hCoV-229E, first amplicon of PCR (Forward primer: 5\u2019 \u2013 GCTAGTGGATGATCATGCTTTG \u2013 3\u2019, Reverse primer: 5\u2019 \u2013 TGGGGCCATAAACTGTTCTATTAC \u2013 3\u2019) was cloned to pBluescript II KS (+) plasmid with BamHI and XhoI. Then, in vitro transcription template was prepared by restriction enzyme cut with BglI and XhoI and purification after agarose gel electrophoresis. For hCoV-OC43 and MERS-CoV, amplicons of PCR (OC43 forward primer: 5\u2019 \u2013 AGCAACCAGGCTGATGTCAATACC \u2013 3\u2019, OC43 reverse primer: 5\u2019 \u2013 AGCAGACCTTCCTGAGCCTTCAAT \u2013 3\u2019, MERS-CoV: UpE region [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]) were synthesized and cloned to pBIC-A plasmid (Bioneer). In vitro transcription template for hCoV-OC43 and MERS-CoV were prepared by restriction enzyme cut with BamHI-XhoI or SspI-XhoI, respectively. In vitro transcriptions were done with EZTM T7 High Yield In Vitro Transcription kit (Enzynomics) as manufacturer\u2019s instructions. RNA products were then purified using Agencourt RNAClean XP (Beckman Coulter). Standard RNA copy numbers were calculated from concentration measured by NanoDrop Lite (Thermo Scientific). All restriction enzymes were purchased from Enzynomics.<br/><br/>To evaluate genomic copy number of viral RNAs, dilutions of standard RNAs and viral RNAs in TE buffer (10 mM Tris-Cl, pH 8.0, 1 mM EDTA) are subjected to one-step RT-qPCR. RT-qPCR reactions were carried out using LightCycler 96 instrument and following reagents: Luna Universal OneStep RT-qPCR Kit (New England Biolabs, NEB) for hCoV-229E and hCoV-OC43, THUNDERBIRD<br/><br/>Probe qPCR Master Mix (Toyobo) for MERS-CoV and Luna Universal Probe One-Step RT-qPCR Kit (NEB) for SARS-CoV-2.<br/><br/>Reverse transcription cDNA of SARS-CoV-2 was made using SuperScript IV Reverse Transcriptase (Invitrogen) following manufacturer\u2019s instructions with modifications. Briefly, 10 pmol of random hexamer was used as reverse transcription primer and reaction was performed as follow: 20 minutes at 25\u00b0C, 30 minutes at<br/><br/>55\u00b0C and 10 minutes at 80\u00b0C.<br/><br/>LAMP and RT-LAMP reaction LAMP reaction was performed with reaction mixture containing following components: 1.6 \u03bcM<br/><br/>FIP/BIP primers, 0.2 \u03bcM F3/B3 primers, 0.4 \u03bcM LF/LB primers, 1x Isothermal Amplification Buffer II (NEB, 20 mM Tris-HCl pH 8.8, 10 mM (NH4)2SO4, 150 mM KCl, 2 mM MgSO4, 0.1% Tween\u00ae 20), 6 mM MgSO4 (NEB, final 8mM Mg2+), 1.4 mM each dNTP (Enzynomics), 0.4 \u03bcM SYTO-9 (Invitrogen) and 6 U Bst3.0 DNA polymerase (NEB) in total 15 \u03bcl reaction volume. For RT-LAMP, 10 U of SuperScript IV Reverse Transcriptase (Invitrogen) was added. For end-point colorimetric detection of LAMP reaction, tweaked version of 5x stock LCV solution[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] containing 0.5 mM Crystal Violet (Sigma, C0775), 60 mM Sodium Sulfite (Sigma, S0505) and 5 mM \u03b2-Cyclodextrin (Sigma, C4767) was directly added to LAMP reaction mixture to 1x concentration. When using WarmStart Colorimetric LAMP 2X Master Mix (NEB), same concentrations of primers and 0.4 \u03bcM SYTO-9 were added. Isothermal incubation and fluorescence signal measurement was performed using LightCycler 96 instrument (Roche) at 69\u00b0C with additional heat inactivation (5 minutes at 95\u00b0C) and melting curve analysis steps. Fluorescence signals were measured for every minute during 60 (screening and optimization) or 30 (Limit of Detection and cross-reactivity) minutes of incubation. Any changed conditions are specified for each experiment."
+        ],
+        "results": [
+            "LAMP Primer Design Five SARS-CoV-2 sequences (MN908947, MN938384, MN988713, MN985325, and MN975262) and seven SARS-CoV sequences (NC_004718, AY613947, AY313906, AY559094, AY502924, AY278491, and AY502927) were aligned by MEGA7 software.[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] SARS-CoV-2 specific regions for LAMP primer design are manually selected: two regions from Nsp3 (3055 \u2013 3591, 6172 \u2013 7273), two regions from Spike (S) (21540 \u2013 22549, 22890 \u2013 23779), and one region from Orf8 (27824 \u2013 28396). Whole Nucleocapsid (N) gene region is also included as N is usual target of molecular diagnosis due to abundance of its mRNA.[<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>] Two to five basic LAMP primer sets are designed and selected with PrimerExplorer V5 (http://primerexplorer.jp/lampv5e/index.html) for each target region. Loop primers are designed by PrimerExplorer V5 or manually selected. 16 LAMP primer sets with proper both of Loop Forward (LF) primer and Loop Backward (LB) primer are selected and subjected to further screening.<br/><br/>LAMP Primer Screening First round of screening was done using WarmStart Colorimetric LAMP 2X Master Mix with cDNA of which corresponding RNA concentration is 8.3 x 104 copies/reaction. Nine out of 16 primer sets were selected by threshold time from the results of 40 minutes incubation at 65\u00b0C and subjected to further screening. Second round of screening was done using Bst3.0. The same amount of cDNA as the first round of screening is used. Two primer sets that showed relatively early non-specific amplification are discarded and remaining seven primer sets are subjected to further screening.<br/><br/>Third and fourth rounds of screening were done by checking sensitivity to dilutions of cDNA and RNA, respectively. Five out of seven primer sets showed specific amplification for at least one replicate of duplicate with cDNA concentration corresponding to 1.7 x 101 copies of input RNA (Supplementary Figure 1). Next, we evaluated sensitivity of the five primer sets to RNA dilutions in RT-LAMP using Bst3.0 and SuperScript IV Reverse Transcriptase. Two primer sets, both targeting Nsp3, showed best sensitivity that showed specific amplification at 10-6 dilution of RNA (Figure 1). We also added two primer sets, one targeting S and the other targeting N, for reaction optimization experiments as they showed fast threshold time for cDNA and to keep ranges of target genes. Primer sequences are represented in Table 1.<br/><br/>LAMP Reaction Optimization To optimize RT-LAMP reaction with Bst3.0, we first evaluated optimal concentration of dNTP and Mg2+ for each primer set. Three dNTP- Mg2+ concentration combinations are tested at 69\u00b0C: dNTP 1.4 mM and Mg2+ 8 mM, dNTP 1.4 mM and Mg2+ 6 mM, dNTP 1 mM and Mg2+ 6 mM. The copy number of RNA template was 1,000 copies per reaction. Best concentration combination was selected for each primer set by whether both of duplicate show specific amplification and by threshold time. Average threshold time (Tt_av) and corresponding dNTP and Mg2+ concentrations are as follows: dNTP 1 mM and Mg2+ 6 mM for \u201cNsp3_1-61\u201d (Tt_av = 11.93), dNTP 1.4 mM and Mg2+ 8 mM for \u201cNsp3_2-24\u201d (Tt_av = 7.74), dNTP 1.4mM and Mg2+ 6mM for \u201cS_1-2-2\u201d and \u201cN_21\u201d (Tt_av = 11.08 and 5.50, respectively).<br/><br/>Next, we checked if amplification is improved at lower temperature (65\u00b0C) because optimal reaction temperature of SuperScript IV Reverse Transcriptase is 50-55\u00b0C and manufacturer recommend 65-72\u00b0C for optimal performance of Bst3.0. Notably, \u201cNsp3_1-61\u201d and \u201cS_1-2-2\u201d primer sets show improved threshold time (Tt_av = 8.92 and 8.49, respectively).<br/><br/>Assessing Limit of Detection and Cross-Reactivity<br/><br/>The Limit of Detection (LoD) of optimized RT-LAMP assays were assessed through 5 to 1000 RNA copies/reaction in triplicate. Among four primer sets subjected to reaction optimization, \u201cS_1-2-2\u201d and \u201cN_21\u201d sets showed relatively poor sensitivity. For \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d primer sets, we additionally evaluated LoD with 2-fold SuperScript IV Reverse Transcriptase (20U/reaction). LoD and Tt_av were improved by increasing reverse transcriptase amount. (Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-LAMP assays could detect as low RNA concentration as 100 copies per reaction.<br/><br/>The cross-reactivity of two SARS-CoV-2 RT-LAMP assays targeting Nsp3 to other human Coronaviruses was not found for hCoV-229E, hCoV-OC43 and MERS-CoV (Figure 2)."
+        ],
+        "conclusion": [
+            "In this study, we designed and screened LAMP primer sets targeting SARS-CoV-2. Reaction optimization was also performed for selected primer sets. In summary, we designed and evaluated a pair of RT-LAMP assays for detection of SARS-CoV-2 with limit of detection of 100 copies per reaction. Our RT-LAMP assays showed specificity to SARS-CoV-2 versus alphacoronavirus (hCoV-229E), betacoronavirus (hCoV-OC43) and MERS-CoV. Although we could not test specificity to SARS-CoV because proper sample was not in our hand, specificity of the RT-LAMP assays are easily expectable from the mismatching bases in primer binding sites (Figure 1). Especially, both of F1/B1 sites of \u201cNsp3_1-61\u201d primer set is in SARS-CoV-2 specific region of which aligning SARS-CoV sequence is not exist.<br/><br/>About the sensitivity of LAMP assays, note that average threshold time is not well correlated with limit of detection. In fact, average threshold time of \u201cS_1-2-2\u201d and \u201cN_21\u201d primer sets for 1000 copies were faster than that of \u201cNsp3_1-61\u201d: 7.33 (RPR: 2/3) and 5.06 (RPR: 1/3) minutes, respectively. This dis-relation is previously reported [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].One peculiar observation is that both \u201cS_1-2-2\u201d and \u201cN_21\u201d showed good sensitivity to cDNA template (Supplementary Figure 1) unlike to RNA. Observed difference of sensitivity to RNA and cDNA seems significant even we account slight amplification that might happened during reverse transcription. The reason may include stochastic nature of forming proper LAMP amplification intermediate - \u201cdumbbell\u201d structure [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>], higher stability of DNA:RNA double strand than DNA:DNA double strand and more.<br/><br/>The limit of detection of RT-LAMP assays suggested in this study, 100 copies per reaction, may not enough for sensitive screening of suspicious patients. This relatively high limit of detection would be from the target sequences used for primer design that are selected by specificity versus SARS-CoV. Indeed, target GC percentage and Tm of primers had to be adjusted to get enough number of starting sets for primer screening during LAMP primer design to give less-optimal primer sets. Therefore, there might be better target sequences for LAMP assay of SARS-CoV-2 in the view point of sensitivity. However, expected high specificity of RT-LAMP assays suggested in this study would be a good feature for a confirmatory test. In addition, considering high viral load of SARS-CoV-2 at early stage after symptom onset [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>], suggested RT-LAMP assays may still be usable for screening tests.<br/><br/>In conclusion, we developed highly specific RT-LAMP assays for detection of SARS-CoV-2. The results of these RT-LAMP assays can be detected within 30 minutes after amplification reaction begin. In addition, we provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests."
+        ],
+        "acknowledgements": [
+            "This work was supported by the National Research Council of Science and Technology (NST) grant by the Ministry of Science and ICT (Grant No CRC-16-01-KRICT)."
+        ],
+        "supplementary": [
+            "Figure 1. Sensitivity of SARS-CoV-2 LAMP assays to cDNA dilutions (A) Real-time amplification fluorescence signal and (B) end-point LCV colorimetric detection results of four SARS-CoV-2 LAMP primer sets that were subjected to reaction optimization. Color of amplification signal curve and LCV detection label for each cDNA dilution are matched. Designated copy number is corresponding reverse transcription input RNA copy number. Some low fluorescence of amplification signal plateaus are due to baseline correction process of LightCycler 96 software.",
+            "Figure 2. Colorimetric detection of SARS-CoV-2 RT-LAMP LoD tests for \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d<br/><br/>LCV colorimetric detection results of LoD tests for \u201cNsp3_1-16\u201d and \u201cNsp3_2-24\u201d. 20U/reaction of reverse transcriptase were used. See main text for detailed reaction condition.    Figure 1    (A)<br/><br/>SARS-CoV-2 SARS-CoV    F3 LF B1    B2    F2 F1    LB B3    (B)<br/><br/>bioRxiv preprint doi: https://doi.org/10.1101/2020.03.09.983064. The copyright holder for this preprint (which was not peer-reviewed) is the author/funder. It is made available under a CC-BY-NC-ND 4.0 International license.<br/><br/>hCoV-229E hCoV-OC43 MERS-CoV SARS-CoV-2 NTC",
+            "Figure 1 author/funder. It is made available under a CC-BY-NC-ND 4.0 International license.    1.7 x 104    1.7 x 103    1.7 x 102    1.7 x 101",
+            "Figure 2    NTC 5"
+        ],
+        "funding": [
+            "This work was supported by the National Research Council of Science and Technology (NST) grant by the Ministry of Science and ICT (Grant No CRC-16-01-KRICT)"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Supplementary Figure 1",
+                "Supplementary Figure 2"
+            ]
+        }
+    },
+    "structured_content": {
+        "Introduction": [
+            "SARS-CoV-2 is the causative viral pathogen of COVID-19 of which the outbreaks resulted in",
+            "106,893 confirmed cases involving 3,639 deaths over 103 countries, areas or territories as of 07 March 2020.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] As the name suggests, SARS-CoV-2 is closely related to a group of severe acute respiratory syndrome-related coronaviruses (SARSr-CoV), namely subgenus Sarbecovirus, showing 96% identity to a bat coronavirus [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>].",
+            "Diagnosis of COVID-19 can be done through CT scan of suspicious patients and confirmatory lab test is performed using RT-qPCR methods [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>-<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. Although RT-qPCR methods are used as the goldstandard for detection of pathogens due to its high sensitivity and specificity, it still have some caveats. Briefly, lab-level facility such as reliable supply of electricity, expensive instruments and trained personnel are required to properly perform RT-qPCR tests. These restrictions hinder to utilize RTqPCR methods for various point-of-care where pathogen detection might be required [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+            "To overcome such cost-restriction of RT-qPCR and still detect pathogens\u2019 nucleic acids, isothermal amplification methods have been developed [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>]. Among such methods, Loop-mediated isothermal amplification (LAMP) method has some advantages to be applied for point-of-care test (POCT) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Well optimized LAMP assay shows sensitivity comparable to that of PCR, less than 10 copies per reaction [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. Intercalating fluorescent dyes are compatible with LAMP reaction so that we can observe amplification in real-time [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Because amplification efficiency of LAMP reaction is very high, changes in reaction mixture components made it possible to detect the result with colorimetric detection methods [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]. Moreover, unpurified sample can be directly used for LAMP [<a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>-<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>]. This indicates that high-throughput test is possible when use of unpurified specimen is combined with noninstrumental (e.g. colorimetric) detection.",
+            "In this study, we designed and evaluated one-step reverse transcription LAMP (RT-LAMP) methods to detect SARS-CoV-2. We provide a pair of LAMP primer sets that is specific to SARS-CoV-2 and accompanying optimized reaction conditions. To achieve colorimetric detection of LAMP reaction, leuco crystal violet (LCV) method is applied [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]."
+        ],
+        "Materials and Methods": [
+            "SARS-CoV-2 viral RNA was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. hCoV-229E and hCoVOC43 viral RNA were isolated from culture media of infected MRC-5 cells (ATCC\u00ae CCL-171TM). MERSCoV RNA was isolated from cell pellet lysate of infected Vero cells (ATCC\u00ae CCL-81TM).",
+            "Viral RNA titration In vitro transcribed standard RNA for SARS-CoV-2 was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>].",
+            "To prepare standard RNA for hCoV-229E, first amplicon of PCR (Forward primer: 5\u2019 \u2013 GCTAGTGGATGATCATGCTTTG \u2013 3\u2019, Reverse primer: 5\u2019 \u2013 TGGGGCCATAAACTGTTCTATTAC \u2013 3\u2019) was cloned to pBluescript II KS (+) plasmid with BamHI and XhoI. Then, in vitro transcription template was prepared by restriction enzyme cut with BglI and XhoI and purification after agarose gel electrophoresis. For hCoV-OC43 and MERS-CoV, amplicons of PCR (OC43 forward primer: 5\u2019 \u2013 AGCAACCAGGCTGATGTCAATACC \u2013 3\u2019, OC43 reverse primer: 5\u2019 \u2013 AGCAGACCTTCCTGAGCCTTCAAT \u2013 3\u2019, MERS-CoV: UpE region [<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]) were synthesized and cloned to pBIC-A plasmid (Bioneer). In vitro transcription template for hCoV-OC43 and MERS-CoV were prepared by restriction enzyme cut with BamHI-XhoI or SspI-XhoI, respectively. In vitro transcriptions were done with EZTM T7 High Yield In Vitro Transcription kit (Enzynomics) as manufacturer\u2019s instructions. RNA products were then purified using Agencourt RNAClean XP (Beckman Coulter). Standard RNA copy numbers were calculated from concentration measured by NanoDrop Lite (Thermo Scientific). All restriction enzymes were purchased from Enzynomics.",
+            "To evaluate genomic copy number of viral RNAs, dilutions of standard RNAs and viral RNAs in TE buffer (10 mM Tris-Cl, pH 8.0, 1 mM EDTA) are subjected to one-step RT-qPCR. RT-qPCR reactions were carried out using LightCycler 96 instrument and following reagents: Luna Universal OneStep RT-qPCR Kit (New England Biolabs, NEB) for hCoV-229E and hCoV-OC43, THUNDERBIRD",
+            "Probe qPCR Master Mix (Toyobo) for MERS-CoV and Luna Universal Probe One-Step RT-qPCR Kit (NEB) for SARS-CoV-2.",
+            "Reverse transcription cDNA of SARS-CoV-2 was made using SuperScript IV Reverse Transcriptase (Invitrogen) following manufacturer\u2019s instructions with modifications. Briefly, 10 pmol of random hexamer was used as reverse transcription primer and reaction was performed as follow: 20 minutes at 25\u00b0C, 30 minutes at",
+            "55\u00b0C and 10 minutes at 80\u00b0C.",
+            "LAMP and RT-LAMP reaction LAMP reaction was performed with reaction mixture containing following components: 1.6 \u03bcM",
+            "FIP/BIP primers, 0.2 \u03bcM F3/B3 primers, 0.4 \u03bcM LF/LB primers, 1x Isothermal Amplification Buffer II (NEB, 20 mM Tris-HCl pH 8.8, 10 mM (NH4)2SO4, 150 mM KCl, 2 mM MgSO4, 0.1% Tween\u00ae 20), 6 mM MgSO4 (NEB, final 8mM Mg2+), 1.4 mM each dNTP (Enzynomics), 0.4 \u03bcM SYTO-9 (Invitrogen) and 6 U Bst3.0 DNA polymerase (NEB) in total 15 \u03bcl reaction volume. For RT-LAMP, 10 U of SuperScript IV Reverse Transcriptase (Invitrogen) was added. For end-point colorimetric detection of LAMP reaction, tweaked version of 5x stock LCV solution[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>] containing 0.5 mM Crystal Violet (Sigma, C0775), 60 mM Sodium Sulfite (Sigma, S0505) and 5 mM \u03b2-Cyclodextrin (Sigma, C4767) was directly added to LAMP reaction mixture to 1x concentration. When using WarmStart Colorimetric LAMP 2X Master Mix (NEB), same concentrations of primers and 0.4 \u03bcM SYTO-9 were added. Isothermal incubation and fluorescence signal measurement was performed using LightCycler 96 instrument (Roche) at 69\u00b0C with additional heat inactivation (5 minutes at 95\u00b0C) and melting curve analysis steps. Fluorescence signals were measured for every minute during 60 (screening and optimization) or 30 (Limit of Detection and cross-reactivity) minutes of incubation. Any changed conditions are specified for each experiment."
+        ],
+        "Results": [
+            "LAMP Primer Design Five SARS-CoV-2 sequences (MN908947, MN938384, MN988713, MN985325, and MN975262) and seven SARS-CoV sequences (NC_004718, AY613947, AY313906, AY559094, AY502924, AY278491, and AY502927) were aligned by MEGA7 software.[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>] SARS-CoV-2 specific regions for LAMP primer design are manually selected: two regions from Nsp3 (3055 \u2013 3591, 6172 \u2013 7273), two regions from Spike (S) (21540 \u2013 22549, 22890 \u2013 23779), and one region from Orf8 (27824 \u2013 28396). Whole Nucleocapsid (N) gene region is also included as N is usual target of molecular diagnosis due to abundance of its mRNA.[<a class=\"ref-link\" id=\"c23\" href=\"#r23\">23</a>] Two to five basic LAMP primer sets are designed and selected with PrimerExplorer V5 (http://primerexplorer.jp/lampv5e/index.html) for each target region. Loop primers are designed by PrimerExplorer V5 or manually selected. 16 LAMP primer sets with proper both of Loop Forward (LF) primer and Loop Backward (LB) primer are selected and subjected to further screening.",
+            "LAMP Primer Screening First round of screening was done using WarmStart Colorimetric LAMP 2X Master Mix with cDNA of which corresponding RNA concentration is 8.3 x 104 copies/reaction. Nine out of 16 primer sets were selected by threshold time from the results of 40 minutes incubation at 65\u00b0C and subjected to further screening. Second round of screening was done using Bst3.0. The same amount of cDNA as the first round of screening is used. Two primer sets that showed relatively early non-specific amplification are discarded and remaining seven primer sets are subjected to further screening.",
+            "Third and fourth rounds of screening were done by checking sensitivity to dilutions of cDNA and RNA, respectively. Five out of seven primer sets showed specific amplification for at least one replicate of duplicate with cDNA concentration corresponding to 1.7 x 101 copies of input RNA (Supplementary Figure 1). Next, we evaluated sensitivity of the five primer sets to RNA dilutions in RT-LAMP using Bst3.0 and SuperScript IV Reverse Transcriptase. Two primer sets, both targeting Nsp3, showed best sensitivity that showed specific amplification at 10-6 dilution of RNA (Figure 1). We also added two primer sets, one targeting S and the other targeting N, for reaction optimization experiments as they showed fast threshold time for cDNA and to keep ranges of target genes. Primer sequences are represented in Table 1.",
+            "LAMP Reaction Optimization To optimize RT-LAMP reaction with Bst3.0, we first evaluated optimal concentration of dNTP and Mg2+ for each primer set. Three dNTP- Mg2+ concentration combinations are tested at 69\u00b0C: dNTP 1.4 mM and Mg2+ 8 mM, dNTP 1.4 mM and Mg2+ 6 mM, dNTP 1 mM and Mg2+ 6 mM. The copy number of RNA template was 1,000 copies per reaction. Best concentration combination was selected for each primer set by whether both of duplicate show specific amplification and by threshold time. Average threshold time (Tt_av) and corresponding dNTP and Mg2+ concentrations are as follows: dNTP 1 mM and Mg2+ 6 mM for \u201cNsp3_1-61\u201d (Tt_av = 11.93), dNTP 1.4 mM and Mg2+ 8 mM for \u201cNsp3_2-24\u201d (Tt_av = 7.74), dNTP 1.4mM and Mg2+ 6mM for \u201cS_1-2-2\u201d and \u201cN_21\u201d (Tt_av = 11.08 and 5.50, respectively).",
+            "Next, we checked if amplification is improved at lower temperature (65\u00b0C) because optimal reaction temperature of SuperScript IV Reverse Transcriptase is 50-55\u00b0C and manufacturer recommend 65-72\u00b0C for optimal performance of Bst3.0. Notably, \u201cNsp3_1-61\u201d and \u201cS_1-2-2\u201d primer sets show improved threshold time (Tt_av = 8.92 and 8.49, respectively).",
+            "The Limit of Detection (LoD) of optimized RT-LAMP assays were assessed through 5 to 1000 RNA copies/reaction in triplicate. Among four primer sets subjected to reaction optimization, \u201cS_1-2-2\u201d and \u201cN_21\u201d sets showed relatively poor sensitivity. For \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d primer sets, we additionally evaluated LoD with 2-fold SuperScript IV Reverse Transcriptase (20U/reaction). LoD and Tt_av were improved by increasing reverse transcriptase amount. (Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-LAMP assays could detect as low RNA concentration as 100 copies per reaction.",
+            "The cross-reactivity of two SARS-CoV-2 RT-LAMP assays targeting Nsp3 to other human Coronaviruses was not found for hCoV-229E, hCoV-OC43 and MERS-CoV (Figure 2).",
+            "Discussions and Conclusion In this study, we designed and screened LAMP primer sets targeting SARS-CoV-2. Reaction optimization was also performed for selected primer sets. In summary, we designed and evaluated a pair of RT-LAMP assays for detection of SARS-CoV-2 with limit of detection of 100 copies per reaction. Our RT-LAMP assays showed specificity to SARS-CoV-2 versus alphacoronavirus (hCoV-229E), betacoronavirus (hCoV-OC43) and MERS-CoV. Although we could not test specificity to SARS-CoV because proper sample was not in our hand, specificity of the RT-LAMP assays are easily expectable from the mismatching bases in primer binding sites (Figure 1). Especially, both of F1/B1 sites of \u201cNsp3_1-61\u201d primer set is in SARS-CoV-2 specific region of which aligning SARS-CoV sequence is not exist.",
+            "About the sensitivity of LAMP assays, note that average threshold time is not well correlated with limit of detection. In fact, average threshold time of \u201cS_1-2-2\u201d and \u201cN_21\u201d primer sets for 1000 copies were faster than that of \u201cNsp3_1-61\u201d: 7.33 (RPR: 2/3) and 5.06 (RPR: 1/3) minutes, respectively. This dis-relation is previously reported [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].One peculiar observation is that both \u201cS_1-2-2\u201d and \u201cN_21\u201d showed good sensitivity to cDNA template (Supplementary Figure 1) unlike to RNA. Observed difference of sensitivity to RNA and cDNA seems significant even we account slight amplification that might happened during reverse transcription. The reason may include stochastic nature of forming proper LAMP amplification intermediate - \u201cdumbbell\u201d structure [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>], higher stability of DNA:RNA double strand than DNA:DNA double strand and more.",
+            "The limit of detection of RT-LAMP assays suggested in this study, 100 copies per reaction, may not enough for sensitive screening of suspicious patients. This relatively high limit of detection would be from the target sequences used for primer design that are selected by specificity versus SARS-CoV. Indeed, target GC percentage and Tm of primers had to be adjusted to get enough number of starting sets for primer screening during LAMP primer design to give less-optimal primer sets. Therefore, there might be better target sequences for LAMP assay of SARS-CoV-2 in the view point of sensitivity. However, expected high specificity of RT-LAMP assays suggested in this study would be a good feature for a confirmatory test. In addition, considering high viral load of SARS-CoV-2 at early stage after symptom onset [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>], suggested RT-LAMP assays may still be usable for screening tests.",
+            "In conclusion, we developed highly specific RT-LAMP assays for detection of SARS-CoV-2. The results of these RT-LAMP assays can be detected within 30 minutes after amplification reaction begin. In addition, we provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests."
+        ],
+        "Acknowledgements": [
+            "This work was supported by the National Research Council of Science and Technology (NST) grant by the Ministry of Science and ICT (Grant No CRC-16-01-KRICT)."
+        ],
+        "References": [
+            "1. WHO.",
+            "Coronavirus",
+            "Disease",
+            "2020; Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "2. Zhou, P., et al, A pneumonia outbreak associated with a new coronavirus of probable bat origin.",
+            "Nature, 2020.",
+            "3. Wu, F., et al, A new coronavirus associated with human respiratory disease in China. Nature, 4. Zhu, N., et al, A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, 5. Huang, C., et al, Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020. 395(10223): p. 497-506.",
+            "6. WHO. Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans. 2020; Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-",
+            "2019/technical-guidance/laboratory-guidance.",
+            "7. Corman, V.M., et al, Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR.",
+            "Euro Surveill, 2020. 25(3).",
+            "8. Chu, D.K.W., et al, Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an",
+            "Outbreak of Pneumonia. Clin Chem, 2020.",
+            "9. Nayak, S., et al, Point-of-Care Diagnostics: Recent Developments in a Connected Age. Anal",
+            "Chem, 2017. 89(1): p. 102-123.",
+            "10. Niemz, A., T.M. Ferguson, and D.S. Boyle, Point-of-care nucleic acid testing for infectious diseases. Trends Biotechnol, 2011. 29(5): p. 240-50.",
+            "11. Notomi, T., et al, Loop-mediated isothermal amplification of DNA. Nucleic Acids Res, 2000.",
+            "28(12): p. E63.",
+            "12. Shirato, K., et al, Detection of Middle East respiratory syndrome coronavirus using reverse transcription loop-mediated isothermal amplification (RT-LAMP). Virol J, 2014. 11: p. 139. 13. Oscorbin, I.P., et al, Comparison of fluorescent intercalating dyes for quantitative loop-mediated isothermal amplification (qLAMP). Biotechniques, 2016. 61(1): p. 20-5. 14. Goto, M., et al, Colorimetric detection of loop-mediated isothermal amplification reaction by using hydroxy naphthol blue. Biotechniques, 2009. 46(3): p. 167-72. 15. Miyamoto, S., et al, Method for colorimetric detection of double-stranded nucleic acid using leuco triphenylmethane dyes. Anal Biochem, 2015. 473: p. 28-33. 16. Tanner, N.A., Y. Zhang, and T.C. Evans, Jr., Visual detection of isothermal nucleic acid amplification using pH-sensitive dyes. Biotechniques, 2015. 58(2): p. 59-68. 17. Nie, K., et al, Evaluation of a direct reverse transcription loop-mediated isothermal amplification method without RNA extraction for the detection of human enterovirus 71 subgenotype C4 in nasopharyngeal swab specimens. PLoS One, 2012. 7(12): p. e52486. 18. Nyan, D.C., et al, Rapid detection of hepatitis B virus in blood plasma by a specific and sensitive loop-mediated isothermal amplification assay. Clin Infect Dis, 2014. 59(1): p. 16-23. 19. Lee, D., et al, Simple and Highly Sensitive Molecular Diagnosis of Zika Virus by Lateral Flow Assays. Anal Chem, 2016. 88(24): p. 12272-12278. 20. Jung, Y.J., et al, Comparative analysis of primer-probe sets for the laboratory confirmation of SARS-CoV-2. BioRxiv, 2020. 21. Corman, V.M., et al, Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction. Euro Surveill, 2012. 17(39). 22. Kumar, S., G. Stecher, and K. Tamura, MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets. Mol Biol Evol, 2016. 33(7): p. 1870-4. 23. Hiscox, J.A., D. Cavanagh, and P. Britton, Quantification of individual subgenomic mRNA species during replication of the coronavirus transmissible gastroenteritis virus. Virus Res, 1995. 36(2-3): p. 119-30. 24. Khorosheva, E.M., et al, Lack of correlation between reaction speed and analytical sensitivity in isothermal amplification reveals the value of digital methods for optimization: validation using digital real-time RT-LAMP. Nucleic Acids Res, 2016. 44(2): p. e10. 25. Zou, L., et al, SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients. N Engl J Med, 2020.",
+            "Table 1. LAMP primers of which assays optimized and LoD evaluated",
+            "Set Name Nsp3_1-61",
+            "Nsp3_2-24",
+            "S_1-2-2",
+            "N_21",
+            "Primer F3 B3 FIP BIP LF LB F3 B3 FIP BIP LF LB F3 B3 FIP BIP LF LB F3 B3 FIP BIP LF LB",
+            "Sequence (5' - 3') GGAATTTGGTGCCACTTC CTATTCACTTCAATAGTCTGAACA CTTGTTGACCAACAGTTTGTTGACTTCAACCTGAAGAAGAGCAA CGGCAGTGAGGACAATCAGACACTGGTGTAAGTTCCATCTC ATCATCATCTAACCAATCTTCTTC TCAAACAATTGTTGAGGTTCAACC TGCAACTAATAAAGCCACG CGTCTTTCTGTATGGTAGGATT TCTGACTTCAGTACATCAAACGAATAAATACCTGGTGTATACGTTGTC GACGCGCAGGGAATGGATAATTCCACTACTTCTTCAGAGACT TGTTTCAACTGGTTTTGTGCTCCA TCTTGCCTGCGAAGATCTAAAAC CTGACAAAGTTTTCAGATCCTCAG AGTACCAAAAATCCAGCCTCTT TCCCAGAGACATGTATAGCATGGAATCAACTCAGGACTTGTTCTTACC TGGTACTAAGAGGTTTGATAACCCTGTTAGACTTCTCAGTGGAAGCA CCAAGTAACATTGGAAAAGAAA GTCCTACCATTTAATGATGGTGTTT GCCAAAAGGCTTCTACGCA TTGCTCTCAAGCTGGTTCAA TCCCCTACTGCTGCCTGGAGGCAGTCAAGCCTCTTCTCG TCTCCTGCTAGAATGGCTGGCATCTGTCAAGCAGCAGCAAAG TGTTGCGACTACGTGATGAGGA ATGGCGGTGATGCTGCTCT",
+            "Table 2. LoD of RT-LAMP assays targeting SARS-CoV-2",
+            "SSIV, 10U/rxn",
+            "RNA",
+            "Nsp3_1-61",
+            "Nsp3_2-24 copies Tt_av RPR* Tt_av RPR*",
+            "1000 13.11 3/3",
+            "500 13.47 3/3",
+            "200 13.65 2/3 11.19 2/3",
+            "100 14.62 3/3",
+            "-",
+            "20 13.88 1/3",
+            "NTC",
+            "* RPR : Ratio of Positive Replicates",
+            "SSIV, 20U/rxn",
+            "Tt_av RPR* Tt_av RPR*",
+            "7.53",
+            "10.63 3/3",
+            "11.34 2/3",
+            "12.26 2/3",
+            "Figure Legends",
+            "Figure 1. LAMP primer positions on aligned sequences of SARS-CoV-2 and SARS-CoV Primer binding sites of (A) \u201cNsp3_1-61\u201d and (B) \u201cNsp3_2-24\u201d LAMP primer sets are depicted on aligned sequences of five SARS-CoV-2 (from up, MN908947, MN938384, MN988713, MN985325, MN975262) and seven SARS-CoV (from up, NC_004718, AY613947, AY313906, AY559094, AY502924, AY278491, AY502927). Conserved sites are toggled at 50% level by MEGA7 software so that SARS-CoV-2 specific residues versus SARS-CoV are background colored.",
+            "Figure 2. Cross-reactivity to other Coronaviruses tested for RT-LAMP assay targeting SARS-CoV-2 Real-time amplification fluorescence signal and end-point LCV colorimetric detection results of crossreactivity test for (A) \u201cNsp3_1-61\u201d and (B) \u201cNsp3_2-24\u201d LAMP primer sets. Reactions are performed with 20U/reaction of reverse transcriptase and optimized temperature, dNTP concentration and Mg2+ concentration for each primer set. RNA copy number of each viral RNAs are as follow: hCoV-229E \u2013 1.6 x 106, hCoV-OC43 \u2013 1.6 x 106, MERS-CoV \u2013 4.5 x 106, SARS-CoV-2 \u2013 2.5 x 103.",
+            ""
+        ],
+        "Supplementary": []
+    },
+    "participants": [
+        {
+            "participant": "confirmed cases",
+            "number": 100000,
+            "context": ". <mark class=\"stats\">Epidemics of Coronavirus Disease 2019 (COVID-19) now have more than 100,000 confirmed cases worldwide</mark>. Diagnosis of COVID-19 is currently performed by RT-qPCR methods, but the capacity of RT-qPCR methods is limited by its requirement of high-level facilities and instruments"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "reaction conditions",
+        "cDNA",
+        "rt qpcr method",
+        "lamp assay",
+        "rt lamp assay",
+        "qPCR",
+        "Loop Backward",
+        "Coronavirus disease",
+        "coronavirus",
+        "isothermal amplification",
+        "lamp reaction",
+        "Loop Forward",
+        "reverse transcription LAMP",
+        "SARS-CoV-2",
+        "SARS",
+        "colorimetric detection method",
+        "RT-LAMP",
+        "COVID-19",
+        "nucleic acid",
+        "Limit of Detection",
+        "primer set",
+        "leuco crystal violet",
+        "point-of-care test",
+        "lamp primer",
+        "reverse transcription",
+        "sars cov",
+        "Loop-mediated isothermal amplification",
+        "molecular diagnosis",
+        "pneumonia",
+        "LAMP"
+    ],
+    "keyword_relevance": {
+        "Loop-mediated isothermal amplification": 0.15938303341902313,
+        "LAMP": 0.15424164524421594,
+        "SARS": 0.11825192802056556,
+        "SARS-CoV-2": 0.09511568123393316,
+        "reverse transcription LAMP": 0.07197943444730077,
+        "RT-LAMP": 0.06940874035989718,
+        "primer set": 0.061696658097686374,
+        "coronavirus": 0.033419023136246784,
+        "qPCR": 0.030848329048843187,
+        "cDNA": 0.02570694087403599,
+        "Limit of Detection": 0.02570694087403599,
+        "isothermal amplification": 0.02313624678663239,
+        "Loop Backward": 0.02056555269922879,
+        "Loop Forward": 0.02056555269922879,
+        "leuco crystal violet": 0.02056555269922879,
+        "COVID-19": 0.017994858611825194,
+        "reverse transcription": 0.012853470437017995,
+        "nucleic acid": 0.010282776349614395,
+        "colorimetric detection method": 0.007712082262210797,
+        "point-of-care test": 0.007712082262210797,
+        "reaction conditions": 0.005141388174807198,
+        "Coronavirus disease": 0.002570694087403599,
+        "molecular diagnosis": 0.002570694087403599,
+        "pneumonia": 0.002570694087403599,
+        "rt qpcr method": 0.0,
+        "lamp assay": 0.0,
+        "rt lamp assay": 0.0,
+        "lamp reaction": 0.0,
+        "lamp primer": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> SARS-CoV-2 is the causative viral pathogen of COVID-19 of which the outbreaks resulted in<br/><br/>106,893 confirmed cases involving 3,639 deaths over 103 countries, areas or territories as of 07 March 2020.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+        "Lab-level facility such as reliable supply of electricity, expensive instruments and trained personnel are required to properly perform RT-qPCR tests",
+        "These restrictions hinder to utilize RTqPCR methods for various point-of-care where pathogen detection might be required [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+        "To overcome such cost-restriction of RT-qPCR and still detect pathogens\u2019 nucleic acids, isothermal amplification methods have been developed [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+        "To achieve colorimetric detection of LAMP reaction, leuco crystal violet (LCV) method is applied [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]",
+        "<h2 style=\"display: inline\">Methods:</h2> Viral RNA preparation<br/><br/>SARS-CoV-2 viral RNA was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. hCoV-229E and hCoVOC43 viral RNA were isolated from culture media of infected MRC-5 cells (ATCC\u00ae CCL-171TM).",
+        "SARS-CoV-2 viral RNA was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>].",
+        "To prepare standard RNA for hCoV-229E, first amplicon of PCR (Forward primer: 5\u2019 \u2013 GCTAGTGGATGATCATGCTTTG \u2013 3\u2019, Reverse primer: 5\u2019 \u2013 TGGGGCCATAAACTGTTCTATTAC \u2013 3\u2019) was cloned to pBluescript II KS (+) plasmid with BamHI and XhoI.",
+        "In vitro transcription template for hCoV-OC43 and MERS-CoV were prepared by restriction enzyme cut with BamHI-XhoI or SspI-XhoI, respectively.",
+        "Reverse transcription cDNA of SARS-CoV-2 was made using SuperScript IV Reverse Transcriptase (Invitrogen) following manufacturer\u2019s instructions with modifications.",
+        "<h2 style=\"display: inline\">Results:</h2> LAMP Primer Design Five SARS-CoV-2 sequences (MN908947, MN938384, MN988713, MN985325, and MN975262) and seven SARS-CoV sequences (NC_004718, AY613947, AY313906, AY559094, AY502924, AY278491, and AY502927) were aligned by MEGA7 software.[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>].",
+        "Five out of seven primer sets showed specific amplification for at least one replicate of duplicate with cDNA concentration corresponding to 1.7 x 101 copies of input RNA (Supplementary Figure 1).",
+        "The authors evaluated sensitivity of the five primer sets to RNA dilutions in RT-LAMP using Bst3.0 and SuperScript IV Reverse Transcriptase",
+        "Two primer sets, both targeting Nsp3, showed best sensitivity that showed specific amplification at 10-6 dilution of RNA (Figure 1).",
+        "(Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-LAMP assays could detect as low RNA concentration as 100 copies per reaction.",
+        "LoD and Tt_av were improved by increasing reverse transcriptase amount. (Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-LAMP assays could detect as low RNA concentration as 100 copies per reaction.",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors designed and screened LAMP primer sets targeting SARS-CoV-2. Reaction optimization was performed for selected primer sets.",
+        "Average threshold time of \u201cS_1-2-2\u201d and \u201cN_21\u201d primer sets for 1000 copies were faster than that of \u201cNsp3_1-61\u201d: 7.33 (RPR: 2/3) and 5.06 (RPR: 1/3) minutes, respectively",
+        "This dis-relation is previously reported [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].One peculiar observation is that both \u201cS_1-2-2\u201d and \u201cN_21\u201d showed good sensitivity to cDNA template (Supplementary Figure 1) unlike to RNA.",
+        "The limit of detection of RT-LAMP assays suggested in this study, 100 copies per reaction, may not enough for sensitive screening of suspicious patients",
+        "This relatively high limit of detection would be from the target sequences used for primer design that are selected by specificity versus SARS-CoV.",
+        "The authors provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "SARS-CoV-2 is the causative viral pathogen of COVID-19 of which the outbreaks resulted in<br/><br/>106,893 confirmed cases involving 3,639 deaths over 103 countries, areas or territories as of 07 March 2020.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "Lab-level facility such as reliable supply of electricity, expensive instruments and trained personnel are required to properly perform RT-qPCR tests",
+            "These restrictions hinder to utilize RTqPCR methods for various point-of-care where pathogen detection might be required [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+            "To overcome such cost-restriction of RT-qPCR and still detect pathogens\u2019 nucleic acids, isothermal amplification methods have been developed [<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>].",
+            "To achieve colorimetric detection of LAMP reaction, leuco crystal violet (LCV) method is applied [<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>]"
+        ],
+        "Methods": [
+            "Viral RNA preparation<br/><br/>SARS-CoV-2 viral RNA was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. hCoV-229E and hCoVOC43 viral RNA were isolated from culture media of infected MRC-5 cells (ATCC\u00ae CCL-171TM).",
+            "SARS-CoV-2 viral RNA was prepared as previously described [<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>].",
+            "To prepare standard RNA for hCoV-229E, first amplicon of PCR (Forward primer: 5\u2019 \u2013 GCTAGTGGATGATCATGCTTTG \u2013 3\u2019, Reverse primer: 5\u2019 \u2013 TGGGGCCATAAACTGTTCTATTAC \u2013 3\u2019) was cloned to pBluescript II KS (+) plasmid with BamHI and XhoI.",
+            "In vitro transcription template for hCoV-OC43 and MERS-CoV were prepared by restriction enzyme cut with BamHI-XhoI or SspI-XhoI, respectively.",
+            "Reverse transcription cDNA of SARS-CoV-2 was made using SuperScript IV Reverse Transcriptase (Invitrogen) following manufacturer\u2019s instructions with modifications."
+        ],
+        "Results": [
+            "LAMP Primer Design Five SARS-CoV-2 sequences (MN908947, MN938384, MN988713, MN985325, and MN975262) and seven SARS-CoV sequences (NC_004718, AY613947, AY313906, AY559094, AY502924, AY278491, and AY502927) were aligned by MEGA7 software.[<a class=\"ref-link\" id=\"c22\" href=\"#r22\">22</a>].",
+            "Five out of seven primer sets showed specific amplification for at least one replicate of duplicate with cDNA concentration corresponding to 1.7 x 101 copies of input RNA (Supplementary Figure 1).",
+            "The authors evaluated sensitivity of the five primer sets to RNA dilutions in RT-LAMP using Bst3.0 and SuperScript IV Reverse Transcriptase",
+            "Two primer sets, both targeting Nsp3, showed best sensitivity that showed specific amplification at 10-6 dilution of RNA (Figure 1).",
+            "(Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-LAMP assays could detect as low RNA concentration as 100 copies per reaction.",
+            "LoD and Tt_av were improved by increasing reverse transcriptase amount. (Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-LAMP assays could detect as low RNA concentration as 100 copies per reaction."
+        ],
+        "Conclusion": [
+            "The authors designed and screened LAMP primer sets targeting SARS-CoV-2. Reaction optimization was performed for selected primer sets.",
+            "Average threshold time of \u201cS_1-2-2\u201d and \u201cN_21\u201d primer sets for 1000 copies were faster than that of \u201cNsp3_1-61\u201d: 7.33 (RPR: 2/3) and 5.06 (RPR: 1/3) minutes, respectively",
+            "This dis-relation is previously reported [<a class=\"ref-link\" id=\"c24\" href=\"#r24\">24</a>].One peculiar observation is that both \u201cS_1-2-2\u201d and \u201cN_21\u201d showed good sensitivity to cDNA template (Supplementary Figure 1) unlike to RNA.",
+            "The limit of detection of RT-LAMP assays suggested in this study, 100 copies per reaction, may not enough for sensitive screening of suspicious patients",
+            "This relatively high limit of detection would be from the target sequences used for primer design that are selected by specificity versus SARS-CoV.",
+            "The authors provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "2020;_0000_a",
+            "alt_id": "1",
+            "entry": "2020; Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhou_2020_a",
+            "entry": "2. Zhou, P., et al., A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Wu_2020_a",
+            "entry": "3. Wu, F., et al., A new coronavirus associated with human respiratory disease in China. Nature, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%2C%20F.%20A%20new%20coronavirus%20associated%20with%20human%20respiratory%20disease%20in%20China%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%2C%20F.%20A%20new%20coronavirus%20associated%20with%20human%20respiratory%20disease%20in%20China%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%2C%20F.%20A%20new%20coronavirus%20associated%20with%20human%20respiratory%20disease%20in%20China%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Zhu_2020_a",
+            "entry": "4. Zhu, N., et al., A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhu%20N%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%202020"
+        },
+        {
+            "id": "5",
+            "alt_id": "Huang_2019_a",
+            "entry": "5. Huang, C., et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020. 395(10223): p. 497-506.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020%2039510223%20p%20497506",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020%2039510223%20p%20497506",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020%2039510223%20p%20497506"
+        },
+        {
+            "id": "6",
+            "alt_id": "W_2019_a",
+            "entry": "6. WHO. Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans. 2020; Available from: https://www.who.int/emergencies/diseases/novel-coronavirus- 2019/technical-guidance/laboratory-guidance.",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=WHO%20Coronavirus%20disease%20COVID19%20technical%20guidance%20Laboratory%20testing%20for%202019nCoV%20in%20humans%202020%20Available%20from%20httpswwwwhointemergenciesdiseasesnovelcoronavirus%202019technicalguidancelaboratoryguidance",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=WHO%20Coronavirus%20disease%20COVID19%20technical%20guidance%20Laboratory%20testing%20for%202019nCoV%20in%20humans%202020%20Available%20from%20httpswwwwhointemergenciesdiseasesnovelcoronavirus%202019technicalguidancelaboratoryguidance"
+        },
+        {
+            "id": "7",
+            "alt_id": "Corman_2019_a",
+            "entry": "7. Corman, V.M., et al., Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill, 2020. 25(3).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Corman%20VM%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%202020%20253",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Corman%20VM%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%202020%20253",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Corman%20VM%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%202020%20253"
+        },
+        {
+            "id": "8",
+            "alt_id": "Chu_2019_a",
+            "entry": "8. Chu, D.K.W., et al., Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia. Clin Chem, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chu%2C%20D.K.W.%20Molecular%20Diagnosis%20of%20a%20Novel%20Coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chu%2C%20D.K.W.%20Molecular%20Diagnosis%20of%20a%20Novel%20Coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chu%2C%20D.K.W.%20Molecular%20Diagnosis%20of%20a%20Novel%20Coronavirus%202019"
+        },
+        {
+            "id": "9",
+            "alt_id": "Nayak_2017_a",
+            "entry": "9. Nayak, S., et al., Point-of-Care Diagnostics: Recent Developments in a Connected Age. Anal Chem, 2017. 89(1): p. 102-123.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nayak%2C%20S.%20Point-of-Care%20Diagnostics%3A%20Recent%20Developments%20in%20a%20Connected%20Age%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nayak%2C%20S.%20Point-of-Care%20Diagnostics%3A%20Recent%20Developments%20in%20a%20Connected%20Age%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nayak%2C%20S.%20Point-of-Care%20Diagnostics%3A%20Recent%20Developments%20in%20a%20Connected%20Age%202017"
+        },
+        {
+            "id": "10",
+            "alt_id": "Niemz_et+al_2011_a",
+            "entry": "10. Niemz, A., T.M. Ferguson, and D.S. Boyle, Point-of-care nucleic acid testing for infectious diseases. Trends Biotechnol, 2011. 29(5): p. 240-50.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Niemz%2C%20A.%20Ferguson%2C%20T.M.%20Boyle%2C%20D.S.%20Point-of-care%20nucleic%20acid%20testing%20for%20infectious%20diseases%202011",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Niemz%2C%20A.%20Ferguson%2C%20T.M.%20Boyle%2C%20D.S.%20Point-of-care%20nucleic%20acid%20testing%20for%20infectious%20diseases%202011",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Niemz%2C%20A.%20Ferguson%2C%20T.M.%20Boyle%2C%20D.S.%20Point-of-care%20nucleic%20acid%20testing%20for%20infectious%20diseases%202011"
+        },
+        {
+            "id": "11",
+            "alt_id": "Notomi_2000_a",
+            "entry": "11. Notomi, T., et al., Loop-mediated isothermal amplification of DNA. Nucleic Acids Res, 2000. 28(12): p. E63.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Notomi%2C%20T.%20Loop-mediated%20isothermal%20amplification%20of%20DNA%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Notomi%2C%20T.%20Loop-mediated%20isothermal%20amplification%20of%20DNA%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Notomi%2C%20T.%20Loop-mediated%20isothermal%20amplification%20of%20DNA%202000"
+        },
+        {
+            "id": "12",
+            "alt_id": "Shirato_2014_a",
+            "entry": "12. Shirato, K., et al., Detection of Middle East respiratory syndrome coronavirus using reverse transcription loop-mediated isothermal amplification (RT-LAMP). Virol J, 2014. 11: p. 139.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shirato%2C%20K.%20Detection%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%20using%20reverse%20transcription%20loop-mediated%20isothermal%20amplification%20%28RT-LAMP%29.%20Virol%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shirato%2C%20K.%20Detection%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%20using%20reverse%20transcription%20loop-mediated%20isothermal%20amplification%20%28RT-LAMP%29.%20Virol%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shirato%2C%20K.%20Detection%20of%20Middle%20East%20respiratory%20syndrome%20coronavirus%20using%20reverse%20transcription%20loop-mediated%20isothermal%20amplification%20%28RT-LAMP%29.%20Virol%202014"
+        },
+        {
+            "id": "13",
+            "alt_id": "Oscorbin_2016_a",
+            "entry": "13. Oscorbin, I.P., et al., Comparison of fluorescent intercalating dyes for quantitative loop-mediated isothermal amplification (qLAMP). Biotechniques, 2016. 61(1): p. 20-5.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Oscorbin%2C%20I.P.%20Comparison%20of%20fluorescent%20intercalating%20dyes%20for%20quantitative%20loop-mediated%20isothermal%20amplification%20%28qLAMP%29.%20Biotechniques%202016"
+        },
+        {
+            "id": "14",
+            "alt_id": "Goto_2009_a",
+            "entry": "14. Goto, M., et al., Colorimetric detection of loop-mediated isothermal amplification reaction by using hydroxy naphthol blue. Biotechniques, 2009. 46(3): p. 167-72.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Goto%2C%20M.%20Colorimetric%20detection%20of%20loop-mediated%20isothermal%20amplification%20reaction%20by%20using%20hydroxy%20naphthol%20blue%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Goto%2C%20M.%20Colorimetric%20detection%20of%20loop-mediated%20isothermal%20amplification%20reaction%20by%20using%20hydroxy%20naphthol%20blue%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Goto%2C%20M.%20Colorimetric%20detection%20of%20loop-mediated%20isothermal%20amplification%20reaction%20by%20using%20hydroxy%20naphthol%20blue%202009"
+        },
+        {
+            "id": "15",
+            "alt_id": "Miyamoto_2015_a",
+            "entry": "15. Miyamoto, S., et al., Method for colorimetric detection of double-stranded nucleic acid using leuco triphenylmethane dyes. Anal Biochem, 2015. 473: p. 28-33.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Miyamoto%2C%20S.%20Method%20for%20colorimetric%20detection%20of%20double-stranded%20nucleic%20acid%20using%20leuco%20triphenylmethane%20dyes%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Miyamoto%2C%20S.%20Method%20for%20colorimetric%20detection%20of%20double-stranded%20nucleic%20acid%20using%20leuco%20triphenylmethane%20dyes%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Miyamoto%2C%20S.%20Method%20for%20colorimetric%20detection%20of%20double-stranded%20nucleic%20acid%20using%20leuco%20triphenylmethane%20dyes%202015"
+        },
+        {
+            "id": "16",
+            "alt_id": "Tanner_et+al_2015_a",
+            "entry": "16. Tanner, N.A., Y. Zhang, and T.C. Evans, Jr., Visual detection of isothermal nucleic acid amplification using pH-sensitive dyes. Biotechniques, 2015. 58(2): p. 59-68.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Tanner%2C%20N.A.%20Zhang%2C%20Y.%20Evans%2C%20Jr%2C%20T.C.%20Visual%20detection%20of%20isothermal%20nucleic%20acid%20amplification%20using%20pH-sensitive%20dyes%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Tanner%2C%20N.A.%20Zhang%2C%20Y.%20Evans%2C%20Jr%2C%20T.C.%20Visual%20detection%20of%20isothermal%20nucleic%20acid%20amplification%20using%20pH-sensitive%20dyes%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Tanner%2C%20N.A.%20Zhang%2C%20Y.%20Evans%2C%20Jr%2C%20T.C.%20Visual%20detection%20of%20isothermal%20nucleic%20acid%20amplification%20using%20pH-sensitive%20dyes%202015"
+        },
+        {
+            "id": "17",
+            "alt_id": "Nie_2012_a",
+            "entry": "17. Nie, K., et al., Evaluation of a direct reverse transcription loop-mediated isothermal amplification method without RNA extraction for the detection of human enterovirus 71 subgenotype C4 in nasopharyngeal swab specimens. PLoS One, 2012. 7(12): p. e52486.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nie%2C%20K.%20Evaluation%20of%20a%20direct%20reverse%20transcription%20loop-mediated%20isothermal%20amplification%20method%20without%20RNA%20extraction%20for%20the%20detection%20of%20human%20enterovirus%2071%20subgenotype%20C4%20in%20nasopharyngeal%20swab%20specimens%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nie%2C%20K.%20Evaluation%20of%20a%20direct%20reverse%20transcription%20loop-mediated%20isothermal%20amplification%20method%20without%20RNA%20extraction%20for%20the%20detection%20of%20human%20enterovirus%2071%20subgenotype%20C4%20in%20nasopharyngeal%20swab%20specimens%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nie%2C%20K.%20Evaluation%20of%20a%20direct%20reverse%20transcription%20loop-mediated%20isothermal%20amplification%20method%20without%20RNA%20extraction%20for%20the%20detection%20of%20human%20enterovirus%2071%20subgenotype%20C4%20in%20nasopharyngeal%20swab%20specimens%202012"
+        },
+        {
+            "id": "18",
+            "alt_id": "Nyan_2014_a",
+            "entry": "18. Nyan, D.C., et al., Rapid detection of hepatitis B virus in blood plasma by a specific and sensitive loop-mediated isothermal amplification assay. Clin Infect Dis, 2014. 59(1): p. 16-23.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Nyan%2C%20D.C.%20Rapid%20detection%20of%20hepatitis%20B%20virus%20in%20blood%20plasma%20by%20a%20specific%20and%20sensitive%20loop-mediated%20isothermal%20amplification%20assay%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Nyan%2C%20D.C.%20Rapid%20detection%20of%20hepatitis%20B%20virus%20in%20blood%20plasma%20by%20a%20specific%20and%20sensitive%20loop-mediated%20isothermal%20amplification%20assay%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Nyan%2C%20D.C.%20Rapid%20detection%20of%20hepatitis%20B%20virus%20in%20blood%20plasma%20by%20a%20specific%20and%20sensitive%20loop-mediated%20isothermal%20amplification%20assay%202014"
+        },
+        {
+            "id": "19",
+            "alt_id": "Lee_2016_a",
+            "entry": "19. Lee, D., et al., Simple and Highly Sensitive Molecular Diagnosis of Zika Virus by Lateral Flow Assays. Anal Chem, 2016. 88(24): p. 12272-12278.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lee%2C%20D.%20Simple%20and%20Highly%20Sensitive%20Molecular%20Diagnosis%20of%20Zika%20Virus%20by%20Lateral%20Flow%20Assays%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lee%2C%20D.%20Simple%20and%20Highly%20Sensitive%20Molecular%20Diagnosis%20of%20Zika%20Virus%20by%20Lateral%20Flow%20Assays%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lee%2C%20D.%20Simple%20and%20Highly%20Sensitive%20Molecular%20Diagnosis%20of%20Zika%20Virus%20by%20Lateral%20Flow%20Assays%202016"
+        },
+        {
+            "id": "20",
+            "alt_id": "Jung_2020_a",
+            "entry": "20. Jung, Y.J., et al., Comparative analysis of primer-probe sets for the laboratory confirmation of SARS-CoV-2. BioRxiv, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Jung%2C%20Y.J.%20Comparative%20analysis%20of%20primer-probe%20sets%20for%20the%20laboratory%20confirmation%20of%20SARS-CoV-2%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Jung%2C%20Y.J.%20Comparative%20analysis%20of%20primer-probe%20sets%20for%20the%20laboratory%20confirmation%20of%20SARS-CoV-2%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Jung%2C%20Y.J.%20Comparative%20analysis%20of%20primer-probe%20sets%20for%20the%20laboratory%20confirmation%20of%20SARS-CoV-2%202020"
+        },
+        {
+            "id": "21",
+            "alt_id": "Corman_2012_a",
+            "entry": "21. Corman, V.M., et al., Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction. Euro Surveill, 2012. 17(39).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Corman%2C%20V.M.%20Detection%20of%20a%20novel%20human%20coronavirus%20by%20real-time%20reverse-transcription%20polymerase%20chain%20reaction%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Corman%2C%20V.M.%20Detection%20of%20a%20novel%20human%20coronavirus%20by%20real-time%20reverse-transcription%20polymerase%20chain%20reaction%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Corman%2C%20V.M.%20Detection%20of%20a%20novel%20human%20coronavirus%20by%20real-time%20reverse-transcription%20polymerase%20chain%20reaction%202012"
+        },
+        {
+            "id": "22",
+            "alt_id": "Kumar_et+al_2016_a",
+            "entry": "22. Kumar, S., G. Stecher, and K. Tamura, MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for Bigger Datasets. Mol Biol Evol, 2016. 33(7): p. 1870-4.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kumar%2C%20S.%20Stecher%2C%20G.%20Tamura%2C%20K.%20MEGA7%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20Version%207.0%20for%20Bigger%20Datasets%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kumar%2C%20S.%20Stecher%2C%20G.%20Tamura%2C%20K.%20MEGA7%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20Version%207.0%20for%20Bigger%20Datasets%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kumar%2C%20S.%20Stecher%2C%20G.%20Tamura%2C%20K.%20MEGA7%3A%20Molecular%20Evolutionary%20Genetics%20Analysis%20Version%207.0%20for%20Bigger%20Datasets%202016"
+        },
+        {
+            "id": "23",
+            "alt_id": "Hiscox_et+al_1995_a",
+            "entry": "23. Hiscox, J.A., D. Cavanagh, and P. Britton, Quantification of individual subgenomic mRNA species during replication of the coronavirus transmissible gastroenteritis virus. Virus Res, 1995. 36(2-3): p. 119-30.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hiscox%2C%20J.A.%20Cavanagh%2C%20D.%20Britton%2C%20P.%20Quantification%20of%20individual%20subgenomic%20mRNA%20species%20during%20replication%20of%20the%20coronavirus%20transmissible%20gastroenteritis%20virus%201995",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hiscox%2C%20J.A.%20Cavanagh%2C%20D.%20Britton%2C%20P.%20Quantification%20of%20individual%20subgenomic%20mRNA%20species%20during%20replication%20of%20the%20coronavirus%20transmissible%20gastroenteritis%20virus%201995",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hiscox%2C%20J.A.%20Cavanagh%2C%20D.%20Britton%2C%20P.%20Quantification%20of%20individual%20subgenomic%20mRNA%20species%20during%20replication%20of%20the%20coronavirus%20transmissible%20gastroenteritis%20virus%201995"
+        },
+        {
+            "id": "24",
+            "alt_id": "Khorosheva_2016_a",
+            "entry": "24. Khorosheva, E.M., et al., Lack of correlation between reaction speed and analytical sensitivity in isothermal amplification reveals the value of digital methods for optimization: validation using digital real-time RT-LAMP. Nucleic Acids Res, 2016. 44(2): p. e10.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Khorosheva%2C%20E.M.%20Lack%20of%20correlation%20between%20reaction%20speed%20and%20analytical%20sensitivity%20in%20isothermal%20amplification%20reveals%20the%20value%20of%20digital%20methods%20for%20optimization%3A%20validation%20using%20digital%20real-time%20RT-LAMP%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Khorosheva%2C%20E.M.%20Lack%20of%20correlation%20between%20reaction%20speed%20and%20analytical%20sensitivity%20in%20isothermal%20amplification%20reveals%20the%20value%20of%20digital%20methods%20for%20optimization%3A%20validation%20using%20digital%20real-time%20RT-LAMP%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Khorosheva%2C%20E.M.%20Lack%20of%20correlation%20between%20reaction%20speed%20and%20analytical%20sensitivity%20in%20isothermal%20amplification%20reveals%20the%20value%20of%20digital%20methods%20for%20optimization%3A%20validation%20using%20digital%20real-time%20RT-LAMP%202016"
+        },
+        {
+            "id": "25",
+            "alt_id": "Zou_2020_a",
+            "entry": "25. Zou, L., et al., SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients. N Engl J Med, 2020. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zou%2C%20L.%20SARS-CoV-2%20Viral%20Load%20in%20Upper%20Respiratory%20Specimens%20of%20Infected%20Patients%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zou%2C%20L.%20SARS-CoV-2%20Viral%20Load%20in%20Upper%20Respiratory%20Specimens%20of%20Infected%20Patients%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zou%2C%20L.%20SARS-CoV-2%20Viral%20Load%20in%20Upper%20Respiratory%20Specimens%20of%20Infected%20Patients%202020"
+        }
+    ],
+    "facts": [
+        "Epidemics of Coronavirus Disease 2019 have more than 100,000 confirmed cases",
+        "Diagnosis of COVID-19 is currently performed by RT-qPCR methods",
+        "the capacity of RT-qPCR methods is limited by its requirement of high-level facilities and instruments",
+        "RT-LAMP assays in this study can detect as low as 100 copies of SARS-CoV-2 RNA",
+        "that the tests potentially performed in higher throughput",
+        "SARS-CoV-2 is closely related to a group",
+        "Diagnosis of COVID-19 can be done through CT scan of suspicious patients",
+        "RT-qPCR methods are used as the goldstandard for detection",
+        "some advantages to be applied for point-of-care test",
+        "Intercalating fluorescent dyes are compatible with LAMP reaction",
+        "possible to detect the result with colorimetric detection methods",
+        "unpurified sample can be directly used for LAMP",
+        "when use of unpurified specimen is combined with noninstrumental detection",
+        "a pair of LAMP primer sets that is specific to SARS-CoV-2",
+        "hCoVOC43 viral RNA were isolated from culture media of infected MRC-5 cells",
+        "MERSCoV RNA was isolated from cell pellet lysate of infected Vero cells",
+        "first amplicon of PCR was cloned to pBluescript II KS",
+        "transcription template was prepared by restriction enzyme cut with",
+        "MERS-CoV were prepared by restriction enzyme cut with",
+        "transcriptions were done with EZTM T7 High Yield In Vitro Transcription kit",
+        "Standard RNA copy numbers were calculated from concentration measured by",
+        "All restriction enzymes were purchased from Enzynomics",
+        "viral RNAs in TE buffer are subjected to one-step RT-qPCR",
+        "10 pmol of random hexamer was used as reverse transcription primer and reaction was performed as follow",
+        "RT-LAMP reaction LAMP reaction was performed with reaction mixture containing following components",
+        "5 mM \u03b2-Cyclodextrin was directly added to LAMP reaction mixture to 1x concentration",
+        "Fluorescence signals were measured for every minute",
+        "Any changed conditions are specified for each experiment",
+        "seven SARS-CoV sequences were aligned by MEGA7 software.[22",
+        "Whole Nucleocapsid gene region is included as N is usual target of molecular diagnosis",
+        "Loop primers are designed by PrimerExplorer V5",
+        "of 16 primer sets were selected by threshold time from the results",
+        "seven primer sets are subjected to further screening",
+        "fourth rounds of screening were done by checking sensitivity to dilutions",
+        "Primer sequences are represented in Table 1",
+        "concentration combinations are tested at 69\u00b0C",
+        "Best concentration combination was selected for each primer set by",
+        "if amplification is improved at lower temperature because optimal reaction temperature",
+        "Among four primer sets subjected to reaction optimization",
+        "Tt-av were improved by increasing reverse transcriptase amount",
+        "RT-LAMP assays could detect as low RNA concentration as 100 copies",
+        "The cross-reactivity of two SARS-CoV-2 RT-LAMP assays targeting Nsp3 to other human Coronaviruses was not found for hCoV-229E",
+        "Reaction optimization was performed for selected primer sets",
+        "specificity of the RT-LAMP assays are expectable from the mismatching bases in primer binding sites",
+        "primer set is in SARS-CoV-2 specific region",
+        "that average threshold time is not well correlated with limit of detection",
+        "account slight amplification that might happened during reverse transcription",
+        "The limit of detection of RT-LAMP assays suggested in this study",
+        "relatively high limit of detection would be from the target sequences used for primer design",
+        "that are selected by specificity versus SARS-CoV. target GC percentage",
+        "expected high specificity of RT-LAMP assays suggested in this study would be a good feature for a confirmatory test",
+        "suggested RT-LAMP assays may still be usable for screening tests",
+        "The results of these RT-LAMP assays can be detected within 30 minutes after amplification reaction begin",
+        "provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests",
+        "that are selected by specificity versus SARS-CoV."
+    ],
+    "claims": [
+        "We developed and evaluated RT-LAMP assays to detect genomic RNA of SARS-CoV-2, the causative virus of COVID-19",
+        "We provide a pair of LAMP primer sets that is specific to SARS-CoV-2 and accompanying optimized reaction conditions",
+        "We evaluated sensitivity of the five primer sets to RNA dilutions in RT-LAMP using Bst3.0 and SuperScript IV Reverse Transcriptase",
+        "For \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d primer sets, we additionally evaluated LoD with 2-fold SuperScript IV Reverse Transcriptase (20U/reaction)",
+        "We developed highly specific RT-LAMP assays for detection of SARS-CoV-2",
+        "We provided optimized reaction conditions to which LCV colorimetric detection method is applied that can be used for point-of-care tests"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Loop-mediated isothermal amplification (LAMP) method has some advantages to be applied for point-of-care test (POCT) [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]",
+        "Intercalating fluorescent dyes are compatible with Loop-mediated isothermal amplification reaction so that we can observe amplification in real-time [<a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]",
+        "Because amplification efficiency of Loop-mediated isothermal amplification reaction is very high, changes in reaction mixture components made it possible to detect the result with colorimetric detection methods [<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>-<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>]",
+        "We provide a pair of Loop-mediated isothermal amplification primer sets that is specific to SARS-CoV-2 and accompanying optimized reaction conditions",
+        "Loop-mediated isothermal amplification and RT-Loop-mediated isothermal amplification reaction Loop-mediated isothermal amplification reaction was performed with reaction mixture containing following components: 1.6 \u03bcM",
+        "Two primer sets that showed relatively early non-specific amplification are discarded and remaining seven primer sets are subjected to further screening",
+        "For \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d primer sets, we evaluated Limit of Detection with 2-fold SuperScript IV Reverse Transcriptase (20U/reaction)",
+        "Limit of Detection and Tt_av were improved by increasing reverse transcriptase amount. (Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-Loop-mediated isothermal amplification assays could detect as low RNA concentration as 100 copies per reaction",
+        "The cross-reactivity of two SARS-CoV-2 RT-Loop-mediated isothermal amplification assays targeting Nsp3 to other human Coronaviruses was not found for hCoV-229E, hCoV-OC43 and MERS-CoV (Figure 2)",
+        "We could not test specificity to SARS-CoV because proper sample was not in our hand, specificity of the RT-Loop-mediated isothermal amplification assays are expectable from the mismatching bases in primer binding sites (Figure 1). Both of F1/B1 sites of \u201cNsp3_1-61\u201d primer set is in SARS-CoV-2 specific region of which aligning SARS-CoV sequence is not exist",
+        "About the sensitivity of Loop-mediated isothermal amplification assays, note that average threshold time is not well correlated with limit of detection",
+        "Observed difference of sensitivity to RNA and cDNA seems significant even we account slight amplification that might happened during reverse transcription",
+        "The limit of detection of RT-Loop-mediated isothermal amplification assays suggested in this study, 100 copies per reaction, may not enough for sensitive screening of suspicious patients",
+        "This relatively high limit of detection would be from the target sequences used for primer design that are selected by specificity versus SARS-CoV",
+        "Expected high specificity of RT-Loop-mediated isothermal amplification assays suggested in this study would be a good feature for a confirmatory test",
+        "Considering high viral load of SARS-CoV-2 at early stage after symptom onset [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>], suggested RT-Loop-mediated isothermal amplification assays may still be usable for screening tests",
+        "We developed highly specific RT-Loop-mediated isothermal amplification assays for detection of SARS-CoV-2. The results of these RT-Loop-mediated isothermal amplification assays can be detected within 30 minutes after amplification reaction begin",
+        "We provided optimized reaction conditions to which leuco crystal violet colorimetric detection method is applied that can be used for point-of-care tests"
+    ],
+    "top_statements": [
+        "SARS-CoV-2 is the causative viral pathogen of COVID-19 of which the outbreaks resulted in<br/><br/>106,893 confirmed cases involving 3,639 deaths over 103 countries, areas or territories as of 07 March 2020.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]",
+        "Limit of Detection and Tt_av were improved by increasing reverse transcriptase amount. (Table 2, Supplementary Figure 2) As a result, both \u201cNsp3_1-61\u201d and \u201cNsp3_2-24\u201d RT-Loop-mediated isothermal amplification assays could detect as low RNA concentration as 100 copies per reaction",
+        "The cross-reactivity of two SARS-CoV-2 RT-Loop-mediated isothermal amplification assays targeting Nsp3 to other human Coronaviruses was not found for hCoV-229E, hCoV-OC43 and MERS-CoV (Figure 2)",
+        "The limit of detection of RT-Loop-mediated isothermal amplification assays suggested in this study, 100 copies per reaction, may not enough for sensitive screening of suspicious patients",
+        "Expected high specificity of RT-Loop-mediated isothermal amplification assays suggested in this study would be a good feature for a confirmatory test",
+        "Considering high viral load of SARS-CoV-2 at early stage after symptom onset [<a class=\"ref-link\" id=\"c25\" href=\"#r25\">25</a>], suggested RT-Loop-mediated isothermal amplification assays may still be usable for screening tests"
+    ],
+    "headline": "Considering high viral load of SARS-CoV-2 at early stage after symptom onset, suggested RT-Loop-mediated isothermal amplification assays may still be usable for screening tests",
+    "contexts": [],
+    "abbreviations": {
+        "LAMP": "Loop-mediated isothermal amplification",
+        "POCT": "point-of-care test",
+        "RT-LAMP": "reverse transcription LAMP",
+        "LCV": "leuco crystal violet",
+        "LF": "Loop Forward",
+        "LB": "Loop Backward",
+        "LoD": "Limit of Detection"
+    }
+}

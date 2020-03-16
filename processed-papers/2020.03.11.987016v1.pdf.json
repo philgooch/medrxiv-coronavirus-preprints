@@ -1,0 +1,419 @@
+{
+    "filename": "2020.03.11.987016v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 125566,
+    "metadata": {
+        "title": "The inhaled corticosteroid ciclesonide blocks coronavirus RNA replication by targeting viral NSP15",
+        "author": "Shutoku Matsuyama, Miyuki Kawase, Naganori Nao, Kazuya Shirato, Makoto Ujike, Wataru Kamitani, Masayuki Shimojima, and Shuetsu Fukushi",
+        "date": 2020,
+        "affiliations": [
+            "Department of Virology III, National Institute of Infectious Diseases, Tokyo, Japan",
+            "Faculty of Veterinary Medicine, Nippon Veterinary and Life Science University, Tokyo, Japan",
+            "Department of Infectious Diseases and Host Defense, Gunma University Graduate School of Medicine",
+            "Department of Virology I, National Institute of Infectious Diseases, Tokyo, Japan",
+            "Department of Virology III, National Institute of Infectious Diseases 4-7-1 Gakuen Musashi-Murayama, Tokyo 208-0011, Japan tel 81-42-848-7065 ext3367, fax 81-42-567-5631, Email: matuyama@nih.go.jp"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.11.987016",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.11.987016v1.pdf"
+        },
+        "abstract": "Steroid compounds, which are expected to have dual functions in blocking host inflammation and MERS-CoV replication, were screened from a chemical library. Within this library, ciclesonide, an inhaled corticosteroid, suppressed human coronavirus replication in cultured cells, but did not suppress replication of respiratory syncytial virus or influenza virus. The effective concentration of ciclesonide to block SARS-CoV-2 (the cause of COVID-19)\n\u03bc replication (EC90) was 6.3 M. After the eleventh consecutive MERS-CoV passage in the presence of ciclesonide, a resistant mutation was generated, which resulted in an amino acid substitution (A25V) in nonstructural protein (NSP) 15, as identified using reverse genetics. A recombinant virus with the mutation was also resistant to ciclesonide suppression of viral replication. These observations suggest that the effect of ciclesonide was specific to coronavirus, suggesting this is a candidate drug for treatment of patients suffering MERS or COVID-19.",
+        "references": "@misc{ma2019a,\n  author = {Ma, X.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China},\n  date = {2019},\n  pages = {1\u20137},\n  more-authors = {true},\n  language = {}\n}\n@article{lu2020a,\n  author = {Lu, H.},\n  title = {Drug treatment options for the 2019-new coronavirus (2019- nCoV)},\n  journal = {Biosci. Trends A},\n  volume = {1020},\n  pages = {10\u201312},\n  date = {2020},\n  language = {}\n}\n@article{wang2019a,\n  author = {Wang, M.},\n  title = {Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus},\n  date = {2019},\n  journal = {Cell Res},\n  more-authors = {true},\n  source = {in vitro},\n  language = {}\n}\n@incollection{alfaraj2019a,\n  author = {Alfaraj, S.H.},\n  title = {Clinical predictors of mortality of Middle East Respiratory Syndrome Coronavirus},\n  unknown = {MERS-CoV},\n  date = {2019},\n  pages = {48\u201350},\n  more-authors = {true},\n  source = {infection: A cohort study},\n  language = {}\n}\n@article{lee2004a,\n  author = {Lee, N.},\n  title = {Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients},\n  journal = {J. Clin. Virol},\n  volume = {31},\n  pages = {304\u2013309},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{athmer2017a,\n  author = {Athmer, J.},\n  title = {In Situ Tagged nsp15 Reveals Interactions with Coronavirus Associated Proteins},\n  journal = {MBio},\n  volume = {8},\n  pages = {1\u201314},\n  date = {2017},\n  more-authors = {true},\n  language = {}\n}\n@article{deng2017a,\n  author = {Deng, X.},\n  title = {Coronavirus nonstructural protein 15 mediates evasion of dsRNA sensors and limits apoptosis in macrophages},\n  journal = {PNAS},\n  volume = {114},\n  pages = {4251\u20134260},\n  date = {2017},\n  more-authors = {true},\n  language = {}\n}\n@article{lundin2014a,\n  author = {Lundin, A.},\n  title = {Targeting Membrane-Bound Viral RNA Synthesis Reveals Potent Inhibition of Diverse Coronaviruses Including the Middle East Respiratory Syndrome Virus},\n  journal = {PLoS Pathog},\n  volume = {10},\n  date = {2014},\n  more-authors = {true},\n  language = {}\n}\n@article{terada2017a,\n  author = {Terada, Y. and Kawachi, K. and Matsuura, Y. and Kamitani, W.},\n  title = {MERS coronavirus nsp1 participates in an efficient propagation through a specific interaction with viral RNA},\n  journal = {Virology},\n  volume = {511},\n  pages = {95\u2013105},\n  date = {2017},\n  language = {}\n}\n@article{matsuyama2020a,\n  author = {Matsuyama, S. and Nao, N. and Shirato, K. and Kawase, M. and Saito, S.},\n  title = {Enhanced isolation of the novel 2019 coronavirus by TMPRSS2- expressing cells},\n  journal = {Submitt. Publ. PNAS},\n  date = {2020},\n  language = {}\n}\n@article{corman2019a,\n  author = {Corman, V.M.},\n  title = {Detection of 2019 novel coronavirus},\n  date = {2019},\n  journal = {Euro Surveill},\n  volume = {25},\n  pages = {1\u20138},\n  more-authors = {true},\n  source = {by real-time RT-PCR},\n  language = {}\n}\n@article{zhang2018a,\n  author = {Zhang, L.},\n  title = {Structural and Biochemical Characterization of Endoribonuclease Nsp15 Encoded by Middle East Respiratory Syndrome Coronavirus},\n  journal = {J. Virol},\n  volume = {92},\n  pages = {1\u201316},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{shirato2013a,\n  author = {Shirato, K. and Kawase, M. and Matsuyama, S.},\n  title = {Middle East respiratory syndrome coronavirus infection mediated by the transmembrane serine protease TMPRSS2},\n  journal = {J. Virol},\n  volume = {87},\n  pages = {12552\u201361},\n  date = {2013},\n  language = {}\n}\n",
+        "emails": [
+            "matuyama@nih.go.jp"
+        ],
+        "references_ris": "TY  - GEN\nAU  - Ma, X.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China\nPY  - 2019\nDA  - 2019\nSP  - 1\nEP  - 7\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lu, H.\nTI  - Drug treatment options for the 2019-new coronavirus (2019- nCoV)\nT2  - Biosci. Trends A\nVL  - 1020\nSP  - 10\nEP  - 12\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, M.\nTI  - Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Cell Res\nC1  - true\nT2  - in vitro\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Alfaraj, S.H.\nTI  - Clinical predictors of mortality of Middle East Respiratory Syndrome Coronavirus\nC1  - MERS-CoV\nPY  - 2019\nDA  - 2019\nSP  - 48\nEP  - 50\nC1  - true\nT2  - infection: A cohort study\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lee, N.\nTI  - Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients\nT2  - J. Clin. Virol\nVL  - 31\nSP  - 304\nEP  - 309\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Athmer, J.\nTI  - In Situ Tagged nsp15 Reveals Interactions with Coronavirus Associated Proteins\nT2  - MBio\nVL  - 8\nSP  - 1\nEP  - 14\nPY  - 2017\nDA  - 2017\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Deng, X.\nTI  - Coronavirus nonstructural protein 15 mediates evasion of dsRNA sensors and limits apoptosis in macrophages\nT2  - PNAS\nVL  - 114\nSP  - 4251\nEP  - 4260\nPY  - 2017\nDA  - 2017\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lundin, A.\nTI  - Targeting Membrane-Bound Viral RNA Synthesis Reveals Potent Inhibition of Diverse Coronaviruses Including the Middle East Respiratory Syndrome Virus\nT2  - PLoS Pathog\nVL  - 10\nPY  - 2014\nDA  - 2014\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Terada, Y.\nAU  - Kawachi, K.\nAU  - Matsuura, Y.\nAU  - Kamitani, W.\nTI  - MERS coronavirus nsp1 participates in an efficient propagation through a specific interaction with viral RNA\nT2  - Virology\nVL  - 511\nSP  - 95\nEP  - 105\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Matsuyama, S.\nAU  - Nao, N.\nAU  - Shirato, K.\nAU  - Kawase, M.\nAU  - Saito, S.\nTI  - Enhanced isolation of the novel 2019 coronavirus by TMPRSS2- expressing cells\nT2  - Submitt. Publ. PNAS\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Corman, V.M.\nTI  - Detection of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Euro Surveill\nVL  - 25\nSP  - 1\nEP  - 8\nC1  - true\nT2  - by real-time RT-PCR\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, L.\nTI  - Structural and Biochemical Characterization of Endoribonuclease Nsp15 Encoded by Middle East Respiratory Syndrome Coronavirus\nT2  - J. Virol\nVL  - 92\nSP  - 1\nEP  - 16\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shirato, K.\nAU  - Kawase, M.\nAU  - Matsuyama, S.\nTI  - Middle East respiratory syndrome coronavirus infection mediated by the transmembrane serine protease TMPRSS2\nT2  - J. Virol\nVL  - 87\nSP  - 12552\nEP  - 61\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Antiviral effects of steroids on MERS-CoV infection. (a) Effect of steroids on MERS-CoV replication. Vero cells were infected with MERS-CoV at MOI = 0.01 in the presence of steroids for 24 h. The viral titer in the cell supernatant was quantified by standard plaque assay using Vero/TMPRSS2 cells. Cell viability in the presence of steroids was quantified by WST assay at 24 hours post-infection (hpi). (b) Ciclesonide escape mutant. Vero cells treated with ciclesonide were infected with parental MERS-CoV or ciclesonide escape mutant. Viral titer was measured as described in panel a. (c) Vero cells were infected with the parental MERS-CoV/EMC strain (Re-EMC/MERS) or the recombinant mutant strain (Re-Nsp15-A25V) with an amino acid substitution at A25V in NSP15. Viral titer was measured as described in panel a. Virus titer (log10 PFU)"
+            },
+            {
+                "id": "2",
+                "caption": "Antiviral effects of steroids on SARS-CoV-2. (a) Intracellular SARS-CoV-2 RNA (6 hpi). VeroE6/TMPRSS2 cells were infected with SARS-CoV-2 at MOI = 1 in the \u03bc presence of 10 M compounds for 6 h. Cellular viral RNA was quantified by real-time PCR"
+            }
+        ],
+        "figure_urls": []
+    },
+    "sections": {
+        "introduction": [
+            "The COVID-19 outbreak began on December 2019 in Wuhan, China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and the causative virus, SARS-CoV-2, has rapidly spread into 43 countries as of February 27, 2020. The number of infected patients exceeds 81,000, and the death toll exceeds 2,700. Several drugs, including lopinavir, remdesivir, and chloroquine, have been reported to be presumably effective in treating this disease [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Systemic treatment with corticosteroids is contraindicated for the severe pneumonia caused by viruses such as MERS-CoV and SARS-CoV, as steroids suppress the innate immune system, resulting in increased viral replication. In fact, for SARS in 2003 and MERS in 2013, treatment with corticosteroids was associated with increased mortality [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. In the present study, we reconsider the use of inhaled corticosteroids, which have been excluded from the treatment of pneumonia caused by coronavirus."
+        ],
+        "results": [
+            "<strong>Results and Discussion</strong><br/><br/>Steroid compounds, which are expected to have dual functions in blocking both coronavirus replication and host inflammation, were screened from a chemical library. The cytopathic effect caused by MERS-CoV infection was measured to evaluate viral replication. Four steroid compounds, ciclesonide, mometasone furoate, mifepristone, and algestone acetophenide conferred a greater than 95% cell survival rate (Fig. S1).<br/><br/>Next, concentration-dependent viral growth suppression and drug cytotoxicity were assessed. Ciclesonide exhibited low cytotoxicity and potent suppression of viral growth (Fig. 1a). Cortisone and prednisolone, which are commonly used for systemic steroid treatment, dexamethasone, which has strong immunosuppressant effects, and fluticasone, a commonly used inhaled steroid, did not suppress viral growth (Fig. 1a).<br/><br/>The antiviral effects of steroids against various species of viruses were tested by quantifying propagated virus in culture medium. Ciclesonide and mometasone also suppressed replication of other coronaviruses, HCoV-229E and SARS-CoV, but not replication of RS virus or influenza virus (Fig. S2). In addition, ciclesonide slightly but significantly inhibited rubella virus (having positive strand RNA genome) replication (Fig. S2), suggesting that ciclesonide interacted with the replication site of positive-strand RNA virus intracellularly.<br/><br/>To identify the drug target of virus replication, we conducted 11 consecutive MERS-CoV passages in the presence of 40 \u03bcM ciclesonide or 40 \u03bcM mometasone. A mutant virus that developed resistance ciclesonide was generated (Fig. 1b), but no resistant virus to mometasone was generated. Next-generation sequencing identified that an amino acid substitution at A25V (C19647T in the reference sequence NC_019843.3) in nonstructural protein 15 (NSP15), coronavirus endoribonuclease [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], was the predicted mechanism for viral resistance to ciclesonide. A recombinant virus carrying the A25V amino acid substitution (Re-Nsp15-A25V) was generated from the parental MERS-CoV/EMC strain (Re-EMC/MERS) with a BAC reverse genetics system [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], which overcame the antiviral effect of ciclesonide (Fig. 1c). Interestingly, the mutant virus was inhibited by mometasone, suggesting that the antiviral target of mometasone was different from that of ciclesonide.<br/><br/>Next, the effect of ciclesonide on SARS-CoV-2 infection was evaluated. VeroE6/TMPRSS2 cells[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] were infected with authentic SARS-CoV-2 in the presence of steroids or other inhibitors. At 6 h post-infection, cellular RNA was isolated, and real-time PCR was conducted to quantify the amount of viral RNA [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Ciclesonide and mometasone suppressed viral replication with a similar efficacy to lopinavir (Fig. 2a). For comparison, viral cell entry inhibitors were tested. E64d substantially reduced viral RNA levels, but nafamostat and camostat had only modest antiviral effects, suggesting that SARS-CoV-2 primarily utilized the cathepsin/endosomal pathway of cell entry rather than the TMPRSS2/cell surface pathway to enter TMPRSS2-expressing cells, consistent with a recent study [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>].<br/><br/>\u03bc Ciclesonide blocked SARS-CoV-2 replication at low concentrations (EC50 = 4.4 M; \u03bc \u03bc EC90 = 6.3 M; CC50 > 100 M) (Fig. 2b).<br/><br/>This study suggests that ciclesonide presumably interacts with viral NSP15, either directly or indirectly, to suppress viral replication of SARS-CoV-2. An amino acid substitution in the ciclesonide-resistant mutant, located at the dimerization site of the NSP15 homo-hexamer [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], suggested that ciclesonide interacts with NSP15 during viral biogenesis. Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression of viral replication.<br/><br/>Ciclesonide is a safe drug, and can be administered to infants at high concentrations. Inhaled ciclesonide is expected to reduce viral replication and host inflammation in the lungs, with decreased immunosuppressive effects compared to systemic corticosteroids, as ciclesonide primarily remains in the lung tissue, and does not significantly enter the bloodstream. Treatment of patients with ciclesonide should be carefully evaluated, considering the benefit-risk balance of the drug."
+        ],
+        "methods": [
+            "Cells and viruses. Vero cells and VeroE6 cells expressing TMPRSS2 (VeroE6/TMPRSS2) were maintained in Dulbecco\u2019s modified Eagle medium (DMEM; Sigma-Aldrich, USA) supplemented with 5% fetal bovine serum (Gibco-BRL, USA). MERS-CoV and SARS-CoV-2 were propagated in Vero and VeroE6/TMPRSS2 cells.<br/><br/>Steroids and inhibitors. The following compounds were used: cortisone, prednisolone, fluticasone, dexamethasone, algestone acetophenide, mifepristone, mometasone furoate, and ciclesonide (from Prestwick the Chemical Library ;PerkinElmer, MA, USA), nafamostat (N0289; Sigma), camostat (3193; Tocris Bioscience, USA), E64d (330005; Calbiochem, USA), and lopinavir (SML1222; Sigma).<br/><br/>Quantification of coronaviral RNA. Confluent cells in 96-well plates were inoculated with virus in the presence of steroid compounds. Cellular RNA was isolated at 6 hours post-infection (hpi) using a CellAmp Direct RNA Prep Kit (3732; Takara, Japan) and culture medium collected at 24 hpi or 27 hpi was diluted 10-fold in water, then boiled. A real-time PCR assay was performed to quantify the amount of coronavirus RNA with a MyGo Pro instrument (IT-IS Life Science, Ireland) using primers and probes described previously [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].<br/><br/>Cytotoxicity Assays. Confluent cells in 96-well plates were treated with steroids. After incubation for 24 or 27 hours, a cell viability assay was performed using WST reagent (CK12; Dojin Lab, Japan) according to manufacturer\u2019s instructions.<br/><br/>Generation of recombinant MERS-CoV from BAC plasmids. A bacterial artificial chromosome (BAC) clone carrying the full-length infectious genome of the MERS-CoV EMC2012 strain was used to generate recombinant MERS-CoV, as described previously [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].<br/><br/>Statistical analysis. Statistical significance was assessed using an ANOVA test. A P-value < 0.05 was considered statistically significant. In figures, significance is indicated as follows: n.s., not significant; * P \u2264 0.05; ** P \u2264 0.01; and *** P \u2264 0.001. Error bars indicate standard deviations (SD)."
+        ],
+        "acknowledgements": [
+            "We thank Tsuneo Morishima of Aichi Medical University for helpful suggestions. We also thank Ron A. M. Fouchier and Bart L. Haagmans of Erasmus Medical Center for providing MERS-CoV, and John Ziebuhr of the University of Wurzburg for providing SARS-CoV. This study was supported by Grants-in Aid from the Japan Agency for Medical Research and Development (AMED) (Grant Number JP19fk0108058j0802), and from the Japan Society for the Promotion of Science (JSPS) (Grant Number 17K08868).<br/><br/>Author contributions: S.M., M.S., and S.F. designed the research; S.F. screened drugs; S.M., M.K., K.S., and M.U. performed experiments; N.N. performed NGS; W.K. performed reverse genetics; S.M. wrote the paper.<br/><br/>The authors declare no competing interests."
+        ],
+        "funding": [
+            "This study was supported by Grants-in Aid from the Japan Agency for Medical Research and Development (AMED) (Grant Number JP19fk0108058j0802), and from the Japan Society for the Promotion of Science (JSPS) (Grant Number 17K08868). Author contributions: S.M., M.S., and S.F. designed the research; S.F. screened drugs; S.M., M.K., K.S., and M.U. performed experiments; N.N. performed NGS; W.K. performed reverse genetics; S.M. wrote the paper. The authors declare no competing interests"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Fig. S1",
+                "Fig. S2"
+            ]
+        }
+    },
+    "structured_content": {
+        "Introduction": [
+            "The COVID-19 outbreak began on December 2019 in Wuhan, China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and the causative virus, SARS-CoV-2, has rapidly spread into 43 countries as of February 27, 2020. The number of infected patients exceeds 81,000, and the death toll exceeds 2,700. Several drugs, including lopinavir, remdesivir, and chloroquine, have been reported to be presumably effective in treating this disease [<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>, <a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Systemic treatment with corticosteroids is contraindicated for the severe pneumonia caused by viruses such as MERS-CoV and SARS-CoV, as steroids suppress the innate immune system, resulting in increased viral replication. In fact, for SARS in 2003 and MERS in 2013, treatment with corticosteroids was associated with increased mortality [<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. In the present study, we reconsider the use of inhaled corticosteroids, which have been excluded from the treatment of pneumonia caused by coronavirus."
+        ],
+        "Results and Discussion": [
+            "Steroid compounds, which are expected to have dual functions in blocking both coronavirus replication and host inflammation, were screened from a chemical library. The cytopathic effect caused by MERS-CoV infection was measured to evaluate viral replication. Four steroid compounds, ciclesonide, mometasone furoate, mifepristone, and algestone acetophenide conferred a greater than 95% cell survival rate (Fig. S1).",
+            "Next, concentration-dependent viral growth suppression and drug cytotoxicity were assessed. Ciclesonide exhibited low cytotoxicity and potent suppression of viral growth (Fig. 1a). Cortisone and prednisolone, which are commonly used for systemic steroid treatment, dexamethasone, which has strong immunosuppressant effects, and fluticasone, a commonly used inhaled steroid, did not suppress viral growth (Fig. 1a).",
+            "The antiviral effects of steroids against various species of viruses were tested by quantifying propagated virus in culture medium. Ciclesonide and mometasone also suppressed replication of other coronaviruses, HCoV-229E and SARS-CoV, but not replication of RS virus or influenza virus (Fig. S2). In addition, ciclesonide slightly but significantly inhibited rubella virus (having positive strand RNA genome) replication (Fig. S2), suggesting that ciclesonide interacted with the replication site of positive-strand RNA virus intracellularly.",
+            "To identify the drug target of virus replication, we conducted 11 consecutive MERS-CoV passages in the presence of 40 \u03bcM ciclesonide or 40 \u03bcM mometasone. A mutant virus that developed resistance ciclesonide was generated (Fig. 1b), but no resistant virus to mometasone was generated. Next-generation sequencing identified that an amino acid substitution at A25V (C19647T in the reference sequence NC_019843.3) in nonstructural protein 15 (NSP15), coronavirus endoribonuclease [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], was the predicted mechanism for viral resistance to ciclesonide. A recombinant virus carrying the A25V amino acid substitution (Re-Nsp15-A25V) was generated from the parental MERS-CoV/EMC strain (Re-EMC/MERS) with a BAC reverse genetics system [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], which overcame the antiviral effect of ciclesonide (Fig. 1c). Interestingly, the mutant virus was inhibited by mometasone, suggesting that the antiviral target of mometasone was different from that of ciclesonide.",
+            "Next, the effect of ciclesonide on SARS-CoV-2 infection was evaluated. VeroE6/TMPRSS2 cells[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] were infected with authentic SARS-CoV-2 in the presence of steroids or other inhibitors. At 6 h post-infection, cellular RNA was isolated, and real-time PCR was conducted to quantify the amount of viral RNA [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Ciclesonide and mometasone suppressed viral replication with a similar efficacy to lopinavir (Fig. 2a). For comparison, viral cell entry inhibitors were tested. E64d substantially reduced viral RNA levels, but nafamostat and camostat had only modest antiviral effects, suggesting that SARS-CoV-2 primarily utilized the cathepsin/endosomal pathway of cell entry rather than the TMPRSS2/cell surface pathway to enter TMPRSS2-expressing cells, consistent with a recent study [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>].",
+            "\u03bc Ciclesonide blocked SARS-CoV-2 replication at low concentrations (EC50 = 4.4 M; \u03bc \u03bc EC90 = 6.3 M; CC50 > 100 M) (Fig. 2b).",
+            "This study suggests that ciclesonide presumably interacts with viral NSP15, either directly or indirectly, to suppress viral replication of SARS-CoV-2. An amino acid substitution in the ciclesonide-resistant mutant, located at the dimerization site of the NSP15 homo-hexamer [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>], suggested that ciclesonide interacts with NSP15 during viral biogenesis. Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression of viral replication.",
+            "Ciclesonide is a safe drug, and can be administered to infants at high concentrations. Inhaled ciclesonide is expected to reduce viral replication and host inflammation in the lungs, with decreased immunosuppressive effects compared to systemic corticosteroids, as ciclesonide primarily remains in the lung tissue, and does not significantly enter the bloodstream. Treatment of patients with ciclesonide should be carefully evaluated, considering the benefit-risk balance of the drug."
+        ],
+        "Materials and Methods": [
+            "Cells and viruses. Vero cells and VeroE6 cells expressing TMPRSS2 (VeroE6/TMPRSS2) were maintained in Dulbecco\u2019s modified Eagle medium (DMEM; Sigma-Aldrich, USA) supplemented with 5% fetal bovine serum (Gibco-BRL, USA). MERS-CoV and SARS-CoV-2 were propagated in Vero and VeroE6/TMPRSS2 cells.",
+            "Steroids and inhibitors. The following compounds were used: cortisone, prednisolone, fluticasone, dexamethasone, algestone acetophenide, mifepristone, mometasone furoate, and ciclesonide (from Prestwick the Chemical Library ;PerkinElmer, MA, USA), nafamostat (N0289; Sigma), camostat (3193; Tocris Bioscience, USA), E64d (330005; Calbiochem, USA), and lopinavir (SML1222; Sigma).",
+            "Quantification of coronaviral RNA. Confluent cells in 96-well plates were inoculated with virus in the presence of steroid compounds. Cellular RNA was isolated at 6 hours post-infection (hpi) using a CellAmp Direct RNA Prep Kit (3732; Takara, Japan) and culture medium collected at 24 hpi or 27 hpi was diluted 10-fold in water, then boiled. A real-time PCR assay was performed to quantify the amount of coronavirus RNA with a MyGo Pro instrument (IT-IS Life Science, Ireland) using primers and probes described previously [<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>].",
+            "Cytotoxicity Assays. Confluent cells in 96-well plates were treated with steroids. After incubation for 24 or 27 hours, a cell viability assay was performed using WST reagent (CK12; Dojin Lab, Japan) according to manufacturer\u2019s instructions.",
+            "Generation of recombinant MERS-CoV from BAC plasmids. A bacterial artificial chromosome (BAC) clone carrying the full-length infectious genome of the MERS-CoV EMC2012 strain was used to generate recombinant MERS-CoV, as described previously [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>].",
+            "Statistical analysis. Statistical significance was assessed using an ANOVA test. A P-value < 0.05 was considered statistically significant. In figures, significance is indicated as follows: n.s., not significant; * P \u2264 0.05; ** P \u2264 0.01; and *** P \u2264 0.001. Error bars indicate standard deviations (SD)."
+        ],
+        "Acknowledgements": [
+            "We thank Tsuneo Morishima of Aichi Medical University for helpful suggestions. We also thank Ron A. M. Fouchier and Bart L. Haagmans of Erasmus Medical Center for providing MERS-CoV, and John Ziebuhr of the University of Wurzburg for providing SARS-CoV. This study was supported by Grants-in Aid from the Japan Agency for Medical Research and Development (AMED) (Grant Number JP19fk0108058j0802), and from the Japan Society for the Promotion of Science (JSPS) (Grant Number 17K08868).",
+            "Author contributions: S.M., M.S., and S.F. designed the research; S.F. screened drugs; S.M., M.K., K.S., and M.U. performed experiments; N.N. performed NGS; W.K. performed reverse genetics; S.M. wrote the paper.",
+            "The authors declare no competing interests."
+        ],
+        "References": [
+            "1. X. Ma, et al, A Novel Coronavirus from Patients with Pneumonia in China, 2019. 1\u20137",
+            "(2020). 2. H. Lu, Drug treatment options for the 2019-new coronavirus (2019- nCoV). Biosci. Trends",
+            "A 01020, 10\u201312 (2020). 3. M. Wang, et al, Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res., 2019\u20132021 (2020). 4. S. H. Alfaraj, et al, Clinical predictors of mortality of Middle East Respiratory Syndrome",
+            "Coronavirus ( MERS-CoV ) infection : A cohort study. 29, 48\u201350 (2019). 5. N. Lee, et al, Effects of early corticosteroid treatment on plasma SARS-associated",
+            "Coronavirus RNA concentrations in adult patients. J. Clin. Virol. 31, 304\u2013309 (2004). 6. J. Athmer, et al, In Situ Tagged nsp15 Reveals Interactions with Coronavirus Associated",
+            "Proteins. MBio 8, 1\u201314 (2017). 7. X. Deng, et al, Coronavirus nonstructural protein 15 mediates evasion of dsRNA sensors and limits apoptosis in macrophages. PNAS 114, E4251\u2013E4260 (2017). 8. A. Lundin, et al, Targeting Membrane-Bound Viral RNA Synthesis Reveals Potent",
+            "Inhibition of Diverse Coronaviruses Including the Middle East Respiratory Syndrome Virus. PLoS Pathog. 10 (2014). 9. Y. Terada, K. Kawachi, Y. Matsuura, W. Kamitani, MERS coronavirus nsp1 participates in an efficient propagation through a specific interaction with viral RNA. Virology 511, 95\u2013105 (2017). 10. S. Matsuyama, N. Nao, K. Shirato, M. Kawase, S. Saito, Enhanced isolation of the novel 2019 coronavirus by TMPRSS2- expressing cells . Submitt. Publ. PNAS (2020). 11. V. M. Corman, et al, Detection of 2019 novel coronavirus (2019-nCoV) by real-time",
+            "RT-PCR. Euro Surveill. 25, 1\u20138 (2020). 12. L. Zhang, et al, Structural and Biochemical Characterization of Endoribonuclease Nsp15",
+            "Encoded by Middle East Respiratory Syndrome Coronavirus. J. Virol. 92, 1\u201316 (2018). 13. K. Shirato, M. Kawase, S. Matsuyama, Middle East respiratory syndrome coronavirus infection mediated by the transmembrane serine protease TMPRSS2. J. Virol. 87, 12552\u201361 (2013).",
+            "Figure Legends Figure 1: Antiviral effects of steroids on MERS-CoV infection. (a) Effect of steroids on MERS-CoV replication. Vero cells were infected with MERS-CoV at MOI = 0.01 in the presence of steroids for 24 h. The viral titer in the cell supernatant was quantified by standard plaque assay using Vero/TMPRSS2 cells. Cell viability in the presence of steroids was quantified by WST assay at 24 hours post-infection (hpi). (b) Ciclesonide escape mutant. Vero cells treated with ciclesonide were infected with parental MERS-CoV or ciclesonide escape mutant. Viral titer was measured as described in panel a. (c) Vero cells were infected with the parental MERS-CoV/EMC strain (Re-EMC/MERS) or the recombinant mutant strain (Re-Nsp15-A25V) with an amino acid substitution at A25V in NSP15. Viral titer was measured as described in panel a.",
+            "Figure 2: Antiviral effects of steroids on SARS-CoV-2. (a) Intracellular SARS-CoV-2 RNA (6 hpi). VeroE6/TMPRSS2 cells were infected with SARS-CoV-2 at MOI = 1 in the \u03bc presence of 10 M compounds for 6 h. Cellular viral RNA was quantified by real-time PCR using the E gene primer/probe set. (b) Culture Medium SARS-CoV-2 RNA (27 hpi). VeroE6/TMPRSS2 cells were infected with SARS-CoV-2 at MOI = 0.01 in the presence of ciclesonide for 27 h. Viral RNA in culture medium was quantified by real-time PCR using the E gene primer/probe set. Cell viability in the presence of ciclesonide was quantified at 27 hpi by WST assay.",
+            "bioRxiv preprint doi: https://doi.org/10.1101/2020.03.11.987016. The copyright holder for this preprint (which was not peer-reviewed) is th author/funder. All rights reserved. No reuse allowed without permission.",
+            "Cell viability (%)",
+            "Fig 1",
+            "Virus titer (log10 PFU)",
+            "a",
+            "Cortisone 6 5 4 3 2 1 0",
+            "Algestone 6 5 4 3 2 1 0",
+            "Prednisolone Mifepristone",
+            "Fluticasone Mometasone",
+            "Dexamethasone 120 100 80 60 40 20 0",
+            "Ciclesonide 120 100 80 60 40 20 0",
+            "10 100",
+            "10 100 Virus titer (log10 PFU)",
+            "Concentration (\u03bcM)",
+            "b Parental Ciclesonide MERS Escape 6 c",
+            "Re-EMC/MERS Re-Nsp15-A25V 6",
+            "ND ND",
+            "RNA copy (log10) RNA copy (log10)",
+            "a SARS-CoV-2 RNA in cell (6 hpi) 5",
+            "*** ***",
+            "*** *** ***",
+            "***",
+            "b",
+            "SARS-CoV-2 RNA in medium (27 hpi)",
+            "Ciclesonide (\u03bcM)"
+        ]
+    },
+    "participants": [],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Statistical significance was assessed using an ANOVA test</mark>",
+                "tests": [
+                    {
+                        "test": "ANOVA test"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P \u2264 0.05",
+            "context": "A P-value < 0.05 was considered statistically significant. <mark class=\"stats\">In figures, significance is indicated as follows: n.s., not significant; * P \u2264 0.05; ** P \u2264 0.01; and *** P \u2264 0.001</mark>. Error bars indicate standard deviations (SD).Cells and viruses"
+        },
+        {
+            "p_value": "P \u2264 0.05",
+            "context": "A P-value < 0.05 was considered statistically significant. <mark class=\"stats\">In figures, significance is indicated as follows: n.s., not significant; * P \u2264 0.05; ** P \u2264 0.01; and *** P \u2264 0.001</mark>. Error bars indicate standard deviations (SD)"
+        }
+    ],
+    "keywords": [
+        "nonstructural protein",
+        "remdesivir",
+        "coronavirus rna",
+        "novel coronavirus",
+        "mers cov",
+        "ciclesonide",
+        "middle east respiratory syndrome coronavirus",
+        "pneumonia",
+        "East Respiratory syndrome",
+        "bacterial artificial chromosome",
+        "nonstructural protein 15",
+        "COVID-19",
+        "SARS",
+        "MERS",
+        "sars cov",
+        "Dulbecco\u2019s modified Eagle medium",
+        "standard deviations",
+        "Japan Society for the Promotion of Science",
+        "viral replication"
+    ],
+    "keyword_relevance": {
+        "ciclesonide": 0.23684210526315788,
+        "MERS": 0.21052631578947367,
+        "SARS": 0.17543859649122806,
+        "nonstructural protein": 0.08771929824561403,
+        "nonstructural protein 15": 0.07017543859649122,
+        "viral replication": 0.06140350877192982,
+        "bacterial artificial chromosome": 0.03508771929824561,
+        "COVID-19": 0.02631578947368421,
+        "novel coronavirus": 0.017543859649122806,
+        "pneumonia": 0.017543859649122806,
+        "Dulbecco\u2019s modified Eagle medium": 0.017543859649122806,
+        "standard deviations": 0.017543859649122806,
+        "Japan Society for the Promotion of Science": 0.017543859649122806,
+        "remdesivir": 0.008771929824561403,
+        "coronavirus rna": 0.0,
+        "mers cov": 0.0,
+        "middle east respiratory syndrome coronavirus": 0.0,
+        "East Respiratory syndrome": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "The COVID-19 outbreak began on December 2019 in Wuhan, China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and the causative virus, SARS-CoV-2, has rapidly spread into 43 countries as of February 27, 2020.",
+        "The cytopathic effect caused by MERS-CoV infection was measured to evaluate viral replication.",
+        "Ciclesonide, mometasone furoate, mifepristone, and algestone acetophenide conferred a greater than 95% cell survival rate (Fig. S1).",
+        "Concentration-dependent viral growth suppression and drug cytotoxicity were assessed.",
+        "Ciclesonide exhibited low cytotoxicity and potent suppression of viral growth (Fig. 1a).",
+        "Cortisone and prednisolone, which are commonly used for systemic steroid treatment, dexamethasone, which has strong immunosuppressant effects, and fluticasone, a commonly used inhaled steroid, did not suppress viral growth (Fig. 1a).",
+        "The antiviral effects of steroids against various species of viruses were tested by quantifying propagated virus in culture medium.",
+        "Ciclesonide and mometasone suppressed replication of other coronaviruses, HCoV-229E and SARS-CoV, but not replication of RS virus or influenza virus (Fig. S2).",
+        "To identify the drug target of virus replication, the authors conducted 11 consecutive MERS-CoV",
+        "A recombinant virus carrying the A25V amino acid substitution (Re-Nsp15-A25V) was generated from the parental MERS-CoV/EMC strain (Re-EMC/MERS) with a BAC reverse genetics system [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], which overcame the antiviral effect of ciclesonide (Fig. 1c).",
+        "The effect of ciclesonide on SARS-CoV-2 infection was evaluated.",
+        "VeroE6/TMPRSS2 cells[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] were infected with authentic SARS-CoV-2 in the presence of steroids or other inhibitors.",
+        "Ciclesonide and mometasone suppressed viral replication with a similar efficacy to lopinavir (Fig. 2a).",
+        "E64d substantially reduced viral RNA levels, but nafamostat and camostat had only modest antiviral effects, suggesting that SARS-CoV-2 primarily utilized the cathepsin/endosomal pathway of cell entry rather than the TMPRSS2/cell surface pathway to enter TMPRSS2-expressing cells, consistent with a recent study [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>].",
+        "\u039c Ciclesonide blocked SARS-CoV-2 replication at low concentrations (EC50 = 4.4 M; \u03bc \u03bc EC90 = 6.3 M; CC50 > 100 M) (Fig. 2b).",
+        "This study suggests that ciclesonide presumably interacts with viral NSP15, either directly or indirectly, to suppress viral replication of SARS-CoV-2.",
+        "Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression of viral replication.",
+        "Inhaled ciclesonide is expected to reduce viral replication and host inflammation in the lungs, with decreased immunosuppressive effects compared to systemic corticosteroids, as ciclesonide primarily remains in the lung tissue, and does not significantly enter the bloodstream.",
+        "The following compounds were used: cortisone, prednisolone, fluticasone, dexamethasone, algestone acetophenide, mifepristone, mometasone furoate, and ciclesonide, nafamostat (N0289; Sigma), camostat (3193; Tocris Bioscience, USA), E64d (330005; Calbiochem, USA), and lopinavir (SML1222; Sigma).",
+        "Confluent cells in 96-well plates were inoculated with virus in the presence of steroid compounds."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The COVID-19 outbreak began on December 2019 in Wuhan, China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and the causative virus, SARS-CoV-2, has rapidly spread into 43 countries as of February 27, 2020.",
+            "The cytopathic effect caused by MERS-CoV infection was measured to evaluate viral replication.",
+            "Ciclesonide, mometasone furoate, mifepristone, and algestone acetophenide conferred a greater than 95% cell survival rate (Fig. S1).",
+            "Concentration-dependent viral growth suppression and drug cytotoxicity were assessed."
+        ],
+        "Results": [
+            "Ciclesonide exhibited low cytotoxicity and potent suppression of viral growth (Fig. 1a).",
+            "Cortisone and prednisolone, which are commonly used for systemic steroid treatment, dexamethasone, which has strong immunosuppressant effects, and fluticasone, a commonly used inhaled steroid, did not suppress viral growth (Fig. 1a).",
+            "The antiviral effects of steroids against various species of viruses were tested by quantifying propagated virus in culture medium.",
+            "Ciclesonide and mometasone suppressed replication of other coronaviruses, HCoV-229E and SARS-CoV, but not replication of RS virus or influenza virus (Fig. S2).",
+            "To identify the drug target of virus replication, the authors conducted 11 consecutive MERS-CoV",
+            "A recombinant virus carrying the A25V amino acid substitution (Re-Nsp15-A25V) was generated from the parental MERS-CoV/EMC strain (Re-EMC/MERS) with a BAC reverse genetics system [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], which overcame the antiviral effect of ciclesonide (Fig. 1c).",
+            "The effect of ciclesonide on SARS-CoV-2 infection was evaluated.",
+            "VeroE6/TMPRSS2 cells[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] were infected with authentic SARS-CoV-2 in the presence of steroids or other inhibitors.",
+            "Ciclesonide and mometasone suppressed viral replication with a similar efficacy to lopinavir (Fig. 2a).",
+            "E64d substantially reduced viral RNA levels, but nafamostat and camostat had only modest antiviral effects, suggesting that SARS-CoV-2 primarily utilized the cathepsin/endosomal pathway of cell entry rather than the TMPRSS2/cell surface pathway to enter TMPRSS2-expressing cells, consistent with a recent study [<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>].",
+            "\u039c Ciclesonide blocked SARS-CoV-2 replication at low concentrations (EC50 = 4.4 M; \u03bc \u03bc EC90 = 6.3 M; CC50 > 100 M) (Fig. 2b).",
+            "This study suggests that ciclesonide presumably interacts with viral NSP15, either directly or indirectly, to suppress viral replication of SARS-CoV-2."
+        ],
+        "Conclusion": [
+            "Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression of viral replication.",
+            "Inhaled ciclesonide is expected to reduce viral replication and host inflammation in the lungs, with decreased immunosuppressive effects compared to systemic corticosteroids, as ciclesonide primarily remains in the lung tissue, and does not significantly enter the bloodstream.",
+            "The following compounds were used: cortisone, prednisolone, fluticasone, dexamethasone, algestone acetophenide, mifepristone, mometasone furoate, and ciclesonide, nafamostat (N0289; Sigma), camostat (3193; Tocris Bioscience, USA), E64d (330005; Calbiochem, USA), and lopinavir (SML1222; Sigma).",
+            "Confluent cells in 96-well plates were inoculated with virus in the presence of steroid compounds."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Ma_2019_a",
+            "entry": "1. X. Ma, et al., A Novel Coronavirus from Patients with Pneumonia in China, 2019. 1\u20137 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ma%2C%20X.%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019"
+        },
+        {
+            "id": "2",
+            "alt_id": "Lu_2020_a",
+            "entry": "2. H. Lu, Drug treatment options for the 2019-new coronavirus (2019- nCoV). Biosci. Trends A 01020, 10\u201312 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=H%20Lu%20Drug%20treatment%20options%20for%20the%202019new%20coronavirus%202019%20nCoV%20Biosci%20Trends%20A%2001020%201012%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=H%20Lu%20Drug%20treatment%20options%20for%20the%202019new%20coronavirus%202019%20nCoV%20Biosci%20Trends%20A%2001020%201012%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=H%20Lu%20Drug%20treatment%20options%20for%20the%202019new%20coronavirus%202019%20nCoV%20Biosci%20Trends%20A%2001020%201012%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Wang_2019_a",
+            "entry": "3. M. Wang, et al., Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res., 2019\u20132021 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%2C%20M.%20Remdesivir%20and%20chloroquine%20effectively%20inhibit%20the%20recently%20emerged%20novel%20coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%2C%20M.%20Remdesivir%20and%20chloroquine%20effectively%20inhibit%20the%20recently%20emerged%20novel%20coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%2C%20M.%20Remdesivir%20and%20chloroquine%20effectively%20inhibit%20the%20recently%20emerged%20novel%20coronavirus%202019"
+        },
+        {
+            "id": "4",
+            "alt_id": "Alfaraj_2019_a",
+            "entry": "4. S. H. Alfaraj, et al., Clinical predictors of mortality of Middle East Respiratory Syndrome Coronavirus ( MERS-CoV ) infection: A cohort study. 29, 48\u201350 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Alfaraj%2C%20S.H.%20Clinical%20predictors%20of%20mortality%20of%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Alfaraj%2C%20S.H.%20Clinical%20predictors%20of%20mortality%20of%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Alfaraj%2C%20S.H.%20Clinical%20predictors%20of%20mortality%20of%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%202019"
+        },
+        {
+            "id": "5",
+            "alt_id": "Lee_2004_a",
+            "entry": "5. N. Lee, et al., Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients. J. Clin. Virol. 31, 304\u2013309 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lee%2C%20N.%20Effects%20of%20early%20corticosteroid%20treatment%20on%20plasma%20SARS-associated%20Coronavirus%20RNA%20concentrations%20in%20adult%20patients%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lee%2C%20N.%20Effects%20of%20early%20corticosteroid%20treatment%20on%20plasma%20SARS-associated%20Coronavirus%20RNA%20concentrations%20in%20adult%20patients%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lee%2C%20N.%20Effects%20of%20early%20corticosteroid%20treatment%20on%20plasma%20SARS-associated%20Coronavirus%20RNA%20concentrations%20in%20adult%20patients%202004"
+        },
+        {
+            "id": "6",
+            "alt_id": "Athmer_2017_a",
+            "entry": "6. J. Athmer, et al., In Situ Tagged nsp15 Reveals Interactions with Coronavirus Associated Proteins. MBio 8, 1\u201314 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Athmer%2C%20J.%20In%20Situ%20Tagged%20nsp15%20Reveals%20Interactions%20with%20Coronavirus%20Associated%20Proteins%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Athmer%2C%20J.%20In%20Situ%20Tagged%20nsp15%20Reveals%20Interactions%20with%20Coronavirus%20Associated%20Proteins%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Athmer%2C%20J.%20In%20Situ%20Tagged%20nsp15%20Reveals%20Interactions%20with%20Coronavirus%20Associated%20Proteins%202017"
+        },
+        {
+            "id": "7",
+            "alt_id": "Deng_2017_a",
+            "entry": "7. X. Deng, et al., Coronavirus nonstructural protein 15 mediates evasion of dsRNA sensors and limits apoptosis in macrophages. PNAS 114, E4251\u2013E4260 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Deng%2C%20X.%20Coronavirus%20nonstructural%20protein%2015%20mediates%20evasion%20of%20dsRNA%20sensors%20and%20limits%20apoptosis%20in%20macrophages%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Deng%2C%20X.%20Coronavirus%20nonstructural%20protein%2015%20mediates%20evasion%20of%20dsRNA%20sensors%20and%20limits%20apoptosis%20in%20macrophages%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Deng%2C%20X.%20Coronavirus%20nonstructural%20protein%2015%20mediates%20evasion%20of%20dsRNA%20sensors%20and%20limits%20apoptosis%20in%20macrophages%202017"
+        },
+        {
+            "id": "8",
+            "alt_id": "Lundin_2014_a",
+            "entry": "8. A. Lundin, et al., Targeting Membrane-Bound Viral RNA Synthesis Reveals Potent Inhibition of Diverse Coronaviruses Including the Middle East Respiratory Syndrome Virus. PLoS Pathog. 10 (2014).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lundin%2C%20A.%20Targeting%20Membrane-Bound%20Viral%20RNA%20Synthesis%20Reveals%20Potent%20Inhibition%20of%20Diverse%20Coronaviruses%20Including%20the%20Middle%20East%20Respiratory%20Syndrome%20Virus%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lundin%2C%20A.%20Targeting%20Membrane-Bound%20Viral%20RNA%20Synthesis%20Reveals%20Potent%20Inhibition%20of%20Diverse%20Coronaviruses%20Including%20the%20Middle%20East%20Respiratory%20Syndrome%20Virus%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lundin%2C%20A.%20Targeting%20Membrane-Bound%20Viral%20RNA%20Synthesis%20Reveals%20Potent%20Inhibition%20of%20Diverse%20Coronaviruses%20Including%20the%20Middle%20East%20Respiratory%20Syndrome%20Virus%202014"
+        },
+        {
+            "id": "9",
+            "alt_id": "Terada_et+al_2017_a",
+            "entry": "9. Y. Terada, K. Kawachi, Y. Matsuura, W. Kamitani, MERS coronavirus nsp1 participates in an efficient propagation through a specific interaction with viral RNA. Virology 511, 95\u2013105 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Terada%2C%20Y.%20Kawachi%2C%20K.%20Matsuura%2C%20Y.%20Kamitani%2C%20W.%20MERS%20coronavirus%20nsp1%20participates%20in%20an%20efficient%20propagation%20through%20a%20specific%20interaction%20with%20viral%20RNA%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Terada%2C%20Y.%20Kawachi%2C%20K.%20Matsuura%2C%20Y.%20Kamitani%2C%20W.%20MERS%20coronavirus%20nsp1%20participates%20in%20an%20efficient%20propagation%20through%20a%20specific%20interaction%20with%20viral%20RNA%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Terada%2C%20Y.%20Kawachi%2C%20K.%20Matsuura%2C%20Y.%20Kamitani%2C%20W.%20MERS%20coronavirus%20nsp1%20participates%20in%20an%20efficient%20propagation%20through%20a%20specific%20interaction%20with%20viral%20RNA%202017"
+        },
+        {
+            "id": "10",
+            "alt_id": "Matsuyama_et+al_2020_a",
+            "entry": "10. S. Matsuyama, N. Nao, K. Shirato, M. Kawase, S. Saito, Enhanced isolation of the novel 2019 coronavirus by TMPRSS2- expressing cells. Submitt. Publ. PNAS (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=S%20Matsuyama%20N%20Nao%20K%20Shirato%20M%20Kawase%20S%20Saito%20Enhanced%20isolation%20of%20the%20novel%202019%20coronavirus%20by%20TMPRSS2%20expressing%20cells%20Submitt%20Publ%20PNAS%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=S%20Matsuyama%20N%20Nao%20K%20Shirato%20M%20Kawase%20S%20Saito%20Enhanced%20isolation%20of%20the%20novel%202019%20coronavirus%20by%20TMPRSS2%20expressing%20cells%20Submitt%20Publ%20PNAS%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=S%20Matsuyama%20N%20Nao%20K%20Shirato%20M%20Kawase%20S%20Saito%20Enhanced%20isolation%20of%20the%20novel%202019%20coronavirus%20by%20TMPRSS2%20expressing%20cells%20Submitt%20Publ%20PNAS%202020"
+        },
+        {
+            "id": "11",
+            "alt_id": "Corman_2019_a",
+            "entry": "11. V. M. Corman, et al., Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill. 25, 1\u20138 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=V%20M%20Corman%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%2025%2018%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=V%20M%20Corman%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%2025%2018%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=V%20M%20Corman%20et%20al%20Detection%20of%202019%20novel%20coronavirus%202019nCoV%20by%20realtime%20RTPCR%20Euro%20Surveill%2025%2018%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "Zhang_2018_a",
+            "entry": "12. L. Zhang, et al., Structural and Biochemical Characterization of Endoribonuclease Nsp15 Encoded by Middle East Respiratory Syndrome Coronavirus. J. Virol. 92, 1\u201316 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhang%2C%20L.%20Structural%20and%20Biochemical%20Characterization%20of%20Endoribonuclease%20Nsp15%20Encoded%20by%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhang%2C%20L.%20Structural%20and%20Biochemical%20Characterization%20of%20Endoribonuclease%20Nsp15%20Encoded%20by%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhang%2C%20L.%20Structural%20and%20Biochemical%20Characterization%20of%20Endoribonuclease%20Nsp15%20Encoded%20by%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%202018"
+        },
+        {
+            "id": "13",
+            "alt_id": "Shirato_et+al_2013_a",
+            "entry": "13. K. Shirato, M. Kawase, S. Matsuyama, Middle East respiratory syndrome coronavirus infection mediated by the transmembrane serine protease TMPRSS2. J. Virol. 87, 12552\u201361 (2013). ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shirato%2C%20K.%20Kawase%2C%20M.%20Matsuyama%2C%20S.%20Middle%20East%20respiratory%20syndrome%20coronavirus%20infection%20mediated%20by%20the%20transmembrane%20serine%20protease%20TMPRSS2%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shirato%2C%20K.%20Kawase%2C%20M.%20Matsuyama%2C%20S.%20Middle%20East%20respiratory%20syndrome%20coronavirus%20infection%20mediated%20by%20the%20transmembrane%20serine%20protease%20TMPRSS2%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shirato%2C%20K.%20Kawase%2C%20M.%20Matsuyama%2C%20S.%20Middle%20East%20respiratory%20syndrome%20coronavirus%20infection%20mediated%20by%20the%20transmembrane%20serine%20protease%20TMPRSS2%202013"
+        }
+    ],
+    "facts": [
+        "which resulted in an amino acid substitution in nonstructural protein 15",
+        "These observations suggest that the effect of ciclesonide was specific to coronavirus",
+        "The COVID-19 outbreak began on December 2019 in Wuhan",
+        "Systemic treatment with corticosteroids is contraindicated for the severe pneumonia caused by viruses",
+        "treatment with corticosteroids was associated with increased mortality",
+        "which have been excluded from the treatment of pneumonia caused by coronavirus",
+        "VeroE6 cells expressing TMPRSS2 were maintained in Dulbecco's modified Eagle medium supplemented with",
+        "MERS-CoV and SARS-CoV-2 were propagated in Vero",
+        "Confluent cells in 96-well plates were inoculated with virus in the presence",
+        "Cellular RNA was isolated at 6 hours post-infection using a",
+        "CellAmp Direct RNA Prep Kit and culture medium collected at 24 hpi",
+        "A real-time PCR assay was performed to quantify the amount of coronavirus RNA with a MyGo Pro instrument using primers and probes described",
+        "Confluent cells in 96-well plates were treated with steroids",
+        "was performed using WST reagent according to manufacturer's instructions",
+        "The cytopathic effect caused by MERS-CoV infection was measured to evaluate viral replication",
+        "which are commonly used for systemic steroid treatment",
+        "The antiviral effects of steroids against various species of viruses were tested by quantifying propagated virus in culture medium",
+        "that ciclesonide interacted with the replication site of positive-strand RNA virus",
+        "11 consecutive MERS-CoV passages in the presence of 40 \u03bcM ciclesonide",
+        "Next-generation sequencing identified that an amino acid substitution at A25V",
+        "the A25V amino acid substitution was generated from the parental MERS-CoV",
+        "EMC strain with a BAC reverse genetics system",
+        "which overcame the antiviral effect of ciclesonide",
+        "the mutant virus was inhibited by mometasone",
+        "real-time PCR was conducted to quantify the amount of viral RNA",
+        "This study suggests that ciclesonide presumably interacts with viral NSP15",
+        "Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression",
+        "with decreased immunosuppressive effects compared to systemic corticosteroids",
+        "as ciclesonide primarily remains in the lung tissue"
+    ],
+    "claims": [
+        "This study suggests that ciclesonide presumably interacts with viral NSP15, either directly or indirectly, to suppress viral replication of SARS-CoV-2"
+    ],
+    "findings": [
+        "Four steroid compounds, ciclesonide, mometasone furoate, mifepristone, and algestone acetophenide conferred a greater than 95% cell survival rate (Fig. S1)",
+        "In figures, significance is indicated as follows: n.s., not significant; * P \u2264 0.05; ** P \u2264 0.01; and *** P \u2264 0.001"
+    ],
+    "processes": [],
+    "key_statements": [
+        "The cytopathic effect caused by MERS-CoV infection was measured to evaluate viral replication",
+        "Ciclesonide slightly but significantly inhibited rubella virus replication (Fig. S2), suggesting that ciclesonide interacted with the replication site of positive-strand RNA virus intracellularly",
+        "Next-generation sequencing identified that an amino acid substitution at A25V (C19647T in the reference sequence NC_019843.3) in nonstructural protein 15 (NSP15), coronavirus endoribonuclease [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], was the predicted mechanism for viral resistance to ciclesonide",
+        "A recombinant virus carrying the A25V amino acid substitution (Re-Nsp15-A25V) was generated from the parental MERS-CoV/EMC strain (Re-EMC/MERS) with a bacterial artificial chromosome reverse genetics system [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], which overcame the antiviral effect of ciclesonide (Fig. 1c)",
+        "The mutant virus was inhibited by mometasone, suggesting that the antiviral target of mometasone was different from that of ciclesonide",
+        "This study suggests that ciclesonide presumably interacts with viral nonstructural protein 15, either directly or indirectly, to suppress viral replication of SARS-CoV-2",
+        "Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression of viral replication",
+        "Inhaled ciclesonide is expected to reduce viral replication and host inflammation in the lungs, with decreased immunosuppressive effects compared to systemic corticosteroids, as ciclesonide primarily remains in the lung tissue, and does not significantly enter the bloodstream"
+    ],
+    "top_statements": [
+        "The COVID-19 outbreak began on December 2019 in Wuhan, China [<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>], and the causative virus, SARS-CoV-2, has rapidly spread into 43 countries as of February 27, 2020",
+        "Next-generation sequencing identified that an amino acid substitution at A25V (C19647T in the reference sequence NC_019843.3) in nonstructural protein 15 (NSP15), coronavirus endoribonuclease [<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>\u2013<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>], was the predicted mechanism for viral resistance to ciclesonide",
+        "A recombinant virus carrying the A25V amino acid substitution (Re-Nsp15-A25V) was generated from the parental MERS-CoV/EMC strain (Re-EMC/MERS) with a bacterial artificial chromosome reverse genetics system [<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], which overcame the antiviral effect of ciclesonide (Fig. 1c)",
+        "This study suggests that ciclesonide presumably interacts with viral nonstructural protein 15, either directly or indirectly, to suppress viral replication of SARS-CoV-2",
+        "Future studies will provide a detailed analysis of the molecular mechanisms of ciclesonide suppression of viral replication",
+        "Inhaled ciclesonide is expected to reduce viral replication and host inflammation in the lungs, with decreased immunosuppressive effects compared to systemic corticosteroids, as ciclesonide primarily remains in the lung tissue, and does not significantly enter the bloodstream"
+    ],
+    "headline": "This study suggests that ciclesonide presumably interacts with viral nonstructural protein 15, either directly or indirectly, to suppress viral replication of SARS-CoV-2",
+    "contexts": [],
+    "abbreviations": {
+        "NSP": "nonstructural protein",
+        "NSP15": "nonstructural protein 15",
+        "DMEM": "Dulbecco\u2019s modified Eagle medium",
+        "BAC": "bacterial artificial chromosome",
+        "SD": "standard deviations",
+        "JSPS": "Japan Society for the Promotion of Science"
+    }
+}

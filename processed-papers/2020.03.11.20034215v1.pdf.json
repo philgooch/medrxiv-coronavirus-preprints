@@ -1,0 +1,566 @@
+{
+    "filename": "2020.03.11.20034215v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 569407,
+    "metadata": {
+        "title": "Estimation of instant case fatality rate of COVID-19 in Wuhan and Hubei based on daily case notification data",
+        "author": "Lei Cao, Ting-ting Huang, Jun-xia Zhang, Qi Qin, Si-yu Liu, Hui-min Xue, Ya-xin Gong, Chang-hua Ning, Xiao-tong Shen, Jia-xin Yang, Yan-ni Mi, Xue Xiao, Yong-xiao Cao",
+        "date": 2020,
+        "affiliations": [
+            "Department of Pharmacology, School of Basic Medical Sciences, Xi\u2019an Jiaotong University Health Science Center, Xi\u2019an, Shaanxi 710061, P.R. China Key Laboratory of Environment and Genes Related to Diseases, Ministry of Education, Xi'an, Shaanxi 710061, P.R. China",
+            "Professor Department of Pharmacology, School of Basic Medical Sciences Xi\u2019an Jiaotong University Health Science Center Xi\u2019an, Shaanxi 710061, P.R. China Tel: 86-13186002095 Fax: 86- 29-82655140 E-mail addresses: yxy@xjtu.edu.cn"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.11.20034215",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.11.20034215v1.pdf"
+        },
+        "abstract": "Background The outbreak of coronavirus disease 2019 (COVID-19) initially appeared and has most rapidly spread in Wuhan, China. The case fatality rate is the most direct indicator to assess the hazards of an infectious disease. We aimed to estimate the instant fatality rate and cure rate of COVID-19 in Wuhan City and its affiliated Hubei Province. Methods We collected the daily case notification data of COVID-19 from Dec 8, 2019 to Mar 10, 2020 in Wuhan City and Hubei Province officially announced by the Chinese authority. The numbers of daily confirmed/deaths/cured cases and the numbers of daily cumulative confirmed/deaths/cured cases were obtained. The death time and cure time of COVID-19 patients were calculated based on the dates of diagnosis, death and discharge of individual cases. Then the estimated diagnosis dates of deaths and cured cases were obtained on the basis of the median death or medium cure time, respectively. Finally, the instant fatality rate of COVID-19 was calculated according to the numbers of deaths and cured cases on the same estimated diagnosis dates. Results From Jan 1, 2020 to Feb 22, 2020 in Wuhan City, the instant case fatality rate of COVID-19 was 3.4%~19.5% and the instant cured rate was 80.0%~96.6%. The average fatality rate reached 11.4% while the average cure rate was 88.6%. During the same period in Hubei Province, the instant case fatality rate was 3.8%~16.6% and the instant cured rate was 83.4%~96.6%. The average fatality rate and the average cure rate were 9.2% and 91.8%, respectively. Conclusions The fatality rate and cure rate of COVID-19 in Wuhan City and Hubei Province were underestimated. Wuhan showed higher fatality rate and cure rate than the whole Hubei Province did. Keywords: COVID-19; case fatality rate; cure rate; Hubei; Wuhan",
+        "keywords": [
+            "COVID-19",
+            "case fatality rate",
+            "cure rate",
+            "Hubei",
+            "Wuhan"
+        ],
+        "references": "@article{lu-a,\n  author = {Lu, H.Z. and Stratton, C.W. and Tang, Y.W.},\n  title = {Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle},\n  journal = {J Med Virol},\n  volume = {2020},\n  pages = {401\u20132},\n  number = {92},\n  language = {}\n}\n@article{wang-a,\n  author = {Wang, C. and Horby, P.W. and Hayden, F.G. and Gao, G.F.},\n  title = {A novel coronavirus outbreak of global health concern (vol 395, pg 470, 2020)},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {496},\n  number = {395},\n  language = {}\n}\n@article{chan-a,\n  author = {Chan, J.F.W. and Kok, K.H. and Zhu, Z.},\n  title = {Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan},\n  journal = {Emerg Microbes Infec},\n  volume = {2020},\n  pages = {221\u201336},\n  more-authors = {true},\n  number = {9},\n  language = {}\n}\n@article{z2020a,\n  author = {Z, N. and Z, D. and W, W.},\n  title = {al e. A novel coronavirus from patients with pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  volume = {5},\n  date = {2020-03-10},\n  source = {WHO. a total of 32,778 cases of coronavirus disease 2019 (COVID-19) have been confirmed outside China},\n  language = {}\n}\n@article{chen2009a,\n  author = {Chen, Z. and Akazawa, K. and Nakamura, T.},\n  title = {Estimating the case fatality rate using a constant cure-death hazard ratio},\n  journal = {Lifetime Data Anal},\n  date = {2009},\n  volume = {15},\n  pages = {316\u201329},\n  number = {3},\n  language = {}\n}\n@article{mahase-a,\n  author = {Mahase, E.},\n  title = {Coronavirus covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate},\n  journal = {BMJ},\n  volume = {2020},\n  pages = {641},\n  number = {368},\n  language = {}\n}\n@article{battegay2019a,\n  author = {Battegay, M. and Kuehl, R. and Tschudin-Sutter, S. and Hirsch, H.H. and Widmer, A.F. and Neher, R.A.},\n  date = {2019-11},\n  publisher = {Coronavirus},\n  title = {estimating the case fatality rate - a word of caution},\n  journal = {Swiss medical weekly},\n  volume = {2020},\n  pages = {20203},\n  number = {150},\n  language = {}\n}\n@article{chen2017a,\n  author = {Chen, H. and Wang, T. and Zhang, Y.},\n  title = {Comparison for four case fatality ratio estimation methods on the epidemic situations of infectious diseases},\n  journal = {Sci Technol Eng},\n  date = {2017},\n  volume = {17},\n  pages = {152\u20136},\n  number = {24},\n  language = {}\n}\n@article{wu-a,\n  author = {Wu, J.T. and Leung, K. and Leung, G.M.},\n  title = {Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {689\u201397},\n  number = {395},\n  language = {}\n}\n@article{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {Lancet},\n  volume = {2020},\n  pages = {497\u2013506},\n  more-authors = {true},\n  number = {395},\n  language = {}\n}\n@misc{wang-b,\n  author = {Wang, D. and Hu, B. and Hu, C.},\n  title = {Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020},\n  more-authors = {true},\n  language = {}\n}\n@article{zhang-a,\n  author = {Zhang, Y.},\n  title = {The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Chin},\n  journal = {J Epidemiol},\n  volume = {2020},\n  pages = {145\u201351},\n  number = {41},\n  language = {}\n}\n",
+        "links": [
+            "http://wjw.wh.gov.cn/front/web/list3rd/yes/802",
+            "http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml",
+            "http://wjw.hubei.gov.cn/fbjd/dtyw"
+        ],
+        "emails": [
+            "yxy@xjtu.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Lu, H.Z.\nAU  - Stratton, C.W.\nAU  - Tang, Y.W.\nTI  - Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle\nT2  - J Med Virol\nVL  - 2020\nSP  - 401\nEP  - 2\nIS  - 92\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, C.\nAU  - Horby, P.W.\nAU  - Hayden, F.G.\nAU  - Gao, G.F.\nTI  - A novel coronavirus outbreak of global health concern (vol 395, pg 470, 2020)\nT2  - Lancet\nVL  - 2020\nSP  - 496\nIS  - 395\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.W.\nAU  - Kok, K.H.\nAU  - Zhu, Z.\nTI  - Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan\nT2  - Emerg Microbes Infec\nVL  - 2020\nSP  - 221\nEP  - 36\nC1  - true\nIS  - 9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Z, N.\nAU  - Z, D.\nAU  - W, W.\nTI  - al e. A novel coronavirus from patients with pneumonia in China, 2019\nT2  - N Engl J Med\nVL  - 5\nPY  - 2020\nDA  - 2020/03/10\nT2  - WHO. a total of 32,778 cases of coronavirus disease 2019 (COVID-19) have been confirmed outside China\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, Z.\nAU  - Akazawa, K.\nAU  - Nakamura, T.\nTI  - Estimating the case fatality rate using a constant cure-death hazard ratio\nT2  - Lifetime Data Anal\nPY  - 2009\nDA  - 2009\nVL  - 15\nSP  - 316\nEP  - 29\nIS  - 3\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Mahase, E.\nTI  - Coronavirus covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate\nT2  - BMJ\nVL  - 2020\nSP  - 641\nIS  - 368\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Battegay, M.\nAU  - Kuehl, R.\nAU  - Tschudin-Sutter, S.\nAU  - Hirsch, H.H.\nAU  - Widmer, A.F.\nAU  - Neher, R.A.\nPY  - 2019\nDA  - 2019/11\nPB  - Coronavirus\nTI  - estimating the case fatality rate - a word of caution\nT2  - Swiss medical weekly\nVL  - 2020\nSP  - 20203\nIS  - 150\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chen, H.\nAU  - Wang, T.\nAU  - Zhang, Y.\nTI  - Comparison for four case fatality ratio estimation methods on the epidemic situations of infectious diseases\nT2  - Sci Technol Eng\nPY  - 2017\nDA  - 2017\nVL  - 17\nSP  - 152\nEP  - 6\nIS  - 24\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, J.T.\nAU  - Leung, K.\nAU  - Leung, G.M.\nTI  - Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study\nT2  - Lancet\nVL  - 2020\nSP  - 689\nEP  - 97\nIS  - 395\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - Lancet\nVL  - 2020\nSP  - 497\nEP  - 506\nC1  - true\nIS  - 395\nLA  - \nER  - \n\nTY  - GEN\nAU  - Wang, D.\nAU  - Hu, B.\nAU  - Hu, C.\nTI  - Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, Y.\nTI  - The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Chin\nT2  - J Epidemiol\nVL  - 2020\nSP  - 145\nEP  - 51\nIS  - 41\nLA  - \nER  - \n\n",
+        "author_conclusions": [],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "The relationship between death or cure times and dates of diagnosis, death and discharge"
+            },
+            {
+                "id": "2",
+                "caption": "The relationship between estimated diagnosis date (EDD) and dates of deaths or cured cases on daily case notification data (DCND)"
+            },
+            {
+                "id": "3",
+                "caption": "The daily variation of new confirmed cases, new cured cases and new deaths of COVID19 in Wuhan City (A) and Hubei Province (B)"
+            },
+            {
+                "id": "4",
+                "caption": "The daily variation of cumulative confirmed cases, cumulative cured cases and cumulative deaths of COVID-19 in Wuhan City and Hubei Province"
+            },
+            {
+                "id": "5",
+                "caption": "Distributions of death time of 134 deaths and cure time of 536 cured cases of COVID19"
+            },
+            {
+                "id": "6",
+                "caption": "The number of deaths and cured cases on the same estimated diagnosis dates of COVID19 in Wuhan City (A) and Hubei Province (B)"
+            },
+            {
+                "id": "7",
+                "caption": "The instant fatality rates and cure rates (B) of COVID-19 in Wuhan City (A) and Hubei Province (B)"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.20034215v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.20034215v1/img-002.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "The novel coronavirus pneumonia (COVID-19)[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] initially appeared in Wuhan, China is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). WHO announced that the ongoing COVID-19 outbreak is a Public Health Emergency of International Concern (PHEIC)[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. As of Mar. 10, 2020, the number of confirmed COVID19 cases in China has reached to 80955, of which 3162 were dead, and 61567 were cured. Wuhan City and its affiliated Hubei Province are most affected and account for at least 90% of the cases. At present the outbreak in China has been basically controlled. However, the cases of COVID-19 have rapidly increased in other 109 countries around the world, such as South Korea, Italy, Iran, Japan, Singapore, United States and so on. As of Mar 10, 2020, the total number of patients has risen sharply to 32778 outside China, and 876 patients has died.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] The global outbreak is getting worse.<br/><br/>Assessing the hazards of infectious diseases is a vital important concern in epidemiology.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] The case fatality rate, standing for the percentage of deaths from a disease in the total number of infected-patients during the whole outbreak, is the direct one to reflect the severity of the disease. The accurate case fatality rate of an infectious disease could be obtained after the outbreak is over, on the basis of the numbers of confirmed cases and deaths. Given the severity of COVID-19 outbreak situation throughout the world, it is important to estimate and predict the fatality rate of COVID-19 in the early stage for the hazard evaluation, which might provide the basis for the setting of public security strategy, the allocation of health resources and the adjustment of medical treatment work. It might be also of great help to the government's decision-making and the public's understanding.<br/><br/>However, the mortality of COVID-19 published recently in some articles and the \u201cfatality rate\u201d announced by authority is neither mortality nor fatality rate.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Since the numbers of confirmed cases and deaths are constantly changing, it is impossible to get an accurate case fatality rate until the COVID-19 outbreak is over.<br/><br/>We considered that the case fatality rate is a collection from successive instant case fatality rates throughout the disease outbreak. In the present study, we established a method to estimate the instant fatality rate of COVID-19 even the outbreak is still on. We collected the daily case notification data of COVID-19 announced by the Chinese official. The death time and cure time of COVID-19 patients were obtained from individual cases. The estimated diagnosis dates of deaths and cured cases were then calculated. Finally, the instant fatality rate of COVID-19 was estimated according to the numbers of deaths and cured cases on the same estimated diagnosis dates."
+        ],
+        "methods": [
+            "Research design The death time and cure time of COVID-19 patients were calculated based on the dates of diagnosis, death and discharge of individual cases. Then, the estimated diagnosis dates of deaths and the estimated diagnosis dates of cure cases of COVID-19 were respectively calculated on the basis of the median death time or median cure time. Finally, the instant case fatality rate and cure rate of COVID-19 were obtained based on the numbers of deaths and cured cases on the same estimated diagnosis dates.<br/><br/>Data sources The daily case notification data of COVID-19 were collected from websites of the National Health Commissions of the People\u2019s Republic of China (http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml), Health Commission of Hubei Province (http://wjw.hubei.gov.cn/fbjd/dtyw), and Wuhan Municipal Health Commission (http://wjw.wh.gov.cn/front/web/list3rd/yes/802).<br/><br/>Data collection We collected the daily case notification data of COVID-19 in Wuhan City and its affiliated Hubei Province from Dec 8, 2019 to Feb 29, 2020.9 The data included the numbers of daily confirmed/deaths/cured cases and the numbers of daily cumulative confirmed/deaths/cured cases. Two researchers collected the data independently every single day, and then checked and corrected the data each other.<br/><br/>Data analysis We collected 134 deaths and 536 cured cases. Basing on the dates of diagnosis, death and discharge of individual cases, the death time of COVID-19 patients was the period from diagnosis dates to death dates of the deaths, while the cure time of COVID-19 patients was the period from diagnosis dates to discharge dates of cured cases (figure 1).<br/><br/>Death time = death date - diagnosis date Cure time = discharge date - diagnosis date Depending on the above death time and cure time, the diagnosis dates of deaths or cured cases of COVID-19 on daily case notification data were estimated. The estimated diagnosis date (EDD) of deaths is obtained from the date reported on daily case notification data (DCND) of deaths minus mean death time (DT). The estimated diagnostic date (EDD) of cure cases is obtained from the date reported on daily case notification data of cure cases minus mean cure time (CT) (figure 2).<br/><br/>EDD of deaths = date on DCND \u2013 DT EDD of cured cases = date on DCND \u2013 CT The daily fatality rate (FR) is calculated from the number of cumulative deaths (NCD) divided by a sum of the number of cumulative deaths and the number of cumulative cured cases (NCCC) on the same estimated diagnosis date.<br/><br/>FR = NCD / (NCD + NCCC)\u00d7100% The daily cure rate (CR) is calculated from the number of NCCC divided by a sum of the number of NCD and NCCC on the same estimated diagnosis date.<br/><br/>CR = NCCC / (NCD + NCCC) \u00d7100% Statistical analysis Excel 2016 and GraphPad Prism 8 were used to record, calculate and analyze data."
+        ],
+        "results": [
+            "Daily new cases The curves of daily new COVID-19 cases reported in Wuhan City and Hubei Province were shown in Figure 3. The confirmed cases initially occurred on Dec 8, 2019. The number of daily new confirmed cases started to increase in early January. The number markedly increased in late January, 2020, peaked in mid-February, and then decreased gradually. The death toll began to increase from mid-January to late January, peaked in<br/><br/>Number of cases Number of cases early February, 2020 and then decreased gradually. The COVID-19 patients were initially cured on Jan10, 2020. The number of daily new cured patients began to increase in midJanuary, obviously increased in early and mid-February, still maintained a high level in late February, 2020, and then decreased in the early March. The numbers of daily new confirmed cases, daily new deaths and daily new cured cases in Wuhan City were higher than those in Hubei Province. The characteristics in Hubei Province and Wuhan City were similar.    A    Wuhan city<br/><br/>New confirmed cases New cured cases New deaths    Dec 8 Jan 5<br/><br/>Jan 28 Feb 3 Feb 10 Feb 17 Feb 24 Mar 3 Mar 10 Dates    B    Hubei Province<br/><br/>Daily cumulative cases The daily variation curves of cumulative cases of COVID-19 including cumulative confirmed cases, cumulative deaths and cumulative cured cases in Wuhan City and Hubei Province were shown in Figure 4. The number of cumulative confirmed cases began to increase in early January. The increase is sharply accelerated in late January, and stabilized till the early March. The cumulative death toll started to show increase trend in midJanuary. The number was remarkably increased in early February, and the number increase slowed down in late February. The number of cumulative cured cases showed an increase tendency in mid-January. The increase was visibly accelerated in early February, and maintain stable till the early March.<br/><br/>A 60000 Wuhan City<br/><br/>Cumulative confirmed cases Cumulative cured cases Cumulative deaths<br/><br/>B 80000 Hubei Province    Dates 0<br/><br/>Dec 8 Dec 22 Jan 5 Jan 19 Feb 2 Feb 16 Mar 1 Mar 15    Dec 8    Dec 22    Jan 5<br/><br/>Jan 19 Feb 2 Dates<br/><br/>Feb 16 Mar 1 Mar 15<br/><br/>Death time and cure time After treatment, the COVID-19 patients would end up dead or cured. The time from diagnosis to death is called death time. The time from diagnosis to discharge is cure time. We collected the detailed dates of COVID-19 cases reported on the websites of the National Health Commissions of China and Provincial Health Commissions of China. The death time was calculated on the basis of the diagnosis dates and death dates of 134 dead patients. The mean death time of COVID-19 was 9.2\u00b16.7 days, the median death time was 8 days, and the quartile spacing was 9.2 days. According to the diagnosis dates, and discharge dates of 536 cured cases with COVID-19, the cure time from diagnosis dates to discharge dates was calculated. The cure time curve of the patients displayed a left skewed distribution with a skewness of 0.85. The mean cure time was 13.6\u00b15.6 days, the median cure time of was 12 days, and a 95% confidence interval was from 7.4 to 21.7 (figure 5). Based on the proportion of cumulative confirmed cases who were cured, we estimated that the median cure time of COVID-19 in Wuhan and Hubei was 16 days.<br/><br/>Number of cases Probabilirty<br/><br/>Number of cases Probability    Death time    Cure time<br/><br/>Estimation of diagnosis dates of the deaths and cured cases The confirmed patients would eventually have two endpoints: death or cure. We assumed that the dead patients died on the 8th days, the median death time, after diagnosis. The diagnosis date of the dead patient should be 8 days prior to that date. That is, the estimated diagnosis date (Dd) of the deaths is the date 8 days before the announced death date (Di).<br/><br/>Dd = D (i-8). Similarly, we assumed that cured patients are discharged on the 16th days, median cure time, after diagnosis. The estimated diagnosis date of the cure cases is the date 16 days before the announced cure date [D (i -16)].<br/><br/>Dd = D (i-16) We calculated the diagnosis dates of deaths and cured cases basing on the median death or cure times, respectively. Figure 6 shows the curves of the numbers of cumulative deaths and the number of cumulative cured cases of COVID-19 on the estimated diagnosis dates. The number of confirmed cases was equal to the sum of the number of cumulative cured cases and the number of cumulative death toll on the same estimated diagnosis date. Since the numbers of COVID-19 death toll on the same day was significantly less than the numbers of cured cases, the curve of estimated confirmed COVID-19 cases which was the sum of cumulative cured cases and cumulative death toll, was close to the curve of cumulative cured cases. The shapes and trends of the curves was in Wuhan City are similar to, but lower than those in Hubei province.    Number of cases    Wuhan City<br/><br/>Deaths + cured cases Cured cases Deaths<br/><br/>B 60000 Hubei Province<br/><br/>Deaths + cured cases Cumulative cured cases Cumulative deaths<br/><br/>Dec 18 Jan 1 Jan 15<br/><br/>Jan 26 Feb 2 Feb 9 Feb 16 Feb 23 Mar 1    Dates<br/><br/>Instant fatality rates The instant fatality rate of COVID-19 in Wuhan City was less than 10% (3.4-9.9%) from Jan 1 to Jan 13, 2020, and gradually increased to 14.2%-19.5% in mid to late January. In February, the instant case fatality rate gradually decreased and stabilized at 6.5% (figure 7A). The average case fatality rate was 11.4%. The instant case fatality rate of COVID19 in Hubei Province showed the same trend of that in Wuhan City, but the case fatality rates were lower than that in Wuhan City. The instant case fatality rate of COVID-19 in Hubei Province was 10% (3.8-9.1%) from Jan 1 to Jan 13, 2020, then increased to 10.0%16.6% in late January, and decreased to 5.6% on February 22, 2020 (figure 7B). The average case fatality rate was 9.2%. The curve tendency showed that the case fatality rates were still in decline step by step after February 22, 2020.    Rates (%)    Cure rate<br/><br/>Case fatality rate<br/><br/>Jan 6 Jan 13 Jan 19 Jan 27 Feb 3 Feb 10 Feb 17 Feb 24<br/><br/>Jan 13 Jan 19 Jan 27 Feb 3 Dates<br/><br/>Cure rate Case fatality rate<br/><br/>Feb 10 Feb 17 Feb 24<br/><br/>Instant cure rates The cure rate and case fatality rate are opposite since cure and death are a pair of competing events. The instant cure rate of COVID-19 in Wuhan City was between 80.0%96.6%, while the rate in Hubei Province was between 83.4%-96.6%. The instant cure rate was lower in second half of January than that in other time. Then the rate gradually increased. On February 22, the instant cure rate increased to 93.5 % in Wuhan, and 94.4% in Hubei (figure 7). The cure rate was likely to continue to increase little by little after February 22, 2020."
+        ],
+        "discussion": [
+            "The accurate case fatality rate of an infectious disease can be obtained after the outbreak is over. At present, the outbreak of COVID-19 is ongoing throughout China and worldwide. The numbers of confirmed cases, deaths and cured cases are constantly changing.[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Therefore, estimating the case fatality rate is obviously challenging. However, it is critical to balance the socioeconomic burden of infection control interventions against their potential benefit for mankind.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] The current literatures and the official published case fatality rates have a large deviation. Huang CL et al reported clinical features of 41 patients infected with SARS-CoV-2 in Wuhan, China. As of Jan 22, 2020, 28 of 41 patients had been discharged and 6 patients (the mortality 15%) died.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Wang D et al reported clinical characteristics of 138 hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan, China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a> 47] patients were discharged and 6 died (4.3%). The remaining 85 patients were still hospitalized. The mortality was reported as 4.3%. Zhang YP extracted a total of 72314 cases with COVID-19 reported China\u2019 Infectious Disease information System through Feb.11, 2020.13 Thereof a total of 1023 deaths occurred among 44672 confirmed cases for an overall case-fatality rate of 2.3%. However, he ignored a fact that there were 4740 discharged cases and 38909 hospitalized cases in confirmed cases. At present, in official websites the case fatality rates were calculated by dividing the number of known deaths by the number of confirmed cases. These data are neither case fatality rate, nor mortality, and might be off by orders of magnitude.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] The confirmed cases included deaths, cured, and hospitalized patients. Some of the hospitalized patients may end up dead in future and their data would not participate in the calculation of the case fatality. In addition, diagnosis of viral infection will precede death or recovery by days to weeks. The number of deaths should be compared to the past confirmed case numbers \u2013 accounting for this delay increasing the estimate of the case fatality rate.<br/><br/>We assumed that the case fatality rate of the whole outbreak process could be regarded as a collection of many successive instant case fatality rates. The instant case fatality rate is directly related to various factors at the time, and it is easier to analyze various factors and take possible actions to influence the disease progress by knowing this fatality rate in advance. This instant case fatality rate will gradually approach the case fatality rate as time goes on till the outbreak ends gradually. The extreme instant fatality rate can be used as an approximate value of case fatality rate within certain period of time. This approach provides a way to accurately calculate the fatality rate, which is not affected by hospitalized patients.<br/><br/>We set the instant unit of case fatality rate as a day, and calculated the daily case fatality rate. The daily case fatality rate was equal to the daily cumulative number of deaths divided by the number of deaths plus the number of cured patients. The number of daily confirmed cases is equal to the number of deaths plus the number of cured cases. The confirmed COVID-19 patients had to go through a certain period of time, which is the death time or the cure time, and then result in the final outcomes: death or cure. The date of deaths minus death time is the diagnosis date of deaths. Similarly, the cure date minus the cure time is the diagnosis date of cured patients. The daily case fatality rate and cure rates were then calculated using the cumulative number of deaths and cured cases at the same diagnosis date. This rate varies from day to day with disease-related factors.<br/><br/>The outbreak of COVID-19 firstly appeared in Wuhan, where the situation was most serious with the highest case fatality rate of China. The case fatality rate varied over time. In the first half of January, the fatality rate was less than 10% because the outbreak was not very serious and prevalent. It was easy for patients to see a doctor. But till the beginning of February, the number of patients largely increased and it was difficult for patients to receive medical care treatment. The admission and diagnosis of COVID-19 were delayed, the hospitals were crowded out, and medical condition was deteriorated. As a result, the case fatality rate rose sharply to 20%. In February, a large number of domestic medical resources supported Wuhan, and the medical conditions gradually improved. The treatment concept and methods were updated, the medical level was improved, and the treatment procedure became more and more standardized. On the other hand, the virulence of SARS-CoV-2 may decline as the virus passes through the generations. The proportion of severe cases decreased, and the fatality rate decreased to nearly 6.5%. Basing on this trend, we speculate that the case fatality rate would further decline.<br/><br/>The trend in Hubei Province was similar to that in Wuhan, but the case fatality rate was low. The case fatality rate in the first half of January 2020 was less than 10%. From the second half of January to the beginning of February, it rose to 10% ~16.6%, and then decreased to 5.6% on February 22. The fatality rate was expected to fall down further.<br/><br/>This study has some limitations. The major influencing factors were mean cure time and death time. The death time was calculated based on the 134 death cases, and the cure time was based on 536 discharged cases. They may deviate from reality and affect the results. We suggest that the government discloses cases of infectious diseases for scientific study to share the resources. Accurate cure time and death time was obtained, it may help to accurately calculate the case fatality rate, and to provide a basis for prevention and control of infectious disease.<br/><br/>Contributors YXC, and LC were responsible for conceptual design and led the team. TTH,JXZ did the modeling. QQ, SYL, HMX, YXG, CHN, XTS, JXY were responsible for data collection and management. LC and YXC drafted the manuscript. YNM, and XX revised the manuscript. All authors read the manuscript and contributed to editing."
+        ],
+        "disclosures": [
+            "<strong>Declaration of interests We declare no competing interests</strong><br/><br/>References<br/><br/>1. Lu HZ, Stratton CW, Tang YW. Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J Med Virol 2020; 92(4): 401-2. 2. Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern (vol 395, pg 470, 2020). Lancet 2020; 395(10223): 496-. 3. Chan JFW, Kok KH, Zhu Z, et al Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infec 2020; 9(1): 221-36. 4. N Z, D Z, W W, al e. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med. 5. WHO. a total of 32,778 cases of coronavirus disease 2019 (COVID-19) have been confirmed outside China. Mar 10, 2020. 6. Chen Z, Akazawa K, Nakamura T. Estimating the case fatality rate using a constant cure-death hazard ratio. Lifetime Data Anal 2009; 15(3): 316-29. 7. Mahase E. Coronavirus covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate. BMJ 2020; 368: m641. 8. Battegay M, Kuehl R, Tschudin-Sutter S, Hirsch HH, Widmer AF, Neher RA. 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate - a word of caution. Swiss medical weekly 2020; 150: w20203. 9. Chen H, Wang T, Zhang Y. Comparison for four case fatality ratio estimation methods on the epidemic situations of infectious diseases. Sci Technol Eng 2017; 17(24): 152-6. 10. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; 395(10225): 689-97. 11. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020; 395(10223): 497-506. 12. Wang D, Hu B, Hu C, et al Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020. 13. Zhang Y. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Chin J Epidemiol 2020; 41(2): 145-51."
+        ],
+        "limitations": [
+            "This study has some limitations. The major influencing factors were mean cure time and death time. The death time was calculated based on the 134 death cases, and the cure time was based on 536 discharged cases. They may deviate from reality and affect the results. We suggest that the government discloses cases of infectious diseases for scientific study to share the resources. Accurate cure time and death time was obtained, it may help to accurately calculate the case fatality rate, and to provide a basis for prevention and control of infectious disease."
+        ]
+    },
+    "structured_content": {
+        "Introduction": [
+            "The novel coronavirus pneumonia (COVID-19)[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] initially appeared in Wuhan, China is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). WHO announced that the ongoing COVID-19 outbreak is a Public Health Emergency of International Concern (PHEIC)[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>-<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. As of Mar. 10, 2020, the number of confirmed COVID19 cases in China has reached to 80955, of which 3162 were dead, and 61567 were cured. Wuhan City and its affiliated Hubei Province are most affected and account for at least 90% of the cases. At present the outbreak in China has been basically controlled. However, the cases of COVID-19 have rapidly increased in other 109 countries around the world, such as South Korea, Italy, Iran, Japan, Singapore, United States and so on. As of Mar 10, 2020, the total number of patients has risen sharply to 32778 outside China, and 876 patients has died.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>] The global outbreak is getting worse.",
+            "Assessing the hazards of infectious diseases is a vital important concern in epidemiology.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>] The case fatality rate, standing for the percentage of deaths from a disease in the total number of infected-patients during the whole outbreak, is the direct one to reflect the severity of the disease. The accurate case fatality rate of an infectious disease could be obtained after the outbreak is over, on the basis of the numbers of confirmed cases and deaths. Given the severity of COVID-19 outbreak situation throughout the world, it is important to estimate and predict the fatality rate of COVID-19 in the early stage for the hazard evaluation, which might provide the basis for the setting of public security strategy, the allocation of health resources and the adjustment of medical treatment work. It might be also of great help to the government's decision-making and the public's understanding.",
+            "However, the mortality of COVID-19 published recently in some articles and the \u201cfatality rate\u201d announced by authority is neither mortality nor fatality rate.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>, <a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] Since the numbers of confirmed cases and deaths are constantly changing, it is impossible to get an accurate case fatality rate until the COVID-19 outbreak is over.",
+            "We considered that the case fatality rate is a collection from successive instant case fatality rates throughout the disease outbreak. In the present study, we established a method to estimate the instant fatality rate of COVID-19 even the outbreak is still on. We collected the daily case notification data of COVID-19 announced by the Chinese official. The death time and cure time of COVID-19 patients were obtained from individual cases. The estimated diagnosis dates of deaths and cured cases were then calculated. Finally, the instant fatality rate of COVID-19 was estimated according to the numbers of deaths and cured cases on the same estimated diagnosis dates."
+        ],
+        "Methods": [
+            "Research design The death time and cure time of COVID-19 patients were calculated based on the dates of diagnosis, death and discharge of individual cases. Then, the estimated diagnosis dates of deaths and the estimated diagnosis dates of cure cases of COVID-19 were respectively calculated on the basis of the median death time or median cure time. Finally, the instant case fatality rate and cure rate of COVID-19 were obtained based on the numbers of deaths and cured cases on the same estimated diagnosis dates.",
+            "Data sources The daily case notification data of COVID-19 were collected from websites of the National Health Commissions of the People\u2019s Republic of China (http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml), Health Commission of Hubei Province (http://wjw.hubei.gov.cn/fbjd/dtyw), and Wuhan Municipal Health Commission (http://wjw.wh.gov.cn/front/web/list3rd/yes/802).",
+            "Data collection We collected the daily case notification data of COVID-19 in Wuhan City and its affiliated Hubei Province from Dec 8, 2019 to Feb 29, 2020.9 The data included the numbers of daily confirmed/deaths/cured cases and the numbers of daily cumulative confirmed/deaths/cured cases. Two researchers collected the data independently every single day, and then checked and corrected the data each other.",
+            "Data analysis We collected 134 deaths and 536 cured cases. Basing on the dates of diagnosis, death and discharge of individual cases, the death time of COVID-19 patients was the period from diagnosis dates to death dates of the deaths, while the cure time of COVID-19 patients was the period from diagnosis dates to discharge dates of cured cases (figure 1).",
+            "Death time = death date - diagnosis date Cure time = discharge date - diagnosis date Depending on the above death time and cure time, the diagnosis dates of deaths or cured cases of COVID-19 on daily case notification data were estimated. The estimated diagnosis date (EDD) of deaths is obtained from the date reported on daily case notification data (DCND) of deaths minus mean death time (DT). The estimated diagnostic date (EDD) of cure cases is obtained from the date reported on daily case notification data of cure cases minus mean cure time (CT) (figure 2).",
+            "EDD of deaths = date on DCND \u2013 DT EDD of cured cases = date on DCND \u2013 CT The daily fatality rate (FR) is calculated from the number of cumulative deaths (NCD) divided by a sum of the number of cumulative deaths and the number of cumulative cured cases (NCCC) on the same estimated diagnosis date.",
+            "FR = NCD / (NCD + NCCC)\u00d7100% The daily cure rate (CR) is calculated from the number of NCCC divided by a sum of the number of NCD and NCCC on the same estimated diagnosis date.",
+            "CR = NCCC / (NCD + NCCC) \u00d7100% Statistical analysis Excel 2016 and GraphPad Prism 8 were used to record, calculate and analyze data."
+        ],
+        "Results": [
+            "Daily new cases The curves of daily new COVID-19 cases reported in Wuhan City and Hubei Province were shown in Figure 3. The confirmed cases initially occurred on Dec 8, 2019. The number of daily new confirmed cases started to increase in early January. The number markedly increased in late January, 2020, peaked in mid-February, and then decreased gradually. The death toll began to increase from mid-January to late January, peaked in",
+            "Number of cases Number of cases early February, 2020 and then decreased gradually. The COVID-19 patients were initially cured on Jan10, 2020. The number of daily new cured patients began to increase in midJanuary, obviously increased in early and mid-February, still maintained a high level in late February, 2020, and then decreased in the early March. The numbers of daily new confirmed cases, daily new deaths and daily new cured cases in Wuhan City were higher than those in Hubei Province. The characteristics in Hubei Province and Wuhan City were similar.",
+            "Daily cumulative cases The daily variation curves of cumulative cases of COVID-19 including cumulative confirmed cases, cumulative deaths and cumulative cured cases in Wuhan City and Hubei Province were shown in Figure 4. The number of cumulative confirmed cases began to increase in early January. The increase is sharply accelerated in late January, and stabilized till the early March. The cumulative death toll started to show increase trend in midJanuary. The number was remarkably increased in early February, and the number increase slowed down in late February. The number of cumulative cured cases showed an increase tendency in mid-January. The increase was visibly accelerated in early February, and maintain stable till the early March.",
+            "Death time and cure time After treatment, the COVID-19 patients would end up dead or cured. The time from diagnosis to death is called death time. The time from diagnosis to discharge is cure time. We collected the detailed dates of COVID-19 cases reported on the websites of the National Health Commissions of China and Provincial Health Commissions of China. The death time was calculated on the basis of the diagnosis dates and death dates of 134 dead patients. The mean death time of COVID-19 was 9.2\u00b16.7 days, the median death time was 8 days, and the quartile spacing was 9.2 days. According to the diagnosis dates, and discharge dates of 536 cured cases with COVID-19, the cure time from diagnosis dates to discharge dates was calculated. The cure time curve of the patients displayed a left skewed distribution with a skewness of 0.85. The mean cure time was 13.6\u00b15.6 days, the median cure time of was 12 days, and a 95% confidence interval was from 7.4 to 21.7 (figure 5). Based on the proportion of cumulative confirmed cases who were cured, we estimated that the median cure time of COVID-19 in Wuhan and Hubei was 16 days.",
+            "Estimation of diagnosis dates of the deaths and cured cases The confirmed patients would eventually have two endpoints: death or cure. We assumed that the dead patients died on the 8th days, the median death time, after diagnosis. The diagnosis date of the dead patient should be 8 days prior to that date. That is, the estimated diagnosis date (Dd) of the deaths is the date 8 days before the announced death date (Di).",
+            "Dd = D (i-8). Similarly, we assumed that cured patients are discharged on the 16th days, median cure time, after diagnosis. The estimated diagnosis date of the cure cases is the date 16 days before the announced cure date [D (i -16)].",
+            "Dd = D (i-16) We calculated the diagnosis dates of deaths and cured cases basing on the median death or cure times, respectively. Figure 6 shows the curves of the numbers of cumulative deaths and the number of cumulative cured cases of COVID-19 on the estimated diagnosis dates. The number of confirmed cases was equal to the sum of the number of cumulative cured cases and the number of cumulative death toll on the same estimated diagnosis date. Since the numbers of COVID-19 death toll on the same day was significantly less than the numbers of cured cases, the curve of estimated confirmed COVID-19 cases which was the sum of cumulative cured cases and cumulative death toll, was close to the curve of cumulative cured cases. The shapes and trends of the curves was in Wuhan City are similar to, but lower than those in Hubei province.",
+            "Instant fatality rates The instant fatality rate of COVID-19 in Wuhan City was less than 10% (3.4-9.9%) from Jan 1 to Jan 13, 2020, and gradually increased to 14.2%-19.5% in mid to late January. In February, the instant case fatality rate gradually decreased and stabilized at 6.5% (figure 7A). The average case fatality rate was 11.4%. The instant case fatality rate of COVID19 in Hubei Province showed the same trend of that in Wuhan City, but the case fatality rates were lower than that in Wuhan City. The instant case fatality rate of COVID-19 in Hubei Province was 10% (3.8-9.1%) from Jan 1 to Jan 13, 2020, then increased to 10.0%16.6% in late January, and decreased to 5.6% on February 22, 2020 (figure 7B). The average case fatality rate was 9.2%. The curve tendency showed that the case fatality rates were still in decline step by step after February 22, 2020.",
+            "Instant cure rates The cure rate and case fatality rate are opposite since cure and death are a pair of competing events. The instant cure rate of COVID-19 in Wuhan City was between 80.0%96.6%, while the rate in Hubei Province was between 83.4%-96.6%. The instant cure rate was lower in second half of January than that in other time. Then the rate gradually increased. On February 22, the instant cure rate increased to 93.5 % in Wuhan, and 94.4% in Hubei (figure 7). The cure rate was likely to continue to increase little by little after February 22, 2020."
+        ],
+        "Discussion": [
+            "The accurate case fatality rate of an infectious disease can be obtained after the outbreak is over. At present, the outbreak of COVID-19 is ongoing throughout China and worldwide. The numbers of confirmed cases, deaths and cured cases are constantly changing.[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>] Therefore, estimating the case fatality rate is obviously challenging. However, it is critical to balance the socioeconomic burden of infection control interventions against their potential benefit for mankind.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] The current literatures and the official published case fatality rates have a large deviation. Huang CL et al reported clinical features of 41 patients infected with SARS-CoV-2 in Wuhan, China. As of Jan 22, 2020, 28 of 41 patients had been discharged and 6 patients (the mortality 15%) died.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>] Wang D et al reported clinical characteristics of 138 hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan, China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a> 47] patients were discharged and 6 died (4.3%). The remaining 85 patients were still hospitalized. The mortality was reported as 4.3%. Zhang YP extracted a total of 72314 cases with COVID-19 reported China\u2019 Infectious Disease information System through Feb.11, 2020.13 Thereof a total of 1023 deaths occurred among 44672 confirmed cases for an overall case-fatality rate of 2.3%. However, he ignored a fact that there were 4740 discharged cases and 38909 hospitalized cases in confirmed cases. At present, in official websites the case fatality rates were calculated by dividing the number of known deaths by the number of confirmed cases. These data are neither case fatality rate, nor mortality, and might be off by orders of magnitude.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] The confirmed cases included deaths, cured, and hospitalized patients. Some of the hospitalized patients may end up dead in future and their data would not participate in the calculation of the case fatality. In addition, diagnosis of viral infection will precede death or recovery by days to weeks. The number of deaths should be compared to the past confirmed case numbers \u2013 accounting for this delay increasing the estimate of the case fatality rate.",
+            "We assumed that the case fatality rate of the whole outbreak process could be regarded as a collection of many successive instant case fatality rates. The instant case fatality rate is directly related to various factors at the time, and it is easier to analyze various factors and take possible actions to influence the disease progress by knowing this fatality rate in advance. This instant case fatality rate will gradually approach the case fatality rate as time goes on till the outbreak ends gradually. The extreme instant fatality rate can be used as an approximate value of case fatality rate within certain period of time. This approach provides a way to accurately calculate the fatality rate, which is not affected by hospitalized patients.",
+            "We set the instant unit of case fatality rate as a day, and calculated the daily case fatality rate. The daily case fatality rate was equal to the daily cumulative number of deaths divided by the number of deaths plus the number of cured patients. The number of daily confirmed cases is equal to the number of deaths plus the number of cured cases. The confirmed COVID-19 patients had to go through a certain period of time, which is the death time or the cure time, and then result in the final outcomes: death or cure. The date of deaths minus death time is the diagnosis date of deaths. Similarly, the cure date minus the cure time is the diagnosis date of cured patients. The daily case fatality rate and cure rates were then calculated using the cumulative number of deaths and cured cases at the same diagnosis date. This rate varies from day to day with disease-related factors.",
+            "The outbreak of COVID-19 firstly appeared in Wuhan, where the situation was most serious with the highest case fatality rate of China. The case fatality rate varied over time. In the first half of January, the fatality rate was less than 10% because the outbreak was not very serious and prevalent. It was easy for patients to see a doctor. But till the beginning of February, the number of patients largely increased and it was difficult for patients to receive medical care treatment. The admission and diagnosis of COVID-19 were delayed, the hospitals were crowded out, and medical condition was deteriorated. As a result, the case fatality rate rose sharply to 20%. In February, a large number of domestic medical resources supported Wuhan, and the medical conditions gradually improved. The treatment concept and methods were updated, the medical level was improved, and the treatment procedure became more and more standardized. On the other hand, the virulence of SARS-CoV-2 may decline as the virus passes through the generations. The proportion of severe cases decreased, and the fatality rate decreased to nearly 6.5%. Basing on this trend, we speculate that the case fatality rate would further decline.",
+            "The trend in Hubei Province was similar to that in Wuhan, but the case fatality rate was low. The case fatality rate in the first half of January 2020 was less than 10%. From the second half of January to the beginning of February, it rose to 10% ~16.6%, and then decreased to 5.6% on February 22. The fatality rate was expected to fall down further.",
+            "This study has some limitations. The major influencing factors were mean cure time and death time. The death time was calculated based on the 134 death cases, and the cure time was based on 536 discharged cases. They may deviate from reality and affect the results. We suggest that the government discloses cases of infectious diseases for scientific study to share the resources. Accurate cure time and death time was obtained, it may help to accurately calculate the case fatality rate, and to provide a basis for prevention and control of infectious disease.",
+            "Contributors YXC, and LC were responsible for conceptual design and led the team. TTH,JXZ did the modeling. QQ, SYL, HMX, YXG, CHN, XTS, JXY were responsible for data collection and management. LC and YXC drafted the manuscript. YNM, and XX revised the manuscript. All authors read the manuscript and contributed to editing.",
+            "Declaration of interests We declare no competing interests."
+        ],
+        "References": [
+            "1. Lu HZ, Stratton CW, Tang YW. Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J Med Virol 2020; 92(4): 401-2. 2. Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern (vol 395, pg 470, 2020). Lancet 2020; 395(10223): 496-. 3. Chan JFW, Kok KH, Zhu Z, et al Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infec 2020; 9(1): 221-36. 4. N Z, D Z, W W, al e. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med. 5. WHO. a total of 32,778 cases of coronavirus disease 2019 (COVID-19) have been confirmed outside China. Mar 10, 2020. 6. Chen Z, Akazawa K, Nakamura T. Estimating the case fatality rate using a constant cure-death hazard ratio. Lifetime Data Anal 2009; 15(3): 316-29. 7. Mahase E. Coronavirus covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate. BMJ 2020; 368: m641. 8. Battegay M, Kuehl R, Tschudin-Sutter S, Hirsch HH, Widmer AF, Neher RA. 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate - a word of caution. Swiss medical weekly 2020; 150: w20203. 9. Chen H, Wang T, Zhang Y. Comparison for four case fatality ratio estimation methods on the epidemic situations of infectious diseases. Sci Technol Eng 2017; 17(24): 152-6. 10. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; 395(10225): 689-97. 11. Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020; 395(10223): 497-506. 12. Wang D, Hu B, Hu C, et al Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020. 13. Zhang Y. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Chin J Epidemiol 2020; 41(2): 145-51."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cured cases",
+            "number": 536,
+            "context": "Finally, the instant case fatality rate and cure rate of COVID-19 were obtained based on the numbers of deaths and cured cases on the same estimated diagnosis dates.<br/><br/>Data sources The daily case notification data of COVID-19 were collected from websites of the National Health Commissions of the People\u2019s Republic of China (http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml), Health Commission of Hubei Province (http://wjw.hubei.gov.cn/fbjd/dtyw), and Wuhan Municipal Health Commission (http://wjw.wh.gov.cn/front/web/list3rd/yes/802).<br/><br/>Data collection We collected the daily case notification data of COVID-19 in Wuhan City and its affiliated Hubei Province from Dec 8, 2019 to Feb 29, 2020.9 The data included the numbers of daily confirmed/deaths/cured cases and the numbers of daily cumulative confirmed/deaths/cured cases. <mark class=\"stats\">Two researchers collected the data independently every single day, and then checked and corrected the data each other.<br/><br/>Data analysis We collected 134 deaths and 536 cured cases</mark>. Basing on the dates of diagnosis, death and discharge of individual cases, the death time of COVID-19 patients was the period from diagnosis dates to death dates of the deaths, while the cure time of COVID-19 patients was the period from diagnosis dates to discharge dates of cured cases (figure 1).<br/><br/>Death time = death date - diagnosis date Cure time = discharge date - diagnosis date Depending on the above death time and cure time, the diagnosis dates of deaths or cured cases of COVID-19 on daily case notification data were estimated"
+        },
+        {
+            "participant": "cured cases",
+            "number": 536,
+            "context": "Two researchers collected the data independently every single day, and then checked and corrected the data each other. <mark class=\"stats\">Data analysis We collected 134 deaths and 536 cured cases</mark>. Basing on the dates of diagnosis, death and discharge of individual cases, the death time of COVID-19 patients was the period from diagnosis dates to death dates of the deaths, while the cure time of COVID-19 patients was the period from diagnosis dates to discharge dates of cured cases (figure 1)"
+        },
+        {
+            "participant": "patients",
+            "number": 876,
+            "context": "However, the cases of COVID-19 have rapidly increased in other 109 countries around the world, such as South Korea, Italy, Iran, Japan, Singapore, United States and so on. <mark class=\"stats\">As of Mar 10, 2020, the total number of patients has risen sharply to 32778 outside China, and 876 patients has died.5</mark>. The global outbreak is getting worse"
+        },
+        {
+            "participant": "dead patients",
+            "number": 134,
+            "context": "We collected the detailed dates of COVID-19 cases reported on the websites of the National Health Commissions of China and Provincial Health Commissions of China. <mark class=\"stats\">The death time was calculated on the basis of the diagnosis dates and death dates of 134 dead patients</mark>. The mean death time of COVID-19 was 9.2\u00b16.7 days, the median death time was 8 days, and the quartile spacing was 9.2 days"
+        },
+        {
+            "participant": "cured cases with COVID-19",
+            "number": 536,
+            "context": "The mean death time of COVID-19 was 9.2\u00b16.7 days, the median death time was 8 days, and the quartile spacing was 9.2 days. <mark class=\"stats\">According to the diagnosis dates, and discharge dates of 536 cured cases with COVID-19, the cure time from diagnosis dates to discharge dates was calculated</mark>. The cure time curve of the patients displayed a left skewed distribution with a skewness of 0.85"
+        },
+        {
+            "participant": "patients",
+            "number": 41,
+            "context": "The current literatures and the official published case fatality rates have a large deviation. <mark class=\"stats\">Huang CL et al reported clinical features of 41 patients infected with SARS-CoV-2 in Wuhan, China</mark>. As of Jan 22, 2020, 28 of 41 patients had been discharged and 6 patients (the mortality 15%) died.[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 41,
+            "context": "Huang CL et al reported clinical features of 41 patients infected with SARS-CoV-2 in Wuhan, China. <mark class=\"stats\">As of Jan 22, 2020, 28 of 41 patients had been discharged and 6 patients (the mortality 15%) died.11</mark>. Wang D et al reported clinical characteristics of 138 hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan, China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a> 47] patients were discharged and 6 died (4.3%)"
+        },
+        {
+            "participant": "hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan",
+            "number": 138,
+            "context": "As of Jan 22, 2020, 28 of 41 patients had been discharged and 6 patients (the mortality 15%) died.11. <mark class=\"stats\">Wang D et al reported clinical characteristics of 138 hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan, China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a> 47] patients were discharged and 6 died (4.3%)</mark>. The remaining 85 patients were still hospitalized"
+        },
+        {
+            "participant": "patients",
+            "number": 85,
+            "context": "Wang D et al reported clinical characteristics of 138 hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan, China.[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a> 47] patients were discharged and 6 died (4.3%). <mark class=\"stats\">The remaining 85 patients were still hospitalized</mark>. The mortality was reported as 4.3%"
+        },
+        {
+            "participant": "cases with COVID-19 reported China\u2019 Infectious Disease information System",
+            "number": 72314,
+            "context": "The mortality was reported as 4.3%. <mark class=\"stats\">Zhang YP extracted a total of 72314 cases with COVID-19 reported China\u2019 Infectious Disease information System through Feb.11, 2020.13 Thereof a total of 1023 deaths occurred among 44672 confirmed cases for an overall case-fatality rate of 2.3%</mark>. However, he ignored a fact that there were 4740 discharged cases and 38909 hospitalized cases in confirmed cases"
+        },
+        {
+            "participant": "discharged cases",
+            "number": 4740,
+            "context": "Zhang YP extracted a total of 72314 cases with COVID-19 reported China\u2019 Infectious Disease information System through Feb.11, 2020.13 Thereof a total of 1023 deaths occurred among 44672 confirmed cases for an overall case-fatality rate of 2.3%. <mark class=\"stats\">However, he ignored a fact that there were 4740 discharged cases and 38909 hospitalized cases in confirmed cases</mark>. At present, in official websites the case fatality rates were calculated by dividing the number of known deaths by the number of confirmed cases"
+        },
+        {
+            "participant": "death cases",
+            "number": 134,
+            "context": "The major influencing factors were mean cure time and death time. <mark class=\"stats\">The death time was calculated based on the 134 death cases, and the cure time was based on 536 discharged cases</mark>. They may deviate from reality and affect the results"
+        },
+        {
+            "participant": "cured cases",
+            "number": 536,
+            "context": "The daily variation of cumulative confirmed cases, cumulative cured cases and cumulative deaths of COVID-19 in Wuhan City and Hubei Province. <mark class=\"stats\">Distributions of death time of 134 deaths and cure time of 536 cured cases of COVID19</mark>. The number of deaths and cured cases on the same estimated diagnosis dates of COVID19 in Wuhan City (A) and Hubei Province (B)"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "estimated diagnosis date",
+        "cure time",
+        "death time",
+        "number of cumulative deaths",
+        "COVID-19",
+        "fatality rate",
+        "affiliated hubei province",
+        "clinical characteristics",
+        "accurate case fatality rate",
+        "hubei province",
+        "Public Health Emergency of International Concern",
+        "wuhan city",
+        "average cure rate",
+        "coronavirus",
+        "successive instant case fatality rate",
+        "pneumonia",
+        "number of cumulative cured cases",
+        "instant fatality rate",
+        "instant case fatality rate",
+        "daily case notification datum",
+        "SARS",
+        "case fatality rate",
+        "infectious disease",
+        "Wuhan",
+        "average fatality rate",
+        "daily case notification data",
+        "cure rate",
+        "diagnosis date",
+        "Hubei"
+    ],
+    "keyword_relevance": {
+        "fatality rate": 0.16247139588100687,
+        "COVID-19": 0.11670480549199085,
+        "case fatality rate": 0.10068649885583524,
+        "Wuhan": 0.09153318077803203,
+        "diagnosis date": 0.07551487414187644,
+        "Hubei": 0.06407322654462243,
+        "cure time": 0.059496567505720827,
+        "estimated diagnosis date": 0.04805491990846682,
+        "death time": 0.04576659038901602,
+        "cure rate": 0.041189931350114416,
+        "daily case notification data": 0.029748283752860413,
+        "coronavirus": 0.02288329519450801,
+        "number of cumulative cured cases": 0.02288329519450801,
+        "instant case fatality rate": 0.02288329519450801,
+        "number of cumulative deaths": 0.016018306636155607,
+        "instant fatality rate": 0.016018306636155607,
+        "infectious disease": 0.016018306636155607,
+        "pneumonia": 0.011441647597254004,
+        "SARS": 0.009153318077803204,
+        "accurate case fatality rate": 0.006864988558352402,
+        "Public Health Emergency of International Concern": 0.004576659038901602,
+        "average cure rate": 0.004576659038901602,
+        "successive instant case fatality rate": 0.004576659038901602,
+        "average fatality rate": 0.004576659038901602,
+        "clinical characteristics": 0.002288329519450801,
+        "affiliated hubei province": 0.0,
+        "hubei province": 0.0,
+        "wuhan city": 0.0,
+        "daily case notification datum": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> The novel coronavirus pneumonia (COVID-19)[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] initially appeared in Wuhan, China is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).",
+        "Given the severity of COVID-19 outbreak situation throughout the world, it is important to estimate and predict the fatality rate of COVID-19 in the early stage for the hazard evaluation, which might provide the basis for the setting of public security strategy, the allocation of health resources and the adjustment of medical treatment work.",
+        "The instant fatality rate of COVID-19 was estimated according to the numbers of deaths and cured cases on the same estimated diagnosis dates",
+        "<h2 style=\"display: inline\">Methods:</h2> Research design The death time and cure time of COVID-19 patients were calculated based on the dates of diagnosis, death and discharge of individual cases.",
+        "The estimated diagnosis date (EDD) of deaths is obtained from the date reported on daily case notification data (DCND) of deaths minus mean death time (DT).",
+        "The estimated diagnostic date (EDD) of cure cases is obtained from the date reported on daily case notification data of cure cases minus mean cure time (CT).",
+        "<h2 style=\"display: inline\">Results:</h2> New cases The curves of daily new COVID-19 cases reported in Wuhan City and Hubei Province were shown in Figure 3.",
+        "Based on the proportion of cumulative confirmed cases who were cured, the authors estimated that the median cure time of COVID-19 in Wuhan and Hubei was 16 days.",
+        "Figure 6 shows the curves of the numbers of cumulative deaths and the number of cumulative cured cases of COVID-19 on the estimated diagnosis dates.",
+        "The instant case fatality rate of COVID-19 in Hubei Province was 10% (3.8-9.1%) from Jan 1 to Jan 13, 2020, increased to 10.0%16.6% in late January, and decreased to 5.6% on February 22, 2020.",
+        "The cure rate was likely to continue to increase little by little after February 22, 2020",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The accurate case fatality rate of an infectious disease can be obtained after the outbreak is over.",
+        "The daily case fatality rate and cure rates were calculated using the cumulative number of deaths and cured cases at the same diagnosis date",
+        "This rate varies from day to day with disease-related factors.",
+        "Accurate cure time and death time was obtained, it may help to accurately calculate the case fatality rate, and to provide a basis for prevention and control of infectious disease."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The novel coronavirus pneumonia (COVID-19)[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] initially appeared in Wuhan, China is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).",
+            "Given the severity of COVID-19 outbreak situation throughout the world, it is important to estimate and predict the fatality rate of COVID-19 in the early stage for the hazard evaluation, which might provide the basis for the setting of public security strategy, the allocation of health resources and the adjustment of medical treatment work.",
+            "The instant fatality rate of COVID-19 was estimated according to the numbers of deaths and cured cases on the same estimated diagnosis dates"
+        ],
+        "Methods": [
+            "Research design The death time and cure time of COVID-19 patients were calculated based on the dates of diagnosis, death and discharge of individual cases.",
+            "The estimated diagnosis date (EDD) of deaths is obtained from the date reported on daily case notification data (DCND) of deaths minus mean death time (DT).",
+            "The estimated diagnostic date (EDD) of cure cases is obtained from the date reported on daily case notification data of cure cases minus mean cure time (CT)."
+        ],
+        "Results": [
+            "New cases The curves of daily new COVID-19 cases reported in Wuhan City and Hubei Province were shown in Figure 3.",
+            "Based on the proportion of cumulative confirmed cases who were cured, the authors estimated that the median cure time of COVID-19 in Wuhan and Hubei was 16 days.",
+            "Figure 6 shows the curves of the numbers of cumulative deaths and the number of cumulative cured cases of COVID-19 on the estimated diagnosis dates.",
+            "The instant case fatality rate of COVID-19 in Hubei Province was 10% (3.8-9.1%) from Jan 1 to Jan 13, 2020, increased to 10.0%16.6% in late January, and decreased to 5.6% on February 22, 2020.",
+            "The cure rate was likely to continue to increase little by little after February 22, 2020"
+        ],
+        "Conclusion": [
+            "The accurate case fatality rate of an infectious disease can be obtained after the outbreak is over.",
+            "The daily case fatality rate and cure rates were calculated using the cumulative number of deaths and cured cases at the same diagnosis date",
+            "This rate varies from day to day with disease-related factors.",
+            "Accurate cure time and death time was obtained, it may help to accurately calculate the case fatality rate, and to provide a basis for prevention and control of infectious disease."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Lu_et+al_0000_a",
+            "entry": "1. Lu HZ, Stratton CW, Tang YW. Outbreak of pneumonia of unknown etiology in Wuhan, China: The mystery and the miracle. J Med Virol 2020; 92(4): 401-2.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lu%2C%20H.Z.%20Stratton%2C%20C.W.%20Tang%2C%20Y.W.%20Outbreak%20of%20pneumonia%20of%20unknown%20etiology%20in%20Wuhan%2C%20China%3A%20The%20mystery%20and%20the%20miracle",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lu%2C%20H.Z.%20Stratton%2C%20C.W.%20Tang%2C%20Y.W.%20Outbreak%20of%20pneumonia%20of%20unknown%20etiology%20in%20Wuhan%2C%20China%3A%20The%20mystery%20and%20the%20miracle",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lu%2C%20H.Z.%20Stratton%2C%20C.W.%20Tang%2C%20Y.W.%20Outbreak%20of%20pneumonia%20of%20unknown%20etiology%20in%20Wuhan%2C%20China%3A%20The%20mystery%20and%20the%20miracle"
+        },
+        {
+            "id": "2",
+            "alt_id": "Wang_et+al_2020_a",
+            "entry": "2. Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern (vol 395, pg 470, 2020). Lancet 2020; 395(10223): 496-.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20C%20Horby%20PW%20Hayden%20FG%20Gao%20GF%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20vol%20395%20pg%20470%202020%20Lancet%202020%2039510223%20496",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wang%20C%20Horby%20PW%20Hayden%20FG%20Gao%20GF%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20vol%20395%20pg%20470%202020%20Lancet%202020%2039510223%20496",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wang%20C%20Horby%20PW%20Hayden%20FG%20Gao%20GF%20A%20novel%20coronavirus%20outbreak%20of%20global%20health%20concern%20vol%20395%20pg%20470%202020%20Lancet%202020%2039510223%20496"
+        },
+        {
+            "id": "3",
+            "alt_id": "Chan_et+al_2019_a",
+            "entry": "3. Chan JFW, Kok KH, Zhu Z, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infec 2020; 9(1): 221-36.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chan%20JFW%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerg%20Microbes%20Infec%202020%2091%2022136",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chan%20JFW%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerg%20Microbes%20Infec%202020%2091%2022136",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chan%20JFW%20Kok%20KH%20Zhu%20Z%20et%20al%20Genomic%20characterization%20of%20the%202019%20novel%20humanpathogenic%20coronavirus%20isolated%20from%20a%20patient%20with%20atypical%20pneumonia%20after%20visiting%20Wuhan%20Emerg%20Microbes%20Infec%202020%2091%2022136"
+        },
+        {
+            "id": "4",
+            "alt_id": "N_et+al_2020_a",
+            "entry": "4. N Z, D Z, W W, al e. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med. 5. WHO. a total of 32,778 cases of coronavirus disease 2019 (COVID-19) have been confirmed outside China. Mar 10, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=N%20Z%20D%20Z%20W%20W%20al%20e%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%205%20WHO%20a%20total%20of%2032778%20cases%20of%20coronavirus%20disease%202019%20COVID19%20have%20been%20confirmed%20outside%20China%20Mar%2010%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=N%20Z%20D%20Z%20W%20W%20al%20e%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%205%20WHO%20a%20total%20of%2032778%20cases%20of%20coronavirus%20disease%202019%20COVID19%20have%20been%20confirmed%20outside%20China%20Mar%2010%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=N%20Z%20D%20Z%20W%20W%20al%20e%20A%20novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%205%20WHO%20a%20total%20of%2032778%20cases%20of%20coronavirus%20disease%202019%20COVID19%20have%20been%20confirmed%20outside%20China%20Mar%2010%202020"
+        },
+        {
+            "id": "6",
+            "alt_id": "Chen_et+al_2009_a",
+            "entry": "6. Chen Z, Akazawa K, Nakamura T. Estimating the case fatality rate using a constant cure-death hazard ratio. Lifetime Data Anal 2009; 15(3): 316-29.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20Z.%20Akazawa%2C%20K.%20Nakamura%2C%20T.%20Estimating%20the%20case%20fatality%20rate%20using%20a%20constant%20cure-death%20hazard%20ratio%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20Z.%20Akazawa%2C%20K.%20Nakamura%2C%20T.%20Estimating%20the%20case%20fatality%20rate%20using%20a%20constant%20cure-death%20hazard%20ratio%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20Z.%20Akazawa%2C%20K.%20Nakamura%2C%20T.%20Estimating%20the%20case%20fatality%20rate%20using%20a%20constant%20cure-death%20hazard%20ratio%202009"
+        },
+        {
+            "id": "7",
+            "alt_id": "Mahase_0000_a",
+            "entry": "7. Mahase E. Coronavirus covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate. BMJ 2020; 368: m641.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Mahase%2C%20E.%20Coronavirus%20covid-19%20has%20killed%20more%20people%20than%20SARS%20and%20MERS%20combined%2C%20despite%20lower%20case%20fatality%20rate",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Mahase%2C%20E.%20Coronavirus%20covid-19%20has%20killed%20more%20people%20than%20SARS%20and%20MERS%20combined%2C%20despite%20lower%20case%20fatality%20rate",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Mahase%2C%20E.%20Coronavirus%20covid-19%20has%20killed%20more%20people%20than%20SARS%20and%20MERS%20combined%2C%20despite%20lower%20case%20fatality%20rate"
+        },
+        {
+            "id": "8",
+            "alt_id": "Battegay_et+al_2019_a",
+            "entry": "8. Battegay M, Kuehl R, Tschudin-Sutter S, Hirsch HH, Widmer AF, Neher RA. 2019-novel Coronavirus (2019-nCoV): estimating the case fatality rate - a word of caution. Swiss medical weekly 2020; 150: w20203.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Battegay%2C%20M.%20Kuehl%2C%20R.%20Tschudin-Sutter%2C%20S.%20Hirsch%2C%20H.H.%20estimating%20the%20case%20fatality%20rate%20-%20a%20word%20of%20caution%202019-11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Battegay%2C%20M.%20Kuehl%2C%20R.%20Tschudin-Sutter%2C%20S.%20Hirsch%2C%20H.H.%20estimating%20the%20case%20fatality%20rate%20-%20a%20word%20of%20caution%202019-11",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Battegay%2C%20M.%20Kuehl%2C%20R.%20Tschudin-Sutter%2C%20S.%20Hirsch%2C%20H.H.%20estimating%20the%20case%20fatality%20rate%20-%20a%20word%20of%20caution%202019-11"
+        },
+        {
+            "id": "9",
+            "alt_id": "Chen_et+al_2017_a",
+            "entry": "9. Chen H, Wang T, Zhang Y. Comparison for four case fatality ratio estimation methods on the epidemic situations of infectious diseases. Sci Technol Eng 2017; 17(24): 152-6.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20H.%20Wang%2C%20T.%20Zhang%2C%20Y.%20Comparison%20for%20four%20case%20fatality%20ratio%20estimation%20methods%20on%20the%20epidemic%20situations%20of%20infectious%20diseases%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chen%2C%20H.%20Wang%2C%20T.%20Zhang%2C%20Y.%20Comparison%20for%20four%20case%20fatality%20ratio%20estimation%20methods%20on%20the%20epidemic%20situations%20of%20infectious%20diseases%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chen%2C%20H.%20Wang%2C%20T.%20Zhang%2C%20Y.%20Comparison%20for%20four%20case%20fatality%20ratio%20estimation%20methods%20on%20the%20epidemic%20situations%20of%20infectious%20diseases%202017"
+        },
+        {
+            "id": "10",
+            "alt_id": "Wu_et+al_2019_a",
+            "entry": "10. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; 395(10225): 689-97.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%20JT%20Leung%20K%20Leung%20GM%20Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20international%20spread%20of%20the%202019nCoV%20outbreak%20originating%20in%20Wuhan%20China%20a%20modelling%20study%20Lancet%202020%2039510225%2068997",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%20JT%20Leung%20K%20Leung%20GM%20Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20international%20spread%20of%20the%202019nCoV%20outbreak%20originating%20in%20Wuhan%20China%20a%20modelling%20study%20Lancet%202020%2039510225%2068997",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%20JT%20Leung%20K%20Leung%20GM%20Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20international%20spread%20of%20the%202019nCoV%20outbreak%20originating%20in%20Wuhan%20China%20a%20modelling%20study%20Lancet%202020%2039510225%2068997"
+        },
+        {
+            "id": "11",
+            "alt_id": "Huang_et+al_2019_a",
+            "entry": "11. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020; 395(10223): 497-506.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020%2039510223%20497506",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020%2039510223%20497506",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Huang%20C%20Wang%20Y%20Li%20X%20et%20al%20Clinical%20features%20of%20patients%20infected%20with%202019%20novel%20coronavirus%20in%20Wuhan%20China%20Lancet%202020%2039510223%20497506"
+        },
+        {
+            "id": "12",
+            "alt_id": "Wang_et+al_2019_b",
+            "entry": "12. Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wang%20D%20Hu%20B%20Hu%20C%20et%20al%20Clinical%20Characteristics%20of%20138%20Hospitalized%20Patients%20With%202019%20Novel%20CoronavirusInfected%20Pneumonia%20in%20Wuhan%20China%20Jama%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Zhang_2019_a",
+            "entry": "13. Zhang Y. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Chin J Epidemiol 2020; 41(2): 145-51. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zhang%20Y%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19%20in%20China%20Chin%20J%20Epidemiol%202020%20412%2014551",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhang%20Y%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19%20in%20China%20Chin%20J%20Epidemiol%202020%20412%2014551",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhang%20Y%20The%20epidemiological%20characteristics%20of%20an%20outbreak%20of%202019%20novel%20coronavirus%20diseases%20COVID19%20in%20China%20Chin%20J%20Epidemiol%202020%20412%2014551"
+        }
+    ],
+    "facts": [
+        "most direct indicator to assess the hazards of an infectious disease",
+        "Hubei Province officially announced by the Chinese authority",
+        "cure time of COVID-19 patients were calculated based on the dates of diagnosis",
+        "the estimated diagnosis dates of deaths",
+        "cured cases were obtained on the basis of the median death",
+        "China is caused by severe acute respiratory syndrome coronavirus 2",
+        "WHO announced that the ongoing COVID-19 outbreak is a",
+        "the direct one to reflect the severity of the disease",
+        "The accurate case fatality rate of an infectious disease could be obtained after the outbreak is",
+        "which might provide the basis for the setting of public security strategy",
+        "that the case fatality rate is a collection from successive instant case fatality rates throughout the disease outbreak",
+        "the daily case notification data of COVID-19 announced by the Chinese official",
+        "cure time of COVID-19 patients were obtained from individual cases",
+        "The estimated diagnosis dates of deaths",
+        "the instant fatality rate of COVID-19 was estimated according to the numbers of deaths",
+        "the estimated diagnosis dates of cure cases of COVID-19 were respectively calculated on the basis of the median death time",
+        "Data sources The daily case notification data of COVID-19 were collected from websites of the National Health Commissions",
+        "The data included the numbers of daily confirmed",
+        "the death time of COVID-19 patients was the period from diagnosis dates to death dates",
+        "while the cure time of COVID-19 patients was the period from diagnosis dates to discharge dates",
+        "discharge date - diagnosis date Depending on the above death time and cure time",
+        "the diagnosis dates of deaths",
+        "The estimated diagnosis date of deaths is obtained from the date reported on daily case notification data",
+        "The estimated diagnostic date of cure cases is obtained from the date reported on daily case notification data",
+        "CT The daily fatality rate is calculated from the number of cumulative deaths divided by a sum",
+        "% The daily cure rate is calculated from the number of NCCC divided by a sum",
+        "Daily new cases The curves of daily new COVID-19 cases reported in Wuhan City",
+        "Hubei Province were shown in Figure 3",
+        "The confirmed cases initially occurred on Dec 8",
+        "confirmed cases started to increase in early January",
+        "The number markedly increased in late January",
+        "The death toll began to increase from mid-January to late January",
+        "The COVID-19 patients were initially cured on Jan10",
+        "cured patients began to increase in midJanuary",
+        "Hubei Province were shown in Figure 4",
+        "confirmed cases began to increase in early January",
+        "The increase is sharply accelerated in late January",
+        "The number was remarkably increased in early February",
+        "The increase was visibly accelerated in early February",
+        "the detailed dates of COVID-19 cases reported on the websites of the National Health Commissions",
+        "The death time was calculated on the basis of the diagnosis dates",
+        "Estimation of diagnosis dates of the deaths",
+        "that the dead patients died on the 8th days",
+        "that cured patients are discharged on the 16th days",
+        "cured cases basing on the median death or cure times",
+        "Figure 6 shows the curves of the numbers of cumulative deaths",
+        "The number of confirmed cases was equal to the sum of the number",
+        "Since the numbers of COVID-19 death toll on the same day was significantly less than the numbers of cured cases",
+        "The shapes and trends of the curves was in Wuhan City are similar to",
+        "in Wuhan City was less than 10% from Jan 1",
+        "The curve tendency showed that the case fatality rates were",
+        "Instant cure rates The cure rate and case fatality rate are opposite since cure and death are a pair of competing events",
+        "in Wuhan City was between 80.0%96.6%",
+        "while the rate in Hubei Province was between 83.4%-96.6%",
+        "The instant cure rate was lower in second half of January",
+        "the instant cure rate increased to 93.5 % in Wuhan",
+        "The accurate case fatality rate of an infectious disease can be obtained after the outbreak is",
+        "the outbreak of COVID-19 is ongoing throughout China",
+        "critical to balance the socioeconomic burden of infection control interventions against their potential benefit",
+        "Huang CL et al reported clinical features of 41 patients infected with SARS-CoV-2 in Wuhan",
+        "The mortality was reported as 4.3%",
+        "Zhang YP extracted a total of 72314 cases with COVID-19 reported China' Infectious Disease information System",
+        "a total of 1023 deaths occurred among 44672 confirmed cases for an overall case-fatality rate",
+        "in official websites the case fatality rates were calculated by dividing the number of known deaths by the number",
+        "their data would not participate in the calculation of the case fatality",
+        "The number of deaths should be compared to the past confirmed case numbers",
+        "for this delay increasing the estimate of the case fatality rate",
+        "that the case fatality rate of the whole outbreak process could be regarded as a collection of many successive instant case fatality rates",
+        "The instant case fatality rate is directly related to various factors at the time",
+        "The extreme instant fatality rate can be used as an approximate value of case fatality rate",
+        "which is not affected by hospitalized patients",
+        "The daily case fatality rate was equal to the daily cumulative number of deaths divided by the number",
+        "confirmed cases is equal to the number of deaths",
+        "The confirmed COVID-19 patients had to go through a certain period of time",
+        "The daily case fatality rate and cure rates were calculated using the cumulative number of deaths",
+        "This rate varies from day to day",
+        "The outbreak of COVID-19 firstly appeared in Wuhan",
+        "the situation was most serious with the highest case fatality rate of China",
+        "The case fatality rate varied over time",
+        "the fatality rate was less than 10% because the outbreak was",
+        "the virulence of SARS-CoV-2 may decline as the virus passes through the generations",
+        "the fatality rate decreased to nearly 6.5%",
+        "The case fatality rate in the first half of January 2020 was less than 10%",
+        "The death time was calculated based on the 134 death cases",
+        "the cure time was based on 536 discharged cases",
+        "LC were responsible for conceptual design",
+        "JXY were responsible for data collection and management",
+        "The instant fatality rate of COVID-19 was estimated according to the numbers of deaths",
+        "New cases The curves of daily new COVID-19 cases reported in Wuhan City"
+    ],
+    "claims": [
+        "We considered that the case fatality rate is a collection from successive instant case fatality rates throughout the disease outbreak"
+    ],
+    "findings": [
+        "Instant fatality rates The instant fatality rate of COVID-19 in Wuhan City was less than 10% (3.4-9.9%) from Jan 1 to Jan 13, 2020, and gradually increased to 14.2%-19.5% in mid to late January",
+        "In the first half of January, the fatality rate was less than 10% because the outbreak was not very serious and prevalent"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We considered that the case fatality rate is a collection from successive instant case fatality rates throughout the disease outbreak",
+        "The estimated diagnosis dates of deaths and the estimated diagnosis dates of cure cases of COVID-19 were respectively calculated on the basis of the median death time or median cure time",
+        "Data sources The daily case notification data of COVID-19 were collected from websites of the National Health Commissions of the People\u2019s Republic of China, Health Commission of Hubei Province, and Wuhan Municipal Health Commission",
+        "Data collection We collected the daily case notification data of COVID-19 in Wuhan City and its affiliated Hubei Province from Dec 8, 2019 to Feb 29, 2020.9 The data included the numbers of daily confirmed/deaths/cured cases and the numbers of daily cumulative confirmed/deaths/cured cases",
+        "Basing on the dates of diagnosis, death and discharge of individual cases, the death time of COVID-19 patients was the period from diagnosis dates to death dates of the deaths, while the cure time of COVID-19 patients was the period from diagnosis dates to discharge dates of cured cases",
+        "Death time = death date - diagnosis date Cure time = discharge date - diagnosis date Depending on the above death time and cure time, the diagnosis dates of deaths or cured cases of COVID-19 on daily case notification data were estimated",
+        "New cases The curves of daily new COVID-19 cases reported in Wuhan City and Hubei Province were shown in Figure 3",
+        "The death toll began to increase from mid-January to late January, peaked in",
+        "Cumulative cases The daily variation curves of cumulative cases of COVID-19 including cumulative confirmed cases, cumulative deaths and cumulative cured cases in Wuhan City and Hubei Province were shown in Figure 4",
+        "diagnosis date = D (i-16) We calculated the diagnosis dates of deaths and cured cases basing on the median death or cure times, respectively",
+        "The number of confirmed cases was equal to the sum of the number of cumulative cured cases and the number of cumulative death toll on the same estimated diagnosis date",
+        "The shapes and trends of the curves was in Wuhan City are similar to, but lower than those in Hubei province",
+        "Instant fatality rates The instant fatality rate of COVID-19 in Wuhan City was less than 10% (3.4-9.9%) from Jan 1 to Jan 13, 2020, and gradually increased to 14.2%-19.5% in mid to late January",
+        "The curve tendency showed that the case fatality rates were still in decline step by step after February 22, 2020",
+        "Instant cure rates The cure rate and case fatality rate are opposite since cure and death are a pair of competing events",
+        "The instant cure rate of COVID-19 in Wuhan City was between 80.0%96.6%, while the rate in Hubei Province was between 83.4%-96.6%",
+        "On February 22, the instant cure rate increased to 93.5 % in Wuhan, and 94.4% in Hubei",
+        "The accurate case fatality rate of an infectious disease can be obtained after the outbreak is over",
+        "It is critical to balance the socioeconomic burden of infection control interventions against their potential benefit for mankind.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]",
+        "Huang CL et al reported clinical features of 41 patients infected with SARS-CoV-2 in Wuhan, China",
+        "Zhang YP extracted a total of 72314 cases with COVID-19 reported China\u2019 Infectious Disease information System through Feb.11, 2020.13 Thereof a total of 1023 deaths occurred among 44672 confirmed cases for an overall case-fatality rate of 2.3%",
+        "In official websites the case fatality rates were calculated by dividing the number of known deaths by the number of confirmed cases",
+        "The number of deaths should be compared to the past confirmed case numbers \u2013 accounting for this delay increasing the estimate of the case fatality rate",
+        "We assumed that the case fatality rate of the whole outbreak process could be regarded as a collection of many successive instant case fatality rates",
+        "The instant case fatality rate is directly related to various factors at the time, and it is easier to analyze various factors and take possible actions to influence the disease progress by knowing this fatality rate in advance",
+        "The extreme instant fatality rate can be used as an approximate value of case fatality rate within certain period of time",
+        "This approach provides a way to accurately calculate the fatality rate, which is not affected by hospitalized patients",
+        "The daily case fatality rate was equal to the daily cumulative number of deaths divided by the number of deaths plus the number of cured patients",
+        "The confirmed COVID-19 patients had to go through a certain period of time, which is the death time or the cure time, and result in the final outcomes: death or cure",
+        "The daily case fatality rate and cure rates were calculated using the cumulative number of deaths and cured cases at the same diagnosis date. This rate varies from day to day with disease-related factors",
+        "The outbreak of COVID-19 firstly appeared in Wuhan, where the situation was most serious with the highest case fatality rate of China",
+        "The case fatality rate varied over time",
+        "In the first half of January, the fatality rate was less than 10% because the outbreak was not very serious and prevalent",
+        "The proportion of severe cases decreased, and the fatality rate decreased to nearly 6.5%",
+        "The case fatality rate in the first half of January 2020 was less than 10%",
+        "The death time was calculated based on the 134 death cases, and the cure time was based on 536 discharged cases"
+    ],
+    "top_statements": [
+        "The novel coronavirus pneumonia (COVID-19)[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] initially appeared in Wuhan, China is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Death time = death date - diagnosis date Cure time = discharge date - diagnosis date Depending on the above death time and cure time, the diagnosis dates of deaths or cured cases of COVID-19 on daily case notification data were estimated",
+        "New cases The curves of daily new COVID-19 cases reported in Wuhan City and Hubei Province were shown in Figure 3",
+        "The instant cure rate of COVID-19 in Wuhan City was between 80.0%96.6%, while the rate in Hubei Province was between 83.4%-96.6%",
+        "The number of deaths should be compared to the past confirmed case numbers \u2013 accounting for this delay increasing the estimate of the case fatality rate",
+        "Instant fatality rates The instant fatality rate of COVID-19 in Wuhan City was less than 10% (3.4-9.9%) from Jan 1 to Jan 13, 2020, and gradually increased to 14.2%-19.5% in mid to late January",
+        "The outbreak of COVID-19 firstly appeared in Wuhan, where the situation was most serious with the highest case fatality rate of China"
+    ],
+    "headline": "The outbreak of COVID-19 firstly appeared in Wuhan, where the situation was most serious with the highest case fatality rate of China",
+    "contexts": [],
+    "abbreviations": {
+        "PHEIC": "Public Health Emergency of International Concern",
+        "EDD": "estimated diagnosis date",
+        "DCND": "daily case notification data",
+        "DT": "death time",
+        "CT": "cure time",
+        "FR": "fatality rate",
+        "NCD": "number of cumulative deaths",
+        "NCCC": "number of cumulative cured cases",
+        "CR": "cure rate",
+        "Dd": "diagnosis date"
+    }
+}

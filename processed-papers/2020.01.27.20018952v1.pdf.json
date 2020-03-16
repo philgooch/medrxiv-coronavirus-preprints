@@ -1,0 +1,336 @@
+{
+    "filename": "2020.01.27.20018952v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 210301,
+    "metadata": {
+        "title": "Article Summary Line: This modeling study indicates that 2019-nCoV has a higher 2 effective reproduction number than SARS with a comparable fatality rate. 3 Running Title: Effective reproduction number of 2019-nCoV 4 Keywords: Epidemiology, Computer Simulation, Disease Outbreaks, Coronavirus 5 6 Estimating the effective reproduction number of the 2019-nCoV in China 7 Authors: Zhidong Cao1, Qingpeng Zhang1, Xin Lu, Dirk Pfeiffer, Zhongwei Jia, Hongbing 8 Song, Daniel Dajun Zeng 9 Affiliations: 10 Chinese Academy of Sciences Institute of Automation, Beijing, China (Z. Cao, D.D. Zeng) 11 University of Chinese Academy of Sciences, Beijing (Z. Cao, D.D. Zeng)",
+        "author": "Shenzhen Artificial Intelligence and Data Science Institute (Longhua), Shenzhen (Z. Cao, 13 D.D. Zeng)",
+        "date": 2020,
+        "affiliations": [
+            "Chinese Academy of Sciences Institute of Automation, Beijing, China (Z. Cao, D.D. Zeng)",
+            "University of Chinese Academy of Sciences, Beijing (Z. Cao, D.D. Zeng)",
+            "Data Science Institute (Longhua), Shenzhen (Z. Cao, 13 D.D. Zeng)",
+            "City University of Hong Kong, Hong Kong (Q. Zhang, D. Pfeiffer)",
+            "National University of Defense Technology, Changsha (X. Lu)",
+            "Peking University, Beijing (Z. Jia)"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.01.27.20018952",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.01.27.20018952v1.pdf"
+        },
+        "keywords": [
+            "Epidemiology",
+            "Computer Simulation",
+            "Disease Outbreaks",
+            "Qingpeng Zhang1",
+            "Xin Lu",
+            "Dirk Pfeiffer",
+            "Zhongwei Jia",
+            "Hongbing 8 Song",
+            "Beijing",
+            "China (Z",
+            "Cao",
+            "Beijing (Z",
+            "Cao",
+            "Zeng)"
+        ],
+        "references": "@misc{unknown-a,\n  title = {The Lancet. Emerging understandings of 2019-nCoV. Lancet. January 2020},\n  doi = {doi: 10.1016/S0140-6736(20)30186-0},\n  language = {}\n}\n@techreport{unknown-b,\n  title = {The 2019 novel coronavirus},\n  url = {http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/},\n  language = {},\n  urldate = {[cited 2020 Jan 26].},\n  institution = {Chinese Center for Disease Control and Prevention}\n}\n@misc{huang-a,\n  author = {Huang, C. and Wang, Y. and Li, X.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. January 2020},\n  doi = {doi: 10.1016/S01406736(20)30183-5},\n  more-authors = {true},\n  language = {}\n}\n@misc{chan-a,\n  author = {Chan, J.F.-W. and Yuan, S. and Kok, K.-H.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. January 2020},\n  doi = {doi: 10.1016/S0140-6736(20)30154-9},\n  more-authors = {true},\n  language = {}\n}\n@article{xu-a,\n  author = {Xu, X. and Chen, P. and Wang, J.},\n  title = {Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission},\n  journal = {Sci CHINA Life Sci. 2020},\n  doi = {doi: 10.1007/S11427-020-1637-5},\n  more-authors = {true},\n  language = {}\n}\n@incollection{castillo-chavez2002a,\n  author = {Castillo-Chavez, C. and Feng, Z. and Huang, W.},\n  title = {On the computation of R0 and its role on global stability},\n  editor = {Castillo-Chavez, C. and Blower, S. and van den Driessche, P. and Kirschner, D. and AMathematical, Yakubu},\n  publisher = {Springer},\n  date = {2002},\n  pages = {229\u201350},\n  source = {approaches for emerging and reemerging infectious diseases: an introduction},\n  language = {},\n  address = {New York}\n}\n@article{lipsitch2003a,\n  author = {Lipsitch, M. and Cohen, T. and Cooper, B.},\n  title = {Transmission dynamics and control of severe acute respiratory syndrome},\n  journal = {Science},\n  date = {2003},\n  volume = {300},\n  pages = {1966\u20131970},\n  doi = {doi: 10.1126/science.1086616},\n  more-authors = {true},\n  number = {5627},\n  language = {}\n}\n@misc{read-a,\n  author = {Read, J.M. and Bridgen, JR, Cummings and DA, Ho and A, Jewell and C.P.},\n  title = {Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. January 2020: 2020.01.23.20018549},\n  doi = {doi: 10.1101/2020.01.23.20018549},\n  language = {}\n}\n@article{chowell2007a,\n  author = {Chowell, G. and Nishiura, H. and Bettencourt, L.M.A.},\n  title = {Comparative estimation of the reproduction number for pandemic influenza from daily case notification data},\n  journal = {J R Soc Interface},\n  date = {2007},\n  volume = {4},\n  pages = {154\u2013166},\n  doi = {doi: 10.1098/rsif.2006.0161},\n  number = {12},\n  language = {}\n}\n@misc{figure-a,\n  author = {Figure},\n  title = {SEIRDC model predictions for (A) cumulative numbers of infected persons and (B) 142 deaths of 2019-nCoV, 2003-SARS in Beijing, and 2003 SARS in Guangzhou in the first 80 143 days after the outbreak},\n  language = {}\n}\n",
+        "emails": [
+            "dajun.zeng@ia.ac.cn"
+        ],
+        "abstract": "35 words\nWe estimate the effective reproduction number for 2019-nCoV based on the daily reported cases from China CDC. The results indicate that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate.\nText\u2014799 words",
+        "references_ris": "TY  - GEN\nTI  - The Lancet. Emerging understandings of 2019-nCoV. Lancet. January 2020\nDO  - 10.1016/S0140-6736(20)30186-0\nLA  - \nER  - \n\nTY  - RPRT\nTI  - The 2019 novel coronavirus\nUR  - http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/\nLA  - \nC1  - [cited 2020 Jan 26].\nC1  - Chinese Center for Disease Control and Prevention\nER  - \n\nTY  - GEN\nAU  - Huang, C.\nAU  - Wang, Y.\nAU  - Li, X.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. January 2020\nDO  - 10.1016/S01406736(20)30183-5\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Chan, J.F.-W.\nAU  - Yuan, S.\nAU  - Kok, K.-H.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. January 2020\nDO  - 10.1016/S0140-6736(20)30154-9\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, X.\nAU  - Chen, P.\nAU  - Wang, J.\nTI  - Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission\nT2  - Sci CHINA Life Sci. 2020\nDO  - 10.1007/S11427-020-1637-5\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Castillo-Chavez, C.\nAU  - Feng, Z.\nAU  - Huang, W.\nTI  - On the computation of R0 and its role on global stability\nA2  - Castillo-Chavez, C.\nA2  - Blower, S.\nA2  - van den Driessche, P.\nA2  - Kirschner, D.\nA2  - AMathematical, Yakubu\nPB  - Springer\nPY  - 2002\nDA  - 2002\nSP  - 229\nEP  - 50\nT2  - approaches for emerging and reemerging infectious diseases: an introduction\nLA  - \nCY  - New York\nER  - \n\nTY  - JOUR\nAU  - Lipsitch, M.\nAU  - Cohen, T.\nAU  - Cooper, B.\nTI  - Transmission dynamics and control of severe acute respiratory syndrome\nT2  - Science\nPY  - 2003\nDA  - 2003\nVL  - 300\nSP  - 1966\nEP  - 1970\nDO  - 10.1126/science.1086616\nC1  - true\nIS  - 5627\nLA  - \nER  - \n\nTY  - GEN\nAU  - Read, J.M.\nAU  - Bridgen, JR, Cummings\nAU  - DA, Ho\nAU  - A, Jewell\nAU  - C.P.\nTI  - Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. January 2020: 2020.01.23.20018549\nDO  - 10.1101/2020.01.23.20018549\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chowell, G.\nAU  - Nishiura, H.\nAU  - Bettencourt, L.M.A.\nTI  - Comparative estimation of the reproduction number for pandemic influenza from daily case notification data\nT2  - J R Soc Interface\nPY  - 2007\nDA  - 2007\nVL  - 4\nSP  - 154\nEP  - 166\nDO  - 10.1098/rsif.2006.0161\nIS  - 12\nLA  - \nER  - \n\nTY  - GEN\nAU  - Figure\nTI  - SEIRDC model predictions for (A) cumulative numbers of infected persons and (B) 142 deaths of 2019-nCoV, 2003-SARS in Beijing, and 2003 SARS in Guangzhou in the first 80 143 days after the outbreak\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In conclusion, considering transmissibility and fatality rate, 2019-nCoV poses a major public health threat, at least at the level of 2003 SARS. Epidemiological studies are critically called for to evaluate the effectiveness of stringent measures such as lockdown and help the design of refinements and development of potential alternative strategies for the next phase of the 2019-nCoV outbreak."
+        ],
+        "table_captions": [],
+        "figure_captions": []
+    },
+    "sections": {
+        "acknowledgments": [
+            "This work was supported in part by grants from the Ministry of Science and<br/><br/>Technology (2016QY02D0305), National Natural Science Foundation of China (71621002, 71771213, 71790615, 71972164 and 91846301), Chinese Academy of Sciences (ZDRW-XH-<br/><br/>2017-3), and the Hunan Science and Technology Plan Project (2017RS3040, 2018JJ1034).    Disclaimers    Nil.    Author Bio<br/><br/>Dr. Zhidong Cao is a researcher in the State Key Laboratory of Management and<br/><br/>Control for Complex Systems, Chinese Academy of Sciences Institute of Automation. His primary research interests are infectious disease informatics, spatio-temporal data processing, and social computing.    Footnotes"
+        ],
+        "funding": [
+            "This work was supported in part by grants from the Ministry of Science and Technology (2016QY02D0305), National Natural Science Foundation of China (71621002, 71771213, 71790615, 71972164 and 91846301), Chinese Academy of Sciences (ZDRW-XH- 2017-3), and the Hunan Science and Technology Plan Project (2017RS3040, 2018JJ1034)"
+        ],
+        "introduction": [
+            "Article Summary Line: This modeling study indicates that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate.",
+            "We estimate the effective reproduction number for 2019-nCoV based on the daily reported cases from China CDC. The results indicate that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate.",
+            "China, has spread to 29 mainland provinces, Hong Kong, Macau, Taiwan, as well as 11 other countries (1, 2). Early genome sequence and clinical studies of 2019-nCoV provided the evidence of human-to-human transmission and revealed its similarity to as well as differences from SARS (3-5). However, epidemiological investigations of 2019-nCoV are just beginning, and data-driven studies are critically needed to develop insights into this ongoing outbreak and evaluate the effectiveness of public health strategies, such as the currently implemented lockdown of Wuhan.",
+            "An important epidemiological understanding of 2019-nCoV is concerned with its transmissibility, quantified by the basic reproduction number R0 and the effective reproduction number R. R0 is the expected number of secondary infectious cases generated by an infectious case in a susceptible population. R is the expected number of secondary cases generated by an infectious case once an epidemic is underway (6). R = R0x, where x \u2208",
+            "R = K2(L \u00d7 D) + K(L + D) + 1, where L is the average latent period, D the average latent infectious period, K the logarithmic growth rate of the case counts as reported by China CDC. This form of R is appropriate because 2019-nCoV is still at its early growth stage. According to China CDC, we set L = 7 days and D = 9 days. Experiments with varying L and D values were also conducted.",
+            "= 618. Note that the case data between 01/05/2020-01/20/2020 were discarded due to significant changes experienced in this time period in the case reporting requirements and practice.",
+            "Using the data described above, R is estimated to be 4.08, indicating that an infected patient infects more than four susceptible people during the outbreak. This value substantially exceeds WHO's estimate of R0 (supposed to be smaller than R) between 1.4 and 2.5, and is also higher than a recent R0 estimate between 3.6 and 4.0 (8). Compared against the 2003",
+            "Guangzhou (3.01) (calculated using the same method). To test the robustness of findings, we performed sensitivity analyses by adopting varying values of L and D, generated from a",
+            "To predict the future outbreak profile, we developed a model based on the deterministic Susceptible-Exposed-Infectious-Recovered-Death-Cumulative (SEIRDC)",
+            "structure (9). Overall, our model appears to explain the reported case counts very well during the current early stage of the outbreak. An interesting finding is that by setting the start date to a time earlier than 12/16/2020 (the experimented range is from 12/01/2019\u201412/15/2019), the SEIRDC model is able to provide a better fit for the case counts. This indicates that human-to-human transmission may have started earlier than what the current prevailing viewpoint suggests. Obviously, further molecular and epidemiological studies are needed to draw any conclusions in this regard.",
+            "The SEIRDC model estimates the fatality rate for 2019-nCoV is 6.50%. As a base of comparison, the fatality rate for 2003 SARS was 7.66% and 3.61% for Beijing and",
+            "Guangzhou, respectively. We used the model to predict the confirmed case counts and death counts in the first 80 days of the ongoing 2019-nCoV outbreak. We simulated these counts for the 2003 SARS outbreaks in Beijing and Guangzhou as well, using the case counts as input. The basic assumption is the absence of any control measures in all these scenarios. At the end of this 80-day period, according to our simulations, the 2019-nCoV case counts (35,454) is close to that of SARS in Guangzhou (37,663) and much higher than that of SARS in Beijing (17,594). <a class=\"ref-link\" id=\"cThe_2019_a\" href=\"#rThe_2019_a\">The 2019</a>-nCoV death count (1,089) is much higher than that of SARS in",
+            "Our study also suggests that by reducing the average infectious period to <2.3 days, the resulting R will decease to a value less than 1, meaning the epidemic can be effectively controlled.",
+            "In conclusion, considering transmissibility and fatality rate, 2019-nCoV poses a major public health threat, at least at the level of 2003 SARS. Epidemiological studies are critically called for to evaluate the effectiveness of stringent measures such as lockdown and help the design of refinements and development of potential alternative strategies for the next phase of the 2019-nCoV outbreak."
+        ]
+    },
+    "structured_content": {
+        "Acknowledgments": [
+            "Technology (2016QY02D0305), National Natural Science Foundation of China (71621002, 71771213, 71790615, 71972164 and 91846301), Chinese Academy of Sciences (ZDRW-XH-",
+            "2017-3), and the Hunan Science and Technology Plan Project (2017RS3040, 2018JJ1034).",
+            "Nil."
+        ],
+        "Author Bio": [
+            "Control for Complex Systems, Chinese Academy of Sciences Institute of Automation. His primary research interests are infectious disease informatics, spatio-temporal data processing, and social computing."
+        ],
+        "References": [
+            "These first authors contributed equally to this article.",
+            "doi:10.1016/S0140-6736(20)30186-0",
+            "The Lancet. Emerging understandings of 2019-nCoV. Lancet. January 2020.",
+            "Chinese Center for Disease Control and Prevention. The 2019 novel coronavirus.",
+            "[cited 2020 Jan 26]. http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/",
+            "Huang C, Wang Y, Li X, et al Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. January 2020. doi:10.1016/S0140-",
+            "6736(20)30183-5",
+            "Chan JF-W, Yuan S, Kok K-H, et al A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. January 2020. doi:10.1016/S0140-6736(20)30154-9",
+            "Xu X, Chen P, Wang J, et al Evolution of the novel coronavirus from the ongoing",
+            "Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci",
+            "CHINA Life Sci. 2020. doi:10.1007/S11427-020-1637-5",
+            "Castillo-Chavez C, Feng Z, Huang W. On the computation of R0 and its role on global stability. In: Castillo-Chavez C, Blower S, van den Driessche P, Kirschner D, Yakubu",
+            "A, eds. Mathematical approaches for emerging and reemerging infectious diseases: an introduction. New York: Springer, 2002: 229\u201350.",
+            "Lipsitch M, Cohen T, Cooper B, et al Transmission dynamics and control of severe acute respiratory syndrome. Science (80- ). 2003;300(5627):1966-1970.",
+            "doi:10.1126/science.1086616",
+            "Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP. Novel coronavirus 2019-",
+            "nCoV: early estimation of epidemiological parameters and epidemic predictions.",
+            "medRxiv. January 2020:2020.01.23.20018549. doi:10.1101/2020.01.23.20018549",
+            "Chowell G, Nishiura H, Bettencourt LMA. Comparative estimation of the reproduction number for pandemic influenza from daily case notification data. J R Soc Interface.",
+            "2007;4(12):154-166. doi:10.1098/rsif.2006.0161",
+            "Address for correspondence: Daniel Zeng, Chinese Academy of Sciences Institute of",
+            "Automation, Room 1202, Automation Building, 95 Zhongguancun East Road, Haidian, Beijing 100190, China, email: dajun.zeng@ia.ac.cn.",
+            "Figure. SEIRDC model predictions for (A) cumulative numbers of infected persons and (B)",
+            "deaths of 2019-nCoV, 2003-SARS in Beijing, and 2003 SARS in Guangzhou in the first 80 days after the outbreak."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases with the infection dated as early as 12",
+            "number": 27,
+            "context": "Let t denote the number of days since the start of the outbreak and Y(t) the number of cases. <mark class=\"stats\">K is estimated based on Y(t) at six time points. (Time-1) 12/31/2019, when the authorities reported the first 27 cases with the infection dated as early as 12/16/2019</mark>. As such, t = 15, Y(15) = 27. (Time-2) 01/04/2020, t = 19, Y(19) = 41; (c) 01/21/2020, t = 36, Y(36) = 375; (Time-3) 01/22/2020, t = 37, Y(37) = 437; (Time-4) 01/23/2020, t = 38, Y"
+        },
+        {
+            "participant": "susceptible people",
+            "number": 4,
+            "context": "Note that the case data between 01/05/2020-01/20/2020 were discarded due to significant changes experienced in this time period in the case reporting requirements and practice. <mark class=\"stats\">Using the data described above, R is estimated to be 4.08, indicating that an infected patient infects more than four susceptible people during the outbreak</mark>. This value substantially exceeds WHO's estimate of R0 (supposed to be smaller than R) between 1.4 and 2.5, and is also higher than a recent R0 estimate between 3.6 and 4.0 (8)"
+        }
+    ],
+    "statistics": [],
+    "keywords": [
+        "fatality rate",
+        "Xin Lu",
+        "summary line",
+        "Dirk Pfeiffer",
+        "effective reproduction number",
+        "high effective reproduction number",
+        "human transmission",
+        "Cao",
+        "coronavirus",
+        "article summary",
+        "Computer Simulation",
+        "infectious case",
+        "Disease Outbreaks",
+        "china cdc",
+        "SARS",
+        "Epidemiology",
+        "comparable fatality rate",
+        "Qingpeng Zhang1",
+        "Zhongwei Jia",
+        "Hongbing 8 Song",
+        "Beijing"
+    ],
+    "keyword_relevance": {
+        "SARS": 0.21666666666666667,
+        "Beijing": 0.18333333333333332,
+        "coronavirus": 0.1,
+        "fatality rate": 0.08333333333333333,
+        "effective reproduction number": 0.08333333333333333,
+        "Cao": 0.08333333333333333,
+        "human transmission": 0.05,
+        "infectious case": 0.05,
+        "comparable fatality rate": 0.03333333333333333,
+        "Xin Lu": 0.016666666666666666,
+        "Dirk Pfeiffer": 0.016666666666666666,
+        "Computer Simulation": 0.016666666666666666,
+        "Disease Outbreaks": 0.016666666666666666,
+        "Epidemiology": 0.016666666666666666,
+        "Qingpeng Zhang1": 0.016666666666666666,
+        "Zhongwei Jia": 0.016666666666666666,
+        "summary line": 0.0,
+        "high effective reproduction number": 0.0,
+        "article summary": 0.0,
+        "china cdc": 0.0,
+        "Hongbing 8 Song": 0.0
+    },
+    "species": [],
+    "summary": [
+        "Article Summary Line: This modeling study indicates that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate.",
+        "R0 is the expected number of secondary infectious cases generated by an infectious case in a susceptible population.",
+        "R is the expected number of secondary cases generated by an infectious case once an epidemic is underway (6).",
+        "Following (7), R is calculated as follows: R = K2(L \u00d7 D) + K(L + D) + 1, where L is the average latent period, D the average latent infectious period, K the logarithmic growth rate of the case counts as reported by China CDC.",
+        "Let t denote the number of days since the start of the outbreak and Y(t) the number of cases.",
+        "(Time-1) 12/31/2019, when the authorities reported the first 27 cases with the infection dated as early as 12/16/2019.",
+        "SARS epidemic, R of 2019-nCoV is higher than that of SARS in both Beijing (2.76) and",
+        "To predict the future outbreak profile, the authors developed a model based on the deterministic Susceptible-Exposed-Infectious-Recovered-Death-Cumulative (SEIRDC)",
+        "The authors' model appears to explain the reported case counts very well during the current early stage of the outbreak.",
+        "An interesting finding is that by setting the start date to a time earlier than 12/16/2020, the SEIRDC model is able to provide a better fit for the case counts.",
+        "This indicates that human-to-human transmission may have started earlier than what the current prevailing is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+        "The SEIRDC model estimates the fatality rate for 2019-nCoV is 6.50%.",
+        "The authors used the model to predict the confirmed case counts and death counts in the first 80 days of the ongoing 2019-nCoV outbreak.",
+        "The authors simulated these counts for the 2003 SARS outbreaks in Beijing and Guangzhou as well, using the case counts as input.",
+        "At the end of this 80-day period, according to the simulations, the 2019-nCoV case counts",
+        "<a class=\"ref-link\" id=\"cThe_2019_a\" href=\"#rThe_2019_a\">The 2019</a>-nCoV death count (1,089) is much higher than that of SARS in",
+        "The authors' study suggests that by reducing the average infectious period to <2.3 days, the resulting R will decease to a value less than 1, meaning the epidemic can be effectively controlled.",
+        "Considering transmissibility and fatality rate, 2019-nCoV poses a major public health threat, at least at the level of 2003 SARS.",
+        "Epidemiological studies are critically called for to evaluate the effectiveness of stringent measures such as lockdown and help the design of refinements and development of potential alternative strategies for the phase of the 2019-nCoV outbreak."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Article Summary Line: This modeling study indicates that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate.",
+            "R0 is the expected number of secondary infectious cases generated by an infectious case in a susceptible population.",
+            "R is the expected number of secondary cases generated by an infectious case once an epidemic is underway (6).",
+            "Following (7), R is calculated as follows: R = K2(L \u00d7 D) + K(L + D) + 1, where L is the average latent period, D the average latent infectious period, K the logarithmic growth rate of the case counts as reported by China CDC."
+        ],
+        "Results": [
+            "Let t denote the number of days since the start of the outbreak and Y(t) the number of cases.",
+            "(Time-1) 12/31/2019, when the authorities reported the first 27 cases with the infection dated as early as 12/16/2019.",
+            "SARS epidemic, R of 2019-nCoV is higher than that of SARS in both Beijing (2.76) and",
+            "To predict the future outbreak profile, the authors developed a model based on the deterministic Susceptible-Exposed-Infectious-Recovered-Death-Cumulative (SEIRDC)",
+            "The authors' model appears to explain the reported case counts very well during the current early stage of the outbreak.",
+            "An interesting finding is that by setting the start date to a time earlier than 12/16/2020, the SEIRDC model is able to provide a better fit for the case counts.",
+            "This indicates that human-to-human transmission may have started earlier than what the current prevailing is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "The SEIRDC model estimates the fatality rate for 2019-nCoV is 6.50%.",
+            "The authors used the model to predict the confirmed case counts and death counts in the first 80 days of the ongoing 2019-nCoV outbreak.",
+            "The authors simulated these counts for the 2003 SARS outbreaks in Beijing and Guangzhou as well, using the case counts as input.",
+            "At the end of this 80-day period, according to the simulations, the 2019-nCoV case counts"
+        ],
+        "Conclusion": [
+            "<a class=\"ref-link\" id=\"cThe_2019_a\" href=\"#rThe_2019_a\">The 2019</a>-nCoV death count (1,089) is much higher than that of SARS in",
+            "The authors' study suggests that by reducing the average infectious period to <2.3 days, the resulting R will decease to a value less than 1, meaning the epidemic can be effectively controlled.",
+            "Considering transmissibility and fatality rate, 2019-nCoV poses a major public health threat, at least at the level of 2003 SARS.",
+            "Epidemiological studies are critically called for to evaluate the effectiveness of stringent measures such as lockdown and help the design of refinements and development of potential alternative strategies for the phase of the 2019-nCoV outbreak."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "The_2019_a",
+            "alt_id": "1",
+            "entry": "The Lancet. Emerging understandings of 2019-nCoV. Lancet. January 2020. doi:10.1016/S0140-6736(20)30186-0",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30186-0",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30186-0"
+        },
+        {
+            "id": "Chinese_2019_b",
+            "alt_id": "2",
+            "entry": "Chinese Center for Disease Control and Prevention. The 2019 novel coronavirus. [cited 2020 Jan 26]. http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/",
+            "url": "http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/"
+        },
+        {
+            "id": "Huang_et+al_2019_a",
+            "alt_id": "3",
+            "entry": "Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. January 2020. doi:10.1016/S01406736(20)30183-5",
+            "crossref": "https://dx.doi.org/10.1016/S01406736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/S01406736(20)30183-5"
+        },
+        {
+            "id": "Chan_et+al_2019_a",
+            "alt_id": "4",
+            "entry": "Chan JF-W, Yuan S, Kok K-H, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. January 2020. doi:10.1016/S0140-6736(20)30154-9",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30154-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30154-9"
+        },
+        {
+            "id": "Xu_et+al_0000_a",
+            "alt_id": "5",
+            "entry": "Xu X, Chen P, Wang J, et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci CHINA Life Sci. 2020. doi:10.1007/S11427-020-1637-5",
+            "crossref": "https://dx.doi.org/10.1007/S11427-020-1637-5",
+            "scite": "https://scite.ai/reports/10.1007/S11427-020-1637-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1007/S11427-020-1637-5"
+        },
+        {
+            "id": "Castillo-Chavez_et+al_2002_a",
+            "alt_id": "6",
+            "entry": "Castillo-Chavez C, Feng Z, Huang W. On the computation of R0 and its role on global stability. In: Castillo-Chavez C, Blower S, van den Driessche P, Kirschner D, Yakubu A, eds. Mathematical approaches for emerging and reemerging infectious diseases: an introduction. New York: Springer, 2002: 229\u201350.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Castillo-Chavez%2C%20C.%20Feng%2C%20Z.%20Huang%2C%20W.%20On%20the%20computation%20of%20R0%20and%20its%20role%20on%20global%20stability%202002",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Castillo-Chavez%2C%20C.%20Feng%2C%20Z.%20Huang%2C%20W.%20On%20the%20computation%20of%20R0%20and%20its%20role%20on%20global%20stability%202002",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Castillo-Chavez%2C%20C.%20Feng%2C%20Z.%20Huang%2C%20W.%20On%20the%20computation%20of%20R0%20and%20its%20role%20on%20global%20stability%202002"
+        },
+        {
+            "id": "Lipsitch_et+al_2003_a",
+            "alt_id": "7",
+            "entry": "Lipsitch M, Cohen T, Cooper B, et al. Transmission dynamics and control of severe acute respiratory syndrome. Science (80- ). 2003;300(5627):1966-1970. doi:10.1126/science.1086616",
+            "crossref": "https://dx.doi.org/10.1126/science.1086616",
+            "scite": "https://scite.ai/reports/10.1126/science.1086616",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1126/science.1086616"
+        },
+        {
+            "id": "Read_et+al_2020_a",
+            "alt_id": "8",
+            "entry": "Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP. Novel coronavirus 2019nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. January 2020:2020.01.23.20018549. doi:10.1101/2020.01.23.20018549",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.23.20018549",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.23.20018549"
+        },
+        {
+            "id": "Chowell_et+al_2007_a",
+            "alt_id": "9",
+            "entry": "Chowell G, Nishiura H, Bettencourt LMA. Comparative estimation of the reproduction number for pandemic influenza from daily case notification data. J R Soc Interface. 2007;4(12):154-166. doi:10.1098/rsif.2006.0161",
+            "crossref": "https://dx.doi.org/10.1098/rsif.2006.0161",
+            "scite": "https://scite.ai/reports/10.1098/rsif.2006.0161",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1098/rsif.2006.0161"
+        },
+        {
+            "id": "Figure_2019_a",
+            "alt_id": "10",
+            "entry": "Figure. SEIRDC model predictions for (A) cumulative numbers of infected persons and (B) 142 deaths of 2019-nCoV, 2003-SARS in Beijing, and 2003 SARS in Guangzhou in the first 80 143 days after the outbreak.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Figure%20SEIRDC%20model%20predictions%20for%20A%20cumulative%20numbers%20of%20infected%20persons%20and%20B%20142%20deaths%20of%202019nCoV%202003SARS%20in%20Beijing%20and%202003%20SARS%20in%20Guangzhou%20in%20the%20first%2080%20143%20days%20after%20the%20outbreak"
+        }
+    ],
+    "facts": [
+        "The results indicate that 2019-nCoV has a higher effective reproduction number",
+        "the expected number of secondary infectious cases generated by an infectious case in a susceptible population",
+        "the expected number of secondary cases generated by an infectious case once an epidemic is underway. R",
+        "the logarithmic growth rate of the case counts as reported by China CDC",
+        "to significant changes experienced in this time period in the case reporting requirements and practice",
+        "that an infected patient infects more than four susceptible people during the outbreak",
+        "a model based on the deterministic Susceptible-Exposed-Infectious-Recovered-Death-Cumulative",
+        "able to provide a better fit for the case counts",
+        "epidemiological studies are needed to draw any conclusions in this regard",
+        "the case counts as input",
+        "The basic assumption is the absence of any control measures",
+        "the resulting R will decease to a value",
+        "Epidemiological studies are critically called for to evaluate the effectiveness of stringent measures"
+    ],
+    "claims": [
+        "To predict the future outbreak profile, we developed a model based on the deterministic Susceptible-Exposed-Infectious-Recovered-Death-Cumulative (SEIRDC)"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "R0 is the expected number of secondary infectious cases generated by an infectious case in a susceptible population",
+        "Following (7), R is calculated as follows: R = K2(L \u00d7 D) + K(L + D) + 1, where L is the average latent period, D the average latent infectious period, K the logarithmic growth rate of the case counts as reported by China CDC",
+        "Note that the case data between 01/05/2020-01/20/2020 were discarded due to significant changes experienced in this time period in the case reporting requirements and practice",
+        "An interesting finding is that by setting the start date to a time earlier than 12/16/2020, the SEIRDC model is able to provide a better fit for the case counts",
+        "Further molecular and epidemiological studies are needed to draw any conclusions in this regard",
+        "We used the model to predict the confirmed case counts and death counts in the first 80 days of the ongoing 2019-nCoV outbreak. We simulated these counts for the 2003 SARS outbreaks in Beijing and Guangzhou as well, using the case counts as input",
+        "The basic assumption is the absence of any control measures in all these scenarios",
+        "Epidemiological studies are critically called for to evaluate the effectiveness of stringent measures such as lockdown and help the design of refinements and development of potential alternative strategies for the phase of the 2019-nCoV outbreak"
+    ],
+    "top_statements": [
+        "Article Summary Line: This modeling study indicates that 2019-nCoV has a higher effective reproduction number than SARS with a comparable fatality rate",
+        "R0 is the expected number of secondary infectious cases generated by an infectious case in a susceptible population",
+        "Following (7), R is calculated as follows: R = K2(L \u00d7 D) + K(L + D) + 1, where L is the average latent period, D the average latent infectious period, K the logarithmic growth rate of the case counts as reported by China CDC",
+        "Note that the case data between 01/05/2020-01/20/2020 were discarded due to significant changes experienced in this time period in the case reporting requirements and practice",
+        "An interesting finding is that by setting the start date to a time earlier than 12/16/2020, the SEIRDC model is able to provide a better fit for the case counts",
+        "We used the model to predict the confirmed case counts and death counts in the first 80 days of the ongoing 2019-nCoV outbreak. We simulated these counts for the 2003 SARS outbreaks in Beijing and Guangzhou as well, using the case counts as input"
+    ],
+    "headline": "R0 is the expected number of secondary infectious cases generated by an infectious case in a susceptible population",
+    "contexts": [],
+    "abbreviations": {}
+}

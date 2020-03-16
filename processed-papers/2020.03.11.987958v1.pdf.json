@@ -1,0 +1,745 @@
+{
+    "filename": "2020.03.11.987958v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 2584046,
+    "metadata": {
+        "title": "A human monoclonal antibody blocking SARS-CoV-2 infection 2 Running Head: A cross-neutralizing human antibody targeting SARS-CoV and SARS3 CoV-2 4 Chunyan Wanga,**, Wentao Lia,**, Dubravka Drabekb,c,**, Nisreen M.A. Okbad, Rien van 5 Haperenb,c, Albert D.M.E. Osterhause, Frank J.M. van Kuppevelda, Bart L. Haagmansd, 6 Frank Grosveldb,c,$ and Berend-Jan Boscha,*,$ 7 Virology Division, Department of Biomolecular Health Sciences, Faculty of Veterinary 8 Medicine, Utrecht University, Utrecht, the Netherlandsa; Department of Cell Biology, 9 Erasmus MC, Rotterdam, the Netherlandsb; Harbour Antibodies B.V., Rotterdam, 10 Netherlandsc; Department of Molecular and Cell Biology, Department of Viroscience, 11 Erasmus Medical Center, Rotterdam, the Netherlandsd. University of Veterinary 12 Medicine, Hannover, Germanye 13 * Address correspondence to Berend-Jan Bosch, b.j.bosch@uu.nl. 14 ** These authors are joint first authors. $ These authors are joint senior authors.",
+        "date": 2020,
+        "affiliations": [
+            "Virology Division, Department of Biomolecular Health Sciences, Faculty of Veterinary",
+            "Medicine, Utrecht University, Utrecht, the Netherlandsa; Department of Cell Biology,",
+            "Erasmus MC, Rotterdam, the Netherlandsb; Harbour Antibodies B.V., Rotterdam,",
+            "Netherlandsc; Department of Molecular and Cell Biology, Department of Viroscience,",
+            "Erasmus Medical Center, Rotterdam, the Netherlandsd. University of Veterinary",
+            "Medicine, Hannover, Germanye 13",
+            "Address correspondence to Berend-Jan Bosch, b.j.bosch@uu.nl. 14 ** These authors are joint first authors. $ These authors are joint senior authors."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.11.987958",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.11.987958v1.pdf"
+        },
+        "abstract": "The emergence of the novel human coronavirus SARS-CoV-2 in Wuhan, China has caused a worldwide epidemic of respiratory disease (COVID-19). Vaccines and targeted therapeutics for treatment of this disease are currently lacking. Here we report a human monoclonal antibody that neutralizes SARS-CoV-2 (and SARS-CoV). This cross-neutralizing antibody targets a communal epitope on these viruses and offers potential for prevention and treatment of COVID-19.",
+        "references": "@article{zhou2020a,\n  author = {Zhou, P.},\n  title = {A pneumonia outbreak associated with a new coronavirus of probable 115 bat origin},\n  journal = {Nature},\n  volume = {1},\n  date = {2020},\n  url = {https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200310-sitrep-50-covid-},\n  more-authors = {true},\n  number = {4},\n  language = {}\n}\n@article{unknown2020a,\n  title = {Committee on Taxonomy of Viruses. 120 The species Severe acute respiratory syndrome-related coronavirus: classifying 2019121 nCoV and naming it SARS-CoV-2},\n  journal = {Nat. Microbiol},\n  date = {2020},\n  language = {},\n  organization = {Coronaviridae Study Group of the International}\n}\n@article{prabakaran2009a,\n  author = {Prabakaran, P.},\n  title = {Potent human monoclonal antibodies against SARS CoV, 123 Nipah and Hendra viruses},\n  journal = {Expert opinion on biological therapy},\n  volume = {9},\n  pages = {355\u2013368},\n  date = {2009},\n  more-authors = {true},\n  language = {}\n}\n@article{saphire2018a,\n  author = {Saphire, E.O. and Schendel, S.L. and Gunn, B.M. and Milligan, J.C. and Alter, G.},\n  title = {Antibody125 mediated protection against Ebola virus},\n  journal = {Nat. Immunol},\n  volume = {19},\n  pages = {1169\u20131178},\n  date = {2018},\n  language = {}\n}\n@article{reguera2012a,\n  author = {Reguera, J.},\n  title = {Structural bases of coronavirus attachment to host aminopeptidase 127 N and its inhibition by neutralizing antibodies},\n  journal = {PLoS Pathog},\n  volume = {8},\n  pages = {1002859},\n  date = {2012},\n  more-authors = {true},\n  language = {}\n}\n@article{yu2015a,\n  author = {Yu, X.},\n  title = {Structural basis for the neutralization of MERS-CoV by a human 129 monoclonal antibody MERS-27},\n  journal = {Sci. Rep},\n  volume = {5},\n  pages = {13133},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@article{prabakaran2006a,\n  author = {Prabakaran, P.},\n  title = {Structure of severe acute respiratory syndrome coronavirus 131 receptor-binding domain complexed with neutralizing antibody},\n  journal = {J. Biol. Chem},\n  volume = {281},\n  pages = {15829\u201315836},\n  date = {2006},\n  more-authors = {true},\n  number = {132},\n  language = {}\n}\n@article{hwang2006a,\n  author = {Hwang, W.C.},\n  title = {Structural basis of neutralization by a human anti-severe acute 134 respiratory syndrome spike protein antibody, 80R},\n  journal = {J. Biol. Chem},\n  volume = {281},\n  pages = {135},\n  date = {2006},\n  more-authors = {true},\n  number = {34610-34616},\n  language = {}\n}\n@article{rockx2008a,\n  author = {Rockx, B.},\n  title = {Structural basis for potent cross-neutralizing human monoclonal 137 antibody protection against lethal human and zoonotic severe acute respiratory 138 syndrome coronavirus challenge},\n  journal = {J. Virol},\n  volume = {82},\n  pages = {3220\u20133235},\n  date = {2008},\n  more-authors = {true},\n  language = {}\n}\n@article{widjaja2019a,\n  author = {Widjaja, I.},\n  title = {Towards a solution to MERS: protective human monoclonal 140 antibodies targeting different domains and functions of the MERS-coronavirus spike 141 glycoprotein},\n  journal = {Emerg. Microbes Infect},\n  volume = {8},\n  pages = {516\u2013530},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@article{wrapp2020a,\n  author = {Wrapp, D.},\n  title = {Cryo-EM structure of the 2019-nCoV spike in the prefusion 143 conformation},\n  journal = {Science},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{walls2020a,\n  author = {Walls, A.C.},\n  title = {and Antigenicity of the SARS-CoV-2 Spike 145 Glycoprotein},\n  journal = {Cell},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{li2003a,\n  author = {Li, W.},\n  title = {Angiotensin-converting enzyme 2 is a functional receptor for the SARS 147 coronavirus},\n  journal = {Nature},\n  volume = {426},\n  pages = {450\u2013454},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@article{walls2019a,\n  author = {Walls, A.C.},\n  title = {Unexpected receptor functional mimicry elucidates activation of 149 coronavirus fusion},\n  journal = {Cell},\n  volume = {176},\n  pages = \"e15\" # \"382-385\",\n  date = {2019},\n  unmatched-author = {Tian, X.},\n  more-authors = {true},\n  source = {novel coronavirus spike protein by a SARS 151 coronavirus-specific human monoclonal antibody},\n  unmatched-journal = {et al. Potent binding of Emerging Microbes & Infections 9,},\n  unmatched-volume = {150 16. 152 153 17.},\n  number = {1026-1039},\n  unmatched-pages = {382-385},\n  language = {}\n}\n@article{menachery2015a,\n  author = {Menachery, V.D.},\n  title = {A SARS-like cluster of circulating bat coronaviruses shows 154 potential for human emergence},\n  journal = {Nat. Med},\n  volume = {21},\n  date = {2015},\n  more-authors = {true},\n  unmatched-volume = {155 18.},\n  number = {1508},\n  language = {}\n}\n@article{li2005a,\n  author = {Li, F. and Li, W. and Farzan, M. and Harrison, S.C.},\n  title = {Structure of SARS coronavirus spike 156 receptor-binding domain complexed with receptor},\n  journal = {Science},\n  volume = {309},\n  pages = {1864\u20131868},\n  date = {2005},\n  unmatched-volume = {157 19.},\n  language = {}\n}\n@article{raj2013a,\n  author = {Raj, V.S.},\n  title = {Dipeptidyl peptidase 4 is a functional receptor for the emerging 158 human coronavirus-EMC},\n  journal = {Nature},\n  volume = {495},\n  pages = {251\u2013254},\n  date = {2013},\n  more-authors = {true},\n  unmatched-volume = {159 20.},\n  language = {}\n}\n@misc{dis2019a,\n  author = {Dis, Infect},\n  volume = {25},\n  pages = {1868\u20131877},\n  date = {2019}\n}\n",
+        "links": [
+            "https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200310-sitrep-50-covid-",
+            "http://www.harbourbiomed.com"
+        ],
+        "emails": [
+            "b.j.bosch@uu.nl"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Zhou, P.\nTI  - A pneumonia outbreak associated with a new coronavirus of probable 115 bat origin\nT2  - Nature\nVL  - 1\nPY  - 2020\nDA  - 2020\nUR  - https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200310-sitrep-50-covid-\nC1  - true\nIS  - 4\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Committee on Taxonomy of Viruses. 120 The species Severe acute respiratory syndrome-related coronavirus: classifying 2019121 nCoV and naming it SARS-CoV-2\nT2  - Nat. Microbiol\nPY  - 2020\nDA  - 2020\nLA  - \nC1  - Coronaviridae Study Group of the International\nER  - \n\nTY  - JOUR\nAU  - Prabakaran, P.\nTI  - Potent human monoclonal antibodies against SARS CoV, 123 Nipah and Hendra viruses\nT2  - Expert opinion on biological therapy\nVL  - 9\nSP  - 355\nEP  - 368\nPY  - 2009\nDA  - 2009\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Saphire, E.O.\nAU  - Schendel, S.L.\nAU  - Gunn, B.M.\nAU  - Milligan, J.C.\nAU  - Alter, G.\nTI  - Antibody125 mediated protection against Ebola virus\nT2  - Nat. Immunol\nVL  - 19\nSP  - 1169\nEP  - 1178\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Reguera, J.\nTI  - Structural bases of coronavirus attachment to host aminopeptidase 127 N and its inhibition by neutralizing antibodies\nT2  - PLoS Pathog\nVL  - 8\nSP  - 1002859\nPY  - 2012\nDA  - 2012\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yu, X.\nTI  - Structural basis for the neutralization of MERS-CoV by a human 129 monoclonal antibody MERS-27\nT2  - Sci. Rep\nVL  - 5\nSP  - 13133\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Prabakaran, P.\nTI  - Structure of severe acute respiratory syndrome coronavirus 131 receptor-binding domain complexed with neutralizing antibody\nT2  - J. Biol. Chem\nVL  - 281\nSP  - 15829\nEP  - 15836\nPY  - 2006\nDA  - 2006\nC1  - true\nIS  - 132\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hwang, W.C.\nTI  - Structural basis of neutralization by a human anti-severe acute 134 respiratory syndrome spike protein antibody, 80R\nT2  - J. Biol. Chem\nVL  - 281\nSP  - 135\nPY  - 2006\nDA  - 2006\nC1  - true\nIS  - 34610-34616\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rockx, B.\nTI  - Structural basis for potent cross-neutralizing human monoclonal 137 antibody protection against lethal human and zoonotic severe acute respiratory 138 syndrome coronavirus challenge\nT2  - J. Virol\nVL  - 82\nSP  - 3220\nEP  - 3235\nPY  - 2008\nDA  - 2008\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Widjaja, I.\nTI  - Towards a solution to MERS: protective human monoclonal 140 antibodies targeting different domains and functions of the MERS-coronavirus spike 141 glycoprotein\nT2  - Emerg. Microbes Infect\nVL  - 8\nSP  - 516\nEP  - 530\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wrapp, D.\nTI  - Cryo-EM structure of the 2019-nCoV spike in the prefusion 143 conformation\nT2  - Science\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Walls, A.C.\nTI  - and Antigenicity of the SARS-CoV-2 Spike 145 Glycoprotein\nT2  - Cell\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, W.\nTI  - Angiotensin-converting enzyme 2 is a functional receptor for the SARS 147 coronavirus\nT2  - Nature\nVL  - 426\nSP  - 450\nEP  - 454\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Walls, A.C.\nTI  - Unexpected receptor functional mimicry elucidates activation of 149 coronavirus fusion\nT2  - Cell\nVL  - 176\nSP  - \"e15\" # \"382\nEP  - 385\"\nPY  - 2019\nDA  - 2019\nC1  - Tian, X.\nC1  - true\nT2  - novel coronavirus spike protein by a SARS 151 coronavirus-specific human monoclonal antibody\nC1  - et al. Potent binding of Emerging Microbes & Infections 9,\nC1  - 150 16. 152 153 17.\nIS  - 1026-1039\nC1  - 382-385\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Menachery, V.D.\nTI  - A SARS-like cluster of circulating bat coronaviruses shows 154 potential for human emergence\nT2  - Nat. Med\nVL  - 21\nPY  - 2015\nDA  - 2015\nC1  - true\nC1  - 155 18.\nIS  - 1508\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, F.\nAU  - Li, W.\nAU  - Farzan, M.\nAU  - Harrison, S.C.\nTI  - Structure of SARS coronavirus spike 156 receptor-binding domain complexed with receptor\nT2  - Science\nVL  - 309\nSP  - 1864\nEP  - 1868\nPY  - 2005\nDA  - 2005\nC1  - 157 19.\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Raj, V.S.\nTI  - Dipeptidyl peptidase 4 is a functional receptor for the emerging 158 human coronavirus-EMC\nT2  - Nature\nVL  - 495\nSP  - 251\nEP  - 254\nPY  - 2013\nDA  - 2013\nC1  - true\nC1  - 159 20.\nLA  - \nER  - \n\nTY  - GEN\nAU  - Dis, Infect\nVL  - 25\nSP  - 1868\nEP  - 1877\nPY  - 2019\nDA  - 2019\nER  - \n\n",
+        "author_conclusions": [
+            "In conclusion, this is the first report on a (human) monoclonal antibody that neutralizes SARS-CoV-2. 47D11 binds a conserved epitope on the spike receptor binding domain explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, using a mechanism that is independent of receptor binding inhibition. This antibody will be useful for development of antigen detection tests and serological assays targeting"
+        ],
+        "table_captions": [],
+        "figure_captions": [
+            {
+                "id": "2",
+                "caption": "The neutralizing 47D11 monoclonal antibody binds the receptor binding domain of SARS-CoV and SARS-CoV-2 spike proteins without eliminating S1B/ACE2 receptor interaction. a) ELISA binding curves of 47D11 to Secto (upper panel) or S1A and S1B (RBD) (lower panel) of SARS-S and SARS2-S coated at equimolar concentrations. The average \u00b1 SD from at least two independent experiments performed is shown. b) Interference of antibodies with binding of the S184 S1B of SARS-CoV and SARS-CoV-2 to cell surface ACE2-GFP analysed by flow cytometry. Prior to cell binding, S1B was mixed with mAb (mAbs 47D11, 35F4, 43C6, 7.7G6, in H2L2 format) with indicated specificity in a mAb:S1B molar ratio of 8:1 (see Suppl.Fig.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for an extensive analysis using different mAb:S1B molar ratio\u2019s). Cells are analysed for (ACE2-)GFP expression (x-axis) and S1B binding (y-axis). Percentages of cells that scored negative, single positive, or double positive are shown in each quadrant. c) Divergence in surface residues in S1B of SARS-CoV and SARS-CoV-2. Upper panel: Structure of the SARS-CoV spike protein S1B RBD in complex with human ACE2 receptor (PDB: 2AJF)[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. ACE2 (wheat color) is visualized in ribbon presentation. The S1B core domain (blue) and subdomain (orange) are displayed in surface presentation using PyMOL, and are visualized with the same colors in the"
+            },
+            {
+                "id": "Suppl.1",
+                "caption": "Hybridoma 44B3 45E10 46F11 39F9 41A7 28 E3 34C10 16C10 14B1 30B1 28G10 28F6 40H10 39A4 37G1 44E11 19C1 58D2 14C1 45H1 24F5 52D9 45E6 47D11 47G10 48G1 49F1 43C6 22E10 28D11 28H3 25E7 22E8 35F4 43G5 47F8 43B4 49B10 51C11 36F6 65H8 65H9 48D5 35E2 44G3 9H9 25C3 29E6 43F11 47C4 13F11"
+            },
+            {
+                "id": "Suppl.4",
+                "caption": "mAb:S1B ratio 8:1"
+            }
+        ],
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-006.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-008.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-010.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-012.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-014.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-016.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-018.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-020.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-022.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-024.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-039.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-040.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-041.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-042.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-044.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-045.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-046.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-047.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-049.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-050.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-051.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-052.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-054.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-057.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-061.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-062.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-063.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-064.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-066.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-068.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-071.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-072.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-073.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-074.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-076.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-078.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-079.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-085.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-087.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-089.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-091.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-093.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-095.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-097.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-099.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-101.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-103.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-105.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-107.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-109.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-111.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-113.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-115.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-117.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-119.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-121.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-123.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-125.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-127.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-129.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-131.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-133.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-135.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-137.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-139.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-141.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.11.987958v1/img-143.png"
+        ]
+    },
+    "sections": {
+        "acknowledgements": [
+            "We thank dr. Yoshiharu Matsuura (Osaka University, Japan) for the provision of the luciferase-encoding VSV-G pseudotyped VSV\u2206G-luc virus, and Yongle Yang, Michael van der Reijden and Rick Janssens for technical support. We thank Christian Drosten (Charit\u00e9 Universit\u00e4tsmedizin Berlin, Germany) for provision of the SARS-CoV-2 virus.<br/><br/>This study was done within the framework of National Centre for One Health (NCOH)<br/><br/>and the Innovative Medicines Initiative (IMI) Zoonotic Anticipation and Preparedness<br/><br/>Initiative [ZAPI project; grant agreement no. 115760]. The mice used in this study were provided by Harbour Antibodies BV, a daughter company of Harbour Biomed (http://www.harbourbiomed.com). C. Wang was supported by a grant from the Chinese<br/><br/>Scholarship Council (file number CSC201708620178).<br/><br/>Author Contributions<br/><br/>B.J.B. designed and coordinated the study. C.W., W.L., N.M.A.O., R.v.H. and D.D conducted the experiments. D.D., B.L.H. and B.J.B. supervised part of the experiments. All authors contributed to the interpretations and conclusions presented.<br/><br/>B.J.B. wrote the manuscript, B.L.H., F.J.M.K., A.D.M.E.O. and F.G. participated in editing the manuscript."
+        ],
+        "methods": [
+            "Expression and purification of coronavirus spike proteins. Coronavirus spike ectodomains (Secto) of SARS-CoV (residues 1\u20131,182; strain CUHK-W1; GenBank: AAP13567.1) and SARS-CoV-2 (residues 1\u20131,213; strain Wuhan-Hu-1; GenBank: QHD43416.1) were expressed transiently in HEK-293T cells with a C-terminal trimerization motif and Strep-tag using the pCAGGS expression plasmid. Similarly, pCAGGS expression vectors encoding S1 or its subdomains of SARS-CoV (S1, residues 1-676; S1A, residues 1-302; S1B, residues, 325-533), and SARS-CoV-2 (S1, residues 1-682; S1A, residues 1-294; S1B, residues 329-538) C-terminally tagged with<br/><br/>Fc domain of human or mouse IgG or Strep-tag were generated as described before[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].<br/><br/>Recombinant proteins were expressed transiently in HEK-293T cells and affinity purified from the culture supernatant by protein-A sepharose beads (GE Healthcare) or streptactin beads (IBA) purification. Purity and integrity of all purified recombinant proteins was checked by coomassie stained SDS-PAGE.<br/><br/>Generation of H2L2 mAbs. H2L2 mice were sequentially immunized in two weeks intervals with purified Secto of different CoVs in the following order: HCoV-OC43, SARS-<br/><br/>CoV, MERS-CoV, HCoV-OC43, SARS-CoV and MERS-CoV. Antigens were injected at 20-25 \u03bcg/mouse using Stimune Adjuvant (Prionics) freshly prepared according to the manufacturer instruction for first injection, while boosting was done using Ribi (Sigma) adjuvant. Injections were done subcutaneously into the left and right groin each (50 \u03bcl) and 100 \u03bcl intraperitoneally. Four days after the last injection, spleen and lymph nodes are harvested, and hybridomas made by standard method using SP 2/0 myeloma cell line (ATCC#CRL-1581) as a fusion partner. Hybridomas were screened in antigen-specific ELISA and those selected for further development, subcloned and produced on a small scale (100 ml of medium). For this purpose, hybridomas are cultured in serum- and protein-free medium for hybridoma culturing (PFHM-II (1X), Gibco) with addition of non-essential amino acids 100X NEAA, Biowhittaker Lonza, Cat BE13-114E). H2L2 antibodies were purified from hybridoma culture supernatants using Protein-A affinity chromatography. Purified antibodies were stored at 4oC until use.<br/><br/>Production of human monoclonal antibody 47D11. For recombinant human mAb production, the cDNA\u2019s encoding the 47D11 H2L2 mAb variable regions of the heavy and light chains were cloned into expression plasmids containing the human IgG1 heavy chain and Ig kappa light chain constant regions, respectively (InvivoGen). Both plasmids contain the interleukin-2 signal sequence to enable efficient secretion of recombinant antibodies. Recombinant human 47D11 mAb and previously described<br/><br/>Isotype-control (anti-Streptag mAb) or 7.7G6 mAb were produced in HEK-293T cells following transfection with pairs of the IgG1 heavy and light chain expression plasmids according to protocols from InvivoGen. Human antibodies were purified from cell culture supernatants using Protein-A affinity chromatography. Purified antibodies were stored at 4oC until use.<br/><br/>Immunofluorescence microscopy. Antibody binding to cell surface spike proteins of<br/><br/>SARS-CoV, SARS-CoV-2 and MERS-CoV was measured by immunofluoresence microscopy. HEK-293T cells seeded on glass slides were transfected with plasmids encoding SARS-S, SARS2-S or MERS-S - C-terminally fused to the green fluorescence protein (GFP) - using Lipofectamine 2000 (Invitrogen). Two days post transfection, cells were fixed by incubation with 2% paraformaldehyde in PBS for 20 min at room temperature and stained for nuclei with 4,6-diamidino-2-phenylindole (DAPI). Cells were subsequently incubated with mAbs at a concentration of 10 \u03bcg/ml for 1 h at room temperature, followed by incubation with Alexa Fluor 594 conjugated goat anti-human IgG antibodies (Invitrogen, Thermo Fisher Scientific) for 45 min at room temperature. The fluorescence images were recorded using a Leica SpeII confocal microscope.<br/><br/>Flow cytometry-based receptor binding inhibition assay. Antibody interference of<br/><br/>S1B binding to human ACE2 receptor on the cell surface was measured by flow cytometry. HEK-293T cells were seeded at a density of 2.5\u00d7105 cells per ml in a T75 flask. After reaching 70~80% confluency, cells were transfected with an expression plasmid encoding human ACE2 - C-terminally fused to the GFP - using Lipofectamine (Invitrogen). Two days post transfection, cells were dissociated by cell dissociation solution (Sigma-aldrich, Merck KGaA; cat. no. C5914). 2.5 \u03bcg/ml of human<br/><br/>Fc tagged SARS-S1B and SARS2-S1B was preincubated with mAb at the indicated mAb:S1B molar ratios for 1 hour on ice and subjected to flow cytometry. Single cell suspensions in FACS buffer were centrifuged at 400\u00d7g for 10 min. Cells were subsequently incubated with S1B and mAb mixture for 1 h on ice, followed by incubation with Alexa Fluor 594 conjugated goat anti-human IgG antibodies (Invitrogen, Thermo Fisher Scientific) for 45 min at room temperature. Cells were subjected to flow cytometric analysis with a CytoFLEX Flow Cytometer (Beckman<br/><br/>Coulter). The results were analysed by FlowJo (version 10).<br/><br/>Pseudotyped virus neutralization assay. Production of VSV pseudotyped with<br/><br/>SARS-S and SARS2-S was performed as described previously with some adaptations[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Briefly, HEK-293T cells were transfected with pCAGGS expression vectors encoding SARS-S or SARS2-S carrying a 28- or 18-a.a. cytoplasmic tail truncation, respectively. One day post transfection, cells were infected with the VSV-<br/><br/>G pseudotyped VSV\u2206G bearing the firefly (Photinus pyralis) luciferase reporter gene.<br/><br/>Twenty-four hours later, supernatants containing SARS-S/SARS2-S pseudotyped<br/><br/>VSV particles were harvested and titrated on African green monkey kidney VeroE6 cells. In the virus neutralization assay, mAbs were serially diluted at two times the desired final concentration in DMEM supplemented with 1% fetal calf serum (Bodinco), U/ml Penicillin and 100 \u03bcg/ml Streptomycin. Diluted mAbs were incubated with an equal volume of pseudotyped VSV particles for 1 hour at room temperature, inoculated on confluent VeroE6 monolayers in 96-well plated, and further incubated at 37\u00b0C for hours. Luciferase activity was measured on a Berthold Centro LB 960 plate luminometer using D-luciferin as a substrate (Promega). The percentage of infectivity was calculated as ratio of luciferase readout in the presence of mAbs normalized to luciferase readout in the absence of mAb. The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version    8).<br/><br/>Virus neutralization assay. Neutralization of authentic SARS-CoV and SARS-CoV-2 was performed using a plaque reduction neutralization test (PRNT) as described earlier, with some modifications[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. In brief, mAbs were two-fold serially diluted and mixed with SARS-CoV or SARS-CoV-2 for 1 hour. The mixture was then added to<br/><br/>VeroE6 cells and incubated for 1 hr, after which the cells were washed and further incubated in medium for 8 hrs. The cells were then fixed and stained using a rabbit anti-SARS-CoV serum (Sino Biological) and a secondary peroxidase-labelled goat anti-rabbit IgG (Dako). The signal was developed using a precipitate forming TMB substrate (True Blue, KPL) and the number of infected cells per well were counted using the ImmunoSpot\u00ae Image analyzer (CTL Europe GmbH). The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version 8).<br/><br/>ELISA analysis of antibody binding to CoV spike antigens. NUNC Maxisorp plates (Thermo Scientific) were coated with equimolar antigen amounts at 4\u00b0C overnight.<br/><br/>Plates were washed three times with Phosphate Saline Buffer (PBS) containing 0.05%<br/><br/>Tween-20 and blocked with 3% Bovine Serum Albumin (BSA) in PBS containing 0.1%<br/><br/>Tween-20 at room temperature for 2 hours. Four-folds serial dilutions of mAbs starting at 10 \u03bcg/ml (diluted in blocking buffer) were added and plates were incubated for 1 hour at room temperature. Plates were washed three times and incubated with HRP-<br/><br/>conjugated goat anti-human secondary antibody (ITK Southern Biotech) diluted 1:2000 in blocking buffer for 1 hour at room temperature. An HRP-conjugated anti-StrepMAb (IBA, Cat.no: 2-1509-001) antibody was used to corroborate equimolar coating of the<br/><br/>Strep-tagged spike antigens. HRP activity was measured at 450 nanometer using tetramethylbenzidine substrate (BioFX) and an ELISA plate reader (EL-808, Biotek).<br/><br/>Half-maximum effective concentration (EC50) binding values were calculated by nonlinear regression analysis on the binding curves using GraphPad Prism (version 8).    Fig.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] a)    S-GFP<br/><br/>SARS-CoV SARS-CoV-2 MERS-CoV    Overlay b)<br/><br/>SARS2-S pseudotyped virus<br/><br/>SARS-S pseudotyped virus    Infection (%)    Iso-CTRL<br/><br/>MAb concentration (\u03bcg/ml) c)    SARS-CoV    SARS-CoV-2    a)    OD 450nm    SARS-Secto    SARS2-Secto    SARS-S1A    SARS2-S1A    SARS-S1B<br/><br/>SARS2-S1B b) mAb 47D11 \u03b1-SARS-S1B /\u03b1- SARS2-S1B mAb 35F4 \u03b1- SARS-S1B<br/><br/>S1B cell surface binding    No mAb<br/><br/>ACE2-GFP expression mAb 43C6 \u03b1- SARS-S1B mAb 7.7g6 \u03b1- MERS-S1B    Suppl.Fig.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>  ]  Hybridoma    E3    SARS-S1    SARS2-S1<br/><br/>ELISA reactivity hybr. sups anti-SARS-S1A anti-SARS-S1 (but not binding S1A)<br/><br/>anti-SARS-Secto (but not binding S1)    Total    # hybr sups<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. ELISA cross-reactivity of antibody-containing supernatants of<br/><br/>SARS-S H2L2 hybridomas towards SARS2-S1. SARS-S targeting hybridomas were developed by conventional hybridoma technology from immunized H2L2 transgenic mice (Harbour Biomed), as described before[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. These mice - carrying genes encoding the heavy and light chain human immunoglobulin repertoire - were sequentially immunized with 2-week intervals with trimeric spike protein ectodomains (Secto) of three human coronaviruses from the betacoronavirus genus in the following order: 1. HCoV-OC43-Secto, 2. SARS-CoV-Secto, 3. MERS-CoVSecto, 4. HCoV-OC43-Secto, 5. SARS-CoV-Secto, 6. MERS-CoV-Secto. Four days after the last immunization, splenocytes and lymph node lymphocytes were harvested and hybridomas were generated. Antibodies in the cell supernatants were tested for<br/><br/>ELISA-reactivity against SARS-Secto, SARS-S1, SARS-S1A and SARS2-S1. Of the hybridoma supernatants that reacted with SARS-Secto only, 23 reacted with<br/><br/>SARS-S1A, 22 with SARS-S1 but not SARS-S1A, 6 with SARS-Secto but not SARSS1. Four of the 51 SARS-Secto hybridoma supernatants reacted with SARS2-S1<br/><br/>(see column on the right). The table displays ELISA-signal intensities (OD450nm values) of hybridoma supernatants for the different antigens.<br/><br/>1) Widjaja, I. et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein. Emerg.<br/><br/>Microbes Infect. 8, 516-530 (2019).<br/><br/>Anti-strep iso-CTRL<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]. ELISA binding curve of the anti-StrepMAb (IBA) antibody to<br/><br/>Strep-tagged spike antigens to corroborate equimolar ELISA plate coating of<br/><br/>SARS-Secto / SARS2-Secto (upper panel), SARS-S1B / SARS2-S1B (middle panel) and SARS-S1A / SARS2-S1A (lower panel) antigens used in Fig.2a.    nM    Binding (nM)    Time (min)<br/><br/>Spike protein KD (nM)    Kon (M-1sec-1)    Koff (sec-1)<br/><br/>0.745 (\u00b1 0.532) 3.75 (\u00b1 1.27) \u00d7 104<br/><br/>3.42 (\u00b1 3.34) \u00d7 10-5    10.8 (\u00b1 2.46)<br/><br/>9.77 (\u00b1 4.09) \u00d7 103<br/><br/>9.85 (\u00b1 3.61) \u00d7 10-5    16.1 (\u00b1 13.3)<br/><br/>2.00 (\u00b1 0.961) \u00d7 104 2.10 (\u00b1 0.239) \u00d7 10-4    9.56 (\u00b1 2.68)<br/><br/>1.51 (\u00b1 0.285) \u00d7 104 1.37 (\u00b1 0.0728) \u00d7 10-4<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Binding kinetics of 47D11 to the S ectodomain and S1B of SARSCoV and SARS-CoV-2. Binding kinetics of 47D11 to immobilized recombinant<br/><br/>SARS-Secto, SARS2-Secto, SARS-S1B and SARS2-S1B was measured using biolayer interferometry at 25\u00b0C, as described previously[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Kinetic binding assay was performed by loading 47D11 mAb at optimal concentration (42 nM) on antihuman Fc biosensor for 10 mins. Antigen association step was performed by incubating the sensor with a range of concentrations of the recombinant spike ectodomain (1600-800-400-200-100-50-25 nM) for 10 min, followed by a dissociation step in PBS for 60 min. The kinetics constants were calculated using<br/><br/>1:1 Langmuir binding model on Fortebio Data Analysis 7.0 software.<br/><br/>SARS-S1B \u2013 ACE2 receptor binding mAb:S1B ratio    8:1    4:1    2:1    1:1    mAb 47D11<br/><br/>S1B cell surface binding (Alexa 594)<br/><br/>\u03b1-SARS-S1B /\u03b1- SARS2-S1B<br/><br/>ACE2-GFP expression (GFP)    Binding controls<br/><br/>Cell surface binding (Alexa 594)    Mock    0.5:1<br/><br/>Suppl.Fig.4 - continued<br/><br/>SARS2-S1B \u2013 ACE2 receptor binding<br/><br/>Suppl. Fig.4. 47D11 does not prevent binding of SARS-S1B and SARS2-S1B to<br/><br/>ACE2-expressing cells. Human HEK-293T cells expressing human ACE2-GFP proteins (see Methods) were detached and fixed with 2% PFA, incubated with a fixed amount of human Fc-tagged S1B domain of SARS-S or SARS2-S that was preincubated for 1h with mAb (mAbs 47D11, 35F4, 43C6, 7.7G6, in H2L2 format) at the indicated mAb:S1B molar ratios, and analysed by flow cytometry using a Alexa<br/><br/>Fluor 594-conjugated secondary antibody targeting the human Fc tag. Cells are analysed for GFP expression (x-axis, GFP signal) and antibody binding (y-axis, Alexa 594 signal). Percentages of cells that scored negative, single positive, or double positive are shown in each quadrant. Binding controls include PBS-treated cells (mock), treatment of cells with SARS-S1B and SARS2-S1B in the absence of antibody, and cells treated with antibodies only. The experiment was performed twice, data from a representative experiment are shown.<br/><br/>SARS-S-ACE2 interaction<br/><br/>SARS-Secto + 35F4<br/><br/>SARS-Secto + 43C6<br/><br/>SARS-Secto + 47D11<br/><br/>SARS-Secto + 7.7G6    SARS-S1B + 35F4    SARS-S1B + 43C6    SARS-S1B + 47D11    SARS-S1B + 7.7G6    No Spike<br/><br/>SARS2-S-ACE2 interaction<br/><br/>SARS2-Secto + 35F4    SARS2-S1B + 35F4<br/><br/>SARS2-Secto + 43C6    SARS2-S1B + 43C6<br/><br/>SARS2-Secto + 47D11<br/><br/>SARS2-S1B + 47D11<br/><br/>SARS2-Secto + 7.7G6<br/><br/>SARS2-S1B + 7.7G6<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. ELISA-based receptor binding inhibition assay. The ELISA-based receptor binding inhibition assay was performed as described previously with some adaptations[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Recombinant soluble human ACE2 was coated on NUNC Maxisorp plates (Thermo Scientific) at 4oC overnight. Plates were washed three times with<br/><br/>PBS containing 0.05% Tween-20 and blocked with 3% BSA in PBS containing<br/><br/>0.1% Tween-20 at room temperature for 2 hours. Recombinant Secto and S1B of<br/><br/>SARS-S or SARS2-S (300 ng) and serially diluted mAbs (mAbs 47D11, 35F4, 43C6, 7.7G6, in H2L2 format) were mixed for 1h at RT, added to the plate for 1 hour at room temperature, after which the plates were washed three times. Binding to ACE2 was detected using HRP-conjugated StrepMAb (IBA) that recognizes the<br/><br/>C-terminal Streptag on the Secto and S1B proteins.    H2L2 43C6    H2L2 35F4<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. H2L2 monoclonal antibodies 35F4 and 43C6 neutralize SARS-CoV but not SARS-CoV-2. Antibody-mediated neutralization of infection of VSV particles pseudotyped with spike proteins of SARS-CoV (upper panel) and SARS-CoV-2<br/><br/>(lower panel) by the 35F4 and 43C6 H2L2 antibodies targeting SARS-S1 but not<br/><br/>SARS2-S1 (see Suppl.Fig.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]). An irrelevant antibody was taken along as a human<br/><br/>IgG1 isotype control. Means \u00b1 SD of triplicates are shown.    trypsin    MERS-CoV mAb    Overlay    +<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Cell-cell fusion inhibition assay. The cell-cell-fusion inhibition assay was performed as described previously with some adaptations[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. VeroE6 cells were seeded with density of 105 cells per ml.<br/><br/>After reaching 70~80% confluency, cells were transfected with plasmids encoding full length SARS-S, SARS2-S and MERS-S \u2013 C-terminally fused to GFP - using Lipofectamine 2000 (Invitrogen). The furin recognition site in the SARS2-S was mutated (R682RAR to A682AAR) to inhibit cleavage of the protein by endogenous furin and allow trypsin-induced syncytia formation.<br/><br/>Two days post transfection, cells were pretreated DMEM only or DMEM with \u03bcg/ml mAbs for 1 h and subsequently treated with DMEM with 15 \u03bcg/ml trypsin (to activate the spike fusion function) in the absence or presence of \u03bcg/ml mAbs (47D11 crossreactive SARS-S and SARS2-S, 35F4 reactive to SARS-S, 7.7G6 reactive to MERS-S). After incubation at 37\u00b0C for 2 hrs, the cells were fixed with 2% PFA in PBS for 20 min at room temperature and stained for nuclei with 4,6-diamidino-2-phenylindole (DAPI). Cells expressing the S-GFP proteins were detected by fluorescence microscopy and S-mediated cell-cell fusion was observed by the formation of (fluorescent) multi-nucleated syncytia. The fluorescence images were recorded using a Leica SpeII confocal microscope. The experiment was performed twice, data from a representative experiment are shown.<br/><br/>1) Widjaja, I. et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein.<br/><br/>Emerg. Microbes Infect. 8, 516-530 (2019).    SARS-RBD    SARS2-RBD<br/><br/>CPFGEVFNATKFPSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNV<br/><br/>CPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNV<br/><br/>**********:* *****:**:**************: ********** ********:**<br/><br/>YADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRY<br/><br/>YADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRL<br/><br/>******::**:********** ************ ***:***:.*:*:. ***** **<br/><br/>LRHGKLRPFERDISNVPFSPDGKPCTP-PALNCYWPLNDYGFYTTTGIGYQPYRVVVLSF<br/><br/>FRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSF<br/><br/>:*:.:*:*******. :. ...**.<br/><br/>.:***:**:.*** *.*:************    ELLNAPATVCGP    ELLHAPATVCGP    ***:********<br/><br/>Suppl. Fig.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. Protein sequence alignment of the S1B receptor binding domain (RBD) of the SARS-CoV and SARS-CoV-2 spike proteins by<br/><br/>ClustalW. Numbering denotes the residue position in the full-length spike protein of SARS-CoV (Genbank: AAP13441.1) and SARS-CoV-2 (Genbank: QHD43416.1). Asterisks (*) indicated fully conserved residues, the colon symbol (:) indicates conservation between groups of very similar properties, and the period symbol (.) indicates conservation between groups of weakly similar properties. Sequences corresponding to the S1B receptor binding core domain and the receptor binding subdomain are colored in blue and orange, respectively. The fourteen residues that are involved in binding of SARS-CoV<br/><br/>S1B to human ACE2 are highlighted in grey[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].<br/><br/>1) Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike receptorbinding domain complexed with receptor. Science 309, 1864-1868 (2005)."
+        ],
+        "funding": [
+            "We thank Christian Drosten (Charit\u00e9 Universit\u00e4tsmedizin Berlin, Germany) for provision of the SARS-CoV-2 virus. This study was done within the framework of National Centre for One Health (NCOH) and the Innovative Medicines Initiative (IMI) Zoonotic Anticipation and Preparedness Initiative [ZAPI project; grant agreement no. 115760]",
+            "Wang was supported by a grant from the Chinese Scholarship Council (file number CSC201708620178). Author Contributions B.J.B. designed and coordinated the study"
+        ],
+        "introduction": [
+            "Medicine, Utrecht University, Utrecht, the Netherlandsa; Department of Cell Biology, Erasmus MC, Rotterdam, the Netherlandsb; Harbour Antibodies B.V., Rotterdam, Netherlandsc; Department of Molecular and Cell Biology, Department of Viroscience, Erasmus Medical Center, Rotterdam, the Netherlandsd. University of Veterinary",
+            "The emergence of the novel human coronavirus SARS-CoV-2 in Wuhan, China has caused a worldwide epidemic of respiratory disease (COVID-19). Vaccines and targeted therapeutics for treatment of this disease are currently lacking. Here we report a human monoclonal antibody that neutralizes SARS-CoV-2 (and SARS-CoV). This cross-neutralizing antibody targets a communal epitope on these viruses and offers potential for prevention and treatment of COVID-19.",
+            "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the etiological agent of the coronavirus induced disease 19 (COVID-19) that emerged in China late and causing a worldwide epidemic[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. As of March 10th 2020, over 115,113 cases have been reported in 109 countries, of which 4,063 (3.5%) succumbed to the infection[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "Betacoronavirus, family Coronaviridae)[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] together with SARS-CoV that emerged in causing approximately 8000 infections with a lethality of 10%. Both viruses crossed species barriers from an animal reservoir and can cause a life-threatening respiratory illness in humans. Presently no approved targeted therapeutics are available for COVID-19. Monoclonal antibodies targeting vulnerable sites on viral surface proteins are increasingly recognised as a promising class of drugs against infectious diseases and have shown therapeutic efficacy for a number of viruses[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>].",
+            "Coronavirus neutralizing antibodies primarily target the trimeric spike (S) glycoproteins on the viral surface that mediate entry into host cells. The S protein has two functional subunits that mediate cell attachment (the S1 subunit, existing of four core domains",
+            "S1A through S1D) and fusion of the viral and cellular membrane (the S2 subunit). Potent neutralizing antibodies often target the receptor interaction site in S1, disabling receptor interactions[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>-<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. The spike proteins of SARS-CoV-2 (SARS2-S; 1,273 residues, strain Wuhan-Hu-1) and SARS-CoV (SARS-S, 1,255 residues, strain Urbani) are 77.5% identical by primary amino acid sequence, are structurally very similar[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] and commonly bind the human angiotensin coverting enzyme 2 (ACE2) protein as a host receptor[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] through their S1B domain. Receptor interaction is known to trigger",
+            "In order to identify SARS-CoV-2 neutralizing antibodies, ELISA-(cross)reactivity was assessed of antibody-containing supernatants of a collection of 51 SARS-S hybridoma\u2019s derived from immunized transgenic H2L2 mice that encode chimeric immunoglobulins with human variable heavy and light chains and constant regions of rat origin (Suppl.Fig.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]). Four of 51 SARS-S hybridoma supernatants displayed ELISA-",
+            "cross-reactivity with the SARS2-S1 subunit (S residues 1-681; Suppl.Fig.1), of which one (47D11) exhibited cross-neutralizing activity of SARS-S and SARS2-S pseudotyped VSV infection. The chimeric 47D11 H2L2 antibody was reformatted and recombinantly expressed as a fully human IgG1 isotype antibody for further characterization.",
+            "SARS-CoV and SARS-CoV-2 (Fig.1a). The 47D11 antibody was found to potently inhibit infection of VeroE6 cells with SARS-S and SARS2-S pseudotyped VSV with",
+            "IC50 values of 0.06 and 0.08 \u03bcg/ml (Fig.1b), respectively. Authentic infection of VeroE6 cells with SARS-CoV and SARS-CoV-2 was neutralized with IC50 values of 0.19 and",
+            "0.57 \u03bcg/ml (Fig.1c). Using ELISA 47D11 was shown to target the S1B receptor binding domain (RBD) of SARS-S and SARS2-S. 47D11 bound the S1B of both viruses with similar affinities as shown by the ELISA-based half maximal effective concentration (EC50) values (0.02 and 0.03 \u03bcg/ml, respectively; Fig.2a). ELISA-based binding affinity of 47D11 for the spike ectodomain (Secto) of SARS-CoV was higher relative to that of",
+            "SARS-CoV-2 (EC50 values: 0.018 and 0.15 \u03bcg/ml, respectively), despite equimolar antigen coating (Suppl.Fig.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]). Congruent with the ELISA-reactivities, measurement of binding kinetics of 47D11 by biolayer interferometry showed that 47D11 binds SARS-",
+            "SARS2-Secto (KD 10.8 nM) whereas affinity for SARS-S1B and SARS2-S1B was in a similar range (16.1 and 9.6 nM, respectively, Suppl.Fig.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]). This difference may originate from differences in epitope accessibility in SARS-S versus SARS2-S, as domain B can adopt a closed and open conformation in the prefusion spike homotrimer[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Remarkably, binding of 47D11 to SARS-S1B and SARS2-S1B did not compete with S1B binding to the ACE2 receptor expressed at the cell surface as shown by flow cytometry (Fig.2b; Suppl.Fig.4) nor with Secto and S1B binding to soluble ACE2",
+            "35F4 and 43C6 that neutralize SARS-S (but not SARS2-S) pseudotyped VSV infection (Suppl.Fig.6) do block binding of SARS-Secto and SARS-S1B to ACE2. Using a trypsintriggered cell-cell fusion assay, 47D11 was shown to impair SARS-S and SARS2-S mediated syncytia formation (Suppl.Fig.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]). Our data show that 47D11 neutralizes",
+            "SARS-CoV and SARS-CoV-2 through a yet unknown mechanism that is different from receptor binding interference. Alternative mechanisms of coronavirus neutralization by",
+            "RBD-targeting antibodies have been reported including spike inactivation through antibody-induced destabilization of its prefusion structure[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], which may also apply for",
+            "The SARS2-S1B receptor binding domain (residues 338-506) consists of a core domain and a receptor binding subdomain (residues 438-498) looping out from the antiparallel betasheet core domain structure that directly engages the receptor.",
+            "Compared to the S1B core domain, the protein sequence identity of the S1B receptor interacting subdomain of SARS-S and SARS2-S is substantially lower (46.7% versus",
+            "86.3%; Suppl.Fig.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] and Fig.2c). Potent neutralizing antibodies often target this receptor binding subdomain. However, due to common variations in this subdomain, these antibodies are often virus-specific and bind and neutralize related viruses poorly[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>, <a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. The cross-reactive nature of 47D11 indicates that the antibody is more likely to target the conserved core structure of the S1B receptor binding domain. S1B binding by 47D11 further away from the receptor binding interface explains its inability to compromise spike-receptor interaction.",
+            "In conclusion, this is the first report on a (human) monoclonal antibody that neutralizes SARS-CoV-2. 47D11 binds a conserved epitope on the spike receptor binding domain explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, using a mechanism that is independent of receptor binding inhibition. This antibody will be useful for development of antigen detection tests and serological assays targeting",
+            "SARS-CoV-2. Neutralizing antibodies can alter the course of infection in the infected host supporting virus clearance or protect an uninfected host that is exposed to the virus[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Hence, this antibody offers the potential to prevent and/or treat COVID-19, and possibly also other future emerging diseases in humans caused by viruses from the"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [
+            "The emergence of the novel human coronavirus SARS-CoV-2 in Wuhan, China has caused a worldwide epidemic of respiratory disease (COVID-19). Vaccines and targeted therapeutics for treatment of this disease are currently lacking. Here we report a human monoclonal antibody that neutralizes SARS-CoV-2 (and SARS-CoV). This cross-neutralizing antibody targets a communal epitope on these viruses and offers potential for prevention and treatment of COVID-19.",
+            "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the etiological agent of the coronavirus induced disease 19 (COVID-19) that emerged in China late and causing a worldwide epidemic[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. As of March 10th 2020, over 115,113 cases have been reported in 109 countries, of which 4,063 (3.5%) succumbed to the infection[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>].",
+            "Betacoronavirus, family Coronaviridae)[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>] together with SARS-CoV that emerged in causing approximately 8000 infections with a lethality of 10%. Both viruses crossed species barriers from an animal reservoir and can cause a life-threatening respiratory illness in humans. Presently no approved targeted therapeutics are available for COVID-19. Monoclonal antibodies targeting vulnerable sites on viral surface proteins are increasingly recognised as a promising class of drugs against infectious diseases and have shown therapeutic efficacy for a number of viruses[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>, <a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>].",
+            "Coronavirus neutralizing antibodies primarily target the trimeric spike (S) glycoproteins on the viral surface that mediate entry into host cells. The S protein has two functional subunits that mediate cell attachment (the S1 subunit, existing of four core domains",
+            "S1A through S1D) and fusion of the viral and cellular membrane (the S2 subunit). Potent neutralizing antibodies often target the receptor interaction site in S1, disabling receptor interactions[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>-<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. The spike proteins of SARS-CoV-2 (SARS2-S; 1,273 residues, strain Wuhan-Hu-1) and SARS-CoV (SARS-S, 1,255 residues, strain Urbani) are 77.5% identical by primary amino acid sequence, are structurally very similar[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>] and commonly bind the human angiotensin coverting enzyme 2 (ACE2) protein as a host receptor[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>, <a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>] through their S1B domain. Receptor interaction is known to trigger",
+            "author/funder. It is made available under a CC-BY-NC-ND 4.0 International license.",
+            "irreversible conformational changes in coronavirus spike proteins enabling membrane fusion[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>].",
+            "In order to identify SARS-CoV-2 neutralizing antibodies, ELISA-(cross)reactivity was assessed of antibody-containing supernatants of a collection of 51 SARS-S hybridoma\u2019s derived from immunized transgenic H2L2 mice that encode chimeric immunoglobulins with human variable heavy and light chains and constant regions of rat origin (Suppl.Fig.[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]). Four of 51 SARS-S hybridoma supernatants displayed ELISA-",
+            "cross-reactivity with the SARS2-S1 subunit (S residues 1-681; Suppl.Fig.1), of which one (47D11) exhibited cross-neutralizing activity of SARS-S and SARS2-S pseudotyped VSV infection. The chimeric 47D11 H2L2 antibody was reformatted and recombinantly expressed as a fully human IgG1 isotype antibody for further characterization.",
+            "The human 47D11 antibody binds to cells expressing the full-length spike proteins of",
+            "SARS-CoV and SARS-CoV-2 (Fig.1a). The 47D11 antibody was found to potently inhibit infection of VeroE6 cells with SARS-S and SARS2-S pseudotyped VSV with",
+            "IC50 values of 0.06 and 0.08 \u03bcg/ml (Fig.1b), respectively. Authentic infection of VeroE6 cells with SARS-CoV and SARS-CoV-2 was neutralized with IC50 values of 0.19 and",
+            "0.57 \u03bcg/ml (Fig.1c). Using ELISA 47D11 was shown to target the S1B receptor binding domain (RBD) of SARS-S and SARS2-S. 47D11 bound the S1B of both viruses with similar affinities as shown by the ELISA-based half maximal effective concentration (EC50) values (0.02 and 0.03 \u03bcg/ml, respectively; Fig.2a). ELISA-based binding affinity of 47D11 for the spike ectodomain (Secto) of SARS-CoV was higher relative to that of",
+            "SARS-CoV-2 (EC50 values: 0.018 and 0.15 \u03bcg/ml, respectively), despite equimolar antigen coating (Suppl.Fig.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>]). Congruent with the ELISA-reactivities, measurement of binding kinetics of 47D11 by biolayer interferometry showed that 47D11 binds SARS-",
+            "Secto with higher affinity (equilibrium dissociation constant [KD]: 0.745 nM) relative to",
+            "SARS2-Secto (KD 10.8 nM) whereas affinity for SARS-S1B and SARS2-S1B was in a similar range (16.1 and 9.6 nM, respectively, Suppl.Fig.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]). This difference may originate from differences in epitope accessibility in SARS-S versus SARS2-S, as domain B can adopt a closed and open conformation in the prefusion spike homotrimer[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>, <a class=\"ref-link\" id=\"c13\" href=\"#r13\">13</a>]. Remarkably, binding of 47D11 to SARS-S1B and SARS2-S1B did not compete with S1B binding to the ACE2 receptor expressed at the cell surface as shown by flow cytometry (Fig.2b; Suppl.Fig.4) nor with Secto and S1B binding to soluble ACE2",
+            "in solid-phase based assay (Suppl.Fig.5), whereas two SARS-S1 specific antibodies",
+            "35F4 and 43C6 that neutralize SARS-S (but not SARS2-S) pseudotyped VSV infection (Suppl.Fig.6) do block binding of SARS-Secto and SARS-S1B to ACE2. Using a trypsintriggered cell-cell fusion assay, 47D11 was shown to impair SARS-S and SARS2-S mediated syncytia formation (Suppl.Fig.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]). Our data show that 47D11 neutralizes",
+            "SARS-CoV and SARS-CoV-2 through a yet unknown mechanism that is different from receptor binding interference. Alternative mechanisms of coronavirus neutralization by",
+            "RBD-targeting antibodies have been reported including spike inactivation through antibody-induced destabilization of its prefusion structure[<a class=\"ref-link\" id=\"c15\" href=\"#r15\">15</a>], which may also apply for",
+            "The SARS2-S1B receptor binding domain (residues 338-506) consists of a core domain and a receptor binding subdomain (residues 438-498) looping out from the antiparallel betasheet core domain structure that directly engages the receptor.",
+            "Compared to the S1B core domain, the protein sequence identity of the S1B receptor interacting subdomain of SARS-S and SARS2-S is substantially lower (46.7% versus",
+            "86.3%; Suppl.Fig.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>] and Fig.2c). Potent neutralizing antibodies often target this receptor binding subdomain. However, due to common variations in this subdomain, these antibodies are often virus-specific and bind and neutralize related viruses poorly[<a class=\"ref-link\" id=\"c16\" href=\"#r16\">16</a>, <a class=\"ref-link\" id=\"c17\" href=\"#r17\">17</a>]. The cross-reactive nature of 47D11 indicates that the antibody is more likely to target the conserved core structure of the S1B receptor binding domain. S1B binding by 47D11 further away from the receptor binding interface explains its inability to compromise spike-receptor interaction.",
+            "In conclusion, this is the first report on a (human) monoclonal antibody that neutralizes SARS-CoV-2. 47D11 binds a conserved epitope on the spike receptor binding domain explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, using a mechanism that is independent of receptor binding inhibition. This antibody will be useful for development of antigen detection tests and serological assays targeting",
+            "SARS-CoV-2. Neutralizing antibodies can alter the course of infection in the infected host supporting virus clearance or protect an uninfected host that is exposed to the virus[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. Hence, this antibody offers the potential to prevent and/or treat COVID-19, and possibly also other future emerging diseases in humans caused by viruses from the",
+            "Sarbecovirus subgenus."
+        ],
+        "References": [
+            "1. Zhou, P. et al A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, 1-4 (2020).",
+            "World",
+            "Health",
+            "Organization.",
+            "https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200310-sitrep-50-covid19.pdf?sfvrsn=55e904fb_2.",
+            "3. Coronaviridae Study Group of the International Committee on Taxonomy of Viruses.",
+            "The species Severe acute respiratory syndrome-related coronavirus: classifying 2019nCoV and naming it SARS-CoV-2. Nat. Microbiol. (2020).",
+            "4. Prabakaran, P. et al Potent human monoclonal antibodies against SARS CoV, Nipah and Hendra viruses. Expert opinion on biological therapy 9, 355-368 (2009).",
+            "5. Saphire, E. O., Schendel, S. L., Gunn, B. M., Milligan, J. C. & Alter, G. Antibodymediated protection against Ebola virus. Nat. Immunol. 19, 1169-1178 (2018).",
+            "6. Reguera, J. et al Structural bases of coronavirus attachment to host aminopeptidase",
+            "N and its inhibition by neutralizing antibodies. PLoS Pathog. 8, e1002859 (2012).",
+            "7. Yu, X. et al Structural basis for the neutralization of MERS-CoV by a human monoclonal antibody MERS-27. Sci. Rep. 5, 13133 (2015).",
+            "8. Prabakaran, P. et al Structure of severe acute respiratory syndrome coronavirus receptor-binding domain complexed with neutralizing antibody. J. Biol. Chem. 281, 15829-15836 (2006).",
+            "9. Hwang, W. C. et al Structural basis of neutralization by a human anti-severe acute respiratory syndrome spike protein antibody, 80R. J. Biol. Chem. 281, 34610-34616",
+            "(2006).",
+            "10. Rockx, B. et al Structural basis for potent cross-neutralizing human monoclonal antibody protection against lethal human and zoonotic severe acute respiratory syndrome coronavirus challenge. J. Virol. 82, 3220-3235 (2008).",
+            "11. Widjaja, I. et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein. Emerg. Microbes Infect. 8, 516-530 (2019).",
+            "12. Wrapp, D. et al Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science (2020).",
+            "13. Walls, A. C. et al Structure, Function, and Antigenicity of the SARS-CoV-2 Spike",
+            "Glycoprotein. Cell (2020).",
+            "14. Li, W. et al Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature 426, 450-454 (2003).",
+            "15. Walls, A. C. et al Unexpected receptor functional mimicry elucidates activation of coronavirus fusion. Cell 176, 1026-1039. e15 (2019).",
+            "16. Tian, X. et al Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody. Emerging Microbes & Infections 9, 382-385 (2020).",
+            "17. Menachery, V. D. et al A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence. Nat. Med. 21, 1508 (2015).",
+            "18. Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike receptor-binding domain complexed with receptor. Science 309, 1864-1868 (2005).",
+            "19. Raj, V. S. et al Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC. Nature 495, 251-254 (2013).",
+            "20. Okba, N. M. A. et al Sensitive and Specific Detection of Low-Level Antibody",
+            "Responses in Mild Middle East Respiratory Syndrome Coronavirus Infections. Emerg.",
+            "Infect. Dis. 25, 1868-1877 (2019).",
+            "Figure Legends",
+            "Fig.1 47D11 neutralizes SARS-CoV and SARS-CoV-2. a) Binding of 47D11 to HEK-",
+            "293T cells expressing GFP-tagged spike proteins of SARS-CoV and SARS-CoV-2 detected by immunofluorescence assay. The human mAb 7.7G6 targeting the MERS-",
+            "CoV S1B spike domain was taken along as a negative control, cell nuclei in the overlay images are visualized with DAPI. b) Antibody-mediated neutralization of infection of luciferase-encoding VSV particles pseudotyped with spike proteins of SARS-CoV and",
+            "SARS-CoV-2. Pseudotyped VSV particles pre-incubated with antibodies at indicated concentrations (see methods) were used to infect VeroE6 cells and luciferase activities in cell lysates were determined at 24 h post transduction to calculate infection (%)",
+            "relative to non-antibody-treated controls. The average \u00b1 SD from at least two independent experiments performed is shown. Iso-CTRL: irrelevant isotype monoclonal antibody. c) Antibody-mediated neutralization of SARS-CoV and SARS-",
+            "CoV-2 infection on VeroE6 cells. The experiment was performed with triplicate samples, the average \u00b1 SD is shown.",
+            "Fig.[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>] The neutralizing 47D11 monoclonal antibody binds the receptor binding domain of SARS-CoV and SARS-CoV-2 spike proteins without eliminating",
+            "S1B/ACE2 receptor interaction. a) ELISA binding curves of 47D11 to Secto (upper panel) or S1A and S1B (RBD) (lower panel) of SARS-S and SARS2-S coated at equimolar concentrations. The average \u00b1 SD from at least two independent experiments performed is shown. b) Interference of antibodies with binding of the S-",
+            "S1B of SARS-CoV and SARS-CoV-2 to cell surface ACE2-GFP analysed by flow cytometry. Prior to cell binding, S1B was mixed with mAb (mAbs 47D11, 35F4, 43C6, 7.7G6, in H2L2 format) with indicated specificity in a mAb:S1B molar ratio of 8:1 (see",
+            "Suppl.Fig.[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] for an extensive analysis using different mAb:S1B molar ratio\u2019s). Cells are analysed for (ACE2-)GFP expression (x-axis) and S1B binding (y-axis). Percentages of cells that scored negative, single positive, or double positive are shown in each quadrant. c) Divergence in surface residues in S1B of SARS-CoV and SARS-CoV-2.",
+            "Upper panel: Structure of the SARS-CoV spike protein S1B RBD in complex with human ACE2 receptor (PDB: 2AJF)[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>]. ACE2 (wheat color) is visualized in ribbon presentation. The S1B core domain (blue) and subdomain (orange) are displayed in surface presentation using PyMOL, and are visualized with the same colors in the linear diagram of the spike protein above, with positions of the S1 and S2 subunits, the",
+            "S ectodomain (Secto), the S1 domains S1A-D and the transmembrane domain (TM)",
+            "indicated. Lower panel: Similar as panel above with surface residues on S1B of SARS-",
+            "CoV that are at variance with SARS-CoV-2 colorored in white.",
+            ""
+        ],
+        "Acknowledgements": [
+            "We thank dr. Yoshiharu Matsuura (Osaka University, Japan) for the provision of the luciferase-encoding VSV-G pseudotyped VSV\u2206G-luc virus, and Yongle Yang, Michael van der Reijden and Rick Janssens for technical support. We thank Christian Drosten (Charit\u00e9 Universit\u00e4tsmedizin Berlin, Germany) for provision of the SARS-CoV-2 virus.",
+            "This study was done within the framework of National Centre for One Health (NCOH)",
+            "and the Innovative Medicines Initiative (IMI) Zoonotic Anticipation and Preparedness",
+            "Initiative [ZAPI project; grant agreement no. 115760]. The mice used in this study were provided by Harbour Antibodies BV, a daughter company of Harbour Biomed (http://www.harbourbiomed.com). C. Wang was supported by a grant from the Chinese",
+            "Scholarship Council (file number CSC201708620178).",
+            "B.J.B. designed and coordinated the study. C.W., W.L., N.M.A.O., R.v.H. and D.D conducted the experiments. D.D., B.L.H. and B.J.B. supervised part of the experiments. All authors contributed to the interpretations and conclusions presented.",
+            "B.J.B. wrote the manuscript, B.L.H., F.J.M.K., A.D.M.E.O. and F.G. participated in editing the manuscript."
+        ],
+        "Materials and Methods": [
+            "Expression and purification of coronavirus spike proteins. Coronavirus spike ectodomains (Secto) of SARS-CoV (residues 1\u20131,182; strain CUHK-W1; GenBank: AAP13567.1) and SARS-CoV-2 (residues 1\u20131,213; strain Wuhan-Hu-1; GenBank: QHD43416.1) were expressed transiently in HEK-293T cells with a C-terminal trimerization motif and Strep-tag using the pCAGGS expression plasmid. Similarly, pCAGGS expression vectors encoding S1 or its subdomains of SARS-CoV (S1, residues 1-676; S1A, residues 1-302; S1B, residues, 325-533), and SARS-CoV-2 (S1, residues 1-682; S1A, residues 1-294; S1B, residues 329-538) C-terminally tagged with",
+            "Fc domain of human or mouse IgG or Strep-tag were generated as described before[<a class=\"ref-link\" id=\"c19\" href=\"#r19\">19</a>].",
+            "Recombinant proteins were expressed transiently in HEK-293T cells and affinity purified from the culture supernatant by protein-A sepharose beads (GE Healthcare) or streptactin beads (IBA) purification. Purity and integrity of all purified recombinant proteins was checked by coomassie stained SDS-PAGE.",
+            "Generation of H2L2 mAbs. H2L2 mice were sequentially immunized in two weeks intervals with purified Secto of different CoVs in the following order: HCoV-OC43, SARS-",
+            "CoV, MERS-CoV, HCoV-OC43, SARS-CoV and MERS-CoV. Antigens were injected at 20-25 \u03bcg/mouse using Stimune Adjuvant (Prionics) freshly prepared according to the manufacturer instruction for first injection, while boosting was done using Ribi (Sigma) adjuvant. Injections were done subcutaneously into the left and right groin each (50 \u03bcl) and 100 \u03bcl intraperitoneally. Four days after the last injection, spleen and lymph nodes are harvested, and hybridomas made by standard method using SP 2/0 myeloma cell line (ATCC#CRL-1581) as a fusion partner. Hybridomas were screened in antigen-specific ELISA and those selected for further development, subcloned and produced on a small scale (100 ml of medium). For this purpose, hybridomas are cultured in serum- and protein-free medium for hybridoma culturing (PFHM-II (1X), Gibco) with addition of non-essential amino acids 100X NEAA, Biowhittaker Lonza, Cat BE13-114E). H2L2 antibodies were purified from hybridoma culture supernatants using Protein-A affinity chromatography. Purified antibodies were stored at 4oC until use.",
+            "Production of human monoclonal antibody 47D11. For recombinant human mAb production, the cDNA\u2019s encoding the 47D11 H2L2 mAb variable regions of the heavy and light chains were cloned into expression plasmids containing the human IgG1 heavy chain and Ig kappa light chain constant regions, respectively (InvivoGen). Both plasmids contain the interleukin-2 signal sequence to enable efficient secretion of recombinant antibodies. Recombinant human 47D11 mAb and previously described",
+            "Isotype-control (anti-Streptag mAb) or 7.7G6 mAb were produced in HEK-293T cells following transfection with pairs of the IgG1 heavy and light chain expression plasmids according to protocols from InvivoGen. Human antibodies were purified from cell culture supernatants using Protein-A affinity chromatography. Purified antibodies were stored at 4oC until use.",
+            "Immunofluorescence microscopy. Antibody binding to cell surface spike proteins of",
+            "SARS-CoV, SARS-CoV-2 and MERS-CoV was measured by immunofluoresence microscopy. HEK-293T cells seeded on glass slides were transfected with plasmids encoding SARS-S, SARS2-S or MERS-S - C-terminally fused to the green fluorescence protein (GFP) - using Lipofectamine 2000 (Invitrogen). Two days post transfection, cells were fixed by incubation with 2% paraformaldehyde in PBS for 20 min at room temperature and stained for nuclei with 4,6-diamidino-2-phenylindole (DAPI). Cells were subsequently incubated with mAbs at a concentration of 10 \u03bcg/ml for 1 h at room temperature, followed by incubation with Alexa Fluor 594 conjugated goat anti-human IgG antibodies (Invitrogen, Thermo Fisher Scientific) for 45 min at room temperature. The fluorescence images were recorded using a Leica SpeII confocal microscope.",
+            "S1B binding to human ACE2 receptor on the cell surface was measured by flow cytometry. HEK-293T cells were seeded at a density of 2.5\u00d7105 cells per ml in a T75 flask. After reaching 70~80% confluency, cells were transfected with an expression plasmid encoding human ACE2 - C-terminally fused to the GFP - using Lipofectamine (Invitrogen). Two days post transfection, cells were dissociated by cell dissociation solution (Sigma-aldrich, Merck KGaA; cat. no. C5914). 2.5 \u03bcg/ml of human",
+            "Fc tagged SARS-S1B and SARS2-S1B was preincubated with mAb at the indicated mAb:S1B molar ratios for 1 hour on ice and subjected to flow cytometry. Single cell suspensions in FACS buffer were centrifuged at 400\u00d7g for 10 min. Cells were subsequently incubated with S1B and mAb mixture for 1 h on ice, followed by incubation with Alexa Fluor 594 conjugated goat anti-human IgG antibodies (Invitrogen, Thermo Fisher Scientific) for 45 min at room temperature. Cells were subjected to flow cytometric analysis with a CytoFLEX Flow Cytometer (Beckman",
+            "Coulter). The results were analysed by FlowJo (version 10).",
+            "SARS-S and SARS2-S was performed as described previously with some adaptations[<a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Briefly, HEK-293T cells were transfected with pCAGGS expression vectors encoding SARS-S or SARS2-S carrying a 28- or 18-a.a. cytoplasmic tail truncation, respectively. One day post transfection, cells were infected with the VSV-",
+            "G pseudotyped VSV\u2206G bearing the firefly (Photinus pyralis) luciferase reporter gene.",
+            "VSV particles were harvested and titrated on African green monkey kidney VeroE6 cells. In the virus neutralization assay, mAbs were serially diluted at two times the desired final concentration in DMEM supplemented with 1% fetal calf serum (Bodinco), U/ml Penicillin and 100 \u03bcg/ml Streptomycin. Diluted mAbs were incubated with an equal volume of pseudotyped VSV particles for 1 hour at room temperature, inoculated on confluent VeroE6 monolayers in 96-well plated, and further incubated at 37\u00b0C for hours. Luciferase activity was measured on a Berthold Centro LB 960 plate luminometer using D-luciferin as a substrate (Promega). The percentage of infectivity was calculated as ratio of luciferase readout in the presence of mAbs normalized to luciferase readout in the absence of mAb. The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version",
+            "8).",
+            "Virus neutralization assay. Neutralization of authentic SARS-CoV and SARS-CoV-2 was performed using a plaque reduction neutralization test (PRNT) as described earlier, with some modifications[<a class=\"ref-link\" id=\"c20\" href=\"#r20\">20</a>]. In brief, mAbs were two-fold serially diluted and mixed with SARS-CoV or SARS-CoV-2 for 1 hour. The mixture was then added to",
+            "VeroE6 cells and incubated for 1 hr, after which the cells were washed and further incubated in medium for 8 hrs. The cells were then fixed and stained using a rabbit anti-SARS-CoV serum (Sino Biological) and a secondary peroxidase-labelled goat anti-rabbit IgG (Dako). The signal was developed using a precipitate forming TMB substrate (True Blue, KPL) and the number of infected cells per well were counted using the ImmunoSpot\u00ae Image analyzer (CTL Europe GmbH). The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version 8).",
+            "ELISA analysis of antibody binding to CoV spike antigens. NUNC Maxisorp plates (Thermo Scientific) were coated with equimolar antigen amounts at 4\u00b0C overnight.",
+            "Plates were washed three times with Phosphate Saline Buffer (PBS) containing 0.05%",
+            "Tween-20 at room temperature for 2 hours. Four-folds serial dilutions of mAbs starting at 10 \u03bcg/ml (diluted in blocking buffer) were added and plates were incubated for 1 hour at room temperature. Plates were washed three times and incubated with HRP-",
+            "conjugated goat anti-human secondary antibody (ITK Southern Biotech) diluted 1:2000 in blocking buffer for 1 hour at room temperature. An HRP-conjugated anti-StrepMAb (IBA, Cat.no: 2-1509-001) antibody was used to corroborate equimolar coating of the",
+            "Strep-tagged spike antigens. HRP activity was measured at 450 nanometer using tetramethylbenzidine substrate (BioFX) and an ELISA plate reader (EL-808, Biotek).",
+            "Half-maximum effective concentration (EC50) binding values were calculated by nonlinear regression analysis on the binding curves using GraphPad Prism (version 8).",
+            "SARS-S H2L2 hybridomas towards SARS2-S1. SARS-S targeting hybridomas were developed by conventional hybridoma technology from immunized H2L2 transgenic mice (Harbour Biomed), as described before[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. These mice - carrying genes encoding the heavy and light chain human immunoglobulin repertoire - were sequentially immunized with 2-week intervals with trimeric spike protein ectodomains (Secto) of three human coronaviruses from the betacoronavirus genus in the following order: 1. HCoV-OC43-Secto, 2. SARS-CoV-Secto, 3. MERS-CoVSecto, 4. HCoV-OC43-Secto, 5. SARS-CoV-Secto, 6. MERS-CoV-Secto. Four days after the last immunization, splenocytes and lymph node lymphocytes were harvested and hybridomas were generated. Antibodies in the cell supernatants were tested for",
+            "ELISA-reactivity against SARS-Secto, SARS-S1, SARS-S1A and SARS2-S1. Of the hybridoma supernatants that reacted with SARS-Secto only, 23 reacted with",
+            "SARS-S1A, 22 with SARS-S1 but not SARS-S1A, 6 with SARS-Secto but not SARSS1. Four of the 51 SARS-Secto hybridoma supernatants reacted with SARS2-S1",
+            "(see column on the right). The table displays ELISA-signal intensities (OD450nm values) of hybridoma supernatants for the different antigens.",
+            "1) Widjaja, I. et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein. Emerg.",
+            "Microbes Infect. 8, 516-530 (2019).",
+            "SARS-Secto / SARS2-Secto (upper panel), SARS-S1B / SARS2-S1B (middle panel) and SARS-S1A / SARS2-S1A (lower panel) antigens used in Fig.2a.",
+            "Suppl. Fig.[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Binding kinetics of 47D11 to the S ectodomain and S1B of SARSCoV and SARS-CoV-2. Binding kinetics of 47D11 to immobilized recombinant",
+            "SARS-Secto, SARS2-Secto, SARS-S1B and SARS2-S1B was measured using biolayer interferometry at 25\u00b0C, as described previously[<a class=\"ref-link\" id=\"c21\" href=\"#r21\">21</a>]. Kinetic binding assay was performed by loading 47D11 mAb at optimal concentration (42 nM) on antihuman Fc biosensor for 10 mins. Antigen association step was performed by incubating the sensor with a range of concentrations of the recombinant spike ectodomain (1600-800-400-200-100-50-25 nM) for 10 min, followed by a dissociation step in PBS for 60 min. The kinetics constants were calculated using",
+            "1:1 Langmuir binding model on Fortebio Data Analysis 7.0 software.",
+            "ACE2-expressing cells. Human HEK-293T cells expressing human ACE2-GFP proteins (see Methods) were detached and fixed with 2% PFA, incubated with a fixed amount of human Fc-tagged S1B domain of SARS-S or SARS2-S that was preincubated for 1h with mAb (mAbs 47D11, 35F4, 43C6, 7.7G6, in H2L2 format) at the indicated mAb:S1B molar ratios, and analysed by flow cytometry using a Alexa",
+            "Fluor 594-conjugated secondary antibody targeting the human Fc tag. Cells are analysed for GFP expression (x-axis, GFP signal) and antibody binding (y-axis, Alexa 594 signal). Percentages of cells that scored negative, single positive, or double positive are shown in each quadrant. Binding controls include PBS-treated cells (mock), treatment of cells with SARS-S1B and SARS2-S1B in the absence of antibody, and cells treated with antibodies only. The experiment was performed twice, data from a representative experiment are shown.",
+            "Suppl. Fig.[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. ELISA-based receptor binding inhibition assay. The ELISA-based receptor binding inhibition assay was performed as described previously with some adaptations[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Recombinant soluble human ACE2 was coated on NUNC Maxisorp plates (Thermo Scientific) at 4oC overnight. Plates were washed three times with",
+            "SARS-S or SARS2-S (300 ng) and serially diluted mAbs (mAbs 47D11, 35F4, 43C6, 7.7G6, in H2L2 format) were mixed for 1h at RT, added to the plate for 1 hour at room temperature, after which the plates were washed three times. Binding to ACE2 was detected using HRP-conjugated StrepMAb (IBA) that recognizes the",
+            "C-terminal Streptag on the Secto and S1B proteins.",
+            "Suppl. Fig.[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>]. H2L2 monoclonal antibodies 35F4 and 43C6 neutralize SARS-CoV but not SARS-CoV-2. Antibody-mediated neutralization of infection of VSV particles pseudotyped with spike proteins of SARS-CoV (upper panel) and SARS-CoV-2",
+            "IgG1 isotype control. Means \u00b1 SD of triplicates are shown.",
+            "Suppl. Fig.[<a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. Cell-cell fusion inhibition assay. The cell-cell-fusion inhibition assay was performed as described previously with some adaptations[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. VeroE6 cells were seeded with density of 105 cells per ml.",
+            "After reaching 70~80% confluency, cells were transfected with plasmids encoding full length SARS-S, SARS2-S and MERS-S \u2013 C-terminally fused to GFP - using Lipofectamine 2000 (Invitrogen). The furin recognition site in the SARS2-S was mutated (R682RAR to A682AAR) to inhibit cleavage of the protein by endogenous furin and allow trypsin-induced syncytia formation.",
+            "Two days post transfection, cells were pretreated DMEM only or DMEM with \u03bcg/ml mAbs for 1 h and subsequently treated with DMEM with 15 \u03bcg/ml trypsin (to activate the spike fusion function) in the absence or presence of \u03bcg/ml mAbs (47D11 crossreactive SARS-S and SARS2-S, 35F4 reactive to SARS-S, 7.7G6 reactive to MERS-S). After incubation at 37\u00b0C for 2 hrs, the cells were fixed with 2% PFA in PBS for 20 min at room temperature and stained for nuclei with 4,6-diamidino-2-phenylindole (DAPI). Cells expressing the S-GFP proteins were detected by fluorescence microscopy and S-mediated cell-cell fusion was observed by the formation of (fluorescent) multi-nucleated syncytia. The fluorescence images were recorded using a Leica SpeII confocal microscope. The experiment was performed twice, data from a representative experiment are shown.",
+            "1) Widjaja, I. et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein.",
+            "Emerg. Microbes Infect. 8, 516-530 (2019).",
+            ":*:.:*:*******. :. ...**.",
+            "Suppl. Fig.[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. Protein sequence alignment of the S1B receptor binding domain (RBD) of the SARS-CoV and SARS-CoV-2 spike proteins by",
+            "ClustalW. Numbering denotes the residue position in the full-length spike protein of SARS-CoV (Genbank: AAP13441.1) and SARS-CoV-2 (Genbank: QHD43416.1). Asterisks (*) indicated fully conserved residues, the colon symbol (:) indicates conservation between groups of very similar properties, and the period symbol (.) indicates conservation between groups of weakly similar properties. Sequences corresponding to the S1B receptor binding core domain and the receptor binding subdomain are colored in blue and orange, respectively. The fourteen residues that are involved in binding of SARS-CoV",
+            "S1B to human ACE2 are highlighted in grey[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>].",
+            "1) Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike receptorbinding domain complexed with receptor. Science 309, 1864-1868 (2005)."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "SARS-Secto hybridoma supernatants",
+            "number": 51,
+            "context": "Of the hybridoma supernatants that reacted with SARS-Secto only, 23 reacted with<br/><br/>SARS-S1A, 22 with SARS-S1 but not SARS-S1A, 6 with SARS-Secto but not SARSS1. <mark class=\"stats\">Four of the 51 SARS-Secto hybridoma supernatants reacted with SARS2-S1<br/><br/>(see column on the right)</mark>. The table displays ELISA-signal intensities (OD450nm values) of hybridoma supernatants for the different antigens.<br/><br/>1) Widjaja, I. et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein"
+        },
+        {
+            "participant": "SARS-Secto hybridoma supernatants",
+            "number": 51,
+            "context": "SARS-S1A, 22 with SARS-S1 but not SARS-S1A, 6 with SARS-Secto but not SARSS1. <mark class=\"stats\">Four of the 51 SARS-Secto hybridoma supernatants reacted with SARS2-S1</mark>. (see column on the right)"
+        },
+        {
+            "participant": "SARS-S hybridoma supernatants",
+            "number": 51,
+            "context": "hybridoma\u2019s derived from immunized transgenic H2L2 mice that encode chimeric immunoglobulins with human variable heavy and light chains and constant regions of rat origin (Suppl.Fig.1). <mark class=\"stats\">Four of 51 SARS-S hybridoma supernatants displayed ELISA-</mark>. cross-reactivity with the SARS2-S1 subunit (S residues 1-681; Suppl.Fig.1), of which one (47D11) exhibited cross-neutralizing activity of SARS-S and SARS2-S"
+        },
+        {
+            "participant": "SARS-Secto hybridoma supernatants",
+            "number": 51,
+            "context": "SARS-S1A, 22 with SARS-S1 but not SARS-S1A, 6 with SARS-Secto but not SARSS1. <mark class=\"stats\">Four of the 51 SARS-Secto hybridoma supernatants reacted with SARS2-S1 (see column on the right)</mark>. The table displays ELISA-signal intensities (OD450nm values) of hybridoma supernatants for the different antigens"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version    8).<br/><br/>Virus neutralization assay</mark>",
+                "tests": [
+                    {
+                        "test": "logistic regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version 8).<br/><br/>ELISA analysis of antibody binding to CoV spike antigens</mark>",
+                "tests": [
+                    {
+                        "test": "logistic regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version</mark>",
+                "tests": [
+                    {
+                        "test": "logistic regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The half maximal inhibitory concentrations (IC50) were determined using 4-parameter logistic regression (GraphPad Prism version 8)</mark>",
+                "tests": [
+                    {
+                        "test": "logistic regression"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "erasmus",
+        "spike ectodomain",
+        "structural basis",
+        "Innovative Medicines Initiative",
+        "core domain",
+        "cell biology",
+        "transmembrane domain",
+        "biology",
+        "coronavirus",
+        "Sarbecovirus subgenus",
+        "sars2 s",
+        "East Respiratory syndrome",
+        "monoclonal antibody",
+        "receptor binding domain",
+        "COVID-19",
+        "Bovine Serum Albumin",
+        "SARS-S",
+        "ACE2",
+        "ELISA",
+        "sars s",
+        "sars cov",
+        "human monoclonal antibody",
+        "National Centre for One Health",
+        "therapeutics",
+        "plaque reduction neutralization test",
+        "green fluorescence protein"
+    ],
+    "keyword_relevance": {
+        "SARS-S": 0.30985915492957744,
+        "spike ectodomain": 0.17253521126760563,
+        "coronavirus": 0.09507042253521127,
+        "ACE2": 0.07746478873239436,
+        "receptor binding domain": 0.06690140845070422,
+        "green fluorescence protein": 0.06690140845070422,
+        "ELISA": 0.06338028169014084,
+        "monoclonal antibody": 0.03169014084507042,
+        "core domain": 0.02112676056338028,
+        "human monoclonal antibody": 0.02112676056338028,
+        "COVID-19": 0.017605633802816902,
+        "transmembrane domain": 0.01056338028169014,
+        "Bovine Serum Albumin": 0.01056338028169014,
+        "Innovative Medicines Initiative": 0.007042253521126761,
+        "Sarbecovirus subgenus": 0.007042253521126761,
+        "National Centre for One Health": 0.007042253521126761,
+        "therapeutics": 0.007042253521126761,
+        "plaque reduction neutralization test": 0.007042253521126761,
+        "erasmus": 0.0,
+        "structural basis": 0.0,
+        "cell biology": 0.0,
+        "biology": 0.0,
+        "sars2 s": 0.0,
+        "East Respiratory syndrome": 0.0,
+        "sars s": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [
+        "Sarbecovirus subgenus"
+    ],
+    "summary": [
+        "The human 47D11 antibody binds to cells expressing the full-length spike proteins of",
+        "The 47D11 antibody was found to potently inhibit infection of VeroE6 cells with SARS-S and SARS2-S pseudotyped VSV with",
+        "Using ELISA 47D11 was shown to target the S1B receptor binding domain (RBD) of SARS-S and SARS2-S.",
+        "ELISA-based binding affinity of 47D11 for the spike ectodomain (Secto) of SARS-CoV was higher relative to that of",
+        "35F4 and 43C6 that neutralize SARS-S pseudotyped VSV infection (Suppl.Fig.6) do block binding of SARS-Secto and SARS-S1B to ACE2.",
+        "Et al Structure of severe acute respiratory syndrome coronavirus receptor-binding domain complexed with neutralizing antibody.",
+        "C. et al Structural basis of neutralization by a human anti-severe acute respiratory syndrome spike protein antibody, 80R.",
+        "Et al Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody.",
+        "293T cells expressing GFP-tagged spike proteins of SARS-CoV and SARS-CoV-2 detected by immunofluorescence assay.",
+        "B) Antibody-mediated neutralization of infection of luciferase-encoding VSV particles pseudotyped with spike proteins of SARS-CoV and",
+        "Upper panel: Structure of the SARS-CoV spike protein S1B RBD in complex with human ACE2 receptor (PDB: 2AJF)[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].",
+        "Coronavirus spike ectodomains (Secto) of SARS-CoV and SARS-CoV-2 were expressed transiently in HEK-293T cells with a C-terminal author/funder.",
+        "Antibody binding to cell surface spike proteins of",
+        "S1B binding to human ACE2 receptor on the cell surface was measured by flow cytometry.",
+        "Cells were subsequently incubated with S1B and mAb mixture for 1 h on ice, followed by incubation with Alexa Fluor 594 conjugated goat anti-human IgG antibodies (Invitrogen, Thermo Fisher Scientific) for 45 min at room temperature.",
+        "ELISA analysis of antibody binding to CoV spike antigens.",
+        "Proteins were detached and fixed with 2% PFA, incubated with a fixed amount of human Fc-tagged S1B domain of SARS-S or SARS2-S that was preincubated for 1h with mAb at the indicated mAb:S1B molar ratios, and analysed by flow cytometry using a Alexa",
+        "Antibody-mediated neutralization of infection of VSV particles pseudotyped with spike proteins of SARS-CoV and SARS-CoV-2 by the 35F4 and 43C6 H2L2 antibodies targeting SARS-S1 but not",
+        "Et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein.",
+        "Protein sequence alignment of the S1B receptor binding domain (RBD) of the SARS-CoV and SARS-CoV-2 spike proteins by"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The human 47D11 antibody binds to cells expressing the full-length spike proteins of",
+            "The 47D11 antibody was found to potently inhibit infection of VeroE6 cells with SARS-S and SARS2-S pseudotyped VSV with",
+            "Using ELISA 47D11 was shown to target the S1B receptor binding domain (RBD) of SARS-S and SARS2-S.",
+            "ELISA-based binding affinity of 47D11 for the spike ectodomain (Secto) of SARS-CoV was higher relative to that of"
+        ],
+        "Results": [
+            "35F4 and 43C6 that neutralize SARS-S pseudotyped VSV infection (Suppl.Fig.6) do block binding of SARS-Secto and SARS-S1B to ACE2.",
+            "Et al Structure of severe acute respiratory syndrome coronavirus receptor-binding domain complexed with neutralizing antibody.",
+            "C. et al Structural basis of neutralization by a human anti-severe acute respiratory syndrome spike protein antibody, 80R.",
+            "Et al Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody.",
+            "293T cells expressing GFP-tagged spike proteins of SARS-CoV and SARS-CoV-2 detected by immunofluorescence assay.",
+            "B) Antibody-mediated neutralization of infection of luciferase-encoding VSV particles pseudotyped with spike proteins of SARS-CoV and",
+            "Upper panel: Structure of the SARS-CoV spike protein S1B RBD in complex with human ACE2 receptor (PDB: 2AJF)[<a class=\"ref-link\" id=\"c18\" href=\"#r18\">18</a>].",
+            "Coronavirus spike ectodomains (Secto) of SARS-CoV and SARS-CoV-2 were expressed transiently in HEK-293T cells with a C-terminal author/funder.",
+            "Antibody binding to cell surface spike proteins of",
+            "S1B binding to human ACE2 receptor on the cell surface was measured by flow cytometry.",
+            "Cells were subsequently incubated with S1B and mAb mixture for 1 h on ice, followed by incubation with Alexa Fluor 594 conjugated goat anti-human IgG antibodies (Invitrogen, Thermo Fisher Scientific) for 45 min at room temperature.",
+            "ELISA analysis of antibody binding to CoV spike antigens."
+        ],
+        "Conclusion": [
+            "Proteins were detached and fixed with 2% PFA, incubated with a fixed amount of human Fc-tagged S1B domain of SARS-S or SARS2-S that was preincubated for 1h with mAb at the indicated mAb:S1B molar ratios, and analysed by flow cytometry using a Alexa",
+            "Antibody-mediated neutralization of infection of VSV particles pseudotyped with spike proteins of SARS-CoV and SARS-CoV-2 by the 35F4 and 43C6 H2L2 antibodies targeting SARS-S1 but not",
+            "Et al Towards a solution to MERS: protective human monoclonal antibodies targeting different domains and functions of the MERS-coronavirus spike glycoprotein.",
+            "Protein sequence alignment of the S1B receptor binding domain (RBD) of the SARS-CoV and SARS-CoV-2 spike proteins by"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Zhou_2020_a",
+            "entry": "1. Zhou, P. et al. A pneumonia outbreak associated with a new coronavirus of probable 115 bat origin. Nature, 1-4 (2020). https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200310-sitrep-50-covid-",
+            "url": "https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200310-sitrep-50-covid-",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20115%20bat%20origin%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zhou%2C%20P.%20A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20115%20bat%20origin%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "3._2020_a",
+            "entry": "3. Coronaviridae Study Group of the International Committee on Taxonomy of Viruses. 120 The species Severe acute respiratory syndrome-related coronavirus: classifying 2019121 nCoV and naming it SARS-CoV-2. Nat. Microbiol. (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Coronaviridae%20Study%20Group%20of%20the%20International%20Committee%20on%20Taxonomy%20of%20Viruses%20120%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20classifying%202019121%20nCoV%20and%20naming%20it%20SARSCoV2%20Nat%20Microbiol%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Coronaviridae%20Study%20Group%20of%20the%20International%20Committee%20on%20Taxonomy%20of%20Viruses%20120%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20classifying%202019121%20nCoV%20and%20naming%20it%20SARSCoV2%20Nat%20Microbiol%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Coronaviridae%20Study%20Group%20of%20the%20International%20Committee%20on%20Taxonomy%20of%20Viruses%20120%20The%20species%20Severe%20acute%20respiratory%20syndromerelated%20coronavirus%20classifying%202019121%20nCoV%20and%20naming%20it%20SARSCoV2%20Nat%20Microbiol%202020"
+        },
+        {
+            "id": "4",
+            "alt_id": "Prabakaran_2009_a",
+            "entry": "4. Prabakaran, P. et al. Potent human monoclonal antibodies against SARS CoV, 123 Nipah and Hendra viruses. Expert opinion on biological therapy 9, 355-368 (2009).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Prabakaran%2C%20P.%20Potent%20human%20monoclonal%20antibodies%20against%20SARS%20CoV%2C%20123%20Nipah%20and%20Hendra%20viruses%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Prabakaran%2C%20P.%20Potent%20human%20monoclonal%20antibodies%20against%20SARS%20CoV%2C%20123%20Nipah%20and%20Hendra%20viruses%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Prabakaran%2C%20P.%20Potent%20human%20monoclonal%20antibodies%20against%20SARS%20CoV%2C%20123%20Nipah%20and%20Hendra%20viruses%202009"
+        },
+        {
+            "id": "5",
+            "alt_id": "Saphire_et+al_2018_a",
+            "entry": "5. Saphire, E. O., Schendel, S. L., Gunn, B. M., Milligan, J. C. & Alter, G. Antibody125 mediated protection against Ebola virus. Nat. Immunol. 19, 1169-1178 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Saphire%2C%20E.O.%20Schendel%2C%20S.L.%20Gunn%2C%20B.M.%20Milligan%2C%20J.C.%20Antibody125%20mediated%20protection%20against%20Ebola%20virus%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Saphire%2C%20E.O.%20Schendel%2C%20S.L.%20Gunn%2C%20B.M.%20Milligan%2C%20J.C.%20Antibody125%20mediated%20protection%20against%20Ebola%20virus%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Saphire%2C%20E.O.%20Schendel%2C%20S.L.%20Gunn%2C%20B.M.%20Milligan%2C%20J.C.%20Antibody125%20mediated%20protection%20against%20Ebola%20virus%202018"
+        },
+        {
+            "id": "6",
+            "alt_id": "Reguera_2012_a",
+            "entry": "6. Reguera, J. et al. Structural bases of coronavirus attachment to host aminopeptidase 127 N and its inhibition by neutralizing antibodies. PLoS Pathog. 8, e1002859 (2012).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Reguera%2C%20J.%20Structural%20bases%20of%20coronavirus%20attachment%20to%20host%20aminopeptidase%20127%20N%20and%20its%20inhibition%20by%20neutralizing%20antibodies%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Reguera%2C%20J.%20Structural%20bases%20of%20coronavirus%20attachment%20to%20host%20aminopeptidase%20127%20N%20and%20its%20inhibition%20by%20neutralizing%20antibodies%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Reguera%2C%20J.%20Structural%20bases%20of%20coronavirus%20attachment%20to%20host%20aminopeptidase%20127%20N%20and%20its%20inhibition%20by%20neutralizing%20antibodies%202012"
+        },
+        {
+            "id": "7",
+            "alt_id": "Yu_2015_a",
+            "entry": "7. Yu, X. et al. Structural basis for the neutralization of MERS-CoV by a human 129 monoclonal antibody MERS-27. Sci. Rep. 5, 13133 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yu%2C%20X.%20Structural%20basis%20for%20the%20neutralization%20of%20MERS-CoV%20by%20a%20human%20129%20monoclonal%20antibody%20MERS-27%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yu%2C%20X.%20Structural%20basis%20for%20the%20neutralization%20of%20MERS-CoV%20by%20a%20human%20129%20monoclonal%20antibody%20MERS-27%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yu%2C%20X.%20Structural%20basis%20for%20the%20neutralization%20of%20MERS-CoV%20by%20a%20human%20129%20monoclonal%20antibody%20MERS-27%202015"
+        },
+        {
+            "id": "8",
+            "alt_id": "Prabakaran_2006_a",
+            "entry": "8. Prabakaran, P. et al. Structure of severe acute respiratory syndrome coronavirus 131 receptor-binding domain complexed with neutralizing antibody. J. Biol. Chem. 281, 132 15829-15836 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Prabakaran%2C%20P.%20Structure%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20131%20receptor-binding%20domain%20complexed%20with%20neutralizing%20antibody%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Prabakaran%2C%20P.%20Structure%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20131%20receptor-binding%20domain%20complexed%20with%20neutralizing%20antibody%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Prabakaran%2C%20P.%20Structure%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%20131%20receptor-binding%20domain%20complexed%20with%20neutralizing%20antibody%202006"
+        },
+        {
+            "id": "9",
+            "alt_id": "Hwang_2006_a",
+            "entry": "9. Hwang, W. C. et al. Structural basis of neutralization by a human anti-severe acute 134 respiratory syndrome spike protein antibody, 80R. J. Biol. Chem. 281, 34610-34616 135 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hwang%2C%20W.C.%20Structural%20basis%20of%20neutralization%20by%20a%20human%20anti-severe%20acute%20134%20respiratory%20syndrome%20spike%20protein%20antibody%2C%2080R%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hwang%2C%20W.C.%20Structural%20basis%20of%20neutralization%20by%20a%20human%20anti-severe%20acute%20134%20respiratory%20syndrome%20spike%20protein%20antibody%2C%2080R%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hwang%2C%20W.C.%20Structural%20basis%20of%20neutralization%20by%20a%20human%20anti-severe%20acute%20134%20respiratory%20syndrome%20spike%20protein%20antibody%2C%2080R%202006"
+        },
+        {
+            "id": "10",
+            "alt_id": "Rockx_2008_a",
+            "entry": "10. Rockx, B. et al. Structural basis for potent cross-neutralizing human monoclonal 137 antibody protection against lethal human and zoonotic severe acute respiratory 138 syndrome coronavirus challenge. J. Virol. 82, 3220-3235 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rockx%2C%20B.%20Structural%20basis%20for%20potent%20cross-neutralizing%20human%20monoclonal%20137%20antibody%20protection%20against%20lethal%20human%20and%20zoonotic%20severe%20acute%20respiratory%20138%20syndrome%20coronavirus%20challenge%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rockx%2C%20B.%20Structural%20basis%20for%20potent%20cross-neutralizing%20human%20monoclonal%20137%20antibody%20protection%20against%20lethal%20human%20and%20zoonotic%20severe%20acute%20respiratory%20138%20syndrome%20coronavirus%20challenge%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rockx%2C%20B.%20Structural%20basis%20for%20potent%20cross-neutralizing%20human%20monoclonal%20137%20antibody%20protection%20against%20lethal%20human%20and%20zoonotic%20severe%20acute%20respiratory%20138%20syndrome%20coronavirus%20challenge%202008"
+        },
+        {
+            "id": "11",
+            "alt_id": "Widjaja_2019_a",
+            "entry": "11. Widjaja, I. et al. Towards a solution to MERS: protective human monoclonal 140 antibodies targeting different domains and functions of the MERS-coronavirus spike 141 glycoprotein. Emerg. Microbes Infect. 8, 516-530 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Widjaja%2C%20I.%20Towards%20a%20solution%20to%20MERS%3A%20protective%20human%20monoclonal%20140%20antibodies%20targeting%20different%20domains%20and%20functions%20of%20the%20MERS-coronavirus%20spike%20141%20glycoprotein%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Widjaja%2C%20I.%20Towards%20a%20solution%20to%20MERS%3A%20protective%20human%20monoclonal%20140%20antibodies%20targeting%20different%20domains%20and%20functions%20of%20the%20MERS-coronavirus%20spike%20141%20glycoprotein%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Widjaja%2C%20I.%20Towards%20a%20solution%20to%20MERS%3A%20protective%20human%20monoclonal%20140%20antibodies%20targeting%20different%20domains%20and%20functions%20of%20the%20MERS-coronavirus%20spike%20141%20glycoprotein%202019"
+        },
+        {
+            "id": "12",
+            "alt_id": "Wrapp_2020_a",
+            "entry": "12. Wrapp, D. et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion 143 conformation. Science (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wrapp%20D%20et%20al%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20143%20conformation%20Science%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wrapp%20D%20et%20al%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20143%20conformation%20Science%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wrapp%20D%20et%20al%20CryoEM%20structure%20of%20the%202019nCoV%20spike%20in%20the%20prefusion%20143%20conformation%20Science%202020"
+        },
+        {
+            "id": "13",
+            "alt_id": "Walls_2020_a",
+            "entry": "13. Walls, A. C. et al. Structure, Function, and Antigenicity of the SARS-CoV-2 Spike 145 Glycoprotein. Cell (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Walls%2C%20A.C.%20and%20Antigenicity%20of%20the%20SARS-CoV-2%20Spike%20145%20Glycoprotein%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Walls%2C%20A.C.%20and%20Antigenicity%20of%20the%20SARS-CoV-2%20Spike%20145%20Glycoprotein%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Walls%2C%20A.C.%20and%20Antigenicity%20of%20the%20SARS-CoV-2%20Spike%20145%20Glycoprotein%202020"
+        },
+        {
+            "id": "14",
+            "alt_id": "Li_2003_a",
+            "entry": "14. Li, W. et al. Angiotensin-converting enzyme 2 is a functional receptor for the SARS 147 coronavirus. Nature 426, 450-454 (2003).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20W.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20147%20coronavirus%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20W.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20147%20coronavirus%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20W.%20Angiotensin-converting%20enzyme%202%20is%20a%20functional%20receptor%20for%20the%20SARS%20147%20coronavirus%202003"
+        },
+        {
+            "id": "15",
+            "alt_id": "Walls_2019_a",
+            "entry": "15. Walls, A. C. et al. Unexpected receptor functional mimicry elucidates activation of 149 coronavirus fusion. Cell 176, 1026-1039. e15 (2019). 150 16. Tian, X. et al. Potent binding of 2019 novel coronavirus spike protein by a SARS 151 coronavirus-specific human monoclonal antibody. Emerging Microbes & Infections 9, 152 382-385 (2020). 153 17.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Walls%2C%20A.C.%20Unexpected%20receptor%20functional%20mimicry%20elucidates%20activation%20of%20149%20coronavirus%20fusion%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Walls%2C%20A.C.%20Unexpected%20receptor%20functional%20mimicry%20elucidates%20activation%20of%20149%20coronavirus%20fusion%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Walls%2C%20A.C.%20Unexpected%20receptor%20functional%20mimicry%20elucidates%20activation%20of%20149%20coronavirus%20fusion%202019"
+        },
+        {
+            "id": "Menachery_2015_a",
+            "alt_id": "15",
+            "entry": "Menachery, V. D. et al. A SARS-like cluster of circulating bat coronaviruses shows 154 potential for human emergence. Nat. Med. 21, 1508 (2015). 155 18.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Menachery%2C%20V.D.%20A%20SARS-like%20cluster%20of%20circulating%20bat%20coronaviruses%20shows%20154%20potential%20for%20human%20emergence%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Menachery%2C%20V.D.%20A%20SARS-like%20cluster%20of%20circulating%20bat%20coronaviruses%20shows%20154%20potential%20for%20human%20emergence%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Menachery%2C%20V.D.%20A%20SARS-like%20cluster%20of%20circulating%20bat%20coronaviruses%20shows%20154%20potential%20for%20human%20emergence%202015"
+        },
+        {
+            "id": "Li_et+al_2005_a",
+            "alt_id": "16",
+            "entry": "Li, F., Li, W., Farzan, M. & Harrison, S. C. Structure of SARS coronavirus spike 156 receptor-binding domain complexed with receptor. Science 309, 1864-1868 (2005). 157 19.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20F.%20Li%2C%20W.%20Farzan%2C%20M.%20Harrison%2C%20S.C.%20Structure%20of%20SARS%20coronavirus%20spike%20156%20receptor-binding%20domain%20complexed%20with%20receptor%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20F.%20Li%2C%20W.%20Farzan%2C%20M.%20Harrison%2C%20S.C.%20Structure%20of%20SARS%20coronavirus%20spike%20156%20receptor-binding%20domain%20complexed%20with%20receptor%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20F.%20Li%2C%20W.%20Farzan%2C%20M.%20Harrison%2C%20S.C.%20Structure%20of%20SARS%20coronavirus%20spike%20156%20receptor-binding%20domain%20complexed%20with%20receptor%202005"
+        },
+        {
+            "id": "Raj_2013_a",
+            "alt_id": "17",
+            "entry": "Raj, V. S. et al. Dipeptidyl peptidase 4 is a functional receptor for the emerging 158 human coronavirus-EMC. Nature 495, 251-254 (2013). 159 20.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Raj%2C%20V.S.%20Dipeptidyl%20peptidase%204%20is%20a%20functional%20receptor%20for%20the%20emerging%20158%20human%20coronavirus-EMC%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Raj%2C%20V.S.%20Dipeptidyl%20peptidase%204%20is%20a%20functional%20receptor%20for%20the%20emerging%20158%20human%20coronavirus-EMC%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Raj%2C%20V.S.%20Dipeptidyl%20peptidase%204%20is%20a%20functional%20receptor%20for%20the%20emerging%20158%20human%20coronavirus-EMC%202013"
+        },
+        {
+            "id": "161",
+            "alt_id": "Dis_2019_a",
+            "entry": "161 Infect. Dis. 25, 1868-1877 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Infect%20Dis%2025%2018681877%202019"
+        }
+    ],
+    "facts": [
+        "China has caused a worldwide epidemic of respiratory disease",
+        "This cross-neutralizing antibody targets a communal epitope on these viruses",
+        "The severe acute respiratory syndrome coronavirus 2 is the etiological agent of the coronavirus induced disease 19",
+        "that emerged in China",
+        "over 115,113 cases have been reported in 109 countries",
+        "no approved targeted therapeutics are available for COVID-19",
+        "Monoclonal antibodies targeting vulnerable sites on viral surface proteins are increasingly recognised as a promising class of drugs",
+        "ELISA-reactivity was assessed of antibody-containing supernatants of a collection",
+        "of 51 SARS-S hybridoma's derived from immunized transgenic H2L2 mice that encode chimeric immunoglobulins with human variable heavy",
+        "Authentic infection of VeroE6 cells with SARS-CoV and SARS-CoV-2 was neutralized with IC50 values",
+        "SARS2-S. 47D11 bound the S1B of both viruses with similar affinities",
+        "by biolayer interferometry showed that 47D11 binds SARS-",
+        "SARS2-S1B was in a similar range",
+        "This difference may originate from differences in epitope accessibility",
+        "SARS2-S1B did not compete with S1B binding to the",
+        "ACE2 receptor expressed at the cell surface",
+        "neutralize SARS-S pseudotyped VSV infection do block binding of SARS-Secto and SARS-S1B to ACE2",
+        "yet unknown mechanism that is different from receptor binding interference",
+        "a mechanism that is independent of receptor binding inhibition",
+        "This antibody will be useful for development of antigen detection tests",
+        "Neutralizing antibodies can alter the course of infection in the infected host supporting virus clearance",
+        "an uninfected host that is exposed to the virus[4",
+        "emerging diseases in humans caused by viruses",
+        "transiently in HEK-293T cells and affinity purified from the culture supernatant by protein-A sepharose beads",
+        "Purity and integrity of all purified recombinant proteins was checked by coomassie stained SDS-PAGE",
+        "H2L2 mice were sequentially immunized in two weeks intervals with purified Secto",
+        "MERS-CoV. Antigens were injected at 20-25 \u03bcg",
+        "mouse using Stimune Adjuvant freshly prepared according to the manufacturer instruction for first injection",
+        "hybridomas made by standard method using SP 2/0 myeloma cell line as a fusion partner",
+        "Hybridomas were screened in antigen-specific ELISA",
+        "hybridomas are cultured in serum- and protein-free medium for hybridoma culturing",
+        "H2L2 antibodies were purified from hybridoma culture supernatants using Protein-A affinity chromatography",
+        "light chains were cloned into expression plasmids containing the human IgG1 heavy chain",
+        "7.7G6 mAb were produced in HEK-293T cells following transfection with pairs",
+        "light chain expression plasmids according to protocols from InvivoGen",
+        "Human antibodies were purified from cell culture supernatants using Protein-A affinity chromatography",
+        "Antibody binding to cell surface spike proteins",
+        "MERS-CoV was measured by immunofluoresence microscopy",
+        "HEK-293T cells seeded on glass slides were transfected with plasmids encoding",
+        "MERS-S - C-terminally fused to the green fluorescence protein - using Lipofectamine 2000",
+        "cells were fixed by incubation with 2% paraformaldehyde",
+        "Cells were subsequently incubated with mAbs at a concentration",
+        "S1B binding to human ACE2 receptor on the cell surface was measured by flow cytometry",
+        "HEK-293T cells were seeded at a density of 2.5\u00d7105 cells",
+        "cells were transfected with an expression",
+        "cells were dissociated by cell dissociation solution",
+        "SARS2-S1B was preincubated with mAb at the indicated mAb",
+        "Cells were subsequently incubated with S1B",
+        "The results were analysed by FlowJo",
+        "HEK-293T cells were transfected with pCAGGS expression vectors encoding SARS-S",
+        "cells were infected with the VSV-",
+        "In the virus neutralization assay, mAbs were serially diluted at two times the desired final concentration in DMEM supplemented with",
+        "Diluted mAbs were incubated with an equal volume of pseudotyped VSV particles",
+        "Luciferase activity was measured on a Berthold Centro LB 960 plate luminometer using D-luciferin as a substrate",
+        "The percentage of infectivity was calculated as ratio of luciferase readout",
+        "NUNC Maxisorp plates were coated with equimolar antigen amounts at 4\u00b0C",
+        "Four-folds serial dilutions of mAbs starting at 10 \u03bcg",
+        "plates were incubated for 1 hour at room temperature",
+        "HRP activity was measured at 450 nanometer using tetramethylbenzidine substrate",
+        "Half-maximum effective concentration binding values were calculated by nonlinear regression analysis on the binding curves using GraphPad Prism",
+        "SARS-S targeting hybridomas were developed by conventional hybridoma technology from immunized H2L2 transgenic mice",
+        "light chain human immunoglobulin repertoire - were sequentially immunized with 2-week intervals with trimeric spike protein ectodomains",
+        "Of the hybridoma supernatants that reacted with SARS-Secto",
+        "of the 51 SARS-Secto hybridoma supernatants reacted with SARS2-S1",
+        "SARS2-S1A antigens used in Fig.2a",
+        "Antigen association step was performed by incubating the sensor with a range of concentrations",
+        "Cells are analysed for GFP expression and antibody binding. Percentages of cells",
+        "positive are shown in each quadrant",
+        "cells treated with antibodies",
+        "Recombinant soluble human ACE2 was coated on NUNC Maxisorp plates at",
+        "Antibody-mediated neutralization of infection of VSV particles pseudotyped with spike proteins of SARS-CoV and SARS-CoV-2",
+        "VeroE6 cells were seeded with density of 105 cells",
+        "cells were transfected with plasmids encoding full length SARS-S",
+        "the cells were fixed with 2% PFA in PBS",
+        "the S-GFP proteins were detected by fluorescence microscopy",
+        "S-mediated cell-cell fusion was observed by the formation of multi-nucleated syncytia",
+        "ClustalW. Numbering denotes the residue position in the full-length spike protein",
+        "Sequences corresponding to the S1B receptor binding core domain",
+        "The fourteen residues that are involved in binding of SARS-CoV",
+        "S1B to human ACE2 are highlighted in grey[1",
+        "S. C. Structure of SARS coronavirus spike receptorbinding domain complexed with receptor",
+        "Et al Structure of severe acute respiratory syndrome coronavirus receptor-binding domain complexed with neutralizing antibody",
+        "Et al Potent binding of 2019 novel coronavirus spike protein",
+        "293T cells expressing GFP-tagged spike proteins of SARS-CoV and SARS-CoV-2 detected by immunofluorescence assay",
+        "Antibody-mediated neutralization of infection of luciferase-encoding VSV particles pseudotyped with spike proteins of SARS-CoV"
+    ],
+    "claims": [
+        "We report a human monoclonal antibody that neutralizes SARS-CoV-2 (and SARS-CoV)"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Using ELISA 47D11 was shown to target the S1B receptor binding domain (RBD) of SARS-S and SARS2-S. 47D11 bound the S1B of both viruses with similar affinities as shown by the ELISA-based half maximal effective concentration (EC50) values (0.02 and 0.03 \u03bcg/ml, respectively; Fig.2a)",
+        "Congruent with the ELISA-reactivities, measurement of binding kinetics of 47D11 by biolayer interferometry showed that 47D11 binds SARS-",
+        "SARS2-spike ectodomain (KD 10.8 nM) whereas affinity for SARS-S1B and SARS2-S1B was in a similar range (16.1 and 9.6 nM, respectively, Suppl.Fig.3)",
+        "Binding of 47D11 to SARS-S1B and SARS2-S1B did not compete with S1B binding to the ACE2 receptor expressed at the cell surface as shown by flow cytometry (Fig.2b; Suppl.Fig.4) nor with spike ectodomain and S1B binding to soluble ACE2",
+        "Binding by 47D11 further away from the receptor binding interface explains its inability to compromise spike-receptor interaction. This is the first report on a monoclonal antibody that neutralizes SARS-CoV-2. 47D11 binds a conserved epitope on the spike receptor binding domain explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, using a mechanism that is independent of receptor binding inhibition",
+        "293T cells expressing green fluorescence protein-tagged spike proteins of SARS-CoV and SARS-CoV-2 detected by immunofluorescence assay",
+        "H2L2 mice were sequentially immunized in two weeks intervals with purified spike ectodomain of different CoVs in the following order: HCoV-OC43, SARS-",
+        "HEK-293T cells seeded on glass slides were transfected with plasmids encoding SARS-S, SARS2-S or MERS-S - C-terminally fused to the green fluorescence protein (GFP) - using Lipofectamine 2000 (Invitrogen)",
+        "After reaching 70~80% confluency, cells were transfected with an expression plasmid encoding human ACE2 - C-terminally fused to the green fluorescence protein - using Lipofectamine",
+        "These mice - carrying genes encoding the heavy and light chain human immunoglobulin repertoire - were sequentially immunized with 2-week intervals with trimeric spike protein ectodomains (Secto) of three human coronaviruses from the betacoronavirus genus in the following order: 1",
+        "Of the hybridoma supernatants that reacted with SARS-spike ectodomain only, 23 reacted with",
+        "Four of the 51 SARS-spike ectodomain hybridoma supernatants reacted with SARS2-S1",
+        "Antigen association step was performed by incubating the sensor with a range of concentrations of the recombinant spike ectodomain (1600-800-400-200-100-50-25 nM) for 10 min, followed by a dissociation step in PBS for 60 min",
+        "Binding controls include PBS-treated cells, treatment of cells with SARS-S1B and SARS2-S1B in the absence of antibody, and cells treated with antibodies only",
+        "After reaching 70~80% confluency, cells were transfected with plasmids encoding full length SARS-S, SARS2-S and MERS-S \u2013 C-terminally fused to green fluorescence protein - using Lipofectamine 2000 (Invitrogen)"
+    ],
+    "top_statements": [
+        "Medicine, Utrecht University, Utrecht, the Netherlandsa; Department of Cell Biology, Erasmus MC, Rotterdam, the Netherlandsb; Harbour Antibodies B.V., Rotterdam, Netherlandsc; Department of Molecular and Cell Biology, Department of Viroscience, Erasmus Medical Center, Rotterdam, the Netherlandsd",
+        "Using ELISA 47D11 was shown to target the S1B receptor binding domain (RBD) of SARS-S and SARS2-S. 47D11 bound the S1B of both viruses with similar affinities as shown by the ELISA-based half maximal effective concentration (EC50) values (0.02 and 0.03 \u03bcg/ml, respectively; Fig.2a)",
+        "SARS2-spike ectodomain (KD 10.8 nM) whereas affinity for SARS-S1B and SARS2-S1B was in a similar range (16.1 and 9.6 nM, respectively, Suppl.Fig.3)",
+        "Binding of 47D11 to SARS-S1B and SARS2-S1B did not compete with S1B binding to the ACE2 receptor expressed at the cell surface as shown by flow cytometry (Fig.2b; Suppl.Fig.4) nor with spike ectodomain and S1B binding to soluble ACE2",
+        "Binding by 47D11 further away from the receptor binding interface explains its inability to compromise spike-receptor interaction. This is the first report on a monoclonal antibody that neutralizes SARS-CoV-2. 47D11 binds a conserved epitope on the spike receptor binding domain explaining its ability to cross-neutralize SARS-CoV and SARS-CoV-2, using a mechanism that is independent of receptor binding inhibition",
+        "HEK-293T cells seeded on glass slides were transfected with plasmids encoding SARS-S, SARS2-S or MERS-S - C-terminally fused to the green fluorescence protein (GFP) - using Lipofectamine 2000 (Invitrogen)"
+    ],
+    "headline": "Binding of 47D11 to SARS-S1B and SARS2-S1B did not compete with S1B binding to the ACE2 receptor expressed at the cell surface as shown by flow cytometry nor with spike ectodomain and S1B binding to soluble ACE2",
+    "contexts": [],
+    "abbreviations": {
+        "RBD": "receptor binding domain",
+        "Secto": "spike ectodomain",
+        "TM": "transmembrane domain",
+        "NCOH": "National Centre for One Health",
+        "IMI": "Innovative Medicines Initiative",
+        "GFP": "green fluorescence protein",
+        "PRNT": "plaque reduction neutralization test",
+        "BSA": "Bovine Serum Albumin"
+    }
+}

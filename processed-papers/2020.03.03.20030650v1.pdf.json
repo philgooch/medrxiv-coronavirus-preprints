@@ -1,0 +1,561 @@
+{
+    "filename": "2020.03.03.20030650v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 1351814,
+    "metadata": {
+        "title": "Immunodepletion with Hypoxemia: A Potential High Risk Subtype of Coronavirus Disease 2019",
+        "author": "Lilei Yu, MD, PhD, Yongqing Tong, MD, PhD, Gaigai Shen, MD, PhD, Aisi Fu, MD, PhD, Yanqiu Lai, MD, Xiaoya Zhou, MD, PhD, Yuan Yuan, MD, PhD, Yuhong Wang, MD, Yuchen Pan, MD, PhD, Zhiyao Yu, MD, Yan Li, MD, PhD, Tiangang Liu, MD, PhD, Hong Jiang, MD, PhD",
+        "date": 2020,
+        "affiliations": [
+            "Department of Internal Medicine, Renmin Hospital of Wuhan University",
+            "Department of Clinical Laboratory, Renmin Hospital of Wuhan University",
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education and",
+            "Wuhan University School of Pharmaceutical Sciences",
+            "Hubei Engineering Laboratory for Synthetic Microbiology, Wuhan Institute of Biotechnology",
+            "PhD Department of Internal Medicine, Renmin Hospital of Wuhan University No. 238 Jiefang Road, Wuchang District Wuhan City, Hubei Province 430060, P.R. China Fax: +86 27 88040334 E-mail: hong-jiang@whu.edu.cn Co-corresponding Author: Prof Tiangang Liu, Key Laboratory of Combinatorial Biosynthesis and Drug Discovery Ministry of Education and Wuhan University School of Pharmaceutical Sciences Wuhan 430071, China",
+            "Renmin Hospital of Wuhan University,"
+        ],
+        "journal": "Immunodepletion with Hypoxemia",
+        "volume": "29",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.03.20030650",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.03.20030650v1.pdf"
+        },
+        "abstract": "Background The outbreak of COVID-2019 is becoming a global public health emergency. Although its basic clinical features have been reported, the dynamic characteristics of immune system in COVID-2019 patients, especially those critical patients with refractory hypoxemia, are not yet well understood. We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient. Methods This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, a COVID-2019 designated hospital in Wuhan, from January 31 to February 6, 2020. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (6th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. We recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail. Blood samples were collected and we determined the expression levels of immune cells (CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and CD16+56+ NK cells) in different time points. Nanopore Targeted Sequencing was used to determine the alterations of gut microbiota homeostasis. Results Apart from the clinical features described previously[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], we found that four patients had decreased immune cells and refractory hypoxemia during the hospitalization, and the severity of hypoxemia was strongly correlated to the expression levels of immune cells. Additionally, we found that the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes. Notably, all patients died. Conclusions We discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019. Hypoxemia",
+        "references": "@article{wathelet2007a,\n  author = {Wathelet, M.G. and Orr, M. and Frieman, M.B. and Baric, R.S.},\n  title = {Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp1 and rational design of an attenuated strain},\n  journal = {J Virol},\n  date = {2007},\n  volume = {81},\n  pages = {11620\u201333},\n  language = {}\n}\n@article{shi2014a,\n  author = {Shi, C.S. and Qi, H.Y. and Boularan, C.},\n  title = {SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome},\n  journal = {J Immunol},\n  date = {2014},\n  volume = {193},\n  pages = {3080\u20139},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown-a,\n  title = {Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version sixth). Feb 18,2020},\n  url = {http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/fi},\n  note = {in Chinese},\n  language = {},\n  urldate = {les/b218cfeb1bc54639af227f922bf6b817.pdf (Mar 4, 2020;},\n  institution = {National Health Commission of China}\n}\n@book{arumugam2011a,\n  author = {Arumugam, M. and Raes, J. and Pelletier, E.},\n  title = {Enterotypes of the human gut microbiome[J]},\n  publisher = {nature},\n  date = {2011},\n  volume = {473},\n  pages = {174\u2013180},\n  more-authors = {true},\n  number = {7346},\n  language = {}\n}\n@article{uhlenhaut2012a,\n  author = {Uhlenhaut, C. and Cohen, J.I. and Pavletic, S.},\n  title = {Use of a novel virus detection assay to identify coronavirus HKU1 in the lungs of a hematopoietic stem cell transplant recipient with fatal pneumonia},\n  journal = {Transpl Infect Dis},\n  date = {2012},\n  volume = {14},\n  pages = {79\u201385},\n  more-authors = {true},\n  language = {}\n}\n@article{ogimi2019a,\n  author = {Ogimi, C. and Englund, J.A. and Bradford, M.C.},\n  title = {Characteristics and Outcomes of Coronavirus Infection in Children: The Role of Viral Factors and an Immunocompromised State},\n  journal = {J Pediatric Infect Dis Soc},\n  date = {2019},\n  volume = {8},\n  pages = {21\u20138},\n  more-authors = {true},\n  language = {}\n}\n@article{prescott2018a,\n  author = {Prescott, J. and Falzarano, D. and de Wit, E.},\n  title = {Pathogenicity and Viral Shedding of MERS-CoV in Immunocompromised Rhesus Macaques},\n  journal = {Front Immunol},\n  date = {2018},\n  volume = {9},\n  pages = {205},\n  more-authors = {true},\n  language = {}\n}\n@techreport{unknown2020a,\n  title = {Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version seven)},\n  date = {2020-03-04},\n  language = {},\n  institution = {National Health Commission of China}\n}\n@article{wathelet2007b,\n  author = {Wathelet, M.G. and Orr, M. and Frieman, M.B. and Baric, R.S.},\n  title = {Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp1 and rational design of an attenuated strain},\n  journal = {J Virol},\n  date = {2007},\n  volume = {81},\n  pages = {11620\u201333},\n  language = {}\n}\n@article{shi2014b,\n  author = {Shi, C.S. and Qi, H.Y. and Boularan, C.},\n  title = {SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome},\n  journal = {J Immunol},\n  date = {2014},\n  volume = {193},\n  pages = {3080\u20139},\n  more-authors = {true},\n  language = {}\n}\n@article{vyboh2015a,\n  author = {Vyboh, K. and Jenabian, M.A. and Mehraj, V. and Routy, J.P.},\n  title = {HIV and the gut microbiota, partners in crime: breaking the vicious cycle to unearth new therapeutic targets},\n  journal = {J Immunol Res},\n  date = {2015},\n  volume = {2015},\n  pages = {614127},\n  language = {}\n}\n@article{ray2015a,\n  author = {Ray, A. and Dittel, B.N.},\n  title = {Interrelatedness between dysbiosis in the gut microbiota due to immunodeficiency and disease penetrance of colitis},\n  journal = {Immunology},\n  date = {2015},\n  volume = {146},\n  pages = {359\u201368},\n  language = {}\n}\n@article{rooks2016a,\n  author = {Rooks, M.G. and Garrett, W.S.},\n  title = {Gut microbiota, metabolites and host immunity},\n  journal = {Nat Rev Immunol},\n  date = {2016},\n  volume = {16},\n  pages = {341\u201352},\n  language = {}\n}\n",
+        "emails": [
+            "liutg@whu.edu.cn",
+            "hong-jiang@whu.edu.cn"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Wathelet, M.G.\nAU  - Orr, M.\nAU  - Frieman, M.B.\nAU  - Baric, R.S.\nTI  - Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp1 and rational design of an attenuated strain\nT2  - J Virol\nPY  - 2007\nDA  - 2007\nVL  - 81\nSP  - 11620\nEP  - 33\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shi, C.S.\nAU  - Qi, H.Y.\nAU  - Boularan, C.\nTI  - SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome\nT2  - J Immunol\nPY  - 2014\nDA  - 2014\nVL  - 193\nSP  - 3080\nEP  - 9\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nTI  - Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version sixth). Feb 18,2020\nUR  - http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/fi\nN1  - in Chinese\nLA  - \nC1  - les/b218cfeb1bc54639af227f922bf6b817.pdf (Mar 4, 2020;\nC1  - National Health Commission of China\nER  - \n\nTY  - BOOK\nAU  - Arumugam, M.\nAU  - Raes, J.\nAU  - Pelletier, E.\nTI  - Enterotypes of the human gut microbiome[J]\nPB  - nature\nPY  - 2011\nDA  - 2011\nVL  - 473\nSP  - 174\nEP  - 180\nC1  - true\nIS  - 7346\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Uhlenhaut, C.\nAU  - Cohen, J.I.\nAU  - Pavletic, S.\nTI  - Use of a novel virus detection assay to identify coronavirus HKU1 in the lungs of a hematopoietic stem cell transplant recipient with fatal pneumonia\nT2  - Transpl Infect Dis\nPY  - 2012\nDA  - 2012\nVL  - 14\nSP  - 79\nEP  - 85\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ogimi, C.\nAU  - Englund, J.A.\nAU  - Bradford, M.C.\nTI  - Characteristics and Outcomes of Coronavirus Infection in Children: The Role of Viral Factors and an Immunocompromised State\nT2  - J Pediatric Infect Dis Soc\nPY  - 2019\nDA  - 2019\nVL  - 8\nSP  - 21\nEP  - 8\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Prescott, J.\nAU  - Falzarano, D.\nAU  - de Wit, E.\nTI  - Pathogenicity and Viral Shedding of MERS-CoV in Immunocompromised Rhesus Macaques\nT2  - Front Immunol\nPY  - 2018\nDA  - 2018\nVL  - 9\nSP  - 205\nC1  - true\nLA  - \nER  - \n\nTY  - RPRT\nTI  - Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version seven)\nPY  - 2020\nDA  - 2020/03/04\nLA  - \nC1  - National Health Commission of China\nER  - \n\nTY  - JOUR\nAU  - Wathelet, M.G.\nAU  - Orr, M.\nAU  - Frieman, M.B.\nAU  - Baric, R.S.\nTI  - Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp1 and rational design of an attenuated strain\nT2  - J Virol\nPY  - 2007\nDA  - 2007\nVL  - 81\nSP  - 11620\nEP  - 33\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Shi, C.S.\nAU  - Qi, H.Y.\nAU  - Boularan, C.\nTI  - SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome\nT2  - J Immunol\nPY  - 2014\nDA  - 2014\nVL  - 193\nSP  - 3080\nEP  - 9\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Vyboh, K.\nAU  - Jenabian, M.A.\nAU  - Mehraj, V.\nAU  - Routy, J.P.\nTI  - HIV and the gut microbiota, partners in crime: breaking the vicious cycle to unearth new therapeutic targets\nT2  - J Immunol Res\nPY  - 2015\nDA  - 2015\nVL  - 2015\nSP  - 614127\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ray, A.\nAU  - Dittel, B.N.\nTI  - Interrelatedness between dysbiosis in the gut microbiota due to immunodeficiency and disease penetrance of colitis\nT2  - Immunology\nPY  - 2015\nDA  - 2015\nVL  - 146\nSP  - 359\nEP  - 68\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rooks, M.G.\nAU  - Garrett, W.S.\nTI  - Gut microbiota, metabolites and host immunity\nT2  - Nat Rev Immunol\nPY  - 2016\nDA  - 2016\nVL  - 16\nSP  - 341\nEP  - 52\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "1",
+                "caption": "Clinical characteristics of 3 critical patients with COVID-2019"
+            },
+            {
+                "id": "2",
+                "caption": "Analysis of gut microbiota in 2 critical patients infected with 2019-nCoV"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Kinetic analysis of different immune cells counts and oximetry saturation of three patients. (A) Dynamic changes of different immune cells and oximetry saturation in Patient 1; (B) Dynamic changes of different immune cells and oximetry saturation in Patient 2; (C) Dynamic changes of different immune cells and"
+            },
+            {
+                "id": "2",
+                "caption": "Illustration of potential pathogenic mechanisms of 2019-nCoV"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.03.20030650v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.03.20030650v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.03.20030650v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.03.20030650v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.03.20030650v1/img-003.png"
+        ]
+    },
+    "sections": {
+        "background": [
+            "The outbreak of COVID-2019 is becoming a global public health emergency. Although its basic clinical features have been reported, the dynamic characteristics of immune system in COVID-2019 patients, especially those critical patients with refractory hypoxemia, are not yet well understood. We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient. Methods This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, a COVID-2019 designated hospital in Wuhan, from January 31 to February 6, 2020. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (6th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. We recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail. Blood samples were collected and we determined the expression levels of immune cells (CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and CD16+56+ NK cells) in different time points. Nanopore Targeted Sequencing was used to determine the alterations of gut microbiota homeostasis. Results Apart from the clinical features described previously[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], we found that four patients had decreased immune cells and refractory hypoxemia during the hospitalization, and the severity of hypoxemia was strongly correlated to the expression levels of immune cells. Additionally, we found that the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes. Notably, all patients died. Conclusions We discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019. Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia. To the best of our knowledge, this is the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype of COVID-2019 and the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia."
+        ],
+        "introduction": [
+            "As of Feb 29, 2020, more than 80000 cases have been confirmed in China and other countries, including South Korea, Japan, Italy, and Iran. This global public health emergency is attracting most concern throughout the world.<br/><br/>Host immune response is essential for the clearance of coronavirus infection, and the balance between coronavirus and host immunity is key to viral pathogenesis and will ultimately determine infection outcome[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Coronaviruses encode numerous viral gene products to evade and suppress host immune response, such as SARS-associated coronavirus nonstructural protein 1, which is able to inhibit host interferon-dependent antiviral signaling[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>], as well as another SARS coronavirus protein named open reading frame-9b, which can suppress mitochondria of immune cells[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Coronavirus suppressing host immunity has been demonstrated, however, the alterations of immune system in patients with COVID-2019 are not yet well understood.<br/><br/>In this study, we aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels. We hope to reveal that immuno-depletion carries a higher risk of death for COVID-2019 patients."
+        ],
+        "methods": [
+            "Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (7th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. We recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail. This study was reviewed and approved by the Medical Ethical Committee of Renmin Hospital of Wuhan University (approval number WDRY2020-K079).<br/><br/>Laboratory characteristics Nasopharyngeal-swab specimens were collected and maintained in viral-transport medium. 2019-nCoV was confirmed by real-time fluorescent RT-PCR. Positive confirmatory COVID-2019 patients were defined as those with both positive tests of 2019n-CoV open reading frame 1ab (2019n-CoV ORF1ab) and 2019n-Cov nucleocapsid protein gene (2019n-Cov N gene). Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers. ECG monitors were used to record daily oximetry saturation of three patients. The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and also CD16+56+ NK cells in the periphery blood."
+        ],
+        "method": [
+            "<strong>Method of Nanopore Targeted Sequencing</strong><br/><br/>The methods for these procedures are conducted as described in the Supplemental Appendix.<br/><br/>Statistics Categorical variables are expressed in percentage. Continuous variables were directly expressed as a range. To compare the differences in the gut microbiota between patients with health cohort which data were imported from Arumugam M's5 research Comparative analysis was conducted by two tailed T test, Data analyses were performed using SPSS 23.0 software. P values < 0.05 were considered significant."
+        ],
+        "results": [
+            "Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to Renmin Hospital of Wuhan University on January 31, February 1 and 6, 2020 (Patient 1, Patient 2, Patient 3, respectively). The mean age of these patients are 74.3 \u00b1 8.1 years. Patient 1 had a medical history of prostatic hyperplasia and Patient 3 had chronic bronchitis, while Patient 2 reported no underlying historic medical conditions. From the collection of clinical features, we found that all patients reported fever and dyspnea (Table 1). Moreover, Patient 1 also had diarrhea, and Patient 3 had cough and myalgia/fatigue additionally. Laboratory findings show that C-reactive protein (CRP) were obviously increased in all patients, and decreased lymphocyte counts and increased procalcitonin were observed in Patient 2 and 3 (Table 1). Additionally, Patient 2 also had elevated hypersensitive troponin I, creatine, and urea in serum, indicating myocardial injury and renal function damage. Patient 3 had increases in aspartate aminotransferase (ASL) and alanine aminotransferase (ALT) (Table 1), which indicate liver injury. During the hospitalization, all patients received empirical antiviral and antibiotic treatment (Table 1). Patient 1 also experienced intravenous immunoglobulin therapy from day 11 of hospitalization (Table 1). Notably, three patients died on day 24, 13, 12 of hospitalization, respectively.<br/><br/>Dynamic changes of immune cells and oximetry saturation surveillance To determine the dynamic changes of different immune cells in all patients, we analyzed the levels of CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells and CD16+56+ NK cells in the peripheral blood of three patients at different time points during the hospitalization. As shown in Figure 1A, Patient 1 had sustained decrease in all types of immune cells during the course. Specifically, CD3+, CD4, CD8+ T cells counts were always below normal range, and CD19+ B cells count dropped below normal range from day 12 and CD16+56+ NK cells count dropped below normal range from day 16. Simultaneously, Patient 1 received oxygen support through oxygen mask (5 L/min) and even high flow oxygen (Figure 1A) due to hypoxemia. However, oximetry saturation (SaO2) were still below 95% and not recovered. On day 15, invasive mechanical ventilation was used on him due to sudden respiratory failure, while it didn\u2019t work and the patient died at day 24. Patient 2 had sustained decrease in all types of immune cells at the first six days below normal range (Figure 1B) and hypoxemia. Oxygen mask and high flow oxygen were used to correct the hypoxemia, but the SaO2 was almost decreased along the way from day 6 (Figure 1B). Eventually, Patient 2 died at day 13. In Patient 3, CD3+, CD4+, CD8+ T cells were obviously decreased below normal range and CD3+, CD4+ T cells presented a sustained decline from day 4 (Figure 1C). Additionally, during the oxygen support (oxygen mask, > 5 L/min), the SaO2 of this patient was oddly declined. From day 8, noninvasive mechanical ventilation was used but didn\u2019t work (Figure 1C). The patient presented a progressive and refractory hypoxemia, and died on day 12. From these results, we found that all patients had immunodepletion and refractory hypoxemia. Interestingly, the phenomenon of immunodepletion appeared earlier than refractory hypoxemia in patients during the progression of COVID-2019 pneumonia.<br/><br/>Analysis of gut microbes of COVID-19 patients Through the NTS test, we analyzed the gut microbiota at the level of phylum and genus on 3 anal swab samples from Patient 1 and Patient 3. The data of healthy human intestinal microbiota were imported from Arumugam M's research[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. The analysis results showed that no typical pathogens detected in the two patients, such as Clostridium difficile, however the structure of the gut microbiota fluctuated greatly both in bacteria and fungi (Table 2). Firstly, Patient 1's Actinobacteria was significantly higher than health cohort both in the test of two days in a row. The proportion of Actinobacteria in bacteria of patient 1 for two consecutive days are 70.7% and 44.17%, respectively. The abundance of Actinobacteria increase in patient 1 was mainly triggered by the significant increase in Corynebacterium (77.12%, 44.67%) at the level of genus. In addition, Kluyveromyces dominates the intestinal fungal flora of this patient, which the proportion of fungi for 2 day are 93.4% and 99.26%. Similarly, the proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72% mainly because of the increase of Ruthenibacterium (35.12%) at the genus level, which is significantly higher than that of health cohort (P<0.0001). At the same time, the Aspergillus (59.41%) dominates the intestinal fungal flora of this patient. Overall, all data are significantly different from healthy human gut microbiota (P <0.001)."
+        ],
+        "discussion": [
+            "In this study, we revealed the clinical characteristics of 3 critical patients with<br/><br/>COVID-2019, and found that (1) hypoxemia severity was strongly correlated to the expression levels of immune cells, which indicated that immuno-depletion may well be a key risk factor in the development of COVID-2019, and (2) the imbalance of gut microbiota was also found in these critical patients, which may lead to microbial translocation and a second infection.<br/><br/>The balance between virus and host immunity is closely associated with the outcome of an infection. Clinical studies have shown that coronavirus infection severity was linked to patient health status and an immunocompromised state carried an increased risk of death[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. It was also demonstrated that the immunosuppressed rhesus macaques had markedly increased MERS-Coronavirus replication in the lung, suggesting the inability in virus clearance[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. Although the phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis and Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the dynamic changes of immune cells and the relation between levels of immune cells and the severity of hypoxemia are still unknown. Consistently, in these critical patients with COVID-2019, we found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome. Furthermore, evidence have identified the adverse effects of coronavirus on host immune system[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Thus, reasons of the immuno-depletion state in these critical patients may be associated with excessive consumption of immune cells, as well as virus-induced immune organs injury.<br/><br/>Multiple studies have demonstrated the interaction between immune system and gut microbiota, and gut microbiota homeostasis is modulated by the immune system[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. It was shown that a variety of immune factors was capable of altering gut microbiota homeostasis balance, such as IL-10, IL-23, NLRP6, NOD-like receptor protein 3, and IgA13. And the imbalance or dysbiosis in gut microbiota would contribute to an enhanced mucosal permeability and thus leading to microbial translocation and a second infection. Moreover, gut microbiota was able to modulate the immune response and played an important role in immune-mediated diseases, suggesting a vicious circle between immune disorder and gut microbiota imbalance[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. All these findings indicated that the balance of gut microbiota can be disrupted in case of coronavirus infection due to the immune disorder. In this study, we further identified the changes in gut microbiota during the novel coronavirus infection and found that (1) the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and (2) the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes. In addition, we also found that the fungi in the gut microbiota of the two patients are not common fungi in healthy cohort (eg. Candida and Saccharomyces cerevisiae), some rare fungi dominate the fungal of gut microbiota, such as Aspergillus, Kluyveromyces. Insight into which species of the microbiota are altered by immune-depletion associated with novel coronavirus infection can help us have a better understanding of the characteristics of COVID-2019.<br/><br/>Based on our findings, we suggested that the early interventions of host immune system and gut microbiota are necessary for COVID-2019 patients with refractory hypoxia. For these critical patients, extracorporeal membrane oxygenation (ECMO) therapy also should be supported early to ameliorate the symptom of refractory hypoxia. In conclusion, we discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019. Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia."
+        ],
+        "disclosures": [
+            "The authors declare no conflict of interest."
+        ],
+        "acknowledgement": [
+            "This work was supported by grants from the National Key R&D Program of China [2017YFC1307800].<br/><br/>Reference 1. de Wilde AH, Snijder EJ, Kikkert M, ,et al Host Factors in Coronavirus Replication. Curr Top Microbiol Immunol 2018;419:1-42. 2. Wathelet MG, Orr M, Frieman MB, Baric RS. Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] and rational design of an attenuated strain. J Virol 2007;81:11620-33. 3. Shi CS, Qi HY, Boularan C, et al SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome. J Immunol 2014;193:3080-9. 4. National Health Commission of China. Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version sixth). Feb 18,2020. http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/fi les/b218cfeb1bc54639af227f922bf6b817.pdf (accessed Mar 4, 2020; in Chinese). 5. Arumugam M, Raes J, Pelletier E, et al Enterotypes of the human gut microbiome[J]. nature, 2011, 473(7346): 174-180. 6. Uhlenhaut C, Cohen JI, Pavletic S, et al Use of a novel virus detection assay to identify coronavirus HKU1 in the lungs of a hematopoietic stem cell transplant recipient with fatal pneumonia. Transpl Infect Dis 2012;14:79-85. 7. Ogimi C, Englund JA, Bradford MC, et al Characteristics and Outcomes of Coronavirus Infection in Children: The Role of Viral Factors and an Immunocompromised State. J Pediatric Infect Dis Soc 2019;8:21-8. 8. Prescott J, Falzarano D, de Wit E, et al Pathogenicity and Viral Shedding of MERS-CoV in Immunocompromised Rhesus Macaques. Front Immunol 2018;9:205.<br/><br/>9. National Health Commission of China. Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version seven). Mar 4, 2020. 10. Wathelet MG, Orr M, Frieman MB, Baric RS. Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] and rational design of an attenuated strain. J Virol 2007;81:11620-33. 11. Shi CS, Qi HY, Boularan C, et al SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome. J Immunol 2014;193:3080-9. 12. Vyboh K, Jenabian MA, Mehraj V, Routy JP. HIV and the gut microbiota, partners in crime: breaking the vicious cycle to unearth new therapeutic targets. J Immunol Res 2015;2015:614127. 13. Ray A, Dittel BN. Interrelatedness between dysbiosis in the gut microbiota due to immunodeficiency and disease penetrance of colitis. Immunology 2015;146:359-68. 14. Rooks MG, Garrett WS. Gut microbiota, metabolites and host immunity. Nat Rev Immunol 2016;16:341-52.<br/><br/>Figure Legends oximetry saturation in Patient 3. Red arrow: death time. Horizontal ordinate: hospital day."
+        ],
+        "funding": [
+            "This work was supported by grants from the National Key R&D Program of China [2017YFC1307800]. Reference 1. de Wilde AH, Snijder EJ, Kikkert M, ,et al Host Factors in Coronavirus Replication"
+        ],
+        "ethical_compliance": [
+            "This study was reviewed and approved by the Medical Ethical Committee of Renmin Hospital of Wuhan University (approval number WDRY2020-K079)"
+        ]
+    },
+    "structured_content": {
+        "Abstract": [],
+        "Background": [
+            "The outbreak of COVID-2019 is becoming a global public health emergency. Although its basic clinical features have been reported, the dynamic characteristics of immune system in COVID-2019 patients, especially those critical patients with refractory hypoxemia, are not yet well understood. We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient. Methods This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, a COVID-2019 designated hospital in Wuhan, from January 31 to February 6, 2020. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (6th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. We recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail. Blood samples were collected and we determined the expression levels of immune cells (CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and CD16+56+ NK cells) in different time points. Nanopore Targeted Sequencing was used to determine the alterations of gut microbiota homeostasis. Results Apart from the clinical features described previously[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], we found that four patients had decreased immune cells and refractory hypoxemia during the hospitalization, and the severity of hypoxemia was strongly correlated to the expression levels of immune cells. Additionally, we found that the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes. Notably, all patients died. Conclusions We discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019. Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia. To the best of our knowledge, this is the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype of COVID-2019 and the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia."
+        ],
+        "Introduction": [
+            "As of Feb 29, 2020, more than 80000 cases have been confirmed in China and other countries, including South Korea, Japan, Italy, and Iran. This global public health emergency is attracting most concern throughout the world.",
+            "Host immune response is essential for the clearance of coronavirus infection, and the balance between coronavirus and host immunity is key to viral pathogenesis and will ultimately determine infection outcome[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>]. Coronaviruses encode numerous viral gene products to evade and suppress host immune response, such as SARS-associated coronavirus nonstructural protein 1, which is able to inhibit host interferon-dependent antiviral signaling[<a class=\"ref-link\" id=\"c2\" href=\"#r2\">2</a>], as well as another SARS coronavirus protein named open reading frame-9b, which can suppress mitochondria of immune cells[<a class=\"ref-link\" id=\"c3\" href=\"#r3\">3</a>]. Coronavirus suppressing host immunity has been demonstrated, however, the alterations of immune system in patients with COVID-2019 are not yet well understood.",
+            "In this study, we aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels. We hope to reveal that immuno-depletion carries a higher risk of death for COVID-2019 patients."
+        ],
+        "Methods": [
+            "Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (7th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. We recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail. This study was reviewed and approved by the Medical Ethical Committee of Renmin Hospital of Wuhan University (approval number WDRY2020-K079).",
+            "Laboratory characteristics Nasopharyngeal-swab specimens were collected and maintained in viral-transport medium. 2019-nCoV was confirmed by real-time fluorescent RT-PCR. Positive confirmatory COVID-2019 patients were defined as those with both positive tests of 2019n-CoV open reading frame 1ab (2019n-CoV ORF1ab) and 2019n-Cov nucleocapsid protein gene (2019n-Cov N gene). Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers. ECG monitors were used to record daily oximetry saturation of three patients. The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and also CD16+56+ NK cells in the periphery blood.",
+            "Method of Nanopore Targeted Sequencing The methods for these procedures are conducted as described in the Supplemental Appendix.",
+            "Statistics Categorical variables are expressed in percentage. Continuous variables were directly expressed as a range. To compare the differences in the gut microbiota between patients with health cohort which data were imported from Arumugam M's5 research Comparative analysis was conducted by two tailed T test, Data analyses were performed using SPSS 23.0 software. P values < 0.05 were considered significant."
+        ],
+        "Results": [
+            "Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to Renmin Hospital of Wuhan University on January 31, February 1 and 6, 2020 (Patient 1, Patient 2, Patient 3, respectively). The mean age of these patients are 74.3 \u00b1 8.1 years. Patient 1 had a medical history of prostatic hyperplasia and Patient 3 had chronic bronchitis, while Patient 2 reported no underlying historic medical conditions. From the collection of clinical features, we found that all patients reported fever and dyspnea (Table 1). Moreover, Patient 1 also had diarrhea, and Patient 3 had cough and myalgia/fatigue additionally. Laboratory findings show that C-reactive protein (CRP) were obviously increased in all patients, and decreased lymphocyte counts and increased procalcitonin were observed in Patient 2 and 3 (Table 1). Additionally, Patient 2 also had elevated hypersensitive troponin I, creatine, and urea in serum, indicating myocardial injury and renal function damage. Patient 3 had increases in aspartate aminotransferase (ASL) and alanine aminotransferase (ALT) (Table 1), which indicate liver injury. During the hospitalization, all patients received empirical antiviral and antibiotic treatment (Table 1). Patient 1 also experienced intravenous immunoglobulin therapy from day 11 of hospitalization (Table 1). Notably, three patients died on day 24, 13, 12 of hospitalization, respectively.",
+            "Dynamic changes of immune cells and oximetry saturation surveillance To determine the dynamic changes of different immune cells in all patients, we analyzed the levels of CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells and CD16+56+ NK cells in the peripheral blood of three patients at different time points during the hospitalization. As shown in Figure 1A, Patient 1 had sustained decrease in all types of immune cells during the course. Specifically, CD3+, CD4, CD8+ T cells counts were always below normal range, and CD19+ B cells count dropped below normal range from day 12 and CD16+56+ NK cells count dropped below normal range from day 16. Simultaneously, Patient 1 received oxygen support through oxygen mask (5 L/min) and even high flow oxygen (Figure 1A) due to hypoxemia. However, oximetry saturation (SaO2) were still below 95% and not recovered. On day 15, invasive mechanical ventilation was used on him due to sudden respiratory failure, while it didn\u2019t work and the patient died at day 24. Patient 2 had sustained decrease in all types of immune cells at the first six days below normal range (Figure 1B) and hypoxemia. Oxygen mask and high flow oxygen were used to correct the hypoxemia, but the SaO2 was almost decreased along the way from day 6 (Figure 1B). Eventually, Patient 2 died at day 13. In Patient 3, CD3+, CD4+, CD8+ T cells were obviously decreased below normal range and CD3+, CD4+ T cells presented a sustained decline from day 4 (Figure 1C). Additionally, during the oxygen support (oxygen mask, > 5 L/min), the SaO2 of this patient was oddly declined. From day 8, noninvasive mechanical ventilation was used but didn\u2019t work (Figure 1C). The patient presented a progressive and refractory hypoxemia, and died on day 12. From these results, we found that all patients had immunodepletion and refractory hypoxemia. Interestingly, the phenomenon of immunodepletion appeared earlier than refractory hypoxemia in patients during the progression of COVID-2019 pneumonia.",
+            "Analysis of gut microbes of COVID-19 patients Through the NTS test, we analyzed the gut microbiota at the level of phylum and genus on 3 anal swab samples from Patient 1 and Patient 3. The data of healthy human intestinal microbiota were imported from Arumugam M's research[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]. The analysis results showed that no typical pathogens detected in the two patients, such as Clostridium difficile, however the structure of the gut microbiota fluctuated greatly both in bacteria and fungi (Table 2). Firstly, Patient 1's Actinobacteria was significantly higher than health cohort both in the test of two days in a row. The proportion of Actinobacteria in bacteria of patient 1 for two consecutive days are 70.7% and 44.17%, respectively. The abundance of Actinobacteria increase in patient 1 was mainly triggered by the significant increase in Corynebacterium (77.12%, 44.67%) at the level of genus. In addition, Kluyveromyces dominates the intestinal fungal flora of this patient, which the proportion of fungi for 2 day are 93.4% and 99.26%. Similarly, the proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72% mainly because of the increase of Ruthenibacterium (35.12%) at the genus level, which is significantly higher than that of health cohort (P<0.0001). At the same time, the Aspergillus (59.41%) dominates the intestinal fungal flora of this patient. Overall, all data are significantly different from healthy human gut microbiota (P <0.001)."
+        ],
+        "Discussion": [
+            "In this study, we revealed the clinical characteristics of 3 critical patients with",
+            "COVID-2019, and found that (1) hypoxemia severity was strongly correlated to the expression levels of immune cells, which indicated that immuno-depletion may well be a key risk factor in the development of COVID-2019, and (2) the imbalance of gut microbiota was also found in these critical patients, which may lead to microbial translocation and a second infection.",
+            "The balance between virus and host immunity is closely associated with the outcome of an infection. Clinical studies have shown that coronavirus infection severity was linked to patient health status and an immunocompromised state carried an increased risk of death[<a class=\"ref-link\" id=\"c6\" href=\"#r6\">6</a>, <a class=\"ref-link\" id=\"c7\" href=\"#r7\">7</a>]. It was also demonstrated that the immunosuppressed rhesus macaques had markedly increased MERS-Coronavirus replication in the lung, suggesting the inability in virus clearance[<a class=\"ref-link\" id=\"c8\" href=\"#r8\">8</a>]. Although the phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis and Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the dynamic changes of immune cells and the relation between levels of immune cells and the severity of hypoxemia are still unknown. Consistently, in these critical patients with COVID-2019, we found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome. Furthermore, evidence have identified the adverse effects of coronavirus on host immune system[<a class=\"ref-link\" id=\"c10\" href=\"#r10\">10</a>, <a class=\"ref-link\" id=\"c11\" href=\"#r11\">11</a>]. Thus, reasons of the immuno-depletion state in these critical patients may be associated with excessive consumption of immune cells, as well as virus-induced immune organs injury.",
+            "Multiple studies have demonstrated the interaction between immune system and gut microbiota, and gut microbiota homeostasis is modulated by the immune system[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]. It was shown that a variety of immune factors was capable of altering gut microbiota homeostasis balance, such as IL-10, IL-23, NLRP6, NOD-like receptor protein 3, and IgA13. And the imbalance or dysbiosis in gut microbiota would contribute to an enhanced mucosal permeability and thus leading to microbial translocation and a second infection. Moreover, gut microbiota was able to modulate the immune response and played an important role in immune-mediated diseases, suggesting a vicious circle between immune disorder and gut microbiota imbalance[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. All these findings indicated that the balance of gut microbiota can be disrupted in case of coronavirus infection due to the immune disorder. In this study, we further identified the changes in gut microbiota during the novel coronavirus infection and found that (1) the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and (2) the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes. In addition, we also found that the fungi in the gut microbiota of the two patients are not common fungi in healthy cohort (eg. Candida and Saccharomyces cerevisiae), some rare fungi dominate the fungal of gut microbiota, such as Aspergillus, Kluyveromyces. Insight into which species of the microbiota are altered by immune-depletion associated with novel coronavirus infection can help us have a better understanding of the characteristics of COVID-2019.",
+            "Based on our findings, we suggested that the early interventions of host immune system and gut microbiota are necessary for COVID-2019 patients with refractory hypoxia. For these critical patients, extracorporeal membrane oxygenation (ECMO) therapy also should be supported early to ameliorate the symptom of refractory hypoxia. In conclusion, we discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019. Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia."
+        ],
+        "Conflict of Interests": [
+            "The authors declare no conflict of interest."
+        ],
+        "Acknowledgement": [
+            "This work was supported by grants from the National Key R&D Program of China [2017YFC1307800].",
+            "Reference 1. de Wilde AH, Snijder EJ, Kikkert M, ,et al Host Factors in Coronavirus Replication. Curr Top Microbiol Immunol 2018;419:1-42. 2. Wathelet MG, Orr M, Frieman MB, Baric RS. Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] and rational design of an attenuated strain. J Virol 2007;81:11620-33. 3. Shi CS, Qi HY, Boularan C, et al SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome. J Immunol 2014;193:3080-9. 4. National Health Commission of China. Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version sixth). Feb 18,2020. http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/fi les/b218cfeb1bc54639af227f922bf6b817.pdf (accessed Mar 4, 2020; in Chinese). 5. Arumugam M, Raes J, Pelletier E, et al Enterotypes of the human gut microbiome[J]. nature, 2011, 473(7346): 174-180. 6. Uhlenhaut C, Cohen JI, Pavletic S, et al Use of a novel virus detection assay to identify coronavirus HKU1 in the lungs of a hematopoietic stem cell transplant recipient with fatal pneumonia. Transpl Infect Dis 2012;14:79-85. 7. Ogimi C, Englund JA, Bradford MC, et al Characteristics and Outcomes of Coronavirus Infection in Children: The Role of Viral Factors and an Immunocompromised State. J Pediatric Infect Dis Soc 2019;8:21-8. 8. Prescott J, Falzarano D, de Wit E, et al Pathogenicity and Viral Shedding of MERS-CoV in Immunocompromised Rhesus Macaques. Front Immunol 2018;9:205.",
+            "9. National Health Commission of China. Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version seven). Mar 4, 2020. 10. Wathelet MG, Orr M, Frieman MB, Baric RS. Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp[<a class=\"ref-link\" id=\"c1\" href=\"#r1\">1</a>] and rational design of an attenuated strain. J Virol 2007;81:11620-33. 11. Shi CS, Qi HY, Boularan C, et al SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome. J Immunol 2014;193:3080-9. 12. Vyboh K, Jenabian MA, Mehraj V, Routy JP. HIV and the gut microbiota, partners in crime: breaking the vicious cycle to unearth new therapeutic targets. J Immunol Res 2015;2015:614127. 13. Ray A, Dittel BN. Interrelatedness between dysbiosis in the gut microbiota due to immunodeficiency and disease penetrance of colitis. Immunology 2015;146:359-68. 14. Rooks MG, Garrett WS. Gut microbiota, metabolites and host immunity. Nat Rev Immunol 2016;16:341-52."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "critical patients with refractory hypoxemia",
+            "number": 3,
+            "context": "Although its basic clinical features have been reported, the dynamic characteristics of immune system in COVID-2019 patients, especially those critical patients with refractory hypoxemia, are not yet well understood. <mark class=\"stats\">We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient</mark>. Methods This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, a COVID-2019 designated hospital in Wuhan, from January 31 to February 6, 2020"
+        },
+        {
+            "participant": "patients with 2019-nCoV infection admitted to Renmin Hospital",
+            "number": 3,
+            "context": "We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient. <mark class=\"stats\">Methods This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, a COVID-2019 designated hospital in Wuhan, from January 31 to February 6, 2020</mark>. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (6th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 4,
+            "context": "Nanopore Targeted Sequencing was used to determine the alterations of gut microbiota homeostasis. <mark class=\"stats\">Results Apart from the clinical features described previously[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>], we found that four patients had decreased immune cells and refractory hypoxemia during the hospitalization, and the severity of hypoxemia was strongly correlated to the expression levels of immune cells</mark>. Additionally, we found that the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes"
+        },
+        {
+            "participant": "critical patients with COVID-2019",
+            "number": 3,
+            "context": "Notably, all patients died. <mark class=\"stats\">Conclusions We discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019</mark>. Hypoxemia"
+        },
+        {
+            "participant": "patients with 2019-nCoV infection admitted to Renmin Hospital",
+            "number": 3,
+            "context": "Hypoxemia. <mark class=\"stats\">Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020</mark>. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (7th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Positive confirmatory COVID-2019 patients were defined as those with both positive tests of 2019n-CoV open reading frame 1ab (2019n-CoV ORF1ab) and 2019n-Cov nucleocapsid protein gene (2019n-Cov N gene). <mark class=\"stats\">Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers</mark>. ECG monitors were used to record daily oximetry saturation of three patients"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers. <mark class=\"stats\">ECG monitors were used to record daily oximetry saturation of three patients</mark>. The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and also CD16+56+ NK cells in the periphery blood.Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020"
+        },
+        {
+            "participant": "patients with 2019-nCoV infection admitted to Renmin Hospital",
+            "number": 3,
+            "context": "ECG monitors were used to record daily oximetry saturation of three patients. <mark class=\"stats\">The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and also CD16+56+ NK cells in the periphery blood.Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020</mark>. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (7th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers. <mark class=\"stats\">ECG monitors were used to record daily oximetry saturation of three patients</mark>. The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and also CD16+56+ NK cells in the periphery blood"
+        },
+        {
+            "participant": "critical patients with refractory hypoxemia",
+            "number": 3,
+            "context": "Hypoxemia. <mark class=\"stats\">In this study, we aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels</mark>. We hope to reveal that immuno-depletion carries a higher risk of death for COVID-2019 patients"
+        },
+        {
+            "participant": "patients with 2019-nCoV infection admitted to Renmin Hospital",
+            "number": 3,
+            "context": "We hope to reveal that immuno-depletion carries a higher risk of death for COVID-2019 patients. <mark class=\"stats\">Methods Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020</mark>. All patients were diagnosed and classified based on the Diagnosis and Treatment of New Coronavirus Pneumonia (7th edition) published by the National Health Commission of China[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]"
+        },
+        {
+            "participant": "male adult patients",
+            "number": 3,
+            "context": "P values < 0.05 were considered significant. <mark class=\"stats\">Results Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to Renmin Hospital of Wuhan University on January 31, February 1 and 6, 2020 (Patient 1, Patient 2, Patient 3, respectively)</mark>. The mean age of these patients are 74.3 \u00b1 8.1 years"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Patient 1 also experienced intravenous immunoglobulin therapy from day 11 of hospitalization (Table 1). <mark class=\"stats\">Notably, three patients died on day 24, 13, 12 of hospitalization, respectively</mark>. Dynamic changes of immune cells and oximetry saturation surveillance To determine the dynamic changes of different immune cells in all patients, we analyzed the levels of CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells and CD16+56+ NK cells in the peripheral blood of three patients at different time points during the hospitalization"
+        },
+        {
+            "participant": "patients",
+            "number": 3,
+            "context": "Notably, three patients died on day 24, 13, 12 of hospitalization, respectively. <mark class=\"stats\">Dynamic changes of immune cells and oximetry saturation surveillance To determine the dynamic changes of different immune cells in all patients, we analyzed the levels of CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells and CD16+56+ NK cells in the peripheral blood of three patients at different time points during the hospitalization</mark>. As shown in Figure 1A, Patient 1 had sustained decrease in all types of immune cells during the course"
+        },
+        {
+            "participant": "anal swab samples",
+            "number": 3,
+            "context": "Interestingly, the phenomenon of immunodepletion appeared earlier than refractory hypoxemia in patients during the progression of COVID-2019 pneumonia. <mark class=\"stats\">Analysis of gut microbes of COVID-19 patients Through the NTS test, we analyzed the gut microbiota at the level of phylum and genus on 3 anal swab samples from Patient 1 and Patient 3</mark>. The data of healthy human intestinal microbiota were imported from Arumugam M's research[<a class=\"ref-link\" id=\"c5\" href=\"#r5\">5</a>]"
+        },
+        {
+            "participant": "patients",
+            "number": 2,
+            "context": "The data of healthy human intestinal microbiota were imported from Arumugam M's research5. <mark class=\"stats\">The analysis results showed that no typical pathogens detected in the two patients, such as Clostridium difficile, however the structure of the gut microbiota fluctuated greatly both in bacteria and fungi (Table 2)</mark>. Firstly, Patient 1's Actinobacteria was significantly higher than health cohort both in the test of two days in a row"
+        },
+        {
+            "participant": "critical patients",
+            "number": 3,
+            "context": "Overall, all data are significantly different from healthy human gut microbiota (P <0.001). <mark class=\"stats\">Discussion In this study, we revealed the clinical characteristics of 3 critical patients with</mark>. COVID-2019, and found that (1) hypoxemia severity was strongly correlated to the expression levels of immune cells, which indicated that immuno-depletion may well be a key risk factor in the development of COVID-2019, and (2) the imbalance of gut microbiota was also found in these critical patients, which may lead to microbial translocation and a second infection"
+        },
+        {
+            "participant": "patients",
+            "number": 2,
+            "context": "In this study, we further identified the changes in gut microbiota during the novel coronavirus infection and found that (1) the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and (2) the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes. <mark class=\"stats\">In addition, we also found that the fungi in the gut microbiota of the two patients are not common fungi in healthy cohort (eg</mark>. Candida and Saccharomyces cerevisiae), some rare fungi dominate the fungal of gut microbiota, such as Aspergillus, Kluyveromyces"
+        },
+        {
+            "participant": "critical patients with COVID-2019",
+            "number": 3,
+            "context": "For these critical patients, extracorporeal membrane oxygenation (ECMO) therapy also should be supported early to ameliorate the symptom of refractory hypoxia. <mark class=\"stats\">In conclusion, we discussed the dynamic characteristics of host immune system and the imbalance of gut microbiota in 3 critical patients with COVID-2019</mark>. Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">To compare the differences in the gut microbiota between patients with health cohort which data were imported from Arumugam M's5 research Comparative analysis was conducted by two tailed T test, Data analyses were performed using SPSS 23.0 software</mark>",
+                "tests": [
+                    {
+                        "test": "two tailed"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "P<0.0001",
+            "context": "In addition, Kluyveromyces dominates the intestinal fungal flora of this patient, which the proportion of fungi for 2 day are 93.4% and 99.26%. <mark class=\"stats\">Similarly, the proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72% mainly because of the increase of Ruthenibacterium (35.12%) at the genus level, which is significantly higher than that of health cohort (P<0.0001)</mark>. At the same time, the Aspergillus (59.41%) dominates the intestinal fungal flora of this patient"
+        },
+        {
+            "p_value": "P <0.001",
+            "context": "At the same time, the Aspergillus (59.41%) dominates the intestinal fungal flora of this patient. <mark class=\"stats\">Overall, all data are significantly different from healthy human gut microbiota (P <0.001)</mark>. Discussion In this study, we revealed the clinical characteristics of 3 critical patients with"
+        }
+    ],
+    "keywords": [
+        "clinical feature",
+        "immune system",
+        "eubacterium",
+        "t cell",
+        "immune cell level",
+        "pathogenic bacteria",
+        "Coronavirus disease",
+        "global public health emergency",
+        "coronavirus infection",
+        "national health commission",
+        "actinobacteria",
+        "homeostasis",
+        "SARS",
+        "hypoxemia severity",
+        "high risk",
+        "coronavirus pneumonia",
+        "dynamic characteristics",
+        "gut microbiota",
+        "new coronavirus pneumonia",
+        "critical patient",
+        "fatal pneumonia",
+        "extracorporeal membrane oxygenation",
+        "expression level",
+        "COVID",
+        "pneumonia",
+        "refractory hypoxemia",
+        "clinical characteristics",
+        "host immunity",
+        "C-reactive protein",
+        "host immune"
+    ],
+    "keyword_relevance": {
+        "gut microbiota": 0.15862068965517243,
+        "COVID": 0.13793103448275862,
+        "critical patient": 0.08275862068965517,
+        "immune system": 0.06896551724137931,
+        "pneumonia": 0.05517241379310345,
+        "refractory hypoxemia": 0.05517241379310345,
+        "host immune": 0.04827586206896552,
+        "immune cell level": 0.034482758620689655,
+        "coronavirus infection": 0.034482758620689655,
+        "dynamic characteristics": 0.034482758620689655,
+        "host immunity": 0.034482758620689655,
+        "SARS": 0.027586206896551724,
+        "high risk": 0.027586206896551724,
+        "fatal pneumonia": 0.027586206896551724,
+        "clinical feature": 0.020689655172413793,
+        "homeostasis": 0.020689655172413793,
+        "hypoxemia severity": 0.020689655172413793,
+        "expression level": 0.020689655172413793,
+        "clinical characteristics": 0.020689655172413793,
+        "pathogenic bacteria": 0.013793103448275862,
+        "global public health emergency": 0.013793103448275862,
+        "coronavirus pneumonia": 0.013793103448275862,
+        "extracorporeal membrane oxygenation": 0.013793103448275862,
+        "C-reactive protein": 0.013793103448275862,
+        "eubacterium": 0.0,
+        "t cell": 0.0,
+        "Coronavirus disease": 0.0,
+        "national health commission": 0.0,
+        "actinobacteria": 0.0,
+        "new coronavirus pneumonia": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> As of Feb 29, 2020, more than 80000 cases have been confirmed in China and other countries, including South Korea, Japan, Italy, and Iran.",
+        "The authors aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels.",
+        "The authors aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient.",
+        "To the best of the knowledge, this is the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype of COVID-2019 and the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia",
+        "<h2 style=\"display: inline\">Methods:</h2> Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020.",
+        "The authors recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail.",
+        "This study was reviewed and approved by the Medical Ethical Committee of Renmin Hospital of Wuhan University.",
+        "Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers.",
+        "The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and CD16+56+ NK cells in the periphery blood",
+        "<h2 style=\"display: inline\">Results:</h2> Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to Renmin Hospital of Wuhan University on January 31, February 1 and 6, 2020 (Patient 1, Patient 2, Patient 3, respectively).",
+        "Patient 2 had sustained decrease in all types of immune cells at the first six days below normal range (Figure 1B) and hypoxemia.",
+        "In Patient 3, CD3+, CD4+, CD8+ T cells were obviously decreased below normal range and CD3+, CD4+ T cells presented a sustained decline from day 4 (Figure 1C).",
+        "The proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72% mainly because of the increase of Ruthenibacterium (35.12%) at the genus level, which is significantly higher than that of health cohort (P<0.0001).",
+        "All data are significantly different from healthy human gut microbiota (P <0.001)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> The authors revealed the clinical characteristics of 3 critical patients with<br/><br/>COVID-2019, and found that (1) hypoxemia severity was strongly correlated to the expression levels of immune cells, which indicated that immuno-depletion may well be a key risk factor in the development of COVID-2019, and (2) the imbalance of gut microbiota was found in these critical patients, which may lead to microbial translocation and a second infection.<br/><br/>The balance between virus and host immunity is closely associated with the outcome of an infection.",
+        "The phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis and Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the dynamic changes of immune cells and the relation between levels of immune cells and the severity of hypoxemia are still unknown",
+        "In these critical patients with COVID-2019, the authors found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome.",
+        "Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "As of Feb 29, 2020, more than 80000 cases have been confirmed in China and other countries, including South Korea, Japan, Italy, and Iran.",
+            "The authors aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels.",
+            "The authors aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient.",
+            "To the best of the knowledge, this is the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype of COVID-2019 and the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia"
+        ],
+        "Methods": [
+            "Patients This is a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University, Wuhan, China, from January 31, 2020 to February 6, 2020.",
+            "The authors recorded the epidemiological history, demographic features, clinical characteristics, symptoms and signs, treatment and clinical outcome in detail.",
+            "This study was reviewed and approved by the Medical Ethical Committee of Renmin Hospital of Wuhan University.",
+            "Blood samples were collected from three patients at different time to determine the blood routine, coagulation function, blood biochemistry and inflammation-related markers.",
+            "The lymphocyte test kit (Beckman Coulter Inc., FL, USA) were used to analyze the lymphocyte subsets including CD3+ T cells, CD4+ T cells, CD8+ T cells, CD19+ B cells, and CD16+56+ NK cells in the periphery blood"
+        ],
+        "Results": [
+            "Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to Renmin Hospital of Wuhan University on January 31, February 1 and 6, 2020 (Patient 1, Patient 2, Patient 3, respectively).",
+            "Patient 2 had sustained decrease in all types of immune cells at the first six days below normal range (Figure 1B) and hypoxemia.",
+            "In Patient 3, CD3+, CD4+, CD8+ T cells were obviously decreased below normal range and CD3+, CD4+ T cells presented a sustained decline from day 4 (Figure 1C).",
+            "The proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72% mainly because of the increase of Ruthenibacterium (35.12%) at the genus level, which is significantly higher than that of health cohort (P<0.0001).",
+            "All data are significantly different from healthy human gut microbiota (P <0.001)"
+        ],
+        "Conclusion": [
+            "The authors revealed the clinical characteristics of 3 critical patients with<br/><br/>COVID-2019, and found that (1) hypoxemia severity was strongly correlated to the expression levels of immune cells, which indicated that immuno-depletion may well be a key risk factor in the development of COVID-2019, and (2) the imbalance of gut microbiota was found in these critical patients, which may lead to microbial translocation and a second infection.<br/><br/>The balance between virus and host immunity is closely associated with the outcome of an infection.",
+            "The phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis and Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the dynamic changes of immune cells and the relation between levels of immune cells and the severity of hypoxemia are still unknown",
+            "In these critical patients with COVID-2019, the authors found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome.",
+            "Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "2",
+            "alt_id": "Wathelet_et+al_2007_a",
+            "entry": "2. Wathelet MG, Orr M, Frieman MB, Baric RS. Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp1 and rational design of an attenuated strain. J Virol 2007;81:11620-33.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wathelet%2C%20M.G.%20Orr%2C%20M.%20Frieman%2C%20M.B.%20Baric%2C%20R.S.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20evades%20antiviral%20signaling%3A%20role%20of%20nsp1%20and%20rational%20design%20of%20an%20attenuated%20strain%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wathelet%2C%20M.G.%20Orr%2C%20M.%20Frieman%2C%20M.B.%20Baric%2C%20R.S.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20evades%20antiviral%20signaling%3A%20role%20of%20nsp1%20and%20rational%20design%20of%20an%20attenuated%20strain%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wathelet%2C%20M.G.%20Orr%2C%20M.%20Frieman%2C%20M.B.%20Baric%2C%20R.S.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20evades%20antiviral%20signaling%3A%20role%20of%20nsp1%20and%20rational%20design%20of%20an%20attenuated%20strain%202007"
+        },
+        {
+            "id": "3",
+            "alt_id": "Shi_et+al_2014_a",
+            "entry": "3. Shi CS, Qi HY, Boularan C, et al. SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome. J Immunol 2014;193:3080-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shi%2C%20C.S.%20Qi%2C%20H.Y.%20Boularan%2C%20C.%20SARS-coronavirus%20open%20reading%20frame-9b%20suppresses%20innate%20immunity%20by%20targeting%20mitochondria%20and%20the%20MAVS/TRAF3/TRAF6%20signalosome%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shi%2C%20C.S.%20Qi%2C%20H.Y.%20Boularan%2C%20C.%20SARS-coronavirus%20open%20reading%20frame-9b%20suppresses%20innate%20immunity%20by%20targeting%20mitochondria%20and%20the%20MAVS/TRAF3/TRAF6%20signalosome%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shi%2C%20C.S.%20Qi%2C%20H.Y.%20Boularan%2C%20C.%20SARS-coronavirus%20open%20reading%20frame-9b%20suppresses%20innate%20immunity%20by%20targeting%20mitochondria%20and%20the%20MAVS/TRAF3/TRAF6%20signalosome%202014"
+        },
+        {
+            "id": "4",
+            "alt_id": "4._0000_a",
+            "entry": "4. National Health Commission of China. Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version sixth). Feb 18,2020. http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/fi les/b218cfeb1bc54639af227f922bf6b817.pdf (accessed Mar 4, 2020; in Chinese).",
+            "url": "http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/fi"
+        },
+        {
+            "id": "5",
+            "alt_id": "Arumugam_et+al_2011_a",
+            "entry": "5. Arumugam M, Raes J, Pelletier E, et al. Enterotypes of the human gut microbiome[J]. nature, 2011, 473(7346): 174-180.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Arumugam%2C%20M.%20Raes%2C%20J.%20Pelletier%2C%20E.%20Enterotypes%20of%20the%20human%20gut%20microbiome%5BJ%5D%202011"
+        },
+        {
+            "id": "6",
+            "alt_id": "Uhlenhaut_et+al_2012_a",
+            "entry": "6. Uhlenhaut C, Cohen JI, Pavletic S, et al. Use of a novel virus detection assay to identify coronavirus HKU1 in the lungs of a hematopoietic stem cell transplant recipient with fatal pneumonia. Transpl Infect Dis 2012;14:79-85.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Uhlenhaut%2C%20C.%20Cohen%2C%20J.I.%20Pavletic%2C%20S.%20Use%20of%20a%20novel%20virus%20detection%20assay%20to%20identify%20coronavirus%20HKU1%20in%20the%20lungs%20of%20a%20hematopoietic%20stem%20cell%20transplant%20recipient%20with%20fatal%20pneumonia%202012",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Uhlenhaut%2C%20C.%20Cohen%2C%20J.I.%20Pavletic%2C%20S.%20Use%20of%20a%20novel%20virus%20detection%20assay%20to%20identify%20coronavirus%20HKU1%20in%20the%20lungs%20of%20a%20hematopoietic%20stem%20cell%20transplant%20recipient%20with%20fatal%20pneumonia%202012",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Uhlenhaut%2C%20C.%20Cohen%2C%20J.I.%20Pavletic%2C%20S.%20Use%20of%20a%20novel%20virus%20detection%20assay%20to%20identify%20coronavirus%20HKU1%20in%20the%20lungs%20of%20a%20hematopoietic%20stem%20cell%20transplant%20recipient%20with%20fatal%20pneumonia%202012"
+        },
+        {
+            "id": "7",
+            "alt_id": "Ogimi_et+al_2019_a",
+            "entry": "7. Ogimi C, Englund JA, Bradford MC, et al. Characteristics and Outcomes of Coronavirus Infection in Children: The Role of Viral Factors and an Immunocompromised State. J Pediatric Infect Dis Soc 2019;8:21-8.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ogimi%2C%20C.%20Englund%2C%20J.A.%20Bradford%2C%20M.C.%20Characteristics%20and%20Outcomes%20of%20Coronavirus%20Infection%20in%20Children%3A%20The%20Role%20of%20Viral%20Factors%20and%20an%20Immunocompromised%20State%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ogimi%2C%20C.%20Englund%2C%20J.A.%20Bradford%2C%20M.C.%20Characteristics%20and%20Outcomes%20of%20Coronavirus%20Infection%20in%20Children%3A%20The%20Role%20of%20Viral%20Factors%20and%20an%20Immunocompromised%20State%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ogimi%2C%20C.%20Englund%2C%20J.A.%20Bradford%2C%20M.C.%20Characteristics%20and%20Outcomes%20of%20Coronavirus%20Infection%20in%20Children%3A%20The%20Role%20of%20Viral%20Factors%20and%20an%20Immunocompromised%20State%202019"
+        },
+        {
+            "id": "8",
+            "alt_id": "Prescott_et+al_2018_a",
+            "entry": "8. Prescott J, Falzarano D, de Wit E, et al. Pathogenicity and Viral Shedding of MERS-CoV in Immunocompromised Rhesus Macaques. Front Immunol 2018;9:205.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Prescott%2C%20J.%20Falzarano%2C%20D.%20de%20Wit%2C%20E.%20Pathogenicity%20and%20Viral%20Shedding%20of%20MERS-CoV%20in%20Immunocompromised%20Rhesus%20Macaques%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Prescott%2C%20J.%20Falzarano%2C%20D.%20de%20Wit%2C%20E.%20Pathogenicity%20and%20Viral%20Shedding%20of%20MERS-CoV%20in%20Immunocompromised%20Rhesus%20Macaques%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Prescott%2C%20J.%20Falzarano%2C%20D.%20de%20Wit%2C%20E.%20Pathogenicity%20and%20Viral%20Shedding%20of%20MERS-CoV%20in%20Immunocompromised%20Rhesus%20Macaques%202018"
+        },
+        {
+            "id": "9",
+            "alt_id": "9._2020_a",
+            "entry": "9. National Health Commission of China. Guidelines for the diagnosis and treatment of novel coronavirus pneumonia (trial version seven). Mar 4, 2020.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=National%20Health%20Commission%20of%20China%20Guidelines%20for%20the%20diagnosis%20and%20treatment%20of%20novel%20coronavirus%20pneumonia%20trial%20version%20seven%20Mar%204%202020"
+        },
+        {
+            "id": "10",
+            "alt_id": "Wathelet_et+al_2007_b",
+            "entry": "10. Wathelet MG, Orr M, Frieman MB, Baric RS. Severe acute respiratory syndrome coronavirus evades antiviral signaling: role of nsp1 and rational design of an attenuated strain. J Virol 2007;81:11620-33.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wathelet%2C%20M.G.%20Orr%2C%20M.%20Frieman%2C%20M.B.%20Baric%2C%20R.S.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20evades%20antiviral%20signaling%3A%20role%20of%20nsp1%20and%20rational%20design%20of%20an%20attenuated%20strain%202007",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wathelet%2C%20M.G.%20Orr%2C%20M.%20Frieman%2C%20M.B.%20Baric%2C%20R.S.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20evades%20antiviral%20signaling%3A%20role%20of%20nsp1%20and%20rational%20design%20of%20an%20attenuated%20strain%202007",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wathelet%2C%20M.G.%20Orr%2C%20M.%20Frieman%2C%20M.B.%20Baric%2C%20R.S.%20Severe%20acute%20respiratory%20syndrome%20coronavirus%20evades%20antiviral%20signaling%3A%20role%20of%20nsp1%20and%20rational%20design%20of%20an%20attenuated%20strain%202007"
+        },
+        {
+            "id": "11",
+            "alt_id": "Shi_et+al_2014_b",
+            "entry": "11. Shi CS, Qi HY, Boularan C, et al. SARS-coronavirus open reading frame-9b suppresses innate immunity by targeting mitochondria and the MAVS/TRAF3/TRAF6 signalosome. J Immunol 2014;193:3080-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Shi%2C%20C.S.%20Qi%2C%20H.Y.%20Boularan%2C%20C.%20SARS-coronavirus%20open%20reading%20frame-9b%20suppresses%20innate%20immunity%20by%20targeting%20mitochondria%20and%20the%20MAVS/TRAF3/TRAF6%20signalosome%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Shi%2C%20C.S.%20Qi%2C%20H.Y.%20Boularan%2C%20C.%20SARS-coronavirus%20open%20reading%20frame-9b%20suppresses%20innate%20immunity%20by%20targeting%20mitochondria%20and%20the%20MAVS/TRAF3/TRAF6%20signalosome%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Shi%2C%20C.S.%20Qi%2C%20H.Y.%20Boularan%2C%20C.%20SARS-coronavirus%20open%20reading%20frame-9b%20suppresses%20innate%20immunity%20by%20targeting%20mitochondria%20and%20the%20MAVS/TRAF3/TRAF6%20signalosome%202014"
+        },
+        {
+            "id": "12",
+            "alt_id": "Vyboh_et+al_2015_a",
+            "entry": "12. Vyboh K, Jenabian MA, Mehraj V, Routy JP. HIV and the gut microbiota, partners in crime: breaking the vicious cycle to unearth new therapeutic targets. J Immunol Res 2015;2015:614127.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Vyboh%2C%20K.%20Jenabian%2C%20M.A.%20Mehraj%2C%20V.%20Routy%2C%20J.P.%20HIV%20and%20the%20gut%20microbiota%2C%20partners%20in%20crime%3A%20breaking%20the%20vicious%20cycle%20to%20unearth%20new%20therapeutic%20targets%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Vyboh%2C%20K.%20Jenabian%2C%20M.A.%20Mehraj%2C%20V.%20Routy%2C%20J.P.%20HIV%20and%20the%20gut%20microbiota%2C%20partners%20in%20crime%3A%20breaking%20the%20vicious%20cycle%20to%20unearth%20new%20therapeutic%20targets%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Vyboh%2C%20K.%20Jenabian%2C%20M.A.%20Mehraj%2C%20V.%20Routy%2C%20J.P.%20HIV%20and%20the%20gut%20microbiota%2C%20partners%20in%20crime%3A%20breaking%20the%20vicious%20cycle%20to%20unearth%20new%20therapeutic%20targets%202015"
+        },
+        {
+            "id": "13",
+            "alt_id": "Ray_2015_a",
+            "entry": "13. Ray A, Dittel BN. Interrelatedness between dysbiosis in the gut microbiota due to immunodeficiency and disease penetrance of colitis. Immunology 2015;146:359-68.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ray%2C%20A.%20Dittel%2C%20B.N.%20Interrelatedness%20between%20dysbiosis%20in%20the%20gut%20microbiota%20due%20to%20immunodeficiency%20and%20disease%20penetrance%20of%20colitis%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ray%2C%20A.%20Dittel%2C%20B.N.%20Interrelatedness%20between%20dysbiosis%20in%20the%20gut%20microbiota%20due%20to%20immunodeficiency%20and%20disease%20penetrance%20of%20colitis%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ray%2C%20A.%20Dittel%2C%20B.N.%20Interrelatedness%20between%20dysbiosis%20in%20the%20gut%20microbiota%20due%20to%20immunodeficiency%20and%20disease%20penetrance%20of%20colitis%202015"
+        },
+        {
+            "id": "14",
+            "alt_id": "Rooks_2016_a",
+            "entry": "14. Rooks MG, Garrett WS. Gut microbiota, metabolites and host immunity. Nat Rev Immunol 2016;16:341-52.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Rooks%2C%20M.G.%20Garrett%2C%20W.S.%20Gut%20microbiota%2C%20metabolites%20and%20host%20immunity%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Rooks%2C%20M.G.%20Garrett%2C%20W.S.%20Gut%20microbiota%2C%20metabolites%20and%20host%20immunity%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Rooks%2C%20M.G.%20Garrett%2C%20W.S.%20Gut%20microbiota%2C%20metabolites%20and%20host%20immunity%202016"
+        }
+    ],
+    "facts": [
+        "a retrospective study from 3 patients with 2019-nCoV infection admitted to Renmin Hospital of Wuhan University",
+        "Treatment of New Coronavirus Pneumonia published by the National Health Commission of China4",
+        "Nanopore Targeted Sequencing was used to determine the alterations of gut microbiota homeostasis",
+        "the severity of hypoxemia was strongly correlated to the expression levels of immune cells",
+        "more than 80000 cases have been confirmed in China",
+        "Host immune response is essential for the clearance of coronavirus infection",
+        "the balance between coronavirus and host immunity is key to viral pathogenesis",
+        "that immuno-depletion carries a higher risk of death for COVID-2019 patients",
+        "Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[4",
+        "Hypoxemia severity was closely related with host immune cell levels",
+        "the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia",
+        "the first study which revealing that immunodepletion with refractory hypoxemia is a potential high risk subtype",
+        "the vicious circle between immune disorder and gut dysbiosis may be a high risk of fatal pneumonia",
+        "Blood samples were collected from three patients at different time to determine the blood routine",
+        "Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to",
+        "Patient 1 had a medical history of prostatic hyperplasia",
+        "Laboratory findings show that C-reactive protein were obviously increased in all patients",
+        "increased procalcitonin were observed in Patient 2",
+        "three patients died on day 24",
+        "Dynamic changes of immune cells and oximetry saturation surveillance To determine the dynamic changes of different immune cells in all patients",
+        "B cells count dropped below normal range from day 12",
+        "NK cells count dropped below normal range from day 16",
+        "the patient died at day 24",
+        "the SaO2 was almost decreased along the way from day 6",
+        "Patient 2 died at day 13",
+        "T cells were obviously decreased below normal range",
+        "T cells presented a sustained decline from day 4",
+        "The data of healthy human intestinal microbiota were imported from Arumugam M's research[5",
+        "The analysis results showed that no typical pathogens detected in the",
+        "Actinobacteria was significantly higher than health cohort",
+        "The abundance of Actinobacteria increase in patient 1 was mainly triggered by the significant increase in Corynebacterium",
+        "the proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72%",
+        "the phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis",
+        "Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[9",
+        "which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome",
+        "evidence have identified the adverse effects of coronavirus on host immune system[10",
+        "reasons of the immuno-depletion state in these critical patients may be associated with excessive consumption of immune cells",
+        "Multiple studies have demonstrated the interaction between immune system and gut microbiota",
+        "gut microbiota homeostasis is modulated by the immune system[12",
+        "that a variety of immune factors was capable of altering gut microbiota homeostasis balance",
+        "the imbalance or dysbiosis in gut microbiota would contribute to an enhanced mucosal permeability",
+        "these findings indicated that the balance of gut microbiota can be disrupted in case",
+        "some rare fungi dominate the fungal of gut microbiota",
+        "Insight into which species of the microbiota are altered by immune-depletion associated with novel coronavirus infection can help",
+        "that the early interventions of host immune system and gut microbiota are necessary for COVID-2019 patients with refractory hypoxia",
+        "extracorporeal membrane oxygenation therapy should be supported early to ameliorate the symptom of refractory hypoxia",
+        "The proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72%"
+    ],
+    "claims": [
+        "We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels, and the changes of gut microbes of COVID-2019 patient",
+        "Results Apart from the clinical features described previously4, we found that four patients had decreased immune cells and refractory hypoxemia during the hospitalization, and the severity of hypoxemia was strongly correlated to the expression levels of immune cells",
+        "We found that the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes",
+        "In this study, we aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels",
+        "From the collection of clinical features, we found that all patients reported fever and dyspnea (Table 1)",
+        "From these results, we found that all patients had immunodepletion and refractory hypoxemia",
+        "Discussion In this study, we revealed the clinical characteristics of 3 critical patients with",
+        "In these critical patients with COVID-2019, we found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome",
+        "In this study, we further identified the changes in gut microbiota during the novel coronavirus infection and found that (1) the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and (2) the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes",
+        "We also found that the fungi in the gut microbiota of the two patients are not common fungi in healthy cohort (eg",
+        "Based on our findings, we suggested that the early interventions of host immune system and gut microbiota are necessary for COVID-2019 patients with refractory hypoxia"
+    ],
+    "findings": [
+        "The proportion of Firmicutes in bacterial microbiota of patient 3 is as high as 81.72% mainly because of the increase of Ruthenibacterium (35.12%) at the genus level, which is significantly higher than that of health cohort (P<0.0001)",
+        "Overall, all data are significantly different from healthy human gut microbiota (P <0.001)"
+    ],
+    "processes": [],
+    "key_statements": [
+        "We aim to describe the dynamic characteristics of immune system in 3 critical patients with refractory hypoxemia, and discuss the relationship between hypoxemia severity and immune cell levels",
+        "Clinical presentation and laboratory findings Three male adult patients diagnosed with COVID-2019 pneumonia were admitted to Renmin Hospital of Wuhan University on January 31, February 1 and 6, 2020 (Patient 1, Patient 2, Patient 3, respectively)",
+        "Laboratory findings show that C-reactive protein (CRP) were obviously increased in all patients, and decreased lymphocyte counts and increased procalcitonin were observed in Patient 2 and 3 (Table 1)",
+        "CD3+, CD4, CD8+ T cells counts were always below normal range, and CD19+ B cells count dropped below normal range from day 12 and CD16+56+ NK cells count dropped below normal range from day 16",
+        "In Patient 3, CD3+, CD4+, CD8+ T cells were obviously decreased below normal range and CD3+, CD4+ T cells presented a sustained decline from day 4 (Figure 1C)",
+        "The phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis and Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the dynamic changes of immune cells and the relation between levels of immune cells and the severity of hypoxemia are still unknown",
+        "In these critical patients with COVID-2019, we found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome",
+        "Multiple studies have demonstrated the interaction between immune system and gut microbiota, and gut microbiota homeostasis is modulated by the immune system[<a class=\"ref-link\" id=\"c12\" href=\"#r12\">12</a>]",
+        "It was shown that a variety of immune factors was capable of altering gut microbiota homeostasis balance, such as IL-10, IL-23, NLRP6, NOD-like receptor protein 3, and IgA13",
+        "Gut microbiota was able to modulate the immune response and played an important role in immune-mediated diseases, suggesting a vicious circle between immune disorder and gut microbiota imbalance[<a class=\"ref-link\" id=\"c14\" href=\"#r14\">14</a>]. All these findings indicated that the balance of gut microbiota can be disrupted in case of coronavirus infection due to the immune disorder",
+        "We further identified the changes in gut microbiota during the novel coronavirus infection and found that (1) the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and (2) the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes",
+        "Candida and Saccharomyces cerevisiae), some rare fungi dominate the fungal of gut microbiota, such as Aspergillus, Kluyveromyces",
+        "Insight into which species of the microbiota are altered by immune-depletion associated with novel coronavirus infection can help us have a better understanding of the characteristics of COVID-2019",
+        "We suggested that the early interventions of host immune system and gut microbiota are necessary for COVID-2019 patients with refractory hypoxia",
+        "Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia"
+    ],
+    "top_statements": [
+        "As of Feb 29, 2020, more than 80000 cases have been confirmed in China and other countries, including South Korea, Japan, Italy, and Iran",
+        "The phenomenon of decreased lymphocytes in the periphery blood of COVID-2019 patients has been described in the latest 7th edition of the Diagnosis and Treatment of New Coronavirus Pneumonia published by the National Health Commission of China[<a class=\"ref-link\" id=\"c9\" href=\"#r9\">9</a>], the dynamic changes of immune cells and the relation between levels of immune cells and the severity of hypoxemia are still unknown",
+        "In these critical patients with COVID-2019, we found that the lower immune cell levels, the more serious hypoxia, which suggested that the imbalance between host immunity and coronavirus would lead to worse clinical outcome",
+        "We further identified the changes in gut microbiota during the novel coronavirus infection and found that (1) the proportion of probiotics was significantly reduced, such as Bifidobacterium, Lactobacillus, and Eubacterium, and (2) the proportion of conditioned pathogenic bacteria was significantly increased, such as Corynebacterium of Actinobacteria and Ruthenibacterium of Firmicutes",
+        "We suggested that the early interventions of host immune system and gut microbiota are necessary for COVID-2019 patients with refractory hypoxia",
+        "Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia"
+    ],
+    "headline": "Hypoxemia severity was closely related with host immune cell levels, and the vicious circle between immune disorder and gut microbiota imbalance may be a high risk of fatal pneumonia",
+    "contexts": [],
+    "abbreviations": {
+        "CRP": "C-reactive protein",
+        "ECMO": "extracorporeal membrane oxygenation"
+    }
+}

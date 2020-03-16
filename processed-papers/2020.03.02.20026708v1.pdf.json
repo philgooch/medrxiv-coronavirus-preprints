@@ -1,0 +1,874 @@
+{
+    "filename": "2020.03.02.20026708v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 937653,
+    "metadata": {
+        "title": "The effect of human mobility and control measures on the COVID-19 epidemic in China",
+        "author": "Moritz U.G. Kraemer,$, Chia-Hung Yang, Bernardo Gutierrez, Chieh-Hsi Wu, Brennan Klein, David M. Pigott, open COVID-19 data working group, Louis du Plessis, Nuno R. Faria, Ruoran Li, William P. Hanage, John S. Brownstein, Maylis Layan, Alessandro Vespignani, Huaiyu Tian10, Christopher Dye, Simon Cauchemez,$, Oliver G. Pybus,$, Samuel V. Scarpino,$",
+        "date": 2020,
+        "affiliations": [
+            "Department of Zoology, University of Oxford, United Kingdom",
+            "Harvard Medical School, Harvard University, Boston, United States",
+            "Boston Children\u2019s Hospital, Boston, United States",
+            "Network Science Institute, Northeastern University, Boston, United States",
+            "School of Biological and Environmental Sciences, Universidad San Francisco de Quito USFQ,",
+            "Mathematical Sciences, University of Southampton, Southampton, United Kingdom",
+            "Institute for Health Metrics and Evaluation, Department of Health Metrics, University of",
+            "Chan School of Public Health, Boston, United States",
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris,",
+            "State Key Laboratory of Remote Sensing Science, College of Global Change and Earth System",
+            "Beijing Normal University, Beijing, China"
+        ],
+        "journal": "Hubei",
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.02.20026708",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.02.20026708v1.pdf"
+        },
+        "abstract": "The ongoing COVID-19 outbreak has expanded rapidly throughout China. Major behavioral, clinical, and state interventions are underway currently to mitigate the epidemic and prevent the persistence of the virus in human populations in China and worldwide. It remains unclear how these unprecedented interventions, including travel restrictions, have affected COVID-19 spread in China. We use real-time mobility data from Wuhan and detailed case data including travel history to elucidate the role of case importation on transmission in cities across China and ascertain the impact of control measures. Early on, the spatial distribution of COVID-19 cases in China was well explained by human mobility data. Following the implementation of control measures, this correlation dropped and growth rates became negative in most locations, although shifts in the demographics of reported cases are still indicative of local chains of transmission outside Wuhan. This study shows that the drastic control measures implemented in China have substantially mitigated the spread of COVID-19.",
+        "references": "@book{chen-a,\n  author = {Chen, S. and Yang, J. and Yang, W. and Wang, C. and T.},\n  title = {Baerninghausen, COVID-19 control in China during mass population movements at New Year},\n  publisher = {Lancet (2020},\n  doi = {doi: 10.1016/S0140-6736(20)30421-9},\n  language = {}\n}\n@article{zhu2020a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N. Engl. J. Med},\n  volume = {2001017},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@book{tian-a,\n  author = {Tian, H.},\n  title = {medRxiv},\n  publisher = {in press},\n  doi = {doi: 10.1101/2020.01.30.20019844},\n  more-authors = {true},\n  language = {}\n}\n@article{du2020a,\n  author = {Du, Z.},\n  title = {Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China},\n  journal = {Emerg. Infect. Dis},\n  volume = {26},\n  date = {2020},\n  doi = {doi: 10.3201/eid2605.200146},\n  more-authors = {true},\n  language = {}\n}\n@book{wu-a,\n  author = {Wu, J.T. and Leung, K. and Leung, G.M.},\n  title = {Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study},\n  publisher = {Lancet. 6736 (2020},\n  doi = {doi: 10.1016/S0140-6736(20)30260-9},\n  language = {}\n}\n@article{cauchemez2014a,\n  author = {Cauchemez, S.},\n  title = {Middle East respiratory syndrome coronavirus: Quantification of the extent of the epidemic, surveillance biases, and transmissibility},\n  journal = {Lancet Infect. Dis},\n  volume = {14},\n  pages = {50\u201356},\n  date = {2014},\n  more-authors = {true},\n  language = {}\n}\n@article{lessler2009a,\n  author = {Lessler, J.},\n  title = {Incubation periods of acute respiratory viral infections: a systematic review},\n  journal = {Lancet Infect. Dis},\n  volume = {9},\n  pages = {291\u2013300},\n  date = {2009},\n  more-authors = {true},\n  language = {}\n}\n@article{backer2019a,\n  author = {Backer, J.A. and Klinkenberg, D. and Wallinga, J.},\n  title = {Incubation period of 2019 novel coronavirus},\n  date = {2019},\n  journal = {Eurosurveillance},\n  volume = {25},\n  pages = {20\u201328},\n  source = {infections among travellers from Wuhan, China, 20\u201328 January 2020},\n  language = {}\n}\n@misc{li2020a,\n  author = {Li, Q.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia},\n  editor = {Med, N.Engl J.},\n  pages = {1\u20139},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@incollection{wkly2020a,\n  title = {World Health Organization (WHO), Coronavirus disease 2019 (COVID-19) Situation Report \u2013 27 (2020) (available},\n  url = {https://www.who.int/docs/default-source/coronaviruse/situationreports/20200216-sitrep-27-covid-19.pdf},\n  producer = {Wkly.41, CDC},\n  pages = {145\u2013151},\n  date = {2020},\n  source = {Novel Coronavirus Pneumonia Emergency Response Epidemiology Team, The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19)\u2014 China, 2020. China},\n  director = {Wkly.41, C.D.C.},\n  language = {}\n}\n@article{e2017a,\n  author = {},\n  title = {Temporally Varying Relative Risks for Infectious Diseases},\n  journal = {Epidemiology},\n  volume = {28},\n  pages = {136\u2013144},\n  date = {2017},\n  language = {}\n}\n@incollection{unknown2019a,\n  title = {Novel Coronavirus},\n  date = {2019},\n  url = {https://apps.who.int/iris/bitstream/handle/10665/330762/nCoVsitrep23Jan2020-eng.pdf},\n  source = {SITUATION REPORT - 3},\n  language = {},\n  organization = {World Health Organization (WHO}\n}\n@article{chan2020a,\n  author = {Chan, J.F.-W.},\n  title = {A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster},\n  journal = {Lancet},\n  volume = {395},\n  pages = {514\u2013523},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@book{hastie1992a,\n  author = {Hastie, T.J. and Pregibon, D.},\n  title = {in Statistical Models in},\n  editor = {S, J.M.Hastie and J, C.T.},\n  publisher = {Wadsworth & Brooks/Cole},\n  date = {1992},\n  language = {}\n}\n@article{riou2019a,\n  author = {Riou, J. and Althaus, C.L.},\n  title = {Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus},\n  date = {2019-12},\n  journal = {Eurosurveillance},\n  volume = {25},\n  pages = {1\u20135},\n  source = {to January 2020},\n  language = {}\n}\n@article{tuite2019a,\n  author = {Tuite, A.R. and Fisman, D.N. and Reporting, Epidemic Growth},\n  title = {and Reproduction Numbers for the 2019 Novel Coronavirus},\n  date = {2019},\n  journal = {Ann. Intern. Med},\n  source = {Epidemic},\n  language = {}\n}\n@article{li2020b,\n  author = {Li, Q.},\n  title = {Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia},\n  journal = {N. Engl. J. Med},\n  volume = {2001316},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@book{keeling2004a,\n  author = {Keeling, M.J. and Bj\u00f8rnstad, O.N. and Grenfell, B.T. and in Ecology},\n  title = {Genetics and Evolution of Metapopulations},\n  publisher = {Elsevier},\n  date = {2004},\n  volume = {9780123234483500192},\n  pages = {415\u2013445},\n  language = {}\n}\n@article{watts2005a,\n  author = {Watts, D.J. and Muhamad, R. and Medina, D.C. and Dodds, P.S. and Multiscale},\n  title = {resurgent epidemics in a hierarchical metapopulation model},\n  journal = {Proc. Natl. Acad. Sci},\n  volume = {102},\n  pages = {11157\u201311162},\n  date = {2005},\n  language = {}\n}\n@article{chowell2016a,\n  author = {Chowell, G. and Sattenspiel, L. and Bansal, S. and Viboud, C.},\n  title = {Mathematical models to characterize early epidemic growth: A review},\n  journal = {Phys. Life Rev},\n  volume = {18},\n  pages = {66\u201397},\n  date = {2016},\n  language = {}\n}\n@article{viboud2006a,\n  author = {Viboud, C.},\n  title = {and spatial hierarchies in the spread of influenza},\n  journal = {Science},\n  volume = {312},\n  pages = {447\u201351},\n  date = {2006},\n  more-authors = {true},\n  language = {}\n}\n@article{keeling2000a,\n  author = {Keeling, M.J. and Grenfell, B.T.},\n  title = {Individual-based Perspectives on R0},\n  journal = {J. Theor. Biol},\n  volume = {203},\n  pages = {51\u201361},\n  date = {2000},\n  language = {}\n}\n@article{burnham2004a,\n  author = {Burnham, K.P. and Anderson, D.R.},\n  title = {Multimodel Inference},\n  journal = {Sociol. Methods Res},\n  volume = {33},\n  pages = {261\u2013304},\n  date = {2004},\n  language = {}\n}\n@article{fraser2004a,\n  author = {Fraser, C. and Riley, S. and Anderson, R.M. and Ferguson, N.M.},\n  title = {Factors that make an infectious disease outbreak controllable},\n  journal = {Proc. Natl. Acad. Sci},\n  volume = {101},\n  pages = {6146\u20136151},\n  date = {2004},\n  language = {}\n}\n@article{xu2020a,\n  author = {Xu, B. and Kraemer, M.U.G.},\n  title = {Open access epidemiological data from the COVID-19. Lancet Infect},\n  journal = {Dis},\n  volume = {3099},\n  date = {2020},\n  number = {30119},\n  language = {}\n}\n@misc{xu-a,\n  author = {Xu, B.},\n  note = {Data, in press},\n  more-authors = {true}\n}\n@article{ramshaw2019a,\n  author = {Ramshaw, R.E.},\n  title = {A database of geopositioned Middle East Respiratory Syndrome Coronavirus occurrences},\n  journal = {Sci. Data},\n  volume = {6},\n  date = {2019},\n  more-authors = {true},\n  number = {318},\n  language = {}\n}\n@article{mchugh2013a,\n  author = {McHugh, M.L.},\n  title = {The Chi-square test of independence},\n  journal = {Biochem. Medica},\n  volume = {23},\n  pages = {143\u2013149},\n  date = {2013},\n  language = {}\n}\n@book{mcdonald2014a,\n  author = {McDonald, J.H.},\n  title = {Handbook of Biological Statistics},\n  publisher = {Sparky House Publishing},\n  date = {2014},\n  unmatched-publisher = {ed. 3,},\n  language = {},\n  address = {Baltimore, Maryland}\n}\n@article{faria2018a,\n  author = {Faria, N.R.},\n  title = {Genomic and epidemiological monitoring of yellow fever virus transmission potential},\n  journal = {Science},\n  volume = {361},\n  pages = {894\u2013899},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{kraemer2019a,\n  author = {Kraemer, M.U.G.},\n  title = {Past and future spread of the arbovirus vectors Aedes aegypti and Aedes albopictus},\n  journal = {Nat. Microbiol},\n  volume = {4},\n  pages = {854\u2013863},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@book{jin-a,\n  author = {Jin, G. and Yu, J. and Han, L. and Duan, S.},\n  title = {The impact of traffic isolation in Wuhan on the spread of 2019- nCov},\n  publisher = {medRxiv (2020},\n  doi = {doi:https://doi.org/10.1101/2020.02.04.20020438},\n  language = {}\n}\n@book{ai-a,\n  author = {Ai, A.S.},\n  title = {Population movement, city closure and spatial transmission of the 2019-nCoV infection in China},\n  publisher = {medRxiv (2020},\n  doi = {doi:doi.org/10.1101/2020.02.04.20020339},\n  more-authors = {true},\n  language = {}\n}\n@article{bates2015a,\n  author = {Bates, D. and M\u00e4chler, M. and Bolker, B. and Walker, S.},\n  title = {Fitting Linear Mixed-Effects Models Using lme4},\n  journal = {J. Stat. Softw},\n  volume = {67},\n  pages = {201\u2013210},\n  date = {2015},\n  language = {}\n}\n@article{friedman2010a,\n  author = {Friedman, J. and Hastie, T. and Tibshirani, R.},\n  title = {Regularization Paths for Generalized Linear Models via Coordinate Descent},\n  journal = {J. Stat. Softw},\n  volume = {33},\n  date = {2010},\n  doi = {doi: 10.18637/jss.v033.i01},\n  language = {}\n}\n@article{ripley2019a,\n  author = {Ripley, B.},\n  title = {R package version 7.3-51.5},\n  date = {2019},\n  url = {https://cran.rproject.org/package},\n  journal = {Comput. Stat. Data},\n  volume = {44},\n  pages = {253\u2013271},\n  unmatched-author = {H. Heinzl, M. Mittlb\u00f6ck,},\n  more-authors = {true},\n  source = {Pseudo R-squared measures for Poisson regression models with over- or underdispersion},\n  language = {}\n}\n@article{zeileis2008a,\n  author = {Zeileis, A. and Kleiber, C. and Jackman, S.},\n  title = {Regression models for count data in R},\n  journal = {J. Stat. Softw},\n  volume = {27},\n  pages = {1\u201325},\n  date = {2008},\n  language = {}\n}\n@incollection{unknown-a,\n  title = {Kingdom 12},\n  publisher = {Harvard Medical School, Harvard},\n  unmatched-authority = {States 14. Network Science Institute, Northeastern University, Boston, United States 15. School of Biological and Environmental Sciences, Universidad Ecuador 16. Mathematical Sciences, University of Southampton, Southampton, United Kingdom 17. Institute for Health Metrics and Evaluation, Department of Health Metrics, University of},\n  source = {San Francisco de Quito USFQ},\n  unmatched-publisher = {States 13. Boston Children\u2019s Hospital,},\n  unmatched-pages = {Boston, United Quito,},\n  language = {},\n  address = {University, Boston, United},\n  organization = {Department of Zoology, University of Oxford, United}\n}\n@book{unknown-b,\n  publisher = {China},\n  language = {},\n  address = {Beijing},\n  organization = {State Key Laboratory of Remote Sensing Science, College of Global Change and Earth System Science, Beijing Normal University}\n}\n@misc{unknown2019b,\n  title = {Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between},\n  date = {2019-01-01},\n  pages = {-},\n  language = {}\n}\n",
+        "emails": [
+            "s.scarpino@northeastern.edu",
+            "oliver.pybus@zoo.ox.ac.uk",
+            "moritz.kraemer@zoo.ox.ac.uk",
+            "simon.cauchemez@pasteur.fr"
+        ],
+        "references_ris": "TY  - BOOK\nAU  - Chen, S.\nAU  - Yang, J.\nAU  - Yang, W.\nAU  - Wang, C.\nAU  - T.\nTI  - Baerninghausen, COVID-19 control in China during mass population movements at New Year\nPB  - Lancet (2020\nDO  - 10.1016/S0140-6736(20)30421-9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N. Engl. J. Med\nVL  - 2001017\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Tian, H.\nTI  - medRxiv\nPB  - in press\nDO  - 10.1101/2020.01.30.20019844\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Du, Z.\nTI  - Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China\nT2  - Emerg. Infect. Dis\nVL  - 26\nPY  - 2020\nDA  - 2020\nDO  - 10.3201/eid2605.200146\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Wu, J.T.\nAU  - Leung, K.\nAU  - Leung, G.M.\nTI  - Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study\nPB  - Lancet. 6736 (2020\nDO  - 10.1016/S0140-6736(20)30260-9\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cauchemez, S.\nTI  - Middle East respiratory syndrome coronavirus: Quantification of the extent of the epidemic, surveillance biases, and transmissibility\nT2  - Lancet Infect. Dis\nVL  - 14\nSP  - 50\nEP  - 56\nPY  - 2014\nDA  - 2014\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lessler, J.\nTI  - Incubation periods of acute respiratory viral infections: a systematic review\nT2  - Lancet Infect. Dis\nVL  - 9\nSP  - 291\nEP  - 300\nPY  - 2009\nDA  - 2009\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Backer, J.A.\nAU  - Klinkenberg, D.\nAU  - Wallinga, J.\nTI  - Incubation period of 2019 novel coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Eurosurveillance\nVL  - 25\nSP  - 20\nEP  - 28\nT2  - infections among travellers from Wuhan, China, 20\u201328 January 2020\nLA  - \nER  - \n\nTY  - GEN\nAU  - Li, Q.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia\nA2  - Med, N.Engl J.\nSP  - 1\nEP  - 9\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nTI  - World Health Organization (WHO), Coronavirus disease 2019 (COVID-19) Situation Report \u2013 27 (2020) (available\nUR  - https://www.who.int/docs/default-source/coronaviruse/situationreports/20200216-sitrep-27-covid-19.pdf\nC1  - Wkly.41, CDC\nSP  - 145\nEP  - 151\nPY  - 2020\nDA  - 2020\nT2  - Novel Coronavirus Pneumonia Emergency Response Epidemiology Team, The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19)\u2014 China, 2020. China\nC1  - Wkly.41, C.D.C.\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Temporally Varying Relative Risks for Infectious Diseases\nT2  - Epidemiology\nVL  - 28\nSP  - 136\nEP  - 144\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - CHAP\nTI  - Novel Coronavirus\nPY  - 2019\nDA  - 2019\nUR  - https://apps.who.int/iris/bitstream/handle/10665/330762/nCoVsitrep23Jan2020-eng.pdf\nT2  - SITUATION REPORT - 3\nLA  - \nC1  - World Health Organization (WHO\nER  - \n\nTY  - JOUR\nAU  - Chan, J.F.-W.\nTI  - A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster\nT2  - Lancet\nVL  - 395\nSP  - 514\nEP  - 523\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Hastie, T.J.\nAU  - Pregibon, D.\nTI  - in Statistical Models in\nA2  - S, J.M.Hastie\nA2  - J, C.T.\nPB  - Wadsworth & Brooks/Cole\nPY  - 1992\nDA  - 1992\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Riou, J.\nAU  - Althaus, C.L.\nTI  - Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus\nPY  - 2019\nDA  - 2019/12\nT2  - Eurosurveillance\nVL  - 25\nSP  - 1\nEP  - 5\nT2  - to January 2020\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Tuite, A.R.\nAU  - Fisman, D.N.\nAU  - Reporting, Epidemic Growth\nTI  - and Reproduction Numbers for the 2019 Novel Coronavirus\nPY  - 2019\nDA  - 2019\nT2  - Ann. Intern. Med\nT2  - Epidemic\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Li, Q.\nTI  - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia\nT2  - N. Engl. J. Med\nVL  - 2001316\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Keeling, M.J.\nAU  - Bj\u00f8rnstad, O.N.\nAU  - Grenfell, B.T.\nAU  - in Ecology\nTI  - Genetics and Evolution of Metapopulations\nPB  - Elsevier\nPY  - 2004\nDA  - 2004\nVL  - 9780123234483500192\nSP  - 415\nEP  - 445\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Watts, D.J.\nAU  - Muhamad, R.\nAU  - Medina, D.C.\nAU  - Dodds, P.S.\nAU  - Multiscale\nTI  - resurgent epidemics in a hierarchical metapopulation model\nT2  - Proc. Natl. Acad. Sci\nVL  - 102\nSP  - 11157\nEP  - 11162\nPY  - 2005\nDA  - 2005\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Chowell, G.\nAU  - Sattenspiel, L.\nAU  - Bansal, S.\nAU  - Viboud, C.\nTI  - Mathematical models to characterize early epidemic growth: A review\nT2  - Phys. Life Rev\nVL  - 18\nSP  - 66\nEP  - 97\nPY  - 2016\nDA  - 2016\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Viboud, C.\nTI  - and spatial hierarchies in the spread of influenza\nT2  - Science\nVL  - 312\nSP  - 447\nEP  - 51\nPY  - 2006\nDA  - 2006\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Keeling, M.J.\nAU  - Grenfell, B.T.\nTI  - Individual-based Perspectives on R0\nT2  - J. Theor. Biol\nVL  - 203\nSP  - 51\nEP  - 61\nPY  - 2000\nDA  - 2000\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Burnham, K.P.\nAU  - Anderson, D.R.\nTI  - Multimodel Inference\nT2  - Sociol. Methods Res\nVL  - 33\nSP  - 261\nEP  - 304\nPY  - 2004\nDA  - 2004\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Fraser, C.\nAU  - Riley, S.\nAU  - Anderson, R.M.\nAU  - Ferguson, N.M.\nTI  - Factors that make an infectious disease outbreak controllable\nT2  - Proc. Natl. Acad. Sci\nVL  - 101\nSP  - 6146\nEP  - 6151\nPY  - 2004\nDA  - 2004\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Xu, B.\nAU  - Kraemer, M.U.G.\nTI  - Open access epidemiological data from the COVID-19. Lancet Infect\nT2  - Dis\nVL  - 3099\nPY  - 2020\nDA  - 2020\nIS  - 30119\nLA  - \nER  - \n\nTY  - GEN\nAU  - Xu, B.\nN1  - Data, in press\nC1  - true\nER  - \n\nTY  - JOUR\nAU  - Ramshaw, R.E.\nTI  - A database of geopositioned Middle East Respiratory Syndrome Coronavirus occurrences\nT2  - Sci. Data\nVL  - 6\nPY  - 2019\nDA  - 2019\nC1  - true\nIS  - 318\nLA  - \nER  - \n\nTY  - JOUR\nAU  - McHugh, M.L.\nTI  - The Chi-square test of independence\nT2  - Biochem. Medica\nVL  - 23\nSP  - 143\nEP  - 149\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - BOOK\nAU  - McDonald, J.H.\nTI  - Handbook of Biological Statistics\nPB  - Sparky House Publishing\nPY  - 2014\nDA  - 2014\nC1  - ed. 3,\nLA  - \nCY  - Baltimore, Maryland\nER  - \n\nTY  - JOUR\nAU  - Faria, N.R.\nTI  - Genomic and epidemiological monitoring of yellow fever virus transmission potential\nT2  - Science\nVL  - 361\nSP  - 894\nEP  - 899\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Kraemer, M.U.G.\nTI  - Past and future spread of the arbovirus vectors Aedes aegypti and Aedes albopictus\nT2  - Nat. Microbiol\nVL  - 4\nSP  - 854\nEP  - 863\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Jin, G.\nAU  - Yu, J.\nAU  - Han, L.\nAU  - Duan, S.\nTI  - The impact of traffic isolation in Wuhan on the spread of 2019- nCov\nPB  - medRxiv (2020\nDO  - https://doi.org/10.1101/2020.02.04.20020438\nLA  - \nER  - \n\nTY  - BOOK\nAU  - Ai, A.S.\nTI  - Population movement, city closure and spatial transmission of the 2019-nCoV infection in China\nPB  - medRxiv (2020\nDO  - doi.org/10.1101/2020.02.04.20020339\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Bates, D.\nAU  - M\u00e4chler, M.\nAU  - Bolker, B.\nAU  - Walker, S.\nTI  - Fitting Linear Mixed-Effects Models Using lme4\nT2  - J. Stat. Softw\nVL  - 67\nSP  - 201\nEP  - 210\nPY  - 2015\nDA  - 2015\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Friedman, J.\nAU  - Hastie, T.\nAU  - Tibshirani, R.\nTI  - Regularization Paths for Generalized Linear Models via Coordinate Descent\nT2  - J. Stat. Softw\nVL  - 33\nPY  - 2010\nDA  - 2010\nDO  - 10.18637/jss.v033.i01\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ripley, B.\nTI  - R package version 7.3-51.5\nPY  - 2019\nDA  - 2019\nUR  - https://cran.rproject.org/package\nT2  - Comput. Stat. Data\nVL  - 44\nSP  - 253\nEP  - 271\nC1  - H. Heinzl, M. Mittlb\u00f6ck,\nC1  - true\nT2  - Pseudo R-squared measures for Poisson regression models with over- or underdispersion\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zeileis, A.\nAU  - Kleiber, C.\nAU  - Jackman, S.\nTI  - Regression models for count data in R\nT2  - J. Stat. Softw\nVL  - 27\nSP  - 1\nEP  - 25\nPY  - 2008\nDA  - 2008\nLA  - \nER  - \n\nTY  - CHAP\nTI  - Kingdom 12\nPB  - Harvard Medical School, Harvard\nC1  - States 14. Network Science Institute, Northeastern University, Boston, United States 15. School of Biological and Environmental Sciences, Universidad Ecuador 16. Mathematical Sciences, University of Southampton, Southampton, United Kingdom 17. Institute for Health Metrics and Evaluation, Department of Health Metrics, University of\nT2  - San Francisco de Quito USFQ\nC1  - States 13. Boston Children\u2019s Hospital,\nC1  - Boston, United Quito,\nLA  - \nCY  - University, Boston, United\nC1  - Department of Zoology, University of Oxford, United\nER  - \n\nTY  - BOOK\nPB  - China\nLA  - \nCY  - Beijing\nC1  - State Key Laboratory of Remote Sensing Science, College of Global Change and Earth System Science, Beijing Normal University\nER  - \n\nTY  - GEN\nTI  - Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between\nPY  - 2019\nDA  - 2019/01/01\nSP  - \nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [],
+        "table_captions": [
+            {
+                "id": "S1",
+                "caption": "S2 Fig S1 \u2013 S7 References 26 \u2013 39. Table shows the pseudo- R2 values for Poisson and Negative Binomial GLM of daily case counts and 5-day lagged log mobility from Wuhan, where pseudo- R2 were calculated using model deviances as described (38, 39)"
+            },
+            {
+                "id": "S2",
+                "caption": "Table shows the AIC and BIC values for a log-linear regression based on cumulative cases, a"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Number of cases and key dates during the epidemic. (a) The epidemic curve of the COVID-19 outbreak in provinces in China. Vertical lines and boxes indicate key dates such as implementation of cordon sanitaire of Wuhan (grey) and the end of the first incubation period after the travel restrictions (red). The thin grey line represents the closure of Wuhan seafood market on 1st January 2020. The width of each horizontal tube represents the number of reported cases in that province. (b) Map of COVID-19 confirmed cases (n = 554) that had reported travel history from Wuhan before travel restrictions were implemented on January 23, 2020. Colors of the arrows indicate date of travel relative to the date of travel restrictions"
+            },
+            {
+                "id": "2",
+                "caption": "Human mobility, spread and synchrony of COVID-19 outbreak in China. a) Human mobility data extracted in real time from Baidu. Date of start of travel ban out of Wuhan and other control measures on January 23,2020. Dark and red lines represent migration scale indexes for 2019 and 2020, respectively. b) Relative movements from Wuhan to other provinces in China. c) Timeline of daily"
+            },
+            {
+                "id": "3",
+                "caption": "Human mobility explains growth rate of epidemic in China. (a) Daily case counts of cases in China. (b) Time series of province-level growth rates of the COVID-19 epidemic in China. Estimates of the growth rate were obtained by performing a time-series analysis using mixed-effect model of lagged,"
+            },
+            {
+                "id": "4",
+                "caption": "Shifting age and sex distributions through time. (a) Age and sex distributions of confirmed cases with known travel history to Wuhan, (b) Age and sex distributions of confirmed cases that had no travel history. (c) Median age for cases reported early (before 1st Feb) and those reported later (between 1st \u2013 10th February. Uncertainty is shown in Fig. S7. (d) Change through time in the sex ratio of (i) all reported cases in China with no reported travel history, (ii) cases reported in Beijing without travel history, and (iii) cases known to have travelled from Wuhan"
+            },
+            {
+                "id": "S1",
+                "caption": "a) Dates of symptom onset before date of travel from Wuhan. b) Incubation period estimates and standard deviation"
+            },
+            {
+                "id": "S2",
+                "caption": "Interval between symptom onset and date of confirmation in confirmed cases with reported travel history in two key periods, before and after January 23, 2020"
+            },
+            {
+                "id": "S3",
+                "caption": "Map of confirmed cases of COVID-19 with known travel history and date of onset date before date of travel"
+            },
+            {
+                "id": "S4",
+                "caption": "Predicting COVID-19 cases using mobility data. a) Province-level cumulative cases on January 22nd can be accurately predicted based on simply doubling the number of cumulative number of cases occurring on January 16th. b) However, by Jan. 28th, the expected number of cases has significantly increased with respect to predictions based on cases through January 22nd. c) By Feb. 34rd, cumulative cases are once again well estimated based on the cumulative number of cases in each province six days earlier, i.e., on Jan. 28th. d) The deviation in cases on January 28th is well explained by the relative amount of migration out of Wuhan on January 22nd"
+            },
+            {
+                "id": "S5",
+                "caption": "Relative importance of PCR testing vs. human mobility to improve a simple GLM of COVID19 when estimating exponential growth in province-level cases. Relative improvement is measured as one minus the residuals of a GLM with lagged cases + PCR testing availability (y-axis) and a GLM with lagged cases + mobility from Wuhan. Values were normalized by the observed number of cases such that they ranged between 0 and 1. The resulting metric has a value of 0 for a model where the residual error vastly eclipses the observed data and a value of 1 when residual error is 0, i.e., a perfect model fit"
+            },
+            {
+                "id": "S6",
+                "caption": "Daily case counts of COVID-19 in China between January 1st and February 15th, 2020 (log scale)"
+            },
+            {
+                "id": "S7",
+                "caption": "Median and 25, 75 percentiles of reported age of cases reporting travel history (purple) and those that do not (red) before 31 January 2020 and after"
+            },
+            {
+                "id": "S8",
+                "caption": "Correlation between total number of cases and human mobility from Wuhan"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.02.20026708v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.20026708v1/img-000.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.20026708v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.20026708v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.20026708v1/img-003.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.02.20026708v1/img-004.png"
+        ]
+    },
+    "sections": {
+        "discussion": [
+            "Containment of respiratory infections is particularly difficult if they are characterized by relatively mild symptoms or transmission before the onset of disease (25). Intensive control measures, including travel restrictions, have been implemented to limit the spread of COVID-19 in China. Here, we showed that this combination of interventions was successful in mitigating the spread and reduce local transmission of COVID-19 in China although it is not possible to definitively determine the individual impact of each intervention. More analyses will be required to determine how to optimally balance the expected positive effects on health with the negative impact on individual liberties, the economy, and society at large."
+        ],
+        "acknowledgements": [
+            "We would like to thank all individuals who are collecting epidemiological data of the COVID-19 outbreak around the world. Funding: HT, OGP and MUGK acknowledge support from the Oxford Martin School. MUGK is supported by a Branco Weiss Fellowship. NRF is supported by a Sir<br/><br/>Henry Dale Fellowship. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. WPH was supported by the National Institute of General<br/><br/>Medical Sciences (#U54GM088558). Authors contributions: MUGK, OGP, SVS developed the idea and research. MUGK and SVS wrote the first draft of the manuscript and all other authors discussed results and edited the manuscript. MUGK, BG, SVS, DMP and the open COVID-19 data working group collected and validated epidemiological data. RL and MUGK collected intervention data. C-HY, BK, and<br/><br/>SVS collected and processed human mobility data. Competing interests: The authors declare no competing interests. Data and materials availability: Code and data are available on the following GitHub repository: https://github.com/Emergent-Epidemics/covid19_cordon Supplementary Materials Materials and Methods Supplementary Text Table S1 \u2013 S2 Fig S1 \u2013 S7 References 26 \u2013 39"
+        ],
+        "methods": [
+            "The effect of cordon sanitaire on the COVID-19 epidemic in China<br/><br/>11. Department of Zoology, University of Oxford, United Kingdom 12. Harvard Medical School, Harvard University, Boston, United States 13. Boston Children\u2019s Hospital, Boston, United States 14. Network Science Institute, Northeastern University, Boston, United States 15. School of Biological and Environmental Sciences, Universidad San Francisco de Quito USFQ, Quito, Ecuador 16. Mathematical Sciences, University of Southampton, Southampton, United Kingdom 17. Institute for Health Metrics and Evaluation, Department of Health Metrics, University of<br/><br/>Washington, Seattle, United States 18. Harvard T.H. Chan School of Public Health, Boston, United States 19. Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France<br/><br/>20. State Key Laboratory of Remote Sensing Science, College of Global Change and Earth System Science, Beijing Normal University, Beijing, China<br/><br/>Epidemiological data: No officially reported line list was available for cases in China (26). We use a standard protocol (27, 28) to extract individual level data from December 1st, 2019 - February 10th, 2020. Sources are mainly official reports from provincial, municipal or national health governments. Data included basic demographics (age, sex), travel histories and key dates (dates of onset of symptoms, hospitalization, and confirmation). Data were entered by a team of data curators on a rolling basis and technical validation and geo-positioning protocols were applied continuously to ensure validity. A detailed description of the methodology is available (27) (attached in Supplementary information). Lastly, total numbers were matched with officially reported data from China and other government reports. For sensitivity, GLM analyses (see below) were performed with case counts from the World Health Organization.<br/><br/>Proportions of symptomatic travelers: The proportion of cases who travelled while symptomatic was assessed from a subset of 236 cases for whom the dates of symptom onset and departure from Wuhan were available. Residency was split into three categories: Wuhan, China and International. Foreigners living in Wuhan were categorized as Wuhan and patients with missing Wuhan residency were either kept as missing values or categorized according to their country of origin. Both parametric (\u03c72 test, (29)) and non-parametric (exact Fisher test, (30)) tests were performed and the uncertainty in proportions was assessed by the standard deviation of sample proportions.<br/><br/>Statistical inference of the incubation period: The incubation period is the time interval between infection and symptom onset. We assumed that cases travelling from Wuhan were exposed during their stay in Wuhan. We estimated the incubation period from 38 travelling cases returning from Wuhan with known dates of symptom onset, entry and exit. The end of the exposure period was assumed to be the exit travel date except if symptom onset occurred prior to the exit date (in which case exposure was assumed to have occurred prior to symptom onset). The start of the exposure period corresponded to the entry date. We assumed that the incubation period could not exceed 30 days.<br/><br/>For each case, the minimum and maximum incubation period was derived from the dates of entry, exit and symptom onset<br/><br/>\u0be0\u0bd4\u0beb \u202b \u0725\u072b\u202c\u0d4c \u202b \u0750\u0741\u074f\u074a\u074b\u202c\u0d46 \u0741\u074a\u202b\u0755\u074e\u0750\u202c \u0be0\u0bdc\u0be1 \u202b \u0725\u072b\u202c\u0d4c \u202b \u0750\u0741\u074f\u074a\u074b\u202c\u0d46 \u0741\u202b\u0750\u0745\u0754\u202c<br/><br/>We fitted a truncated gamma distribution (0 to 30 days) and estimated the mean and variance of the incubation period using Markov Chain Monte Carlo (MCMC) in a Bayesian framework using an uninformative prior distribution. We derived the likelihood as follows:<br/><br/>\u0b7b\u0732 \u123a\u202b \u0725\u072b\u202c\u0d51 \u202b\u0725\u072b\u202c\u0be0\u0bd4\u0beb \u0d45 1\u123b \u0d46 \u0b7b\u0732 \u123a\u202b \u0725\u072b\u202c\u0d51 \u202b\u0725\u072b\u202c\u0be0\u0bdc\u0be1\u123b    \u202b\u072e\u202c\u0d4c    \u0b7b\u0732 \u123a\u202b \u0725\u072b\u202c\u0d51 30\u123b<br/><br/>A Metropolis-Hastings algorithm was implemented in R. Marginal posteriors were sampled from a chain of 5,000 steps after discarding a burn-in of 50 steps. Convergence was inspected visually.<br/><br/>Models of shifting age and sex distributions: Age and sex distributions are important in understanding risk of infection across populations. Assuming risk to be distributed relatively equally across a population, as an outbreak evolves age and sex distributions should follow the underlying population structure. Varying degrees of immunity and exposure may shift these distributions (31). To examine whether the ongoing outbreak shifted from an epidemic concentrated in Wuhan and among travelers from<br/><br/>Wuhan to an epidemic that was self-sustained in provinces across China we use age and sex data from different periods of the outbreak for individuals with reported travel history and no known travel history. We define two periods of the outbreak, an \u201cearly\u201d phase, starting with the first reports in early December and ending a set number of days after the Wuhan shutdown. This was selected to be 8 days after the Wuhan shutdown, which conservatively corresponds to one incubation period + 1SD (see above) after the shutdown. After that date (i.e. 1st Feb 2020) we assume that most reported transmissions in provinces outside of Wuhan are the result of local transmission. We further divided our data in those that had cases with known travel history to Wuhan and those who did not. Then we produce the following summary statistics: 1. Average age stratified by sex for all cases with reported travel history to Wuhan. 2. Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between December 1, 2019 - January 31, 2020.<br/><br/>We then compare these with: 3. Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between January 31, 2020 - February 10, 2020.<br/><br/>Model M1 compares the distribution of age and sex among travelers to the reported infections outside Wuhan with no known travel history. In case these two distributions are similar, import driven epidemic can be concluded. Under our model assumptions M2, if the epidemic was driven largely by importations across the two time periods, all age and sex distributions should mirror those of the reported traveler infections. Under our model assumption M3, if the epidemic was driven by other factors (i.e., local transmission), the two distributions should vary across the two time periods.<br/><br/>We cannot exclude the possibility that shifts in distributions may be due to heightened awareness among the general population which may have increased reporting in female cases later in the epidemic. Further, more work will be necessary to understand the differential risk of severe or symptomatic disease to fully understand the age and sex distributions in this outbreak. For example, why there are relatively few reports of cases <18y old. However, as for other respiratory pathogens symptomatic and severe infection were more concentrated in older populations. We do not intend to make any general statements about differential risk but were more interested in shifts in reported cases across multiple geographies in China.<br/><br/>Real time human mobility data: We extract human mobility data from the Baidu Qianxi web platform, which presents daily population travels between cities or provinces tracked through the Baidu Huiyan system. The data do not represent numbers of individual travelers but rather an index of relative movements constructed by Baidu\u2019s proprietary methods which are correlated with human mobility (32) (http://qianxi.baidu.com/). In particular, two pieces of information are collected. First, we extract a series of migration scale indices for traveling out of Wuhan, from January 1st to February 10, both in 2019 and 2020. Second, we obtain the proportion of human movement from Wuhan were bound for each of 31 provinces in China. These proportions are available for January 1st - February 10, 2020. Based on this data we had access to both changes in mobility volume and changes in mobility direction. See more detailed descriptions of the human movement data here: (33, 34)<br/><br/>Review of interventions and reporting shifts: We reviewed the literature and online social media to understand the key timings of interventions and announcements that are relevant for disease transmission across China. We collated information about the type (e.g., announcement of outbreak, travel restrictions, isolation of patients, etc.), geographic location (e.g., city where available, province), and timing (specific date or date range).<br/><br/>COVID-19 case definitions: Definitions of probable and confirmed COVID-19 cases have changed throughout the epidemic. We collected data from official sources describing the timing and specifics of the case definitions.<br/><br/>From January 18-22: Probable: Need to satisfy (i) and (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced. ii. Epidemiologic history: (1) within 2 weeks of symptom onset, Wuhan travel or resident history; or within 2 weeks of symptom onset, contact with persons from Wuhan who had fever with respiratory symptoms; or belong to a cluster. Confirmed: Need to satisfy criteria for probable case and have a real-time quantitative polymerase chain reaction (RT-qPCR) positive result from sputum, nasopharyngeal swabs, lower respiratory tract secretions or other sample tissue, or genome sequencing highly similar with known SARS-CoV-2. available strains.<br/><br/>From January 22-23: Probable: Need to satisfy (i) and any one epidemiologic history described in (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced ii. Epidemiologic history: (1) within 2 weeks of symptom onset, Wuhan travel or resident history; (2) within 2 weeks of symptom onset, contact with persons from Wuhan who had fever with respiratory symptoms; (3) belong to a cluster or had epidemiologic link with confirmed cases. Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from respiratory or blood samples, or genome sequencing highly similar with known SARS-CoV-2. available strains.<br/><br/>From January 23-27: Probable: Need to satisfy (i) and (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced ii. Epidemiologic history: within 2 weeks of symptom onset, Wuhan travel or resident history; or within 2 weeks of symptom onset, contact with persons from Wuhan who had fever with respiratory symptoms, or belong to a cluster. Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from sputum, nasopharyngeal swabs, lower respiratory tract secretions, or other samples, or genome sequencing highly similar with known SARS-CoV-2. available strains.<br/><br/>From January 27-February 5: Probable: Need to satisfy any two of the symptoms described in (i) and any of the epidemiological history described in (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced ii. Epidemiologic history: (1) within 2 weeks of symptom onset, travel or resident history in Wuhan region or other places with sustained local transmission; (2) within 2 weeks of symptom onset, contact with persons from Wuhan city or other places with sustained local transmission who had fever with respiratory symptoms, (3) belong to a cluster or epidemiologic connection with COVID-19 infected persons. Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from respiratory or blood samples, or genome sequencing highly similar with known SARS-CoV-2. available strains from lab test of respiratory or blood samples.<br/><br/>Comparing predictive models of epidemic trajectories: To evaluate hypotheses regarding the effect of mobility and testing on COVID-19 dynamics, we fit three different Generalized Linear Models (GLM).<br/><br/>Model 1 was a Poisson GLM to estimate daily case counts, Model 2 was a negative binomial GLM to estimate daily case counts, and Model 3 was a log-linear regression to estimate daily cumulative cases. BIC scores shown in Fig. 4b are calculated on a GLM of the form Y(t) = Y(t-4) + IT(t) + M(t-5) + IM(t) where Y(t) is either the number of new cases observed on day t (Model 1 & 2) or cumulative number of cases observed through day t (Model 3), Y(t-4) represents the number of cases (or the cumulative number under Model 3) four days prior (median doubling time outside Hubei province), IT(t) is an indicator function for PCR test availability that is 1 after 19th January 2020 and 0 before, M(t-5) is the Baidu.Incestimated mobility between Wuhan and each province 5 days prior (median incubation period), and IM(t) is an indicator function which is set to 1 after 26th January 2020 and 0 before (which represents one median incubation period from 22nd January 2020). Models were fit to province-level data. The three models were compared using differences in Bayesian Information Criteria (BIC), where larger values indicate models with lower relative support, and BIC>4 considered the cutoff for substantial model improvement. We performed a detailed sensitivity analysis on the availability of PCR tests, doubling time, and incubation periods. We obtained qualitatively similar results for Model 1 (Poisson GLM fit to daily case counts), Model 2 (negative binomial GLM fit to daily case counts ), and Model 3 (log-linear regressions fit to cumulative cases), see Table S2. In addition, we provide a full time series analysis of the optimal lag structure for cases and mobility for each province. Additionally, although BIC is considered more conservative, model selection results were confirmed using AIC for model selection (see Fig. 4 and Table S2). Lastly, we validated our model selection results using elastic-net regression and n-fold cross validation as implemented in the R package GLMNET (11, 12.<br/><br/>Estimating epidemic doubling time: To estimate the epidemic doubling time across each province, we fit a mixed effects Poisson GLM of daily case counts to days since the first case report in each province (fixed effect) and a random effect for each province on the slope and intercept, using the R package lme4 v.1.1-21 (35). Daily case counts were determined using the date of symptom onset. However, we only have a symptom onset date for 667 cases. Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77). Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date.<br/><br/>Model selection via elastic-net regression and cross-validation: We fit regularized Poisson and negative binomial models with an elastic net penalty, i.e., 50/50 mixture of the lasso and ridge penalties, with the regularization coefficient (lambda) selected by leave-one-out cross-validation. As seen with the AIC/BIC-based model selection, the regularized model included terms for lagged cases, the mobility and testing indicator variables, and mobility out of Wuhan. The out-of-sample log likelihood for the regularized Poisson regression was -9102 and was -22519 for the negative binomial model. The significantly worse fit for the negative binomial model was primarily driven by two outlier predictions, removing those results in an out-of-sample log likelihood for the negative binomial model of -11625. Models were implemented in the R package glmnet v. 2.0-18 (36). Because glmnet has not implemented a negative binomial model, we performed regularization using the Poisson model and estimated the overdispersion parameter using the glm.nb function in the R package MASS v. 7.3-51.4 (37)."
+        ],
+        "supplementary": [
+            "<strong>Supplementary text</strong><br/><br/>To ascertain whether earlier travel restrictions could have prevented the wide-spread increase in cases witnessed in late-January we constructed a simple forecasting model for COVID-19. Briefly, we forecast the cumulative number of cases in each Chinese province by simply doubling the number of cumulative cases reported six days prior. For dates prior to Jan. 28th and after Feb 3rd, this naive forecast produces an accurate estimate of the cumulative number of cases in each province (Fig. S4). However, the cumulative number of cases reported on Jan 28th is poorly estimated using this model (Fig. S4). In order to accurately forecast the number of cases on Jan 28th, we must also include the relative amount of mobility out of Wuhan into various provinces in the regression model. In Fig. S4, we show how a model including only movement from Wuhan on January 22nd fit to the residuals from Fig. S4 is once again able to accurately forecast cumulative cases. This indicates that for any hope of success, movement restrictions must be prompt.",
+            "Tables: Date<br/><br/>Poisson (pseudo R2)<br/><br/>Negative Binomial (pseudo R2)<br/><br/>Poisson GLM of daily case counts and a Negative Binomial GLM of daily case counts using seven combinations of predictors.    Model CASES_lag[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>  ]  CASES_lag4-TEST    CASES_lag4-MOB<br/><br/>CASES_lag4-MOB_IND<br/><br/>CASES_lag4-TESTMOB CASES_lag4-MOB_INDMOB CASES_lag4-MOB_INDMOB-TEST    LM-AIC<br/><br/>Pois-AIC 38354.086    NB-AIC    LM-BIC<br/><br/>Pois-BIC 38365.678    NB-BIC",
+            "Figures: Relative improvement in model fit (PCR testing)<br/><br/>Relative improvement in model fit (Mobility)<br/><br/>Members of the COVID-19 working group: Bo Xu, Sumiko Mekaru, Kara Sewalk, Lauren Goodwin, Alyssa Loskill, Emily Cohn, Yulin Hswen, Sarah C. Hill, Maria M. Cobo, Alexander Zarebski, Sabrina Li, Erin Hulland, Julia Morgan, Lin Wang, Katelynn O'Brien."
+        ],
+        "funding": [
+            "Funding: HT, OGP and MUGK acknowledge support from the Oxford Martin School",
+            "MUGK is supported by a Branco Weiss Fellowship",
+            "NRF is supported by a Sir Henry Dale Fellowship",
+            "WPH was supported by the National Institute of General Medical Sciences (#U54GM088558)"
+        ],
+        "disclosures": [
+            "Competing interests: The authors declare no competing interests. Data and materials availability: Code and data are available on the following GitHub repository: https://github.com/Emergent-Epidemics/covid19_cordon Supplementary Materials Materials and Methods Supplementary Text Table S1 \u2013 S2 Fig S1 \u2013 S7 References 26 \u2013 39"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [
+                "Supplementary Materials",
+                "Supplementary information"
+            ],
+            "supplementary_figure_references": [
+                "Fig. S2",
+                "Fig. S1",
+                "Fig. S3",
+                "Table S1",
+                "Fig. S8",
+                "Fig. S4",
+                "Fig. S6",
+                "Fig. S5",
+                "Fig. S7",
+                "Table S2",
+                "Supplementary Tables",
+                "Supplementary Figures",
+                "Figure S1",
+                "Figure S2",
+                "Figure S3",
+                "Figure S4",
+                "Figure S5",
+                "Figure S6",
+                "Figure S7",
+                "Figure S8"
+            ]
+        },
+        "introduction": [
+            "Main text The outbreak of COVID-19 has spread rapidly from its origin in Wuhan, Hubei Province, China (1). A range of interventions have been implemented following the detection in late December 2019 of a cluster of pneumonia cases of unknown etiology, and identification of the causative virus SARS-CoV-2 in early January 2020 (2). Interventions include improved rates of diagnostic testing, clinical management, rapid isolation of suspected and confirmed cases and, most notably, restrictions on mobility (hereafter called cordon sanitaire) imposed on Wuhan city on 23rd January. Travel restrictions were subsequently imposed on 14 other cities across Hubei Province and partial movement restrictions have been enacted in many cities across China. Initial analysis suggests that the Wuhan cordon sanitaire resulted in an average delay of COVID-19 spread to other cities of 3 days (3), but the true extent of the effect of the mobility restrictions and other types of interventions on transmission has not been examined in detail (4, 5). Questions remain over how these interventions affected the spread of SARS-CoV-2 to locations outside of Wuhan. We here use real-time mobility data, crowdsourced line-list data of cases with reported travel history, and timelines of reporting changes to identify early shifts in the epidemiological dynamics of the COVID-19 epidemic in China, from an epidemic driven by frequent importations to local transmission.",
+            "Human mobility predicts the spread and size of epidemics in China As of 1st March 2020, 79,986 cases of COVID-19 have been confirmed in China (Fig. 1a) (10). Reports of cases in China were mostly restricted to Hubei until 23rd January 2020 (81% of all cases), after which most provinces reported rapid increases in cases (Fig. 1a). We build a line list dataset from reported cases in China with information on travel history and demographic characteristics. We note that the majority of early cases (before 23rd January 2020, Materials and Methods) reported outside of Wuhan had known travel history to Wuhan (57%) and were distributed across China (Fig. 1b), highlighting the importance of Wuhan as the major source. However, testing was initially focused mainly on travelers to Wuhan, potentially biasing our estimates of travel related infections upwards (Materials and Methods). Among cases known to have traveled from Wuhan before 23rd January 2020, the time from symptom onset to confirmation was 6.5 days (SD: 4.2, Fig. S2), providing opportunity for onward transmission at the destination. More active surveillance brought this interval down to 4.8 days (SD: 3.03, Fig. S2) for those who travelled after 23rd January 2020.",
+            "To identify accurately a timeframe for evaluating early shifts in SARS-CoV-2 transmission in China, we first estimated from case data the average incubation period of COVID-19 infection (i.e. the duration between time of infection and symptom onset (6, 7)). Since infection events are typically not directly observed, we estimate incubation period from the span of exposure during which infection likely occurred. Using detailed information on 38 cases for whom both the dates of entry to and exit from Wuhan are known, we estimate the mean incubation period to be 5.1 days (std. dev. = 3.0 days; Fig. S1), similar to previous estimates from other data (8, 9). In subsequent analyses we add an upper estimate of one incubation period (mean + 1 standard deviation = 8 days) to the date of Wuhan shutdown, in order to delineate the date before which cases recorded in other provinces might represent infections acquired in Hubei (i.e. 1st February 2020; Fig. 1a).",
+            "In order to understand whether the volume of travel within China can predict the epidemic outside of Wuhan, we analyzed real-time human mobility data from Baidu Inc., together with epidemiological data from each province (Materials and Methods). Small local transmission clusters (in a family) of COVID19 were first reported in Guangzhou, Guangdong province (14). We investigated spatio-temporal disease spread to elucidate the relative contribution of Wuhan to transmission elsewhere and evaluate how the cordon sanitaire may have impacted it.",
+            "Among cases reported outside Hubei province in our dataset, we observe 515 cases with known travel history to Wuhan and a symptom onset date before 31st January 2020, compared with only 39 after 31st January, 2020, illustrating the effect of travel restrictions (Figs. 1b, 2a, Fig. S3). We confirm the expected decline of importation with real-time human mobility data from Baidu Inc. Movements of individuals out of Wuhan increased in the days before the Lunar New Year and the establishment of the cordon sanitaire, before rapidly decreasing to almost no movement (Figs. 2a,b). The travel ban appears to have prevented travel in and out of Wuhan around the time of the Lunar New Year celebration (Fig. 2a) and likely reduced further dissemination of SARS-CoV-2 from Wuhan.",
+            "To test the contribution of the epidemic in Wuhan to seeding epidemics elsewhere in China we build a na\u00efve COVID-19 GLM (15) model of daily case counts (Materials and Methods). We estimate the epidemic doubling time outside Hubei to be 4.0 days (range across provinces of 3.6 - 5.0 days) and estimate the epidemic doubling time within Hubei to be 7.2 days, consistent with previous reports (5, 9, 16, 17). Our predicts daily case counts across all provinces with relatively high accuracy (as measured with a pseudo-R2 from a negative binomial GLM) throughout early February 2020, and when accounting for human mobility (Figs. 2c, Table S1, S2).",
+            "We find that the magnitude of the epidemic (total number of cases until February 10, 2020) outside of Wuhan is remarkably well predicted by the volume of human movement out of Wuhan alone (R2 = 0.89 from a log-linear regression using cumulative cases, Fig. S8). Therefore cases exported from Wuhan prior to the cordon sanitaire appear to have not only contributed to initiating local chains of transmission, both in neighboring provinces such as Henan, and in comparatively more distant provinces, e.g., Guangdong and Zhejiang (Figs. 1a, 2b) but that the frequency of introductions from Wuhan are also predictive of the size of the epidemic in other provinces (controlling for population size). After 1st February 2020 (corresponding to one mean + one SD incubation period after the cordon sanitaire and other interventions were implemented), the correlation of daily case counts and human mobility from Wuhan decreases (Figs. 2c) which indicates that variability is better explained by other factors such as local public health response. This suggests that travel restrictions may have reduced the flow of case importations from Wuhan; but also that other factors guiding a local epidemic may be taking over.",
+            "correlation between daily incidence in Wuhan and incidence in all other provinces weighted by human mobility.",
+            "We also estimate the growth rates of the epidemic in all other provinces (Materials and Methods). Interestingly, we find that all provinces outside Hubei experienced faster growth rates between January 9th \u2013 January 22nd, 2020 (Fig. 3b, Fig. S4b) which was the time before travel restrictions and drastic control measures were implemented (Fig. 3c, Fig. S6); this is also apparent from the case counts by province (Fig. S6). In the same period, we show that variation in the growth rates are almost entirely explained by human movements from Wuhan (Fig. 3c), consistent with theory of infectious disease spread in highly coupled metapopulations (19, 20). Following the implementation of drastic control measures across the country, growth rates become negative (Fig 3b), indicating that transmission is being successfully mitigated. The correlation of growth rates and human mobility from Wuhan becomes negative, i.e. provinces with larger mobility prior to the cordon sanitaire (but also larger number of cases overall) have more rapidly declining growth rates of daily case counts. This could be partly due to travel restrictions but also the fact that control measures may have been more drastic in locations with larger outbreaks with local transmission (see more detail in section \u201cCurrent role of imported cases in Chinese provinces\u201d).",
+            "log linear daily case counts in each province (Materials and Methods). Above the red line are positive growth rates and below are growth rates that are negative. Blue indicates before the implementation of the cordon sanitaire and green after. c) Relationship between the growth rate and human mobility at different times of the epidemic. Blue indicates before the implementation of the cordon sanitaire and green after.",
+            "The travel ban coincides with increased testing capacity across provinces in China. An alternative hypothesis is that the observed epidemiological patterns outside Wuhan are the result of increased testing capacity. We test this hypothesis by including differences in testing capacity before and after the rollout of large scale testing in China on 20th of January 2020 and test its impact on the predictability of daily cases (Materials and Methods). We plot the relative improvement in the prediction of our model (based on normalized residual error) of (i) a model that includes mobility from Wuhan and (ii) a model that includes testing availability (see more details in Materials and Methods). Overall, the inclusion of mobility data from Wuhan produces a significant improvement in the models prediction (delta-BIC > 250, (24)) over a naive model that considers only autochthonous transmission with a doubling time of 2-8 days (Fig. 3b). Of the 27 provinces in China reporting cases through February 6th, 2020, we find that in 12 provinces the largest improvements in prediction can be achieved using mobility only (Fig. S5). In 10 provinces, both testing and mobility improve the models prediction and in only one province testing is the most important factor improving model prediction (Fig. S5). We conclude that laboratory testing during the early phase of the epidemic is critical, however, mobility out of Wuhan remains the main driver of spread prior to the shutdown.",
+            "Current role of imported cases in Chinese provinces As case counts are decreasing outside Wuhan (Fig 3b), we can further investigate the current contribution of imported cases to local epidemics outside Wuhan by investigating case characteristics. Age and sex distributions can reflect heterogeneities in the risk of infection within affected populations. To investigate meaningful shifts in the epidemiology of the COVID-19 outbreak through time, we examined age and sex data for cases from different periods of the outbreak, and from individuals with and without travel from Wuhan. However, details of travel history exist for only a fraction of confirmed cases and this information is particularly scant for some provinces (e.g. Zhejiang and Guangdong). Consequently, we grouped confirmed cases into four categories: (I) early cases with travel history (early = reported before 1st Feb), (II) early cases without travel history, (III) later cases with travel history (later = reported between 1st \u2013 10th Feb), (IV) later cases without travel history.",
+            "Using crowdsourced case data, we found that cases with travel history (categories I and III) had similar median ages and sex ratios in both the early and later phases of the outbreak (41 vs 42 years old, 50% interquartile interval: 32.75 vs 30.75 and 54.25 vs 53.5 respectively, p-value > 0.1; 1.47 vs. 1.45 males per female, respectively; Fig. 4d, Fig. S7). Early cases with no information on travel history (category II) had a similar median age and sex ratio to those with known travel history (42 years old (50% interquartile interval: 30.5 \u2013 49.5, p-value > 0.1) and 1.80 males per female, Fig. 4d). However, the sex ratio of later cases without reported travel history (category IV) shifted to approximately 1:1 (57 male vs. 62 female, X2 test, p-value < 0.01), as expected under a null hypothesis of equal transmission risk (Fig. 4a,b,d, see also reference (11, 12), Materials and Methods) and the median age in this group increased to 46 (50% interquartile interval: 34.25 \u2013 58, t-test: p-value < 0.01) (Figs. 4a,b,c, Fig. S7). We hypothesize that many of the cases with no known travel history in the early period were indeed travelers that contributed to disseminating SARS-CoV-2 outside of Wuhan. The shift towards more equal sex ratios and older ages in non-travellers after 31st January 2020 confirm the finding that epidemics outside Wuhan were then driven by local transmission dynamics. The case definition changed to include cases without travel history to Wuhan after 23th January 2020 (Materials and Methods)."
+        ]
+    },
+    "structured_content": {
+        "Discussion": [
+            "Containment of respiratory infections is particularly difficult if they are characterized by relatively mild symptoms or transmission before the onset of disease (25). Intensive control measures, including travel restrictions, have been implemented to limit the spread of COVID-19 in China. Here, we showed that this combination of interventions was successful in mitigating the spread and reduce local transmission of COVID-19 in China although it is not possible to definitively determine the individual impact of each intervention. More analyses will be required to determine how to optimally balance the expected positive effects on health with the negative impact on individual liberties, the economy, and society at large."
+        ],
+        "References": [
+            "1. S. Chen, J. Yang, W. Yang, C. Wang, T. Baerninghausen, COVID-19 control in China during mass population movements at New Year. Lancet (2020), doi:10.1016/ S0140-6736(20)30421-9.",
+            "2. N. Zhu et al, A Novel Coronavirus from Patients with Pneumonia in China, 2019. N. Engl. J. Med., NEJMoa2001017 (2020).",
+            "3. H. Tian et al, medRxiv, in press, doi:10.1101/2020.01.30.20019844. 4. Z. Du et al, Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other",
+            "Cities in China. Emerg. Infect. Dis. 26 (2020), doi:10.3201/eid2605.200146. 5. J. T. Wu, K. Leung, G. M. Leung, Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. 6736 (2020), doi:10.1016/S0140-6736(20)30260-9. 6. S. Cauchemez et al, Middle East respiratory syndrome coronavirus: Quantification of the extent of the epidemic, surveillance biases, and transmissibility. Lancet Infect. Dis. 14, 50\u201356 (2014). 7. J. Lessler et al, Incubation periods of acute respiratory viral infections: a systematic review. Lancet Infect. Dis. 9, 291\u2013300 (2009). 8. J. A. Backer, D. Klinkenberg, J. Wallinga, Incubation period of 2019 novel coronavirus (2019nCoV) infections among travellers from Wuhan, China, 20\u201328 January 2020. Eurosurveillance. 25, 20\u201328 (2020). 9. Q. Li et al, Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N. Engl. J. Med., 1\u20139 (2020). 10. World Health Organization (WHO), Coronavirus disease 2019 (COVID-19) Situation Report \u2013 27 (2020) (available at https://www.who.int/docs/default-source/coronaviruse/situationreports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_2). 11. Novel Coronavirus Pneumonia Emergency Response Epidemiology Team, The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020. China CDC Wkly. 41, 145\u2013151 (2020). 12. E. Goldstein, V. E. Pitzer, J. J. O\u2019Hagan, M. Lipsitch, Temporally Varying Relative Risks for Infectious Diseases. Epidemiology. 28, 136\u2013144 (2017). 13. World Health Organization (WHO), Novel Coronavirus (2019-nCoV) SITUATION REPORT - 3 (2020) (available at https://apps.who.int/iris/bitstream/handle/10665/330762/nCoVsitrep23Jan2020-eng.pdf). 14. J. F.-W. Chan et al, A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 395, 514\u2013523 (2020). 15. T. J. Hastie, D. Pregibon, in Statistical Models in S, J. M. Hastie, C. T. J., Eds. (Wadsworth & Brooks/Cole, 1992). 16. J. Riou, C. L. Althaus, Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020. Eurosurveillance. 25, 1\u20135 (2020). 17. A. R. Tuite, D. N. Fisman, Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus (2019-nCoV) Epidemic. Ann. Intern. Med., 2019\u20132020 (2020). 18. Q. Li et al, Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N. Engl. J. Med., NEJMoa2001316 (2020). 19. M. J. Keeling, O. N. Bj\u00f8rnstad, B. T. Grenfell, in Ecology, Genetics and Evolution of Metapopulations (Elsevier, 2004; https://linkinghub.elsevier.com/retrieve/pii/B9780123234483500192), pp. 415\u2013445. 20. D. J. Watts, R. Muhamad, D. C. Medina, P. S. Dodds, Multiscale, resurgent epidemics in a hierarchical metapopulation model. Proc. Natl. Acad. Sci. 102, 11157\u201311162 (2005). 21. G. Chowell, L. Sattenspiel, S. Bansal, C. Viboud, Mathematical models to characterize early epidemic growth: A review. Phys. Life Rev. 18, 66\u201397 (2016). 22. C. Viboud et al, Synchrony, waves, and spatial hierarchies in the spread of influenza. Science. 312, 447\u201351 (2006).",
+            "23. M. J. Keeling, B. T. Grenfell, Individual-based Perspectives on R0. J. Theor. Biol. 203, 51\u201361 (2000).",
+            "24. K. P. Burnham, D. R. Anderson, Multimodel Inference. Sociol. Methods Res. 33, 261\u2013304 (2004). 25. C. Fraser, S. Riley, R. M. Anderson, N. M. Ferguson, Factors that make an infectious disease outbreak controllable. Proc. Natl. Acad. Sci. 101, 6146\u20136151 (2004). 26. B. Xu, M. U. G. Kraemer, Open access epidemiological data from the COVID-19. Lancet Infect.",
+            "Dis. 3099, 30119 (2020). 27. B. Xu et al, Sci. Data, in press.",
+            "28. R. E. Ramshaw et al, A database of geopositioned Middle East Respiratory Syndrome",
+            "Coronavirus occurrences. Sci. Data. 6, 318 (2019). 29. M. L. McHugh, The Chi-square test of independence. Biochem. Medica. 23, 143\u2013149 (2013). 30. J. H. McDonald, Handbook of Biological Statistics (Sparky House Publishing, Baltimore, Maryland, ed. 3, 2014). 31. N. R. Faria et al, Genomic and epidemiological monitoring of yellow fever virus transmission potential. Science. 361, 894\u2013899 (2018). 32. M. U. G. Kraemer et al, Past and future spread of the arbovirus vectors Aedes aegypti and Aedes albopictus. Nat. Microbiol. 4, 854\u2013863 (2019). 33. G. Jin, J. Yu, L. Han, S. Duan, The impact of traffic isolation in Wuhan on the spread of 2019-",
+            "nCov. medRxiv (2020), doi:https://doi.org/10.1101/2020.02.04.20020438. 34. A. S. Ai et al, Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv (2020), doi:doi.org/10.1101/2020.02.04.20020339. 35. D. Bates, M. M\u00e4chler, B. Bolker, S. Walker, Fitting Linear Mixed-Effects Models Using lme[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]. J.",
+            "Stat. Softw. 67, 201\u2013210 (2015). 36. J. Friedman, T. Hastie, R. Tibshirani, Regularization Paths for Generalized Linear Models via",
+            "Coordinate Descent. J. Stat. Softw. 33 (2010), doi:10.18637/jss.v033.i01. 37. B. Ripley et al, MASS. R package version 7.3-51.5. (2019) (available at https://cran.rproject.org/package=MASS). 38. H. Heinzl, M. Mittlb\u00f6ck, Pseudo R-squared measures for Poisson regression models with over- or underdispersion. Comput. Stat. Data Anal. 44, 253\u2013271 (2003). 39. A. Zeileis, C. Kleiber, S. Jackman, Regression models for count data in R. J. Stat. Softw. 27, 1\u201325",
+            "(2008).",
+            ""
+        ],
+        "Acknowledgements": [
+            "We would like to thank all individuals who are collecting epidemiological data of the COVID-19 outbreak around the world. Funding: HT, OGP and MUGK acknowledge support from the Oxford Martin School. MUGK is supported by a Branco Weiss Fellowship. NRF is supported by a Sir",
+            "Henry Dale Fellowship. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. WPH was supported by the National Institute of General",
+            "Medical Sciences (#U54GM088558). Authors contributions: MUGK, OGP, SVS developed the idea and research. MUGK and SVS wrote the first draft of the manuscript and all other authors discussed results and edited the manuscript. MUGK, BG, SVS, DMP and the open COVID-19 data working group collected and validated epidemiological data. RL and MUGK collected intervention data. C-HY, BK, and",
+            "SVS collected and processed human mobility data. Competing interests: The authors declare no competing interests. Data and materials availability: Code and data are available on the following GitHub repository: https://github.com/Emergent-Epidemics/covid19_cordon Supplementary Materials Materials and Methods Supplementary Text Table S1 \u2013 S2 Fig S1 \u2013 S7 References 26 \u2013 39"
+        ],
+        "Materials and Methods": [
+            "11. Department of Zoology, University of Oxford, United Kingdom 12. Harvard Medical School, Harvard University, Boston, United States 13. Boston Children\u2019s Hospital, Boston, United States 14. Network Science Institute, Northeastern University, Boston, United States 15. School of Biological and Environmental Sciences, Universidad San Francisco de Quito USFQ, Quito, Ecuador 16. Mathematical Sciences, University of Southampton, Southampton, United Kingdom 17. Institute for Health Metrics and Evaluation, Department of Health Metrics, University of",
+            "Washington, Seattle, United States 18. Harvard T.H. Chan School of Public Health, Boston, United States 19. Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France",
+            "20. State Key Laboratory of Remote Sensing Science, College of Global Change and Earth System Science, Beijing Normal University, Beijing, China",
+            "Epidemiological data: No officially reported line list was available for cases in China (26). We use a standard protocol (27, 28) to extract individual level data from December 1st, 2019 - February 10th, 2020. Sources are mainly official reports from provincial, municipal or national health governments. Data included basic demographics (age, sex), travel histories and key dates (dates of onset of symptoms, hospitalization, and confirmation). Data were entered by a team of data curators on a rolling basis and technical validation and geo-positioning protocols were applied continuously to ensure validity. A detailed description of the methodology is available (27) (attached in Supplementary information). Lastly, total numbers were matched with officially reported data from China and other government reports. For sensitivity, GLM analyses (see below) were performed with case counts from the World Health Organization.",
+            "Proportions of symptomatic travelers: The proportion of cases who travelled while symptomatic was assessed from a subset of 236 cases for whom the dates of symptom onset and departure from Wuhan were available. Residency was split into three categories: Wuhan, China and International. Foreigners living in Wuhan were categorized as Wuhan and patients with missing Wuhan residency were either kept as missing values or categorized according to their country of origin. Both parametric (\u03c72 test, (29)) and non-parametric (exact Fisher test, (30)) tests were performed and the uncertainty in proportions was assessed by the standard deviation of sample proportions.",
+            "Statistical inference of the incubation period: The incubation period is the time interval between infection and symptom onset. We assumed that cases travelling from Wuhan were exposed during their stay in Wuhan. We estimated the incubation period from 38 travelling cases returning from Wuhan with known dates of symptom onset, entry and exit. The end of the exposure period was assumed to be the exit travel date except if symptom onset occurred prior to the exit date (in which case exposure was assumed to have occurred prior to symptom onset). The start of the exposure period corresponded to the entry date. We assumed that the incubation period could not exceed 30 days.",
+            "For each case, the minimum and maximum incubation period was derived from the dates of entry, exit and symptom onset",
+            "We fitted a truncated gamma distribution (0 to 30 days) and estimated the mean and variance of the incubation period using Markov Chain Monte Carlo (MCMC) in a Bayesian framework using an uninformative prior distribution. We derived the likelihood as follows:",
+            "A Metropolis-Hastings algorithm was implemented in R. Marginal posteriors were sampled from a chain of 5,000 steps after discarding a burn-in of 50 steps. Convergence was inspected visually.",
+            "Models of shifting age and sex distributions: Age and sex distributions are important in understanding risk of infection across populations. Assuming risk to be distributed relatively equally across a population, as an outbreak evolves age and sex distributions should follow the underlying population structure. Varying degrees of immunity and exposure may shift these distributions (31). To examine whether the ongoing outbreak shifted from an epidemic concentrated in Wuhan and among travelers from",
+            "Wuhan to an epidemic that was self-sustained in provinces across China we use age and sex data from different periods of the outbreak for individuals with reported travel history and no known travel history. We define two periods of the outbreak, an \u201cearly\u201d phase, starting with the first reports in early December and ending a set number of days after the Wuhan shutdown. This was selected to be 8 days after the Wuhan shutdown, which conservatively corresponds to one incubation period + 1SD (see above) after the shutdown. After that date (i.e. 1st Feb 2020) we assume that most reported transmissions in provinces outside of Wuhan are the result of local transmission. We further divided our data in those that had cases with known travel history to Wuhan and those who did not. Then we produce the following summary statistics: 1. Average age stratified by sex for all cases with reported travel history to Wuhan. 2. Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between December 1, 2019 - January 31, 2020.",
+            "We then compare these with: 3. Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between January 31, 2020 - February 10, 2020.",
+            "Model M1 compares the distribution of age and sex among travelers to the reported infections outside Wuhan with no known travel history. In case these two distributions are similar, import driven epidemic can be concluded. Under our model assumptions M2, if the epidemic was driven largely by importations across the two time periods, all age and sex distributions should mirror those of the reported traveler infections. Under our model assumption M3, if the epidemic was driven by other factors (i.e., local transmission), the two distributions should vary across the two time periods.",
+            "We cannot exclude the possibility that shifts in distributions may be due to heightened awareness among the general population which may have increased reporting in female cases later in the epidemic. Further, more work will be necessary to understand the differential risk of severe or symptomatic disease to fully understand the age and sex distributions in this outbreak. For example, why there are relatively few reports of cases <18y old. However, as for other respiratory pathogens symptomatic and severe infection were more concentrated in older populations. We do not intend to make any general statements about differential risk but were more interested in shifts in reported cases across multiple geographies in China.",
+            "Real time human mobility data: We extract human mobility data from the Baidu Qianxi web platform, which presents daily population travels between cities or provinces tracked through the Baidu Huiyan system. The data do not represent numbers of individual travelers but rather an index of relative movements constructed by Baidu\u2019s proprietary methods which are correlated with human mobility (32) (http://qianxi.baidu.com/). In particular, two pieces of information are collected. First, we extract a series of migration scale indices for traveling out of Wuhan, from January 1st to February 10, both in 2019 and 2020. Second, we obtain the proportion of human movement from Wuhan were bound for each of 31 provinces in China. These proportions are available for January 1st - February 10, 2020. Based on this data we had access to both changes in mobility volume and changes in mobility direction. See more detailed descriptions of the human movement data here: (33, 34)",
+            "Review of interventions and reporting shifts: We reviewed the literature and online social media to understand the key timings of interventions and announcements that are relevant for disease transmission across China. We collated information about the type (e.g., announcement of outbreak, travel restrictions, isolation of patients, etc.), geographic location (e.g., city where available, province), and timing (specific date or date range).",
+            "COVID-19 case definitions: Definitions of probable and confirmed COVID-19 cases have changed throughout the epidemic. We collected data from official sources describing the timing and specifics of the case definitions.",
+            "From January 18-22: Probable: Need to satisfy (i) and (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced. ii. Epidemiologic history: (1) within 2 weeks of symptom onset, Wuhan travel or resident history; or within 2 weeks of symptom onset, contact with persons from Wuhan who had fever with respiratory symptoms; or belong to a cluster. Confirmed: Need to satisfy criteria for probable case and have a real-time quantitative polymerase chain reaction (RT-qPCR) positive result from sputum, nasopharyngeal swabs, lower respiratory tract secretions or other sample tissue, or genome sequencing highly similar with known SARS-CoV-2. available strains.",
+            "From January 22-23: Probable: Need to satisfy (i) and any one epidemiologic history described in (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced ii. Epidemiologic history: (1) within 2 weeks of symptom onset, Wuhan travel or resident history; (2) within 2 weeks of symptom onset, contact with persons from Wuhan who had fever with respiratory symptoms; (3) belong to a cluster or had epidemiologic link with confirmed cases. Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from respiratory or blood samples, or genome sequencing highly similar with known SARS-CoV-2. available strains.",
+            "From January 23-27: Probable: Need to satisfy (i) and (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced ii. Epidemiologic history: within 2 weeks of symptom onset, Wuhan travel or resident history; or within 2 weeks of symptom onset, contact with persons from Wuhan who had fever with respiratory symptoms, or belong to a cluster. Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from sputum, nasopharyngeal swabs, lower respiratory tract secretions, or other samples, or genome sequencing highly similar with known SARS-CoV-2. available strains.",
+            "From January 27-February 5: Probable: Need to satisfy any two of the symptoms described in (i) and any of the epidemiological history described in (ii): i. Clinical symptoms: (1) fever; (2) imaging showing pneumonia typical of the disease; (3) during early disease, total white cells normal or reduced, or lymph cell count reduced ii. Epidemiologic history: (1) within 2 weeks of symptom onset, travel or resident history in Wuhan region or other places with sustained local transmission; (2) within 2 weeks of symptom onset, contact with persons from Wuhan city or other places with sustained local transmission who had fever with respiratory symptoms, (3) belong to a cluster or epidemiologic connection with COVID-19 infected persons. Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from respiratory or blood samples, or genome sequencing highly similar with known SARS-CoV-2. available strains from lab test of respiratory or blood samples.",
+            "Comparing predictive models of epidemic trajectories: To evaluate hypotheses regarding the effect of mobility and testing on COVID-19 dynamics, we fit three different Generalized Linear Models (GLM).",
+            "Model 1 was a Poisson GLM to estimate daily case counts, Model 2 was a negative binomial GLM to estimate daily case counts, and Model 3 was a log-linear regression to estimate daily cumulative cases. BIC scores shown in Fig. 4b are calculated on a GLM of the form Y(t) = Y(t-4) + IT(t) + M(t-5) + IM(t) where Y(t) is either the number of new cases observed on day t (Model 1 & 2) or cumulative number of cases observed through day t (Model 3), Y(t-4) represents the number of cases (or the cumulative number under Model 3) four days prior (median doubling time outside Hubei province), IT(t) is an indicator function for PCR test availability that is 1 after 19th January 2020 and 0 before, M(t-5) is the Baidu.Incestimated mobility between Wuhan and each province 5 days prior (median incubation period), and IM(t) is an indicator function which is set to 1 after 26th January 2020 and 0 before (which represents one median incubation period from 22nd January 2020). Models were fit to province-level data. The three models were compared using differences in Bayesian Information Criteria (BIC), where larger values indicate models with lower relative support, and BIC>4 considered the cutoff for substantial model improvement. We performed a detailed sensitivity analysis on the availability of PCR tests, doubling time, and incubation periods. We obtained qualitatively similar results for Model 1 (Poisson GLM fit to daily case counts), Model 2 (negative binomial GLM fit to daily case counts ), and Model 3 (log-linear regressions fit to cumulative cases), see Table S2. In addition, we provide a full time series analysis of the optimal lag structure for cases and mobility for each province. Additionally, although BIC is considered more conservative, model selection results were confirmed using AIC for model selection (see Fig. 4 and Table S2). Lastly, we validated our model selection results using elastic-net regression and n-fold cross validation as implemented in the R package GLMNET (11, 12.",
+            "Estimating epidemic doubling time: To estimate the epidemic doubling time across each province, we fit a mixed effects Poisson GLM of daily case counts to days since the first case report in each province (fixed effect) and a random effect for each province on the slope and intercept, using the R package lme[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>] v.1.1-21 (35). Daily case counts were determined using the date of symptom onset. However, we only have a symptom onset date for 667 cases. Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77). Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date.",
+            "Model selection via elastic-net regression and cross-validation: We fit regularized Poisson and negative binomial models with an elastic net penalty, i.e., 50/50 mixture of the lasso and ridge penalties, with the regularization coefficient (lambda) selected by leave-one-out cross-validation. As seen with the AIC/BIC-based model selection, the regularized model included terms for lagged cases, the mobility and testing indicator variables, and mobility out of Wuhan. The out-of-sample log likelihood for the regularized Poisson regression was -9102 and was -22519 for the negative binomial model. The significantly worse fit for the negative binomial model was primarily driven by two outlier predictions, removing those results in an out-of-sample log likelihood for the negative binomial model of -11625. Models were implemented in the R package glmnet v. 2.0-18 (36). Because glmnet has not implemented a negative binomial model, we performed regularization using the Poisson model and estimated the overdispersion parameter using the glm.nb function in the R package MASS v. 7.3-51.4 (37).",
+            "Supplementary text: To ascertain whether earlier travel restrictions could have prevented the wide-spread increase in cases witnessed in late-January we constructed a simple forecasting model for COVID-19. Briefly, we forecast the cumulative number of cases in each Chinese province by simply doubling the number of cumulative cases reported six days prior. For dates prior to Jan. 28th and after Feb 3rd, this naive forecast produces an accurate estimate of the cumulative number of cases in each province (Fig. S4). However, the cumulative number of cases reported on Jan 28th is poorly estimated using this model (Fig. S4). In order to accurately forecast the number of cases on Jan 28th, we must also include the relative amount of mobility out of Wuhan into various provinces in the regression model. In Fig. S4, we show how a model including only movement from Wuhan on January 22nd fit to the residuals from Fig. S4 is once again able to accurately forecast cumulative cases. This indicates that for any hope of success, movement restrictions must be prompt."
+        ],
+        "Supplementary": [
+            "Figures: Figure S1: a) Dates of symptom onset before date of travel from Wuhan. b) Incubation period estimates and standard deviation.",
+            "Members of the COVID-19 working group: Bo Xu, Sumiko Mekaru, Kara Sewalk, Lauren Goodwin, Alyssa Loskill, Emily Cohn, Yulin Hswen, Sarah C. Hill, Maria M. Cobo, Alexander Zarebski, Sabrina Li, Erin Hulland, Julia Morgan, Lin Wang, Katelynn O'Brien."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "cases",
+            "number": 236,
+            "context": "Lastly, total numbers were matched with officially reported data from China and other government reports. <mark class=\"stats\">For sensitivity, GLM analyses (see below) were performed with case counts from the World Health Organization.<br/><br/>Proportions of symptomatic travelers: The proportion of cases who travelled while symptomatic was assessed from a subset of 236 cases for whom the dates of symptom onset and departure from Wuhan were available</mark>. Residency was split into three categories: Wuhan, China and International"
+        },
+        {
+            "participant": "travelling cases",
+            "number": 38,
+            "context": "We assumed that cases travelling from Wuhan were exposed during their stay in Wuhan. <mark class=\"stats\">We estimated the incubation period from 38 travelling cases returning from Wuhan with known dates of symptom onset, entry and exit</mark>. The end of the exposure period was assumed to be the exit travel date except if symptom onset occurred prior to the exit date (in which case exposure was assumed to have occurred prior to symptom onset)"
+        },
+        {
+            "participant": "cases",
+            "number": 667,
+            "context": "Daily case counts were determined using the date of symptom onset. <mark class=\"stats\">However, we only have a symptom onset date for 667 cases</mark>. Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77)"
+        },
+        {
+            "participant": "data",
+            "number": 632,
+            "context": "However, we only have a symptom onset date for 667 cases. <mark class=\"stats\">Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77)</mark>. Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date.<br/><br/>Model selection via elastic-net regression and cross-validation: We fit regularized Poisson and negative binomial models with an elastic net penalty, i.e., 50/50 mixture of the lasso and ridge penalties, with the regularization coefficient (lambda) selected by leave-one-out cross-validation"
+        },
+        {
+            "participant": "cases with a recorded confirmation date",
+            "number": 31436,
+            "context": "Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77). <mark class=\"stats\">Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date.<br/><br/>Model selection via elastic-net regression and cross-validation: We fit regularized Poisson and negative binomial models with an elastic net penalty, i.e., 50/50 mixture of the lasso and ridge penalties, with the regularization coefficient (lambda) selected by leave-one-out cross-validation</mark>. As seen with the AIC/BIC-based model selection, the regularized model included terms for lagged cases, the mobility and testing indicator variables, and mobility out of Wuhan"
+        },
+        {
+            "participant": "cases",
+            "number": 236,
+            "context": "For sensitivity, GLM analyses (see below) were performed with case counts from the World Health Organization. <mark class=\"stats\">Proportions of symptomatic travelers: The proportion of cases who travelled while symptomatic was assessed from a subset of 236 cases for whom the dates of symptom onset and departure from Wuhan were available</mark>. Residency was split into three categories: Wuhan, China and International"
+        },
+        {
+            "participant": "data",
+            "number": 632,
+            "context": "However, we only have a symptom onset date for 667 cases. <mark class=\"stats\">Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77)</mark>. Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date"
+        },
+        {
+            "participant": "cases with a recorded confirmation date",
+            "number": 31436,
+            "context": "Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77). <mark class=\"stats\">Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date</mark>. Model selection via elastic-net regression and cross-validation: We fit regularized Poisson and negative binomial models with an elastic net penalty, i.e., 50/50 mixture of the lasso and ridge penalties, with the regularization coefficient (lambda) selected by leave-one-out cross-validation"
+        },
+        {
+            "participant": "cases with known travel history to Wuhan and",
+            "number": 515,
+            "context": "We investigated spatio-temporal disease spread to elucidate the relative contribution of Wuhan to transmission elsewhere and evaluate how the cordon sanitaire may have impacted it. <mark class=\"stats\">Among cases reported outside Hubei province in our dataset, we observe 515 cases with known travel history to Wuhan and a symptom onset date before 31st January 2020, compared with only 39 after 31st January, 2020, illustrating the effect of travel restrictions (Figs. 1b, 2a, Fig. S3)</mark>. We confirm the expected decline of importation with real-time human mobility data from Baidu Inc"
+        },
+        {
+            "participant": "male",
+            "number": 57,
+            "context": "Early cases with no information on travel history (category II) had a similar median age and sex ratio to those with known travel history (42 years old (50% interquartile interval: 30.5 \u2013 49.5, p-value > 0.1) and 1.80 males per female, Fig. 4d). <mark class=\"stats\">However, the sex ratio of later cases without reported travel history (category IV) shifted to approximately 1:1 (57 male vs. 62 female, X2 test, p-value < 0.01), as expected under a null hypothesis of equal transmission risk (Fig. 4a,b,d, see also reference (11, 12), Materials and Methods) and the median age in this group increased to 46 (50% interquartile interval: 34.25 \u2013 58, t-test: p-value < 0.01) (Figs. 4a,b,c, Fig. S7)</mark>. We hypothesize that many of the cases with no known travel history in the early period were indeed travelers that contributed to disseminating SARS-CoV-2 outside of Wuhan"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Both parametric (\u03c72 test, (29)) and non-parametric (exact Fisher test, (30)) tests were performed and the uncertainty in proportions was assessed by the standard deviation of sample proportions.<br/><br/>Statistical inference of the incubation period: The incubation period is the time interval between infection and symptom onset</mark>",
+                "tests": [
+                    {
+                        "test": "Fisher test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Confirmed: Need to satisfy criteria for probable case and have a RT-qPCR positive result from respiratory or blood samples, or genome sequencing highly similar with known SARS-CoV-2. available strains from lab test of respiratory or blood samples.<br/><br/>Comparing predictive models of epidemic trajectories: To evaluate hypotheses regarding the effect of mobility and testing on COVID-19 dynamics, we fit three different Generalized Linear Models (GLM).<br/><br/>Model 1 was a Poisson GLM to estimate daily case counts, Model 2 was a negative binomial GLM to estimate daily case counts, and Model 3 was a log-linear regression to estimate daily cumulative cases</mark>",
+                "tests": [
+                    {
+                        "test": "Generalized Linear Models"
+                    },
+                    {
+                        "test": "log-linear regression"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">In addition, we provide a full time series analysis of the optimal lag structure for cases and mobility for each province</mark>",
+                "tests": [
+                    {
+                        "test": "time series analysis"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Lastly, we validated our model selection results using elastic-net regression and n-fold cross validation as implemented in the R package GLMNET (11, 12.<br/><br/>Estimating epidemic doubling time: To estimate the epidemic doubling time across each province, we fit a mixed effects Poisson GLM of daily case counts to days since the first case report in each province (fixed effect) and a random effect for each province on the slope and intercept, using the R package lme4 v.1.1-21 (35)</mark>",
+                "tests": [
+                    {
+                        "test": "fixed effect"
+                    },
+                    {
+                        "test": "random effect"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "However, we only have a symptom onset date for 667 cases. <mark class=\"stats\">Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77)</mark>. Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date.<br/><br/>Model selection via elastic-net regression and cross-validation: We fit regularized Poisson and negative binomial models with an elastic net penalty, i.e., 50/50 mixture of the lasso and ridge penalties, with the regularization coefficient (lambda) selected by leave-one-out cross-validation"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Because glmnet has not implemented a negative binomial model, we performed regularization using the Poisson model and estimated the overdispersion parameter using the glm.nb function in the R package MASS v. 7.3-51.4 (37).11</mark>",
+                "tests": [
+                    {
+                        "test": "Poisson model"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Both parametric (\u03c72 test, (29)) and non-parametric (exact Fisher test, (30)) tests were performed and the uncertainty in proportions was assessed by the standard deviation of sample proportions</mark>",
+                "tests": [
+                    {
+                        "test": "Fisher test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Comparing predictive models of epidemic trajectories: To evaluate hypotheses regarding the effect of mobility and testing on COVID-19 dynamics, we fit three different Generalized Linear Models (GLM)</mark>",
+                "tests": [
+                    {
+                        "test": "Generalized Linear Models"
+                    }
+                ]
+            }
+        },
+        {
+            "p_value": "p < 0.001",
+            "context": "However, we only have a symptom onset date for 667 cases. <mark class=\"stats\">Where the date of symptom onset was not available, we estimated the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date (n =632 with both onset and confirmation dates, p < 0.001, R2 = 0.77)</mark>. Using this model, we estimated the onset date for the 31436 cases with a recorded confirmation date"
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Because glmnet has not implemented a negative binomial model, we performed regularization using the Poisson model and estimated the overdispersion parameter using the glm.nb function in the R package MASS v. 7.3-51.4 (37)</mark>",
+                "tests": [
+                    {
+                        "test": "Poisson model"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">We find that the magnitude of the epidemic (total number of cases until February 10, 2020) outside of Wuhan is remarkably well predicted by the volume of human movement out of Wuhan alone (R2 = 0.89 from a log-linear regression using cumulative cases, Fig. S8)</mark>",
+                "tests": [
+                    {
+                        "test": "log-linear regression",
+                        "value": "= 0.89"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">However, the sex ratio of later cases without reported travel history (category IV) shifted to approximately 1:1 (57 male vs. 62 female, X2 test, p-value < 0.01), as expected under a null hypothesis of equal transmission risk (Fig. 4a,b,d, see also reference (11, 12), Materials and Methods) and the median age in this group increased to 46 (50% interquartile interval: 34.25 \u2013 58, t-test: p-value < 0.01) (Figs. 4a,b,c, Fig. S7)</mark>",
+                "tests": [
+                    {
+                        "test": "t-test",
+                        "value": "< 0.01"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "symptom onset",
+        "travel history",
+        "sars cov",
+        "coronavirus",
+        "epidemics",
+        "travel restriction",
+        "cordon sanitaire",
+        "23rd january",
+        "local transmission",
+        "human mobility datum",
+        "pneumonia",
+        "control measure",
+        "mobility datum",
+        "hubei province",
+        "dynamics",
+        "incubation period",
+        "real time",
+        "COVID-19"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.22941176470588234,
+        "travel history": 0.17647058823529413,
+        "symptom onset": 0.1411764705882353,
+        "incubation period": 0.09411764705882353,
+        "travel restriction": 0.06470588235294118,
+        "cordon sanitaire": 0.06470588235294118,
+        "control measure": 0.058823529411764705,
+        "local transmission": 0.052941176470588235,
+        "pneumonia": 0.03529411764705882,
+        "coronavirus": 0.029411764705882353,
+        "epidemics": 0.029411764705882353,
+        "dynamics": 0.01764705882352941,
+        "real time": 0.0058823529411764705,
+        "sars cov": 0.0,
+        "23rd january": 0.0,
+        "human mobility datum": 0.0,
+        "mobility datum": 0.0,
+        "hubei province": 0.0
+    },
+    "species": [],
+    "summary": [
+        "<h2 style=\"display: inline\">Introduction:</h2> Main text The outbreak of COVID-19 has spread rapidly from its origin in Wuhan, Hubei Province, China (1).",
+        "The correlation of growth rates and human mobility from Wuhan becomes negative, i.e. provinces with larger mobility prior to the cordon sanitaire have more rapidly declining growth rates of daily case counts",
+        "This could be partly due to travel restrictions but the fact that control measures may have been more drastic in locations with larger outbreaks with local transmission.",
+        "The case definition changed to include cases without travel history to Wuhan after 23th January 2020 (Materials and Methods)",
+        "<h2 style=\"display: inline\">Methods:</h2> The effect of cordon sanitaire on the COVID-19 epidemic in China<br/><br/>11. Department of Zoology, University of Oxford, United Kingdom 12.",
+        "Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between December 1, 2019 - January 31, 2020",
+        "The authors compare these with: 3.",
+        "Model M1 compares the distribution of age and sex among travelers to the reported infections outside Wuhan with no known travel history",
+        "In case these two distributions are similar, import driven epidemic can be concluded.",
+        "Because glmnet has not implemented a negative binomial model, the authors performed regularization using the Poisson model and estimated the overdispersion parameter using the glm.nb function in the R package MASS v. 7.3-51.4 (37)",
+        "<h2 style=\"display: inline\">Conclusion:</h2> Containment of respiratory infections is difficult if they are characterized by relatively mild symptoms or transmission before the onset of disease (25).",
+        "Intensive control measures, including travel restrictions, have been implemented to limit the spread of COVID-19 in China.",
+        "More analyses will be required to determine how to optimally balance the expected positive effects on health with the negative impact on individual liberties, the economy, and society at large"
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Main text The outbreak of COVID-19 has spread rapidly from its origin in Wuhan, Hubei Province, China (1).",
+            "The correlation of growth rates and human mobility from Wuhan becomes negative, i.e. provinces with larger mobility prior to the cordon sanitaire have more rapidly declining growth rates of daily case counts",
+            "This could be partly due to travel restrictions but the fact that control measures may have been more drastic in locations with larger outbreaks with local transmission.",
+            "The case definition changed to include cases without travel history to Wuhan after 23th January 2020 (Materials and Methods)"
+        ],
+        "Methods": [
+            "The effect of cordon sanitaire on the COVID-19 epidemic in China<br/><br/>11. Department of Zoology, University of Oxford, United Kingdom 12.",
+            "Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between December 1, 2019 - January 31, 2020",
+            "The authors compare these with: 3.",
+            "Model M1 compares the distribution of age and sex among travelers to the reported infections outside Wuhan with no known travel history",
+            "In case these two distributions are similar, import driven epidemic can be concluded.",
+            "Because glmnet has not implemented a negative binomial model, the authors performed regularization using the Poisson model and estimated the overdispersion parameter using the glm.nb function in the R package MASS v. 7.3-51.4 (37)"
+        ],
+        "Conclusion": [
+            "Containment of respiratory infections is difficult if they are characterized by relatively mild symptoms or transmission before the onset of disease (25).",
+            "Intensive control measures, including travel restrictions, have been implemented to limit the spread of COVID-19 in China.",
+            "More analyses will be required to determine how to optimally balance the expected positive effects on health with the negative impact on individual liberties, the economy, and society at large"
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "1",
+            "alt_id": "Chen_et+al_0000_a",
+            "entry": "1. S. Chen, J. Yang, W. Yang, C. Wang, T. Baerninghausen, COVID-19 control in China during mass population movements at New Year. Lancet (2020), doi:10.1016/ S0140-6736(20)30421-9.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chen%2C%20S.%20Yang%2C%20J.%20Yang%2C%20W.%20Wang%2C%20C.%20Baerninghausen%2C%20COVID-19%20control%20in%20China%20during%20mass%20population%20movements%20at%20New%20Year"
+        },
+        {
+            "id": "2",
+            "alt_id": "Zhu_2020_a",
+            "entry": "2. N. Zhu et al., A Novel Coronavirus from Patients with Pneumonia in China, 2019. N. Engl. J. Med., NEJMoa2001017 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=N%20Zhu%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%20NEJMoa2001017%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=N%20Zhu%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%20NEJMoa2001017%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=N%20Zhu%20et%20al%20A%20Novel%20Coronavirus%20from%20Patients%20with%20Pneumonia%20in%20China%202019%20N%20Engl%20J%20Med%20NEJMoa2001017%202020"
+        },
+        {
+            "id": "3",
+            "alt_id": "Tian_0000_a",
+            "entry": "3. H. Tian et al., medRxiv, in press, doi:10.1101/2020.01.30.20019844.",
+            "crossref": "https://dx.doi.org/10.1101/2020.01.30.20019844",
+            "scite": "https://scite.ai/reports/10.1101/2020.01.30.20019844"
+        },
+        {
+            "id": "4",
+            "alt_id": "Du_2020_a",
+            "entry": "4. Z. Du et al., Risk for Transportation of 2019 Novel Coronavirus Disease from Wuhan to Other Cities in China. Emerg. Infect. Dis. 26 (2020), doi:10.3201/eid2605.200146.",
+            "crossref": "https://dx.doi.org/10.3201/eid2605.200146",
+            "scite": "https://scite.ai/reports/10.3201/eid2605.200146",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.3201/eid2605.200146"
+        },
+        {
+            "id": "5",
+            "alt_id": "Wu_et+al_2019_a",
+            "entry": "5. J. T. Wu, K. Leung, G. M. Leung, Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. 6736 (2020), doi:10.1016/S0140-6736(20)30260-9.",
+            "crossref": "https://dx.doi.org/10.1016/S0140-6736(20)30260-9",
+            "scite": "https://scite.ai/reports/10.1016/S0140-6736(20)30260-9"
+        },
+        {
+            "id": "6",
+            "alt_id": "Cauchemez_2014_a",
+            "entry": "6. S. Cauchemez et al., Middle East respiratory syndrome coronavirus: Quantification of the extent of the epidemic, surveillance biases, and transmissibility. Lancet Infect. Dis. 14, 50\u201356 (2014).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Cauchemez%2C%20S.%20Middle%20East%20respiratory%20syndrome%20coronavirus%3A%20Quantification%20of%20the%20extent%20of%20the%20epidemic%2C%20surveillance%20biases%2C%20and%20transmissibility%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Cauchemez%2C%20S.%20Middle%20East%20respiratory%20syndrome%20coronavirus%3A%20Quantification%20of%20the%20extent%20of%20the%20epidemic%2C%20surveillance%20biases%2C%20and%20transmissibility%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Cauchemez%2C%20S.%20Middle%20East%20respiratory%20syndrome%20coronavirus%3A%20Quantification%20of%20the%20extent%20of%20the%20epidemic%2C%20surveillance%20biases%2C%20and%20transmissibility%202014"
+        },
+        {
+            "id": "7",
+            "alt_id": "Lessler_2009_a",
+            "entry": "7. J. Lessler et al., Incubation periods of acute respiratory viral infections: a systematic review. Lancet Infect. Dis. 9, 291\u2013300 (2009).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lessler%2C%20J.%20Incubation%20periods%20of%20acute%20respiratory%20viral%20infections%3A%20a%20systematic%20review%202009",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lessler%2C%20J.%20Incubation%20periods%20of%20acute%20respiratory%20viral%20infections%3A%20a%20systematic%20review%202009",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lessler%2C%20J.%20Incubation%20periods%20of%20acute%20respiratory%20viral%20infections%3A%20a%20systematic%20review%202009"
+        },
+        {
+            "id": "8",
+            "alt_id": "Backer_et+al_2019_a",
+            "entry": "8. J. A. Backer, D. Klinkenberg, J. Wallinga, Incubation period of 2019 novel coronavirus (2019nCoV) infections among travellers from Wuhan, China, 20\u201328 January 2020. Eurosurveillance. 25, 20\u201328 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20A%20Backer%20D%20Klinkenberg%20J%20Wallinga%20Incubation%20period%20of%202019%20novel%20coronavirus%202019nCoV%20infections%20among%20travellers%20from%20Wuhan%20China%202028%20January%202020%20Eurosurveillance%2025%202028%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J%20A%20Backer%20D%20Klinkenberg%20J%20Wallinga%20Incubation%20period%20of%202019%20novel%20coronavirus%202019nCoV%20infections%20among%20travellers%20from%20Wuhan%20China%202028%20January%202020%20Eurosurveillance%2025%202028%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J%20A%20Backer%20D%20Klinkenberg%20J%20Wallinga%20Incubation%20period%20of%202019%20novel%20coronavirus%202019nCoV%20infections%20among%20travellers%20from%20Wuhan%20China%202028%20January%202020%20Eurosurveillance%2025%202028%202020"
+        },
+        {
+            "id": "9",
+            "alt_id": "Li_2020_a",
+            "entry": "9. Q. Li et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N. Engl. J. Med., 1\u20139 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus%E2%80%93Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "10",
+            "alt_id": "Wkly_2020_a",
+            "entry": "10. World Health Organization (WHO), Coronavirus disease 2019 (COVID-19) Situation Report \u2013 27 (2020) (available at https://www.who.int/docs/default-source/coronaviruse/situationreports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_2).11. Novel Coronavirus Pneumonia Emergency Response Epidemiology Team, The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19)\u2014 China, 2020. China CDC Wkly.41, 145\u2013151 (2020).",
+            "url": "https://www.who.int/docs/default-source/coronaviruse/situationreports/20200216-sitrep-27-covid-19.pdf?sfvrsn=78c0eb78_2).11",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20WHO%20Coronavirus%20disease%202019%20COVID19%20Situation%20Report%20%2027%202020%20available%20at%20httpswwwwhointdocsdefaultsourcecoronavirusesituationreports20200216sitrep27covid19pdfsfvrsn78c0eb78211%20Novel%20Coronavirus%20Pneumonia%20Emergency%20Response%20Epidemiology%20Team%20The%20Epidemiological%20Characteristics%20of%20an%20Outbreak%20of%202019%20Novel%20Coronavirus%20Diseases%20COVID19%20China%202020%20China%20CDC%20Wkly41%20145151%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20WHO%20Coronavirus%20disease%202019%20COVID19%20Situation%20Report%20%2027%202020%20available%20at%20httpswwwwhointdocsdefaultsourcecoronavirusesituationreports20200216sitrep27covid19pdfsfvrsn78c0eb78211%20Novel%20Coronavirus%20Pneumonia%20Emergency%20Response%20Epidemiology%20Team%20The%20Epidemiological%20Characteristics%20of%20an%20Outbreak%20of%202019%20Novel%20Coronavirus%20Diseases%20COVID19%20China%202020%20China%20CDC%20Wkly41%20145151%202020"
+        },
+        {
+            "id": "12",
+            "alt_id": "E_2017_a",
+            "entry": "12. E. Goldstein, V. E. Pitzer, J. J. O\u2019Hagan, M. Lipsitch, Temporally Varying Relative Risks for Infectious Diseases. Epidemiology. 28, 136\u2013144 (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=E%20Goldstein%20V%20E%20Pitzer%20J%20J%20OHagan%20M%20Lipsitch%20Temporally%20Varying%20Relative%20Risks%20for%20Infectious%20Diseases%20Epidemiology%2028%20136144%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=E%20Goldstein%20V%20E%20Pitzer%20J%20J%20OHagan%20M%20Lipsitch%20Temporally%20Varying%20Relative%20Risks%20for%20Infectious%20Diseases%20Epidemiology%2028%20136144%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=E%20Goldstein%20V%20E%20Pitzer%20J%20J%20OHagan%20M%20Lipsitch%20Temporally%20Varying%20Relative%20Risks%20for%20Infectious%20Diseases%20Epidemiology%2028%20136144%202017"
+        },
+        {
+            "id": "13",
+            "alt_id": "13._2019_a",
+            "entry": "13. World Health Organization (WHO), Novel Coronavirus (2019-nCoV) SITUATION REPORT - 3 (2020) (available at https://apps.who.int/iris/bitstream/handle/10665/330762/nCoVsitrep23Jan2020-eng.pdf).",
+            "url": "https://apps.who.int/iris/bitstream/handle/10665/330762/nCoVsitrep23Jan2020-eng.pdf",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=World%20Health%20Organization%20WHO%20Novel%20Coronavirus%202019nCoV%20SITUATION%20REPORT%20%203%202020%20available%20at%20httpsappswhointirisbitstreamhandle10665330762nCoVsitrep23Jan2020engpdf",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=World%20Health%20Organization%20WHO%20Novel%20Coronavirus%202019nCoV%20SITUATION%20REPORT%20%203%202020%20available%20at%20httpsappswhointirisbitstreamhandle10665330762nCoVsitrep23Jan2020engpdf"
+        },
+        {
+            "id": "14",
+            "alt_id": "Chan_2020_a",
+            "entry": "14. J. F.-W. Chan et al., A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 395, 514\u2013523 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20FW%20Chan%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%20395%20514523%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J%20FW%20Chan%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%20395%20514523%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J%20FW%20Chan%20et%20al%20A%20familial%20cluster%20of%20pneumonia%20associated%20with%20the%202019%20novel%20coronavirus%20indicating%20persontoperson%20transmission%20a%20study%20of%20a%20family%20cluster%20Lancet%20395%20514523%202020"
+        },
+        {
+            "id": "15",
+            "alt_id": "Hastie_1992_a",
+            "entry": "15. T. J. Hastie, D. Pregibon, in Statistical Models in S, J. M. Hastie, C. T. J., Eds. (Wadsworth & Brooks/Cole, 1992).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hastie%2C%20T.J.%20Pregibon%2C%20D.%20in%20Statistical%20Models%20in%201992"
+        },
+        {
+            "id": "16",
+            "alt_id": "Riou_2019_a",
+            "entry": "16. J. Riou, C. L. Althaus, Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020. Eurosurveillance. 25, 1\u20135 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=J%20Riou%20C%20L%20Althaus%20Pattern%20of%20early%20humantohuman%20transmission%20of%20Wuhan%202019%20novel%20coronavirus%202019nCoV%20December%202019%20to%20January%202020%20Eurosurveillance%2025%2015%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=J%20Riou%20C%20L%20Althaus%20Pattern%20of%20early%20humantohuman%20transmission%20of%20Wuhan%202019%20novel%20coronavirus%202019nCoV%20December%202019%20to%20January%202020%20Eurosurveillance%2025%2015%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=J%20Riou%20C%20L%20Althaus%20Pattern%20of%20early%20humantohuman%20transmission%20of%20Wuhan%202019%20novel%20coronavirus%202019nCoV%20December%202019%20to%20January%202020%20Eurosurveillance%2025%2015%202020"
+        },
+        {
+            "id": "17",
+            "alt_id": "Tuite_et+al_2019_a",
+            "entry": "17. A. R. Tuite, D. N. Fisman, Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus (2019-nCoV) Epidemic. Ann. Intern. Med., 2019\u20132020 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=A%20R%20Tuite%20D%20N%20Fisman%20Reporting%20Epidemic%20Growth%20and%20Reproduction%20Numbers%20for%20the%202019%20Novel%20Coronavirus%202019nCoV%20Epidemic%20Ann%20Intern%20Med%2020192020%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=A%20R%20Tuite%20D%20N%20Fisman%20Reporting%20Epidemic%20Growth%20and%20Reproduction%20Numbers%20for%20the%202019%20Novel%20Coronavirus%202019nCoV%20Epidemic%20Ann%20Intern%20Med%2020192020%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=A%20R%20Tuite%20D%20N%20Fisman%20Reporting%20Epidemic%20Growth%20and%20Reproduction%20Numbers%20for%20the%202019%20Novel%20Coronavirus%202019nCoV%20Epidemic%20Ann%20Intern%20Med%2020192020%202020"
+        },
+        {
+            "id": "18",
+            "alt_id": "Li_2020_b",
+            "entry": "18. Q. Li et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N. Engl. J. Med., NEJMoa2001316 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus%E2%80%93Infected%20Pneumonia%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus%E2%80%93Infected%20Pneumonia%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Li%2C%20Q.%20Early%20Transmission%20Dynamics%20in%20Wuhan%2C%20China%2C%20of%20Novel%20Coronavirus%E2%80%93Infected%20Pneumonia%202020"
+        },
+        {
+            "id": "19",
+            "alt_id": "Keeling_et+al_2004_a",
+            "entry": "19. M. J. Keeling, O. N. Bj\u00f8rnstad, B. T. Grenfell, in Ecology, Genetics and Evolution of Metapopulations (Elsevier, 2004; https://linkinghub.elsevier.com/retrieve/pii/B9780123234483500192), pp.415\u2013445.",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/B9780123234483500192"
+        },
+        {
+            "id": "20",
+            "alt_id": "Watts_et+al_2005_a",
+            "entry": "20. D. J. Watts, R. Muhamad, D. C. Medina, P. S. Dodds, Multiscale, resurgent epidemics in a hierarchical metapopulation model. Proc. Natl. Acad. Sci. 102, 11157\u201311162 (2005).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Watts%2C%20D.J.%20Muhamad%2C%20R.%20Medina%2C%20D.C.%20Dodds%2C%20P.S.%20resurgent%20epidemics%20in%20a%20hierarchical%20metapopulation%20model%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Watts%2C%20D.J.%20Muhamad%2C%20R.%20Medina%2C%20D.C.%20Dodds%2C%20P.S.%20resurgent%20epidemics%20in%20a%20hierarchical%20metapopulation%20model%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Watts%2C%20D.J.%20Muhamad%2C%20R.%20Medina%2C%20D.C.%20Dodds%2C%20P.S.%20resurgent%20epidemics%20in%20a%20hierarchical%20metapopulation%20model%202005"
+        },
+        {
+            "id": "21",
+            "alt_id": "Chowell_et+al_2016_a",
+            "entry": "21. G. Chowell, L. Sattenspiel, S. Bansal, C. Viboud, Mathematical models to characterize early epidemic growth: A review. Phys. Life Rev. 18, 66\u201397 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Chowell%2C%20G.%20Sattenspiel%2C%20L.%20Bansal%2C%20S.%20Viboud%2C%20C.%20Mathematical%20models%20to%20characterize%20early%20epidemic%20growth%3A%20A%20review%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Chowell%2C%20G.%20Sattenspiel%2C%20L.%20Bansal%2C%20S.%20Viboud%2C%20C.%20Mathematical%20models%20to%20characterize%20early%20epidemic%20growth%3A%20A%20review%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Chowell%2C%20G.%20Sattenspiel%2C%20L.%20Bansal%2C%20S.%20Viboud%2C%20C.%20Mathematical%20models%20to%20characterize%20early%20epidemic%20growth%3A%20A%20review%202016"
+        },
+        {
+            "id": "22",
+            "alt_id": "Viboud_2006_a",
+            "entry": "22. C. Viboud et al., Synchrony, waves, and spatial hierarchies in the spread of influenza. Science. 312, 447\u201351 (2006).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Viboud%2C%20C.%20and%20spatial%20hierarchies%20in%20the%20spread%20of%20influenza%202006",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Viboud%2C%20C.%20and%20spatial%20hierarchies%20in%20the%20spread%20of%20influenza%202006",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Viboud%2C%20C.%20and%20spatial%20hierarchies%20in%20the%20spread%20of%20influenza%202006"
+        },
+        {
+            "id": "23",
+            "alt_id": "Keeling_2000_a",
+            "entry": "23. M. J. Keeling, B. T. Grenfell, Individual-based Perspectives on R0. J. Theor. Biol. 203, 51\u201361 (2000).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Keeling%2C%20M.J.%20Grenfell%2C%20B.T.%20Individual-based%20Perspectives%20on%20R0%202000",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Keeling%2C%20M.J.%20Grenfell%2C%20B.T.%20Individual-based%20Perspectives%20on%20R0%202000",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Keeling%2C%20M.J.%20Grenfell%2C%20B.T.%20Individual-based%20Perspectives%20on%20R0%202000"
+        },
+        {
+            "id": "24",
+            "alt_id": "Burnham_2004_a",
+            "entry": "24. K. P. Burnham, D. R. Anderson, Multimodel Inference. Sociol. Methods Res. 33, 261\u2013304 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Burnham%2C%20K.P.%20Anderson%2C%20D.R.%20Multimodel%20Inference%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Burnham%2C%20K.P.%20Anderson%2C%20D.R.%20Multimodel%20Inference%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Burnham%2C%20K.P.%20Anderson%2C%20D.R.%20Multimodel%20Inference%202004"
+        },
+        {
+            "id": "25",
+            "alt_id": "Fraser_et+al_2004_a",
+            "entry": "25. C. Fraser, S. Riley, R. M. Anderson, N. M. Ferguson, Factors that make an infectious disease outbreak controllable. Proc. Natl. Acad. Sci. 101, 6146\u20136151 (2004).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Fraser%2C%20C.%20Riley%2C%20S.%20Anderson%2C%20R.M.%20Ferguson%2C%20N.M.%20Factors%20that%20make%20an%20infectious%20disease%20outbreak%20controllable%202004"
+        },
+        {
+            "id": "26",
+            "alt_id": "Xu_2020_a",
+            "entry": "26. B. Xu, M. U. G. Kraemer, Open access epidemiological data from the COVID-19. Lancet Infect. Dis. 3099, 30119 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Xu%2C%20B.%20Kraemer%2C%20M.U.G.%20Open%20access%20epidemiological%20data%20from%20the%20COVID-19.%20Lancet%20Infect%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Xu%2C%20B.%20Kraemer%2C%20M.U.G.%20Open%20access%20epidemiological%20data%20from%20the%20COVID-19.%20Lancet%20Infect%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Xu%2C%20B.%20Kraemer%2C%20M.U.G.%20Open%20access%20epidemiological%20data%20from%20the%20COVID-19.%20Lancet%20Infect%202020"
+        },
+        {
+            "id": "27",
+            "alt_id": "Xu_0000_a",
+            "entry": "27. B. Xu et al., Sci. Data, in press.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=B%20Xu%20et%20al%20Sci%20Data%20in%20press"
+        },
+        {
+            "id": "28",
+            "alt_id": "Ramshaw_2019_a",
+            "entry": "28. R. E. Ramshaw et al., A database of geopositioned Middle East Respiratory Syndrome Coronavirus occurrences. Sci. Data. 6, 318 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ramshaw%2C%20R.E.%20A%20database%20of%20geopositioned%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20occurrences%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ramshaw%2C%20R.E.%20A%20database%20of%20geopositioned%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20occurrences%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ramshaw%2C%20R.E.%20A%20database%20of%20geopositioned%20Middle%20East%20Respiratory%20Syndrome%20Coronavirus%20occurrences%202019"
+        },
+        {
+            "id": "29",
+            "alt_id": "Mchugh_2013_a",
+            "entry": "29. M. L. McHugh, The Chi-square test of independence. Biochem. Medica. 23, 143\u2013149 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=McHugh%2C%20M.L.%20The%20Chi-square%20test%20of%20independence%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=McHugh%2C%20M.L.%20The%20Chi-square%20test%20of%20independence%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=McHugh%2C%20M.L.%20The%20Chi-square%20test%20of%20independence%202013"
+        },
+        {
+            "id": "30",
+            "alt_id": "Mcdonald_2014_a",
+            "entry": "30. J. H. McDonald, Handbook of Biological Statistics (Sparky House Publishing, Baltimore, Maryland, ed. 3, 2014).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=McDonald%2C%20J.H.%20Handbook%20of%20Biological%20Statistics%202014"
+        },
+        {
+            "id": "31",
+            "alt_id": "Faria_2018_a",
+            "entry": "31. N. R. Faria et al., Genomic and epidemiological monitoring of yellow fever virus transmission potential. Science. 361, 894\u2013899 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Faria%2C%20N.R.%20Genomic%20and%20epidemiological%20monitoring%20of%20yellow%20fever%20virus%20transmission%20potential%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Faria%2C%20N.R.%20Genomic%20and%20epidemiological%20monitoring%20of%20yellow%20fever%20virus%20transmission%20potential%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Faria%2C%20N.R.%20Genomic%20and%20epidemiological%20monitoring%20of%20yellow%20fever%20virus%20transmission%20potential%202018"
+        },
+        {
+            "id": "32",
+            "alt_id": "Kraemer_2019_a",
+            "entry": "32. M. U. G. Kraemer et al., Past and future spread of the arbovirus vectors Aedes aegypti and Aedes albopictus. Nat. Microbiol. 4, 854\u2013863 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Kraemer%2C%20M.U.G.%20Past%20and%20future%20spread%20of%20the%20arbovirus%20vectors%20Aedes%20aegypti%20and%20Aedes%20albopictus%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Kraemer%2C%20M.U.G.%20Past%20and%20future%20spread%20of%20the%20arbovirus%20vectors%20Aedes%20aegypti%20and%20Aedes%20albopictus%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Kraemer%2C%20M.U.G.%20Past%20and%20future%20spread%20of%20the%20arbovirus%20vectors%20Aedes%20aegypti%20and%20Aedes%20albopictus%202019"
+        },
+        {
+            "id": "33",
+            "alt_id": "Jin_et+al_2019_a",
+            "entry": "33. G. Jin, J. Yu, L. Han, S. Duan, The impact of traffic isolation in Wuhan on the spread of 2019- nCov. medRxiv (2020), doi:https://doi.org/10.1101/2020.02.04.20020438.",
+            "crossref": "https://dx.doi.org/10.1101/2020.02.04.20020438",
+            "scite": "https://scite.ai/reports/10.1101/2020.02.04.20020438"
+        },
+        {
+            "id": "34",
+            "alt_id": "Ai_2019_a",
+            "entry": "34. A. S. Ai et al., Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv (2020), doi:doi.org/10.1101/2020.02.04.20020339.",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=A%20S%20Ai%20et%20al%20Population%20movement%20city%20closure%20and%20spatial%20transmission%20of%20the%202019nCoV%20infection%20in%20China%20medRxiv%202020%20doidoiorg1011012020020420020339"
+        },
+        {
+            "id": "35",
+            "alt_id": "Bates_et+al_2015_a",
+            "entry": "35. D. Bates, M. M\u00e4chler, B. Bolker, S. Walker, Fitting Linear Mixed-Effects Models Using lme4. J. Stat. Softw. 67, 201\u2013210 (2015).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Bates%2C%20D.%20M%C3%A4chler%2C%20M.%20Bolker%2C%20B.%20Walker%2C%20S.%20Fitting%20Linear%20Mixed-Effects%20Models%20Using%20lme4%202015",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Bates%2C%20D.%20M%C3%A4chler%2C%20M.%20Bolker%2C%20B.%20Walker%2C%20S.%20Fitting%20Linear%20Mixed-Effects%20Models%20Using%20lme4%202015",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Bates%2C%20D.%20M%C3%A4chler%2C%20M.%20Bolker%2C%20B.%20Walker%2C%20S.%20Fitting%20Linear%20Mixed-Effects%20Models%20Using%20lme4%202015"
+        },
+        {
+            "id": "36",
+            "alt_id": "Friedman_et+al_2010_a",
+            "entry": "36. J. Friedman, T. Hastie, R. Tibshirani, Regularization Paths for Generalized Linear Models via Coordinate Descent. J. Stat. Softw. 33 (2010), doi:10.18637/jss.v033.i01.",
+            "crossref": "https://dx.doi.org/10.18637/jss.v033.i01",
+            "scite": "https://scite.ai/reports/10.18637/jss.v033.i01",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.18637/jss.v033.i01"
+        },
+        {
+            "id": "37",
+            "alt_id": "Ripley_2019_a",
+            "entry": "37. B. Ripley et al., MASS. R package version 7.3-51.5. (2019) (available at https://cran.rproject.org/package=MASS).38. H. Heinzl, M. Mittlb\u00f6ck, Pseudo R-squared measures for Poisson regression models with over- or underdispersion. Comput. Stat. Data Anal. 44, 253\u2013271 (2003).",
+            "url": "https://cran.rproject.org/package=MASS).38",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ripley%2C%20B.%20R%20package%20version%207.3-51.5%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ripley%2C%20B.%20R%20package%20version%207.3-51.5%202019"
+        },
+        {
+            "id": "39",
+            "alt_id": "Zeileis_et+al_2008_a",
+            "entry": "39. A. Zeileis, C. Kleiber, S. Jackman, Regression models for count data in R. J. Stat. Softw. 27, 1\u201325 (2008).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Zeileis%2C%20A.%20Kleiber%2C%20C.%20Jackman%2C%20S.%20Regression%20models%20for%20count%20data%20in%20R%202008",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Zeileis%2C%20A.%20Kleiber%2C%20C.%20Jackman%2C%20S.%20Regression%20models%20for%20count%20data%20in%20R%202008",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Zeileis%2C%20A.%20Kleiber%2C%20C.%20Jackman%2C%20S.%20Regression%20models%20for%20count%20data%20in%20R%202008"
+        },
+        {
+            "id": "11",
+            "alt_id": "11._0000_a",
+            "entry": "11. Department of Zoology, University of Oxford, United Kingdom 12. Harvard Medical School, Harvard University, Boston, United States 13. Boston Children\u2019s Hospital, Boston, United States 14. Network Science Institute, Northeastern University, Boston, United States 15. School of Biological and Environmental Sciences, Universidad San Francisco de Quito USFQ, Quito, Ecuador 16. Mathematical Sciences, University of Southampton, Southampton, United Kingdom 17. Institute for Health Metrics and Evaluation, Department of Health Metrics, University of",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Department%20of%20Zoology%20University%20of%20Oxford%20United%20Kingdom%2012%20Harvard%20Medical%20School%20Harvard%20University%20Boston%20United%20States%2013%20Boston%20Childrens%20Hospital%20Boston%20United%20States%2014%20Network%20Science%20Institute%20Northeastern%20University%20Boston%20United%20States%2015%20School%20of%20Biological%20and%20Environmental%20Sciences%20Universidad%20San%20Francisco%20de%20Quito%20USFQ%20Quito%20Ecuador%2016%20Mathematical%20Sciences%20University%20of%20Southampton%20Southampton%20United%20Kingdom%2017%20Institute%20for%20Health%20Metrics%20and%20Evaluation%20Department%20of%20Health%20Metrics%20University%20of",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Department%20of%20Zoology%20University%20of%20Oxford%20United%20Kingdom%2012%20Harvard%20Medical%20School%20Harvard%20University%20Boston%20United%20States%2013%20Boston%20Childrens%20Hospital%20Boston%20United%20States%2014%20Network%20Science%20Institute%20Northeastern%20University%20Boston%20United%20States%2015%20School%20of%20Biological%20and%20Environmental%20Sciences%20Universidad%20San%20Francisco%20de%20Quito%20USFQ%20Quito%20Ecuador%2016%20Mathematical%20Sciences%20University%20of%20Southampton%20Southampton%20United%20Kingdom%2017%20Institute%20for%20Health%20Metrics%20and%20Evaluation%20Department%20of%20Health%20Metrics%20University%20of",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Department%20of%20Zoology%20University%20of%20Oxford%20United%20Kingdom%2012%20Harvard%20Medical%20School%20Harvard%20University%20Boston%20United%20States%2013%20Boston%20Childrens%20Hospital%20Boston%20United%20States%2014%20Network%20Science%20Institute%20Northeastern%20University%20Boston%20United%20States%2015%20School%20of%20Biological%20and%20Environmental%20Sciences%20Universidad%20San%20Francisco%20de%20Quito%20USFQ%20Quito%20Ecuador%2016%20Mathematical%20Sciences%20University%20of%20Southampton%20Southampton%20United%20Kingdom%2017%20Institute%20for%20Health%20Metrics%20and%20Evaluation%20Department%20of%20Health%20Metrics%20University%20of"
+        },
+        {
+            "id": "20",
+            "alt_id": "20._0000_b",
+            "entry": "20. State Key Laboratory of Remote Sensing Science, College of Global Change and Earth System Science, Beijing Normal University, Beijing, China",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=State%20Key%20Laboratory%20of%20Remote%20Sensing%20Science%20College%20of%20Global%20Change%20and%20Earth%20System%20Science%20Beijing%20Normal%20University%20Beijing%20China"
+        },
+        {
+            "id": "2",
+            "alt_id": "2._2019_b",
+            "entry": "2. Average age stratified by sex for all cases with no reported travel history to Wuhan in the period between December 1, 2019 - January 31, 2020. ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Average%20age%20stratified%20by%20sex%20for%20all%20cases%20with%20no%20reported%20travel%20history%20to%20Wuhan%20in%20the%20period%20between%20December%201%202019%20%20January%2031%202020"
+        }
+    ],
+    "facts": [
+        "have affected COVID-19 spread in China",
+        "detailed case data including travel history to elucidate the role of case importation on transmission",
+        "the spatial distribution of COVID-19 cases in China was well explained by human mobility data",
+        "growth rates became negative in most locations",
+        "shifts in the demographics of reported cases are still indicative of local chains of transmission",
+        "This study shows that the drastic control measures implemented in",
+        "China have substantially mitigated the spread of COVID-19",
+        "A range of interventions have been implemented following the detection in late December 2019 of a cluster",
+        "restrictions on mobility imposed on Wuhan city on 23rd January",
+        "Travel restrictions were subsequently imposed on 14 other cities across Hubei Province",
+        "partial movement restrictions have been enacted in many cities across China",
+        "Initial analysis suggests that the Wuhan cordon sanitaire resulted in an average delay",
+        "other types of interventions on transmission has not been examined in detail",
+        "these interventions affected the spread of SARS-CoV-2 to locations",
+        "from an epidemic driven by frequent importations to local transmission",
+        "79,986 cases of COVID-19 have been confirmed in China",
+        "Reports of cases in China were mostly restricted to Hubei until 23rd January 2020",
+        "a line list dataset from reported cases in China",
+        "Among cases known to have traveled from Wuhan before 23rd January 2020",
+        "this interval down to 4.8 days for those who travelled after 23rd January 2020",
+        "in order to delineate the date before which cases recorded in other provinces might represent infections acquired in",
+        "In order to understand whether the volume of travel",
+        "Small local transmission clusters of COVID19 were first reported in Guangzhou",
+        "investigated spatio-temporal disease spread to elucidate the relative contribution of Wuhan to transmission",
+        "Among cases reported outside Hubei province in our dataset",
+        "of Wuhan increased in the days before the Lunar New Year",
+        "Our predicts daily case counts across all provinces with relatively high accuracy",
+        "of Wuhan is remarkably well predicted by the volume of human movement",
+        "cases exported from Wuhan",
+        "prior to the cordon sanitaire appear to have not only contributed to initiating local chains of transmission",
+        "that the frequency of introductions from Wuhan are predictive of the size of the epidemic",
+        "which indicates that variability is better explained by other factors",
+        "that travel restrictions may have reduced the flow of case importations from Wuhan",
+        "correlation between daily incidence in Wuhan and incidence in all other provinces weighted by human mobility",
+        "which was the time before travel restrictions",
+        "apparent from the case counts by province",
+        "that variation in the growth rates are almost entirely explained by human movements from Wuhan",
+        "consistent with theory of infectious disease spread in highly coupled metapopulations",
+        "the fact that control measures may have been more drastic in locations with larger outbreaks",
+        "log linear daily case counts in each province",
+        "Blue indicates before the implementation of the cordon sanitaire",
+        "The travel ban coincides with increased testing capacity across provinces",
+        "An alternative hypothesis is that the observed epidemiological patterns outside Wuhan are the result of increased testing capacity",
+        "the inclusion of mobility data from Wuhan produces a significant improvement in the models prediction",
+        "of Wuhan remains the main driver of spread",
+        "Current role of imported cases in Chinese provinces As case counts are decreasing outside Wuhan",
+        "investigate meaningful shifts in the epidemiology of the COVID-19 outbreak through time",
+        "this information is scant for some provinces",
+        "p-value 4 considered the cutoff for substantial model improvement",
+        "a mixed effects Poisson GLM of daily case counts to days since the first case report",
+        "Daily case counts were determined using the date of symptom onset",
+        "the symptom onset date based on a linear regression model where symptom onset date was fit to confirmation date"
+    ],
+    "claims": [
+        "This study shows that the drastic control measures implemented in China have substantially mitigated the spread of COVID-19",
+        "We investigated spatio-temporal disease spread to elucidate the relative contribution of Wuhan to transmission elsewhere and evaluate how the cordon sanitaire may have impacted it",
+        "We find that the magnitude of the epidemic (total number of cases until February 10, 2020) outside of Wuhan is remarkably well predicted by the volume of human movement out of Wuhan alone (R2 = 0.89 from a log-linear regression using cumulative cases, Fig. S8)",
+        "We find that all provinces outside Hubei experienced faster growth rates between January 9th \u2013 January 22nd, 2020 (Fig. 3b, Fig. S4b) which was the time before travel restrictions and drastic control measures were implemented (Fig. 3c, Fig. S6); this is also apparent from the case counts by province (Fig. S6)",
+        "In the same period, we show that variation in the growth rates are almost entirely explained by human movements from Wuhan (Fig. 3c), consistent with theory of infectious disease spread in highly coupled metapopulations (19, 20)",
+        "Of the 27 provinces in China reporting cases through February 6th, 2020, we find that in 12 provinces the largest improvements in prediction can be achieved using mobility only (Fig. S5)",
+        "To investigate meaningful shifts in the epidemiology of the COVID-19 outbreak through time, we examined age and sex data for cases from different periods of the outbreak, and from individuals with and without travel from Wuhan",
+        "Using crowdsourced case data, we found that cases with travel history (categories I and III) had similar median ages and sex ratios in both the early and later phases of the outbreak (41 vs 42 years old, 50% interquartile interval: 32.75 vs 30.75 and 54.25 vs 53.5 respectively, p-value > 0.1; 1.47 vs. 1.45 males per female, respectively; Fig. 4d, Fig. S7)",
+        "We showed that this combination of interventions was successful in mitigating the spread and reduce local transmission of COVID-19 in China although it is not possible to definitively determine the individual impact of each intervention"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "We investigated spatio-temporal disease spread to elucidate the relative contribution of Wuhan to transmission elsewhere and evaluate how the cordon sanitaire may have impacted it",
+        "Among cases reported outside Hubei province in our dataset, we observe 515 cases with known travel history to Wuhan and a symptom onset date before 31st January 2020, compared with only 39 after 31st January, 2020, illustrating the effect of travel restrictions (Figs. 1b, 2a, Fig. S3)",
+        "We find that the magnitude of the epidemic outside of Wuhan is remarkably well predicted by the volume of human movement out of Wuhan alone (R2 = 0.89 from a log-linear regression using cumulative cases, Fig. S8)",
+        "Cases exported from Wuhan prior to the cordon sanitaire appear to have not only contributed to initiating local chains of transmission, both in neighboring provinces such as Henan, and in comparatively more distant provinces, e.g., Guangdong and Zhejiang (Figs. 1a, 2b) but that the frequency of introductions from Wuhan are predictive of the size of the epidemic in other provinces",
+        "After 1st February 2020, the correlation of daily case counts and human mobility from Wuhan decreases (Figs. 2c) which indicates that variability is better explained by other factors such as local public health response",
+        "This suggests that travel restrictions may have reduced the flow of case importations from Wuhan; but that other factors guiding a local epidemic may be taking over",
+        "We find that all provinces outside Hubei experienced faster growth rates between January 9th \u2013 January 22nd, 2020 (Fig. 3b, Fig. S4b) which was the time before travel restrictions and drastic control measures were implemented (Fig. 3c, Fig. S6); this is apparent from the case counts by province (Fig. S6)",
+        "The correlation of growth rates and human mobility from Wuhan becomes negative, i.e. provinces with larger mobility prior to the cordon sanitaire have more rapidly declining growth rates of daily case counts. This could be partly due to travel restrictions but the fact that control measures may have been more drastic in locations with larger outbreaks with local transmission",
+        "To investigate meaningful shifts in the epidemiology of the COVID-19 outbreak through time, we examined age and sex data for cases from different periods of the outbreak, and from individuals with and without travel from Wuhan"
+    ],
+    "top_statements": [
+        "Main text The outbreak of COVID-19 has spread rapidly from its origin in Wuhan, Hubei Province, China (1)",
+        "We investigated spatio-temporal disease spread to elucidate the relative contribution of Wuhan to transmission elsewhere and evaluate how the cordon sanitaire may have impacted it",
+        "Among cases reported outside Hubei province in our dataset, we observe 515 cases with known travel history to Wuhan and a symptom onset date before 31st January 2020, compared with only 39 after 31st January, 2020, illustrating the effect of travel restrictions (Figs. 1b, 2a, Fig. S3)",
+        "Cases exported from Wuhan prior to the cordon sanitaire appear to have not only contributed to initiating local chains of transmission, both in neighboring provinces such as Henan, and in comparatively more distant provinces, e.g., Guangdong and Zhejiang (Figs. 1a, 2b) but that the frequency of introductions from Wuhan are predictive of the size of the epidemic in other provinces",
+        "We find that all provinces outside Hubei experienced faster growth rates between January 9th \u2013 January 22nd, 2020 (Fig. 3b, Fig. S4b) which was the time before travel restrictions and drastic control measures were implemented (Fig. 3c, Fig. S6); this is apparent from the case counts by province (Fig. S6)",
+        "The correlation of growth rates and human mobility from Wuhan becomes negative, i.e. provinces with larger mobility prior to the cordon sanitaire have more rapidly declining growth rates of daily case counts. This could be partly due to travel restrictions but the fact that control measures may have been more drastic in locations with larger outbreaks with local transmission"
+    ],
+    "headline": "Among cases reported outside Hubei province in our dataset, we observe 515 cases with known travel history to Wuhan and a symptom onset date before 31st January 2020, compared with only 39 after 31st January, 2020, illustrating the effect of travel restrictions",
+    "contexts": [],
+    "abbreviations": {}
+}

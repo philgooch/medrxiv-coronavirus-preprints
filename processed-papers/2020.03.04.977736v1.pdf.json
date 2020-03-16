@@ -1,0 +1,765 @@
+{
+    "filename": "2020.03.04.977736v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 3125922,
+    "metadata": {
+        "title": "Novel Immunoglobulin Domain Proteins Provide Insights into Evolution and Pathogenesis Mechanisms of SARS-Related Coronaviruses",
+        "keywords": [
+            "Coronavirus",
+            "COVID-19",
+            "SARS",
+            "ORF8",
+            "Immunoglobin",
+            "Evolution",
+            "Pathogenicity",
+            "Immune 33 evasion"
+        ],
+        "author": "Theresa Schneider",
+        "date": 2020,
+        "affiliations": [
+            "Department of Biology, College of Arts and Sciences, Saint Louis University, MO 63110 12",
+            "School of Medicine, Saint Louis University, MO 63110 13",
+            "National Center for Biotechnology Information, National Library of Medicine, National Institutes of",
+            "Health, Bethesda, MD 20894 15",
+            "Program of Bioinformatics and Computational Biology, College of Arts and Sciences, Saint Louis",
+            "University, MO 63110 17",
+            "Corresponding Author: Dapeng Zhang, Ph.D. (dapeng.zhang@slu.edu) 18",
+            "National Center for Biotechnology Information (NCBI) with the SARS-CoV-2 genome 62 sequence (NC_045512.2) as a query (12). The program CD-HIT was used for similarity-based clustering 63 (13). A multiple sequence alignment of whole virus genomes was performed by KALIGN (14). Based on 64 the MSA, a similarity plot was constructed by a custom Python script, which calculated the identity 65 between each subject sequence and the SARS-CoV-2 genome sequence based on a custom sliding"
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.04.977736",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://biorxiv.org/cgi/content/short/2020.03.04.977736v1.pdf"
+        },
+        "abstract": "A novel coronavirus (SARS-CoV-2) is the causative agent of an emergent severe respiratory disease (COVID-19) in humans that is threatening to result in a global health crisis. By using genomic, sequence, structural and evolutionary analysis, we show that Alpha- and Beta-CoVs possess several novel families of immunoglobulin (Ig) domain proteins, including ORF8 and ORF7a from SARS-related coronaviruses and two protein groups from certain Alpha-CoVs. Among them, ORF8 is distinguished in being rapidly evolving, possessing a unique insert and a hypervariable position among SARS-CoV-2 genomes in its predicted ligand-binding groove. We also uncover many Ig proteins from several metazoan viruses which are distinct in sequence and structure but share an architecture comparable to that of CoV Ig domain proteins. Hence, we propose that deployment of Ig domain proteins is a widely-used strategy by viruses, and SARS-CoV-2 ORF8 is a potential pathogenicity factor which evolves rapidly to counter the immune response and facilitate the transmission between hosts. 32 KEYWORDS Coronavirus, COVID-19, SARS, ORF8, Immunoglobin, Evolution, Pathogenicity, Immune 33 evasion",
+        "references": "@article{edgar2004a,\n  author = {Edgar, R.C.},\n  title = {MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic acids research 32},\n  pages = \"1792-1797\" # \"2295-2300\" # \"2780-2781\" # \"420-423\" # \"567-580\",\n  date = {2004},\n  journal = {Nucleic acids research},\n  volume = {33},\n  unmatched-author = {J. Pei, B.-H. Kim, N. V. Grishin, J. S\u00f6ding, A. Biegert, A. N. Lupas, L. Holm, S. K\u00e4\u00e4ri\u00e4inen, P. Rosenstr\u00f6m, A. Schenkel, J. J. A. Armenteros et al., A. Krogh, B. Larsson, G. Von Heijne, E. L. Sonnhammer,},\n  source = {PROMALS3D: a tool for multiple protein sequence and structure alignments. Nucleic acids research 36},\n  unmatched-pages = {2295-2300 2780-2781 420-423 567-580},\n  unmatched-journal = {Bioinformatics Nature biotechnology Journal of molecular biology},\n  unmatched-volume = {24, 37, 305,},\n  number = {244},\n  language = {}\n}\n@article{hu2018a,\n  author = {Hu, D.},\n  title = {Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats},\n  journal = {Emerging microbes & infections},\n  volume = {7},\n  pages = {1\u201310},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{marra2003a,\n  author = {Marra, M.A.},\n  title = {The genome sequence of the SARS-associated coronavirus},\n  journal = {Science},\n  volume = {300},\n  pages = {1399\u20131404},\n  date = {2003},\n  more-authors = {true},\n  language = {}\n}\n@article{he2014a,\n  author = {He, B.},\n  title = {Identification of diverse alphacoronaviruses and genomic characterization of a novel severe acute respiratory syndrome-like coronavirus from bats in China},\n  journal = {Journal of virology},\n  volume = {88},\n  pages = {7070\u20137082},\n  date = {2014},\n  more-authors = {true},\n  language = {}\n}\n@article{lau2010a,\n  author = {Lau, S.K.},\n  title = {Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute, self-limiting infection that allows recombination events},\n  journal = {Journal of virology},\n  volume = {84},\n  pages = {2808\u20132819},\n  date = {2010},\n  more-authors = {true},\n  language = {}\n}\n@article{wu2016a,\n  author = {Wu, Z.},\n  title = {Deciphering the bat virome catalog to better understand the ecological diversity of bat viruses and the bat origin of emerging infectious diseases},\n  journal = {The ISME journal},\n  volume = {10},\n  pages = {609\u2013620},\n  date = {2016},\n  more-authors = {true},\n  language = {}\n}\n@article{ge2013a,\n  author = {Ge, X.-Y.},\n  title = {Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor},\n  journal = {Nature},\n  volume = {503},\n  pages = {535\u2013538},\n  date = {2013},\n  more-authors = {true},\n  language = {}\n}\n@article{hu2017a,\n  author = {Hu, B.},\n  title = {Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus},\n  journal = {PLoS pathogens},\n  volume = {13},\n  date = {2017},\n  more-authors = {true},\n  language = {}\n}\n@article{armenteros2019a,\n  author = {Armenteros, J.J.A.},\n  title = {SignalP 5.0 improves signal peptide predictions using deep neural networks},\n  journal = {Nature biotechnology},\n  volume = {37},\n  pages = {420\u2013423},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@article{krogh2001a,\n  author = {Krogh, A. and Larsson, B. and Heijne, G.Von and Sonnhammer, E.L.},\n  title = {Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes},\n  journal = {Journal of molecular biology},\n  volume = {305},\n  pages = {567\u2013580},\n  date = {2001},\n  language = {}\n}\n@article{soeding2005a,\n  author = {S\u00f6ding, J. and Biegert, A. and Lupas, A.N.},\n  title = {The HHpred interactive server for protein homology detection and structure prediction},\n  journal = {Nucleic acids research},\n  volume = {33},\n  pages = {244\u2013248},\n  date = {2005},\n  language = {}\n}\n",
+        "links": [
+            "https://www.who.int/docs/default48"
+        ],
+        "emails": [
+            "dapeng.zhang@slu.edu"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Edgar, R.C.\nTI  - MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic acids research 32\nSP  - \"1792\nEP  - 1797\" # \"2295\nPY  - 2004\nDA  - 2004\nT2  - Nucleic acids research\nVL  - 33\nC1  - J. Pei, B.-H. Kim, N. V. Grishin, J. S\u00f6ding, A. Biegert, A. N. Lupas, L. Holm, S. K\u00e4\u00e4ri\u00e4inen, P. Rosenstr\u00f6m, A. Schenkel, J. J. A. Armenteros et al., A. Krogh, B. Larsson, G. Von Heijne, E. L. Sonnhammer,\nT2  - PROMALS3D: a tool for multiple protein sequence and structure alignments. Nucleic acids research 36\nC1  - 2295-2300 2780-2781 420-423 567-580\nC1  - Bioinformatics Nature biotechnology Journal of molecular biology\nC1  - 24, 37, 305,\nIS  - 244\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hu, D.\nTI  - Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats\nT2  - Emerging microbes & infections\nVL  - 7\nSP  - 1\nEP  - 10\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Marra, M.A.\nTI  - The genome sequence of the SARS-associated coronavirus\nT2  - Science\nVL  - 300\nSP  - 1399\nEP  - 1404\nPY  - 2003\nDA  - 2003\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - He, B.\nTI  - Identification of diverse alphacoronaviruses and genomic characterization of a novel severe acute respiratory syndrome-like coronavirus from bats in China\nT2  - Journal of virology\nVL  - 88\nSP  - 7070\nEP  - 7082\nPY  - 2014\nDA  - 2014\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Lau, S.K.\nTI  - Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute, self-limiting infection that allows recombination events\nT2  - Journal of virology\nVL  - 84\nSP  - 2808\nEP  - 2819\nPY  - 2010\nDA  - 2010\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wu, Z.\nTI  - Deciphering the bat virome catalog to better understand the ecological diversity of bat viruses and the bat origin of emerging infectious diseases\nT2  - The ISME journal\nVL  - 10\nSP  - 609\nEP  - 620\nPY  - 2016\nDA  - 2016\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ge, X.-Y.\nTI  - Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor\nT2  - Nature\nVL  - 503\nSP  - 535\nEP  - 538\nPY  - 2013\nDA  - 2013\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Hu, B.\nTI  - Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus\nT2  - PLoS pathogens\nVL  - 13\nPY  - 2017\nDA  - 2017\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Armenteros, J.J.A.\nTI  - SignalP 5.0 improves signal peptide predictions using deep neural networks\nT2  - Nature biotechnology\nVL  - 37\nSP  - 420\nEP  - 423\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Krogh, A.\nAU  - Larsson, B.\nAU  - Heijne, G.Von\nAU  - Sonnhammer, E.L.\nTI  - Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes\nT2  - Journal of molecular biology\nVL  - 305\nSP  - 567\nEP  - 580\nPY  - 2001\nDA  - 2001\nLA  - \nER  - \n\nTY  - JOUR\nAU  - S\u00f6ding, J.\nAU  - Biegert, A.\nAU  - Lupas, A.N.\nTI  - The HHpred interactive server for protein homology detection and structure prediction\nT2  - Nucleic acids research\nVL  - 33\nSP  - 244\nEP  - 248\nPY  - 2005\nDA  - 2005\nLA  - \nER  - \n\n",
+        "author_conclusions": [
+            "In conclusion, the presence of fast-evolving ORF8 Ig domain proteins in the SARS-related viruses, including the emergent 2019 SARS-CoV-2, suggests that they might be potential pathogenicity factors which counter or attenuate the host immune response and might have facilitated the transmission between hosts. We hope that the discovery and analyses of the novel Ig domain proteins reported here will help the community better understand the evolution and pathogenesis mechanisms of these coronaviruses."
+        ],
+        "table_captions": [
+            {
+                "id": "Supplementary S1",
+                "caption": "Detailed information of Human SARS-CoV-2 Wuhan-Hu-1 genome and other SARS-related genomes that were used in this study (Figure 1 & Figure S1)"
+            },
+            {
+                "id": "Supplementary S2",
+                "caption": "Summary of representatives of viral Ig domain proteins which were identified in this study"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Genome comparison analysis of SARS-related CoVs. Similarity plot of SARS-related CoVs against human SARS-CoV-2 Wuhan-Hu-1 genome (NC_045512.2), based on a multiple sequence alignment of the whole genomes. Each point represents the percent identity of a 200 bp window of the alignment with a 50 bp step size between each point. The open reading frames of the SARS-CoV-2 genome (NC_045512.2) are shown above the plot. Each colored line corresponds to the nucleotide similarity between the human SARS-CoV-2 genome (NC_045512.2) and the respective SARS-related CoV genome. The red arrows and dashed line surround a region displaying major divergence due to possible recombination within SARS-related CoV genomes. The regions marked by a solid red line highlight fast-evolving regions among the SARS-related CoV genomes. For detailed information about the genomes that were used in this study, refer to Table S1"
+            },
+            {
+                "id": "2",
+                "caption": "Sequence, structure and evolutionary analysis of novel Ig domain proteins in SARS-related 288 CoVs"
+            },
+            {
+                "id": "3",
+                "caption": "A) Genomic structure analysis of SARS-related CoVs. The tree of coronavirus was built based on an MSA of a coronavirus RNA-directed, RNA polymerase domain using a maximum likelihood model. Supporting values from 100 bootstraps are shown for the major branches only. The genome structure of major representative CoVs are shown right to the terminal clade of the phylogenetic tree. (B) Representative domain architectures of the Ig components in different animal viruses. Proteins were grouped based on their families, except for proteins of coronavirus, which were grouped based on their genus. For the information of the NCBI accession numbers, refer to the supplementary data"
+            },
+            {
+                "id": "Supplementary S1",
+                "caption": "Genome comparison analysis of SARS-related CoVs"
+            },
+            {
+                "id": "Supplementary S2",
+                "caption": "Full length multiple sequence alignment of ORF7a, ORF8-Ig and ORF7a/8-like proteins. Each sequence in the MSA was labelled by its species abbreviation followed by its isolation and NCBI accession number. The predicted secondary structure is shown above the alignment and the consensus is shown below the alignment, where h stands for hydrophobic residues, s for small residues, and p for polar residues. The characteristic signal peptide, TM region and a stretch of basic residues are also labeled"
+            },
+            {
+                "id": "Supplementary S3",
+                "caption": "Structural analysis of CoV Ig domains"
+            },
+            {
+                "id": "Supplementary S4",
+                "caption": "Multiple sequence alignment of alphacoronavirus E3-CR1-like Ig domain proteins and their related Ig domains identified by profile-profile searches"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.04.977736v1.xlsx",
+        "figure_urls": [
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-001.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-002.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-003.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-004.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-005.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-006.png",
+            "https://scholarcy.nyc3.digitaloceanspaces.com/images/docker-test/2020.03.04.977736v1/img-007.png"
+        ]
+    },
+    "sections": {
+        "introduction": [
+            "Nidoviruses are an ancient group of lipid-enveloped viruses with non-segmented RNA genomes, which are known to infect oomycetes and animals, including molluscs, arthropods and vertebrates (1). Among them are the coronaviruses (CoVs) which possess the largest known monopartite RNA genomes and are classified into four genera\u2014Alphacoronavirus, Betacoronavirus, Gammacoronavirus, and<br/><br/>Deltacoronavirus (2). Over the past two decades, Beta-CoVs, including the viruses responsible for<br/><br/>Severe Acute Respiratory Syndrome (SARS) in 2003 and Middle Eastern Respiratory Syndrome (MERS) in<br/><br/>2012, have emerged as significant local land global health concerns with economic consequences (3, 4).<br/><br/>Recently, a novel severe respiratory disease has emerged in humans (abbreviated COVID-19) (5, 6).<br/><br/>COVID-19 presents with a relatively long incubation period of 1-2 weeks followed by development of fever, dry cough, dyspnea and bilateral ground-glass opacities in the lungs (7). In some patients, this can proceed to fatal respiratory failure, characterized by acute lung injury (8) and acute respiratory distress syndrome (9). Within several months of the first outbreak, there have been over 75,000 confirmed cases with over 2,000 deaths of COVID-19 globally (https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200220-sitrep-31-covid-19.pdf). Due to the rapid spread and potential severity of the disease, COVID-19 poses as a potential major threat to human health. A novel coronavirus (SARS-CoV-2) was identified as the causative agent of COVID-19, and phylogenomic analysis has shown that it belongs to the same larger clade of Beta-CoVs as the SARS-CoV with a likely origin in bats (5, 10, 11). Despite intense scrutiny, multiple proteins encoded by the SARS-related CoV (including<br/><br/>SARS-CoV-2) genome remain enigmatic. Here, we present a computational and evolutionary analysis to show that one such mysterious protein, ORF8, and several others from Alpha- and Beta-coronavirus, comprise novel families of immunoglobulin domain proteins, which might function as potential modulators of host immunity to delay or attenuate the immune response against the viruses."
+        ],
+        "methods": [
+            "Genome comparison analysis<br/><br/>We retrieved the SARS-related CoV genomes by searching against the non-redundant (nr) nucleotide database of the National Center for Biotechnology Information (NCBI) with the SARS-CoV-2 genome sequence (NC_045512.2) as a query (12). The program CD-HIT was used for similarity-based clustering (13). A multiple sequence alignment of whole virus genomes was performed by KALIGN (14). Based on the MSA, a similarity plot was constructed by a custom Python script, which calculated the identity between each subject sequence and the SARS-CoV-2 genome sequence based on a custom sliding window size and step size. Open reading frames of virus genomes used in this study were extracted from an NCBI Genbank file.<br/><br/>Protein sequence analysis<br/><br/>To collect protein homologs, iterative sequence profile searches were conducted by the programs PSI-<br/><br/>BLAST (Position-Specific Iterated BLAST)(12) and JACKHMMER (15), which searched against the nonredundant (nr) protein database of NCBI with a cut-off e-value of 0.005 serving as the significance threshold. Similarity-based clustering was conducted by BLASTCLUST, a BLAST score-based single-linkage clustering method (ftp://ftp.ncbi.nih.gov/blast/documents/blastclust.html). Multiple sequence alignments were built by the KALIGN (14), MUSCLE(16) and PROMALS3D(17) programs, followed by careful manual adjustments based on the profile\u2013profile alignment, the secondary structure information and the structural alignment. Profile-profile comparison was conducted using the HHpred program (18).<br/><br/>The consensus of the alignment was calculated using a custom Perl script. The alignments were colored using an in-house alignment visualization program written in perl and further modified using adobe illustrator. Signal peptides were predicted by the SignalP-5.0 Server (19). The transmembrane regions were predicted by the TMHMM Server v. 2.0 (20).<br/><br/>Identification of distinct viral Ig domain proteins<br/><br/>By using the protein remote relationship detection methods, we generated a collection of distinct Ig domains from the Pfam database (21) and also from our local domain database. Then, we utilized the hmmscan program of the HMMER package (22) and RPS-BLAST (12, 23) to retrieve the homologs from viral genomes.<br/><br/>Molecular Phylogenetic analysis<br/><br/>The evolutionary history was inferred by using the Maximum Likelihood method based on the JTT w/freq. model (24). The tree with the highest log likelihood is shown. Support values out of 100 bootstraps are shown next to the branches (25). Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using a JTT model, and then selecting the topology with the superior log likelihood value. A discrete Gamma distribution was used to model evolutionary rate differences among sites (4 categories). The rate variation model allowed for some sites to be evolutionarily invariable. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The tree diagram was generated using MEGA Tree Explorer (26)    Entropy analysis<br/><br/>Position-wise Shannon entropy (H) for a given multiple sequence alignment was calculated using the equation:<br/><br/>P is the fraction of residues of amino acid type i, and M is the number of amino acid types. The Shannon entropy for the ith position in the alignment ranges from 0 (only one residue at that position) to 4.32 (all residues equally represented at that position). Analysis of the entropy values which were thus derived was performed using the R language.<br/><br/>Protein Structure Prediction and Analysis<br/><br/>The secondary structural prediction was conducted using the Jnet (Joint Network) program (27). Jnet is a neural network-based predictor which trains neural networks from three different types of profiles: profile PSSM, profile HMM, and residue frequency profile. It generates a consensus secondary structure with an average accuracy of 72% or greater.<br/><br/>The Modeller9v1 program (Sali and Blundell, 1993) was utilized for homology modeling of structure of<br/><br/>SARS-CoV-2 ORF8 using the SARS-CoV ORF7 (1xak_A) (28) as a template. Since in these low sequenceidentity cases, sequence alignment is the most important factor affecting the quality of the model (Cozzetto and Tramontano, 2005), alignments used in this study have been carefully built and crossvalidated based on the information from HHpred and edited manually using the secondary structure information. We generated five models and selected the one that had better model accuracy p-value and global model quality score as assessed by ModFOLD6 online server (29). Structural analysis and comparison were conducted using the molecular visualization program PyMOL (30). The structural similarity search was performed using the DALI server (31)."
+        ],
+        "results": [
+            "<strong>Results and discussion</strong><br/><br/>Comparative genomics unveils fast-evolving regions of SARS-related CoV genomes<br/><br/>The host-pathogen arms-race has selected for a disparate complement of viral genes involved in pathogenesis. These genes often rapidly diversify through recombination and mutations to keep up with the evolution of host resistance. To identify proteins with potential pathogenic roles in COVID-19, we conducted a comparative genomic analysis of the coronaviruses. Similarity plots show that the bat CoV<br/><br/>RaTG13 is the closest relative of SARS-CoV-2 with no evidence for recombination between them (Figure and Figure S1). SARS-CoV-2 also shows good similarity to two other bat viruses, CoVZXC21 and<br/><br/>CoVZXC45, first in the 5\u2019 half of ORF1 and again after nucleotide number 20,000 of the genome.<br/><br/>However, the remaining part of ORF1 of SARS-CoV-2 and RatG13 show no specific relationship to these viruses. This suggests a recombination event between the common ancestor of SARS-CoV-2 and RaTG13, and probably another member of the SARS-related clade close to CoVZXC21 and CoVZXC45. In addition to this major recombination event, we identified several smaller regions which might have undergone recombinational diversification during the emergence of the SARS-CoV-2 genome (Figure S1). Notably, many of them are clustered in three regions displaying extensive diversification, corresponding to the N-<br/><br/>terminal region of the ORF1a polyprotein, the Spike protein, and the uncharacterized protein encoded by ORF8 (Figure 1 and Figure S1).<br/><br/>Identification of novel immunoglobin protein families in CoVs<br/><br/>Among these three fast-evolving proteins, we focused on the ORF8 protein as it is one of the so-called accessory proteins, which does not participate in viral replication (32, 33), raising the possibility that it might have a role in viral pathogenesis. It is a predicted secreted protein present only in some Beta-<br/><br/>CoVs, including SARS-CoV-2 but not the MERS-like clade. Profile-profile comparisons using a sequenceprofile built from the multiple sequence alignment of all available ORF8 proteins showed it to be unexpectedly homologous to the membrane-anchored ORF7a protein from the same subset of Beta-<br/><br/>CoVs, and several proteins (variously annotated as ORF9 or ORF10) from a subset of bat Alpha-CoVs (Figure 2A) (probability=94% of profile-profile match) (34). ORF7a is a known member of the immunoglobulin (Ig) domain superfamily and is specifically related to extracellular metazoan Ig domains that are involved in adhesion, such as ICAM (35, 36). The Beta-CoV ORF8, ORF7a and the Alpha-CoV Ig domains display a classic \u03b2-sandwich fold with seven \u03b2-stands and share the characteristic pattern of two cysteines which form stabilizing disulfide bonds with metazoan Ig domains (Figure 2A and Figure S2)<br/><br/>(37). However, they are unified as a clade by the presence of an additional pair of conserved disulfidebonding cysteines (Figure 2A). Nonetheless, there are notable structural differences between the three groups of proteins. ORF8 is distinguished from ORF7a and Alpha-CoV Ig proteins by the loss of the C-<br/><br/>terminal transmembrane (TM) helix and the acquisition of a long insert between stands 3 and 4 with a conserved cysteine which might facilitate dimerization through disulfide-bond formation (Figure 2A).<br/><br/>The homology model of ORF8, based on the structure of SARS-CoV ORF7a (pdb id:1XAK), suggests that this insert augments a potential peptide-ligand binding groove that has been proposed for ORF7a (Figure 2B and Figure S3). Hence, the emergence of the insert has gone hand-in-hand with the acquisition of a modified interaction interface.<br/><br/>Besides these families, we identified a fourth family of Ig domains from the same Alpha-CoVs which contain the above-discussed ORF7a/8-like Ig family (Figure 3A). These Alpha-CoVs typically possess one or two paralogous copies annotated as either ORF4a/b or NS5a/b. From their sequences, these Ig domains are not closely related to the ORF7a and ORF8 Ig domains (Figure S4). However, profile-profile searches have shown that they are related to Ig domains found in the adenoviral E3-CR1 proteins (probability: 90% of matching the Pfam CR1 Ig domain profile) (Figure S4). In these searches, they also yield weaker hits to two other Ig domains, namely the poxviral decoy interferon receptors and human T-<br/><br/>cell surface CD3 zeta (Figure S4).<br/><br/>ORF8 is a fast-evolving protein in SARS-related CoVs<br/><br/>Phylogenetic analysis of ORF7a, ORF8 and Alpha-CoV Ig domains shows that each group represents a distinct clade (Figure 2C). The tree topology of ORF7a mirrors that of the polymerase tree (Figure 3A); however, the topology of the ORF8-Ig clade is not consistent with it. This might be due to a recombination event between the SARS-related CoVs (as suggested by the similarity plot analysis) and/or unusual divergence under selection. To better understand the functional difference between<br/><br/>ORF8 and ORF7a, we examined the column-wise Shannon entropy in the 20 amino acid alphabet and found that the ORF8 has significantly higher mean entropy than ORF7a (ORF8: 1.09 vs ORF7a: 0.22, p<<br/><br/>10-16 for the H0 of congruent means by t-test) (Figure 2D). By comparing column-wise entropies in both the 20 amino acid and a reduced 8-letter alphabet (where amino acids are grouped based on similar side-chain chemistry), we found at least 14 positions in ORF8 which show high entropy in both alphabets as compared to a single position in ORF7a (Figure 2D). This indicates that ORF8 is a fast-evolving protein under selection for diversity as contrast to ORF7a. Strikingly, one of these highly variable positions, which features residues with very different side characters (hydrophobic, acidic, alcoholic and proline), corresponding to Leu[84] was also identified as the most variable position across 54 closely related human SARS-CoV-2 genome sequences (38). In our structural model, this residue is positioned at the predicted peptide-ligand binding groove of the ORF8-Ig domain (Figure 2B). Therefore, our entropy and structural analysis of the ORF8-Ig domain, in conjunction with its hypervariable position found in human<br/><br/>SARS-CoV-2 genomes, points to a role for ORF8 at the interface of the host-virus interaction possibly in a pathogenic context.<br/><br/>Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs<br/><br/>We examined the distribution of CoV Ig proteins in the context of a phylogenetic tree of both Beta-and<br/><br/>Alpha-CoVs based on their polymerase proteins (Figure 3A). Other than the two subsets of Beta-CoVs and Alpha-CoVs that contain the above-described Ig domain proteins, no other CoVs contain any Ig domain proteins (Figure 3A). The immediate sister-groups of the Ig-containing CoVs typically have Spike, E, M and N, and one or two other uncharacterized accessory proteins which are not Ig domains to our best knowledge. The Alpha-CoV ORF9/10 share a C-terminal TM helix and, along with ORF7a of the Beta-<br/><br/>CoVs, lack the insert in the Ig domain (Figure 2A). Hence, it is possible that this architecture represents the ancestral state which was present in the common ancestor of both Alpha-CoVs and Beta-CoVs.<br/><br/>Under this scenario, the protein was displaced/lost both in certain Alpha-CoVs and Beta-CoVs.<br/><br/>Alternatively, ORF7a could have been exchanged between Alpha- and Beta-CoVs by a recombination event. In both scenarios, ORF8 arose likely via a duplication of ORF7a in specifically the Beta-CoVs.<br/><br/>Although we couldn\u2019t identify the ultimate precursors of the CoV Ig domains, they are likely to have been acquired on at least two independent occasions from different sources. The CoV ORF7a-ORF8 families might have derived from the metazoan adhesion Ig families, and the ORF4a/b-like Ig domains of<br/><br/>Alpha-CoVs were likely acquired from adenoviral CR1 Ig domains with which they share some specific sequence features.<br/><br/>Divergent Ig proteins with a comparable architecture are deployed by distinct viruses<br/><br/>The presence of multiple Ig domains with different affinities in CoVs prompted us to more generally survey animal viruses for Ig domains. By using the Pfam models (39) and our own PSSMs created from<br/><br/>PSI-BLAST runs with Ig domains (12), we were able to identify about 17 distinct viral Ig domain families in a wider diversity of animal viruses (Figure 3B and Table S2). In addition to CoVs, such Ig domain proteins can be found in adenoviruses, NCLDVs, Herpesviruses and Phenuiviruses. These viral Ig domains are highly divergent; many of them are only found in certain viral groups. However, the majority have an architecture comparable to the CoV-Ig domains, with an N-terminal signal peptide, one or multiple Ig domains and a C-terminal TM region often followed by a stretch of basic residues. Thus, although the Ig domains are not the universally preserved component of viruses, they have been acquired and selected independently by a wide range of viruses. The presence of a proofreading 3\u2019-5\u2019 exonuclease has been proposed to favor the emergence of larger RNA genomes in CoVs (40). Indeed, this might have also contributed to the acquisition of potential pathogenesis factors such as the Ig domains described herein which are comparable to those seen in DNA viruses.<br/><br/>Novel CoV Ig domain proteins are potential immune modulators<br/><br/>Why have diverse viruses independently acquired the Ig domain during their evolution? First, the Ig domains are major mediators of adhesive interactions in both eukaryotes and prokaryotes (37, 41, 42).<br/><br/>Thus, this domain can be used for adherence for cell to cell spread (e.g. herpesviral Ig domain proteins)<br/><br/>(43). Further, Ig domains are major building blocks of metazoan immune systems. Thus, viruses often utlize this domain to disrupt immune signaling of the host. For example, in adenoviruses, the CR1 Ig domain proteins have been shown to block the surface expression on infected cells of class I major histocompatibility complex molecules by blocking their trafficking from the endoplasmic reticulum (ER)<br/><br/>to Golgi (44). This has been shown to affect the host inflammatory response and modulates the presentation of viral antigens to T-cells (45). In poxvirus, the secreted Ig domain proteins function as interferon receptors or decoys that bind the interferon-\u03b1/\u03b2 and disrupt signaling via the endogenous host receptors (46). Further, SARS-ORF7a has been implicated in the interaction with bone marrow stromal antigen 2 (BST-2), which tethers budding virions to the host cell in a broad-spectrum antiviral response, to prevent the N-linked glycosylation of BST-2 thereby crippling the host response against the virus (47). Given their shared evolutionary history and similar sequence and structural features, we predict that the newly identified CoV Ig domain proteins, such as ORF8 of SARS-CoV-2, might similarly function as immune modulators.<br/><br/>While ORF8 is a paralog of ORF7a, its lack of the TM segment, unique insert and significantly more rapid evolution suggest that it has acquired a distinct function and has been under strong positive selection<br/><br/>One possible mechanism is that, like the adenoviral CR1 proteins, it interferes with MHC molecules to attenuate antigen presentation, resulting in ineffective detection of the virus by the host immune system. Consistent with this, the SARS-CoV ortholog translocates to the ER (48) and its higher variability indicates probable selection due to its interaction with a rapidly evolving host molecule. Notably, while the SARS-CoV ORF8 isolates from civets and early stages of the human epidemic are intact, it split up into two ORFs (ORF8a and ORF8b) during the subsequent human epidemic (49). ORF8a and ORF8b retain the conserved Cys residues of the Ig domain and have been observed to form a complex in a yeast-two hybrid interaction study (50). This suggests it might still fold into an intact structure held by the two disulfide bonds formed by four conserved Cys residues.<br/><br/>In conclusion, the presence of fast-evolving ORF8 Ig domain proteins in the SARS-related viruses, including the emergent 2019 SARS-CoV-2, suggests that they might be potential pathogenicity factors which counter or attenuate the host immune response and might have facilitated the transmission between hosts. We hope that the discovery and analyses of the novel Ig domain proteins reported here will help the community better understand the evolution and pathogenesis mechanisms of these coronaviruses."
+        ],
+        "acknowledgments": [
+            "Y.T., T. S., M.L., and D. Z. were supported by Saint Louis University start-up fund. L.A. was supported by the Intramural Research Program of the NIH, National Library of Medicine."
+        ],
+        "disclosures": [
+            "<strong>Disclosure statement</strong><br/><br/>The authors declare no competing interests."
+        ],
+        "supplemental": [
+            "INFORMATION"
+        ],
+        "supplementary": [
+            "Figure S1. Genome comparison analysis of SARS-related CoVs.<br/><br/>Similarity Plot of SARS-related CoVs against human SARS-CoV-2 Wuhan-Hu-1 genome (NC_045512.2)<br/><br/>based on a multiple sequence alignment of the whole genomes. Each point represents a different slicing window size from the alignment with a different step size between each point. For each plot, the window size and step size are shown in the top left. Horizontal bars above the top plot correspond to the different open reading frames of the SARS-CoV-2 genome (NC_045512.2). Each different colored line corresponds to the nucleotide similarity between the human SARS-CoV-2 genome (NC_045512.2) and the respective SARS-related CoV genome. The red arrows and solid lines surround regions which display recombination within the SARS-related CoV genomes. The single red arrows point to specific regions of recombination.",
+            "Figure S2. Full length multiple sequence alignment of ORF7a, ORF8-Ig and ORF7a/8-like proteins.<br/><br/>Each sequence in the MSA was labelled by its species abbreviation followed by its isolation and NCBI accession number. The predicted secondary structure is shown above the alignment and the consensus is shown below the alignment, where h stands for hydrophobic residues, s for small residues, and p for polar residues. The characteristic signal peptide, TM region and a stretch of basic residues are also labeled.",
+            "Figure S3. Structural analysis of CoV Ig domains.",
+            "Figure S4. Multiple sequence alignment of alphacoronavirus E3-CR1-like Ig domain proteins and their related Ig domains identified by profile-profile searches.<br/><br/>>PF02440.15 ; Adeno_E3_CR1 ; Adenovirus E3 region protein CR1<br/><br/>Probab=90.89 E-value=2.8 Score=29.56 Aligned_cols=38 Identities=18%    Q QBP43282.1    Q Consensus    T Consensus    T E3TMR2_ADE16/1    T ss_pred<br/><br/>QYTIDGE-YKKVEWK----YNNTHLICSDGEVYEQFNTTVKCDNISLVF s~svd~~-y~rVdw~----~n~s~kICs~ghsfn~f~~~~kC~N~TLt~    .++..+. +..|.|+    -..+.++|.....+    |+|++.+|++<br/><br/>NvTL~g~~~~~v~Wyr~~~~~~~~~LC~~~~~~------~~C~~~nLtL<br/><br/>TCTLQGPQEGHVTWWRIYDNGGFARPCDQPGTK------FSCNGRDLTI cEEEeCCCCCCeEEEEeccCCCcccccccCCCe------eEeCCCceEE    Similarity=0.352    Sum_probs=0.0<br/><br/>Template_Neff=6.800    (114)    (88)<br/><br/>>6JXR_n T-cell surface glycoprotein CD3 zeta; IMMUNE SYSTEM Homo sapiens<br/><br/>Probability: 62.4%, E-value: 84, Score: 22.12, Aligned cols: 126, Identities: 11%, Similarity: 0.052,    Q Q_9601142    T 6JXR_n<br/><br/>VQYNTTFQYTIDGEYK---KVEWKYNNTHLICSDGEVYEQFN------TTVKCDNISLVFDIANVTLPNVTIECKTKKGE<br/><br/>~~~n~t~~~tv~g~yk---~VeWk~N~s~~iCSdG~vyq~fn------~t~~Cdn~tL~~~~~~vs~p~vtieck~~~G~    ...+.+++-.+.+.+.<br/><br/>.+.|.++.....-+.........<br/><br/>..-..-..+|++.....+-..-.+.|.+.+..<br/><br/>~g~~~~l~C~~~~~~~~~~~~~W~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~i~~~~~~d~~g~y~C~~~~~~<br/><br/>HTQKATLVCLATGFYPDHVELSWWVNGKEVHSGVSTDPQPLKEQPALNDSRYCLSSRLRVSATFWQNPRNHFRCQVQFYG    T 6JXR_n 215<br/><br/>ASSVTFNNTITVVTTHSPTTNPSKSLIPSTKRH----------YYFLLLAFIPPAWFAVLIIYYV<br/><br/>~~~~~vnn~~~~~tt~~p~~~p~~sLiPSTKR~----------yY~L~lafi~paw~~V~iihYv<br/><br/>.................+.......--+.....<br/><br/>.+.+.++++.-..++++++-.+<br/><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~<br/><br/>LSENDEWTQDRAKPVTQIVSAEAWGRADCGFTSESYQQGVLSATILYEILLGKATLYAVLVSALV (148)    (291)<br/><br/>>3OQ3_B Interferon alpha-5, IFN-alpha/beta binding protein; Ectromelia, Mousepox Virus, Moscow strain; Mus musculus<br/><br/>Probability: 51.52%, E-value: 150, Score: 21.59, Aligned cols: 82, Identities: 12%, Similarity: 0.143,    T 3OQ3_B<br/><br/>VQYNTTFQYTIDGEYK-----KVEWKYNNTHLICSDGEVYEQFNTTVKCDNISLVFDIANVTLPNVTIECKTKKGEASSV<br/><br/>~~~n~t~~~tv~g~yk-----~VeWk~N~s~~iCSdG~vyq~fn~t~~Cdn~tL~~~~~~vs~p~vtieck~~~G~~~~~    .....+++-.+.|...<br/><br/>.+.|.+++...+-.+...+........-.+.+|++.-....--.-...|.+.|+.....<br/><br/>~g~~~~l~C~~~~~~~~~~~~~~~W~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~i~~~~~~d~G~~Y~C~a~n~~g~~~<br/><br/>IGEPANITCTAVSTSLLVDDVLIDWENPSGWIIGLDFGVYSILTSSGGITEATLYFENVTEEYIGNTYTCRGHNYYFDKT    TFNNTIT    ~vnn~~~    .-.++..    ~~~~l~v    LTTTVVL (329)",
+            "Table S1. Detailed information of Human SARS-CoV-2 Wuhan-Hu-1 genome and other<br/><br/>SARS-related genomes that were used in this study (Figure 1 & Figure S1).    Organism    Host    NCBI ID    Year    Human    NC_045512.2<br/><br/>Bat SARS-like coronavirus isolate batSL-CoVZC45    Bat    MG772933.1    (1)<br/><br/>Bat SARS-like coronavirus isolate batSL-CoVZXC21    MG772934.1<br/><br/>Bat coronavirus isolate RaTG13    MN996532.1    Not Available    NC_004718.3    (2)<br/><br/>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) isolate    Wuhan-Hu-1<br/><br/>Severe acute respiratory syndromerelated coronavirus    Citation<br/><br/>A novel coronavirus associated with a respiratory disease in<br/><br/>Wuhan of Hubei province, China (Unpublished)<br/><br/>Severe acute respiratory syndromerelated coronavirus isolate F46    KU973692.1<br/><br/>Bat SARS-like coronavirus YNLF_31C    KP886808.1<br/><br/>Identification of a new intermediate virus between batCoVs and SARS-CoVs from least horseshoe bats in China<br/><br/>Rhinolophus affinis coronavirus isolate    LYRa11    KF569996.1    (3)<br/><br/>Bat SARS coronavirus HKU3-7    GQ153542.1    (4)<br/><br/>BtRs-BetaCoV/HuB2013    KJ473814.1    (5)<br/><br/>Bat SARS-like coronavirus RsSHC014    KC881005.1    (6)<br/><br/>Bat SARS-like coronavirus isolate    Rs4231    KY417146.1    (7)",
+            "Table S2. Summary of representatives of viral Ig domain proteins which were identified in this study.    Family    Genus    SARS-CoV-2    Coronaviridae    Adenoviridae    Betacoronavirus    Alphacoronavirus    Bat coronavirus    Mastadenovirus    Human adenovirus    Mardivirus    Simplexvirus    Herpesviridae    SARS-CoV    Rhadinovirus    Cytomegalovirus    Poxviridae    Orthopoxvirus    Phenuiviridae    Goukovirus<br/><br/>Gallid alphaherpesvirus 2<br/><br/>Macacine alphaherpesvirus 1<br/><br/>Human gammaherpesvirus 8<br/><br/>Panine betaherpesvirus 2<br/><br/>Human betaherpesvirus 5<br/><br/>Aotine betaherpesvirus 1    Variola virus    Ectromelia virus<br/><br/>Cumuto virus pfam ID    Domain Famliy<br/><br/>Presence of Signal    Peptide (Y/N)*<br/><br/>Number of Ig-like domain<br/><br/>Number of TM region**    Distinct    Relative    PDB    Structure#    YP_009724395.1    PF08779    SARS_X4    Y    YP_009724396.1    PF12093    Corona_NS8    NP_828857.1    NP_828876.1    NP_828877.1    QBP43259.1<br/><br/>Adeno_E3_CR1-like    QBP43265.1    AAF14132.1    PF02440    Adeno_E3_CR1    AFK92306.1    3J8F_7    AAW33363.1    PF04881    Adeno_GP19K    YP_001034013.1    PF02480    Herpes_gE    YP_001034012.1    PF01688    Herpes_gI    YP_001033973.1    PF02124    Marek_A    NP_851925.1    PF01537    Herpes_glycop_D    YP_001129350.1    PF02960    K1    5D6D_C n/a    NP_612760.1    PF16758    UL141    NP_612778.1    PF05963    Cytomega_US3    ABV71546.1    PF17622    UL16    YP_004940175.1    PF08001    CMV_US    NP_042191.1    PF08204    V-set_CD47    PF13895 ig    YP_009664616.1    PF07245    Phlebovirus_G2    6F8P_A<br/><br/>** Transmembrane (TM) region predictions were conducted by TMHMM Server (9).<br/><br/># The PDB structures which display similarity with the respective viral Ig domains identified by pofile-profile comparisons (10)."
+        ],
+        "funding": [
+            "Z. were supported by Saint Louis University start-up fund",
+            "L.A. was supported by the Intramural Research Program of the NIH, National Library of Medicine"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [
+                "supplementary data"
+            ],
+            "supplementary_figure_references": [
+                "Figure S1",
+                "Figure S2",
+                "Figure S3",
+                "Figure S4",
+                "Table S2",
+                "Table S1",
+                "Supplementary Figure S1.",
+                "Supplementary Figure S2.",
+                "Supplementary Figure S3.",
+                "Supplementary Figure S4.",
+                "Supplementary Table S1.",
+                "Supplementary Table S2."
+            ]
+        }
+    },
+    "structured_content": {
+        "ABSTRACT": [
+            "A novel coronavirus (SARS-CoV-2) is the causative agent of an emergent severe respiratory disease (COVID-19) in humans that is threatening to result in a global health crisis. By using genomic, sequence, structural and evolutionary analysis, we show that Alpha- and Beta-CoVs possess several novel families of immunoglobulin (Ig) domain proteins, including ORF8 and ORF7a from SARS-related coronaviruses and two protein groups from certain Alpha-CoVs. Among them, ORF8 is distinguished in being rapidly evolving, possessing a unique insert and a hypervariable position among SARS-CoV-2 genomes in its predicted ligand-binding groove. We also uncover many Ig proteins from several metazoan viruses which are distinct in sequence and structure but share an architecture comparable to that of CoV Ig domain proteins. Hence, we propose that deployment of Ig domain proteins is a widely-used strategy by viruses, and SARS-CoV-2 ORF8 is a potential pathogenicity factor which evolves rapidly to counter the immune response and facilitate the transmission between hosts.",
+            "KEYWORDS Coronavirus, COVID-19, SARS, ORF8, Immunoglobin, Evolution, Pathogenicity, Immune evasion",
+            "author/funder. It is made available under a CC-BY-NC-ND 4.0 International license."
+        ],
+        "Introduction": [
+            "Nidoviruses are an ancient group of lipid-enveloped viruses with non-segmented RNA genomes, which are known to infect oomycetes and animals, including molluscs, arthropods and vertebrates (1). Among them are the coronaviruses (CoVs) which possess the largest known monopartite RNA genomes and are classified into four genera\u2014Alphacoronavirus, Betacoronavirus, Gammacoronavirus, and",
+            "Deltacoronavirus (2). Over the past two decades, Beta-CoVs, including the viruses responsible for",
+            "Severe Acute Respiratory Syndrome (SARS) in 2003 and Middle Eastern Respiratory Syndrome (MERS) in",
+            "2012, have emerged as significant local land global health concerns with economic consequences (3, 4).",
+            "Recently, a novel severe respiratory disease has emerged in humans (abbreviated COVID-19) (5, 6).",
+            "COVID-19 presents with a relatively long incubation period of 1-2 weeks followed by development of fever, dry cough, dyspnea and bilateral ground-glass opacities in the lungs (7). In some patients, this can proceed to fatal respiratory failure, characterized by acute lung injury (8) and acute respiratory distress syndrome (9). Within several months of the first outbreak, there have been over 75,000 confirmed cases with over 2,000 deaths of COVID-19 globally (https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200220-sitrep-31-covid-19.pdf). Due to the rapid spread and potential severity of the disease, COVID-19 poses as a potential major threat to human health. A novel coronavirus (SARS-CoV-2) was identified as the causative agent of COVID-19, and phylogenomic analysis has shown that it belongs to the same larger clade of Beta-CoVs as the SARS-CoV with a likely origin in bats (5, 10, 11). Despite intense scrutiny, multiple proteins encoded by the SARS-related CoV (including",
+            "SARS-CoV-2) genome remain enigmatic. Here, we present a computational and evolutionary analysis to show that one such mysterious protein, ORF8, and several others from Alpha- and Beta-coronavirus, comprise novel families of immunoglobulin domain proteins, which might function as potential modulators of host immunity to delay or attenuate the immune response against the viruses."
+        ],
+        "Materials and methods": [
+            "We retrieved the SARS-related CoV genomes by searching against the non-redundant (nr) nucleotide database of the National Center for Biotechnology Information (NCBI) with the SARS-CoV-2 genome sequence (NC_045512.2) as a query (12). The program CD-HIT was used for similarity-based clustering (13). A multiple sequence alignment of whole virus genomes was performed by KALIGN (14). Based on the MSA, a similarity plot was constructed by a custom Python script, which calculated the identity between each subject sequence and the SARS-CoV-2 genome sequence based on a custom sliding window size and step size. Open reading frames of virus genomes used in this study were extracted from an NCBI Genbank file.",
+            "To collect protein homologs, iterative sequence profile searches were conducted by the programs PSI-",
+            "BLAST (Position-Specific Iterated BLAST)(12) and JACKHMMER (15), which searched against the nonredundant (nr) protein database of NCBI with a cut-off e-value of 0.005 serving as the significance threshold. Similarity-based clustering was conducted by BLASTCLUST, a BLAST score-based single-linkage clustering method (ftp://ftp.ncbi.nih.gov/blast/documents/blastclust.html). Multiple sequence alignments were built by the KALIGN (14), MUSCLE(16) and PROMALS3D(17) programs, followed by careful manual adjustments based on the profile\u2013profile alignment, the secondary structure information and the structural alignment. Profile-profile comparison was conducted using the HHpred program (18).",
+            "The consensus of the alignment was calculated using a custom Perl script. The alignments were colored using an in-house alignment visualization program written in perl and further modified using adobe illustrator. Signal peptides were predicted by the SignalP-5.0 Server (19). The transmembrane regions were predicted by the TMHMM Server v. 2.0 (20).",
+            "By using the protein remote relationship detection methods, we generated a collection of distinct Ig domains from the Pfam database (21) and also from our local domain database. Then, we utilized the hmmscan program of the HMMER package (22) and RPS-BLAST (12, 23) to retrieve the homologs from viral genomes.",
+            "The evolutionary history was inferred by using the Maximum Likelihood method based on the JTT w/freq. model (24). The tree with the highest log likelihood is shown. Support values out of 100 bootstraps are shown next to the branches (25). Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using a JTT model, and then selecting the topology with the superior log likelihood value. A discrete Gamma distribution was used to model evolutionary rate differences among sites (4 categories). The rate variation model allowed for some sites to be evolutionarily invariable. The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. The tree diagram was generated using MEGA Tree Explorer (26)",
+            "Position-wise Shannon entropy (H) for a given multiple sequence alignment was calculated using the equation:",
+            "P is the fraction of residues of amino acid type i, and M is the number of amino acid types. The Shannon entropy for the ith position in the alignment ranges from 0 (only one residue at that position) to 4.32 (all residues equally represented at that position). Analysis of the entropy values which were thus derived was performed using the R language.",
+            "The secondary structural prediction was conducted using the Jnet (Joint Network) program (27). Jnet is a neural network-based predictor which trains neural networks from three different types of profiles: profile PSSM, profile HMM, and residue frequency profile. It generates a consensus secondary structure with an average accuracy of 72% or greater.",
+            "The Modeller9v1 program (Sali and Blundell, 1993) was utilized for homology modeling of structure of",
+            "SARS-CoV-2 ORF8 using the SARS-CoV ORF7 (1xak_A) (28) as a template. Since in these low sequenceidentity cases, sequence alignment is the most important factor affecting the quality of the model (Cozzetto and Tramontano, 2005), alignments used in this study have been carefully built and crossvalidated based on the information from HHpred and edited manually using the secondary structure information. We generated five models and selected the one that had better model accuracy p-value and global model quality score as assessed by ModFOLD6 online server (29). Structural analysis and comparison were conducted using the molecular visualization program PyMOL (30). The structural similarity search was performed using the DALI server (31)."
+        ],
+        "Results and discussion": [
+            "The host-pathogen arms-race has selected for a disparate complement of viral genes involved in pathogenesis. These genes often rapidly diversify through recombination and mutations to keep up with the evolution of host resistance. To identify proteins with potential pathogenic roles in COVID-19, we conducted a comparative genomic analysis of the coronaviruses. Similarity plots show that the bat CoV",
+            "RaTG13 is the closest relative of SARS-CoV-2 with no evidence for recombination between them (Figure and Figure S1). SARS-CoV-2 also shows good similarity to two other bat viruses, CoVZXC21 and",
+            "CoVZXC45, first in the 5\u2019 half of ORF1 and again after nucleotide number 20,000 of the genome.",
+            "However, the remaining part of ORF1 of SARS-CoV-2 and RatG13 show no specific relationship to these viruses. This suggests a recombination event between the common ancestor of SARS-CoV-2 and RaTG13, and probably another member of the SARS-related clade close to CoVZXC21 and CoVZXC45. In addition to this major recombination event, we identified several smaller regions which might have undergone recombinational diversification during the emergence of the SARS-CoV-2 genome (Figure S1). Notably, many of them are clustered in three regions displaying extensive diversification, corresponding to the N-",
+            "terminal region of the ORF1a polyprotein, the Spike protein, and the uncharacterized protein encoded by ORF8 (Figure 1 and Figure S1).",
+            "Among these three fast-evolving proteins, we focused on the ORF8 protein as it is one of the so-called accessory proteins, which does not participate in viral replication (32, 33), raising the possibility that it might have a role in viral pathogenesis. It is a predicted secreted protein present only in some Beta-",
+            "CoVs, including SARS-CoV-2 but not the MERS-like clade. Profile-profile comparisons using a sequenceprofile built from the multiple sequence alignment of all available ORF8 proteins showed it to be unexpectedly homologous to the membrane-anchored ORF7a protein from the same subset of Beta-",
+            "CoVs, and several proteins (variously annotated as ORF9 or ORF10) from a subset of bat Alpha-CoVs (Figure 2A) (probability=94% of profile-profile match) (34). ORF7a is a known member of the immunoglobulin (Ig) domain superfamily and is specifically related to extracellular metazoan Ig domains that are involved in adhesion, such as ICAM (35, 36). The Beta-CoV ORF8, ORF7a and the Alpha-CoV Ig domains display a classic \u03b2-sandwich fold with seven \u03b2-stands and share the characteristic pattern of two cysteines which form stabilizing disulfide bonds with metazoan Ig domains (Figure 2A and Figure S2)",
+            "(37). However, they are unified as a clade by the presence of an additional pair of conserved disulfidebonding cysteines (Figure 2A). Nonetheless, there are notable structural differences between the three groups of proteins. ORF8 is distinguished from ORF7a and Alpha-CoV Ig proteins by the loss of the C-",
+            "terminal transmembrane (TM) helix and the acquisition of a long insert between stands 3 and 4 with a conserved cysteine which might facilitate dimerization through disulfide-bond formation (Figure 2A).",
+            "The homology model of ORF8, based on the structure of SARS-CoV ORF7a (pdb id:1XAK), suggests that this insert augments a potential peptide-ligand binding groove that has been proposed for ORF7a (Figure 2B and Figure S3). Hence, the emergence of the insert has gone hand-in-hand with the acquisition of a modified interaction interface.",
+            "Besides these families, we identified a fourth family of Ig domains from the same Alpha-CoVs which contain the above-discussed ORF7a/8-like Ig family (Figure 3A). These Alpha-CoVs typically possess one or two paralogous copies annotated as either ORF4a/b or NS5a/b. From their sequences, these Ig domains are not closely related to the ORF7a and ORF8 Ig domains (Figure S4). However, profile-profile searches have shown that they are related to Ig domains found in the adenoviral E3-CR1 proteins (probability: 90% of matching the Pfam CR1 Ig domain profile) (Figure S4). In these searches, they also yield weaker hits to two other Ig domains, namely the poxviral decoy interferon receptors and human T-",
+            "cell surface CD3 zeta (Figure S4).",
+            "Phylogenetic analysis of ORF7a, ORF8 and Alpha-CoV Ig domains shows that each group represents a distinct clade (Figure 2C). The tree topology of ORF7a mirrors that of the polymerase tree (Figure 3A); however, the topology of the ORF8-Ig clade is not consistent with it. This might be due to a recombination event between the SARS-related CoVs (as suggested by the similarity plot analysis) and/or unusual divergence under selection. To better understand the functional difference between",
+            "ORF8 and ORF7a, we examined the column-wise Shannon entropy in the 20 amino acid alphabet and found that the ORF8 has significantly higher mean entropy than ORF7a (ORF8: 1.09 vs ORF7a: 0.22, p<",
+            "10-16 for the H0 of congruent means by t-test) (Figure 2D). By comparing column-wise entropies in both the 20 amino acid and a reduced 8-letter alphabet (where amino acids are grouped based on similar side-chain chemistry), we found at least 14 positions in ORF8 which show high entropy in both alphabets as compared to a single position in ORF7a (Figure 2D). This indicates that ORF8 is a fast-evolving protein under selection for diversity as contrast to ORF7a. Strikingly, one of these highly variable positions, which features residues with very different side characters (hydrophobic, acidic, alcoholic and proline), corresponding to Leu[84] was also identified as the most variable position across 54 closely related human SARS-CoV-2 genome sequences (38). In our structural model, this residue is positioned at the predicted peptide-ligand binding groove of the ORF8-Ig domain (Figure 2B). Therefore, our entropy and structural analysis of the ORF8-Ig domain, in conjunction with its hypervariable position found in human",
+            "SARS-CoV-2 genomes, points to a role for ORF8 at the interface of the host-virus interaction possibly in a pathogenic context.",
+            "Alpha-CoVs based on their polymerase proteins (Figure 3A). Other than the two subsets of Beta-CoVs and Alpha-CoVs that contain the above-described Ig domain proteins, no other CoVs contain any Ig domain proteins (Figure 3A). The immediate sister-groups of the Ig-containing CoVs typically have Spike, E, M and N, and one or two other uncharacterized accessory proteins which are not Ig domains to our best knowledge. The Alpha-CoV ORF9/10 share a C-terminal TM helix and, along with ORF7a of the Beta-",
+            "CoVs, lack the insert in the Ig domain (Figure 2A). Hence, it is possible that this architecture represents the ancestral state which was present in the common ancestor of both Alpha-CoVs and Beta-CoVs.",
+            "Under this scenario, the protein was displaced/lost both in certain Alpha-CoVs and Beta-CoVs.",
+            "Alternatively, ORF7a could have been exchanged between Alpha- and Beta-CoVs by a recombination event. In both scenarios, ORF8 arose likely via a duplication of ORF7a in specifically the Beta-CoVs.",
+            "Although we couldn\u2019t identify the ultimate precursors of the CoV Ig domains, they are likely to have been acquired on at least two independent occasions from different sources. The CoV ORF7a-ORF8 families might have derived from the metazoan adhesion Ig families, and the ORF4a/b-like Ig domains of",
+            "Alpha-CoVs were likely acquired from adenoviral CR1 Ig domains with which they share some specific sequence features.",
+            "Divergent Ig proteins with a comparable architecture are deployed by distinct viruses",
+            "The presence of multiple Ig domains with different affinities in CoVs prompted us to more generally survey animal viruses for Ig domains. By using the Pfam models (39) and our own PSSMs created from",
+            "PSI-BLAST runs with Ig domains (12), we were able to identify about 17 distinct viral Ig domain families in a wider diversity of animal viruses (Figure 3B and Table S2). In addition to CoVs, such Ig domain proteins can be found in adenoviruses, NCLDVs, Herpesviruses and Phenuiviruses. These viral Ig domains are highly divergent; many of them are only found in certain viral groups. However, the majority have an architecture comparable to the CoV-Ig domains, with an N-terminal signal peptide, one or multiple Ig domains and a C-terminal TM region often followed by a stretch of basic residues. Thus, although the Ig domains are not the universally preserved component of viruses, they have been acquired and selected independently by a wide range of viruses. The presence of a proofreading 3\u2019-5\u2019 exonuclease has been proposed to favor the emergence of larger RNA genomes in CoVs (40). Indeed, this might have also contributed to the acquisition of potential pathogenesis factors such as the Ig domains described herein which are comparable to those seen in DNA viruses.",
+            "Why have diverse viruses independently acquired the Ig domain during their evolution? First, the Ig domains are major mediators of adhesive interactions in both eukaryotes and prokaryotes (37, 41, 42).",
+            "Thus, this domain can be used for adherence for cell to cell spread (e.g. herpesviral Ig domain proteins)",
+            "(43). Further, Ig domains are major building blocks of metazoan immune systems. Thus, viruses often utlize this domain to disrupt immune signaling of the host. For example, in adenoviruses, the CR1 Ig domain proteins have been shown to block the surface expression on infected cells of class I major histocompatibility complex molecules by blocking their trafficking from the endoplasmic reticulum (ER)",
+            "to Golgi (44). This has been shown to affect the host inflammatory response and modulates the presentation of viral antigens to T-cells (45). In poxvirus, the secreted Ig domain proteins function as interferon receptors or decoys that bind the interferon-\u03b1/\u03b2 and disrupt signaling via the endogenous host receptors (46). Further, SARS-ORF7a has been implicated in the interaction with bone marrow stromal antigen 2 (BST-2), which tethers budding virions to the host cell in a broad-spectrum antiviral response, to prevent the N-linked glycosylation of BST-2 thereby crippling the host response against the virus (47). Given their shared evolutionary history and similar sequence and structural features, we predict that the newly identified CoV Ig domain proteins, such as ORF8 of SARS-CoV-2, might similarly function as immune modulators.",
+            "While ORF8 is a paralog of ORF7a, its lack of the TM segment, unique insert and significantly more rapid evolution suggest that it has acquired a distinct function and has been under strong positive selection",
+            "One possible mechanism is that, like the adenoviral CR1 proteins, it interferes with MHC molecules to attenuate antigen presentation, resulting in ineffective detection of the virus by the host immune system. Consistent with this, the SARS-CoV ortholog translocates to the ER (48) and its higher variability indicates probable selection due to its interaction with a rapidly evolving host molecule. Notably, while the SARS-CoV ORF8 isolates from civets and early stages of the human epidemic are intact, it split up into two ORFs (ORF8a and ORF8b) during the subsequent human epidemic (49). ORF8a and ORF8b retain the conserved Cys residues of the Ig domain and have been observed to form a complex in a yeast-two hybrid interaction study (50). This suggests it might still fold into an intact structure held by the two disulfide bonds formed by four conserved Cys residues.",
+            "In conclusion, the presence of fast-evolving ORF8 Ig domain proteins in the SARS-related viruses, including the emergent 2019 SARS-CoV-2, suggests that they might be potential pathogenicity factors which counter or attenuate the host immune response and might have facilitated the transmission between hosts. We hope that the discovery and analyses of the novel Ig domain proteins reported here will help the community better understand the evolution and pathogenesis mechanisms of these coronaviruses."
+        ],
+        "Acknowledgments": [
+            "Y.T., T. S., M.L., and D. Z. were supported by Saint Louis University start-up fund. L.A. was supported by the Intramural Research Program of the NIH, National Library of Medicine."
+        ],
+        "Disclosure statement": [
+            "The authors declare no competing interests."
+        ],
+        "Figures": [
+            "Similarity plot of SARS-related CoVs against human SARS-CoV-2 Wuhan-Hu-1 genome (NC_045512.2), based on a multiple sequence alignment of the whole genomes. Each point represents the percent identity of a 200 bp window of the alignment with a 50 bp step size between each point. The open reading frames of the SARS-CoV-2 genome (NC_045512.2) are shown above the plot. Each colored line corresponds to the nucleotide similarity between the human SARS-CoV-2 genome (NC_045512.2) and the respective SARS-related CoV genome. The red arrows and dashed line surround a region displaying major divergence due to possible recombination within SARS-related CoV genomes. The regions marked by a solid red line highlight fast-evolving regions among the SARS-related CoV genomes. For detailed information about the genomes that were used in this study, refer to Table S1.",
+            "CoVs.",
+            "(A) Multiple sequence alignment (MSA) and representative domain architectures of ORF7a-Ig, ORF8-Ig, and ORF7a/8-like Ig domain families. Each sequence in the MSA was labelled by its species abbreviation followed by its source. The predicted secondary structure is shown above each alignment and the consensus is shown below the super-alignment, where h stands for hydrophobic residues, s for small residues, and p for polar residues. Two pairs of conserved cysteines that form disulfide bonds are highlighted in red. (B) Homology model of SARS-CoV-2 ORF8-Ig domain (YP_009724396.1) and the location of the hypervariable position corresponding to Leu[84] in the predicted ligand-binding groove.",
+            "The \u03b2-sheets of the common core of the Ig fold are colored in blue, the insert in ORF8-Ig in orange and the loops in grey. The characteristic disulfide bonds are highlighted in yellow. (C) Maximum likelihood phylogenetic analysis of CoV Ig domain families. Support values out of 100 bootstraps are shown for the major branches only. (D) Entropy plot for the ORF7a and ORF8 proteins in betacoronavirus. Left: Shannon entropy computed for each column for a character space of 20 amino acids and presented as mean entropy in a sliding window of 30 residues. The mean entropy across the entire length of the protein is indicated as a green horizontal line. Right: Shannon entropy in regular amino acid alphabet (20 amino acids) are shown above the zero line in shades of orange. Shannon entropy in a reduced alphabet of 8 residues are shown below the zero line in shades of blue. If a position shows high entropy in both alphabets it is a sign of potential positive selection at those positions for amino acids of different chemical character.",
+            "Supporting values from 100 bootstraps are shown for the major branches only. The genome structure of major representative CoVs are shown right to the terminal clade of the phylogenetic tree. (B)",
+            "Representative domain architectures of the Ig components in different animal viruses. Proteins were grouped based on their families, except for proteins of coronavirus, which were grouped based on their genus. For the information of the NCBI accession numbers, refer to the supplementary data."
+        ],
+        "References": [
+            "2.",
+            "4.",
+            "6.",
+            "8.",
+            "10.",
+            "12.",
+            "14.",
+            "16.",
+            "18.",
+            "20.",
+            "S. Perlman, T. Gallagher, E. J. Snijder, Nidoviruses. (ASM Press, Washington, DC, 2008), pp. xvi, p.",
+            "J. Cui, F. Li, Z. L. Shi, Origin and evolution of pathogenic coronaviruses. Nat Rev Microbiol 17, 181-192 (2019).",
+            "M. A. Marra et al, The Genome sequence of the SARS-associated coronavirus. Science 300, 1399-1404 (2003).",
+            "A. M. Zaki, S. van Boheemen, T. M. Bestebroer, A. D. Osterhaus, R. A. Fouchier, Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. N Engl J Med 367, 1814-1820",
+            "(2012).",
+            "P. Zhou et al, A pneumonia outbreak associated with a new coronavirus of probable bat origin.",
+            "Nature, (2020).",
+            "N. Zhu et al, A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med,",
+            "(2020).",
+            "N. Chen et al, Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395, 507-513 (2020).",
+            "J. P. Kanne, Chest CT Findings in 2019 Novel Coronavirus (2019-nCoV) Infections from Wuhan, China: Key Points for the Radiologist. Radiology, 200241 (2020).",
+            "C. Huang et al, Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 395, 497-506 (2020).",
+            "D. Paraskevis et al, Full-genome evolutionary analysis of the novel corona virus (2019-nCoV)",
+            "rejects the hypothesis of emergence as a result of a recent recombination event. Infect Genet",
+            "Evol 79, 104212 (2020).",
+            "L. Zhang, F. M. Shen, F. Chen, Z. Lin, Origin and evolution of the 2019 novel coronavirus. Clin",
+            "Infect Dis, (2020).",
+            "S. F. Altschul et al, Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic acids research 25, 3389-3402 (1997).",
+            "W. Li, A. Godzik, Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences. Bioinformatics 22, 1658-1659 (2006).",
+            "T. Lassmann, E. L. Sonnhammer, Kalign\u2013an accurate and fast multiple sequence alignment algorithm. BMC bioinformatics 6, 298 (2005).",
+            "S. R. Eddy, in Genome Informatics 2009: Genome Informatics Series Vol 23. (World Scientific, 2009), pp. 205-211.",
+            "R. C. Edgar, MUSCLE: multiple sequence alignment with high accuracy and high throughput.",
+            "Nucleic acids research 32, 1792-1797 (2004).",
+            "J. Pei, B.-H. Kim, N. V. Grishin, PROMALS3D: a tool for multiple protein sequence and structure alignments. Nucleic acids research 36, 2295-2300 (2008).",
+            "J. S\u00f6ding, A. Biegert, A. N. Lupas, The HHpred interactive server for protein homology detection and structure prediction. Nucleic acids research 33, W244-W248 (2005).",
+            "L. Holm, S. K\u00e4\u00e4ri\u00e4inen, P. Rosenstr\u00f6m, A. Schenkel, Searching protein structure databases with",
+            "DaliLite v.",
+            "3. Bioinformatics 24, 2780-2781 (2008).",
+            "J. J. A. Armenteros et al, SignalP 5.0 improves signal peptide predictions using deep neural networks. Nature biotechnology 37, 420-423 (2019).",
+            "A. Krogh, B. Larsson, G. Von Heijne, E. L. Sonnhammer, Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes. Journal of molecular biology 305, 567-580 (2001).",
+            "23.",
+            "25.",
+            "27.",
+            "29.",
+            "31.",
+            "33.",
+            "35.",
+            "37.",
+            "39.",
+            "41.",
+            "43.",
+            "S. El-Gebali et al, The Pfam protein families database in 2019. Nucleic acids research 47, D427D432 (2019).",
+            "A. Krogh, M. Brown, I. S. Mian, K. Sjolander, D. Haussler, Hidden Markov models in computational biology. Applications to protein modeling. Journal of molecular biology 235, 1501-1531 (1994).",
+            "A. Marchler-Bauer et al, CDD: a database of conserved domain alignments with links to domain three-dimensional structure. Nucleic acids research 30, 281-283 (2002).",
+            "D. T. Jones, W. R. Taylor, J. M. Thornton, The rapid generation of mutation data matrices from protein sequences. Bioinformatics 8, 275-282 (1992).",
+            "J. Felsenstein, Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39, 783-791 (1985).",
+            "S. Kumar, G. Stecher, K. Tamura, MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets. Molecular biology and evolution 33, 1870-1874 (2016).",
+            "A. Drozdetskiy, C. Cole, J. Procter, G. J. Barton, JPred[<a class=\"ref-link\" id=\"c4\" href=\"#r4\">4</a>]: a protein secondary structure prediction server. Nucleic acids research 43, W389-W394 (2015).",
+            "N. Eswar et al, Comparative protein structure modeling using Modeller. Current protocols in bioinformatics 15, 5.6. 1-5.6. 30 (2006).",
+            "A. H. Maghrabi, L. J. McGuffin, ModFOLD6: an accurate web server for the global and local quality estimation of 3D protein models. Nucleic acids research 45, W416-W421 (2017).",
+            "W. L. DeLano, Pymol: An open-source molecular graphics tool. CCP4 Newsletter On Protein",
+            "Crystallography 40, 82-92 (2002).",
+            "M. L. Dediego et al, Pathogenicity of severe acute respiratory coronavirus deletion mutants in hACE-2 transgenic mice. Virology 376, 379-389 (2008).",
+            "B. Yount et al, Severe acute respiratory syndrome coronavirus group-specific open reading frames encode nonessential functions for replication in cell cultures and mice. J Virol 79, 1490914922 (2005).",
+            "J. Soding, A. Biegert, A. N. Lupas, The HHpred interactive server for protein homology detection and structure prediction. Nucleic Acids Res 33, W244-248 (2005).",
+            "C. A. Nelson, A. Pekosz, C. A. Lee, M. S. Diamond, D. H. Fremont, Structure and intracellular targeting of the SARS-coronavirus Orf7a accessory protein. Structure 13, 75-85 (2005).",
+            "K. Hanel, T. Stangler, M. Stoldt, D. Willbold, Solution structure of the X4 protein coded by the",
+            "SARS related coronavirus reveals an immunoglobulin like fold and suggests a binding activity to integrin I domains. J Biomed Sci 13, 281-293 (2006).",
+            "J. M. Berg, J. L. Tymoczko, L. Stryer, L. Stryer, Biochemistry. (W.H. Freeman, New York, ed. 5th, 2002).",
+            "C. Ceraolo, F. M. Giorgi, Genomic variance of the 2019-nCoV coronavirus. J Med Virol, (2020).",
+            "S. El-Gebali et al, The Pfam protein families database in 2019. Nucleic Acids Res 47, D427-D432",
+            "(2019).",
+            "F. Ferron et al, Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA. Proc Natl Acad Sci U S A 115, E162-E171 (2018).",
+            "A. Bateman, S. R. Eddy, C. Chothia, Members of the immunoglobulin superfamily in bacteria.",
+            "Protein Sci 5, 1939-1941 (1996).",
+            "L. Aravind, E. V. Koonin, Gleaning non-trivial structural, functional and evolutionary information about proteins by iterative database searches. J Mol Biol 287, 1023-1040 (1999).",
+            "J. D. Mijnes et al, Structure-function analysis of the gE-gI complex of feline herpesvirus: mapping of gI domains required for gE-gI interaction, intracellular transport, and cell-to-cell spread. J Virol 71, 8397-8404 (1997).",
+            "45.",
+            "47.",
+            "49.",
+            "F. Deryckere, H. G. Burgert, Early region 3 of adenovirus type 19 (subgroup D) encodes an HLAbinding protein distinct from that of subgroups B and C. J Virol 70, 2832-2841 (1996).",
+            "H. S. Ginsberg et al, Role of early region 3 (E3) in pathogenesis of adenovirus disease. Proc Natl",
+            "Acad Sci U S A 86, 3823-3827 (1989).",
+            "R. H. Xu et al, Antibody inhibition of a viral type 1 interferon decoy receptor cures a viral disease by restoring interferon signaling in the liver. PLoS Pathog 8, e1002475 (2012).",
+            "J. K. Taylor et al, Severe Acute Respiratory Syndrome Coronavirus ORF7a Inhibits Bone Marrow",
+            "Stromal Antigen 2 Virion Tethering through a Novel Mechanism of Glycosylation Interference. J",
+            "Virol 89, 11820-11833 (2015).",
+            "M. Oostra, C. A. de Haan, P. J. Rottier, The 29-nucleotide deletion present in human but not in animal severe acute respiratory syndrome coronaviruses disrupts the functional expression of open reading frame 8. J Virol 81, 13876-13888 (2007).",
+            "S. K. Lau et al, Severe Acute Respiratory Syndrome (SARS) Coronavirus ORF8 Protein Is Acquired from SARS-Related Coronavirus from Greater Horseshoe Bats through Recombination. J Virol 89, 10532-10547 (2015).",
+            "A. von Brunn et al, Analysis of intraviral protein-protein interactions of the SARS coronavirus",
+            "ORFeome. PLoS One 2, e459 (2007).",
+            ""
+        ],
+        "SUPPLEMENTAL": [],
+        "Supplementary": [
+            "** Transmembrane (TM) region predictions were conducted by TMHMM Server (9).",
+            "# The PDB structures which display similarity with the respective viral Ig domains identified by pofile-profile comparisons (10)."
+        ],
+        "REFERENCES": [
+            "D. Hu et al, Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats. Emerging microbes & infections 7, 1-10 (2018).",
+            "M. A. Marra et al, The genome sequence of the SARS-associated coronavirus. Science 300, B. He et al, Identification of diverse alphacoronaviruses and genomic characterization of a novel severe acute respiratory syndrome-like coronavirus from bats in China. Journal of virology 88, 7070-7082 (2014).",
+            "S. K. Lau et al, Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute, self-limiting infection that allows recombination events. Journal of virology",
+            "84, 2808-2819 (2010).",
+            "Z. Wu et al, Deciphering the bat virome catalog to better understand the ecological diversity of bat viruses and the bat origin of emerging infectious diseases. The ISME journal 10, 609-620",
+            "(2016).",
+            "X.-Y. Ge et al, Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature 503, 535-538 (2013).",
+            "B. Hu et al, Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS pathogens 13, (2017).",
+            "networks. Nature biotechnology 37, 420-423 (2019).",
+            "topology with a hidden Markov model: application to complete genomes. Journal of molecular biology 305, 567-580 (2001).",
+            "and structure prediction. Nucleic acids research 33, W244-W248 (2005)."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "confirmed cases with over 2,000 deaths of COVID-19 globally",
+            "number": 75000,
+            "context": "In some patients, this can proceed to fatal respiratory failure, characterized by acute lung injury (8) and acute respiratory distress syndrome (9). <mark class=\"stats\">Within several months of the first outbreak, there have been over 75,000 confirmed cases with over 2,000 deaths of COVID-19 globally (https://www.who.int/docs/defaultsource/coronaviruse/situation-reports/20200220-sitrep-31-covid-19.pdf)</mark>. Due to the rapid spread and potential severity of the disease, COVID-19 poses as a potential major threat to human health"
+        },
+        {
+            "participant": "fast-evolving proteins",
+            "number": 3,
+            "context": "Identification of novel immunoglobin protein families in CoVs. <mark class=\"stats\">Among these three fast-evolving proteins, we focused on the ORF8 protein as it is one of the so-called accessory proteins, which does not participate in viral replication (32, 33), raising the possibility that it might have a role in viral pathogenesis</mark>. It is a predicted secreted protein present only in some Beta-"
+        },
+        {
+            "participant": "groups of proteins",
+            "number": 3,
+            "context": "However, they are unified as a clade by the presence of an additional pair of conserved disulfidebonding cysteines (Figure 2A). <mark class=\"stats\">Nonetheless, there are notable structural differences between the three groups of proteins</mark>. ORF8 is distinguished from ORF7a and Alpha-CoV Ig proteins by the loss of the C-"
+        },
+        {
+            "participant": "pairs",
+            "number": 2,
+            "context": "The predicted secondary structure is shown above each alignment and the consensus is shown below the super-alignment, where h stands for hydrophobic residues, s for small residues, and p for polar residues. <mark class=\"stats\">Two pairs of conserved cysteines that form disulfide bonds are highlighted in red. (B) Homology model of SARS-CoV-2 ORF8-Ig domain (YP_009724396.1) and the location of the hypervariable position corresponding to Leu[84] in the predicted ligand-binding groove</mark>. The \u03b2-sheets of the common core of the Ig fold are colored in blue, the insert in ORF8-Ig in orange and the loops in grey"
+        },
+        {
+            "participant": "cases",
+            "number": 99,
+            "context": "N. <mark class=\"stats\">Chen et al, Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study</mark>. Lancet 395, 507-513 (2020)"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Open reading frames of virus genomes used in this study were extracted from an NCBI Genbank file.<br/><br/>Protein sequence analysis<br/><br/>To collect protein homologs, iterative sequence profile searches were conducted by the programs PSI-<br/><br/>BLAST (Position-Specific Iterated BLAST)(12) and JACKHMMER (15), which searched against the nonredundant (nr) protein database of NCBI with a cut-off e-value of 0.005 serving as the significance threshold</mark>",
+                "tests": [
+                    {
+                        "test": "BLAST"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Similarity-based clustering was conducted by BLASTCLUST, a BLAST score-based single-linkage clustering method (ftp://ftp.ncbi.nih.gov/blast/documents/blastclust.html)</mark>",
+                "tests": [
+                    {
+                        "test": "BLAST"
+                    },
+                    {
+                        "test": "single-linkage clustering method"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Then, we utilized the hmmscan program of the HMMER package (22) and RPS-BLAST (12, 23) to retrieve the homologs from viral genomes.<br/><br/>Molecular Phylogenetic analysis<br/><br/>The evolutionary history was inferred by using the Maximum Likelihood method based on the JTT w/freq. model (24)</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum Likelihood method"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The evolutionary history was inferred by using the Maximum Likelihood method based on the JTT</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum Likelihood method"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The characteristic disulfide bonds are highlighted in yellow. (C) Maximum likelihood phylogenetic analysis of CoV Ig domain families</mark>",
+                "tests": [
+                    {
+                        "test": "Maximum likelihood"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "bone marrow stromal antigen 2",
+        "domain protein",
+        "immune response",
+        "novel severe",
+        "Evolution",
+        "novel family",
+        "immunoglobulin domain",
+        "Immune 33 evasion",
+        "global health",
+        "ig domain protein",
+        "genomic characterization",
+        "Severe Acute Respiratory Syndrome",
+        "SARS",
+        "severe respiratory disease",
+        "COVID-19",
+        "Pathogenicity",
+        "early region 3",
+        "Immunoglobin",
+        "evolutionary analysis",
+        "Multiple sequence alignment",
+        "beta covs",
+        "novel coronavirus",
+        "sars cov",
+        "Middle Eastern Respiratory Syndrome",
+        "rna genome",
+        "National Center for Biotechnology Information",
+        "Coronavirus",
+        "acute respiratory syndrome",
+        "causative agent",
+        "endoplasmic reticulum",
+        "ORF8"
+    ],
+    "keyword_relevance": {
+        "Severe Acute Respiratory Syndrome": 0.26282051282051283,
+        "SARS": 0.2532051282051282,
+        "ORF8": 0.1282051282051282,
+        "domain protein": 0.060897435897435896,
+        "early region 3": 0.03205128205128205,
+        "COVID-19": 0.02564102564102564,
+        "Multiple sequence alignment": 0.02564102564102564,
+        "National Center for Biotechnology Information": 0.02564102564102564,
+        "endoplasmic reticulum": 0.02564102564102564,
+        "novel coronavirus": 0.022435897435897436,
+        "Coronavirus": 0.022435897435897436,
+        "acute respiratory syndrome": 0.022435897435897436,
+        "evolutionary analysis": 0.01282051282051282,
+        "bone marrow stromal antigen 2": 0.009615384615384616,
+        "immune response": 0.009615384615384616,
+        "Evolution": 0.009615384615384616,
+        "Middle Eastern Respiratory Syndrome": 0.009615384615384616,
+        "novel severe": 0.00641025641025641,
+        "global health": 0.00641025641025641,
+        "severe respiratory disease": 0.00641025641025641,
+        "Pathogenicity": 0.00641025641025641,
+        "causative agent": 0.00641025641025641,
+        "immunoglobulin domain": 0.003205128205128205,
+        "genomic characterization": 0.003205128205128205,
+        "Immunoglobin": 0.003205128205128205,
+        "novel family": 0.0,
+        "Immune 33 evasion": 0.0,
+        "ig domain protein": 0.0,
+        "beta covs": 0.0,
+        "sars cov": 0.0,
+        "rna genome": 0.0
+    },
+    "species": [],
+    "summary": [
+        "Nidoviruses are an ancient group of lipid-enveloped viruses with non-segmented RNA genomes, which are known to infect oomycetes and animals, including molluscs, arthropods and vertebrates (1).",
+        "Comparative genomics unveils fast-evolving regions of SARS-related CoV genomes author/funder.",
+        "The homology model of ORF8, based on the structure of SARS-CoV ORF7a, suggests that this insert augments a potential peptide-ligand binding groove that has been proposed for ORF7a (Figure 2B and Figure S3).",
+        "Profile-profile searches have shown that they are related to Ig domains found in the adenoviral E3-CR1 proteins (Figure S4).",
+        "ORF8 is a fast-evolving protein in SARS-related CoVs",
+        "Phylogenetic analysis of ORF7a, ORF8 and Alpha-CoV Ig domains shows that each group represents a distinct clade (Figure 2C).",
+        "One of these highly variable positions, which features residues with very different side characters, corresponding to Leu[84] was identified as the most variable position across 54 closely related human SARS-CoV-2 genome sequences (38).",
+        "SARS-CoV-2 genomes, points to a role for ORF8 at the interface of the host-virus interaction possibly in a pathogenic context.",
+        "Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs",
+        "Novel CoV Ig domain proteins are potential immune modulators",
+        "Given their shared evolutionary history and similar sequence and structural features, the authors predict that the newly identified CoV Ig domain proteins, such as ORF8 of SARS-CoV-2, might function as immune modulators.",
+        "The presence of fast-evolving ORF8 Ig domain proteins in the SARS-related viruses, including the emergent 2019 SARS-CoV-2, suggests that they might be potential pathogenicity factors which counter or attenuate the host immune response and might have facilitated the transmission between hosts.",
+        "Similarity plot of SARS-related CoVs against human SARS-CoV-2 Wuhan-Hu-1 genome (NC_045512.2), based on a multiple sequence alignment of the whole genomes.",
+        "The red arrows and dashed line surround a region displaying major divergence due to possible recombination within SARS-related CoV genomes.",
+        "Structure and evolutionary analysis of novel Ig domain proteins in SARS-related",
+        "The genome structure of major representative CoVs are shown right to the terminal clade of the phylogenetic tree.",
+        "H. Fremont, Structure and intracellular targeting of the SARS-coronavirus Orf7a accessory protein.",
+        "Severe Acute Respiratory Syndrome (SARS) Coronavirus ORF8 Protein Is Acquired from SARS-Related Coronavirus from Greater Horseshoe Bats through Recombination.",
+        "The red arrows and solid lines surround regions which display recombination within the SARS-related CoV genomes."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "Nidoviruses are an ancient group of lipid-enveloped viruses with non-segmented RNA genomes, which are known to infect oomycetes and animals, including molluscs, arthropods and vertebrates (1).",
+            "Comparative genomics unveils fast-evolving regions of SARS-related CoV genomes author/funder.",
+            "The homology model of ORF8, based on the structure of SARS-CoV ORF7a, suggests that this insert augments a potential peptide-ligand binding groove that has been proposed for ORF7a (Figure 2B and Figure S3).",
+            "Profile-profile searches have shown that they are related to Ig domains found in the adenoviral E3-CR1 proteins (Figure S4)."
+        ],
+        "Results": [
+            "ORF8 is a fast-evolving protein in SARS-related CoVs",
+            "Phylogenetic analysis of ORF7a, ORF8 and Alpha-CoV Ig domains shows that each group represents a distinct clade (Figure 2C).",
+            "One of these highly variable positions, which features residues with very different side characters, corresponding to Leu[84] was identified as the most variable position across 54 closely related human SARS-CoV-2 genome sequences (38).",
+            "SARS-CoV-2 genomes, points to a role for ORF8 at the interface of the host-virus interaction possibly in a pathogenic context.",
+            "Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs",
+            "Novel CoV Ig domain proteins are potential immune modulators",
+            "Given their shared evolutionary history and similar sequence and structural features, the authors predict that the newly identified CoV Ig domain proteins, such as ORF8 of SARS-CoV-2, might function as immune modulators.",
+            "The presence of fast-evolving ORF8 Ig domain proteins in the SARS-related viruses, including the emergent 2019 SARS-CoV-2, suggests that they might be potential pathogenicity factors which counter or attenuate the host immune response and might have facilitated the transmission between hosts.",
+            "Similarity plot of SARS-related CoVs against human SARS-CoV-2 Wuhan-Hu-1 genome (NC_045512.2), based on a multiple sequence alignment of the whole genomes.",
+            "The red arrows and dashed line surround a region displaying major divergence due to possible recombination within SARS-related CoV genomes.",
+            "Structure and evolutionary analysis of novel Ig domain proteins in SARS-related"
+        ],
+        "Conclusion": [
+            "The genome structure of major representative CoVs are shown right to the terminal clade of the phylogenetic tree.",
+            "H. Fremont, Structure and intracellular targeting of the SARS-coronavirus Orf7a accessory protein.",
+            "Severe Acute Respiratory Syndrome (SARS) Coronavirus ORF8 Protein Is Acquired from SARS-Related Coronavirus from Greater Horseshoe Bats through Recombination.",
+            "The red arrows and solid lines surround regions which display recombination within the SARS-related CoV genomes."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "Edgar_2004_a",
+            "alt_id": "1",
+            "entry": "R. C. Edgar, MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic acids research 32, 1792-1797 (2004). J. Pei, B.-H. Kim, N. V. Grishin, PROMALS3D: a tool for multiple protein sequence and structure alignments. Nucleic acids research 36, 2295-2300 (2008). J. S\u00f6ding, A. Biegert, A. N. Lupas, The HHpred interactive server for protein homology detection and structure prediction. Nucleic acids research 33, W244-W248 (2005). L. Holm, S. K\u00e4\u00e4ri\u00e4inen, P. Rosenstr\u00f6m, A. Schenkel, Searching protein structure databases with DaliLite v. 3. Bioinformatics 24, 2780-2781 (2008). J. J. A. Armenteros et al., SignalP 5.0 improves signal peptide predictions using deep neural networks. Nature biotechnology 37, 420-423 (2019). A. Krogh, B. Larsson, G. Von Heijne, E. L. Sonnhammer, Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes. Journal of molecular biology 305, 567-580 (2001).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Edgar%2C%20R.C.%20MUSCLE%3A%20multiple%20sequence%20alignment%20with%20high%20accuracy%20and%20high%20throughput.%20Nucleic%20acids%20research%2032%202004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Edgar%2C%20R.C.%20MUSCLE%3A%20multiple%20sequence%20alignment%20with%20high%20accuracy%20and%20high%20throughput.%20Nucleic%20acids%20research%2032%202004",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Edgar%2C%20R.C.%20MUSCLE%3A%20multiple%20sequence%20alignment%20with%20high%20accuracy%20and%20high%20throughput.%20Nucleic%20acids%20research%2032%202004"
+        },
+        {
+            "id": "1",
+            "alt_id": "Hu_2018_a",
+            "entry": "1. D. Hu et al., Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats. Emerging microbes & infections 7, 1-10 (2018).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hu%2C%20D.%20Genomic%20characterization%20and%20infectivity%20of%20a%20novel%20SARS-like%20coronavirus%20in%20Chinese%20bats%202018",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hu%2C%20D.%20Genomic%20characterization%20and%20infectivity%20of%20a%20novel%20SARS-like%20coronavirus%20in%20Chinese%20bats%202018",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hu%2C%20D.%20Genomic%20characterization%20and%20infectivity%20of%20a%20novel%20SARS-like%20coronavirus%20in%20Chinese%20bats%202018"
+        },
+        {
+            "id": "2",
+            "alt_id": "Marra_2003_a",
+            "entry": "2. M. A. Marra et al., The genome sequence of the SARS-associated coronavirus. Science 300, 1399-1404 (2003).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Marra%2C%20M.A.%20The%20genome%20sequence%20of%20the%20SARS-associated%20coronavirus%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Marra%2C%20M.A.%20The%20genome%20sequence%20of%20the%20SARS-associated%20coronavirus%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Marra%2C%20M.A.%20The%20genome%20sequence%20of%20the%20SARS-associated%20coronavirus%202003"
+        },
+        {
+            "id": "3",
+            "alt_id": "He_2014_a",
+            "entry": "3. B. He et al., Identification of diverse alphacoronaviruses and genomic characterization of a novel severe acute respiratory syndrome-like coronavirus from bats in China. Journal of virology 88, 7070-7082 (2014).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=He%2C%20B.%20Identification%20of%20diverse%20alphacoronaviruses%20and%20genomic%20characterization%20of%20a%20novel%20severe%20acute%20respiratory%20syndrome-like%20coronavirus%20from%20bats%20in%20China%202014",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=He%2C%20B.%20Identification%20of%20diverse%20alphacoronaviruses%20and%20genomic%20characterization%20of%20a%20novel%20severe%20acute%20respiratory%20syndrome-like%20coronavirus%20from%20bats%20in%20China%202014",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=He%2C%20B.%20Identification%20of%20diverse%20alphacoronaviruses%20and%20genomic%20characterization%20of%20a%20novel%20severe%20acute%20respiratory%20syndrome-like%20coronavirus%20from%20bats%20in%20China%202014"
+        },
+        {
+            "id": "4",
+            "alt_id": "Lau_2010_a",
+            "entry": "4. S. K. Lau et al., Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute, self-limiting infection that allows recombination events. Journal of virology 84, 2808-2819 (2010).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Lau%2C%20S.K.%20Ecoepidemiology%20and%20complete%20genome%20comparison%20of%20different%20strains%20of%20severe%20acute%20respiratory%20syndrome-related%20Rhinolophus%20bat%20coronavirus%20in%20China%20reveal%20bats%20as%20a%20reservoir%20for%20acute%2C%20self-limiting%20infection%20that%20allows%20recombination%20events%202010",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Lau%2C%20S.K.%20Ecoepidemiology%20and%20complete%20genome%20comparison%20of%20different%20strains%20of%20severe%20acute%20respiratory%20syndrome-related%20Rhinolophus%20bat%20coronavirus%20in%20China%20reveal%20bats%20as%20a%20reservoir%20for%20acute%2C%20self-limiting%20infection%20that%20allows%20recombination%20events%202010",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Lau%2C%20S.K.%20Ecoepidemiology%20and%20complete%20genome%20comparison%20of%20different%20strains%20of%20severe%20acute%20respiratory%20syndrome-related%20Rhinolophus%20bat%20coronavirus%20in%20China%20reveal%20bats%20as%20a%20reservoir%20for%20acute%2C%20self-limiting%20infection%20that%20allows%20recombination%20events%202010"
+        },
+        {
+            "id": "5",
+            "alt_id": "Wu_2016_a",
+            "entry": "5. Z. Wu et al., Deciphering the bat virome catalog to better understand the ecological diversity of bat viruses and the bat origin of emerging infectious diseases. The ISME journal 10, 609-620 (2016).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wu%2C%20Z.%20Deciphering%20the%20bat%20virome%20catalog%20to%20better%20understand%20the%20ecological%20diversity%20of%20bat%20viruses%20and%20the%20bat%20origin%20of%20emerging%20infectious%20diseases%202016",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wu%2C%20Z.%20Deciphering%20the%20bat%20virome%20catalog%20to%20better%20understand%20the%20ecological%20diversity%20of%20bat%20viruses%20and%20the%20bat%20origin%20of%20emerging%20infectious%20diseases%202016",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wu%2C%20Z.%20Deciphering%20the%20bat%20virome%20catalog%20to%20better%20understand%20the%20ecological%20diversity%20of%20bat%20viruses%20and%20the%20bat%20origin%20of%20emerging%20infectious%20diseases%202016"
+        },
+        {
+            "id": "6",
+            "alt_id": "Ge_2013_a",
+            "entry": "6. X.-Y. Ge et al., Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature 503, 535-538 (2013).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Ge%2C%20X.-Y.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20the%20ACE2%20receptor%202013",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Ge%2C%20X.-Y.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20the%20ACE2%20receptor%202013",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Ge%2C%20X.-Y.%20Isolation%20and%20characterization%20of%20a%20bat%20SARS-like%20coronavirus%20that%20uses%20the%20ACE2%20receptor%202013"
+        },
+        {
+            "id": "7",
+            "alt_id": "Hu_2017_a",
+            "entry": "7. B. Hu et al., Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS pathogens 13, (2017).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Hu%2C%20B.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Hu%2C%20B.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Hu%2C%20B.%20Discovery%20of%20a%20rich%20gene%20pool%20of%20bat%20SARS-related%20coronaviruses%20provides%20new%20insights%20into%20the%20origin%20of%20SARS%20coronavirus%202017"
+        },
+        {
+            "id": "8",
+            "alt_id": "Armenteros_2019_a",
+            "entry": "8. J. J. A. Armenteros et al., SignalP 5.0 improves signal peptide predictions using deep neural networks. Nature biotechnology 37, 420-423 (2019).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Armenteros%2C%20J.J.A.%20SignalP%205.0%20improves%20signal%20peptide%20predictions%20using%20deep%20neural%20networks%202019",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Armenteros%2C%20J.J.A.%20SignalP%205.0%20improves%20signal%20peptide%20predictions%20using%20deep%20neural%20networks%202019",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Armenteros%2C%20J.J.A.%20SignalP%205.0%20improves%20signal%20peptide%20predictions%20using%20deep%20neural%20networks%202019"
+        },
+        {
+            "id": "9",
+            "alt_id": "Krogh_et+al_2001_a",
+            "entry": "9. A. Krogh, B. Larsson, G. Von Heijne, E. L. Sonnhammer, Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes. Journal of molecular biology 305, 567-580 (2001).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Krogh%2C%20A.%20Larsson%2C%20B.%20Heijne%2C%20G.Von%20Sonnhammer%2C%20E.L.%20Predicting%20transmembrane%20protein%20topology%20with%20a%20hidden%20Markov%20model%3A%20application%20to%20complete%20genomes%202001",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Krogh%2C%20A.%20Larsson%2C%20B.%20Heijne%2C%20G.Von%20Sonnhammer%2C%20E.L.%20Predicting%20transmembrane%20protein%20topology%20with%20a%20hidden%20Markov%20model%3A%20application%20to%20complete%20genomes%202001",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Krogh%2C%20A.%20Larsson%2C%20B.%20Heijne%2C%20G.Von%20Sonnhammer%2C%20E.L.%20Predicting%20transmembrane%20protein%20topology%20with%20a%20hidden%20Markov%20model%3A%20application%20to%20complete%20genomes%202001"
+        },
+        {
+            "id": "10",
+            "alt_id": "Soeding_et+al_2005_a",
+            "entry": "10. J. S\u00f6ding, A. Biegert, A. N. Lupas, The HHpred interactive server for protein homology detection and structure prediction. Nucleic acids research 33, W244-W248 (2005). ",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=S%C3%B6ding%2C%20J.%20Biegert%2C%20A.%20Lupas%2C%20A.N.%20The%20HHpred%20interactive%20server%20for%20protein%20homology%20detection%20and%20structure%20prediction%202005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=S%C3%B6ding%2C%20J.%20Biegert%2C%20A.%20Lupas%2C%20A.N.%20The%20HHpred%20interactive%20server%20for%20protein%20homology%20detection%20and%20structure%20prediction%202005",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=S%C3%B6ding%2C%20J.%20Biegert%2C%20A.%20Lupas%2C%20A.N.%20The%20HHpred%20interactive%20server%20for%20protein%20homology%20detection%20and%20structure%20prediction%202005"
+        }
+    ],
+    "facts": [
+        "A novel coronavirus is the causative agent of an emergent severe respiratory disease in humans",
+        "that is threatening to result in a global health crisis",
+        "uncover many Ig proteins from several metazoan viruses which are distinct in sequence and structure",
+        "that deployment of Ig domain proteins is a widely-used strategy by viruses",
+        "Nidoviruses are an ancient group of lipid-enveloped viruses with non-segmented RNA genomes",
+        "a novel severe respiratory disease has emerged in humans",
+        "relatively long incubation period of 1-2 weeks followed by development of fever",
+        "COVID-19 poses as a potential major threat to human health",
+        "A novel coronavirus was identified as the causative agent",
+        "multiple proteins encoded by the SARS-related CoV genome remain enigmatic",
+        "evolutionary analysis to show that one such mysterious protein",
+        "which might function as potential modulators of host immunity to delay",
+        "The program CD-HIT was used for similarity-based clustering",
+        "A multiple sequence alignment of whole virus genomes was performed by KALIGN",
+        "a similarity plot was constructed by a custom Python script",
+        "which calculated the identity between each subject sequence",
+        "the SARS-CoV-2 genome sequence based on a custom sliding window size and step size",
+        "Open reading frames of virus genomes used in this study were extracted from an",
+        "iterative sequence profile searches were conducted by the programs PSI-",
+        "which searched against the nonredundant protein database",
+        "NCBI with a cut-off e-value of 0.005 serving as the significance threshold",
+        "Similarity-based clustering was conducted by BLASTCLUST",
+        "Multiple sequence alignments were built by the KALIGN",
+        "by careful manual adjustments based on the profile\u2013profile alignment",
+        "an in-house alignment visualization program written in perl",
+        "Signal peptides were predicted by the SignalP-5.0 Server",
+        "The transmembrane regions were predicted by the TMHMM Server",
+        "the Maximum Likelihood method based on the JTT w",
+        "The rate variation model allowed for some sites to be evolutionarily invariable",
+        "with branch lengths measured in the number of substitutions",
+        "P is the fraction of residues of amino acid type",
+        "M is the number of amino acid types",
+        "The Modeller9v1 program was utilized for homology modeling of structure",
+        "most important factor affecting the quality of the model",
+        "alignments used in this study have been carefully built",
+        "The host-pathogen arms-race has selected for a disparate complement of viral genes involved in pathogenesis",
+        "These genes often rapidly diversify through recombination and mutations to keep",
+        "Similarity plots show that the bat CoV",
+        "RaTG13 is the closest relative of SARS-CoV-2 with no evidence",
+        "the remaining part of ORF1 of SARS-CoV-2 and RatG13 show no specific relationship to these viruses",
+        "the uncharacterized protein encoded by ORF8",
+        "which does not participate in viral replication",
+        "a sequenceprofile built from the multiple sequence alignment of all available ORF8 proteins showed",
+        "to extracellular metazoan Ig domains that are involved in adhesion",
+        "ORF8 is distinguished from ORF7a",
+        "a potential peptide-ligand binding groove that has been proposed for ORF7a",
+        "two paralogous copies annotated as either ORF4a",
+        "to Ig domains found in the adenoviral E3-CR1 proteins",
+        "weaker hits to two other Ig domains",
+        "Alpha-CoV Ig domains shows that each group represents a distinct clade",
+        "this residue is positioned at the predicted peptide-ligand binding groove of the ORF8-Ig domain",
+        "Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs",
+        "Alpha-CoVs based on their polymerase proteins",
+        "the ancestral state which was present in the common ancestor",
+        "ORF7a could have been exchanged between Alpha- and Beta-CoVs by a recombination event",
+        "The CoV ORF7a-ORF8 families might have derived from the metazoan adhesion Ig families",
+        "Alpha-CoVs were likely acquired from adenoviral CR1 Ig domains",
+        "Divergent Ig proteins with a comparable architecture are deployed by distinct viruses",
+        "PSI-BLAST runs with Ig domains",
+        "able to identify about 17 distinct viral Ig domain families in a wider diversity",
+        "such Ig domain proteins can be found in adenoviruses",
+        "a C-terminal TM region often followed by a stretch of basic residues",
+        "exonuclease has been proposed to favor the emergence of larger RNA genomes in CoVs",
+        "this domain can be used for adherence for cell",
+        "SARS-ORF7a has been implicated in the interaction with bone marrow stromal antigen 2",
+        "While ORF8 is a paralog of ORF7a",
+        "while the SARS-CoV ORF8 isolates from civets",
+        "into an intact structure held by the two disulfide bonds formed by",
+        "Ig domain proteins are newly acquired in subsets of Alpha-"
+    ],
+    "claims": [
+        "By using genomic, sequence, structural and evolutionary analysis, we show that Alpha- and Beta-CoVs possess several novel families of immunoglobulin (Ig) domain proteins, including ORF8 and ORF7a from SARS-related coronaviruses and two protein groups from certain Alpha-CoVs",
+        "We propose that deployment of Ig domain proteins is a widely-used strategy by viruses, and SARS-CoV-2 ORF8 is a potential pathogenicity factor which evolves rapidly to counter the immune response and facilitate the transmission between hosts. 32 KEYWORDS Coronavirus, COVID-19, SARS, ORF8, Immunoglobin, Evolution, Pathogenicity, Immune 33 evasion",
+        "We present a computational and evolutionary analysis to show that one such mysterious protein, ORF8, and several others from Alpha- and Beta-coronavirus, comprise novel families of immunoglobulin domain proteins, which might function as potential modulators of host immunity to delay or attenuate the immune response against the viruses",
+        "In addition to this major recombination event, we identified several smaller regions which might have undergone recombinational diversification during the emergence of the SARS-CoV-2 genome (Figure S1)",
+        "Among these three fast-evolving proteins, we focused on the ORF8 protein as it is one of the so-called accessory proteins, which does not participate in viral replication (32, 33), raising the possibility that it might have a role in viral pathogenesis",
+        "Besides these families, we identified a fourth family of Ig domains from the same Alpha-CoVs which contain the above-discussed ORF7a/8-like Ig family (Figure 3A)",
+        "ORF8 and ORF7a, we examined the column-wise Shannon entropy in the 20 amino acid alphabet and found that the ORF8 has significantly higher mean entropy than ORF7a (ORF8: 1.09 vs ORF7a: 0.22, p<",
+        "By comparing column-wise entropies in both the 20 amino acid and a reduced 8-letter alphabet (where amino acids are grouped based on similar side-chain chemistry), we found at least 14 positions in ORF8 which show high entropy in both alphabets as compared to a single position in ORF7a (Figure 2D)",
+        "We examined the distribution of CoV Ig proteins in the context of a phylogenetic tree of both Beta-and"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "We present a computational and evolutionary analysis to show that one such mysterious protein, ORF8, and several others from Alpha- and Beta-coronavirus, comprise novel families of immunoglobulin domain proteins, which might function as potential modulators of host immunity to delay or attenuate the immune response against the viruses",
+        "Based on the Multiple sequence alignment, a similarity plot was constructed by a custom Python script, which calculated the identity between each subject sequence and the Severe Acute Respiratory Syndrome-CoV-2 genome sequence based on a custom sliding author/funder",
+        "Multiple sequence alignments were built by the KALIGN (14), MUSCLE(16) and PROMALS3D(17) programs, followed by careful manual adjustments based on the profile\u2013profile alignment, the secondary structure information and the structural alignment",
+        "The host-pathogen arms-race has selected for a disparate complement of viral genes involved in pathogenesis",
+        "These genes often rapidly diversify through recombination and mutations to keep up with the evolution of host resistance",
+        "Similarity plots show that the bat CoV",
+        "RaTG13 is the closest relative of Severe Acute Respiratory Syndrome-CoV-2 with no evidence for recombination between them (Figure and Figure S1)",
+        "The remaining part of ORF1 of Severe Acute Respiratory Syndrome-CoV-2 and RatG13 show no specific relationship to these viruses",
+        "This suggests a recombination event between the common ancestor of Severe Acute Respiratory Syndrome-CoV-2 and RaTG13, and probably another member of the Severe Acute Respiratory Syndrome-related clade close to CoVZXC21 and CoVZXC45. In addition to this major recombination event, we identified several smaller regions which might have undergone recombinational diversification during the emergence of the Severe Acute Respiratory Syndrome-CoV-2 genome (Figure S1)",
+        "Terminal region of the ORF1a polyprotein, the Spike protein, and the uncharacterized protein encoded by ORF8 (Figure 1 and Figure S1)",
+        "Identification of novel immunoglobin protein families in CoVs. Among these three fast-evolving proteins, we focused on the ORF8 protein as it is one of the so-called accessory proteins, which does not participate in viral replication (32, 33), raising the possibility that it might have a role in viral pathogenesis",
+        "Profile-profile comparisons using a sequenceprofile built from the multiple sequence alignment of all available ORF8 proteins showed it to be unexpectedly homologous to the membrane-anchored ORF7a protein from the same subset of Beta-",
+        "ORF7a is a known member of the immunoglobulin (Ig) domain superfamily and is related to extracellular metazoan Ig domains that are involved in adhesion, such as ICAM (35, 36)",
+        "The homology model of ORF8, based on the structure of Severe Acute Respiratory Syndrome-CoV ORF7a, suggests that this insert augments a potential peptide-ligand binding groove that has been proposed for ORF7a (Figure 2B and Figure S3)",
+        "We identified a fourth family of Ig domains from the same Alpha-CoVs which contain the above-discussed ORF7a/8-like Ig family (Figure 3A). These Alpha-CoVs typically possess one or two paralogous copies annotated as either ORF4a/b or NS5a/b",
+        "Profile-profile searches have shown that they are related to Ig domains found in the adenoviral early region 3-CR1 proteins (Figure S4)",
+        "They yield weaker hits to two other Ig domains, namely the poxviral decoy interferon receptors and human T-",
+        "ORF8 and ORF7a, we examined the column-wise Shannon entropy in the 20 amino acid alphabet and found that the ORF8 has significantly higher mean entropy than ORF7a (ORF8: 1.09 vs ORF7a: 0.22, p<",
+        "By comparing column-wise entropies in both the 20 amino acid and a reduced 8-letter alphabet, we found at least 14 positions in ORF8 which show high entropy in both alphabets as compared to a single position in ORF7a (Figure 2D)",
+        "Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs",
+        "Alpha-CoVs based on their polymerase proteins (Figure 3A)",
+        "It is possible that this architecture represents the ancestral state which was present in the common ancestor of both Alpha-CoVs and Beta-CoVs",
+        "The CoV ORF7a-ORF8 families might have derived from the metazoan adhesion Ig families, and the ORF4a/b-like Ig domains of",
+        "Alpha-CoVs were likely acquired from adenoviral CR1 Ig domains with which they share some specific sequence features",
+        "Divergent Ig proteins with a comparable architecture are deployed by distinct viruses",
+        "PSI-BLAST runs with Ig domains (12), we were able to identify about 17 distinct viral Ig domain families in a wider diversity of animal viruses (Figure 3B and Table S2)",
+        "In addition to CoVs, such Ig domain proteins can be found in adenoviruses, NCLDVs, Herpesviruses and Phenuiviruses",
+        "The majority have an architecture comparable to the CoV-Ig domains, with an N-terminal signal peptide, one or multiple Ig domains and a C-terminal TM region often followed by a stretch of basic residues",
+        "The presence of a proofreading 3\u2019-5\u2019 exonuclease has been proposed to favor the emergence of larger RNA genomes in CoVs (40)",
+        "Why have diverse viruses independently acquired the Ig domain during their evolution? First, the Ig domains are major mediators of adhesive interactions in both eukaryotes and prokaryotes (37, 41, 42). This domain can be used for adherence for cell to cell spread",
+        "Severe Acute Respiratory Syndrome-ORF7a has been implicated in the interaction with bone marrow stromal antigen 2 (BST-2), which tethers budding virions to the host cell in a broad-spectrum antiviral response, to prevent the N-linked glycosylation of bone marrow stromal antigen 2 thereby crippling the host response against the virus (47)",
+        "While ORF8 is a paralog of ORF7a, its lack of the TM segment, unique insert and significantly more rapid evolution suggest that it has acquired a distinct function and has been under strong positive selection",
+        "While the Severe Acute Respiratory Syndrome-CoV ORF8 isolates from civets and early stages of the human epidemic are intact, it split up into two ORFs (ORF8a and ORF8b) during the subsequent human epidemic (49)"
+    ],
+    "top_statements": [
+        "Nidoviruses are an ancient group of lipid-enveloped viruses with non-segmented RNA genomes, which are known to infect oomycetes and animals, including molluscs, arthropods and vertebrates (1)",
+        "We present a computational and evolutionary analysis to show that one such mysterious protein, ORF8, and several others from Alpha- and Beta-coronavirus, comprise novel families of immunoglobulin domain proteins, which might function as potential modulators of host immunity to delay or attenuate the immune response against the viruses",
+        "Identification of novel immunoglobin protein families in CoVs. Among these three fast-evolving proteins, we focused on the ORF8 protein as it is one of the so-called accessory proteins, which does not participate in viral replication (32, 33), raising the possibility that it might have a role in viral pathogenesis",
+        "Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs",
+        "The presence of a proofreading 3\u2019-5\u2019 exonuclease has been proposed to favor the emergence of larger RNA genomes in CoVs (40)",
+        "Severe Acute Respiratory Syndrome-ORF7a has been implicated in the interaction with bone marrow stromal antigen 2 (BST-2), which tethers budding virions to the host cell in a broad-spectrum antiviral response, to prevent the N-linked glycosylation of bone marrow stromal antigen 2 thereby crippling the host response against the virus (47)"
+    ],
+    "headline": "Ig domain proteins are newly acquired in subsets of Alpha- and Beta-CoVs",
+    "contexts": [],
+    "abbreviations": {
+        "MERS": "Middle Eastern Respiratory Syndrome",
+        "SARS": "Severe Acute Respiratory Syndrome",
+        "NCBI": "National Center for Biotechnology Information",
+        "ER": "endoplasmic reticulum",
+        "BST-2": "bone marrow stromal antigen 2",
+        "MSA": "Multiple sequence alignment",
+        "E3": "early region 3"
+    }
+}

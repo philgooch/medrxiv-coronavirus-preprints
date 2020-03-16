@@ -1,0 +1,884 @@
+{
+    "filename": "2020.03.02.20029975v1.pdf",
+    "content_type": "application/pdf",
+    "file_size": 495997,
+    "metadata": {
+        "title": "Exuberant elevation of IP-10, MCP-3 and IL-1ra during SARS-CoV-2 infection is associated with disease severity and fatal outcome",
+        "author": "3 Yang Yang, Chenguang Shen, Jinxiu Li, Jing Yuan, Minghui Yang, Fuxiang Wang, 4 Guobao Li, Yanjie Li, Li Xing, Ling Peng, Jinli Wei, Mengli Cao, Haixia Zheng, 5 Weibo Wu, Rongrong Zou, Delin Li, Zhixiang Xu, Haiyan Wang, Mingxia Zhang, 6 Zheng Zhang, Lei Liu, Yingxia Liu",
+        "date": 2020,
+        "affiliations": [
+            "Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research",
+            "Center for infectious disease, State Key Discipline of Infectious Disease, Shenzhen",
+            "Third People's Hospital, Second Hospital Affiliated to Southern University of Science 11 and Technology, Shenzhen, China."
+        ],
+        "identifiers": {
+            "arxiv": null,
+            "doi": "10.1101/2020.03.02.20029975",
+            "isbn": null,
+            "doc_id": null,
+            "url": "https://www.medrxiv.org/content/10.1101/2020.03.02.20029975v1.pdf"
+        },
+        "abstract": "The outbreak of Coronavirus Disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, December 2019, and continuously poses a serious threat to public health. Our previous study has shown that cytokine storm occurred during SARS-CoV-2 infection, while the detailed role of cytokines in the disease severity and progression remained unclear due to the limited case number. In this study, we examined 48 cytokines in the plasma samples 22 from 53 COVID-19 cases, among whom 34 were severe cases, and the others",
+        "references": "@article{su2016a,\n  author = {Su, S.},\n  title = {Genetic Recombination, and Pathogenesis of Coronaviruses},\n  journal = {Trends Microbiol},\n  volume = {24},\n  pages = {490\u2013502},\n  doi = {doi: 10.1016/j.tim.2016.03.003},\n  date = {2016},\n  more-authors = {true},\n  language = {}\n}\n@article{channappanavar2017a,\n  author = {Channappanavar, R. and Perlman, S.},\n  title = {Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology},\n  journal = {Semin Immunopathol},\n  volume = {39},\n  pages = {529\u2013539},\n  doi = {doi: 10.1007/s00281-017-0629-x},\n  date = {2017},\n  language = {}\n}\n@article{zhu-a,\n  author = {Zhu, N.},\n  title = {A Novel Coronavirus from Patients with Pneumonia in China, 2019},\n  journal = {N Engl J Med},\n  doi = {doi: 10.1056/NEJMoa2001017 (2020},\n  more-authors = {true},\n  language = {}\n}\n@article{wenjie2020a,\n  author = {Wenjie, T.},\n  title = {A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases \u2014 Wuhan, China 2019\u22122020. China CDC},\n  journal = {Weekly},\n  volume = {2},\n  pages = {61\u201362},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{china2020a,\n  author = {China, N.H.C.o t P.s R.o},\n  title = {Daily briefing on novel coronavirus cases in China},\n  url = {http://en.nhc.gov.cn/2020-02/05/c_76219.htm},\n  date = {2020},\n  language = {}\n}\n@misc{unknown2020a,\n  url = {https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125},\n  volume = {cd>},\n  date = {2020}\n}\n@article{wang-a,\n  author = {Wang, D.},\n  journal = {et al. Clinical Characteristics of},\n  volume = {138},\n  title = {Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China},\n  doi = {doi: 10.1001/jama.2020.1585 (2020},\n  unmatched-journal = {Jama,},\n  language = {}\n}\n@article{guan-a,\n  author = {Guan, W.J.},\n  title = {Clinical Characteristics of Coronavirus Disease 2019 in China},\n  journal = {N Engl J Med},\n  doi = {doi: 10.1056/NEJMoa2002032 (2020},\n  more-authors = {true},\n  language = {}\n}\n@article{delia2013a,\n  author = {D'Elia, R.V. and Harrison, K. and Oyston, P.C. and Lukaszewski, R.A. and Clark, G.C.},\n  title = {Targeting the \"cytokine storm\" for therapeutic benefit},\n  journal = {Clin Vaccine Immunol},\n  volume = {20},\n  pages = {319\u2013327},\n  doi = {doi: 10.1128/cvi.00636-12},\n  date = {2013},\n  language = {}\n}\n@article{ben2017a,\n  author = {Ben Salem, C.},\n  title = {Acute Respiratory Distress Syndrome},\n  journal = {N Engl J Med},\n  volume = {377},\n  doi = {doi: 10.1056/NEJMc1711824},\n  date = {2017},\n  number = {1904},\n  language = {}\n}\n@article{zeng2015a,\n  author = {Zeng, H.},\n  title = {A(H7N9) virus results in early induction of proinflammatory cytokine responses in both human lung epithelial and endothelial cells and shows increased human adaptation compared with avian H5N1 virus},\n  journal = {J Virol},\n  volume = {89},\n  pages = {4655\u20134667},\n  doi = {doi: 10.1128/jvi.03095-14},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@article{guo2015a,\n  author = {Guo, J.},\n  title = {The Serum Profile of Hypercytokinemia Factors Identified in H7N9-Infected Patients can Predict Fatal Outcomes},\n  journal = {Sci Rep},\n  volume = {5},\n  doi = {doi: 10.1038/srep10942},\n  date = {2015},\n  more-authors = {true},\n  number = {10942},\n  language = {}\n}\n@article{zhou2013a,\n  author = {Zhou, J.},\n  title = {Biological features of novel avian influenza A (H7N9) virus},\n  journal = {Nature},\n  volume = {499},\n  pages = {500\u2013503},\n  doi = {doi: 10.1038/nature12379},\n  date = {2013},\n  more-authors = {true},\n  language = {}\n}\n@article{yang2019a,\n  author = {Yang, Y.},\n  title = {Comparison between human infections caused by highly and low pathogenic H7N9 avian influenza viruses in Wave Five: Clinical and virological findings},\n  journal = {J Infect},\n  volume = {78},\n  pages = {241\u2013248},\n  doi = {doi: 10.1016/j.jinf.2019.01.005},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@misc{bi2018a,\n  author = {Bi, Y.},\n  title = {Clinical and immunological characteristics of human infections with H5N6 avian influenza virus. Clin Infect Dis},\n  doi = {doi: 10.1093/cid/ciy681},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{wang2010a,\n  author = {Wang, S.},\n  title = {Influenza virus-cytokine-protease cycle in the pathogenesis of vascular hyperpermeability in severe influenza},\n  journal = {J Infect Dis},\n  volume = {202},\n  pages = {991\u20131001},\n  doi = {doi: 10.1086/656044},\n  date = {2010},\n  more-authors = {true},\n  language = {}\n}\n@article{jiang2005a,\n  author = {Jiang, Y.},\n  title = {Characterization of cytokine/chemokine profiles of severe acute respiratory syndrome},\n  journal = {Am J Respir Crit Care Med},\n  volume = {171},\n  pages = {850\u2013857},\n  doi = {doi: 10.1164/rccm.200407-857OC},\n  date = {2005},\n  more-authors = {true},\n  language = {}\n}\n@article{huang2005a,\n  author = {Huang, K.J.},\n  title = {An interferon-gamma-related cytokine storm in SARS patients},\n  journal = {J Med Virol},\n  volume = {75},\n  pages = {185\u2013194},\n  doi = {doi: 10.1002/jmv.20255},\n  date = {2005},\n  more-authors = {true},\n  language = {}\n}\n@article{zhang2004a,\n  author = {Zhang, Y.},\n  title = {Analysis of serum cytokines in patients with severe acute respiratory syndrome},\n  journal = {Infect Immun},\n  volume = {72},\n  pages = {4410\u20134415},\n  doi = {doi: 10.1128/iai.72.8.4410-4415.2004},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{wong2004a,\n  author = {Wong, C.K.},\n  title = {Plasma inflammatory cytokines and chemokines in severe acute respiratory syndrome},\n  journal = {Clin Exp Immunol},\n  volume = {136},\n  pages = {95\u2013103},\n  doi = {doi: 10.1111/j.1365-2249.2004.02415.x},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{unknown2003a,\n  title = {Dynamic changes in blood cytokine levels as clinical indicators in severe acute respiratory syndrome. Chin Med},\n  journal = {J (Engl)},\n  volume = {116},\n  pages = {1283\u20131287},\n  date = {2003},\n  language = {}\n}\n@article{mubarak2019a,\n  author = {Mubarak, A. and Alturaiki, W. and Hemida, M.G.},\n  title = {Middle East Respiratory Syndrome Coronavirus (MERS-CoV): Infection, Immunological Response, and Vaccine Development},\n  journal = {J Immunol Res},\n  date = {2019},\n  volume = {6491738},\n  doi = {doi: 10.1155/2019/6491738},\n  language = {}\n}\n@article{mahallawi2018a,\n  author = {Mahallawi, W.H. and Khabour, O.F. and Zhang, Q. and Makhdoum, H.M. and Suliman, B.A.},\n  title = {MERS-CoV infection in humans is associated with a pro-inflammatory Th1 and Th17 cytokine profile},\n  journal = {Cytokine},\n  volume = {104},\n  pages = {8\u201313},\n  doi = {doi: 10.1016/j.cyto.2018.01.025},\n  date = {2018},\n  language = {}\n}\n@article{faure2014a,\n  author = {Faure, E.},\n  title = {Distinct immune response in two MERS-CoV-infected patients: can we go from bench to bedside?},\n  journal = {PLoS One 9},\n  volume = {88716},\n  doi = {doi: 10.1371/journal.pone.0088716},\n  date = {2014},\n  more-authors = {true},\n  language = {}\n}\n@article{huang-a,\n  author = {Huang, C.},\n  title = {Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China},\n  journal = {Lancet},\n  volume = {395},\n  pages = {497\u2013506},\n  doi = {doi: 10.1016/s0140-6736(20)30183-5 (2020},\n  more-authors = {true},\n  language = {}\n}\n@misc{liu2019a,\n  author = {Liu and Y.},\n  date = {2019-11},\n  volume = {coronavirus},\n  title = {infections trigger an exaggerated cytokine response aggravating lung injury. ChinaXiv},\n  more-authors = {true},\n  language = {}\n}\n@incollection{yang2020a,\n  author = {Yang, Y.},\n  title = {Laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections},\n  source = {medRxiv},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{ng2018a,\n  author = {Ng, K.T.},\n  title = {Viral Load and Sequence Analysis Reveal the Symptom Severity, Diversity, and Transmission Clusters of Rhinovirus Infections},\n  journal = {Clin Infect Dis},\n  volume = {67},\n  pages = {261\u2013268},\n  doi = {doi: 10.1093/cid/ciy063},\n  date = {2018},\n  more-authors = {true},\n  language = {}\n}\n@article{de2006a,\n  author = {de Jong, M.D.},\n  title = {Fatal outcome of human influenza A (H5N1) is associated with high viral load and hypercytokinemia},\n  journal = {Nat Med},\n  volume = {12},\n  pages = {1203\u20131207},\n  doi = {doi: 10.1038/nm1477},\n  date = {2006},\n  more-authors = {true},\n  language = {}\n}\n@article{de2015a,\n  author = {de La Vega, M.A.},\n  title = {Ebola viral load at diagnosis associates with patient outcome and outbreak evolution},\n  journal = {J Clin Invest},\n  volume = {125},\n  pages = {4421\u20134428},\n  doi = {doi: 10.1172/jci83162},\n  date = {2015},\n  more-authors = {true},\n  language = {}\n}\n@article{garcia-maurino2019a,\n  author = {Garcia-Maurino, C.},\n  title = {Viral Load Dynamics and Clinical Disease Severity in Infants With Respiratory Syncytial Virus Infection},\n  journal = {J Infect Dis},\n  volume = {219},\n  pages = {1207\u20131215},\n  doi = {doi: 10.1093/infdis/jiy655},\n  date = {2019},\n  more-authors = {true},\n  language = {}\n}\n@misc{unknown2017a,\n  title = {Semin Immunopathol 39, 541-550},\n  doi = {doi: 10.1007/s00281-017-0636-y},\n  date = {2017},\n  language = {}\n}\n@article{rhen2005a,\n  author = {Rhen, T. and Cidlowski, J.A.},\n  title = {Antiinflammatory action of glucocorticoids--new mechanisms for old drugs},\n  journal = {N Engl J Med},\n  volume = {353},\n  pages = {1711\u20131723},\n  doi = {doi: 10.1056/NEJMra050541},\n  date = {2005},\n  language = {}\n}\n@article{liu2020a,\n  author = {Liu, Y.},\n  title = {Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury},\n  journal = {Sci China Life Sci},\n  doi = {doi: 10.1007/s11427-020-1643-8},\n  date = {2020},\n  more-authors = {true},\n  language = {}\n}\n@article{cao2016a,\n  author = {Cao, B.},\n  title = {Adjuvant Corticosteroid Treatment in Adults With Influenza A (H7N9) Viral Pneumonia},\n  journal = {Crit Care Med},\n  volume = {44},\n  pages = {318\u2013328},\n  doi = {doi: 10.1097/ccm.0000000000001616},\n  date = {2016},\n  more-authors = {true},\n  language = {}\n}\n@article{peiris2004a,\n  author = {Peiris, J.S.},\n  title = {Re-emergence of fatal human influenza A subtype H5N1 disease},\n  journal = {Lancet},\n  volume = {363},\n  pages = {617\u2013619},\n  doi = {doi: 10.1016/s0140-6736(04)15595-5},\n  date = {2004},\n  more-authors = {true},\n  language = {}\n}\n@article{ichikawa2013a,\n  author = {Ichikawa, A.},\n  title = {CXCL10-CXCR3 enhances the development of neutrophil-mediated fulminant lung injury of viral and nonviral origin},\n  journal = {Am J Respir Crit Care Med},\n  volume = {187},\n  pages = {65\u201377},\n  doi = {doi: 10.1164/rccm.201203-0508OC},\n  date = {2013},\n  more-authors = {true},\n  language = {}\n}\n@article{wang2013a,\n  author = {Wang, W.},\n  title = {Monoclonal antibody against CXCL-10/IP-10 ameliorates influenza A (H1N1) virus induced acute lung injury},\n  journal = {Cell Res},\n  volume = {23},\n  pages = {577\u2013580},\n  doi = {doi: 10.1038/cr.2013.25},\n  date = {2013},\n  more-authors = {true},\n  language = {}\n}\n@article{murray1988a,\n  author = {Murray, J.F. and Matthay, M.A. and Luce, J.M. and Flick, M.R.},\n  title = {An expanded definition of the adult respiratory distress syndrome},\n  journal = {Am Rev Respir Dis},\n  volume = {138},\n  pages = {720\u2013723},\n  doi = {doi: 10.1164/ajrccm/138.3.720},\n  date = {1988},\n  language = {}\n}\n",
+        "emails": [
+            "yingxialiu@hotmail.com",
+            "liulei3322@aliyun.com"
+        ],
+        "references_ris": "TY  - JOUR\nAU  - Su, S.\nTI  - Genetic Recombination, and Pathogenesis of Coronaviruses\nT2  - Trends Microbiol\nVL  - 24\nSP  - 490\nEP  - 502\nDO  - 10.1016/j.tim.2016.03.003\nPY  - 2016\nDA  - 2016\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Channappanavar, R.\nAU  - Perlman, S.\nTI  - Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology\nT2  - Semin Immunopathol\nVL  - 39\nSP  - 529\nEP  - 539\nDO  - 10.1007/s00281-017-0629-x\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhu, N.\nTI  - A Novel Coronavirus from Patients with Pneumonia in China, 2019\nT2  - N Engl J Med\nDO  - 10.1056/NEJMoa2001017 (2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wenjie, T.\nTI  - A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases \u2014 Wuhan, China 2019\u22122020. China CDC\nT2  - Weekly\nVL  - 2\nSP  - 61\nEP  - 62\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - China, N.H.C.o t P.s R.o\nTI  - Daily briefing on novel coronavirus cases in China\nUR  - http://en.nhc.gov.cn/2020-02/05/c_76219.htm\nPY  - 2020\nDA  - 2020\nLA  - \nER  - \n\nTY  - GEN\nUR  - https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125\nVL  - cd>\nPY  - 2020\nDA  - 2020\nER  - \n\nTY  - JOUR\nAU  - Wang, D.\nT2  - et al. Clinical Characteristics of\nVL  - 138\nTI  - Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China\nDO  - 10.1001/jama.2020.1585 (2020\nC1  - Jama,\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guan, W.J.\nTI  - Clinical Characteristics of Coronavirus Disease 2019 in China\nT2  - N Engl J Med\nDO  - 10.1056/NEJMoa2002032 (2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - D'Elia, R.V.\nAU  - Harrison, K.\nAU  - Oyston, P.C.\nAU  - Lukaszewski, R.A.\nAU  - Clark, G.C.\nTI  - Targeting the \"cytokine storm\" for therapeutic benefit\nT2  - Clin Vaccine Immunol\nVL  - 20\nSP  - 319\nEP  - 327\nDO  - 10.1128/cvi.00636-12\nPY  - 2013\nDA  - 2013\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ben Salem, C.\nTI  - Acute Respiratory Distress Syndrome\nT2  - N Engl J Med\nVL  - 377\nDO  - 10.1056/NEJMc1711824\nPY  - 2017\nDA  - 2017\nIS  - 1904\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zeng, H.\nTI  - A(H7N9) virus results in early induction of proinflammatory cytokine responses in both human lung epithelial and endothelial cells and shows increased human adaptation compared with avian H5N1 virus\nT2  - J Virol\nVL  - 89\nSP  - 4655\nEP  - 4667\nDO  - 10.1128/jvi.03095-14\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Guo, J.\nTI  - The Serum Profile of Hypercytokinemia Factors Identified in H7N9-Infected Patients can Predict Fatal Outcomes\nT2  - Sci Rep\nVL  - 5\nDO  - 10.1038/srep10942\nPY  - 2015\nDA  - 2015\nC1  - true\nIS  - 10942\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhou, J.\nTI  - Biological features of novel avian influenza A (H7N9) virus\nT2  - Nature\nVL  - 499\nSP  - 500\nEP  - 503\nDO  - 10.1038/nature12379\nPY  - 2013\nDA  - 2013\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Yang, Y.\nTI  - Comparison between human infections caused by highly and low pathogenic H7N9 avian influenza viruses in Wave Five: Clinical and virological findings\nT2  - J Infect\nVL  - 78\nSP  - 241\nEP  - 248\nDO  - 10.1016/j.jinf.2019.01.005\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Bi, Y.\nTI  - Clinical and immunological characteristics of human infections with H5N6 avian influenza virus. Clin Infect Dis\nDO  - 10.1093/cid/ciy681\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, S.\nTI  - Influenza virus-cytokine-protease cycle in the pathogenesis of vascular hyperpermeability in severe influenza\nT2  - J Infect Dis\nVL  - 202\nSP  - 991\nEP  - 1001\nDO  - 10.1086/656044\nPY  - 2010\nDA  - 2010\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Jiang, Y.\nTI  - Characterization of cytokine/chemokine profiles of severe acute respiratory syndrome\nT2  - Am J Respir Crit Care Med\nVL  - 171\nSP  - 850\nEP  - 857\nDO  - 10.1164/rccm.200407-857OC\nPY  - 2005\nDA  - 2005\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, K.J.\nTI  - An interferon-gamma-related cytokine storm in SARS patients\nT2  - J Med Virol\nVL  - 75\nSP  - 185\nEP  - 194\nDO  - 10.1002/jmv.20255\nPY  - 2005\nDA  - 2005\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Zhang, Y.\nTI  - Analysis of serum cytokines in patients with severe acute respiratory syndrome\nT2  - Infect Immun\nVL  - 72\nSP  - 4410\nEP  - 4415\nDO  - 10.1128/iai.72.8.4410-4415.2004\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wong, C.K.\nTI  - Plasma inflammatory cytokines and chemokines in severe acute respiratory syndrome\nT2  - Clin Exp Immunol\nVL  - 136\nSP  - 95\nEP  - 103\nDO  - 10.1111/j.1365-2249.2004.02415.x\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nTI  - Dynamic changes in blood cytokine levels as clinical indicators in severe acute respiratory syndrome. Chin Med\nT2  - J (Engl)\nVL  - 116\nSP  - 1283\nEP  - 1287\nPY  - 2003\nDA  - 2003\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Mubarak, A.\nAU  - Alturaiki, W.\nAU  - Hemida, M.G.\nTI  - Middle East Respiratory Syndrome Coronavirus (MERS-CoV): Infection, Immunological Response, and Vaccine Development\nT2  - J Immunol Res\nPY  - 2019\nDA  - 2019\nVL  - 6491738\nDO  - 10.1155/2019/6491738\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Mahallawi, W.H.\nAU  - Khabour, O.F.\nAU  - Zhang, Q.\nAU  - Makhdoum, H.M.\nAU  - Suliman, B.A.\nTI  - MERS-CoV infection in humans is associated with a pro-inflammatory Th1 and Th17 cytokine profile\nT2  - Cytokine\nVL  - 104\nSP  - 8\nEP  - 13\nDO  - 10.1016/j.cyto.2018.01.025\nPY  - 2018\nDA  - 2018\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Faure, E.\nTI  - Distinct immune response in two MERS-CoV-infected patients: can we go from bench to bedside?\nT2  - PLoS One 9\nVL  - 88716\nDO  - 10.1371/journal.pone.0088716\nPY  - 2014\nDA  - 2014\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Huang, C.\nTI  - Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China\nT2  - Lancet\nVL  - 395\nSP  - 497\nEP  - 506\nDO  - 10.1016/s0140-6736(20)30183-5 (2020\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nAU  - Liu\nAU  - Y.\nPY  - 2019\nDA  - 2019/11\nVL  - coronavirus\nTI  - infections trigger an exaggerated cytokine response aggravating lung injury. ChinaXiv\nC1  - true\nLA  - \nER  - \n\nTY  - CHAP\nAU  - Yang, Y.\nTI  - Laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections\nT2  - medRxiv\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ng, K.T.\nTI  - Viral Load and Sequence Analysis Reveal the Symptom Severity, Diversity, and Transmission Clusters of Rhinovirus Infections\nT2  - Clin Infect Dis\nVL  - 67\nSP  - 261\nEP  - 268\nDO  - 10.1093/cid/ciy063\nPY  - 2018\nDA  - 2018\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - de Jong, M.D.\nTI  - Fatal outcome of human influenza A (H5N1) is associated with high viral load and hypercytokinemia\nT2  - Nat Med\nVL  - 12\nSP  - 1203\nEP  - 1207\nDO  - 10.1038/nm1477\nPY  - 2006\nDA  - 2006\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - de La Vega, M.A.\nTI  - Ebola viral load at diagnosis associates with patient outcome and outbreak evolution\nT2  - J Clin Invest\nVL  - 125\nSP  - 4421\nEP  - 4428\nDO  - 10.1172/jci83162\nPY  - 2015\nDA  - 2015\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Garcia-Maurino, C.\nTI  - Viral Load Dynamics and Clinical Disease Severity in Infants With Respiratory Syncytial Virus Infection\nT2  - J Infect Dis\nVL  - 219\nSP  - 1207\nEP  - 1215\nDO  - 10.1093/infdis/jiy655\nPY  - 2019\nDA  - 2019\nC1  - true\nLA  - \nER  - \n\nTY  - GEN\nTI  - Semin Immunopathol 39, 541-550\nDO  - 10.1007/s00281-017-0636-y\nPY  - 2017\nDA  - 2017\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Rhen, T.\nAU  - Cidlowski, J.A.\nTI  - Antiinflammatory action of glucocorticoids--new mechanisms for old drugs\nT2  - N Engl J Med\nVL  - 353\nSP  - 1711\nEP  - 1723\nDO  - 10.1056/NEJMra050541\nPY  - 2005\nDA  - 2005\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Liu, Y.\nTI  - Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury\nT2  - Sci China Life Sci\nDO  - 10.1007/s11427-020-1643-8\nPY  - 2020\nDA  - 2020\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Cao, B.\nTI  - Adjuvant Corticosteroid Treatment in Adults With Influenza A (H7N9) Viral Pneumonia\nT2  - Crit Care Med\nVL  - 44\nSP  - 318\nEP  - 328\nDO  - 10.1097/ccm.0000000000001616\nPY  - 2016\nDA  - 2016\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Peiris, J.S.\nTI  - Re-emergence of fatal human influenza A subtype H5N1 disease\nT2  - Lancet\nVL  - 363\nSP  - 617\nEP  - 619\nDO  - 10.1016/s0140-6736(04)15595-5\nPY  - 2004\nDA  - 2004\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Ichikawa, A.\nTI  - CXCL10-CXCR3 enhances the development of neutrophil-mediated fulminant lung injury of viral and nonviral origin\nT2  - Am J Respir Crit Care Med\nVL  - 187\nSP  - 65\nEP  - 77\nDO  - 10.1164/rccm.201203-0508OC\nPY  - 2013\nDA  - 2013\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Wang, W.\nTI  - Monoclonal antibody against CXCL-10/IP-10 ameliorates influenza A (H1N1) virus induced acute lung injury\nT2  - Cell Res\nVL  - 23\nSP  - 577\nEP  - 580\nDO  - 10.1038/cr.2013.25\nPY  - 2013\nDA  - 2013\nC1  - true\nLA  - \nER  - \n\nTY  - JOUR\nAU  - Murray, J.F.\nAU  - Matthay, M.A.\nAU  - Luce, J.M.\nAU  - Flick, M.R.\nTI  - An expanded definition of the adult respiratory distress syndrome\nT2  - Am Rev Respir Dis\nVL  - 138\nSP  - 720\nEP  - 723\nDO  - 10.1164/ajrccm/138.3.720\nPY  - 1988\nDA  - 1988\nLA  - \nER  - \n\n",
+        "links": [],
+        "author_conclusions": [
+            "In summary, we compared the differences of cytokines profiles between severe and moderate COVID-19 cases, and found that IP-10, MCP-3 and IL-1ra were significantly associated with disease severity and progression of COVID-19. Our results added to our understanding of the immunopathologic mechanisms of"
+        ],
+        "table_captions": [
+            {
+                "id": "S1",
+                "caption": "Epidemiological and clinical features of COVID-19 patients in this study"
+            }
+        ],
+        "figure_captions": [
+            {
+                "id": "1",
+                "caption": "Comparison of serum cytokine/chemokine concentrations between healthy volunteers and COVID-19 cases. Samples from severe (N=34) and moderate (N=19) COVID-19 cases were collected at the earliest possible time-point after hospitalization for assays measuring the concentrations of 48 cytokines and chemokines, and healthy subjects (N=8) were involved as control. Values were graphed on a logarithmic scale and presented in units of pg/mL. P values between 0.01-0.05, 0.001-0.01 and 0.0001-0.001 were considered statistically significant (*), very significant (**) and extremely significant (***), respectively, whereas ns represents not significant. Figure S1"
+            },
+            {
+                "id": "2",
+                "caption": "IP-10, MCP-3 and IL-1ra expression levels were highly correlated with 352 PaO2/FiO2 and Murray Score. The expression levels of IP-10, MCP-3 and IL-1ra 353 measured from plasma samples collected upon admission and thereafter and the 354 corresponding PaO2/FiO2 and Murray Score at the same day were analyzed using 355 spearman rank correlation analysis. The r values and p values were shown"
+            },
+            {
+                "id": "3",
+                "caption": "The ROC curve of plasma cytokine levels for patients with mild and 358 severe SARS-CoV-2-infections. The receiver operating characteristic (ROC) curve 359 was calculated using SPSS. The area under the curve (AUC) of ROC for IP-10, 360 MCP-3 and IL-1ra wad estimated using the expression levels upon admission. The P 361 values of all AUC for the three cytokines were less than 0.05"
+            },
+            {
+                "id": "4",
+                "caption": "Dynamic changes of IP-10, MCP-10 and IL-1ra in 14 severe cases of 364 COVID-19 with different outcome and progression. The expression levels 365 measured at the indicated time-points of 14 severe cases were shown. The fatal cases 366 were marked in red. Cases in critical condition were marked in blue, and the others 367 were cases with moderate disease or discharged at present"
+            },
+            {
+                "id": "S1",
+                "caption": "Comparison of the significantly elevated cytokines measured at different days post illness onset between severe and moderate COVID-19 cases. The expression levels of 14 significantly elevated cytokines measured at different days post illness onset were shown and compared between the severe and moderate COVID-19 cases. P values between 0.01-0.05, 0.001-0.01 and 0.0001-0.001 were considered statistically significant (*), very significant (**) and extremely significant (***), respectively, whereas ns represents not significant"
+            },
+            {
+                "id": "S2",
+                "caption": "Correlations between viral load and the cytokines of IP-10, MCP-3 378 and IL-1ra, as well as PaO2/FiO2 and Murray Score. The correlations between 379 viral load and the cytokines of IP-10, MCP-3 and IL-1ra, as well as PaO2/FiO2 and 380 Murray Score were analyzed using spearman rank correlation analysis. The r values 381 and p values were shown.The viral loads were indicated as Ct values, and lower Ct 382 values represented high viral load. Table 1. Laboratory results of COVID-19 patients in this study"
+            }
+        ],
+        "tables_url": "https://scholarcy.nyc3.digitaloceanspaces.com/tables/docker-test/2020.03.02.20029975v1.xlsx",
+        "figure_urls": []
+    },
+    "sections": {
+        "methods": [
+            "Patient information and data collection<br/><br/>Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health<br/><br/>Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection.<br/><br/>Healthy controls (N=8) were also included. Clinical information and laboratory result were collected at the earliest time-point after hospitalization. The study protocol was approved by the Ethics Committees of Shenzhen Third People\u2019s Hospital (SZTHEC2016001). Informed consents were obtained from all patients or patients family members. The study was conducted in accordance with the International<br/><br/>Conference on Harmonisation Guidelines for Good Clinical Practice and the<br/><br/>Declaration of Helsinki and institutional ethics guidelines.<br/><br/>Quantitative reverse-transcriptase polymerase chain reaction (qRT-PCR)<br/><br/>qRT-PCR were done as previously reported sputum and BALF specimens were collected from laboratory-confirmed COVID-19 cases upon admission and thereafter. Viral RNAs were extracted from clinical specimens using the QIAamp RNA Viral Kit (Qiagen, Heiden, Germany). A China<br/><br/>Food and Drug Administration (CDFA) approved commercially kit (GeneoDX Co., Shanghai, China) were used for the detection of SARS-CoV-2 specific RNAs.<br/><br/>Samples with a cycle threshold (Ct) value \u2264 37.0 were considered putatively positive.<br/><br/>Samples whose Ct was higher than 37 were re-tested and considered positive if Ct was \u226537 but \u2264 40 and negative if viral RNAs were undetectable on the second test.<br/><br/>Disease severity classification<br/><br/>. In brief, throat swabs, nasal swabs, Disease severity classification and Murray Score calculation were evaluated as previously reported<br/><br/>China National Health Commission Guidelines for Diagnosis and Treatment of<br/><br/>SARS-CoV-2 infection. Laboratory confirmed patients with fever, respiratory manifestations and radiological findings indicative of pneumonia were considered moderate cases (COVID-19-M). Laboratory confirmed patients who met any of the following were considered to have severe COVID-19 (COVID-19-S): 1) respiratory distraction (respiration rate\u226530/min; 2) resting oxygen saturation\u226493%, or 3) arterial oxygen partial pressure (PaO2) / fraction of inspired oxygen (FiO2) \u2264300 mmHg (1<br/><br/>mmHg = 0.133 kPa). Laboratory confirmed patients who had any of the following were considered in critical condition: 1) respiratory failure requiring mechanical ventilation, 2) shock, or 3) failure of other organs requiring intensive care unit (ICU).<br/><br/>Quantification of hypoxia and Murray Score<br/><br/>The partial pressure of oxygen (PaO2) in arterial blood taken from the patients at various time-points after hospitalization is measured by the ABL90 blood gas analyzer (Radiometer). The fraction of inspired oxygen (FiO2) is calculated by the following formula: FiO2 = (21 + oxygen flow (in units of l/min) \u00d7 4) /100. The<br/><br/>PaO2/FiO2 ratio (in units of mmHg) is calculated by dividing the PaO2 value with the<br/><br/>FiO2 value. A PaO2/FiO2 ratio less than or equal to 100 mmHg is considered one of the criteria for severe acute respiratory distress syndrome (ARDS). Murray Score were calculated as reported 39.<br/><br/>Cytokine and chemokine measurements<br/><br/>The plasma of patients with laboratory-confirmed COVID-19 cases (N=53) were<br/><br/>. Severity of 2019-nCoV infection was graded according to collected at the earliest possible time-point after hospitalization and thereafter. The plasma of healthy subjects (N=8) were included as the negative control group. The concentrations of 48 cytokines and chemokines were measured using Bio-Plex Pro<br/><br/>Human Cytokine Screening Panel (Bio-Rad) as previously reported 15,26.<br/><br/>Statistical analysis<br/><br/>Fisher exact test was used to compare the indicated rates between the moderate and severe cases. Mann-Whitney U test was used to compare plasma cytokine levels between two groups. The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level of plasma cytokine and PaO2/FiO2 ratio, Murray score as well as viral loads of COVID-19 cases. The area under the receiver operating characteristic (ROC) curve (AUC) of plasma cytokine levels was estimated for the moderate and severe cases. All statistical tests were calculated using<br/><br/>SPSS 20.0 for Windows (IBM, Chicago, USA). P value less than 0.05 was considered statistically significant."
+        ],
+        "acknowledgement": [
+            "This work was supported by the National Natural Science Foundation of China (Grant<br/><br/>81802004) and the National Science and Technology Major Project (Grants<br/><br/>2018ZX10711001, 2017ZX10204401 and 2017ZX10103011), Shenzhen Science and<br/><br/>Technology Research and Development Project (Grants JCYJ20180228162201541, 202002073000001) Sanming Project of Medicine in Shenzhen (SZSM201412003, SZSM201512005).<br/><br/>Author contributions<br/><br/>Y. Liu, L. Liu, Z. Zhang and Y. Yang conceived and guided the project. Y. Yang, C.<br/><br/>Shen, M. Yang carried out the experiments and analyzed the data. J. Li, J. Yuan, F.<br/><br/>Wang, Z. Wang, M. Cao, W. Wu, R. Zou, Y. Li, L. Xing, L. Peng, J. Wei, H. Zheng, Z.<br/><br/>Xu, and H. Wang collected clinical samples and the data. Y. Yang wrote the manuscript. All the authors have read and approved the manuscript."
+        ],
+        "disclosures": [
+            "The authors declare no competing interests"
+        ],
+        "funding": [
+            "This work was supported by the National Natural Science Foundation of China (Grant 81802004) and the National Science and Technology Major Project (Grants 2018ZX10711001, 2017ZX10204401 and 2017ZX10103011), Shenzhen Science and Technology Research and Development Project (Grants JCYJ20180228162201541, 202002073000001) Sanming Project of Medicine in Shenzhen (SZSM201412003, SZSM201512005). Author contributions Y"
+        ],
+        "ethical_compliance": [
+            "The study protocol was approved by the Ethics Committees of Shenzhen Third People\u2019s Hospital (SZTHEC2016001)"
+        ],
+        "supplementary_references": {
+            "supplementary_data_references": [],
+            "supplementary_figure_references": [
+                "Table S1",
+                "Figure S2",
+                "Figure S1"
+            ]
+        },
+        "introduction": [
+            "The outbreak of Coronavirus Disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, December",
+            "2019, and continuously poses a serious threat to public health. Our previous study has shown that cytokine storm occurred during SARS-CoV-2 infection, while the detailed role of cytokines in the disease severity and progression remained unclear due to the limited case number. In this study, we examined 48 cytokines in the plasma samples from 53 COVID-19 cases, among whom 34 were severe cases, and the others moderate. Results showed that 14 cytokines were significantly elevated upon admission in COVID-19 cases. Moreover, IP-10, MCP-3, and IL-1ra were significantly higher in severe cases, and highly associated with the PaO2/FaO2 and",
+            "Murray score. Furthermore, the three cytokines were independent predictors for the progression of COVID-19, and the combination of IP-10, MCP-3 and IL-1ra showed the biggest area under the curve (AUC) of the receiver-operating characteristics (ROC)",
+            "calculations. Serial detection of IP-10, MCP-3 and IL-1ra in 14 severe cases showed that the continuous high levels of these cytokines were associated with disease deterioration and fatal outcome. In conclusion, we report biomarkers that closely associated with disease severity and outcome of COVID-19. These findings add to our understanding of the immunopathologic mechanisms of SARS-CoV-2 infection, providing novel therapeutic targets and strategy.",
+            "Coronaviruses are the largest known viruses with a single positive- sense genome of about 31Kb which could infect a wide range of different species, and mainly infect respiratory and intestinal tract causing a wide range of symptoms 1. Six members of coronaviruses that have been found to infect human beings, including HCoV-229E, HCoVOC43, HCoV-NL63, and HCoV-HKU1, Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) and Middle East Respiratory Syndrome coronavirus (MERS-CoV)",
+            "Furthermore, another 53 countries have also reported COVID-19 cases, posing a serious threat of public health 6. Studies have revealed that penumonia is the most common complications following SARS-CoV-2 infection, and followed by acute respiratory distress syndrome (ARDS) 7,8. Inflammation is the body\u2019s first coordinated line of defense against tissue damage caused by either injury or infection, involving activating both the innate and adaptive immune responses 9. However, exuberant immune responses following infection have been described as a cytokine storm, associated with excessive levels of proinflammatory cytokines and widespread tissue damage including ARDS 10.",
+            "ARDS 2. Preliminary studies have shown that SARS-CoV-2 infection triggers cytokine storm, and results in the increase of a variety of cytokine/chemokine",
+            "However, the detailed role of cytokines in diseases severity and progression remains unknown. In this study, we recruited 53 COVID-19 cases with 34 severe cases and 19",
+            ", and contributes to acute lung injury and development of moderate cases defined according to China National Health Commission Guidelines for Diagnosis and Treatment of SARS-CoV-2 infection, and analyzed the plasma cytokine/chemokine profile in detail. Most of the severe cases (73.5%) were \u2265 60 years-old, while the moderate cases were mainly in the group of 16-59 years-old (63.2%) (Table S1). The initial symptoms, co-existing chronic medical conditions, intervals of illness onset to admission and antiviral treatment were similar between the two groups. Complications occurred more frequently in the severe cases, including ARDS, respiratory failure, hepatic and renal insufficiency (Table S1). A complete blood count with differential was assessed for each patient either on the date of hospital admission, or at the earliest time-point and thereafter (Table 1). The percentage of lymphocyte (LYM) and neutrophil (NEU) as well as the CD4 and CD8 counts were significantly lower in the severe cases, indicating a possible dysfunction of immune responses.",
+            "Then the expression profile of cytokines/chemokines of COVID-19 cases upon admission was analyzed. Elevated concentrations of both pro- and anti-inflammatory cytokines were observed in these cases including IFN-\u03b3 (interferon, IFN), IL-1ra (interleukin, IL), IL-2ra, IL-6, IL-10, IL-18, HGF (hepatocyte growth factor), MCP-3",
+            "CTACK (cutaneous T-cell-attracting chemokine) induced protein 10), when compared with healthy control, indicating that cytokine storm occurred following SARS-CoV-2 infection (Figure 1) as previously reported 3,25.",
+            "Similar phenomenon was also observed in SARS-CoV infected patients , despite that the expression profiles were virus specific. Meanwhile,",
+            "(interferon gamma and MERS-CoV we compared the plasma cytokine/chemokine levels collected from severe and moderate cases at different days after illness onset (d.a.o). The results showed that most of the cytokines were comparable between the two groups and maintained high level even at the later stage of the disease (\u2265 15 d.a.o). However, IP-10, MCP-3, IL-1ra and MIG were significantly higher in samples from severe cases in all the three groups of sample collection time, even though statistical significance was not observed in IL-1ra and MIG. Notably, IP-10 in the severe cases possessed a high and similar expression level at all groups of sample collection time. On the contrary, IP-10 in moderate cases was significantly lower and further decreased a lot at \u2265 15 d.a.o.",
+            "Moreover, comparison of these fourteen cytokines between the severe and moderate cases showed significantly higher levels of IP-10, MCP-3 and IL-1ra in the severe cases (Figure 1). Spearman rank coefficient correlation analysis showed that IP-10, MCP-3 and IL-1ra expression levels were highly correlated with PaO2/FaO2 and",
+            "Murray scores. Interestingly, the viral load (displayed as Ct values) showed obvious correlation with only IP-10, while not MCP-3 and IL-1ra, as well as the PaO2/FaO2 and Murray scores (Figure S2). Our previous study has found that the viral shedding in COVID-19 cases is complicated and the viral loads obtained from the regularly used upper respiratory specimens might not consistent with the real case, especially for the severe cases 27. Meanwhile, the main distribution of viruses in the severe and moderate cases were also different, which might influence the induction of cytokines as well. Indeed, studies have found that high viral loads in some types of viral infections correlated with severe diseases results suggested that the production of specific cytokines while not the viral burden might play central in the pathogenesis COVID-19.",
+            "We further analyzed whether these cytokines could be used as predictors for the disease severity and progression of COVID-19. Firstly, we calculated the receiver operating characteristic (ROC) of each single cytokine using the expression levels upon admission. Results showed that the area under the curve (AUC) of the ROC was",
+            "0.915, 0.765 and 0.792 for IP-10, MCP-3 and IL-1ra, respectively (Figure 3). Then we tested the different combination of these cytokines for the prediction of disease progression. Combinations of the three cytokines showed the highest AUC of 0.943, followed by the combination of IP-10 and MCP-3 (0.927) as well as the combination of IP-10 and IL-1ra (0.923) (Figure 3). Furthermore, we analyzed the serial change of the three cytokines in 14 severe cases. In the two fatal cases (cases 1 and 2), the expression levels were significantly high upon admission and maintained high levels during the disease progression. Meanwhile, five cases (cases 7~9, 11 and 13) with continuously high levels of these cytokines, especially IP-10 and MCP-3, were still in critical condition. On the contrary, cases 3~6, 10, 12 and 14 with lower levels or significantly improvement of the disease, and became moderate cases (cases 4, 10, 12 and 14) or discharged from hospital (cases 3, 5, 6 and 10). These results indicated that these three cytokines could be considered as biomarkers to predict disease progression and outcome of SARS-CoV-2 infections.",
+            "Cytokine storm with uncontrolled proinflammatory responses induce significant immunopathology and severe disease outcomes during some viral infections, indicating an important role in the pathogenesis of these viruses only the pathogens but also the pathogen induced cytokine storm should be considered during the treatment. Therapy strategy with a combination of antimicrobial and immunotherapy may produce a more favorable outcome 9. Corticosteroids which could downregulate proinflammatory cytokine transcription and subsequently inhibit",
+            ". Accordingly, not the cytokine storm 33, and the antiviral cytokine interferon-\u03b1 were widely used during the treatment of COVID-19 shown to be associated with an increase in mortality and significantly longer durations of viral shedding in H7N9 infected patients results of our study suggested a crucial role of IP-10 in the pathogenesis of",
+            "IP-10 (CXCL10)-CXCR3 signaling appears to be a critical factor for the exacerbation of the pathology of ARDS might be a promising therapeutic strategy in the treatment of the acute phase of ARDS to ameliorates acute lung injury as shown in H1N1 mouse model 37,38.",
+            "In summary, we compared the differences of cytokines profiles between severe and moderate COVID-19 cases, and found that IP-10, MCP-3 and IL-1ra were significantly associated with disease severity and progression of COVID-19. Our results added to our understanding of the immunopathologic mechanisms of",
+            "SARS-CoV-2 infection, and suggest a novel therapeutic strategy using modulators or antibodies against theses cytokines, especially IP-10."
+        ]
+    },
+    "structured_content": {
+        "METHODS": [
+            "Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health",
+            "Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection.",
+            "Healthy controls (N=8) were also included. Clinical information and laboratory result were collected at the earliest time-point after hospitalization. The study protocol was approved by the Ethics Committees of Shenzhen Third People\u2019s Hospital (SZTHEC2016001). Informed consents were obtained from all patients or patients family members. The study was conducted in accordance with the International",
+            "Declaration of Helsinki and institutional ethics guidelines.",
+            "qRT-PCR were done as previously reported sputum and BALF specimens were collected from laboratory-confirmed COVID-19 cases upon admission and thereafter. Viral RNAs were extracted from clinical specimens using the QIAamp RNA Viral Kit (Qiagen, Heiden, Germany). A China",
+            "Food and Drug Administration (CDFA) approved commercially kit (GeneoDX Co., Shanghai, China) were used for the detection of SARS-CoV-2 specific RNAs.",
+            "Samples with a cycle threshold (Ct) value \u2264 37.0 were considered putatively positive.",
+            "Samples whose Ct was higher than 37 were re-tested and considered positive if Ct was \u226537 but \u2264 40 and negative if viral RNAs were undetectable on the second test.",
+            ". In brief, throat swabs, nasal swabs, Disease severity classification and Murray Score calculation were evaluated as previously reported",
+            "SARS-CoV-2 infection. Laboratory confirmed patients with fever, respiratory manifestations and radiological findings indicative of pneumonia were considered moderate cases (COVID-19-M). Laboratory confirmed patients who met any of the following were considered to have severe COVID-19 (COVID-19-S): 1) respiratory distraction (respiration rate\u226530/min; 2) resting oxygen saturation\u226493%, or 3) arterial oxygen partial pressure (PaO2) / fraction of inspired oxygen (FiO2) \u2264300 mmHg (1",
+            "mmHg = 0.133 kPa). Laboratory confirmed patients who had any of the following were considered in critical condition: 1) respiratory failure requiring mechanical ventilation, 2) shock, or 3) failure of other organs requiring intensive care unit (ICU).",
+            "The partial pressure of oxygen (PaO2) in arterial blood taken from the patients at various time-points after hospitalization is measured by the ABL90 blood gas analyzer (Radiometer). The fraction of inspired oxygen (FiO2) is calculated by the following formula: FiO2 = (21 + oxygen flow (in units of l/min) \u00d7 4) /100. The",
+            "PaO2/FiO2 ratio (in units of mmHg) is calculated by dividing the PaO2 value with the",
+            "FiO2 value. A PaO2/FiO2 ratio less than or equal to 100 mmHg is considered one of the criteria for severe acute respiratory distress syndrome (ARDS). Murray Score were calculated as reported 39.",
+            ". Severity of 2019-nCoV infection was graded according to collected at the earliest possible time-point after hospitalization and thereafter. The plasma of healthy subjects (N=8) were included as the negative control group. The concentrations of 48 cytokines and chemokines were measured using Bio-Plex Pro",
+            "Human Cytokine Screening Panel (Bio-Rad) as previously reported 15,26.",
+            "Fisher exact test was used to compare the indicated rates between the moderate and severe cases. Mann-Whitney U test was used to compare plasma cytokine levels between two groups. The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level of plasma cytokine and PaO2/FiO2 ratio, Murray score as well as viral loads of COVID-19 cases. The area under the receiver operating characteristic (ROC) curve (AUC) of plasma cytokine levels was estimated for the moderate and severe cases. All statistical tests were calculated using",
+            "SPSS 20.0 for Windows (IBM, Chicago, USA). P value less than 0.05 was considered statistically significant."
+        ],
+        "References": [
+            "Coronaviruses. Trends Microbiol 24, 490-502, doi:10.1016/j.tim.2016.03.003",
+            "(2016).",
+            "Su, S. et al Epidemiology, Genetic Recombination, and Pathogenesis of",
+            "Channappanavar, R. & Perlman, S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin",
+            "Immunopathol 39, 529-539, doi:10.1007/s00281-017-0629-x (2017).",
+            "Zhu, N. et al A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, doi:10.1056/NEJMoa2001017 (2020).",
+            "Wenjie, T. et al A Novel Coronavirus Genome Identified in a Cluster of",
+            "Pneumonia Cases \u2014 Wuhan, China 2019\u22122020. China CDC Weekly 2, 61-62",
+            "(2020).",
+            "China, N. H. C. o. t. P. s. R. o. Daily briefing on novel coronavirus cases in",
+            "China, <http://en.nhc.gov.cn/2020-02/05/c_76219.htm> (2020).",
+            "WHO.",
+            "Novel",
+            "Coronavirus (COVID-19)",
+            "situation,",
+            "<https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125 cd> (2020).",
+            "Wang, D. et al Clinical Characteristics of 138 Hospitalized Patients With",
+            "Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama, doi:10.1001/jama.2020.1585 (2020).",
+            "Guan, W. J. et al Clinical Characteristics of Coronavirus Disease 2019 in",
+            "China. N Engl J Med, doi:10.1056/NEJMoa2002032 (2020).",
+            "D'Elia, R. V., Harrison, K., Oyston, P. C., Lukaszewski, R. A. & Clark, G. C.",
+            "Targeting the \"cytokine storm\" for therapeutic benefit. Clin Vaccine Immunol",
+            "20, 319-327, doi:10.1128/cvi.00636-12 (2013).",
+            "Ben Salem, C. Acute Respiratory Distress Syndrome. N Engl J Med 377, 1904, doi:10.1056/NEJMc1711824 (2017).",
+            "Zeng, H. et al A(H7N9) virus results in early induction of proinflammatory cytokine responses in both human lung epithelial and endothelial cells and shows increased human adaptation compared with avian H5N1 virus. J Virol",
+            "89, 4655-4667, doi:10.1128/jvi.03095-14 (2015).",
+            "H7N9-Infected Patients can Predict Fatal Outcomes. Sci Rep 5, 10942, doi:10.1038/srep10942 (2015).",
+            "Zhou, J. et al Biological features of novel avian influenza A (H7N9) virus.",
+            "Nature 499, 500-503, doi:10.1038/nature12379 (2013).",
+            "Yang, Y. et al Comparison between human infections caused by highly and low pathogenic H7N9 avian influenza viruses in Wave Five: Clinical and virological findings. J Infect 78, 241-248, doi:10.1016/j.jinf.2019.01.005",
+            "(2019).",
+            "Bi, Y. et al Clinical and immunological characteristics of human infections with H5N6 avian influenza virus. Clin Infect Dis, doi:10.1093/cid/ciy681",
+            "(2018).",
+            "Wang, S. et al Influenza virus-cytokine-protease cycle in the pathogenesis of vascular hyperpermeability in severe influenza. J Infect Dis 202, 991-1001, doi:10.1086/656044 (2010).",
+            "Jiang, Y. et al Characterization of cytokine/chemokine profiles of severe acute respiratory syndrome. Am J Respir Crit Care Med 171, 850-857, doi:10.1164/rccm.200407-857OC (2005).",
+            "Huang, K. J. et al An interferon-gamma-related cytokine storm in SARS patients. J Med Virol 75, 185-194, doi:10.1002/jmv.20255 (2005).",
+            "Dynamic changes in blood cytokine levels as clinical indicators in severe",
+            "4410-4415, Wong, C. K. et al Plasma inflammatory cytokines and chemokines in severe acute respiratory syndrome. Clin Exp Immunol 136, 95-103, doi:10.1111/j.1365-2249.2004.02415.x (2004).",
+            "72, Zhang, Y. et al Analysis of serum cytokines in patients with severe acute respiratory syndrome.",
+            "Infect",
+            "Immun doi:10.1128/iai.72.8.4410-4415.2004 (2004).",
+            "Guo, J. et al The Serum Profile of Hypercytokinemia Factors Identified in acute respiratory syndrome. Chin Med J (Engl) 116, 1283-1287 (2003).",
+            "Mubarak, A., Alturaiki, W. & Hemida, M. G. Middle East Respiratory",
+            "Syndrome Coronavirus (MERS-CoV): Infection, Immunological Response, and Vaccine Development. J doi:10.1155/2019/6491738 (2019).",
+            "Immunol",
+            "Res",
+            "2019, 6491738, Mahallawi, W. H., Khabour, O. F., Zhang, Q., Makhdoum, H. M. & Suliman, B. A. MERS-CoV infection in humans is associated with a pro-inflammatory",
+            "Th1 and",
+            "Th17 cytokine profile.",
+            "Cytokine",
+            "104, 8-13, doi:10.1016/j.cyto.2018.01.025 (2018).",
+            "Faure, E. et al Distinct immune response in two MERS-CoV-infected patients: can we go from bench to bedside?",
+            "doi:10.1371/journal.pone.0088716 (2014).",
+            "Liu;, Y. et al 2019-novel coronavirus (2019-nCoV) infections trigger an exaggerated cytokine response aggravating lung injury. ChinaXiv (2020).",
+            "Yang, Y. et al Laboratory diagnosis and monitoring the viral shedding of",
+            "2019-nCoV infections. medRxiv (2020).",
+            "Ng, K. T. et al Viral Load and Sequence Analysis Reveal the Symptom",
+            "Severity, Diversity, and Transmission Clusters of Rhinovirus Infections. Clin",
+            "Infect Dis 67, 261-268, doi:10.1093/cid/ciy063 (2018).",
+            "de Jong, M. D. et al Fatal outcome of human influenza A (H5N1) is associated with high viral load and hypercytokinemia. Nat Med 12, 1203-1207, doi:10.1038/nm1477 (2006).",
+            "de La Vega, M. A. et al Ebola viral load at diagnosis associates with patient outcome and outbreak evolution.",
+            "doi:10.1172/jci83162 (2015).",
+            "Invest",
+            "125, 4421-4428, Guo, X. J. & Thomas, P. G. New fronts emerge in the influenza cytokine storm.",
+            "Semin Immunopathol 39, 541-550, doi:10.1007/s00281-017-0636-y (2017).",
+            "Rhen, T. & Cidlowski, J. A. Antiinflammatory action of glucocorticoids--new mechanisms for old drugs. N doi:10.1056/NEJMra050541 (2005).",
+            "Clin",
+            "Garcia-Maurino, C. et al Viral Load Dynamics and Clinical Disease Severity in Infants With Respiratory Syncytial Virus Infection. J Infect Dis 219, 1207-1215, doi:10.1093/infdis/jiy655 (2019).",
+            "J e88716, 9,",
+            "Huang, C. et al Clinical features of patients infected with 2019 novel coronavirus in",
+            "Wuhan, China.",
+            "Lancet",
+            "395, 497-506, doi:10.1016/s0140-6736(20)30183-5 (2020).",
+            "One",
+            "PLoS",
+            "Engl",
+            "Med",
+            "353, 1711-1723, Liu, Y. et al Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury. Sci China Life Sci, doi:10.1007/s11427-020-1643-8 (2020).",
+            "(H7N9)",
+            "Viral",
+            "Pneumonia.",
+            "Crit",
+            "Care doi:10.1097/ccm.0000000000001616 (2016).",
+            "Cao, B. et al Adjuvant Corticosteroid Treatment in Adults With Influenza A",
+            "44, e318-328, Peiris, J. S. et al Re-emergence of fatal human influenza A subtype H5N1 disease. Lancet 363, 617-619, doi:10.1016/s0140-6736(04)15595-5 (2004).",
+            "Ichikawa, A. et al CXCL10-CXCR3 enhances the development of neutrophil-mediated fulminant lung injury of viral and nonviral origin. Am J",
+            "Respir Crit Care Med 187, 65-77, doi:10.1164/rccm.201203-0508OC (2013).",
+            "Wang, W. et al Monoclonal antibody against CXCL-10/IP-10 ameliorates influenza A (H1N1) virus induced acute lung injury. Cell Res 23, 577-580, doi:10.1038/cr.2013.25 (2013).",
+            "Murray, J. F., Matthay, M. A., Luce, J. M. & Flick, M. R. An expanded definition of the adult respiratory distress syndrome. Am Rev Respir Dis 138, 720-723, doi:10.1164/ajrccm/138.3.720 (1988).",
+            ""
+        ],
+        "Acknowledgement": [
+            "This work was supported by the National Natural Science Foundation of China (Grant",
+            "Technology Research and Development Project (Grants JCYJ20180228162201541, 202002073000001) Sanming Project of Medicine in Shenzhen (SZSM201412003, SZSM201512005).",
+            "Y. Liu, L. Liu, Z. Zhang and Y. Yang conceived and guided the project. Y. Yang, C.",
+            "Shen, M. Yang carried out the experiments and analyzed the data. J. Li, J. Yuan, F.",
+            "Wang, Z. Wang, M. Cao, W. Wu, R. Zou, Y. Li, L. Xing, L. Peng, J. Wei, H. Zheng, Z.",
+            "Xu, and H. Wang collected clinical samples and the data. Y. Yang wrote the manuscript. All the authors have read and approved the manuscript."
+        ],
+        "Competing interests": [
+            "The authors declare no competing interests.",
+            "0.01-0.05, 0.001-0.01 and 0.0001-0.001 were considered statistically significant (*), very significant (**) and extremely significant (***), respectively, whereas ns represents not significant.",
+            "PaO2/FiO2 and Murray Score. The expression levels of IP-10, MCP-3 and IL-1ra measured from plasma samples collected upon admission and thereafter and the corresponding PaO2/FiO2 and Murray Score at the same day were analyzed using spearman rank correlation analysis. The r values and p values were shown.",
+            "COVID-19 with different outcome and progression. The expression levels measured at the indicated time-points of 14 severe cases were shown. The fatal cases were marked in red. Cases in critical condition were marked in blue, and the others were cases with moderate disease or discharged at present.",
+            "COVID-19 cases. P values between 0.01-0.05, 0.001-0.01 and 0.0001-0.001 were considered statistically significant (*), very significant (**) and extremely significant (***), respectively, whereas ns represents not significant.",
+            "Murray Score were analyzed using spearman rank correlation analysis. The r values and p values were shown.The viral loads were indicated as Ct values, and lower Ct values represented high viral load."
+        ]
+    },
+    "participants": [
+        {
+            "participant": "patients",
+            "number": 53,
+            "context": "In this study, we examined 48 cytokines in the plasma samples 22 from 53 COVID-19 cases, among whom 34 were severe cases, and the others. <mark class=\"stats\">Patient information and data collection<br/><br/>Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health<br/><br/>Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection.<br/><br/>Healthy controls (N=8) were also included</mark>. Clinical information and laboratory result were collected at the earliest time-point after hospitalization"
+        },
+        {
+            "participant": "patients with laboratory-confirmed COVID-19 cases",
+            "number": 53,
+            "context": "A PaO2/FiO2 ratio less than or equal to 100 mmHg is considered one of the criteria for severe acute respiratory distress syndrome (ARDS). <mark class=\"stats\">Murray Score were calculated as reported 39.<br/><br/>Cytokine and chemokine measurements<br/><br/>The plasma of patients with laboratory-confirmed COVID-19 cases (N=53) were<br/><br/></mark>. Severity of 2019-nCoV infection was graded according to collected at the earliest possible time-point after hospitalization and thereafter"
+        },
+        {
+            "participant": "subjects",
+            "number": 8,
+            "context": "Severity of 2019-nCoV infection was graded according to collected at the earliest possible time-point after hospitalization and thereafter. <mark class=\"stats\">The plasma of healthy subjects (N=8) were included as the negative control group</mark>. The concentrations of 48 cytokines and chemokines were measured using Bio-Plex Pro<br/><br/>Human Cytokine Screening Panel (Bio-Rad) as previously reported 15,26.<br/><br/>Statistical analysis<br/><br/>Fisher exact test was used to compare the indicated rates between the moderate and severe cases"
+        },
+        {
+            "participant": "patients",
+            "number": 53,
+            "context": "All statistical tests were calculated using<br/><br/>SPSS 20.0 for Windows (IBM, Chicago, USA). <mark class=\"stats\">P value less than 0.05 was considered statistically significant.Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health</mark>. Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection"
+        },
+        {
+            "participant": "controls",
+            "number": 8,
+            "context": "Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection. <mark class=\"stats\">Healthy controls (N=8) were also included</mark>. Clinical information and laboratory result were collected at the earliest time-point after hospitalization"
+        },
+        {
+            "participant": "subjects",
+            "number": 8,
+            "context": "Severity of 2019-nCoV infection was graded according to collected at the earliest possible time-point after hospitalization and thereafter. <mark class=\"stats\">The plasma of healthy subjects (N=8) were included as the negative control group</mark>. The concentrations of 48 cytokines and chemokines were measured using Bio-Plex Pro"
+        },
+        {
+            "participant": "severe cases",
+            "number": 14,
+            "context": "calculations. <mark class=\"stats\">Serial detection of IP-10, MCP-3 and IL-1ra in 14 severe cases showed that the continuous high levels of these cytokines were associated with disease deterioration and fatal outcome</mark>. In conclusion, we report biomarkers that closely associated with disease severity and outcome of COVID-19"
+        },
+        {
+            "participant": "members",
+            "number": 6,
+            "context": "Coronaviruses are the largest known viruses with a single positive- sense genome of about 31Kb which could infect a wide range of different species, and mainly infect respiratory and intestinal tract causing a wide range of symptoms 1. <mark class=\"stats\">Six members of coronaviruses that have been found to infect human beings, including HCoV-229E, HCoVOC43, HCoV-NL63, and HCoV-HKU1, Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) and Middle East Respiratory Syndrome coronavirus (MERS-CoV)</mark>. respiratory syndrome coronavirus 2 (SARS-CoV-2) was firstly identified in late"
+        },
+        {
+            "participant": "fatal cases",
+            "number": 2870,
+            "context": "December, 2019, in Wuhan, China. <mark class=\"stats\">Coronavirus Disease 2019 (COVID-19) cases with 2870 fatal cases were reported 5</mark>. Furthermore, another 53 countries have also reported COVID-19 cases, posing a serious threat of public health 6"
+        },
+        {
+            "participant": "severe cases",
+            "number": 34,
+            "context": "However, the detailed role of cytokines in diseases severity and progression remains unknown. <mark class=\"stats\">In this study, we recruited 53 COVID-19 cases with 34 severe cases and 19</mark>. , and contributes to acute lung injury and development of author/funder, who has granted medRxiv a license to display the preprint in perpetuity"
+        },
+        {
+            "participant": "severe cases",
+            "number": 14,
+            "context": "Combinations of the three cytokines showed the highest AUC of 0.943, followed by the combination of IP-10 and MCP-3 (0.927) as well as the combination of IP-10 and IL-1ra (0.923) (Figure 3). <mark class=\"stats\">Furthermore, we analyzed the serial change of the three cytokines in 14 severe cases</mark>. In the two fatal cases (cases 1 and 2), the expression levels were significantly high upon admission and maintained high levels during the disease progression"
+        },
+        {
+            "participant": "fatal cases",
+            "number": 2,
+            "context": "Furthermore, we analyzed the serial change of the three cytokines in 14 severe cases. <mark class=\"stats\">In the two fatal cases (cases 1 and 2), the expression levels were significantly high upon admission and maintained high levels during the disease progression</mark>. Meanwhile, five cases (cases 7~9, 11 and 13) with continuously high levels of these cytokines, especially IP-10 and MCP-3, were still in critical condition"
+        },
+        {
+            "participant": "cases",
+            "number": 5,
+            "context": "In the two fatal cases (cases 1 and 2), the expression levels were significantly high upon admission and maintained high levels during the disease progression. <mark class=\"stats\">Meanwhile, five cases (cases 7~9, 11 and 13) with continuously high levels of these cytokines, especially IP-10 and MCP-3, were still in critical condition</mark>. On the contrary, cases 3~6, 10, 12 and 14 with lower levels or significantly improvement of the disease, and became moderate cases (cases 4, 10, 12 and 14) or discharged from hospital (cases 3, 5, 6 and 10)"
+        },
+        {
+            "participant": "patients",
+            "number": 53,
+            "context": "Patient information and data collection. <mark class=\"stats\">Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health</mark>. Commission Guidelines for Diagnosis and Treatment of 2019-nCoV infection"
+        },
+        {
+            "participant": "patients with laboratory-confirmed COVID-19 cases",
+            "number": 53,
+            "context": "Cytokine and chemokine measurements. <mark class=\"stats\">The plasma of patients with laboratory-confirmed COVID-19 cases (N=53) were</mark>. "
+        },
+        {
+            "participant": "subjects",
+            "number": 8,
+            "context": "collected at the earliest possible time-point after hospitalization and thereafter. <mark class=\"stats\">The plasma of healthy subjects (N=8) were included as the negative control group</mark>. The concentrations of 48 cytokines and chemokines were measured using Bio-Plex Pro"
+        }
+    ],
+    "statistics": [
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The concentrations of 48 cytokines and chemokines were measured using Bio-Plex Pro<br/><br/>Human Cytokine Screening Panel (Bio-Rad) as previously reported 15,26.<br/><br/>Statistical analysis<br/><br/>Fisher exact test was used to compare the indicated rates between the moderate and severe cases</mark>",
+                "tests": [
+                    {
+                        "test": "Fisher exact test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Mann-Whitney U test was used to compare plasma cytokine levels between two groups</mark>",
+                "tests": [
+                    {
+                        "test": "Mann-Whitney U test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level of plasma cytokine and PaO2/FiO2 ratio, Murray score as well as viral loads of COVID-19 cases</mark>",
+                "tests": [
+                    {
+                        "test": "Spearman rank correlation coefficient"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Fisher exact test was used to compare the indicated rates between the moderate and severe cases</mark>",
+                "tests": [
+                    {
+                        "test": "Fisher exact test"
+                    }
+                ]
+            }
+        },
+        {
+            "tests": {
+                "context": "<mark class=\"stats\">Spearman rank coefficient correlation analysis showed that IP-10, MCP-3 and IL-1ra expression levels were highly correlated with PaO2/FaO2 and</mark>",
+                "tests": [
+                    {
+                        "test": "Spearman rank coefficient correlation"
+                    }
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "il 1ra",
+        "Quantitative reverse-transcriptase polymerase chain reaction",
+        "receiver operating characteristic",
+        "IP-10",
+        "H7N9",
+        "cytokine storm",
+        "MERS",
+        "COVID-19",
+        "high level",
+        "murray score",
+        "detailed role",
+        "cycle threshold",
+        "moderate case",
+        "area under the curve",
+        "pathogenesis",
+        "severe acute respiratory syndrome coronavirus",
+        "Coronavirus disease",
+        "severe case",
+        "public health",
+        "coronavirus",
+        "pneumonia",
+        "acute respiratory distress syndrome",
+        "disease severity",
+        "H5N1",
+        "SARS",
+        "MCP-3",
+        "immune response",
+        "sars cov"
+    ],
+    "keyword_relevance": {
+        "COVID-19": 0.1382488479262673,
+        "IP-10": 0.12442396313364056,
+        "SARS": 0.08755760368663594,
+        "MCP-3": 0.08294930875576037,
+        "severe case": 0.07834101382488479,
+        "receiver operating characteristic": 0.04608294930875576,
+        "cytokine storm": 0.04608294930875576,
+        "acute respiratory distress syndrome": 0.04608294930875576,
+        "area under the curve": 0.041474654377880185,
+        "coronavirus": 0.041474654377880185,
+        "moderate case": 0.03686635944700461,
+        "cycle threshold": 0.03225806451612903,
+        "H7N9": 0.027649769585253458,
+        "MERS": 0.027649769585253458,
+        "disease severity": 0.027649769585253458,
+        "high level": 0.018433179723502304,
+        "pathogenesis": 0.018433179723502304,
+        "H5N1": 0.018433179723502304,
+        "immune response": 0.018433179723502304,
+        "Quantitative reverse-transcriptase polymerase chain reaction": 0.013824884792626729,
+        "detailed role": 0.009216589861751152,
+        "public health": 0.009216589861751152,
+        "severe acute respiratory syndrome coronavirus": 0.004608294930875576,
+        "pneumonia": 0.004608294930875576,
+        "il 1ra": 0.0,
+        "murray score": 0.0,
+        "Coronavirus disease": 0.0,
+        "sars cov": 0.0
+    },
+    "species": [],
+    "summary": [
+        "The outbreak of Coronavirus Disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, December.",
+        "The authors' previous study has shown that cytokine storm occurred during SARS-CoV-2 infection, while the detailed role of cytokines in the disease severity and progression remained unclear due to the limited case number.",
+        "Results showed that 14 cytokines were significantly elevated upon admission in COVID-19 cases.",
+        "Serial detection of IP-10, MCP-3 and IL-1ra in 14 severe cases showed that the continuous high levels of these cytokines were associated with disease deterioration and fatal outcome.",
+        "Moderate cases defined according to China National Health Commission Guidelines for Diagnosis and Treatment of SARS-CoV-2 infection, and analyzed the plasma cytokine/chemokine profile in detail.",
+        "CTACK induced protein 10), when compared with healthy control, indicating that cytokine storm occurred following SARS-CoV-2 infection (Figure 1) as previously reported 3,25.",
+        "The authors compared the plasma cytokine/chemokine levels collected from severe and moderate cases at different days after illness onset (d.a.o).",
+        "Studies have found that high viral loads in some types of viral infections correlated with severe diseases results suggested that the production of specific cytokines while not the viral burden might play central in the pathogenesis COVID-19.",
+        "These results indicated that these three cytokines could be considered as biomarkers to predict disease progression and outcome of SARS-CoV-2 infections.",
+        "Cytokine storm with uncontrolled proinflammatory responses induce significant immunopathology and severe disease outcomes during some viral infections, indicating an important role in the pathogenesis of these viruses only the pathogens but the pathogen induced cytokine storm should be considered during the treatment.",
+        "The cytokine storm 33, and the antiviral cytokine interferon-\u03b1 were widely used during the treatment of COVID-19 shown to be associated with an increase in mortality and significantly longer durations of viral shedding in H7N9 infected patients results of the study suggested a crucial role of IP-10 in the pathogenesis of",
+        "The authors compared the differences of cytokines profiles between severe and moderate COVID-19 cases, and found that IP-10, MCP-3 and IL-1ra were significantly associated with disease severity and progression of COVID-19.",
+        "Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health",
+        "The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level of plasma cytokine and PaO2/FiO2 ratio, Murray score as well as viral loads of COVID-19 cases.",
+        "The area under the receiver operating characteristic (ROC) curve (AUC) of plasma cytokine levels was estimated for the moderate and severe cases."
+    ],
+    "structured_summary": {
+        "Introduction": [
+            "The outbreak of Coronavirus Disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, December.",
+            "The authors' previous study has shown that cytokine storm occurred during SARS-CoV-2 infection, while the detailed role of cytokines in the disease severity and progression remained unclear due to the limited case number.",
+            "Results showed that 14 cytokines were significantly elevated upon admission in COVID-19 cases."
+        ],
+        "Results": [
+            "Serial detection of IP-10, MCP-3 and IL-1ra in 14 severe cases showed that the continuous high levels of these cytokines were associated with disease deterioration and fatal outcome.",
+            "Moderate cases defined according to China National Health Commission Guidelines for Diagnosis and Treatment of SARS-CoV-2 infection, and analyzed the plasma cytokine/chemokine profile in detail.",
+            "CTACK induced protein 10), when compared with healthy control, indicating that cytokine storm occurred following SARS-CoV-2 infection (Figure 1) as previously reported 3,25.",
+            "The authors compared the plasma cytokine/chemokine levels collected from severe and moderate cases at different days after illness onset (d.a.o).",
+            "Studies have found that high viral loads in some types of viral infections correlated with severe diseases results suggested that the production of specific cytokines while not the viral burden might play central in the pathogenesis COVID-19.",
+            "These results indicated that these three cytokines could be considered as biomarkers to predict disease progression and outcome of SARS-CoV-2 infections.",
+            "Cytokine storm with uncontrolled proinflammatory responses induce significant immunopathology and severe disease outcomes during some viral infections, indicating an important role in the pathogenesis of these viruses only the pathogens but the pathogen induced cytokine storm should be considered during the treatment.",
+            "The cytokine storm 33, and the antiviral cytokine interferon-\u03b1 were widely used during the treatment of COVID-19 shown to be associated with an increase in mortality and significantly longer durations of viral shedding in H7N9 infected patients results of the study suggested a crucial role of IP-10 in the pathogenesis of",
+            "The authors compared the differences of cytokines profiles between severe and moderate COVID-19 cases, and found that IP-10, MCP-3 and IL-1ra were significantly associated with disease severity and progression of COVID-19."
+        ],
+        "Conclusion": [
+            "Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health",
+            "The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level of plasma cytokine and PaO2/FiO2 ratio, Murray score as well as viral loads of COVID-19 cases.",
+            "The area under the receiver operating characteristic (ROC) curve (AUC) of plasma cytokine levels was estimated for the moderate and severe cases."
+        ]
+    },
+    "reference_links": [
+        {
+            "id": "Su_2016_a",
+            "alt_id": "1",
+            "entry": "Su, S. et al. Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses. Trends Microbiol 24, 490-502, doi:10.1016/j.tim.2016.03.003 (2016).",
+            "crossref": "https://dx.doi.org/10.1016/j.tim.2016.03.003",
+            "scite": "https://scite.ai/reports/10.1016/j.tim.2016.03.003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.tim.2016.03.003"
+        },
+        {
+            "id": "Channappanavar_2017_a",
+            "alt_id": "2",
+            "entry": "Channappanavar, R. & Perlman, S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol 39, 529-539, doi:10.1007/s00281-017-0629-x (2017).",
+            "crossref": "https://dx.doi.org/10.1007/s00281-017-0629-x",
+            "scite": "https://scite.ai/reports/10.1007/s00281-017-0629-x",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1007/s00281-017-0629-x"
+        },
+        {
+            "id": "Zhu_2019_a",
+            "alt_id": "3",
+            "entry": "Zhu, N. et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, doi:10.1056/NEJMoa2001017 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2001017",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2001017",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2001017"
+        },
+        {
+            "id": "Wenjie_2020_a",
+            "alt_id": "4",
+            "entry": "Wenjie, T. et al. A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases \u2014 Wuhan, China 2019\u22122020. China CDC Weekly 2, 61-62 (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Wenjie%20T%20et%20al%20A%20Novel%20Coronavirus%20Genome%20Identified%20in%20a%20Cluster%20of%20Pneumonia%20Cases%20%20Wuhan%20China%2020192020%20China%20CDC%20Weekly%202%206162%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Wenjie%20T%20et%20al%20A%20Novel%20Coronavirus%20Genome%20Identified%20in%20a%20Cluster%20of%20Pneumonia%20Cases%20%20Wuhan%20China%2020192020%20China%20CDC%20Weekly%202%206162%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Wenjie%20T%20et%20al%20A%20Novel%20Coronavirus%20Genome%20Identified%20in%20a%20Cluster%20of%20Pneumonia%20Cases%20%20Wuhan%20China%2020192020%20China%20CDC%20Weekly%202%206162%202020"
+        },
+        {
+            "id": "China_2020_a",
+            "alt_id": "5",
+            "entry": "China, N. H. C. o. t. P. s. R. o. Daily briefing on novel coronavirus cases in China, <http://en.nhc.gov.cn/2020-02/05/c_76219.htm> (2020).",
+            "url": "http://en.nhc.gov.cn/2020-02/05/c_76219.htm>"
+        },
+        {
+            "id": "<https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125_2020_a",
+            "alt_id": "6",
+            "entry": "<https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125 cd> (2020).",
+            "url": "https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125"
+        },
+        {
+            "id": "Wang_2019_a",
+            "alt_id": "7",
+            "entry": "Wang, D. et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama, doi:10.1001/jama.2020.1585 (2020).",
+            "crossref": "https://dx.doi.org/10.1001/jama.2020.1585",
+            "scite": "https://scite.ai/reports/10.1001/jama.2020.1585",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1001/jama.2020.1585"
+        },
+        {
+            "id": "Guan_2019_a",
+            "alt_id": "8",
+            "entry": "Guan, W. J. et al. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med, doi:10.1056/NEJMoa2002032 (2020).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMoa2002032",
+            "scite": "https://scite.ai/reports/10.1056/NEJMoa2002032",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMoa2002032"
+        },
+        {
+            "id": "D'Elia_et+al_2013_a",
+            "alt_id": "9",
+            "entry": "D'Elia, R. V., Harrison, K., Oyston, P. C., Lukaszewski, R. A. & Clark, G. C. Targeting the \"cytokine storm\" for therapeutic benefit. Clin Vaccine Immunol 20, 319-327, doi:10.1128/cvi.00636-12 (2013).",
+            "crossref": "https://dx.doi.org/10.1128/cvi.00636-12",
+            "scite": "https://scite.ai/reports/10.1128/cvi.00636-12",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/cvi.00636-12"
+        },
+        {
+            "id": "238",
+            "alt_id": "Ben_2017_a",
+            "entry": "238 10 Ben Salem, C. Acute Respiratory Distress Syndrome. N Engl J Med 377, 1904, doi:10.1056/NEJMc1711824 (2017).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMc1711824",
+            "scite": "https://scite.ai/reports/10.1056/NEJMc1711824",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMc1711824"
+        },
+        {
+            "id": "Zeng_2015_a",
+            "alt_id": "11",
+            "entry": "Zeng, H. et al. A(H7N9) virus results in early induction of proinflammatory cytokine responses in both human lung epithelial and endothelial cells and shows increased human adaptation compared with avian H5N1 virus. J Virol 89, 4655-4667, doi:10.1128/jvi.03095-14 (2015).",
+            "crossref": "https://dx.doi.org/10.1128/jvi.03095-14",
+            "scite": "https://scite.ai/reports/10.1128/jvi.03095-14",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/jvi.03095-14"
+        },
+        {
+            "id": "Guo_2015_a",
+            "alt_id": "12",
+            "entry": "Guo, J. et al. The Serum Profile of Hypercytokinemia Factors Identified in H7N9-Infected Patients can Predict Fatal Outcomes. Sci Rep 5, 10942, doi:10.1038/srep10942 (2015).",
+            "crossref": "https://dx.doi.org/10.1038/srep10942",
+            "scite": "https://scite.ai/reports/10.1038/srep10942",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/srep10942"
+        },
+        {
+            "id": "Zhou_2013_a",
+            "alt_id": "13",
+            "entry": "Zhou, J. et al. Biological features of novel avian influenza A (H7N9) virus. Nature 499, 500-503, doi:10.1038/nature12379 (2013).",
+            "crossref": "https://dx.doi.org/10.1038/nature12379",
+            "scite": "https://scite.ai/reports/10.1038/nature12379",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nature12379"
+        },
+        {
+            "id": "Yang_2019_a",
+            "alt_id": "14",
+            "entry": "Yang, Y. et al. Comparison between human infections caused by highly and low pathogenic H7N9 avian influenza viruses in Wave Five: Clinical and virological findings. J Infect 78, 241-248, doi:10.1016/j.jinf.2019.01.005 (2019).",
+            "crossref": "https://dx.doi.org/10.1016/j.jinf.2019.01.005",
+            "scite": "https://scite.ai/reports/10.1016/j.jinf.2019.01.005",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.jinf.2019.01.005"
+        },
+        {
+            "id": "Bi_2018_a",
+            "alt_id": "15",
+            "entry": "Bi, Y. et al. Clinical and immunological characteristics of human infections with H5N6 avian influenza virus. Clin Infect Dis, doi:10.1093/cid/ciy681 (2018).",
+            "crossref": "https://dx.doi.org/10.1093/cid/ciy681",
+            "scite": "https://scite.ai/reports/10.1093/cid/ciy681"
+        },
+        {
+            "id": "Wang_2010_a",
+            "alt_id": "16",
+            "entry": "Wang, S. et al. Influenza virus-cytokine-protease cycle in the pathogenesis of vascular hyperpermeability in severe influenza. J Infect Dis 202, 991-1001, doi:10.1086/656044 (2010).",
+            "crossref": "https://dx.doi.org/10.1086/656044",
+            "scite": "https://scite.ai/reports/10.1086/656044",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1086/656044"
+        },
+        {
+            "id": "Jiang_2005_a",
+            "alt_id": "17",
+            "entry": "Jiang, Y. et al. Characterization of cytokine/chemokine profiles of severe acute respiratory syndrome. Am J Respir Crit Care Med 171, 850-857, doi:10.1164/rccm.200407-857OC (2005).",
+            "crossref": "https://dx.doi.org/10.1164/rccm.200407-857OC",
+            "scite": "https://scite.ai/reports/10.1164/rccm.200407-857OC",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1164/rccm.200407-857OC"
+        },
+        {
+            "id": "Huang_2005_a",
+            "alt_id": "18",
+            "entry": "Huang, K. J. et al. An interferon-gamma-related cytokine storm in SARS patients. J Med Virol 75, 185-194, doi:10.1002/jmv.20255 (2005).",
+            "crossref": "https://dx.doi.org/10.1002/jmv.20255",
+            "scite": "https://scite.ai/reports/10.1002/jmv.20255",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1002/jmv.20255"
+        },
+        {
+            "id": "Zhang_2004_a",
+            "alt_id": "19",
+            "entry": "Zhang, Y. et al. Analysis of serum cytokines in patients with severe acute respiratory syndrome. Infect Immun 72, 4410-4415, doi:10.1128/iai.72.8.4410-4415.2004 (2004).",
+            "crossref": "https://dx.doi.org/10.1128/iai.72.8.4410-4415.2004",
+            "scite": "https://scite.ai/reports/10.1128/iai.72.8.4410-4415.2004",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1128/iai.72.8.4410-4415.2004"
+        },
+        {
+            "id": "Wong_2004_a",
+            "alt_id": "20",
+            "entry": "Wong, C. K. et al. Plasma inflammatory cytokines and chemokines in severe acute respiratory syndrome. Clin Exp Immunol 136, 95-103, doi:10.1111/j.1365-2249.2004.02415.x (2004).",
+            "crossref": "https://dx.doi.org/10.1111/j.1365-2249.2004.02415.x",
+            "scite": "https://scite.ai/reports/10.1111/j.1365-2249.2004.02415.x",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1111/j.1365-2249.2004.02415.x"
+        },
+        {
+            "id": "Dynamic_2003_a",
+            "alt_id": "21",
+            "entry": "Dynamic changes in blood cytokine levels as clinical indicators in severe acute respiratory syndrome. Chin Med J (Engl) 116, 1283-1287 (2003).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Dynamic%20changes%20in%20blood%20cytokine%20levels%20as%20clinical%20indicators%20in%20severe%20acute%20respiratory%20syndrome%20Chin%20Med%20J%20Engl%20116%2012831287%202003",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Dynamic%20changes%20in%20blood%20cytokine%20levels%20as%20clinical%20indicators%20in%20severe%20acute%20respiratory%20syndrome%20Chin%20Med%20J%20Engl%20116%2012831287%202003",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Dynamic%20changes%20in%20blood%20cytokine%20levels%20as%20clinical%20indicators%20in%20severe%20acute%20respiratory%20syndrome%20Chin%20Med%20J%20Engl%20116%2012831287%202003"
+        },
+        {
+            "id": "Mubarak_et+al_2019_a",
+            "alt_id": "22",
+            "entry": "Mubarak, A., Alturaiki, W. & Hemida, M. G. Middle East Respiratory Syndrome Coronavirus (MERS-CoV): Infection, Immunological Response, and Vaccine Development. J Immunol Res 2019, 6491738, doi:10.1155/2019/6491738 (2019).",
+            "crossref": "https://dx.doi.org/10.1155/2019/6491738",
+            "scite": "https://scite.ai/reports/10.1155/2019/6491738",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1155/2019/6491738"
+        },
+        {
+            "id": "Mahallawi_et+al_2018_a",
+            "alt_id": "23",
+            "entry": "Mahallawi, W. H., Khabour, O. F., Zhang, Q., Makhdoum, H. M. & Suliman, B. A. MERS-CoV infection in humans is associated with a pro-inflammatory Th1 and Th17 cytokine profile. Cytokine 104, 8-13, doi:10.1016/j.cyto.2018.01.025 (2018).",
+            "crossref": "https://dx.doi.org/10.1016/j.cyto.2018.01.025",
+            "scite": "https://scite.ai/reports/10.1016/j.cyto.2018.01.025",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/j.cyto.2018.01.025"
+        },
+        {
+            "id": "Faure_2014_a",
+            "alt_id": "24",
+            "entry": "Faure, E. et al. Distinct immune response in two MERS-CoV-infected patients: can we go from bench to bedside? PLoS One 9, e88716, doi:10.1371/journal.pone.0088716 (2014).",
+            "crossref": "https://dx.doi.org/10.1371/journal.pone.0088716",
+            "scite": "https://scite.ai/reports/10.1371/journal.pone.0088716",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1371/journal.pone.0088716"
+        },
+        {
+            "id": "Huang_2019_a",
+            "alt_id": "25",
+            "entry": "Huang, C. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 395, 497-506, doi:10.1016/s0140-6736(20)30183-5 (2020).",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(20)30183-5",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(20)30183-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/s0140-6736%2820%2930183-5"
+        },
+        {
+            "id": "Liu_2019_a",
+            "alt_id": "26",
+            "entry": "Liu;, Y. et al. 2019-novel coronavirus (2019-nCoV) infections trigger an exaggerated cytokine response aggravating lung injury. ChinaXiv (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Liu%20Y.%20infections%20trigger%20an%20exaggerated%20cytokine%20response%20aggravating%20lung%20injury.%20ChinaXiv%202019-11"
+        },
+        {
+            "id": "Yang_2020_a",
+            "alt_id": "27",
+            "entry": "Yang, Y. et al. Laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections. medRxiv (2020).",
+            "scholar_url": "https://scholar.google.co.uk/scholar?q=Yang%20Y%20et%20al%20Laboratory%20diagnosis%20and%20monitoring%20the%20viral%20shedding%20of%202019nCoV%20infections%20medRxiv%202020",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=Yang%20Y%20et%20al%20Laboratory%20diagnosis%20and%20monitoring%20the%20viral%20shedding%20of%202019nCoV%20infections%20medRxiv%202020",
+            "scite": "https://sandbox-api.scholarcy.com/scite_url?query=Yang%20Y%20et%20al%20Laboratory%20diagnosis%20and%20monitoring%20the%20viral%20shedding%20of%202019nCoV%20infections%20medRxiv%202020"
+        },
+        {
+            "id": "Ng_2018_a",
+            "alt_id": "28",
+            "entry": "Ng, K. T. et al. Viral Load and Sequence Analysis Reveal the Symptom Severity, Diversity, and Transmission Clusters of Rhinovirus Infections. Clin Infect Dis 67, 261-268, doi:10.1093/cid/ciy063 (2018).",
+            "crossref": "https://dx.doi.org/10.1093/cid/ciy063",
+            "scite": "https://scite.ai/reports/10.1093/cid/ciy063",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/cid/ciy063"
+        },
+        {
+            "id": "294",
+            "alt_id": "de_Jong_2006_a",
+            "entry": "294 295 de Jong, M. D. et al. Fatal outcome of human influenza A (H5N1) is associated with high viral load and hypercytokinemia. Nat Med 12, 1203-1207, doi:10.1038/nm1477 (2006).",
+            "crossref": "https://dx.doi.org/10.1038/nm1477",
+            "scite": "https://scite.ai/reports/10.1038/nm1477",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/nm1477"
+        },
+        {
+            "id": "297",
+            "alt_id": "de_la_Vega_2015_a",
+            "entry": "297 298 de La Vega, M. A. et al. Ebola viral load at diagnosis associates with patient outcome and outbreak evolution. J Clin Invest 125, 4421-4428, doi:10.1172/jci83162 (2015).",
+            "crossref": "https://dx.doi.org/10.1172/jci83162",
+            "scite": "https://scite.ai/reports/10.1172/jci83162",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1172/jci83162"
+        },
+        {
+            "id": "Garcia-Maurino_2019_a",
+            "alt_id": "31",
+            "entry": "Garcia-Maurino, C. et al. Viral Load Dynamics and Clinical Disease Severity in Infants With Respiratory Syncytial Virus Infection. J Infect Dis 219, 1207-1215, doi:10.1093/infdis/jiy655 (2019).",
+            "crossref": "https://dx.doi.org/10.1093/infdis/jiy655",
+            "scite": "https://scite.ai/reports/10.1093/infdis/jiy655",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1093/infdis/jiy655"
+        },
+        {
+            "id": "Semin_2017_a",
+            "alt_id": "32",
+            "entry": "Semin Immunopathol 39, 541-550, doi:10.1007/s00281-017-0636-y (2017).",
+            "crossref": "https://dx.doi.org/10.1007/s00281-017-0636-y",
+            "scite": "https://scite.ai/reports/10.1007/s00281-017-0636-y"
+        },
+        {
+            "id": "Rhen_2005_a",
+            "alt_id": "33",
+            "entry": "Rhen, T. & Cidlowski, J. A. Antiinflammatory action of glucocorticoids--new mechanisms for old drugs. N Engl J Med 353, 1711-1723, doi:10.1056/NEJMra050541 (2005).",
+            "crossref": "https://dx.doi.org/10.1056/NEJMra050541",
+            "scite": "https://scite.ai/reports/10.1056/NEJMra050541",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1056/NEJMra050541"
+        },
+        {
+            "id": "307",
+            "alt_id": "Liu_2020_a",
+            "entry": "307 34 Liu, Y. et al. Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury. Sci China Life Sci, doi:10.1007/s11427-020-1643-8 (2020).",
+            "crossref": "https://dx.doi.org/10.1007/s11427-020-1643-8",
+            "scite": "https://scite.ai/reports/10.1007/s11427-020-1643-8",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1007/s11427-020-1643-8"
+        },
+        {
+            "id": "Cao_2016_a",
+            "alt_id": "35",
+            "entry": "Cao, B. et al. Adjuvant Corticosteroid Treatment in Adults With Influenza A (H7N9) Viral Pneumonia. Crit Care Med 44, e318-328, doi:10.1097/ccm.0000000000001616 (2016).",
+            "crossref": "https://dx.doi.org/10.1097/ccm.0000000000001616",
+            "scite": "https://scite.ai/reports/10.1097/ccm.0000000000001616",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1097/ccm.0000000000001616"
+        },
+        {
+            "id": "Peiris_2004_a",
+            "alt_id": "36",
+            "entry": "Peiris, J. S. et al. Re-emergence of fatal human influenza A subtype H5N1 disease. Lancet 363, 617-619, doi:10.1016/s0140-6736(04)15595-5 (2004).",
+            "crossref": "https://dx.doi.org/10.1016/s0140-6736(04)15595-5",
+            "scite": "https://scite.ai/reports/10.1016/s0140-6736(04)15595-5",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1016/s0140-6736%2804%2915595-5"
+        },
+        {
+            "id": "Ichikawa_2013_a",
+            "alt_id": "37",
+            "entry": "Ichikawa, A. et al. CXCL10-CXCR3 enhances the development of neutrophil-mediated fulminant lung injury of viral and nonviral origin. Am J Respir Crit Care Med 187, 65-77, doi:10.1164/rccm.201203-0508OC (2013).",
+            "crossref": "https://dx.doi.org/10.1164/rccm.201203-0508OC",
+            "scite": "https://scite.ai/reports/10.1164/rccm.201203-0508OC",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1164/rccm.201203-0508OC"
+        },
+        {
+            "id": "Wang_2013_a",
+            "alt_id": "38",
+            "entry": "Wang, W. et al. Monoclonal antibody against CXCL-10/IP-10 ameliorates influenza A (H1N1) virus induced acute lung injury. Cell Res 23, 577-580, doi:10.1038/cr.2013.25 (2013).",
+            "crossref": "https://dx.doi.org/10.1038/cr.2013.25",
+            "scite": "https://scite.ai/reports/10.1038/cr.2013.25",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1038/cr.2013.25"
+        },
+        {
+            "id": "Murray_et+al_1988_a",
+            "alt_id": "39",
+            "entry": "Murray, J. F., Matthay, M. A., Luce, J. M. & Flick, M. R. An expanded definition of the adult respiratory distress syndrome. Am Rev Respir Dis 138, 720-723, doi:10.1164/ajrccm/138.3.720 (1988).",
+            "crossref": "https://dx.doi.org/10.1164/ajrccm/138.3.720",
+            "scite": "https://scite.ai/reports/10.1164/ajrccm/138.3.720",
+            "oa_query": "https://sandbox-api.scholarcy.com/oa_version?query=https%3A//dx.doi.org/10.1164/ajrccm/138.3.720"
+        }
+    ],
+    "facts": [
+        "The outbreak of Coronavirus Disease 2019 caused by the severe acute respiratory syndrome coronavirus 2 emerged in",
+        "that cytokine storm occurred during SARS-CoV-2 infection",
+        "the others moderate. Results showed that 14 cytokines were significantly elevated upon admission",
+        "MCP-3 and IL-1ra showed the biggest area under the curve of the receiver-operating characteristics",
+        "in 14 severe cases showed that the continuous high levels of these cytokines were associated with disease deterioration",
+        "report biomarkers that closely associated with disease severity and outcome of COVID-19",
+        "These findings add to our understanding of the immunopathologic mechanisms",
+        "which could infect a wide range of different species",
+        "intestinal tract causing a wide range of symptoms 1",
+        "Studies have revealed that penumonia is the",
+        "coordinated line of defense against tissue damage caused by either injury or infection",
+        "exuberant immune responses following infection have been described as a cytokine storm",
+        "Preliminary studies have shown that SARS-CoV-2 infection triggers cytokine storm",
+        "to acute lung injury and development of moderate cases defined according to China National Health Commission Guidelines for Diagnosis",
+        "antiviral treatment were similar between the two groups",
+        "A complete blood count with differential was assessed for each patient",
+        "CD8 counts were significantly lower in the severe cases",
+        "Elevated concentrations of both pro- and anti-inflammatory cytokines were observed in these cases including IFN-\u03b3",
+        "Similar phenomenon was observed in SARS-CoV infected patients",
+        "most of the cytokines were comparable between the two groups",
+        "MIG were significantly higher in samples from severe cases",
+        "even though statistical significance was not observed in IL-1ra",
+        "IL-1ra expression levels were highly correlated with PaO2/FaO2",
+        "Our previous study has found that the viral shedding in COVID-19 cases is complicated",
+        "regularly used upper respiratory specimens might not consistent with the real case",
+        "which might influence the induction of cytokines",
+        "whether these cytokines could be used as predictors for the disease severity and progression",
+        "Results showed that the area under the curve",
+        "the expression levels were significantly high upon admission",
+        "These results indicated that these three cytokines could be considered as biomarkers to predict disease progression",
+        "the pathogen induced cytokine storm should be considered during the treatment",
+        "the antiviral cytokine interferon-\u03b1 were widely used during the treatment of COVID-19 shown to be associated with an increase",
+        "Our results added to our understanding of the immunopathologic mechanisms",
+        "Subjects presented in this study were hospitalized",
+        "among whom 34 were defined as severe cases according to",
+        "Clinical information and laboratory result were collected at the earliest time-point after hospitalization",
+        "The study protocol was approved by the Ethics Committees of Shenzhen Third People's Hospital",
+        "Informed consents were obtained from all patients or patients family members",
+        "The study was conducted in accordance with the International",
+        "qRT-PCR were done as previously reported sputum",
+        "BALF specimens were collected from laboratory-confirmed COVID-19 cases upon admission",
+        "Viral RNAs were extracted from clinical specimens using the",
+        "commercially kit were used for the detection of SARS-CoV-2 specific RNAs",
+        "negative if viral RNAs were undetectable on the second test",
+        "The partial pressure of oxygen in arterial blood taken from the patients at various time-points",
+        "after hospitalization is measured by the ABL90 blood gas analyzer",
+        "The fraction of inspired oxygen is calculated by the following formula",
+        "Severity of 2019-nCoV infection was graded according to collected at the earliest possible time-point after hospitalization",
+        "The plasma of healthy subjects were included as the negative control group",
+        "The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level",
+        "Results showed that 14 cytokines were significantly elevated upon admission",
+        "Moderate cases defined according to China National Health Commission Guidelines for Diagnosis"
+    ],
+    "claims": [
+        "In this study, we examined 48 cytokines in the plasma samples 22 from 53 COVID-19 cases, among whom 34 were severe cases, and the others",
+        "In this study, we examined 48 cytokines in the plasma samples from 53 COVID-19 cases, among whom 34 were severe cases, and the others medRxiv preprint doi: https://doi.org/10.1101/2020.03.02.20029975",
+        "We report biomarkers that closely associated with disease severity and outcome of COVID-19"
+    ],
+    "findings": [],
+    "processes": [],
+    "key_statements": [
+        "Our previous study has shown that cytokine storm occurred during SARS-CoV-2 infection, while the detailed role of cytokines in the disease severity and progression remained unclear due to the limited case number",
+        "Serial detection of IP-10, MCP-3 and IL-1ra in 14 severe cases showed that the continuous high levels of these cytokines were associated with disease deterioration and fatal outcome",
+        "We report biomarkers that closely associated with disease severity and outcome of COVID-19",
+        "Coronaviruses are the largest known viruses with a single positive- sense genome of about 31Kb which could infect a wide range of different species, and mainly infect respiratory and intestinal tract causing a wide range of symptoms 1",
+        "Studies have revealed that penumonia is the most common complications following SARS-CoV-2 infection, and followed by acute respiratory distress syndrome (ARDS) 7,8",
+        "Exuberant immune responses following infection have been described as a cytokine storm, associated with excessive levels of proinflammatory cytokines and widespread tissue damage including acute respiratory distress syndrome 10",
+        "Preliminary studies have shown that SARS-CoV-2 infection triggers cytokine storm, and results in the increase of a variety of cytokine/chemokine",
+        "The percentage of lymphocyte (LYM) and neutrophil (NEU) as well as the CD4 and CD8 counts were significantly lower in the severe cases, indicating a possible dysfunction of immune responses",
+        "IP-10, MCP-3, IL-1ra and MIG were significantly higher in samples from severe cases in all the three groups of sample collection time, even though statistical significance was not observed in IL-1ra and MIG",
+        "Spearman rank coefficient correlation analysis showed that IP-10, MCP-3 and IL-1ra expression levels were highly correlated with PaO2/FaO2 and",
+        "Our previous study has found that the viral shedding in COVID-19 cases is complicated and the viral loads obtained from the regularly used upper respiratory specimens might not consistent with the real case, especially for the severe cases 27",
+        "Results showed that the area under the curve (AUC) of the receiver operating characteristic was",
+        "Cytokine storm with uncontrolled proinflammatory responses induce significant immunopathology and severe disease outcomes during some viral infections, indicating an important role in the pathogenesis of these viruses only the pathogens but the pathogen induced cytokine storm should be considered during the treatment",
+        "The cytokine storm 33, and the antiviral cytokine interferon-\u03b1 were widely used during the treatment of COVID-19 shown to be associated with an increase in mortality and significantly longer durations of viral shedding in H7N9 infected patients results of our study suggested a crucial role of IP-10 in the pathogenesis of",
+        "Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health",
+        "QRT-PCR were done as previously reported sputum and BALF specimens were collected from laboratory-confirmed COVID-19 cases upon admission and thereafter",
+        "The Spearman rank correlation coefficient was used for linear correlation analysis between the expression level of plasma cytokine and PaO2/FiO2 ratio, Murray score as well as viral loads of COVID-19 cases"
+    ],
+    "top_statements": [
+        "The outbreak of Coronavirus Disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, December",
+        "Coronaviruses are the largest known viruses with a single positive- sense genome of about 31Kb which could infect a wide range of different species, and mainly infect respiratory and intestinal tract causing a wide range of symptoms 1",
+        "IP-10, MCP-3, IL-1ra and MIG were significantly higher in samples from severe cases in all the three groups of sample collection time, even though statistical significance was not observed in IL-1ra and MIG",
+        "Our previous study has found that the viral shedding in COVID-19 cases is complicated and the viral loads obtained from the regularly used upper respiratory specimens might not consistent with the real case, especially for the severe cases 27",
+        "The cytokine storm 33, and the antiviral cytokine interferon-\u03b1 were widely used during the treatment of COVID-19 shown to be associated with an increase in mortality and significantly longer durations of viral shedding in H7N9 infected patients results of our study suggested a crucial role of IP-10 in the pathogenesis of",
+        "Subjects presented in this study were hospitalized COVID-19 patients (N=53), among whom 34 were defined as severe cases according to China National Health"
+    ],
+    "headline": "IP-10, MCP-3, IL-1ra and MIG were significantly higher in samples from severe cases in all the three groups of sample collection time, even though statistical significance was not observed in IL-1ra and MIG",
+    "contexts": [],
+    "abbreviations": {
+        "AUC": "area under the curve",
+        "ROC": "receiver operating characteristic",
+        "ARDS": "acute respiratory distress syndrome",
+        "qRT-PCR": "Quantitative reverse-transcriptase polymerase chain reaction",
+        "Ct": "cycle threshold"
+    }
+}
